@@ -1,17 +1,21 @@
 # hcOS Getting Started project
 
-## Documents demo
+## [Getting Started Demo](./GettingStartedDemo.cs)
+
+> dotnet run
+
+## [Documents demo](./documents/DocumentsDemo.cs)
 
 > dotnet run documents_demo
 
-## Documents Ingestion demo
+## [Documents Ingestion demo](./documents/DocumentsIngestionDemo.cs)
 
 > dotnet run documents_ingestion_demo
 
-## Searching demo
+## [Searching demo](./searching/SearchingDemo.cs)
 
 > dotnet run searching_demo
 
-## Searching + Documents demo
+## [Searching + Documents demo](./searching/SearchingDocumentsDemo.cs)
 
 > dotnet run searching_documents_demo
