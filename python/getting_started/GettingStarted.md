@@ -17,14 +17,14 @@ The hcOS Search APIs are extremely powerful and support a wide variety [search u
 
 ## Load hcOS API configurations
 
-The hcOS Search and Document APIs are secured behind a cryptography standard known as [HMAC](https://en.wikipedia.org/wiki/HMAC). We're also adding support for [Oauth2 Client Credentials](https://www.oauth.com/oauth2-servers/access-tokens/client-credentials/) , but this guide will focus exclusively on signing requests with HMAC. *Note: You wil need to obtain configuration information for your specific application and tenant*
+The hcOS Search and Document APIs are secured behind a cryptography standard known as [HMAC](https://en.wikipedia.org/wiki/HMAC). We're also adding support for [Oauth2 Client Credentials](https://www.oauth.com/oauth2-servers/access-tokens/client-credentials/) , but this guide will focus exclusively on signing requests with HMAC. *Note: You will need to obtain configuration information for your specific application and tenant*
 
 In order to access hcOS APIs your application needs 2 critical pieces of information:
 
 1. Application Credentials
-2. Tenant Credentals
+2. Tenant Credentials
 
-**Applicaiton Credentials** identify your application uniquely across all members of an hcOS tenant. Whereas **Tenant Credentials** limit the scope of your application access to a specific dataset within hcOS. The hcOS platform is a [multitenant cloud](https://searchcloudcomputing.techtarget.com/definition/multi-tenant-cloud) platform. Tenancy is usually determined by a business associates agreement between the data owner (e.g. provider or payor organization) and the data consumer (e.g. the applications running on the tenant).
+**Application Credentials** identify your application uniquely across all members of an hcOS tenant. Whereas **Tenant Credentials** limit the scope of your application access to a specific dataset within hcOS. The hcOS platform is a [multitenant cloud](https://searchcloudcomputing.techtarget.com/definition/multi-tenant-cloud) platform. Tenancy is usually determined by a business associates agreement between the data owner (e.g. provider or payor organization) and the data consumer (e.g. the applications running on the tenant).
 
 The way in which you sign hcOS API requests between the hcOS Search and hcOS Document APIs is slightly different with the main difference being the hcOS Document API uses an additional ```tenantSecret``` parameter. Both configurations and signing methods will be explained and fully functional sample code for signing API requests exist in this repository. The configuration files for [hcOS Search API](#hcOSSearchAPIConfiguration) and the [hcOS Document API](#hcOSDocumentAPIConfiguration) are shown next.
 
@@ -59,7 +59,7 @@ In general, your application pseudo will look something like:
 # load api configuration
 # create hcOS API https request
 # issue hcOS API request
-# process hcOA API results
+# process hcOS API results
 ```
 
 ### Loading hcOS Configurations
@@ -75,7 +75,7 @@ with open('../../configurations/Configuration.Documents.json') as f:
     document_config = json.load(f)
 ```
 
-Once loaded, we perform some decoding of the configuration elements because the *secrets* are stored as **Strings** in the json file, but the HMAC algorith requires **utf-8** encoded byte arrays.
+Once loaded, we perform some decoding of the configuration elements because the *secrets* are stored as **Strings** in the json file, but the HMAC algorithm requires **utf-8** encoded byte arrays.
 
 For the hcOS Search API we convert the ```appSecret``` String object to a **utf-8** byte array using the builtin ```bytes``` method.
 
@@ -100,7 +100,7 @@ document_tenant_secret = base64.b64decode(document_config['tenantSecret'])
 
 ### Create hcOS API requests
 
-hcOS APIs are web services which can be consumed using any standard http library. Just like any http request you'll need to setup the http headers, url parameters, and message body acordingly.
+hcOS APIs are web services which can be consumed using any standard http library. Just like any http request you'll need to setup the http headers, url parameters, and message body accordingly.
 
 Every request begins with a url which we'll call a ```resource``` the resource is a url that provides a specific set of functionality. We'll interact with two resources in this demo.
 
@@ -118,13 +118,13 @@ The document resource we'll use is:
 document_resource = f'{document_config["baseUrl"]}/api/v1/patient_document/{document_root}/{document_extension}'
 ```
 
-where the ```baseUrl``` epresents the hcOS environment you're using (PRD or STG) and the pair```document_root/document_extension``` represent a unique identifier to retrieve a single document.
+where the ```baseUrl``` represents the hcOS environment you're using (PRD or STG) and the pair```document_root/document_extension``` represent a unique identifier to retrieve a single document.
 
 #### Create, Sign and Issue hcOS API Requests
 
 Now that we have the resources for the APIs we're going to consume established, we'll build the https request, sign the request with the appropriate HMAC algorithm, and issue the request.
 
-Since we're issuing a search with complex critiera, the hcOS Search API is a http POST request requiring both request headers and a request body. The request headers specify that the POST body will contain json data representing the hcOS Search criteria.
+Since we're issuing a search with complex criteria, the hcOS Search API is a http POST request requiring both request headers and a request body. The request headers specify that the POST body will contain json data representing the hcOS Search criteria.
 
 ```python
 # create search http request headers
