@@ -9,7 +9,7 @@ from documents import Authenticator as DocumentAuthenticator
 def demo():
     print('Getting Started demo begins...')
 
-    # load search configuration information
+    # load hcOS Search API configuration
     with open('../../configurations/Configuration.Searching.json') as f:
         search_config = json.load(f)
 
@@ -18,7 +18,7 @@ def demo():
     search_tenant_id = search_config['tenantId']
     search_resource = f'{search_config["baseUrl"]}/api/v1/{search_tenant_id}/document/search'
 
-    # Load document configuration information
+    # load hcOS document API configuration
     with open('../../configurations/Configuration.Documents.json') as f:
         document_config = json.load(f)
 
