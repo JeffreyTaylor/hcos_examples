@@ -1,0 +1,361 @@
+Admission Date:  2013-01-20 00:00:00              Discharge Date:   2013-01-20 00:00:00
+
+Date of Birth: 1986-01-20 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Ercia Perasso
+Chief Complaint:
+Acute Renal Failure
+
+Major Surgical or Invasive Procedure:
+HD line placement
+
+History of Present Illness:
+59 y/o M w/ h/o hepatitis C, HTN, CKD with baseline Cr of 2.0.
+Patient had been having 2 weeks of fatigue, fever, chills,
+dysuria with watery stools and decreased PO intake. Had been
+essentially bed bound. By Sunday was able to get out of bed and
+on Tuesday visited his PCP who found to have Cr of 20 and BUN of
+120. Was brought in for repeat labs which confirmed initial
+findings and then referred to ED for evaluation.
+.
+In the ED, initial vs were: T98.8 P83 BP 161/102 R 18 O2 sat 93%
+RA. SBP of 220/125 at maximum during ED stay. Exam notable for
+diminished breath sounds. LUQ TTP on exam. Asterixis and coarse
+tremor on exam. CXR - LLL infiltrate with mild to moderate
+congestion. Treated with lasix as per Renal with 250cc urine
+output. Azithromycin/CTX for pneumonia. Renal planned to
+continue diuresis and consider HD. Vitals on transfer HR 84, BP
+180/100, RR 21, O295% 2L.
+.
+On arrival patient was c/o mild LUQ pain that had been present
+for some time.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+
+
+Past Medical History:
+-Hep A/B
+-Hep C
+-HTN
+-CKD w/ baseline Cr 2.0
+-Asthma
+-s/p CVA
+-OSA
+-h/o Etoh abuse off for 6-7 years.
+
+
+Social History:
+h/o etoh abuse, has been clean for 6-7 years.
+
+Family History:
+non-contributory
+
+Physical Exam:
+Vitals: T:98.1 BP:138/88 P:94 R:18 O2:94% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: tunneled Right dialysis line, mildly tender
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+2013-01-20 00:00:00 11:30AM   UREA N-119* CREAT-20.2* SODIUM-149*
+POTASSIUM-5.1 CHLORIDE-103 TOTAL CO2-22 ANION GAP-29*
+2013-01-20 00:00:00 12:15PM   NEUTS-55.2 LYMPHS-36.1 MONOS-3.9 EOS-4.2*
+BASOS-0.6
+2013-01-20 00:00:00 12:15PM   WBC-8.6 RBC-4.08* HGB-9.9* HCT-30.7*# MCV-75*
+MCH-24.2* MCHC-32.2 RDW-14.5
+2013-01-20 00:00:00 12:15PM   RHEU FACT-9
+2013-01-20 00:00:00 12:15PM   PTH-844*
+2013-01-20 00:00:00 12:15PM   CK-MB-10 MB INDX-0.8
+2013-01-20 00:00:00 12:15PM   cTropnT-0.10*
+2013-01-20 00:00:00 12:15PM   ALT(SGPT)-28 AST(SGOT)-32 CK(CPK)-1245* ALK
+PHOS-126* TOT BILI-0.1
+2013-01-20 00:00:00 12:39PM   LACTATE-1.4
+2013-01-20 00:00:00 12:50PM URINE  RBC-21-50* WBC-2013-01-20 00:00:00 BACTERIA-FEW
+YEAST-NONE EPI-0
+2013-01-20 00:00:00 12:50PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-500
+GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+2013-01-20 00:00:00 12:50PM URINE  COLOR-Yellow APPEAR-Clear SP Zabel-1.022
+2013-01-20 00:00:00 01:40PM URINE  OSMOLAL-348
+2013-01-20 00:00:00 08:00PM   CK(CPK)-1057* AMYLASE-160*
+
+2013-01-20 00:00:00 06:35AM BLOOD WBC-9.7 RBC-3.64* Hgb-8.9* Hct-28.3*
+MCV-78* MCH-24.6* MCHC-31.6 RDW-14.8 Plt Ct-329
+2013-01-20 00:00:00 06:35AM BLOOD PT-14.0* PTT-29.3 INR(PT)-1.2*
+2013-01-20 00:00:00 06:35AM BLOOD Glucose-93 UreaN-58* Creat-13.9*# Na-135
+K-4.8 Cl-97 HCO3-25 AnGap-18
+2013-01-20 00:00:00 12:15PM BLOOD ALT-28 AST-32 CK(CPK)-1245* AlkPhos-126*
+TotBili-0.1
+2013-01-20 00:00:00 08:00PM BLOOD CK(CPK)-1057* Amylase-160*
+2013-01-20 00:00:00 04:16AM BLOOD CK(CPK)-972*
+2013-01-20 00:00:00 06:25AM BLOOD CK(CPK)-601*
+2013-01-20 00:00:00 06:15AM BLOOD CK(CPK)-458*
+2013-01-20 00:00:00 08:00PM BLOOD Lipase-55
+2013-01-20 00:00:00 12:15PM BLOOD CK-MB-10 MB Indx-0.8
+2013-01-20 00:00:00 12:15PM BLOOD cTropnT-0.10*
+2013-01-20 00:00:00 08:00PM BLOOD CK-MB-9 cTropnT-0.10*
+2013-01-20 00:00:00 06:25AM BLOOD CK-MB-5 cTropnT-0.10*
+2013-01-20 00:00:00 06:35AM BLOOD Calcium-8.2* Phos-6.9* Mg-1.9
+2013-01-20 00:00:00 12:25PM BLOOD Cryoglb-NEGATIVE
+2013-01-20 00:00:00 06:30PM BLOOD calTIBC-187* Ferritn-586* TRF-144*
+2013-01-20 00:00:00 12:15PM BLOOD PTH-844*
+2013-01-20 00:00:00 05:40AM BLOOD HBcAb-POSITIVE IgM HBc-NEGATIVE
+2013-01-20 00:00:00 06:30PM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE
+2013-01-20 00:00:00 04:33PM BLOOD Ercia Perasso-NEGATIVE
+2013-01-20 00:00:00 12:15PM BLOOD RheuFac-9
+2013-01-20 00:00:00 05:08PM BLOOD C4-46*
+2013-01-20 00:00:00 12:15PM BLOOD C3-153
+2013-01-20 00:00:00 07:10AM BLOOD HIV Ab-NEGATIVE
+2013-01-20 00:00:00 08:00PM BLOOD ASA-7 Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+2013-01-20 00:00:00 12:39PM BLOOD Lactate-1.4
+2013-01-20 00:00:00 12:50PM URINE Color-Yellow Appear-Clear Sp Zabel-1.022
+2013-01-20 00:00:00 12:50PM URINE Blood-LG Nitrite-NEG Protein-500
+Glucose-100 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+2013-01-20 00:00:00 01:40PM URINE Hours-RANDOM Creat-100 Na-56
+2013-01-20 00:00:00 01:40PM URINE Osmolal-348
+2013-01-20 00:00:00 04:16AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+ASO Screen (Final 2013-01-20 00:00:00):
+      < 200 IU/ml PERFORMED BY LATEX AGGLUTINATION.
+      Reference Range:  < 200 IU/ml (Adults and children > 6
+years old).
+
+                            **FINAL REPORT 2013-01-20 00:00:00**
+HCV VIRAL LOAD (Final 2013-01-20 00:00:00):
+      1,190,000 IU/mL.
+
+                   **FINAL REPORT 2013-01-20 00:00:00**
+HBV Viral Load (Final 2013-01-20 00:00:00):
+      HBV DNA not detected.
+
+Blood Cx: 2013-01-20 00:00:00, 2013-01-20 00:00:00, 2013-01-20 00:00:00, 2013-01-20 00:00:00: no growth
+Urine: 2013-01-20 00:00:00, 2013-01-20 00:00:00, 2013-01-20 00:00:00: no growth
+
+Images:
+CXR:
+CONCLUSION: Overall, findings are suggestive of mild CHF with
+superimposed infection at the left lung base. Please ensure
+followup to clearance.
+
+.
+EKG: NSR at 77 bpm, nml axis, nml intervals, new anterior
+q-waves suggesting prior MI, isolate ST elevation in V2, TWF
+laterally.
+
+2013-01-20 00:00:00 renal u/s:
+IMPRESSION:
+
+1. No evidence of hydronephrosis.
+
+2. Doppler evaluation limited due to patient body habitus. Left
+renal
+artery not evaluated. The abnormal appearance of the right renal
+waveform
+could be due to suboptimal study quality, presence of stenosis
+not excluded.
+
+
+Brief Hospital Course:
+This is a 59 y/o M w/ Hep C, HTN, CKD, a/w HTN emergency and
+Acute on Chronic Renal Failure.
+.
+# Uremia/Acute Renal Failure:
+The patient had been having fatigue, fever, chills, dysuria with
+watery stools and decreased PO intake 2 weeks PTA. He was bed
+bound by his symptoms and began to improve 5 days prior and went
+to his PCP on Tuesday. His symptoms had improved, but labwork
+showed Cr of 20 and BUN of 120. He was brought in for repeat
+labs which confirmed initial findings and then referred to ED
+for evaluation.
+.
+In the ED, initial vs were: T98.8 P83 BP 161/102 R 18 O2 sat 93%
+RA. SBP of 220/125 at maximum during ED stay. A CXR showed LLL
+infiltrate with mild to moderate congestion. The patient was
+started on Azithromycin/CTX for pneumonia. The patient was
+started on a nitro gtt for BP control with SBP 160-180's. The
+patient was evaluated by Renal and underwent dialysis, RIJ was
+placed.  The patient's urine sediment was bland. The patient
+remained stable and underwent his second session of dialysis
+prior to transfer to the floor. His renal U/S showed a right
+kidney of 11.1 cm and the left kidney of 10 cm.  The patient
+underwent CT-guided biopsy on 2013-01-20 00:00:00. The final pathology is still
+pending, but 123 Any St.inary review showed extensive scar and immune
+complex deposition.  The patients labwork was negative for RF,
+Ercia Perasso, ANCA, cryo, C3/C4, ASO.  The patient's Hep C VL was 1.19
+million.  The patient was continued on dialysis and had had a
+tunneled line placed on 2013-01-20 00:00:00. He also underwent vein mapping.
+The patient was setup for outpatient dialysis for MWF. His PPD
+was negative and HepB serologies conisistent with 123 Any St.us
+infection.
+
+# Hypertensive Emergency: The patient's SBP was initially in the
+200's. He was started on a nitro gtt in the ED with SBP
+160-180's and was continued in the MICU.  The patient was also
+restarted on his home amlodipine.  The patient's blood pressure
+regimen was amlodipine 10mg daily, labetolol 200mg TID and
+clonidine 0.1mg TID. Additionally, he had 1" of nitro paste.
+His blood pressures decreased with the regimen and after
+dialysis.  His clonidine and nitro paste were eventually
+discontinued.  His labetolol was also changed to UPMCE dosing
+after his blood pressure ranged 100-120's.  On 2013-01-20 00:00:00 the patient
+was found to be orthostatic with a 20 point drop in his SBP with
+standing.  This was most likely secondary to aggressive volume
+removal at HD. On 2013-01-20 00:00:00 he was given 500cc IVF with improvement
+in his orthostasis. The patient was sent home on amlodipine 10mg
+daily and labetolol 200mg TID.
+.
+# Pulmonary/Asthma/OSA: The patient inially had a 2L O2
+requirement and was weaned to room air after fluid removal at
+HD.  The patient was continued on nebulizers prn  and BiPAP
+overnight.
+.
+# Hepatitis C: The patient has a history of Hep C and was a
+non-responder to therapy. His VL was 1.19million.
+
+# Q-Waves on EKG: His ECG finding were consistent with prior MI.
+He had 3 negative CE and no complaints of chest pain.
+
+# Elevated CK's: This was likely 2013-01-20 00:00:00 to recent viral syndrome.
+His CK were not elevated enough to be the primary etiology for
+renal failure.  His CK trended down thoughout his admission.
+
+
+Medications on Admission:
+trazodone 100mg qhs
+sertraline 100mg q24
+seroquel 200mg qhs
+lisinopril 20mg q24
+gabapentin 300mg
+fluticasone
+buproprion 150mg q24
+amlodipine 5mg q24
+albuterol PRN
+
+
+Discharge Medications:
+1. Trazodone 100 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+2. Sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Quetiapine 200 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO QHS (once a day (at bedtime)).
+
+4. Gabapentin 100 mg Tablet Sig: Two (2) Capsule PO QHD (each
+hemodialysis).
+5. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation UPMCE (2 times a day).
+6. Bupropion 150 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release PO QAM (once a day (in the morning)).
+7. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation
+every 4-6 hours.
+Disp:*1 inhaler* Refills:*2*
+9. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*180 Capsule(s)* Refills:*2*
+10. Labetalol 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+11. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+12. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q6H (every 6 hours) as needed for 4 days.
+Disp:*16 Tablet(s)* Refills:*0*
+13. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID
+w/meals.
+Disp:*90 Tablet(s)* Refills:*2*
+14. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+All Care VNA of Greater 123 Any St.
+
+Discharge Diagnosis:
+Primary:
+Acute on Chronic Renal Failure
+Hypertension
+
+Secondary:
+Hep C
+HTN
+Asthma
+OSA
+
+
+Discharge Condition:
+stable, ambulating with cane, normotensive, tolerating regular
+diet
+
+
+Discharge Instructions:
+It was a pleasure taking care of you while you were in the
+hospital.  You were admitted to UPMCE because of hypertension
+and worsening kidney failure.  You were started on dialysis and
+will follow-up with with your kidney doctor. You also had a new
+dilayis line placed and will start dialysis on Monday.  You were
+seen by SW and setup with transporation to your dialysis center:
+123 Any St. Northeast UPMCE Dialysis
+123 Any St..
+UPMCE test@mail.com
+Your dialysis sessions are Monday, Wednesday, Friday at 2:30pm
+
+Please follow the medications prescribed below.
+1) Please stop taking your lisinopril
+2) Please take 10mg amlopdipine and 200mg labetolol
+3) You will be taking Calcium Acetate and Sevelamer with meals
+4) Please take your nephrocaps vitamin
+5) You were given a rx for percocet for pain for your tunneled
+line
+
+Please follow up with the appointments below.
+
+Please call your PCP or go to the ED if you experience chest
+pain, palpitations, shortness of breath, nausea, vomiting,
+fevers, chills, or other concerning symptoms.
+
+Followup Instructions:
+Please follow-up with your PCP Zabel 2013-01-20 00:00:00 3:45pm
+PCP: Ashiana Zabel,[**First Name3 (LF) **] M. test@mail.com
+
+Provider: Ashiana Zabel, MD Phone:test@mail.com
+Date/Time:2013-01-20 00:00:00 2:40
+
+Provider: Zabel. Ercia Perasso Phone:test@mail.com Date/Time:2013-01-20 00:00:00
+1:45
+
+Provider: Ashiana Zabel Zabel, MD Phone:test@mail.com
+Date/Time:2013-01-20 00:00:00 11:00
+
+
+                             Ashiana Zabel MD 66208
+
+Completed by:2013-01-20 00:00:00

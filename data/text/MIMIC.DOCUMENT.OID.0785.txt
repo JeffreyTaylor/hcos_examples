@@ -1,0 +1,316 @@
+Admission Date:  2005-04-06 00:00:00              Discharge Date:   2005-04-06 00:00:00
+
+Date of Birth: 1940-04-02 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Alfreada Breite
+Chief Complaint:
+exertional angina
+
+Major Surgical or Invasive Procedure:
+cabg x4/RCA endarterectomy  2005-04-06 00:00:00  (LIMA to LAD, SVG to OM1 and
+OM2, SVG to PDA)
+
+
+History of Present Illness:
+56 yo male with several months of recurrent chest discomfort.
+Myoview showed large areas of lateral ischemia, small area of
+scar, and anteroapical ischemia. Cath revealed LM 30%, LAD 90%,
+diag 1 100%, diag 2 100%, CX 70-90%, OM1 70%, OM 2 80%, OM 3
+100%, RCA 30-50% PDA 90%, EF 50-55%, trace MR, LVEDP 21.
+Referred for CABG.
+
+Past Medical History:
+HTN
+elev. chol.
+remote fractured sternum
+inguinal hernia
+carpal tunnel syndrome
+PSH: T&A
+
+Social History:
+iron worker
+lives with wife
+smoked 2ppd for 20 years, quit 15 years ago
+10-15 beers/week
+
+Family History:
+brother with CABG at 39, mother with valvular problem
+
+Physical Exam:
+HR 78  RR 12  right 122/78  left 120/80
+5'9"   220#
+NAD, WDWN male
+no lesions
+eomi, perrl, nc/at, OP benign
+neck supple, no JVD, full ROM
+CTAB
+RRR no m/r/g
+soft, NT, ND, + BS
+with large right inguinal hernia
+warm, well-perfused, no edema
+no varicosities
+neuro grossly intact, alert and oriented x 3, MAE, non-focal
+bil. DP/PT/radials 2+
+1+ right fem, 2+ left fem.
+no carotid bruits ap123 Any St.ted
+
+
+Pertinent Results:
+2005-04-06 00:00:00 06:10AM BLOOD WBC-6.5 RBC-3.27* Hgb-10.6* Hct-30.0*
+MCV-92 MCH-32.3* MCHC-35.3* RDW-14.0 Plt Ct-272#
+2005-04-06 00:00:00 06:10AM BLOOD Plt Ct-272#
+2005-04-06 00:00:00 06:10AM BLOOD PT-14.3* PTT-25.5 INR(PT)-1.3*
+2005-04-06 00:00:00 06:10AM BLOOD Glucose-110* UreaN-16 Creat-0.8 Na-138
+K-4.5 Cl-100 HCO3-31 AnGap-12
+
+Cardiology Report ECHO Study Date of 2005-04-06 00:00:00
+
+
+*** Report not finalized ***
+123 Any St.INARY REPORT
+
+PATIENT/TEST INFORMATION:
+Indication: Intra-op TEE for CABG
+Height: (in) 69
+Weight (lb): 220
+BSA (m2): 2.15 m2
+BP (mm Hg): 123/64
+HR (bpm): 56
+Status: Inpatient
+Date/Time: 2005-04-06 00:00:00 at 10:34
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007AW05-:
+Test Location: Anesthesia West OR cardiac
+Technical Quality: Adequate
+
+
+
+
+REFERRING DOCTOR: DR. 123 Any St.es) 408**]
+
+MEASUREMENTS:
+Left Ventricle - Septal Wall Thickness: 1.1 cm (nl 0.6 - 1.1 cm)
+
+Left Ventricle - Inferolateral Thickness: *1.3 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 5.3 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 4.1 cm
+Left Ventricle - Fractional Shortening: *0.23 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 35% to 40% (nl >=55%)
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: All four pulmonary veins identified and enter the
+left atrium.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Dynamic interatrial septum. PFO
+is present.
+Left-to-right shunt across the interatrial septum at rest.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Moderate regional
+LV systolic dysfunction. Moderately depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size. Mild global RV free
+wall hypokinesis.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta
+diameter. Normal aortic arch diameter. Focal calcifications in
+aortic arch.
+Mildly dilated descending aorta. Focal calcifications in
+descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular
+calcification. No MS. Trivial MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify
+I was present in compliance with HCFA regulations. No TEE
+related
+complications. The patient was under general anesthesia
+throughout the
+procedure. The patient appears to be in sinus rhythm. Results
+were personally
+post-bypass
+data
+
+Conclusions:
+PRE-BYPASS:
+1. A patent foramen ovale is present. A left-to-right shunt
+across the
+interatrial septum is seen at rest.
+2. There is mild symmetric left ventricular hypertrophy. The
+left ventricular
+cavity size is normal. There is moderate regional left
+ventricular systolic
+dysfunction with inferior, infero-septal, infero-lateral
+hypokinesis. Overall
+left ventricular systolic function is moderately depressed. LVEF
+is around 35-
+40 %.
+3. Right ventricular chamber size is normal. There is mild
+global right
+ventricular free wall hypokinesis.
+4. There are focal calcifications in the aortic arch. The
+descending thoracic
+aorta is mildly dilated.
+5. There are three aortic valve leaflets. There is no aortic
+valve stenosis.
+No aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Trivial
+mitral
+regurgitation is seen.
+
+POST-BYPASS: Pt is A paced and on an infusion of phenylephrine
+1. Biventricular systolic function is improved.
+2. Aorta is intact post decannulation.
+3. Other findings are unchanged
+123 Any St. PHYSICIAN:
+
+
+
+(07-04932G)
+
+RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  2005-04-06 00:00:00 11:23 AM
+
+CHEST (PORTABLE AP)
+
+Reason: r/o ptx
+
+UNDERLYING MEDICAL CONDITION:
+56 year old man with CAD s/p CABG. and ct removal.
+REASON FOR THIS EXAMINATION:
+r/o ptx
+INDICATION: 56-year-old man with coronary artery disease, status
+post CABG and chest tube removal, evaluate for pneumothorax.
+
+COMPARISON: 2005-04-06 00:00:00.
+
+PORTABLE AP CHEST RADIOGRAPH: Scattered bibasilar subsegmental
+atelectasis. There is left retrocardiac opacity which may
+represent atelectasis and/or consolidation. Median sternotomy
+wires are stable. There has been interval removal of an ET and
+NG tubes. A right-sided Swan-Ganz catheter is seen with the tip
+in the main pulmonary artery pointing to the right. No
+pneumothorax or definite pleural effusions are seen.
+
+IMPRESSION: No pneumothorax.
+
+The study and the report were reviewed by the staff radiologist.
+DR. Alfreada Breite
+DR. Alfreada Breite
+Approved: TUE 2005-04-06 00:00:00 11:04 PM
+
+
+
+
+
+
+
+
+Brief Hospital Course:
+Admitted 2005-04-06 00:00:00 and underwent cabg x4/RCA endart. with Dr.
+Centers. Aneurysmal coronaries were noted with plan made for
+three months of coumadin therapy. Transferred to the CSRU in
+stable condition on propofol and phenylephrine drips.Extubated
+that evening, and chest tubes removed on POD #1. Transferred to
+the floor to begin increasing his activity level. Pacing wires
+removed on POD #3.Made good progress and was cleared for
+discharge to home with VNA services on #4. Coumadin dosing /INR
+to be followed by Dr.Bugra Centers coumadin clinic. First blood draw
+Mon. 2005-04-06 00:00:00. Target INR is 2.0-2.5.
+Pt. to make all follow-up appts. as per discharge instructions.
+
+Medications on Admission:
+ASA 325 mg daily
+lisinopril 20 mg daily
+atenolol 25 mg daily
+zocor 40 mg daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 1 months.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Coumadin 2.5 mg Tablet Sig: Two (2) Tablet PO once a day for
+3 days: Friday, Sat, Sunday only, then all further dosing by Dr. Bugra Centers clinic; first blood draw Monday 2005-04-06 00:00:00.
+Disp:*60 Tablet(s)* Refills:*1*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+6. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for
+5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+9. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: One
+(1) Capsule, Sustained Release PO once a day for 5 days.
+Disp:*5 Capsule, Sustained Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Gentiva
+
+Discharge Diagnosis:
+s/p cabg x4/RCA endareterectomy
+CAD
+aneurysmal coronary arteries
+HTN
+elev. chol.
+remote sternal fracture
+inguinal hernia
+carpal tunnel syndrome
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+may shower over incision and pat dry
+no lotions, creams, or powders on any incision
+no driving for one month
+no lifting greater than 10 pounds for 10 weeks
+call for fever greater than 100.5, redness or drainage
+
+Followup Instructions:
+first blood draw Monday 2005-04-06 00:00:00 with results to be called to Dr. Bugra Centers coumadin clinic  test@mail.com or fax test@mail.com
+
+see Dr. Alfreada Breite in 2005-04-06 00:00:00 weeks
+see Dr. Centers in 2005-04-06 00:00:00 weeks
+see Dr. Centers in 4 weeks test@mail.com
+
+
+
+Completed by:2005-04-06 00:00:00

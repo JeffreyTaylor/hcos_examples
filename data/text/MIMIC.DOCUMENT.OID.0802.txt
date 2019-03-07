@@ -1,0 +1,404 @@
+Admission Date:  2008-04-19 00:00:00              Discharge Date:   2008-04-19 00:00:00
+
+Date of Birth: 1924-03-30 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Fatimazahra Podowski
+Chief Complaint:
+constipation w/ inability to void- developed chest pain in ER
+
+Major Surgical or Invasive Procedure:
+2008-04-19 00:00:00 urgent CABG x2 (LIMA to LAD, SVG to PDA)
+2008-04-19 00:00:00 PEG
+2008-04-19 00:00:00 Trach
+
+
+History of Present Illness:
+76M h/o Diabetes, HTN, hypercholesterolemia, h/o CVA, elevated
+PSA, on warfarin arrives with 5 days of inability to void and
+7day h/o constipation. Poor historian with reported poor follow
+up history in chart and unclear about what meds he takes at
+home. Tried suppositories and laxatives without effect initially
+but then states that he had small BM yesterday at home. Last
+colonoscopy was over 10 yrs ago per pt. Arrived in ED because he
+states Dr. Kinnaman was not in office - he mainly arrives with c/o
+urinary retention. Of note, it appears that he was on flomax in
+past and has been referred to urology for w/u with elevated PSA
+around 6, but he states he is no longer taking this med. He also
+failed to f/u with urology for prostate bx. Denies abd pain,
+n/v, or any other sx.
+In ED, vitals were 98.8, 57, 124/61, 16, 97% RA. KUB consistant
+with constipation, no stool in rectum. Foley was placed and
+urine relieved. Given enema with another small BM, pt states
+that now his bowels are relieved. Labs notable for Cr 1.5
+(baseline 1.1), Na slightly elevated to 146 c/w dehydration. On
+transfer from ED to floor, pt was comfortable, without pain, and
+only concerned for urinary retention.
+During the course of his hospitalization, he experienced chest
+pain and shortness of breath. His pain was reported to radiate
+from to his throat and resolved with sublingual nitroglycerin
+and oxygen administration. ECG demonstrated LBBB with ST
+depressions in II and AVF which resolved. CE Tn 0.02 -> 0.08 ->
+0.14. CK 174 -> 178 -> 138. Cardiac cath deferred until INR
+decreased from 3.3. He was clopidogrel loaded with 300mg.
+Cardiac cath demonstrated severe 3 vessel CAD with single
+remaining vessel with 90% left main supplying LAD and
+collateralized RCA. PCI deferred for surgical evaluation.
+On arrival to the CCU the patient is resting comfortably. He
+currently denies shortness of breath, lower extremity edema, PND
+or orthopnea. He denies palpitations, lightheadedness, dizziness
+or syncope. All other review of systems were negative.
+Cardiac cath done 2008-04-19 00:00:00 with 3VD and referred for surgery.
+
+
+Past Medical History:
+HTN;
+hypercholesterolemia;
+type 2 DM since 2008-04-19 00:00:00, insulin-requiring
+prior TIA 2008-04-19 00:00:00;
+L MCA CVA with expressive aphasia 2008-04-19 00:00:00;
+seizure disorder;
+chronic warfarin anticoagulation;
+? RHM
+
+Social History:
+2008-04-19 00:00:00 ppd x 20 yrs
+no etoh. Lives at home with wife. Retired school Spanish
+teacher.
+
+Family History:
+Noncontributory
+
+Physical Exam:
+66"  74.8 kg
+VS - Temp 98.1, BP 146/64, HR 88, R 22, O2-sat 92% 2L
+GENERAL - well-appearing man in NAD, comfortable, appropriate
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp
+unlabored, no accessory muscle use
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2
+ABDOMEN -  soft/NT/ND, no masses or HSM, no rebound/guarding
+EXTREMITIES - Warm well profused, no c/c/e, 2+ peripheral pulses
+(radials, DPs)
+SKIN - no rashes or lesions
+LYMPH - no cervical, axillary, or inguinal LAD
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength
+2008-04-19 00:00:00 throughout, sensation grossly intact throughout, DTRs 2+ and
+symmetric, cerebellar exam intact, steady gait
+.
+CCU admission exam:
+VS: T 97.7, HR 59, BP 145/60, RR 16, O2 100% RA.
+General: well-appearing in NAD
+Neck: no carotid bruits, flat JVP
+CV: RRR, nl S1/S2, no MRG
+Resp: CTAB, no W/R/R
+Abd: soft, NT/ND, NABS
+Ext: no edema, 2+ PT/DP
+Neuro: A&Ox3, speech spontaneous with mild expressive aphasia
+
+
+Pertinent Results:
+2008-04-19 00:00:00 11:39AM BLOOD WBC-10.6 RBC-4.46* Hgb-13.5* Hct-40.3
+MCV-90 MCH-30.2 MCHC-33.4 RDW-13.7 Plt Ct-176
+2008-04-19 00:00:00 11:39AM BLOOD PT-35.2* PTT-30.0 INR(PT)-3.6*
+2008-04-19 00:00:00 11:39AM BLOOD Glucose-84 UreaN-33* Creat-1.5* Na-146*
+K-4.1 Cl-105 HCO3-31 AnGap-14
+2008-04-19 00:00:00 01:10PM BLOOD CK(CPK)-126
+2008-04-19 00:00:00 05:46AM BLOOD CK(CPK)-138
+2008-04-19 00:00:00 07:15PM BLOOD CK(CPK)-178
+2008-04-19 00:00:00 10:06AM BLOOD ALT-18 AST-26 LD(LDH)-163 CK(CPK)-174
+AlkPhos-58 TotBili-0.7
+2008-04-19 00:00:00 01:10PM BLOOD CK-MB-5 cTropnT-0.11*
+2008-04-19 00:00:00 05:46AM BLOOD CK-MB-6 cTropnT-0.14*
+2008-04-19 00:00:00 07:15PM BLOOD CK-MB-7 cTropnT-0.08*
+2008-04-19 00:00:00 10:06AM BLOOD CK-MB-5 cTropnT-0.02*
+2008-04-19 00:00:00 11:39AM BLOOD PSA-10.9*
+
+COMPARISON: 2008-04-19 00:00:00.
+
+FINDINGS: Evaluation is limited due to diffuse bowel gas. Within
+these
+limitations, the liver shows no focal or textural abnormalities.
+There are
+gallstones, but no evidence of acute cholecystitis. Incidental
+note is made
+of several tiny probable cholesterol polyps. Pancreas is
+completely obscured
+by bowel gas. Spleen is not well visualized. The right kidney
+measures 11.4
+cm, left kidney measures 13.8 cm. Though partially obscured by
+bowel gas,
+neither kidney shows evidence of stone or solid mass. Abdominal
+aorta is
+obscured by bowel gas. Main portal vein is patent, with
+appropriate antegrade
+flow.
+
+IMPRESSION: Limited exam due to diffuse bowel gas.
+Cholelithiasis, without
+evidence of cholecystitis.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. Fatimazahra Podowski Kinnaman
+DR. Fatimazahra Podowski
+Approved: WED 2008-04-19 00:00:00 9:28 AM
+
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler.
+Right ventricular chamber size and free wall motion are normal.
+There are complex (>4mm) atheroma in the descending thoracic
+aorta. There are complex (mobile) atheroma in the descending
+aorta.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen.
+There is no pericardial effusion.
+Dr. Fatimazahra Podowski was notified in person of the results on Kinnaman
+before surgical incision
+
+POST-BYPASS:
+
+Patient is AV paced and receiving an infusion of epinephrine and
+milrinone. LVEF = 35%. RV function is normal.
+Mild mitral regurgitation present. Aorta is intact post
+decannulation. Dr Kinnaman aware of post bypass findings.
+
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by 123 Any St.g
+physician Kinnaman 2008-04-19 00:00:00 16:03
+
+
+2008-04-19 00:00:00 02:22AM BLOOD WBC-9.1 RBC-2.96* Hgb-8.6* Hct-26.3*
+MCV-89 MCH-28.9 MCHC-32.6 RDW-15.1 Plt Ct-224
+2008-04-19 00:00:00 11:39AM BLOOD WBC-10.6 RBC-4.46* Hgb-13.5* Hct-40.3
+MCV-90 MCH-30.2 MCHC-33.4 RDW-13.7 Plt Ct-176
+2008-04-19 00:00:00 02:22AM BLOOD PT-14.5* PTT-63.3* INR(PT)-1.3*
+2008-04-19 00:00:00 11:39AM BLOOD PT-35.2* PTT-30.0 INR(PT)-3.6*
+2008-04-19 00:00:00 02:22AM BLOOD Glucose-105* UreaN-62* Creat-1.8* Na-136
+K-5.0 Cl-100 HCO3-29 AnGap-12
+2008-04-19 00:00:00 11:39AM BLOOD Glucose-84 UreaN-33* Creat-1.5* Na-146*
+K-4.1 Cl-105 HCO3-31 AnGap-14
+2008-04-19 00:00:00 02:58AM BLOOD ALT-52* AST-48* LD(LDH)-371* AlkPhos-84
+Amylase-36 TotBili-0.3
+2008-04-19 00:00:00 10:06AM BLOOD ALT-18 AST-26 LD(LDH)-163 CK(CPK)-174
+AlkPhos-58 TotBili-0.7
+
+Brief Hospital Course:
+Mr. Kinnaman was admitted to the UPMCE on 2008-04-19 00:00:00 for further
+management of his non-ST-elevation myocardial infarction. He was
+taken to the cardiac catheterization lab and found severe three
+vessel disease. Given the severity of his disease, the cardiac
+surgical service was 2008-04-19 00:00:00 and he was worked-up in the usual
+preoperative manner. The urology service was 2008-04-19 00:00:00 as he had
+recent progression of his voiding difficulty over last week. He
+was on flomax in the past and seen by urology for irregularly
+nodular prostate concerning for cancer, but he never followed-up
+for biopsy. He had an elevated PSA 6.7 in 2008-04-19 00:00:00 and now 10.9
+although may be falsely elevated due to urinary retention and
+foley placement. It was recommended that his foley in and
+followup in clinic for further evaluation. Flomax was resumed.
+On 2008-04-19 00:00:00 Mr. Kinnaman was subsequently transferred to the CCU
+where he had chest pain, initially controlled on nitro drip and
+subsequently developed angina refractory to nitroglycerin and
+morphine.
+The cardiac surgical service was called and he went emergently
+to the operating room where he underwent coronary artery bypass
+grafting to two vessels on 2008-04-19 00:00:00. Please see operative note for
+details. Postoperatively he was taken to the intensive care unit
+for monitoring. On postoperative day one, diminished right arm
+and bilateral leg movement was noted. The neurology service was
+2008-04-19 00:00:00 and a CT scan was performed which showed No acute
+intracranial hemorrhage or edema but sequelae of remote left MCA
+territory infarct was noted. Aspirin and statin were recommended
+and started along with betablockade and diuresis. An MRI was
+performed that showed wide spread cortical areas of restricted
+diffusion involving all lobes, and more extensive cortical and
+subcortical areas of restricted diffusion within the left
+occipital lobe and bilateral cerebellar hemispheres, are
+compatible with laminar necrosis and acute embolic disease.
+Heparin was started with bridge to coumadin. The vascular
+surgery service was 2008-04-19 00:00:00 for ischemic fingers and
+recommended topical nitrates and to continue heparin for likely
+microemolic events. He was extubated on POD#2 but required
+re-intubation due to impaired gag and inability to clear
+secretions. He was started on broad spectrum IV antibiotics for
+GNR in sputum and +U/A. Chest tubes and pacing wires were
+removed per protocol on POD#3. The general surgery service was
+2008-04-19 00:00:00 for placement of a PEG feeding tube for long term
+nutrition. PICC line was placed under floroscopy w/ tip in upper
+SVC on 2008-04-19 00:00:00. He developed atrial fibrillation which was
+treated w/ betablocker and amio- he is now in SR. On 2008-04-19 00:00:00
+percutaneous endoscopic gastrostomy tube placement was
+performed. As he continued to have Respiratory failure on
+mechanical ventilation with questionable aspiration pneumonia
+requiring almost daily bronchosocopy for secretion management,
+the thoracic surgery service was 2008-04-19 00:00:00 for placement of a
+tracheostomy. This was performed on 2008-04-19 00:00:00 along with rigid
+bronchoscopy, flexible bronchoscopy and therapeutic aspiration
+of tracheobronchial tree. On 2008-04-19 00:00:00 Mr. Kinnaman suffered a
+respiratory arrest from presumed mucous plugging. He was
+successfully resusitated. During the course of his
+hopsitalization Mr. Kinnaman developed an unstageable pressure
+ulcer on his coccyx maesuring 4x4 cm for which the wound care
+nurse Coralline Kinnaman. A Mepilex sacral border dressing was
+applied. Neurologically he remains able to move upper
+extremities but has no lower extremity function. He continued to
+work with physical therapy and occupational therapy. He is
+currently tolerating  trach mask for greater than 24hrs.
+Antibiotics were stopped on 2008-04-19 00:00:00 after subsequent negative
+culture data. Vancomycin was initiated 2008-04-19 00:00:00 for a 7 day course
+prophylactically for his right lower extremity incision site
+which appears mildly erythematous. On 2008-04-19 00:00:00 per Dr.Kinnaman,
+Mr. Kinnaman was cleared for discharge to rehabilitation. All
+follow up appointments were advised.
+
+
+Medications on Admission:
+OUTPATIENT MEDICATIONS:
+NPH insulin 6 units UPMCE
+regular insulin 6 units UPMCE ( did not use sliding scale or do BG
+checks)
+Aspirin 325 mg PO/NG DAILY
+Atenolol 25 mg PO/NG DAILY
+Atorvastatin 40 mg PO/NG DAILY
+Aluminum-Magnesium Hydrox.-Simethicone prn
+Lactulose 30 mL PO/NG TID
+Omeprazole 40 mg PO DAILY
+Senna 1 TAB PO/NG UPMCE
+Tamsulosin 0.4 mg PO HS
+Docusate Sodium 100 mg PO BID
+.
+MEDICATIONS ON TRANSFER:
+Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol
+Insulin SC (per Insulin Flowsheet)
+Lactulose 30 mL PO/NG TID
+Acetaminophen 650 mg PO/NG Q6H
+Lisinopril 20 mg PO/NG DAILY
+Aluminum-Magnesium Hydrox.-Simethicone 15-30 mL PO/NG QID:PRN
+Nitroglycerin SL 0.3 mg SL PRN CP
+Aspirin 325 mg PO/NG DAILY
+Omeprazole 40 mg PO DAILY
+Atorvastatin 80 mg PO/NG DAILY
+Atenolol 25 mg PO/NG DAILY
+Senna 1 TAB PO/NG UPMCE
+Bisacodyl 10 mg PO DAILY
+Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol
+Docusate Sodium 100 mg PO BID
+Tamsulosin 0.4 mg PO HS
+.
+ALLERGIES: NKDA
+.
+
+
+Discharge Medications:
+1. Acetaminophen 650 mg/20.3 mL Solution UPMCE: One (1) Solution
+PO Q4H (every 4 hours) as needed for temperature >38.0.
+2. Aspirin 81 mg Tablet, Chewable UPMCE: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. Docusate Sodium 50 mg/5 mL Liquid UPMCE: Ten (10) mls PO BID (2
+times a day).
+4. Magnesium Hydroxide 400 mg/5 mL Suspension UPMCE: Thirty (30)
+ML PO DAILY (Daily) as needed for constipation.
+5. Atorvastatin 80 mg Tablet UPMCE: One (1) Tablet PO DAILY
+(Daily).
+6. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr UPMCE: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+7. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler UPMCE:
+2-4 Puffs Inhalation Q6H (every 6 hours) as needed for wheezing.
+
+8. Bisacodyl 10 mg Suppository UPMCE: One (1) Suppository Rectal
+HS (at bedtime) as needed for constipation.
+9. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR Kinnaman: One (1)
+Tablet,Rapid Dissolve, DR Kinnaman DAILY (Daily).
+10. Metoprolol Tartrate 25 mg Tablet Kinnaman: 0.5 Tablet PO BID (2
+times a day).
+11. Metoclopramide 5 mg/mL Solution Kinnaman: One (1)  Injection Q6H
+(every 6 hours) as needed for nausea/vomiting.
+12. Amiodarone 200 mg Tablet Kinnaman: Two (2) Tablet PO DAILY
+(Daily): 400mg x 7days then decrease to 200mg daily ongoing.
+13. Warfarin 1 mg Tablet Kinnaman: as directed for afib Tablet PO
+once a day: based on INR for afib- INR goal 2-2.5.
+14. picc line care
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+15. Warfarin 5 mg Tablet Kinnaman: One (1) Tablet PO ONCE (Once) for
+1 doses. Tablet(s)
+16. Vancomycin 1000 mg IV Q 24H
+x 7 days->DC after dose on 2008-04-19 00:00:00
+17. Heparin (Porcine) in D5W 25,000 unit/250 mL Parenteral
+Solution [**Year (4 digits) **]: One (1)  Intravenous continuous as needed for
+AFib: 1800 units/hour to be adjusted for PTT goal 50-70, INR
+goal>2.0.
+18. Insulin Regular Human 300 unit/3 mL Insulin Pen [**Year (4 digits) **]: One (1)
+ Subcutaneous every six (6) hours: **As per Sliding Scale.
+19. Insulin Glargine 100 unit/mL Cartridge [**Year (4 digits) **]: One (1)
+Subcutaneous twice a day: 30 units Q AM/ 15 units Q PM.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Hsopital
+
+Discharge Diagnosis:
+CAD s/p urgent CABG x2
+NSTEMI
+BPH
+IDDM
+hypercholesterolemia
+Left MCA CVA 2008-04-19 00:00:00
+Acute postoperative stroke
+expressive aphasia
+prior TIA 2008-04-19 00:00:00
+seizure disorder
+? RHM
+Respiratory arrest/Respiratory failure
+
+
+Discharge Condition:
+stable
+alert, lethargic-grimaces to pain -unable to determine extent of
+orientation further due to impaired communication
+transfers via Fatimazahra Podowski.
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+
+
+Followup Instructions:
+Please call to schedule appointments
+Surgeon Dr. Fatimazahra Podowski 2008-04-19 00:00:00 @ 1:00 PM test@mail.com
+Primary Care /cardiologist Dr. Kinnaman in 2008-04-19 00:00:00 weeks or upon
+discharge UPMCE rehab.
+Wound check appointment - UPMCE 6 (test@mail.com) - your nurse
+will schedule
+
+
+                             Coralline Kinnaman Coralline Kinnaman MD 50063
+
+Completed by:2008-04-19 00:00:00

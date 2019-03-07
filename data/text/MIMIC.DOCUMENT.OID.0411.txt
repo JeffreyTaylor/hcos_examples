@@ -1,0 +1,655 @@
+Admission Date:  2010-08-30 00:00:00              Discharge Date:   2010-08-30 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Valium
+
+Attending:Yochanon Meek
+Chief Complaint:
+Hypotension, Hypoxia
+
+Major Surgical or Invasive Procedure:
+Trach change 2010-08-30 00:00:00, 2010-08-30 00:00:00, 2010-08-30 00:00:00.  Bieler in place at time of
+discharge.
+Bronchoscopy 2010-08-30 00:00:00
+
+
+History of Present Illness:
+24yo from UPMCE rehab with h/o HTN, osteoperosis, and chronic
+resp failure 2010-08-30 00:00:00 to parkinson's disease, trached and peged d/t
+multiple aspiration events brought to the ED from his NH with
+concern for AMS. He had an unresponsive episode last night, was
+reportedly hypoxic (unclear degree). Staff at NH were also
+concerned about possible facial droop. The wife rescinded the
+DNR order prior to arrival and stated he is to be full code. EMS
+suctioned a golf ball sized mucous plug from his trach. He has
+had episodes of mucus plugging in the past. Recent
+hospitalization for hip fracture and ileus. Urine culture from
+2010-08-30 00:00:00 grew resistant ecoli. He was started on a 7 day course of
+ceftriaxone on 2010-08-30 00:00:00. Other micro history: urine w ESBL kleb,
+resistant ecoli, pseudomonas resistant to zosyn in sputum and
+VRE swab.
+.
+ED Course: Admission vitals at 0620 53 120/50 15 100. Code
+stroke called with concern for new facial droop. CT head wo
+contrast was negative for acute intracranial hemorrhage. Once
+family arrived they confirmed that facial droop was old. Pt was
+documented DNR but was reversed for transport. Family also
+clarified that code status is NO COMPRESSIONS, but would want
+epinephrine and similar drugs. Started ceftriaxone 1g for
+presumed UTI. Briefly hypotensive to 80's at 7am, got 1L IVF.
+Vitals prior to transfer: 121/53, 55, 13, 100% on vent (FiO2
+40%, tidal volume 500, PEEP 5, rr 13). Access: 20g hand, 22g
+hand, 18 R forearm. Foley catheter from rehab not exchanged.
+.
+On the floor, pt c/o L hip pain.
+
+
+Past Medical History:
+1. h/o aspiration PNA - Tx with levo, unasyn, vanco/zosyn in the
+
+past
+2. h/o aspiration s/p swallow eval with swallowing difficulty,
+s/p 2010-08-30 00:00:00 placement on 2010-08-30 00:00:00 - pt continues to feed for pleasure
+at HebReb
+3. Parkinson disease
+4. Osteoporosis
+5. T11/12 compression fx
+6. LLE osteomyelelitis as a child/Chronic osteomyelitis,
+quiescent.
+7. granulomatous liver disease
+8. LUE rotator cuff tear
+9. Prostate cancer s/p orchiectomy in 2010-08-30 00:00:00
+10. s/p laminectomy L4-5
+11. Cataracts s/p surgery
+2010-08-30 00:00:00. Glaucoma
+13. Hypertension
+14. h/o of treatment for pseudomonas and aspiration PNA at heb
+reb
+15. s/p Trach with night ventilator support.
+16. s/p wrist fx
+17. chronic constipation
+18. Chronic abd pain- per Heb Reb notes
+19. Recent admission following vasovagal event at heb/reb s/p
+chest compressions complicated by PTX s/p chest tube
+20. L ant pubic rami fracture, L ant iliac fracture
+
+
+Social History:
+The patient has a sixty-pack-year history of tobacco. He quit in
+2010-08-30 00:00:00. He lives at UPMCE rehab MACU for last 3 hrs. He is a
+retired history professor. Giacomin Bieler, no alcohol intake.
+- Tobacco:  none currently
+- Alcohol:  none currently
+- Illicits: none
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Admission Physical Exam:
+Vitals: T: 97.5 BP: 104/45  P:75 R:14  O2: 100% (FiO2 40%, tidal
+volume 500, PEEP 5)
+General: Alert, elderly male, trach on vent, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, trach site intact, no LAD
+Lungs: diffuse wheezes and rhonchi to auscultation
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly, Bieler site
+intact
+Skin: diffuse nonpitting edema dependent areas, stage 1 skin
+breakdown
+GU: foley in place
+Ext: cool, well perfused, 2+ pulses, pitting edema to mid
+calves, no clubbing or cyanosis .
+
+Discharge Physical Exam:
+
+General: Alert, elderly male, trach on vent, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, trach site intact, no LAD
+Lungs: diffuse wheezes and rhonchi to auscultation
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly, Bieler site
+intact
+Skin: general anasarca
+GU: foley in place
+Ext: cool, well perfused, 2+ pulses, pitting edema to mid
+calves, no clubbing or cyanosis .
+
+
+Pertinent Results:
+At admission:
+
+2010-08-30 00:00:00 06:25AM BLOOD WBC-14.1* RBC-3.37* Hgb-9.4* Hct-28.1*
+MCV-83 MCH-27.8 MCHC-33.4 RDW-17.9* Plt Ct-357
+2010-08-30 00:00:00 06:25AM BLOOD Neuts-84* Bands-2 Lymphs-6* Monos-3 Eos-2
+Baso-0 Atyps-0 Metas-2* Myelos-1*
+2010-08-30 00:00:00 06:25AM BLOOD PT-12.5 PTT-24.4 INR(PT)-1.1
+2010-08-30 00:00:00 06:25AM BLOOD Glucose-122* UreaN-27* Creat-0.9 Na-128*
+K-6.1* Cl-91* HCO3-28 AnGap-15
+2010-08-30 00:00:00 03:18AM BLOOD Albumin-2.8* Calcium-7.9* Phos-3.4 Mg-2.3
+2010-08-30 00:00:00 12:43PM BLOOD calTIBC-220* VitB12-448 Folate-GREATER TH
+Ferritn-96 TRF-169*
+2010-08-30 00:00:00 06:25AM BLOOD Osmolal-279
+2010-08-30 00:00:00 09:23AM BLOOD Tobra-7.4
+2010-08-30 00:00:00 06:25AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2010-08-30 00:00:00 07:01PM BLOOD Type-ART Rates-/14 Tidal V-450 PEEP-5
+FiO2-40 pO2-121* pCO2-50* pH-7.39 calTCO2-31* Base XS-4
+Intubat-INTUBATED Vent-CONTROLLED
+2010-08-30 00:00:00 06:25AM URINE Color-Yellow Appear-Hazy Sp Bieler-1.006
+2010-08-30 00:00:00 06:25AM URINE Blood-NEG Nitrite-POS Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG
+2010-08-30 00:00:00 06:25AM URINE RBC-4* WBC-174* Bacteri-MOD Yeast-NONE
+Epi-<1 TransE-<1
+2010-08-30 00:00:00 05:00PM URINE Hours-RANDOM UreaN-52 Creat-3 Na-146 K-4
+Cl-140
+2010-08-30 00:00:00 06:25AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+Micro:
+Blood Culture 2010-08-30 00:00:00 negative x2
+
+2010-08-30 00:00:00 Sputum culture:
+2010-08-30 00:00:00 4:51 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT 2010-08-30 00:00:00**
+
+   GRAM STAIN (Final 2010-08-30 00:00:00):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+
+   RESPIRATORY CULTURE (Final 2010-08-30 00:00:00):
+      SPARSE GROWTH Commensal Respiratory Flora.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3029**]
+         Bieler.
+         DORIPENEM Susceptibility testing requested by
+DR.Bieler,[**First Name3 (LF) 3518**]
+         2010-08-30 00:00:00.
+         DORIPENEM>32MCG/ML NON-SUSCEPTIBLE.  MIC
+interpretations are based
+         on manufacturer's guidelines that are FDA approved
+Sensitivity
+         testing performed by Etest.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.  SECOND
+MORPHOLOGY.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3029**]
+         Bieler.
+         AMIKACIN AND DORIPENEM Susceptibility testing requested
+by
+         DR.Bieler,[**First Name3 (LF) 3518**] 2010-08-30 00:00:00.
+         DORIPENEM >32MCG/ML NON-SUSCEPTIBLE. MIC
+interpretations are based
+         on manufacturer's guidelines that are FDA approved
+Sensitivity
+         testing performed by Etest.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+AMIKACIN--------------  =>64 R       16 S
+CEFEPIME--------------    16 I        8 S
+CEFTAZIDIME-----------     8 S       16 I
+CIPROFLOXACIN---------     2 I      =>4 R
+GENTAMICIN------------  =>16 R        8 I
+MEROPENEM-------------     4 S        8 I
+PIPERACILLIN/TAZO-----       S          R
+TOBRAMYCIN------------     8 I        2 S
+
+C.Dif negative x3 2010-08-30 00:00:00, 22, 23
+
+2010-08-30 00:00:00 Bronchoalveolar lavage:
+2010-08-30 00:00:00 3:58 pm BRONCHOALVEOLAR LAVAGE
+
+                            **FINAL REPORT 2010-08-30 00:00:00**
+
+   GRAM STAIN (Final 2010-08-30 00:00:00):
+      3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final 2010-08-30 00:00:00):
+      ~3000/ML Commensal Respiratory Flora.
+      YEAST.    ~1000/ML.
+         Isolates are considered potential pathogens in amounts
+>=10,000
+         cfu/ml.
+      GRAM NEGATIVE ROD(S).    ~1000/ML.  FURTHER WORKUP ON
+REQUEST ONLY.
+         Isolates are considered potential pathogens in amounts
+>=10,000
+         cfu/ml.
+
+2010-08-30 00:00:00 Urine cx:
+2010-08-30 00:00:00 6:37 pm URINE      Source: Catheter.
+
+                            **FINAL REPORT 2010-08-30 00:00:00**
+
+   URINE CULTURE (Final 2010-08-30 00:00:00):
+      GRAM POSITIVE COCCUS(COCCI).    ~4000/ML.
+
+2010-08-30 00:00:00 Sputum Cx:
+2010-08-30 00:00:00 3:45 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT 2010-08-30 00:00:00**
+
+   GRAM STAIN (Final 2010-08-30 00:00:00):
+      >25 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+   RESPIRATORY CULTURE (Final 2010-08-30 00:00:00):
+      Commensal Respiratory Flora Absent.
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup will be performed appropriate to the isolates
+recovered from
+      this site.
+      YEAST.    SPARSE GROWTH.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.
+         SENSITIVITIES PERFORMED ON CULTURE # 330-8016C,
+2010-08-30 00:00:00.
+      GRAM NEGATIVE ROD(S).    RARE GROWTH.
+
+Radiology:
+
+2010-08-30 00:00:00 CT HEAD NONCONTRAST:
+IMPRESSION: No acute intracranial hemorrhage or mass effect. If
+concern for acute infarct is high, please note that MR is more
+sensitive if not
+contra-indicated. Total opacification of the right mastoid air
+cells, middle ear cavity and mucosal thickening in the right
+ethmoid air cells and maxillary sinus.
+
+2010-08-30 00:00:00 CXR:
+1. Low lung volumes with bibasilar opacities which are stable
+and could
+reflect atelectasis vs pneumonia.
+2. Apparent inferior dislocation of the left humeral head,
+unchanged - please correlate clinicaly.
+
+2010-08-30 00:00:00 CXR:
+Tracheostomy tube is unchanged in
+position. Left-sided PICC follows a normal course terminating in
+the upper
+SVC.  A rounded opacity at the right base is somewhat less
+apparent on the Bieler exam; however, there is increased
+right-sided effusion and atelectasis. Left basilar atelectasis
+and small effusion are also present. Cardiomediastinal
+silhouette is stable. There is atherosclerotic calcification of
+the aortic arch. Prominent mediastinal and hilar densities are
+compatible with calcified adenopathy.
+
+TTE 2010-08-30 00:00:00:
+Poor image quality.There is mild symmetric left ventricular
+hypertrophy with normal cavity size and regional/global systolic
+function (LVEF>55%). There is no ventricular septal defect. The
+right ventricular cavity is mildly dilated with normal free wall
+contractility. The aortic valve leaflets are moderately
+thickened. The study is inadequate to exclude significant aortic
+valve stenosis. Mild (1+) aortic regurgitation is seen. Trivial
+mitral regurgitation is seen. The tricuspid valve leaflets are
+mildly thickened. There is moderate pulmonary artery systolic
+hypertension. There is a trivial/physiologic pericardial
+effusion. There are no echocardiographic signs of tamponade.
+
+Compared with the prior study (images reviewed) of 2010-08-30 00:00:00 ,
+no definite change (the RV appears similar).
+
+2010-08-30 00:00:00 CT ABDOMEN/PELVIS WITH CONTRAST:
+IMPRESSION:
+1. Bilateral pleural effusions.
+2. Small right lower lobe infiltrate.
+3. 2010-08-30 00:00:00 tube in place in the pylorus of the stomach.
+4. No evidence of colitis.
+5. Scattered diverticula without evidence of diverticulitis.
+6. Normal-appearing appendix.
+7. Anasarca.
+8. Stable left iliac, left pubic rami, and bilateral inferior
+rami fractures.
+
+CXR 2010-08-30 00:00:00:
+Following right thoracentesis, there is no visible pneumothorax.
+
+Small residual right pleural effusion is evident. 123 Any St.usly
+reported
+pulmonary edema has nearly resolved. Left lower lobe opacity and
+adjacent
+pleural effusion appears slightly improved. Otherwise no
+relevant changes.
+The study and the report were reviewed by the staff radiologist.
+
+
+
+
+
+Brief Hospital Course:
+24y M hx of HTN, osteoperosis, and chronic resp failure 2010-08-30 00:00:00 to
+aspiration from parkinson's disease, trach/2010-08-30 00:00:00 d/t multiple
+aspiration events s/p unresponsive episode at nursing home,
+?hypoxia, mucus plugging and hypotension, and concern for left
+facial droop.
+
+1. HYPOTENSION: Patient initially presented with leukocytosis
+and bandemia. Initially was placed on broad spectrum antibiotics
+with vancomyin, tobramycin, and cefepime.  He was aggressively
+fluid resuscitated prior to arrival with >5LNS. Received PICC
+line 2010-08-30 00:00:00.  Urine, blood, and sputum were aggressively
+cultured.  CXR failed to show striking infiltrate, though
+ventilator associated pnuemonia was suspected.  His BP continued
+to trend to the 70s-80s, and so was started on dopamine drip on
+2010-08-30 00:00:00 with appropriate BP response.   Sputum cultures from 2010-08-30 00:00:00
+eventually revealed two distinct, resistant pseudomonas species,
+prompting an antibiotic shift to zosyn/tobramycin on 2010-08-30 00:00:00.  He
+underwent bronchoscopy and BAL on 2010-08-30 00:00:00. Vancomycin was
+discontinued at that time.  Weaning his pressors proved to be
+extremely difficult, and therefore alternative explanations to
+his hypotension were sought.  Adrenal insufficiency was ruled
+out with a normal AM cortisol of 14 and a normal cosyntropin
+stimulation test.  Midodrine was started for any possible
+autonomic dysfunction given his advanced parkinsons disease.  He
+was started on levothyroxine 50mcg daily due to a low free T4 at
+0.79.  Dopamine was changed to levophed on 2010-08-30 00:00:00.  He underwent
+ABD/PELVIS CT on 2010-08-30 00:00:00 for abdominal pain, which failed to reveal
+an infectious source.  Tamsulosin was discontinued due to
+concern that it affected his BP control. Fluorinef was briefly
+used, though eventually discontinued as he was grossly fluid
+overloaded without sifnicitant hemodynamic effect.  Levophed was
+stopped on 2010-08-30 00:00:00 and his systolic blood pressure has since
+ranged from 110s-140s. He will continue a 14d antibiotic course
+for VAP, with tobramycin ending 2010-08-30 00:00:00 and zosyn ending 2010-08-30 00:00:00.
+
+2. FACIAL DROOP: Felt to be non-stroke and confirmed baseline by
+his family. CT head negative in the ED and neuro did not feel
+that pt was having a stroke.
+
+3. VENTILATOR ASSOCIATED PNEUMONIA: He was persistently hypoxic
+on admission.  Most concerning is ongoing mucus plugging but
+generally tolerated his home vent settings. Chest xray poorly
+penetrated but possibly suggested RLL infiltrate.  Noted to have
+high volume of secretions concerning for evolving pna. He was
+continued on home combivent inh and acetylcysteine for
+mucolytic.It was decided to treat for a 14d VAP course on
+zosyn/tobramycin when 2 resistant pseudomonas species grew in
+his sputum.  He received vancomycin for approximately 6 days
+which was stopped after culture data failed to reveal gram
+positive isolates. He was oxygenating well and tolerating short
+periods of time on tracheostomy mask by the time of discharge,
+and remained on his home vent settings.
+
+4. ALTERED MENTAL STATUS: Resolved. Likely 2010-08-30 00:00:00 UTI vs pna vs
+hypoxia or other underlying infectious etiology. Rescinded code
+stroke after family confirmed appearance baseline. Some AMS may
+have been due to narcotic overtreatment of his recent hip
+fractures, as his mental status seemed to improve with more
+conservative dosing.
+
+5. UTI: History of resistant ecoli and ESBL org in past. Started
+on broad abx per above. Foley catheter was exchanged (arrived
+with condom cath from Nursing Home). Urine cultures failed to
+reveal pathogenic levels of bacteria.
+
+6. HYPONATREMIA:  initial hyponatremia to 128 eventually
+resolved with volume resuscitation, likely was due to
+hypovolemia.
+
+7. PELVIC FRACTURES: Prior admission, pt had new nondisplaced
+fracture involving left superior and inferior pubic rami w known
+left iliac Yochanon Meek fracture.  Pain control was continued with
+tramadol, oxycodone, tylenol, lidocaine patch, and ice.  Hip
+x-ray without acute fracture.
+
+8.TRACHEOSTOMY: Patient chronically trached with occasional time
+off the vent. High trach pressures concerning. Per wife, pt
+often spends 12-5pm off trach (sat 92% on mask) when he is well.
+ He was continued on home combivent inh and acetylcysteine for
+mucolytic.  He was bronched on 2010-08-30 00:00:00 and ET tube was exchanged
+for larger size at that point. A noticeable cuff-2010-08-30 00:00:00 continued,
+and his trach was again upgraded to a 9.0 on 2010-08-30 00:00:00, however
+substantial cuff pressures were needed to prevent leakage. A
+Bieler tracheostomy tube was then placed on 2010-08-30 00:00:00 with
+improvement of his 2010-08-30 00:00:00.
+
+9. Parkinson's disease: Chronic.  Patient with severe dysphagia
+and tracheostomy. He continued home carbidopa/levidopa,
+entacapone, pramipexole.
+
+10.MACULAR DEGENERATION: cont home eye gtt w warm compresses
+following.
+
+11. FLUID OVERLOAD:  Patient roughly 8L positive fluid balance
+due to aggresive fluid resuscitation, hypotension, and multiple
+IV meds.  He will require diuresis back down to his dry weight
+in his nursing home.
+
+12. CODE STATUS: wife clarified that code status is NO
+COMPRESSIONS, but would want epinephrine and similar drugs.
+
+13. ANEMIA: His HCT trended down from admission 28 to 21-22.
+Received one PRBC transfusion. Iron, b12, folate wnl. hapto 282,
+retic: 2.1, LDH: wnl
+
+PENDING TESTS AT DISCHARGE:
+-Blood cultures 2010-08-30 00:00:00 (no growth to date)
+
+TRANSITIONAL CARE ISSUES:
+- continue zosyn 4.5mg q6hr through 2010-08-30 00:00:00
+- continue tobramycin 240mg q36hr through 2010-08-30 00:00:00 (LAST DOSE
+2010-08-30 00:00:00, needs one dose on 2010-08-30 00:00:00 ONLY)
+- diuresis down to dry weight
+- check TSH and free t4 in 6 weeks
+- trend periodic HCT for anemia
+- DVT prophylaxis with SC heparin due to inactivity
+- trend electrolytes and Cr with diuresis
+
+Medications on Admission:
+*holding lasix
+1. bisacodyl 10 mg Suppository QAM
+2. carbidopa-levodopa 25-100 mg Tablet 2010-08-30 00:00:00: Five (5) Tablet PO
+SEE COMMENT (): PO 7 times daily:  05, 08, 11, 14, 17, 20, 23.
+3. lactulose 10 gram/15 mL Solution 2010-08-30 00:00:00: Fifteen (15) ML PO TID
+(3 times a day).
+4. dorzolamide-timolol 2-0.5 % Drops 2010-08-30 00:00:00: One (1) Drop
+Ophthalmic UPMCE (2 times a day): to both eyes.
+5. latanoprost 0.005 % Drops UPMCE: One (1) Drop Ophthalmic HS (at
+
+bedtime): both eyes.
+6. pramipexole 0.125 mg Tablet UPMCE: One (1) Tablet PO four times
+
+a day: At 0500, 0800, 1100, 1400.
+7. pramipexole 0.5 mg Tablet UPMCE: One (1) Tablet PO QPM (once a
+day (in the evening)).
+8. entacapone 200 mg Tablet UPMCE: One (1) Tablet PO see below ():
+
+seven times daily: 05, 08, 11, 14, 17, 20, 23
+9. tamsulosin 0.4 mg Capsule, Ext Release 24 hr UPMCE: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+10. lorazepam 0.5 mg Tablet q4hours
+11. ipratropium-albuterol 18-103 mcg/Actuation Aerosol UPMCE: Four
+
+(4) Puff Inhalation twice a day.
+12. docusate sodium 50 mg/5 mL Liquid UPMCE: Ten (10) ML PO BID (2
+
+times a day): (take 100 mg UPMCE) .
+13. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+UPMCE: One (1) Tablet, Chewable PO TID (3 times a day).
+14. cholecalciferol (vitamin D3) 400 unit Qday
+15. erythromycin ethylsuccinate 200 mg/5 mL Suspension for
+Reconstitution UPMCE: 10ml q6hours
+16. polyethylene glycol 3350 17 gram/dose Powder UPMCE: One (1)
+PO DAILY (Daily).
+17. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated UPMCE:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+18. ceftriaxone in dextrose,iso-os 1 gram/50 mL Piggyback UPMCE:
+One (1)  Intravenous Q24H (every 24 hours) for 6 days.
+19. simethicone 80 mg Tablet, Chewable UPMCE: One (1) Tablet,
+Chewable PO BID (2 times a day).
+20. fluticasone 50 mcg/Actuation Spray, Suspension UPMCE: One (1)
+
+Nasal twice a day.
+21. racepinephrine 2.25 % Solution for Nebulization UPMCE: 0.5 ML
+Inhalation q 2 hrs prn  as needed for shortness of breath or
+wheezing.
+22. omeprazole 40 mg Capsule, Delayed Release(E.C.) UPMCE: One (1)
+
+Capsule, Delayed Release(E.C.) PO once a day.
+23. ascorbic acid 500 mg Capsule, Extended Release UPMCE: One (1)
+Capsule, Extended Release PO once a day.
+24. chlorhexidine gluconate 0.12 % Mouthwash UPMCE: One
+Hundred-Fifteen (115) ML Mucous membrane four times a day: swish
+
+and spit .
+25. acetaminophen 650 mg/20.3 mL Solution UPMCE: One (1)  PO TID
+(3 times a day) as needed for fever or pain.
+26. oxycodone 5 mg Tablet UPMCE: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+27. morphine 5 mg/mL Solution UPMCE: Five (5) mg  Injection every
+four (4) hours as needed for pain: use for breakthough pain or
+if unable to take by G-tube.
+28. Acetylcysteine 100 mg intratracheal UPMCE
+29. Gentamicin nebulizer 80 mg UPMCE
+
+
+Discharge Medications:
+1. bisacodyl 10 mg Suppository UPMCE: One (1)  Rectal once a day
+as needed for constipation.
+2. carbidopa-levodopa 25-100 mg Tablet UPMCE: Five (5) Tablet PO
+7X DAILY (): 05, 08, 11, 14, 17, 20, 23.
+3. dorzolamide-timolol 2-0.5 % Drops UPMCE: One (1)  Ophthalmic
+twice a day: to both eyes.
+4. latanoprost 0.005 % Drops UPMCE: One (1) Drop Ophthalmic HS (at
+bedtime).
+5. pramipexole 0.125 mg Tablet UPMCE: One (1) Tablet PO QID (4
+times a day): 05, 08, 11, 14.
+6. pramipexole 0.5 mg Tablet UPMCE: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+7. entacapone 200 mg Tablet UPMCE: One (1) Tablet PO 7 times daily
+ (): 05, 08, 11, 14, 17, 20, 23.
+8. lorazepam 0.5 mg Tablet UPMCE: One (1) Tablet PO Q4H (every 4
+hours) as needed for anxiety.
+9. ipratropium-albuterol 18-103 mcg/Actuation Aerosol UPMCE: Two
+(2) Puff Inhalation Q6H (every 6 hours) as needed for SOb,
+wheeze.
+10. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+UPMCE: One (1) Tablet, Chewable PO three times a day.
+11. cholecalciferol (vitamin D3) 400 unit Tablet UPMCE: One (1)
+Tablet PO once a day.
+12. erythromycin ethylsuccinate 200 mg/5 mL Suspension for
+Reconstitution UPMCE: Ten (10) ml PO Q6H (every 6 hours).
+13. polyethylene glycol 3350 17 gram/dose Powder UPMCE: One (1)
+PO once a day.
+14. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated UPMCE:
+Two (2) Adhesive Patch, Medicated Topical DAILY (Daily) as
+needed for L hip, back.
+15. omeprazole 40 mg Capsule, Delayed Release(E.C.) UPMCE: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+16. ascorbic acid 500 mg Tablet UPMCE: One (1) Tablet PO once a
+day.
+17. chlorhexidine gluconate 0.12 % Mouthwash UPMCE: One (1) ML
+Mucous membrane every six (6) hours.
+18. acetaminophen 650 mg/20.3 mL Solution UPMCE: One (1)  PO three
+times a day as needed for fever or pain.
+19. levothyroxine 50 mcg Tablet UPMCE: One (1) Tablet PO DAILY
+(Daily).
+20. midodrine 5 mg Tablet UPMCE: Two (2) Tablet PO TID (3 times a
+day).
+21. Piperacillin-Tazobactam 4.5 g IV Q8H
+***INFUSE OVER 3 HOURS***
+22. Tobramycin 240 mg IV Q36H
+23. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+24. calcitonin (salmon) 200 unit/actuation Spray, Non-Aerosol
+UPMCE: One (1)  Nasal QHS (once a day (at bedtime)): alteranting
+nostrils.
+25. heparin (porcine) 5,000 unit/mL Solution UPMCE: One (1)
+Injection TID (3 times a day).
+26. Lasix 40 mg Tablet UPMCE: One (1) Tablet PO once a day.
+27. Outpatient Lab Work
+Please check CBC, sodium, potassium, chloride, bicarb, BUN,
+creatinine, mag, phosp twice weekly to monitor chronic anemia as
+well as renal function while on diuretics
+28. Outpatient Lab Work
+Please just thyroid function test in 6weeks to determine if
+levothyroxine dose needs to be adjusted
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Rehab
+
+Discharge Diagnosis:
+Primary:
+Pneumonia
+Hypotension
+Hypothyroid
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Dear Mr Bieler it was a pleasure taking care of you.
+
+You were brought to UPMCE for evaluation of altered mental status.
+Head imaging was negative for stroke. While in house you
+developed hypotension as well as difficulty weaning of
+ventilation.
+.
+Imaging and labs were concerning for potential pneumonia and you
+were started on broad spectrum antibiotics. With treatment of
+pneumonia your breathing improved. In addition we switched your
+trach with improvement in symptoms.
+.
+To treat your hypotension you were started on midodrine and
+treated for infection.
+.
+Medications changes:
+To treat infection:
+1. Take Tobramycin 240mg IV every 36hrs. Your last dose of
+tobramycin at UPMCE occurred on 2010-08-30 00:00:00; your last dose will be due on
+the 29th.
+3. Take Zosyn 4.5mg every 6hrs. Your last dose of antibiotics
+will be on 2010-08-30 00:00:00.
+.
+To treat low blood pressure:
+1. Take Midodrine 10mg. Take one capsult three times daily
+.
+To treat hypothyroid
+1. Take Levothyroxine 50mcg daily.
+** You will need repeat TFTs in 6weeks with plan for dose
+alteration if needed.
+.
+To prevent clot formation you were start on SQ heparin.
+.
+Again it was a pleasure taking care of you. Please contact with
+any questions or concerns
+
+Followup Instructions:
+Please follow-up with PCP Bieler 1 week
+
+
+

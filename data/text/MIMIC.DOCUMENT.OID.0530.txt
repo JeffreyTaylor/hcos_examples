@@ -1,0 +1,350 @@
+Admission Date:  2011-10-16 00:00:00              Discharge Date:   2011-10-16 00:00:00
+
+Date of Birth: 1930-10-16 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Iodine
+
+Attending:Ethelene Vinar
+Chief Complaint:
+Hyperkalemia
+
+Major Surgical or Invasive Procedure:
+Paracentesis
+
+History of Present Illness:
+57 year old male with history of EtOH and HCV cirrhosis
+(genotype 1, treatment-naive) complicated by ascites, hepatic
+encephalopathy, with most recent EGD in 2011-10-16 00:00:00 showing no varices,
+as well as seizure disorder, polysubstance abuse on methadone,
+with recent admission for hepatic encephalopathy, now referred
+from his PCP's office for hyperkalemia and acute renal failure.
+He admits that he is often noncompliant with her medications,
+and is almost completely reliant on his sister Eshter Hammersmith to
+administer them (he can't even say which meds he's on).
+
+His last admission (2011-10-16 00:00:00 - 2011-10-16 00:00:00) was notable for
+hyponatremia, hyperkalemia, acute kidney injury, and
+encephalopathy. He underwent large volume paracentesis (4.7L),
+from which the peritoneal fluid grew GPCs and he was treated
+with vancomycin for 48 hours until cultures returned showing one
+bottle growing peptostreptococcus (believed to be a
+contaminant).  Antibiotics were discontinued at that time and he
+had no further signs of infection for the remainder of his
+hospital stay. His acute kidney injury was thought to be related
+to hypovolemia from overdiuresis, improved with IV albumin. His
+hyperkalemia was treated with kayexylate and the hyponatremia
+improved with fluid restriction (132 on discharge). His hepatic
+encephalopathy resolved with lactlose. He was given
+ciprofloxacin 250mg daily for SBP prohpylaxis (given low
+peritoneal fluid protein) and spironolactone was decreased from
+200 to 100mg + furosemide decreased from 80 to 40mg.
+
+Since discharge, patient has had 3 weekly, large volume
+paracenteses (2011-10-16 00:00:00 - 5L, 2011-10-16 00:00:00 - 4.75L, 2011-10-16 00:00:00 - 3L). He was seen by
+his PCP today who checked routine labs, which showed K+ of 6.8
+along with acute kidney injury (creatinine of  he was referred
+to the ED for further management.
+
+In the ED, triage vitals were 96.7 73 109/65 20 97%. He was
+AAox3 and without complaints. Labs showed K 6.8, Na 121 (ranging
+121-132 in past 20 days) Cr 1.9 (baseline ranging 0.9- 1.8 in
+past 20 days) INR 1.7, AST 47 ALT 89 tbili 1.4, Lactate 2.1. EKG
+reportedly had no peaked T waves, He was given calcium
+gluconate, dextrose + insulin, kayexelate, and 1L IV NS.  His
+blood glucose dropped and he started having terrible muscle
+cramps, requiring morphine and lorazepam to calm him down.  He
+is being admitted to the ICU after he received too much insulin
+and concern for hypoglycemia.
+
+On arrival to the MICU, he is awake, oriented, but sleepy.  His
+muscle cramps are much improved and he is having lots of
+diarrhea.  His electrolytes have started to normalize.
+
+
+Past Medical History:
+- Cirrhosis 2011-10-16 00:00:00 EtOH and HCV (genotype 1, treatment naive)
+--- Decompensations: hepatic encephalopathy, ascites requiring
+weekly paracenteses,
+--- IV drug abuse (quit in 2011-10-16 00:00:00)
+--- Alcohol abuse (quit in 2011-10-16 00:00:00)
+--- Confirmed by biopsy in 2011-10-16 00:00:00
+--- Being actively considered by transplant
+- Seizure disorder, not on any AEDs
+- Polysubstance abuse, on methadone
+
+
+Social History:
+Tobacco history: 2011-10-16 00:00:00 ppd currently. 40 years total.
+-ETOH: None since 2011-10-16 00:00:00
+-Illicit drugs: 123 Any St.us Heroin, none since 2011-10-16 00:00:00
+-Home:  Lives with brother and sister. Does hobbies around the
+house.
+
+
+Family History:
+Father - unknown
+Mother - deceased age 71, ?cancer, hypercholesterolemia
+Siblings - AIDS, hypercholesterolemia
+
+
+Physical Exam:
+On admission:
+Vitals: T: 97.7, BP:121/62, P: 113, R 20, O2:97% RA
+General: alert, oriented, no acute distress, but requires
+re-directing to keep his attention; temporal wasting
+HEENT: Sclera anicteric, MMM, oropharynx clear, edentulous;
+EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops; chest remarkable for gynecomastia
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+Abdomen: markedly distended and tympanitic, non-tender, bowel
+sounds present, significant splenomegaly palpated with some
+ascites leaking from umbilicus and prior paracentesis sites
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: + asterixis, CNII-XII intact, 5/5 strength upper/lower
+extremities (able to sit himself up for lung exam), grossly
+normal sensation, gait deferred
+
+Discharge PE:
+Physical Exam:
+VS: 98.7, 109/54, 79, 18, 94% RA
+I/O 300 alb, 960 PO, 825 urine, 2BM
+General: A&Ox3; in NAD
+HEENT: Sclera anicteric
+CV: RRR, no murmurs
+Chest: gynecomastia
+Skin: scattered angiomata
+Lungs: CTAB with decreased BS at the bases bilaterally, no
+wheezes, rales, rhonchi
+Abdomen: distended but soft, non-tender, bowel sounds present
+Ext: warm, well perfused, 2+ DP pulses, trace LE edema with
+overlying increased skin pigmentation
+Neuro: minimal asterixis
+
+
+Pertinent Results:
+Labs on admission
+2011-10-16 00:00:00 06:05PM BLOOD WBC-9.4 RBC-3.68* Hgb-13.1* Hct-40.0
+MCV-109* MCH-35.6* MCHC-32.7 RDW-13.2 Plt Ct-106*
+2011-10-16 00:00:00 06:05PM BLOOD Neuts-73.8* Lymphs-12.8* Monos-12.3*
+Eos-0.7 Baso-0.3
+2011-10-16 00:00:00 06:05PM BLOOD PT-17.6* PTT-41.9* INR(PT)-1.7*
+2011-10-16 00:00:00 01:07PM BLOOD UreaN-41* Creat-1.8* Na-121* K-5.9*
+Cl-89* HCO3-27 AnGap-11
+2011-10-16 00:00:00 06:05PM BLOOD ALT-47* AST-78* CK(CPK)-50 AlkPhos-95
+TotBili-1.4
+2011-10-16 00:00:00 06:05PM BLOOD Albumin-3.0* Calcium-8.9 Phos-4.7*#
+Mg-2.4
+2011-10-16 00:00:00 06:21PM BLOOD Lactate-2.1*
+
+MICRO:
+Blood cx 2011-10-16 00:00:00: pending (NGTD)
+Urine cx 2011-10-16 00:00:00: neg
+Ascites cx 2011-10-16 00:00:00: pending (NGTD)
+
+IMAGING:
+RUQ U/S 2011-10-16 00:00:00:
+1.  Cirrhosis with large volume ascites.
+2.  Patent hepatic vasculature.
+3.  Unchanged dilatation of the common bile duct to 10 mm
+without intrahepatic biliary duct dilatation.
+
+CXR 2011-10-16 00:00:00: Heart size is normal.  Mediastinum is normal.  Mild
+interstitial prominence is demonstrated, unchanged since the
+prior study.  Bilateral pleural effusions are moderate, slightly
+decreased since prior examination but minimally.  Upper lungs
+are essentially clear.  There is no pneumothorax.
+
+2011-10-16 00:00:00 05:50AM BLOOD WBC-4.4 RBC-2.85* Hgb-10.1* Hct-30.9*
+MCV-108* MCH-35.5* MCHC-32.8 RDW-13.2 Plt Ct-64*
+2011-10-16 00:00:00 06:35AM BLOOD Neuts-54.9 Lymphs-26.9 Monos-14.7*
+Eos-2.7 Baso-0.8
+2011-10-16 00:00:00 05:50AM BLOOD Plt Ct-64*
+2011-10-16 00:00:00 05:50AM BLOOD UreaN-44* Creat-1.3* Na-134 K-4.9 Cl-102
+HCO3-27 AnGap-10
+2011-10-16 00:00:00 04:10PM BLOOD FDP-10-40*
+2011-10-16 00:00:00 05:50AM BLOOD ALT-39 AST-74* AlkPhos-50 TotBili-2.5*
+2011-10-16 00:00:00 05:50AM BLOOD Calcium-8.9 Phos-3.2 Mg-2.5
+
+Brief Hospital Course:
+57 year old male with history of EtOH and HCV cirrhosis with
+multiple prior hospitalizations for encephalopathy and ascites
+requiring weekly paracenteses, initially admitted to the ICU for
+stabilization of blood sugars after treatment for hyperkalemia,
+transferred to the Liver service for management of his ascites
+and encephalopathy. He was started on lactulose and rifaximin
+and his encephalopathy cleared. On 2011-10-16 00:00:00 he underwent
+paracenteses with removal of 3L fluid. On this admission his
+creatinine peaked at 1.9 on 2011-10-16 00:00:00. Home Lasix and Aldactone were
+held. On the floor he was given three units of albumin and
+creatinine eventually trended down to 1.3. With improvement in
+Hammersmith, potassium also trended down. On the day of discharge (2011-10-16 00:00:00)
+it was noted to again be elevated at 5.6, confirmed with a value
+of 5.3 later in the day. He was given a dose of Kayexylate with
+instructions for outpatient lab draw (LFTs and basic chemistry)
+on 2011-10-16 00:00:00 and to follow up with Dr. Ethelene Vinar on 2011-10-16 00:00:00.
+.
+>> Active Issues:
+# Hepatic encephalopathy: Presented with asterixis change in
+mental status relative to baseline. MS improved with lactulose.
+Infectious workup negative to date with neg Ucx; tap neg for SBP
+2011-10-16 00:00:00. Bl cx NGTD. CXR without evidence of PNA. RUQ U/S with
+dopplers unremarkable.
+.
+# Hammersmith: Cr of 1.9 on adm. Cr improved with albumin but plateaued
+at 1.5. Baseline approx 0.9. Most likely from diuretics causing
+prerenal azotemia, especially since improvement after albumin
+but DDx also included HRS. Ulytes c/w prerenal etiology with low
+Una which may also suggest HRS. Pt given 2 day albumin challenge
+without significant improvement in Cr. Diuretics held and pt
+will discharged off diuretics and plan for weekly taps for
+ascites mgmt. After third albumin dose Creatinine trended down
+to 1.5 and remained stable at that level until discharge.
+.
+# Hyperkalemia: On adm, K 6.8 without EKG changes. Pt given
+insulin/glucose in ED as well as kayexalate and hyperK resolved.
+Pt initially with muscle cramping on adm, which resolved with
+treatment of hyperkalemia. Etiology likely from Hammersmith in
+combination with spironolactone and questionable compliance. On
+day of discharge 2011-10-16 00:00:00 it was noted to be high at 5.6 and then
+confirmed with repeat chemistries in the afternoon. Pt was given
+one dose of kayexylate with instructions to go for lab draw on
+2011-10-16 00:00:00. Pt is to follow up with Dr. Ethelene Vinar in Transplant clinic on
+2011-10-16 00:00:00.
+.
+# Leukocytosis: WBC bump to 12.8 2011-10-16 00:00:00, and quickly normalized.
+No clear infectious source.
+.
+# Hyponatremia: likely from decompensated cirrhosis. Na as low
+as 120 and improved with holding diuretics and fluid
+restriction.
+.
+# Thrombocytopenia: plts to 28 on 2011-10-16 00:00:00, improved to 68.
+DIC/hemolysis labs suggestive that this is most likely related
+to cirrhosis vs low grade chronic DIC.
+.
+# Hypoglycemia: From insulin given in ED for hyperkalemia.
+Resolved. Likely has nothing to do with the degree of his liver
+failure, as he does not appear to be in these late stages yet.
+Fingersticks stable in ICU.
+.
+>> Chronic issues:
+# HCV and EtOH cirrhosis c/b diuretic-refractory ascites
+requiring weekly therapeutic taps, as well as HE: Asterixis and
+significant ascites on exam. Receiving transplant work-up as
+outpt. Continued cipro 250mg daily for now for SBP ppx. HE mgmt
+per above. Consider TIPS for diuretic refractory ascites.
+Discontinue diuretics on discharge and proceed with weekly
+therapeutic taps for ascites mgmt.
+.
+# Polysubstance abuse: continue methadone 100
+
+TRANSITIONAL ISSUES
+# Communication:  Eshter Hammersmith Eshter Hammersmith (sister) test@mail.com
+# Code: Full code
+# Consider TIPS for diuretic-refractory ascites.
+# Basic chemistries and LFTs to be drawn on Friday 2011-10-16 00:00:00. Please
+follow up at appointment with Dr. Ethelene Vinar on 2011-10-16 00:00:00.
+# F/u: Dr. Ethelene Vinar in Liver transplant clinic.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from webOMR.
+1. Methadone 100 mg PO DAILY
+Hold for sedation
+2. Lactulose 30 mL PO TID
+3. Rifaximin 550 mg PO BID
+4. Ciprofloxacin HCl 250 mg PO Q24H
+5. Furosemide 40 mg PO DAILY
+hold for SBP<90
+6. Spironolactone 100 mg PO DAILY
+Hold for K>5.5
+7. Vitamin D 50,000 UNIT PO 1X/WEEK (MO)
+
+
+Discharge Medications:
+1. Ciprofloxacin HCl 250 mg PO Q24H
+2. Lactulose 30 mL PO TID
+3. Methadone 100 mg PO DAILY
+Hold for sedation
+4. Rifaximin 550 mg PO BID
+5. Vitamin D 50,000 UNIT PO 1X/WEEK (MO)
+6. Outpatient Lab Work
+Please draw LFTs and a basic chemistry panel on 2011-10-16 00:00:00 and fax the
+results to Dr. Ethelene Vinar at (test@mail.com
+ICD-9: 571.5.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis:
+Acute kidney injury
+Hyperkalemia
+Hepatic encephalopathy
+
+Secondary diagnosis:
+Hepatitis C cirrhosis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. Hammersmith,
+
+It was a pleasure taking care of you in the hospital. You were
+admitted because of high potassium levels in your blood and labs
+suggestive of decreased kidney function. Your blood sugar
+dropped low after you were given insulin to treat the high
+potassium levels. You had to be observed overnight in the ICU.
+You developed a bit of confusion. We did not find any infections
+to explain this. We gave you lactulose and you improved.
+
+Please follow-up at the appointments listed below. Please see
+the attached list for updates and changes to your home
+medications. Please make sure to take lactulose so that you have
+2011-10-16 00:00:00 bowel movements daily.
+
+We have stopped the two diuretics below. Please stop taking them
+at home:
+STOP: Furosemide 40 mg by mouth DAILY
+STOP: Spironolactone 100 mg by mouth DAILY
+
+Please have your labs drawn this Friday (2011-10-16 00:00:00) and then
+follow up with our liver center in 2 weeks as below.
+
+Followup Instructions:
+Department: TRANSPLANT
+When: THURSDAY 2011-10-16 00:00:00 at 11:00 AM
+With: TRANSPLANT FELLOW & [**Doctor Last Name **] test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+Department: LIVER CENTER
+When: THURSDAY 2011-10-16 00:00:00 at 12:40 PM
+With: Eshter Hammersmith Eshter Hammersmith, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+Department: RADIOLOGY
+When: THURSDAY 2011-10-16 00:00:00 at 1:30 PM
+With:  ULTRASOUND test@mail.com
+Building: CC 123 Any St. 123 Any St.
+Campus: WEST     Best Parking: 123 Any St. Garage
+
+
+                             Eshter Eshter Hammersmith MD 54589
+
+Completed by:2011-10-16 00:00:00

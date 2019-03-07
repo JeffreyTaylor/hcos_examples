@@ -1,0 +1,444 @@
+Admission Date:  2008-05-23 00:00:00              Discharge Date:   2008-05-23 00:00:00
+
+Date of Birth: 1953-05-13 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Unasyn
+
+Attending:Dushan Ziolko
+Chief Complaint:
+arm pain
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. Grochowski is a 63yo M w/hx of CHF (EF 15-20%), s/p ICD
+placement, severe TR, DM2, CKD (baseline Cr 1.3-1.8), afib on
+coumadin, elevated LFTs, who presented to the ED with chest pain
+and L arm pain. By report of wife and patient he has had bad
+gout over the past several weeks to months.  Principally this
+has been involving his right foot limiting his ability to walk.
+In the past few days had increasing right arm pain that patient
+thought was also his gout.  Then starting about yesterday,
+patient had severe left arm pain at the shoulder and the elbow.
+This is ultimately what prompted him to come to the ED.  ROS
+notable for +sharp midsternal chest pain with coughing,
+non-productive cough, sinus congestion for several weeks,
+chills.  Patient denied back pain, neck pain, pain with chewing,
+changes to his urine output or other complaints beyond those
+noted.
+.
+Of note, recent medication changes include uptitration of
+allopurinol to 250mg PO qday for gout after recent gout flare
+2008-05-23 00:00:00.
+.
+In the ED, initial vs were: T101.4 HR71 BP90/42 RR20 100%RA .
+Blood pressures dropped to the 70s systolic and he was given 1L
+IVF, a CVL was placed and CVP was 13-16.  A R IJ was placed and
+after dopamine was turned up to 20mcg/min, he was started on
+Levofed and dopamine was weaned down.  He was given Vanc and
+Levofloxacin and nothing further due to allergy to Unasyn.  He
+underwent non-contrast CT of the abdomen which was grossly
+normal. CXR was clear.  A FAST scan in the ED did not show
+pericardial effusion, kidneys without hydronephrosis.  Received
+3L NS, ASA 325, Vanco 1gram Morphine 4mg IV x1.  Levo/aztreonam
+ordered but not given.
+.
+On arrival to the floor, patient c/o total body pain, and
+feeling cold.
+
+
+Past Medical History:
+Nonischemic cardiomyopathy, LVEF 15-20%
+ICD placement for primary prevention of sudden cardiac death
+Diabetes mellitus type 2 insulin dependent
+Gout
+Peripheral neuropathy
+Chronic atrial fibrillation
+Chronic kidney disease
+Elevated transaminases, unknown etiology
+Umbilical hernia repair, 2008-05-23 00:00:00
+Gallstone pancreatitis s/p ERCP (2008-05-23 00:00:00)
+Internal hemorrhoids
+Hemoglobin C carrier
+
+
+Social History:
+The patient is originally from 123 Any St. currently living with his
+wife.  Returned to 123 Any St. this past fall, but came back to US
+after severe gout flare of his foot.  No smoking.  He quit
+alcohol use, no IV drug use.  He says his diet is generally
+difficult because he
+feels like any food he eats causes gout flare
+.
+
+
+Family History:
+No first-degree relatives with coronary artery disease.  His
+mother had breast cancer.
+.
+
+
+Physical Exam:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+THREE VIEWS, LEFT SHOULDER: Examination is limited by
+nonstandard views as
+well as the overlying pacemaker. There is moderate degenerative
+change at the acromioclavicular joint with narrowing and
+subchondral sclerosis. The
+glenohumeral joint appears intact. There is no visualized
+fracture.
+.
+THREE VIEWS, LEFT ELBOW: There is no fracture or abnormal
+alignment. There
+is no joint effusion. Mineralization is normal.
+.
+NON-CONTRAST CHEST CT: Imaged thyroid gland is grossly
+unremarkable. There
+is a left-sided cardiac pacer with the lead terminating in the
+right
+ventricle. There is also a right internal jugular intravenous
+catheter with the tip at the mid-distal SVC. A few subcentimeter
+mediastinal lymph nodes with no evidence of lymphadenopathy are
+noted. There is no hilar or axillary lymphadenopathy on this
+non-contrast study. The aorta demonstrates atherosclerotic
+calcifications. Atherosclerotic calcifications of the coronary
+arteries are also seen. Heart is enlarged. There is no
+pericardial effusion. Bibasilar atelectatic changes and/or
+pneumonia, left more than right are noted. Mild emphysema is
+likely present. Calcified granulomas in the right lower lobe
+(2:46 and 2:30) are noted. There is no pneumothorax or pleural
+effusion.
+
+NON-CONTRAST ABDOMINAL CT: The unenhanced liver, spleen,
+pancreas, adrenals are unremarkable. Small pericholecystic fluid
+was also seen on prior study.  Both kidneys are in normal
+anatomic location. A focal, somewhat band-like calcification in
+the interpolar region of the left kidney is stable since 2008-05-23 00:00:00
+2008-05-23 00:00:00. There is a probable 2-mm nonobstructive stone in the
+inferior pole of the left kidney (2:74). There is no
+hydronephrosis. Abdominal aorta and
+iliac vessels demonstrate severe atherosclerotic calcifications
+with no
+aneurysmal dilatation. There is no retroperitoneal hematoma.
+Evaluation of
+the GI tract demonstrates no evidence of bowel obstruction or
+bowel wall
+thickening. Tubular blind ending structure in the right lower
+quadrant likely represents a normal appendix.
+
+NON-CONTRAST PELVIC CT: The urinary bladder is collapsed and
+contains a Foley atheter. Air within the urinary bladder is
+likely secondary to
+instrumentation. Bilateral small fat-containing inguinal hernias
+are seen.  The rectum contains stool, otherwise unremarkable.
+Seminal vesicles are symmetric. The prostate gland measures
+about 5 cm in transverse diameter.  The urinary bladder wall
+thickening may be secondary to underdistension. A few mildly
+prominent inguinal lymph nodes are noted. A hypoattenuating
+structure measuring 2.3 cm in the right lower abdomen to the
+right of the urinary bladder is stable.
+  .
+OSSEOUS STRUCTURES: There is no bony lesion to suggest
+malignancy or
+infection.
+  .
+IMPRESSION:
+1. Left lower lobe atelectasis or pneumonia. Mild emphysema.
+2. Small amount of pericholecystic fluid was also seen on prior
+study. Please clinically correlate.
+2. Probable 2 mm nonobstructive left renal calculus.
+  .
+
+
+2008-05-23 00:00:00 08:14AM BLOOD RheuFac-<3
+2008-05-23 00:00:00 08:14AM BLOOD ANCA-NEGATIVE B
+2008-05-23 00:00:00 08:14AM BLOOD Cortsol-7.1
+2008-05-23 00:00:00 02:21PM BLOOD Cortsol-6.8
+2008-05-23 00:00:00 03:10PM BLOOD Cortsol-10.1
+2008-05-23 00:00:00 04:14PM BLOOD Cortsol-10.7
+2008-05-23 00:00:00 10:50PM BLOOD Glucose-134* UreaN-61* Creat-4.2*#
+Na-132* K-4.5 Cl-98 HCO3-21* AnGap-18
+2008-05-23 00:00:00 04:10AM BLOOD Glucose-215* UreaN-89* Creat-1.7* Na-138
+K-3.9 Cl-110* HCO3-17* AnGap-15
+2008-05-23 00:00:00 10:50PM BLOOD PT-37.9* PTT-48.4* INR(PT)-3.9*
+2008-05-23 00:00:00 04:10AM BLOOD PT-20.3* PTT-32.1 INR(PT)-1.9*
+2008-05-23 00:00:00 10:50PM BLOOD WBC-6.3 RBC-3.82* Hgb-10.1* Hct-28.7*
+MCV-75* MCH-26.3* MCHC-35.1* RDW-19.8* Plt Ct-135*
+2008-05-23 00:00:00 04:10AM BLOOD WBC-9.0 RBC-3.71* Hgb-9.8* Hct-27.8*
+MCV-75* MCH-26.5* MCHC-35.3* RDW-20.2* Plt Ct-157
+
+Brief Hospital Course:
+This is a 63 year old male with PMH of severe systolic HF with
+an EF=25%, afib on coumadin, who presented with hypotension and
+found to have questionable adrenal insufficiency in the setting
+of a likely gout flare.
+.
+#. Hypotension:  Possibly due to adrenal insufficiency, given
+symptoms of fever, hypotension, diarrhea, high eosinophils,
+hyponatremia, and hyperkalemia with low cortisol failed ACTH
+stimulation (Grochowski stim 6->10->10).  Confounding factors are that
+colchicine causes diarrhea and allopurinol induces
+hypereosinophilia.  An abdominal CT without contrast showed no
+evidence of adrenal pathology.  Initially, the patient had fever
+and tachypnea concerning for septic shock possibly from a
+pulmonary source as a possible pneumonia was seen on CT scan.
+He did have a normal lactate and no leukocytosis.  Septic
+arthritis was considered given prominent joint complaints and
+history of gout, although his joint was tapped by Grochowski
+and was negative for infection.  He was on vasopressors on
+admission, but weaned off over 48 hours.  He was subsequently
+normotensive with a normal lactate.  He was started on IV
+hydrocortisone in the ICU which was transitioned to oral
+prednisone on 2008-05-23 00:00:00.  Grochowski endocrine team recommended a quick
+prednisone taper to 20mg on 2008-05-23 00:00:00, 10mg on 2008-05-23 00:00:00, then off on
+2008-05-23 00:00:00.  The patient's pressures remained stable off of prednisone
+for greater than 24 hours.  Cortisol and free cortisol levels
+were sent on 2008-05-23 00:00:00 when the patient was off of steroids for 24
+hours and he was sent home on prednisone 5mg daily until he can
+be followed up in the Grochowski endocrine clinic.
+CMV, HIV, RPR, and TSH were all sent to rule out other causes of
+adrenal insufficiency.  HIV, CMV, and RPR negative.  TSH was low
+with high free T4 and low T3 attributed to SICU thyroid.  It is
+therefore unlikely that the patient is panhypopit.  The patient
+said that a PPD placed 3 months prior was negative for Tb.  An
+adrenal MRI was considered to rule out hemorrhage while on
+coumadin or infection but could not be performed with his ICD in
+place.
+.
+#.  Gout: The patient redeveloped right ankle swelling and pain
+on 2008-05-23 00:00:00 in the setting of decreasing his prednisone from 20mg to
+10mg.  Allopurinol was continued and he was restarted on daily
+colchicine.  His uric acid level was 5.8 on 2008-05-23 00:00:00.  Colchicine
+was restarted with a 1.2mg dose followed by 0.6 mg dose on 2008-05-23 00:00:00.
+ He was started on low dose prednisone 5mg daily both to prevent
+gout and hypotension (from possible adrenal insufficiency) until
+he follows up as an outpatient with endocrinology.
+.
+#.  Infection/sepsis:  The patient was febrile and admission
+blood cultures were growing coag negative staph which was likely
+a contaminant.  CT chest on admission showed an opacity that was
+read as being consistent with atelectasis vs. PNA.  He received
+empiric broad spectrum antibiotics (Zosyn, vancomycin, flagyl)
+in the ICU until 2008-05-23 00:00:00, but they were discontinued prior to
+transfer to the floor.  The patient remained afebrile, but
+developed a leukocytosis with peak WBC count of 12.3 on 2008-05-23 00:00:00
+which was likely secondary to a gout flare as the leukocytosis
+resolved after proper gout treatment and no abx.  TTE showed no
+evidence of vegetations on valves or hardware.  2008-05-23 00:00:00
+tapped his swollen joint in the ICU and it was negative for
+infection.  His central line was removed on 2008-05-23 00:00:00 and the
+catheter tip culture was negative.  All blood and urine cultures
+were negative.
+.
+#. Hyperglycemia:  The patient initially had poor glucose
+control in the setting of high dose steroids. He required an
+insulin gtt in the ICU and was started on Lantus/HISS upon
+transfer from the ICU.  His sugars improved dramatically as he
+was weaned off of steroids and he was discharged on his home
+Novolog sliding scale.
+.
+#. Grochowski: The etiology was likely pre-renal given that his UA was
+bland.  His creatinine peaked at 4.2 and improved with IVFs.   A
+renal U/S was normal and his creatinine was his creatinine was
+back down to his baseline of 1.1 upon discharge.
+His home Diovan was restarted on 2008-05-23 00:00:00.  Torsemide was held given
+his hypotension and potential to provoke gout flare.  Given his
+severe CHF, the torsemide may need to be restarted as an
+outpatient.  His ankles did have 1+ edema, but his lungs were
+clear on discharge.
+.
+#. Elevated INR:  The patient's INR trended up to 11.5 on 2008-05-23 00:00:00
+requiring vitamin K administration.  The etiology of this rise
+was unclear, but may have been secondary to poor PO intake prior
+to admission.  His Coumadin dose was decreased to 2 mg daily
+before discharge with therapeutic INRs resulting.
+.
+#. CHF:  The patient has non-ischemic cardiomyopathy with an
+EF=25% and severe TR.  Initially, all of his cardiac meds except
+for digoxin were held given his hypotension requiring pressors.
+He was restarted on his home Diovan 40mg on 2008-05-23 00:00:00 and his
+carvedilol 3.125mg UPMCE was restarted upon discharge.  His home
+torsemide was not re-initiated given his hypotension and the
+potential of triggering another gout flare.  His digoxin level
+was low at 0.4 but was not adjusted in the setting of his
+fluctuating renal function.  He should follow-up with Dr. Chawn
+ans an outpatient for further titration of his cardiac meds.
+.
+#. Atrial Fibrillation:  His home carvedilol was held initially
+given his hypotension, but was restarted on discharge.  His
+digoxin level was low at 0.4 but was not adjusted in the setting
+of his fluctuating renal function.  He was continued on Coumadin
+at discharge after it was initially held for an INR=11.
+.
+#. Sinusitis: The patient has had several months of sinus
+congestion and was started on fluticasone nasal spray.
+.
+#. Eosinophilia:  His absolute eosinophil count on admission was
+about 900 and has been noted in past labs.  This finding was
+concerning for malignancy, occult parasitic infection, or
+Churg-Dushan Ziolko.  However, his eosinophilia improved with steroids
+and ANCA was negative.
+.
+#. Communication: Patient and Chawn Grochowski (wife) who works in
+Radiology for UPMCE and can be reached at home test@mail.com,
+cell test@mail.com, work [**Numeric Identifier 3484**]
+.
+#. Code: Confirmed full code.
+
+
+Medications on Admission:
+Allopurinol 250mg PO qday
+Carvedilol 3.125 PO BID
+Colchicine 0.6mg PO qday
+Digoxin 125mcg PO qday
+Insulin sliding sclae
+Lantus Chawn Grochowski order -> does not need or take
+Spironolactone 12.5mg PO qAM -> d/c'd as per patient
+Torsemide 40mg PO BID
+Valsartan 40mg PO qday
+Warfarin 4mg M/W/Fri, 3.5mg the other 4 days
+
+Discharge Medications:
+1. Allopurinol 100 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Valsartan 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Sodium Chloride 0.65 % Aerosol, Spray Sig: 2008-05-23 00:00:00 Sprays Nasal
+QID (4 times a day) as needed for rhinorrhea.
+6. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal UPMCE (2 times a day).
+Disp:*1 bottle* Refills:*2*
+7. Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. Outpatient Lab Work
+please check INR twice per week and fax results to UPMCE
+UPMCE clinic at UPMCE, fax test@mail.com
+10. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+Disp:*60 Tablet(s)* Refills:*2*
+11. Novolog 100 unit/mL Solution Sig: per sliding scale units
+Subcutaneous as directed.
+Disp:*1 bottle* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+Primary diagnosis: Hypotension, acute gout flare
+.
+Secondary diagnoses:
+-Idiopathic cardiomyopathy EF=25%
+-type 2 diabetes
+-elevated LFTs
+-atrial fibrillation on coumadin
+-peripheral neuropathy
+-chronic kidney injury
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to UPMCE for
+evaluation of arm and chest pain.  You were found to have
+dangerously low blood pressure and were admitted to the
+Intensive Care Unit where IV medications were given to keep your
+blood pressure up.  Initially, it was thought that your blood
+pressure could be low because of an infection.  However, we were
+not able to find any source of infection.  Since infection was
+not the likely cause of your low blood pressure, we were
+concerned that you did not have enough of a hormone called
+cortisol in your blood.  Cortisol helps keep the blood pressure
+at normal levels, and is secreted by a gland above your kidney
+called the adrenal gland.  Your cortisol levels were found to be
+low, which made us suspect a problem with your adrenal glands.
+In the meantime, your gout began to flare up and you were
+treated with colchicine and allopurinol.
+.
+It is very important that you follow up with UPMCE clinic next
+week. Until then, please take 5 mg of prednisone per day, as
+prescribed. This dose will make sure that you have cortisol
+activity in your system and will thus make sure your blood
+pressure stays up.
+.
+The following changes were made to your home medication regimen:
+- You should take allopurinol 200mg daily
+- You should take Flonase for your runny nose
+- You should change your Coumadin dose to 2mg daily
+- You should continue on prednisone 5mg
+
+Please do not take torsemide or spironolactone until instructed
+to do so by Dr. Chawn.
+
+
+Followup Instructions:
+Please follow-up with all of your outpatient medical
+appointments listed below:
+.
+1. Please call Dr.Chawn Grochowski office tomorrow to set up an
+appointment with him this week.   Please keep track of your
+daily weights.  You will need to see Dr. Chawn to discuss when
+to restart your fluid management medications, torsemide and
+spironolactone.
+.
+2. Please call your PCP, Grochowski. Chawn, at test@mail.com, tomorrow to
+set up an appointment.
+.
+3. The Grochowski endocrine clinic should call you with an
+appointment to follow-up the possibility of your adrenal
+insufficiency as an outpatient.  If you do not hear from them in
+1 week, please call (test@mail.com to schedule an appointment.
+.
+4. Department: test@mail.com
+When: THURSDAY 2008-05-23 00:00:00 at 11:30 AM
+With: [**First Name8 (NamePattern2) 274**] Grochowski test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: Dushan Ziolko. GARAGE
+.
+5. Department: Dushan Ziolko
+When: THURSDAY 2008-05-23 00:00:00 at 11:00 AM
+With: [**First Name8 (NamePattern2) 274**] Grochowski test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: Dushan Ziolko. GARAGE
+.
+6. Department: Dushan Ziolko
+When: WEDNESDAY 2008-05-23 00:00:00 at 1 PM
+With: Chawn Dushan Ziolko Grochowski, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: Dushan Ziolko. GARAGE
+
+
+

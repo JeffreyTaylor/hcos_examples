@@ -1,0 +1,283 @@
+Admission Date:  2012-11-15 00:00:00              Discharge Date:   2012-11-15 00:00:00
+
+Date of Birth: 1955-11-14 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamides) / Codeine / Ciprofloxacin / Penicillins
+
+Attending:Hansford Millegan
+Chief Complaint:
+Back Pain
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Ms. Reutter is a 77 year-old female with osteoporosis and multiple
+vertebral compression fractures status post vertebroplasty and
+kyphoplasty last 2012-11-15 00:00:00 by Dr. Reutter at UPMCE (T10), also with
+COPD and bronchiectasis on home oxygen 2L/min for 1 month, and
+chronic hyponatremia secondary to SIADH, who presents from home
+with increasing back pain.
+*
+She reports that she has baseline back discomfort from her
+multiple 123 Any St.us interventions, but has noted significant
+worsening in the past 2 days, bilateral with midline sparing,
+wrapping around to axilla bilaterally, worse at the level of her
+most recent surgery but also diffuse. She denies paresthesia or
+new extremity weakness, no difficulty urinating or defecating.
+She denies fever or chills. On a different note, she reports
+chronic severe shortness of breath, stable over the past month,
+for which she uses 2L home oxygen. She denies phlegm production,
+no chest pain, and endorses mild chronic LE edema which has been
+attributed to her Norvasc. She sleeps with multiple pillows due
+to her kyphosis and SOB, no change recently.
+*
+In ED, T 98.2, HR 76, BP 182/75, RR 24, Sat 100% on 2L/min. T
+and L-spine X-rays did not reveal new fractures, CXR with
+findings consistent with bronchiectasis, CT chest without PE but
+with interval increase in bronchiectatic and peribronchial
+inflammatory changes. She was evaluated by neurosurgery, deemed
+to be intact neurologically. She is being admitted for ongoing
+pain control.
+
+
+Past Medical History:
+# chronic back pain, compression fractures
+# COPD with bronchiectasis dx 2012-11-15 00:00:00. 2012-11-15 00:00:00 with MYCOBACTERIUM
+KANSASII and pseudomonas.
+# hemorrhoids
+# hemorroidal prolapse with GIB
+# SIADH
+# perirectal abscess s/p I/D in 2012-11-15 00:00:00
+# Pulmonary nodules
+# Lower extremity edema
+# osteoporosis
+# mitral valve prolapse
+# spinal stenosis
+# 1+ MR, 2012-11-15 00:00:00+ TR, 1+ AR echo 2012-11-15 00:00:00
+# multi-nodular thyroid
+
+
+Social History:
+The patient has a 7.5 pack year history, but quit >40 years ago,
+
+occasional alcohol use, and no other drug use. The patient
+lives with adult daughter in Edu Reutter.
+
+
+Family History:
+non contributory
+
+Physical Exam:
+T 97.6, HR 96 (73-96), BP 142/78 (138-142/76-78), RR 22,
+100%2L/min.
+GEN: Cachectic, kyphotic elderly female, in NAD.
+HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva,
+MMM, no oral ulcerations, no LAD, no decreased ROM
+NECK: No carotid bruit. JVP less than 5cm ASA.
+RESP: Early inspiratory crackles, R>L, worse in upper thorax,
+heard both anteriorly and posteriorly, without bronchial
+breathing.
+CVS: RRR, S1/S2, Faint systolic murmur heard at RUSB, without
+radiation.
+GI: Soft, non-tender.
+EXT: Trace bilateral ankle edema.
+NEURO: CN II-XII intact, 4/5 strength in all extremities
+MSK: There is no midline spine tenderness. She has tenderness to
+palpation in paraspinal areas bilaterally. no CVAT
+
+
+Pertinent Results:
+labs:
+2012-11-15 00:00:00 04:50PM BLOOD WBC-11.8* RBC-3.95* Hgb-12.1 Hct-33.8*
+MCV-86 MCH-30.7 MCHC-35.8* RDW-13.0 Plt Ct-445*
+2012-11-15 00:00:00 06:57AM BLOOD WBC-10.7 RBC-4.03* Hgb-11.5* Hct-36.2
+MCV-90 MCH-28.6 MCHC-31.9 RDW-13.0 Plt Ct-562*
+2012-11-15 00:00:00 05:50PM BLOOD D-Dimer-1229*
+2012-11-15 00:00:00 04:50PM BLOOD Glucose-87 UreaN-20 Creat-0.4 Na-129*
+K-4.1 Cl-86* HCO3-33* AnGap-14
+2012-11-15 00:00:00 06:35AM BLOOD Glucose-91 UreaN-17 Creat-0.4 Na-129*
+K-4.4 Cl-87* HCO3-36* AnGap-10
+2012-11-15 00:00:00 06:35AM BLOOD Glucose-104 UreaN-18 Creat-0.4 Na-126*
+K-4.3 Cl-84* HCO3-37* AnGap-9
+2012-11-15 00:00:00 06:35AM BLOOD Calcium-9.1 Phos-2.5* Mg-2.0
+2012-11-15 00:00:00 06:35AM BLOOD TSH-0.37
+
+.
+Imaging:
+CTA CHEST W&W/O C &RECONS  2012-11-15 00:00:00 8:31 PM
+IMPRESSION:
+1. No evidence of pulmonary embolism or aortic dissection.
+2. Extensive bronchiectasis and peribronchial inflammation is
+again seen, with nodular opacities adjacent to these areas
+suggesting mucoid impaction or inflammation. These findings have
+increased in comparison to prior study.
+3. Extensive compression deformities within the thoracic spine,
+with changes related to vertebroplasty.
+4. Hypodensity within the left thyroid gland and an exophytic
+thyroid nodule extending inferiorly.
+.
+CT T-SPINE W/O CONTRAST  2012-11-15 00:00:00 8:31 PM
+IMPRESSION: Again seen are multiple compression deformities
+within the thoracic and lumbar spine, with mild narrowing of the
+spinal canal, greatest at T11/12 level. There is very limited
+evaluation on CT of intrathecal contents, representing a concern
+for cord abnormality, and further evaluation with an MRI should
+be obtained.
+NOTE ADDED IN ATTENDING REVIEW: Agree overall with above. There
+is severe, diffuse osteopenia with thoracic kyphoscoliosis, but
+no evidence of acute alignment abnormality. The severe T7 and
+less marked T6 (and L4) compression deformities are of
+indeterminate age, and an acute component cannot be excluded; in
+this regard, comparison with prior (outside) cross-sectional
+studies would be helpful. The moderate ventral spinal canal
+narrowing at the T12 level reflects retropulsion of that dorsal
+vertebral cortex. No definite vertebroplasty material is
+identified within the epidural space.
+.
+L-SPINE (AP & LAT)  2012-11-15 00:00:00 5:50 PM
+IMPRESSION: Interval increase in the number of vertebral bodies,
+status post kyphoplasty. Probable upper thoracic spine
+compression fractures, however, this is inadequately evaluated
+on this examination secondary to motion.
+.
+T-SPINE  2012-11-15 00:00:00 5:50 PM
+IMPRESSION: Interval increase in the number of vertebral bodies,
+status post kyphoplasty. Probable upper thoracic spine
+compression fractures, however, this is inadequately evaluated
+on this examination secondary to motion
+.
+CHEST (PA & LAT)  2012-11-15 00:00:00 5:50 PM
+IMPRESSION:
+1. Stable appearance of the chest with upper lobe interstitial
+densities and bronchiectasis, stable.
+2. COPD.
+.
+ECHO Study Date of 2012-11-15 00:00:00
+Conclusions:
+The left atrium is normal in size. There is mild symmetric left
+ventricular  hypertrophy. The left ventricular cavity size is
+normal. Overall left  ventricular systolic function is normal
+(LVEF>55%). There is no left  ventricular outflow obstruction at
+rest or with Valsalva. The right  ventricular cavity is mildly
+dilated. Right ventricular systolic function is  normal. The
+aortic valve leaflets (3) are mildly thickened. There is no
+aortic  valve stenosis. Mild to moderate (2012-11-15 00:00:00+) aortic
+regurgitation is seen. The  mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is  seen. The left
+ventricular inflow pattern suggests impaired relaxation. There
+is mild pulmonary artery systolic hypertension. There is no
+pericardial  effusion.
+Compared with the report of the prior study (images unavailable
+for review) of  2012-11-15 00:00:00, estimated pulmonary artery systolic
+pressure is similar. Right  ventricle cavity size may now be
+larger.
+.
+MR THORACIC SPINE W/O CONTRAST  2012-11-15 00:00:00 9:36 AM
+IMPRESSION:
+
+1. 1.3-cm well defined round lesion in the posterior part of the
+T5 vertebral body, which is indeterminate. Malignancy cannot be
+excluded based on this appearance.
+2. Edema in the posterior parts of the T9 and T10 vertebral
+bodies, which could be related to post-vertebroplasty edema.
+3. Retropulsed fragments of the collapsed vertebral bodies at
+various levels, contacting the cord with narrowing of the
+ventral canal at T7 and T12 levels; nerve root impingement at
+T12 level cannot be excluded, but not definitive.
+.
+Blood cultures: 2012-11-15 00:00:00 GPCs (2 bottles speciated as MRSA)
+
+Brief Hospital Course:
+Mrs. Reutter is a 77 year-old female with osteoporosis and multiple
+compression deformities s/p several kyphoplasties, also with
+bronchiectasis and COPD, admitted with intractable bilateral
+back pain.  Her pain proved difficult to control throughout her
+stay, as she was especially sensitive to narcotic medications,
+twice becoming nearly unresponsive after receiving them.  On the
+second episode, when the patient was unresponsive after
+receiving her dose of dilaudid as well as Phenergan she was sent
+to the ICU when she was found to be in hypercarbic respiratory
+distress.  She received Narcan x 2 with good effect, however the
+following day the patient continued to retain carbon dioxide at
+an amount that seemed greater than her baseline. She was started
+on intermittent bipap with little effect.
+
+At this time the patient's culture results returned with 6/6
+bottles of GPCs, two of which were speciated as MRSA. The
+patient had been started on vancomycin and her white count was
+improving but her respiratory status continued to decline. CXR
+was consistent with pneumonia.  After 3 days of relatively
+stable vital signs (expecte for respiratory) in the ICU, while
+on vancomycin for her bacteremia, the patient suddenly went into
+afib at 170s.  Her BP dropped to as low as 53 systolic.  These
+values were only minimally responsive to a total of 3L of IVF,
+and 7.5 metoprolol IV.
+
+Several prolonged discussions were had with the patient and her
+daughter Edu Reutter, as well as her friend Edu Reutter, addressing code
+status, beginning on her day of transfer to the MICU and
+continuing throughout her stay.  The patient was uncertain what
+exactly she would want done and had difficulty with this
+conversation, but did express several times that she did not
+want to be intubated.  At the time of her hypotension, the
+patient was not able to communicate her wishes.  Per discussion
+with the overnight ICU attending, the patient's daughter, and
+the resident on-call who was quite familiar with the patient and
+her daughter, the patient was made DNR/DNI and the decision was
+made not to insert a central line but to give support IVF only.
+The patient's BP remained low, staying in the 60s for several
+hours with minimal UOP.  She remained on bipap and became less
+responsive over the several hours.  Her bipap was eventually
+removed at her daughter's request.  The patient became apneic
+and was pronounced at 3:15am on 2012-11-15 00:00:00.
+
+Medications on Admission:
+Celexa 15 mg daily
+Lopressor 12.5 mg PO TID
+Norvasc 2.5 mg daily
+Atrovent nebs UPMCE-TID prn
+Actonel 35 mg PO Qweek (Sun)
+Lorazepam 0.5 mg PO BID-TID prn
+Neurontin 300 mg PO BID
+Darvocet 100 mg PO TID
+Pepcid 20 mg daily
+Colace 200 mg daily
+Tums UPMCE
+Vitamin D 400 units daily
+NaCl 1gm daily
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary Diagnosis: Back Pain & Pneumonia, MRSA sepsis
+.
+Secondary Diagnosis:
+1. Depression
+2. COPD/BRONCHIECTASIS
+3. SIADH
+4. RECTAL FISSURE
+5. OSTEOPOROSIS
+6. H/O HYPOTHYROIDISM
+
+
+Discharge Condition:
+deceased, DNR/DNI
+
+Discharge Instructions:
+deceased
+
+Followup Instructions:
+deceased
+
+
+Completed by:2012-11-15 00:00:00

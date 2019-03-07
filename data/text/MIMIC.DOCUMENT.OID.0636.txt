@@ -1,0 +1,115 @@
+Admission Date:  2013-08-21 00:00:00              Discharge Date:   2013-08-21 00:00:00
+
+
+Service: Dyvon Rabsatt
+
+Allergies:
+Penicillins
+
+Attending:Dyvon Rabsatt
+Chief Complaint:
+Carcinoma in situ and high grade dyplasia of the distal stomach
+
+Major Surgical or Invasive Procedure:
+1. subtotal gastrectomy with roux en y reconstruction, repair of
+hiatal hernia and fundoplication 2013-08-21 00:00:00
+2. Exploratory laparotomy, drainage of the abdomen, small bowel
+resection with anastamosis, placement of temporary mesh closure
+2013-08-21 00:00:00.
+3. Laparotomy, closure of abdominal wall 2013-08-21 00:00:00
+
+History of Present Illness:
+79 yo M  with a 10 yr h/o GERD underwent an EGD in 2013-08-21 00:00:00 which
+showed patchy lesions in the stomach.  Biopsies revealed
+metaplasia and suspicion gor early gastric carcinoma.
+
+Past Medical History:
+CAD sp CABG X 4, MVR
+GERD
+polymyalgia rheumatica X 14 yrs on steriods
+h/o gallstone pancreatitis
+sp cholecystectomy 2013-08-21 00:00:00'
+prostate cancer sp radiation in 94'
+
+Physical Exam:
+NAD
+RRR
+CTAB
+well healed median sternotomy
+soft, NT
+well healed R subcostal incision
+No E/C/C
+Neuro grossly intact
+
+Pertinent Results:
+2013-08-21 00:00:00 01:25AM BLOOD WBC-18.3* RBC-3.37* Hgb-10.0* Hct-29.4*
+MCV-87 MCH-29.8 MCHC-34.2 RDW-17.3* Plt Ct-57*
+2013-08-21 00:00:00 04:57PM BLOOD WBC-21.7* RBC-3.11* Hgb-9.3* Hct-28.4*
+MCV-91 MCH-29.8 MCHC-32.6 RDW-17.4* Plt Ct-78*
+2013-08-21 00:00:00 03:30AM BLOOD WBC-31.7* RBC-3.48* Hgb-10.0* Hct-33.5*
+MCV-96 MCH-28.6 MCHC-29.7* RDW-17.3* Plt Ct-86*
+2013-08-21 00:00:00 02:19AM BLOOD WBC-33.3* RBC-3.84* Hgb-10.9* Hct-36.4*
+MCV-95 MCH-28.4 MCHC-30.0* RDW-16.5* Plt Ct-66*
+2013-08-21 00:00:00 03:00AM BLOOD WBC-25.6* RBC-3.78* Hgb-11.5* Hct-34.3*
+MCV-91 MCH-30.4 MCHC-33.6 RDW-16.2* Plt Ct-50*
+2013-08-21 00:00:00 12:51PM BLOOD WBC-13.3*# RBC-4.20* Hgb-12.6* Hct-38.6*
+MCV-92 MCH-29.9 MCHC-32.5 RDW-16.1* Plt Ct-110*
+2013-08-21 00:00:00 11:39PM BLOOD WBC-6.5 RBC-4.01* Hgb-12.1* Hct-35.6*
+MCV-89 MCH-30.1 MCHC-33.9 RDW-15.6* Plt Ct-127*
+2013-08-21 00:00:00 07:40AM BLOOD WBC-1.5*# RBC-2.96* Hgb-8.5* Hct-27.3*
+MCV-92 MCH-28.8 MCHC-31.2 RDW-15.9* Plt Ct-222
+2013-08-21 00:00:00 01:04PM BLOOD WBC-11.5* RBC-3.64* Hgb-10.6* Hct-30.9*
+MCV-85 MCH-29.0 MCHC-34.1 RDW-15.5 Plt Ct-220
+2013-08-21 00:00:00 01:05PM BLOOD Neuts-48* Bands-32* Lymphs-15* Monos-3
+Eos-0 Baso-1 Atyps-0 Metas-0 Myelos-0 NRBC-4* Plasma-1*
+2013-08-21 00:00:00 01:25AM BLOOD Plt Ct-57*
+2013-08-21 00:00:00 02:02AM BLOOD Plt Ct-20*
+2013-08-21 00:00:00 07:30PM BLOOD Plt Ct-84*#
+2013-08-21 00:00:00 02:03AM BLOOD Plt Ct-20*
+2013-08-21 00:00:00 02:59AM BLOOD Plt Smr-RARE Plt Ct-18* LPlt-3+
+2013-08-21 00:00:00 01:56AM BLOOD Plt Ct-80*
+2013-08-21 00:00:00 12:49AM BLOOD Plt Ct-95*
+2013-08-21 00:00:00 12:15AM BLOOD Plt Ct-61*
+2013-08-21 00:00:00 12:51PM BLOOD Plt Ct-110*
+2013-08-21 00:00:00 03:15PM BLOOD Plt Ct-139*
+2013-08-21 00:00:00 01:20PM BLOOD Plt Ct-142*
+2013-08-21 00:00:00 01:04PM BLOOD Plt Ct-220
+2013-08-21 00:00:00 02:23AM BLOOD Lactate-6.8*
+2013-08-21 00:00:00 02:22AM BLOOD Lactate-5.6*
+2013-08-21 00:00:00 04:52PM BLOOD Glucose-125* K-4.3
+2013-08-21 00:00:00 12:00PM BLOOD Glucose-108* K-4.0
+2013-08-21 00:00:00 08:36AM BLOOD Glucose-104 K-3.4*
+2013-08-21 00:00:00 08:23AM BLOOD Glucose-97 Na-140 K-3.5
+2013-08-21 00:00:00 03:45PM BLOOD HEPARIN DEPENDENT ANTIBODIES-
+2013-08-21 00:00:00 01:30PM BLOOD HEPARIN DEPENDENT ANTIBODIES-
+2013-08-21 00:00:00 02:06PM BLOOD HEPARIN DEPENDENT ANTIBODIES-
+
+Brief Hospital Course:
+please see dictation; job # [**Numeric Identifier 4813**]
+
+Medications on Admission:
+ASA 81', flomax 0.4', prednisone 10', proscar 5', protonix 40',
+vioxx 25'
+
+Discharge Medications:
+pt expired
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+overwhleming sepis sp subtotal gastrection c/b small bowel leak
+sp resection s/b small bowel fistula.
+
+Discharge Condition:
+NA
+
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+
+Completed by:2013-08-21 00:00:00

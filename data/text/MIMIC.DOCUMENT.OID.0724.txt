@@ -1,0 +1,90 @@
+Admission Date:  2009-04-08 00:00:00              Discharge Date:   2009-04-08 00:00:00
+
+Date of Birth: 1955-03-25 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Latajia Formichella
+Chief Complaint:
+hypoxia, s/p PEA arrest
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+77 male nursing home resident, 2 admissions in past month,  sent
+to the ED from his NH with hypoxia and worsening L sided PNA.
+He was found to have an O2 sat in the 70's while receiving 100%
+oxygen by non-rebreather face mask.  He had some ectopy for
+which he received 75 mg of amiodraone.  He was intubated and his
+oxygen saturations remained low in the 60's, with PAO2 in the
+40's on vent settings of AC 500 x 15, 10 peep.  His CXR showed
+worsened PNA with white out of the L lung and his labs returned
+with + UTI and elevated lactate.  He was started on Vanc and
+Zosyn.  He had a PEA arrest in the ED requiring CPR and an amp
+of epinephrine.  A spontaneous pulse returned.  His blood
+pressure was opiginally in the 90's, which is his Railsback, and
+then improved to the low 100's after the epinephrine.  His heart
+rate was in the 120's.  He was transferred to the MICU for
+further care.
+.
+On arrival to the floor patient was persistantly hypoxic and was
+noted to go in and out of V tach.  His legal guardian was called
+and was not available.  His PCP, Railsback. [**First Name8 (NamePattern2) 331**] Railsback was called
+and it was established that the patient has recently had a legal
+guardian appointed but that the legal guardian had not yet met
+the patient.  Per the PCP, Dezere Railsback was a plan in motion to go to
+court to obtain a DNR/DNI order later this month.  The patient
+remained hypoxic and bradycardiac despite vent changes and
+positioning manuvers.  He received 4 mg and then 2 mg of
+morphine to treat his respiratory distress.  It was determined
+that CPR was not indicated and the patient again had a PEA
+arrest.  He became asystolic and was pronounced dead at 12:55
+PM.  The medical examiner was called and they declined the case.
+
+
+Past Medical History:
+Recent hospitalization for hypoxia, hypotension of unknown
+etiology
+TIA in 2009-04-08 00:00:00
+Schizophrenia, per PCP, Dezere Railsback AAOx1, verbally abusive
+Depression
+HTN
+Dementia
+R eye cataract
+CAD, s/p CABG
+
+Social History:
+Nursing Home patient.  Legal Guardian is Dezere Railsback Dezere Railsback.  Patient
+has a new guardian
+
+Family History:
+Non-contributory
+
+Brief Hospital Course:
+See HPI
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Pneumonia
+Urinary Tract Infection
+
+
+Discharge Condition:
+Expired
+
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+
+

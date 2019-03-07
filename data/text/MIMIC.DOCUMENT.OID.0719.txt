@@ -1,0 +1,339 @@
+Admission Date:  2008-07-20 00:00:00              Discharge Date:   2008-07-20 00:00:00
+
+Date of Birth: 1956-10-09 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Elliekate Zoretic
+Chief Complaint:
+persistent anemia, bloody ostomy output, leukocytosis
+
+Major Surgical or Invasive Procedure:
+2008-07-20 00:00:00: PEG placement
+2008-07-20 00:00:00: Decompression of septic left pelvic hematoma,
+irrigation and debridement via arthrotomy down to the
+acetabular space, cultures and placement of vacuum sponge.
+2008-07-20 00:00:00: Re-exploration of left thigh bleeding.
+2008-07-20 00:00:00: Serial irrigation and debridements of left hip;
+removal of remaining acetabulum hardware (cemented cup, cage,
+four screws) with closure over deep packing.
+2008-07-20 00:00:00: Serial irrigation debridement of left hip. Removal
+Kerlix sponges. Closure left hip wound.
+
+
+History of Present Illness:
+HPI: 78yo F well-known to East Surgery service from prolonged
+hospitalization 2008-07-20 00:00:00/10.  She had initially presented with a
+colonic perforation due to erosion from a L hip prosthesis, and
+underwent a Hartmann's procedure (sigmoid colectomy with end
+colostomy).  She then required an emergent R-->L Fem-Fem bypass
+for acute LLE ischemia.  The hip was treated with sequential
+washouts and hardware removal.  Her post-operative course was
+extensive, but notable for GI bleeding presenting as falling
+anemia, for which an EGD showed mild esophagitis managed with
+UPMCE
+protonix. A colonoscopy through the stoma was unsuccessful
+because the stoma had sloughed and retracted below the skin
+level.  She also developed CHF and hypothyroidism managed with
+diuretics and synthroid, respectively.  Wound issues included
+minor wound infection at the midline incision managed with
+wet-to-dry, a VAC at the L hip changed serially in the OR and
+later at the bedside, and mild breakdown at the Fem-Fem bypass
+site treated with betadine swabs.  She was finally discharged on
+2008-07-20 00:00:00 on a prolonged course of Zosyn, Daptomycin, and
+Fluconazole via a PICC.  Since discharge she has required 4u
+PRBC
+transfusion for anemia and guaiac positive ostomy output: 2u on
+2008-07-20 00:00:00 and 2u on 2008-07-20 00:00:00 (Hct was 23).  She denies headache,
+dizziness,
+CP, or SOB.  She denies abdominal pains, nausea, although did
+have one episode of non-bloody non-bilious emesis this morning
+and one earlier episode 4d ago.  Per the rehab notes, the
+heparin
+SQ was discontinued in favor of coumadin, which the pt's
+daughters relate was done because she was "bleeding" at the
+injection site.
+
+
+Past Medical History:
+PMHx: HTN, anxiety, psoriasis, osteoporosis, anemia, goiter,
+cataracts
+
+PSHx: h/o lymphoma in spleen s/p splenectomy 2008-07-20 00:00:00 (no f/u
+oncology notes are seen in OMR), s/p TAH-BSO for cervical cancer
+in 2008-07-20 00:00:00, L THR x 3
+
+
+Social History:
+born in 123 Any St., denies ETOH use, does not smoke, lives with
+husband
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+97.8  82  110/50  14  100% on RA
+A&Ox3, NAD
+CTAB except dim BS BL bases
+RRR
+soft, NT, ND. well-healed midline incision with open wound at
+inferior pole with clean granulation tissue. LLQ ostomy
+productive of dark-green liquid stool which is guaiac positive,
+but stoma sits below the skin level.
+LLE edema 3+, RLE 1+ edema. WWP, DP/PT 2+ BL.
+
+
+Pertinent Results:
+Labs on admission
+2008-07-20 00:00:00 06:45PM BLOOD WBC-19.7* RBC-3.70* Hgb-10.9* Hct-33.3*
+MCV-90 MCH-29.5 MCHC-32.7 RDW-23.5* Plt Ct-549*
+2008-07-20 00:00:00 06:45PM BLOOD Neuts-71* Bands-3 Lymphs-14* Monos-5
+Eos-5* Baso-1 Atyps-0 Metas-0 Myelos-1* NRBC-13*
+2008-07-20 00:00:00 06:45PM BLOOD PT-42.8* PTT-39.5* INR(PT)-4.5*
+2008-07-20 00:00:00 06:45PM BLOOD ESR-38*
+2008-07-20 00:00:00 06:45PM BLOOD Glucose-102* UreaN-33* Creat-1.1 Na-140
+K-3.3 Cl-104 HCO3-19* AnGap-20
+2008-07-20 00:00:00 06:45PM BLOOD ALT-33 AST-58* AlkPhos-210* TotBili-0.9
+2008-07-20 00:00:00 09:00PM BLOOD cTropnT-0.16*
+2008-07-20 00:00:00 06:45PM BLOOD Albumin-2.0*
+2008-07-20 00:00:00 06:45PM BLOOD CRP-181.9*
+2008-07-20 00:00:00 05:30AM BLOOD Calcium-7.2* Phos-4.0 Mg-1.8
+
+CBC:                WBC     RBC   HGB   HCT  PLT  N%     %L   %M
+ %E  %B
+2008-07-20 00:00:00 03:57    12.6*  4.01* 11.7* 36.1  287
+2008-07-20 00:00:00 05:03    15.4*  3.20* 9.8*  28.8* 447
+2008-07-20 00:00:00 07:11    28.6*2 3.03* 9.0*  27.7* 775  54.1   35.0
+7.5 2.9 0.5
+2008-07-20 00:00:00 05:10    23.9*1 3.45* 10.3* 32.3* 576*
+
+Cardiac biomarkers
+2008-07-20 00:00:00 05:20AM BLOOD CK-MB-3.0 cTropnT-0.14*
+2008-07-20 00:00:00 01:59AM BLOOD cTropnT-0.13*
+2008-07-20 00:00:00 03:01AM BLOOD CK-MB-3 cTropnT-0.08*
+
+BLOOD CX:
+2008-07-20 00:00:00: ESBL-Klepsiella
+
+IMAGING:
+2008-07-20 00:00:00 hip plain film on admission showed status post left hip
+arthroplasty and Girdlestone procedure. Methyl methacrylate
+remains in the defect produced by the removal of the left
+femoral stem. Multiple clips and left pelvic embolization coils
+are unchanged in appearance.
+
+2008-07-20 00:00:00 CT pelvis on admission showed new high-density material
+envelops the femur and there are locules of gas in the left
+gluteal area where there is an open wound. Locules of gas are
+also seen within the femur. High-density material is also seen
+overlying the left iliac intraabdominally. Right lower lobe
+consolidation/atelectasis raises the possibility of infection.
+Interval fem-fem bypass. New pelvicaliceal prominence
+bilaterally. Persistent cholelithiasis.
+
+2008-07-20 00:00:00 CT guided hip aspiration: heterogeneous collection in
+the lateral subcutaneous tissues over the left hip. The portion
+of the collection just anterior/superior to the skin staples at
+the lateral aspect of the hip was targeted for aspiration with
+only a few cc of dark blood could be aspirated.
+
+
+2008-07-20 00:00:00 CT Chest and abdomen after patient developed hypoxia
+showed no acute pulmonary embolus. Small right pleural effusion
+with associated compressive atelectasis. Scattered ground-glass
+opacity in the bilateral lungs.  No acute intra-abdominal
+abnormality.Large heterogeneous left thyroid lesion. There was
+also question of tracheobronchomalacia although formal diagnosis
+would require dedicated CT chest with tracheal protocol.
+
+2008-07-20 00:00:00 Lower extremity ultrasound to evaluate for leg edema and
+to rule out DVT was markedly limited duplex examination of the
+left lower extremity secondary to patient body habitus
+difficulty with patient positioning.  Apparent compressibility
+of the common femoral vein, proximal superficial femoral vein
+and popliteal vein without convincing color Doppler flow
+identified. While this may be secondary to slow flow, a deep
+venous thrombosis cannot be excluded. Repeat exam demonstrated
+flow in all of the deep veins.
+
+2008-07-20 00:00:00 TT Echo showed moderate regional left ventricular
+systolic dysfunction, c/w LAD disease. Mild aortic
+regurgitation. Mild to moderate mitral regurgitation. Mild
+pulmonary hypertension.
+
+2008-07-20 00:00:00 CTA pelvis after patient became acute anemic to evaluate
+for bleed: show Fem-fem bypass graft patent, with a
+pseudoaneurysm of the left external iliac, but similar to prior
+study. There was chronic thrombosis of the portions of the left
+external iliac artery which are stable. No evidence of new acute
+hemorrhage or active extravasation. Stable appearance of left
+hip with destruction of left proximal femur with gas seen within
+the medullary cavity of the proximal femur. The residual hip
+prosthesis is similar in appearance to prior study, with an
+approximately 8.7 cm x 4.8 cm x 20 cm focus of air and debris
+within the left gluteal soft tissues. Thickening of the left
+iliacus relative to the right. Severe stenosis of the SMA. Small
+bilateral pleural effusions associated with basal atelectasis.
+Cholelithiasis, with gallbladder mildly distended though without
+evidence of wall thickening or pericholecystic fluid.
+
+2008-07-20 00:00:00: CT of pelvic and L thigh after patient's WBC continued
+to trend upward for show left pelvic gluteal collection now
+contains predominantly air with air extending medial to the left
+iliac Elliekate Zoretic. Persistent osseous destruction of the left femur
+with multiple pockets of fluid and inflammatory reaction
+involving the left pelvis and left femur are
+once again noted. An area of mixed density over the left femur
+and medial to iliac bone may represent soft tissue/ versus
+collection of thick viscus fluid such as pus. Thickening and
+inflammatory changes of the left iliacus muscle and left pelvic
+sidewall is slightly improved since 2008-07-20 00:00:00.
+
+2008-07-20 00:00:00: CXR 1 day after patient decompensated due to possible
+aspiration pneumonia showed a diffuse area of increased
+opacification in the right lung, consistent with aspiration
+pneumonia. A developing area in the left lower lung zone could
+well be the same etiology.
+
+Brief Hospital Course:
+GI bleed: The patient's increased bleeding from her ostomy was
+in the setting of supratheraputic INR of 4.5.  The patient
+underwent colonoscopy through her ostomy which did not show
+evidence of bleeding but only revealed diverticulosis.  She did
+not require any blood transfusions for her GI bleed and her Hct
+remained stable in the 30s.   She was continued on protonix UPMCE.
+On 2008-07-20 00:00:00, after patient was noted to aspirated, maroon colored
+bloody ostomy output was noted. She was transfused 2 units of
+PRBC at that time.
+
+Hip infection: The patient had a long and complicated hospital
+course in 2008-07-20 00:00:00 from a colonic perforation secondary to erosion of
+her L hip prosthesis.  She developed VRE infection of the hip
+and underwent multiple surgical take backs for washout and the
+femoral portion of the hardware was removed, but the acetabular
+portion retained. A wound vac was eventually placed and she was
+discharged on Daptomycin, Fluconazole and Zosyn for a prolonged
+outpatient course.  Upon admission, she was noted to have a rash
+and her zosyn was changed to meropenem.  A CT scan showed fluid
+around the femur which was tapped on 2008-07-20 00:00:00 and grew 2 strains of
+ESBL E coli and vanc sensitive enterococcus. Ortho planned to
+take the patient to the operating room on 2008-07-20 00:00:00, however this was
+delayed by tachypnea from pneumonia and CHF (see below).  On
+2008-07-20 00:00:00 the patient went to the OR for hip washout and wound vac
+placement.  After the procedure she developed increased bleeding
+from the wound and went back to the OR for exploration of the
+hip. No active bleeding was noted.  She was transfused 5 units
+of RBCs with inappropriate bump in Hct.  She underwent CTA of
+her arteries to rule out arterial leak and there was none, but
+there was pseudoanuerysm of the external iliac that was stable
+from prior study. Vascular surgery thought no intervention was
+needed.  All anticoagulation was held. Pt went to the OR for
+subsequent washouts and removal of all hardware on 2008-07-20 00:00:00,
+2008-07-20 00:00:00. The blood cultures on 2008-07-20 00:00:00 grew ESBL klebsiella. Pt was
+treated with meropenem, fluconazole, daptomycin for an 8 week
+course. Pt transfered to the surgical floor on 2008-07-20 00:00:00. Although
+patient was stable on the floor and was seen regularly by PT for
+future rehap, her WBC continue to elevated. Her initial left
+shift resolved but WBC persisted. CT scan of her pelvis  showed
+destruction of her L femur and air pockets in L hip/thigh. Per
+orthopedic surgery service, she was planned to undergo CT guided
+drain placement along her left femur on 2008-07-20 00:00:00. However,
+patient's condition decompensate quickly on 2008-07-20 00:00:00 after she
+noticed to have aspirated her feed.
+
+Pneumonia: On 2008-07-20 00:00:00 the patient was transfered to the ICU for
+monitoring of tachypnea and diuresis for presumptive CHF
+exacerbation.  She promptly developed a fever to 102.  A CTA was
+performed to rule out PE and was negative for PE, but revealed
+ground glass opacities consistent with pneumonia.  Ciprofloxacin
+was added to her antibiotics for double coverage of pseudomonas,
+but this was stopped the following day.  She was intubated to go
+to the OR for hip I and D. She recoved well and was extubated
+with eventual transfer to regular surgical floor.
+
+CHF/ : On 2008-07-20 00:00:00 the patient became tachypneic in the setting of
+having received IV fluids.  She also had an elevated troponin to
+0.13.  A BNP was elevated and it was thought that the patient
+was in heart failure.  Cardiology was consulted for pre-op risk
+assessment and recommended that her volume status be optimized
+prior to surgery.  She was diuresed with lasix 10 mg IV with
+good urine output and improvement of symptoms.  She underwent
+echocardiogram which showed a hypo- to akinetic apex (mid-LAD
+territory) with EF 35%.  It was unclear if an ACS 123 Any St.itated
+the new heart failure as there were no signs of ischemia on ECG,
+yet the troponin was trending down.  Cardiology was consulted.
+The patient was started on coreg, simvastatin, but was not
+started on aspirin given her bleeding risk.  She should be
+started on an ACEi if her BP tolerates it. Pt had a few episodes
+of hypotension which responded to fluid boluses. Carvedilol was
+resumed on 2008-07-20 00:00:00.
+
+# Poor PO intake: The patient had G tube placed 2008-07-20 00:00:00 for poor
+PO intake and hypoalbuminemia.
+.
+# Drug rash: Eos were found in urine. Zosyn was thought to be
+the culprit. So this was stopped and the patient was changed to
+meropenem.  Her rash resolved.
+.
+# Possible aspiration, shortness of breath/tachycardia: The
+patient became acutely short of breath and tachycardic
+immediately after an episode of tube-feed colored emesis on
+2008-07-20 00:00:00. Her shortness of breath and hypoxemia did not improve
+after a nebulizer treatment and supplemental O2.  She was
+subsequently transferred to the ICU the evening of this episode
+for close monitoring. Her dyspnea progressed and she was
+intubated in the ICU for respiratory failure. Her CXR on the
+following day showed opacity consistent with aspiration
+pneumonia. She became hypotensive, placed  on two pressors.
+Patient's condition deteriorated quickly and comfort measure
+only was initiated by her family. She passed away at 1:45pm on
+2008-07-20 00:00:00.
+
+
+Medications on Admission:
+Medications (from d/c sumamry 2008-07-20 00:00:00):
+1. Aspirin 325 mg Qday
+2. Atenolol 25 mg UPMCE
+3. Hydromorphone 2 mg Q 4 PRN
+4. Fluconazole 400 mg Q 24
+5. Levothyroxine 50 mcg Tablet Q day
+6. Sodium Chloride Nasal TID (3 times a day)
+7. Folic Acid 1 mg Q day
+8. Furosemide 20 mg Q day
+9. Pantoprazole 40 mg Tablet Q 24
+10. Camphor-Menthol 0.5-0.5 % Lotion Sig: UPMCE
+11. Dronabinol 2.5 mg UPMCE
+12. Piperacillin-Tazobactam-Dextrs 4.5 gram/ Q 8
+13. Daptomycin 500 mg Q 24
+
+Discharge Medications:
+deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Left hip infected hardware
+Left hip hematoma
+ESBL Klebsiella bacteremia
+Failure to thrive
+Pneumonia
+Aspiration pnemonia
+CHF
+GI bleed
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+deceased
+
+Followup Instructions:
+deceased
+
+                             Deshaunta Holtkamp MD, 77484
+

@@ -1,0 +1,283 @@
+Admission Date:  2014-09-05 00:00:00              Discharge Date:   2014-09-05 00:00:00
+
+Date of Birth: 1931-12-10 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Oxycodone/Acetaminophen / Morphine Sulfate
+
+Attending:Kenslie Zitka
+Chief Complaint:
+dyspnea, fatigue
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. Brahm is a 73 year old female s/p liver Brahm for
+cryptogenic cirrhosis in 2014-09-05 00:00:00 complicated by post-[**Year (4 digits) 1373**]
+lymphoproliferative disease s/p R-CHOP with Kenslie Zitka at present, and
+moderate pulmonary fibrosis admitted for lower extremity
+swelling, increased work of breathing, and generalized weakness.
+
+.
+In the ED, she was noted to have a equivocal UA though denied
+urinary frequency or dysuria though she did report an episode of
+urinary incontinence.  She had a CXR that showed possible RLL
+Pneumonia.  She was given Vancomycin and Levaquin for UTI and
+PNA.  She was noted to have a BP of 94/66 and HR of 140 that
+improved to 120 with fluids.
+.
+On review of systems, patient reports increased leg swelling and
+difficulty.  Patient unable to state ifthere is a difference in
+her oxygen tolerance.  No SOB at rest.  No change in 3 pillow
+orthopnea, no PND.
+
+Past Medical History:
+Interstitial pulmonary fibrosis, home oxygen dependent 2-2.5L NC
+S/p Liver [**Doctor First Name 1373**] 2014-09-05 00:00:00 for cryptogenic cirrhosis
+Post-2014-09-05 00:00:00 lymphoproliferative disorder s/p CHOP and
+rituximab
+Type 2 DM
+HTN
+Hypothyroidism
+
+Social History:
+Married, 123 Any St.usly lived at home but recently discharged to
+rehab.  Denies tobacco use.
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death. Afib in sister
+
+Physical Exam:
+VS: T 96.7, HR 121, BP 135/65, RR 27, 91% on 4LNC
+Gen: chronically ill appearing obese famale
+HEENT: facial hair, tachypneic, unable to speak in full
+sentences
+CV: Tachycardic, regular, no m/r/g
+Pulm: crackles diffusely, no wheezes
+Abd: obese, soft, NT, ND, bowel sounds present
+Ext: trace peripheral edema b/l
+Neuro: CNs 2014-09-05 00:00:00 intact, moving all extremities
+
+Pertinent Results:
+Imaging:
+2014-09-05 00:00:00.  CXR.
+IMPRESSION:
+Possible superimposed right middle lung field infection on
+background of pulmonary fibrosis.
+.
+Chest CT.  2014-09-05 00:00:00.
+IMPRESSION:
+1. Minimal improvement in moderately severe generalized
+interstitial lung disease. Persistent air trapping. No evidence
+of pulmonary hypertension, intrathoracic malignancy or
+infection.
+2. Longstanding pneumobilia.
+.
+PFTs 2014-09-05 00:00:00.
+Mechanics: The FVC is markedly reduced. The FEV1 is moderately
+to markedly reduced. The FEV1/FVC ratio is elevated.
+Flow-Volume Loop: Marked restrictive pattern.
+.
+Impression:
+Results are consistent with a restrictive ventilatory defect,
+which is confirmed by the markedly reduced TLC measured on
+2014-09-05 00:00:00. Compared to the prior study of 2014-09-05 00:00:00 there has
+been no significant change.
+.
+Echo 2014-09-05 00:00:00.
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. There is no ventricular septal defect. The right
+ventricular cavity is markedly dilated with depressed free wall
+contractility. The ascending aorta is moderately dilated. There
+are focal calcifications in the aortic arch. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. The mitral valve leaflets are mildly thickened. There
+is no mitral valve prolapse. The tricuspid valve leaflets are
+mildly thickened. There is moderate pulmonary artery systolic
+hypertension. The main pulmonary artery is dilated. The branch
+pulmonary arteries are dilated. There is no pericardial
+effusion.
+
+Compared with the findings of the prior study (images reviewed)
+of 2014-09-05 00:00:00, the right ventricle is markedly dilated.
+.
+Admit labs
+137 | 92 | 24 /
+-------------- 164
+4.7 | 36 | 1.0 \
+.
+.
+.. \ 13.9 /
+6.1 ------ 170
+.. / 40.8 \
+.
+Diff: 87.2N, 0 Bands, 9.2L, 3.1M, 0.3E, 0.3 Basos
+.
+PT 11.7
+PT 21.6
+INR 1.0
+.
+CK 11
+TropT 0.03
+.
+ALT 17
+AST 14
+AP 79
+Lipase 28
+T. Bili 0.4
+Alb 3.8
+.
+Lactate 2.3
+.
+Micro:
+UA: cloudy, trace LE, lg Blood, 100 protein, Tr ketones, 21-50
+RBCs, 0-2 WBCs, Many bacteria, 2014-09-05 00:00:00 epis
+
+Brief Hospital Course:
+Ms. Brahm is a 73 yo female with PTLD s/p R-CHOP, s/p liver
+Brahm in 2014-09-05 00:00:00 for cryptogenic cirrhosis, pulmonary
+fibrosis, type 2 diabetes, and HTN admitted for constellation of
+non-specific symptoms such as fatigue, urinary incontinence,
+shortness of breath, and leg swelling.
+.
+#Dyspnea/fatigue:  Her dypnea on admission was concerning for
+PNA.  She was started on Vanco but PNA was ruled out and this
+was stopped after 3 days.  Diastolic HF was also considered, but
+TTE was unchanged from prior. Patient only required 3L 02
+maximum and was quickly weaned to her home 02 is 2L.  She felt
+at baseline during the admission.  2014-09-05 00:00:00 be secondary to
+deconditioning. Also may be component to known pulmonary
+fibrosis and moderate pulmonary HTN (but not changed from prior
+per repeat TTE yesterday).  Patient was continued on home dose
+of prednisone 40mg PO daily. Patient weaned back to home O2 dose
+at 2L NC. Hemodynamically stable.
+.
+# Atrial fibfillation:  Patient had sinus tachycardia and then
+A. fib with RVR on day of admission (has h/o a fib).   Her TSH
+was normal, no evidence of dehydration. Patient was started on
+25 mg metoprolol TID and this was weaned up to 37.5 TID as her
+blood pressure tolerated.  Her CHADS score was 3.  We spoke to
+her oncologist who said there was no hematologic reason she
+couldn't be anti-coagulated.  However, she was not immediately
+started on anti-coagulation because of her high risk for falls.
+ We also apoke with her PCP about following up this issue as an
+outpatient after the patient has undergone rehab.
+
+-f/u PCP appointment to address question of anti-coagulation
+.
+# S/p liver 2014-09-05 00:00:00: Liver 2014-09-05 00:00:00 surgery aware patient
+is in hospital.  We continued her on her home tacrolimus and
+checked levels daily.
+.
+#IPF:  Patient requires 2-2.5L/NC at home, which was continued
+while she was in the hospital.  TTE showed no worsening of
+pulmonary hypertension, so we continued her on her home dose of
+Prednisone 40 mg daily.
+.
+#DM. On NPH and RISS: Patient was hyperglycemic into the
+400s/500s while in the MICU.  She was briefly on insulin gtt,
+but discontinued as caused hypoglycemia. NPH uptitrated due to
+high BS to 30/10 and then downtirated to 30/8 given early
+morning hypoglycemia.  Also continued on sliding scale.
+.
+#Dispo: PT saw the patient and recommended short term rehab.
+Patient will follow up with her 2014-09-05 00:00:00 doctor, in particular
+to follow up her tacrolimus.
+Patient will see her heme/onc doctors who Eli Brahm decide about
+anticoagulation.
+
+
+Medications on Admission:
+Advair 250-50 UPMCE
+Glyburide 5 mg daily
+Atrovent QID
+Levothyroxine 75 mcg daily
+Metformin 500 mg UPMCE
+Omeprazole 20 mg daily
+Metoprolol 12.5 UPMCE
+Prednisone 40 mg daily
+Tacrolimus (Prograf) 3 mg UPMCE
+Bactrim TIW
+Aspirin 325
+Colace
+NPH 30 qam, 5 untis qpm
+RISS
+
+Discharge Medications:
+1. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+2. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+3. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+5. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+6. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H (every
+12 hours).
+7. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO QMOWEFR (Monday -Wednesday-Friday).
+8. Levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily) for 2 days: last dose should be on 2014-09-05 00:00:00.
+9. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+11. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+12. Insulin NPH & Regular Human 100 unit/mL (70-30) Cartridge
+Sig: Thirty (30) units Subcutaneous once a day: PLEASE GIVE
+30units NPH qam, 8units qPM and SS as directed by sheet that is
+in patient's chart.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. 123 Any St.
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Urinary Tract Infection
+DM2
+Intersitial Pulmonary Fibrosis
+
+Secondary Diagnosis:
+Crypotogenic Cirrhosis s/p liver 123 Any St.
+PTLD s/p R-CHOP
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You came to the hospital with shortness of breath and lower
+extremity swelling.   We believe this was due to your pulmonary
+fibrosis and to a urinary tract infection.  We treated your
+infection with levofloxacin and your breathing with steroids and
+increased oxygen.  We also found you to have atrial fibrillation
+which we treated with metoprolol.  Finally, your blood sugar was
+high and we treated you with sliding scale insulin.
+
+We made the following changes to your medications:
+Started Levofloxacin for total 7 day course.
+Changed NPH to 30 units qAM and 8 units qPM
+Started Metoprolol 37.5 po tid
+
+Followup Instructions:
+Provider: Eli Brahm HEP CLINIC Phone:test@mail.com
+Date/Time:2014-09-05 00:00:00 10:00
+
+Please call and make an appointment with your PCP, Brahm.
+Brahm
+
+
+

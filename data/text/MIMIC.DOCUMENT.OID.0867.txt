@@ -1,0 +1,302 @@
+Admission Date: 2007-04-20 00:00:00        Discharge Date: 2007-04-20 00:00:00
+
+Date of Birth: 1963-04-20 00:00:00 00:00:00        Sex:  M
+
+Service:  MED
+
+
+CHIEF COMPLAINT:  Abdominal pain.
+
+This is a 31-year-old gentleman with longstanding history of
+Crohn's disease since age 12 years, status post ileo
+resection and ileocolic anastomosis.  The patient was
+recently admitted in 2007-04-20 00:00:00 for a Crohn's flare and has
+been on the steroid taper since his discharge.  One week
+prior to admission, his prednisone was decreased from 20 mg
+to 10 mg, and on the day prior to admission, the patient
+developed mild discomfort in his abdomen then extreme pain
+with nausea and vomiting today.  The patient denied any
+diarrhea or bright red blood per rectum.  His last bowel
+movement was this morning.  The pain is located in the
+periumbilical area radiating diffusely.  Of note, the patient
+has a new rash that started in his ears as mild pruritus.  He
+noted what was thought to be pimples that exposed to mild
+fluid initially in his ear.  The rash has not progressed to
+his neck, back, and chest.  The patient has had recent travel
+to 123 Any St., but is not fully coming about the details of his
+trip.
+
+Of note, the patient was given morphine in the ED for pain
+control and developed urinary retention.
+
+PAST MEDICAL HISTORY:  Crohn's disease times 12 years.  The
+patient has had immunosuppression with 6-MP and has also been
+recently on the steroid taper.
+
+Ileal resection with ileocolic anastomosis and small bowel
+stricture.
+
+Iron deficiency anemia.
+
+Lactose intolerance.
+
+Status post appendectomy.
+
+Colonoscopy in 2007-04-20 00:00:00.
+
+Prior cryptococcal infection involving spleen.
+
+ALLERGIES:  No known drug allergies.
+
+CURRENT MEDICATIONS:
+1. Prednisone 10 mg q.d.
+2. Protonix 40 mg q.d.
+3. 6-MP 100 mg q.h.s.
+4. Methenamine 250 mg four capsules q.i.d.
+5. Entocort 9 mg p.o. q.d.
+6. Imodium one capsule t.i.d.
+
+
+SOCIAL HISTORY:  Smokes half pack per day.  He has been a
+smoker since 2007-04-20 00:00:00 years.  The patient drinks one to two beers
+per day.
+
+PHYSICAL EXAMINATION:  On admission, vital signs, temperature
+97.0, heart rate 80, and blood pressure 135/75.  Generally,
+the patient was uncomfortable appearing, but in no acute
+distress.  HEENT:  Moist mucous membranes.  Oropharynx is
+clear.  Pupils equal, round, reactive to light.  Extraocular
+movements are intact.  Neck was supple without
+lymphadenopathy.  Cardiovascular:  Regular rate.  S1 and S2.
+No murmurs, rubs, or gallops.  Pulmonary:  Clear to
+auscultation bilaterally.  Abdomen:  Normal bowel sounds,
+soft, mild pain on palpation in the periumbilical region.  No
+significant distention.  No rebound or guarding.
+Extremities:  No clubbing, cyanosis, or edema.  Two plus
+pulses bilaterally.  Neurologically:  Alert and oriented
+times 3.  Skin exam shows 2-3 mm papules over neck, back, and
+chest.  Mildly pruritic and nontender.
+
+LABORATORY DATA:  Labs on admission, white blood count was
+5.4 with 86 neutrophils, 11 bands, and 1 plasma cell.
+Hematocrit was 40.1 and platelets are 246.  chemistry, sodium
+141, potassium 4.3, chloride 105, bicarb 26, bun 8,
+creatinine 0.7, and glucose 109.  ALT is 150, AST 90,
+alkaline phosphatase 58, LDH 328, total bilirubin is 1.1,
+lipase 20, and amylase 63.  UA was negative.  CT of the
+abdomen and pelvis showed prominence of small bowel with mild
+thickening and a very few short segments.  Less extensive
+thickening than in 2007-04-20 00:00:00.  No evidence of obstruction.
+
+HOSPITAL COURSE:  This is a 31-year-old male with abdominal
+pain initially thought to be a Crohn's flare.  However, over
+the next 24 hours after admission, the patient developed
+hypoxia and respiratory distress as well as worsening
+abdominal pain.  On the following day after admission, again
+clinical course was declining.  The patient was seen by the
+infectious disease, GI, and hematology oncology consultants.
+That night the patient did develop the transaminitis with ALT
+to 674 and AST 754 with an LDH of 861, and total bilirubin
+1.6, pt 13.1, PTT 29.2, and INR of 1.1.  D-dimer was found to
+be greater than 10, 000.  At this time, the transaminitis in
+the setting of the rash was concerning for a viral etiology.
+Hep serologies were checked in addition to CMV, EBV, and an
+acute HIV infection.  Other serologies, such as
+toxoplasmosis, cryptococcus, VDV, and HSV were also
+considered.  There is a thought that the patient's
+immunocompromised status under section PN steroid use might
+make him more susceptible to had seminate with zoster.  Again
+that night, the patient was started on vancomycin for
+possible skin infection and doxycycline for question of tick
+borne diseases.  on Cipro and Flagyl for a possible Crohn's
+flare, on acyclovir for possible seminated zoster, and on
+amphotericin for a possible histo.  Dermatology acutely saw
+the patient on the night of 2007-04-20 00:00:00, and noted a
+micropapular blenching rash, which was thought to be a viral
+exanthem.  TSA was performed showing evidence of varicella
+zoster virus.  Of note, medical team was informed that the
+patient had never had chickenpox, and this is a primary
+disseminated varicella infection.  The hematology consult
+obtained on the night of 2007-04-20 00:00:00, was on the setting of
+thrombocytopenia, there was some concern for symptoms of
+process such as a cord, splenomegaly, or destruction by an
+immune mediated system such as a viral infection.  Diagnosis
+such as GIC, HUS-TPP were considered.  Coagulations had
+currently been stable.  A smear was reviewed and showed no
+evidence of cystocytes and hypertension was elevated.  There
+was again some concern for DIC and the patient's platelets,
+coagulations, LDH, and fibrinogen were followed closely.
+Again that night, the patient significantly decompensated and
+had evidence of respiratory distress.  The patient was
+transferred to MICU on the night of 2007-04-20 00:00:00.
+
+Overnight in the MICU, the patient remained relatively
+stable.  However, he again have evidence of hyper and
+hypothermia.  The patient's respiratory status remained
+stable.  However, the patient began to require increasing
+levels of oxygen.  The patient's O2 saturation was
+approximately 90 percent on a 10 liter V-stent.  In addition,
+the patient was noted to be tachycardic with heart rate in
+the 140s.  On 2007-04-20 00:00:00, which is hospital day 3, but MICU
+day 1, the patient was noted to have significant abnormality
+in his labs.  ALT increased to 35.73, AST increased 53.23,
+alkaline phosphatase just 180, and total bilirubin increased
+to 5.8.  There is evidence of mild renal failure.  Platelets
+declined to 23, haptoglobin was less than 20, and fibrinogen
+was 94.
+
+At this point, hepatitis serologies returned negative,
+cryptococcal antigen was negative, RPR was non-reactive, CMC
+was negative, toxo was negative, Histoplasma capsulatum
+antigen was negative, DFA for HSV was negative.  However, DFA
+for VZV became positive and IgG for VZV was negative
+consistent with primary varicella infection.  At this point,
+the patient's antibiotics were readjusted.  The patient was
+given high doses of acyclovir.  Other antibiotics were
+discontinued.  In addition, secondary to respiratory
+distress, the patient was intubated for worsening hypoxia.
+After intubation, the patient became hypotensive and received
+aggressive fluid resuscitation with 12 liters fluid,
+initially normal saline, and subsequently lactate ringers.
+The patient was started on Levophed for hypotension and
+despite full it does not remained around 55.  The patient
+subsequently became difficult to oxygenate, and ventilator
+settings were adjusted to maintain pao2 in 70s to 80s.
+
+The patient's pulmonary status on hospital day 4, the patient
+was significantly difficult to oxygenate.  Paralytics were
+used to help ease the work of breathing.  The patient's chest
+films and pao2 to fio2 ratio were consistent with ARDS.  The
+patient was proned to assist with improvements on oxygenation
+and this initially helped.  However, the patient became
+hypoxic again and was reproned.  Regarding the patient's
+liver failure, LFTS continued to rise, chlorides continued to
+rise, and renal failure worsened.  The patient did have some
+evidence of DIC and was transfused cryo for fibrinogen less
+than 100.  The patient was continued to be treated with
+acyclovir.  However, given repeated fevers, the patient was
+also started on cefepime and on vancomycin.  Regarding his
+renal failure and multi123 Any St.sues, the patient's acidosis was
+thought to be to secondary to shock versus tissue necrosis
+versus renal failure versus electrolyte abnormalities.  The
+vent was adjusted to compensate for pH.  The patient was
+given large doses of bicarbonates to adjust his acidosis.
+ABG at that time was 7.14, 38, and 86.
+
+Regarding his acute renal failure, the patient's bun and
+creatinine continued to rise despite fluids.  There was some
+thought about initiating CVVH, and ultimately a catheter was
+placed by the renal team.  On the hospital day next, the
+patient was significantly hypoxic with pao2 in 37 with
+increasing difficulty to oxygenate.  Prior to this time, the
+patient had been ruled in an esophageal balloon study to help
+determine adequate peak.  The patient secondary to ventilator
+protective strategies under the Argonaut protocol,  the
+patient had been receiving higher doses of PEEP to improve
+oxygenation.  However, on this day the patient developed
+evidence of pneumomediastinum.  The patient was proned with
+slight improvements in his po2.
+
+Other issues, the patient's acidosis continued to worsen.
+His hypotension, however, improved with the patient remained
+pressor dependent.  Further imaging was performed in order to
+understand etiology of liver failure.  Ultrasound showed
+clots in the portal vein, decreased s123 Any St. vein flow, patent
+hepatic veins, and IVC.  The patient was started on low-dose
+heparin.  There is some concern that there is evidence of
+hypercoagulable state.  Again at this time, the patient
+remains intubated on four pressors with increasing difficulty
+oxygenating.  The patient's transaminases continued to rise
+as well as coagulopathy worsening and renal failure
+worsening.  A lactate measured on this day was 26.  Regarding
+his problem, his hypoxia and respiratory failure was thought
+to be due to varicella pneumonitis.  The patient is on the
+ventilator with Argonaut protocol in the setting of
+pneumomediastinum, and there was concern for pneumothorax.
+At this point, it was thought to put him prophylactic chest
+tubes in the setting of the patient was to develop a
+pneumothorax.  However, the patient's clinical status
+declined secondary to multisystem organ failure before this
+could be initiated.
+
+The running of hypotension and shock; this was thought to be
+septic shock.  The patient is currently on three pressors,
+and blood pressure was responsive to volume resuscitation as
+well as bicarbonate, but there is lot significant concern for
+volume overload and pulmonary edema.  Regarding the patient's
+hepatic failure, hence the secondary to disseminated
+varicella, again transaminases continued to rise.  The
+patient has evidence of venous obstruction and was started on
+anticoagulation.  Regarding his disseminated varicella, the
+patient was given renal doses of acyclovir.  Other micro data
+remained negative to date.  Regarding his heme issues, he is
+concerned for DIC and thrombocytopenia.  The patient was
+transfused cryo; some thought about starting heparin versus
+Argatroban.  It was thought that with the significant liver
+dysfunction, the patient may not have enough a T3 function.
+However, heparin was initiated until this issue was sorted
+out.  Regarding his renal issues, acidosis continued to
+worsen, electrolyte abnormalities persisted despite
+aggressive correction and acute renal failure worsened.
+Catheter was placed with CVVH the day before, and the patient
+was initiated on CVVH to assist with volume overload.
+
+Later that afternoon, the patient became progressively
+hypoxic despite aggressive efforts to improve oxygenation.
+Again CVVH had been started that day to help reduce volume to
+improve oxygenation status.  Approximately, 15-20 minutes
+prior to the patient's death, heart rate was in the 170s naps
+were in 50s and began to decrease.  The patient had
+increasing evidence of ectopy.  The patient's code status had
+been changed two days prior to do not resuscitate.  Again
+patient's NAPS and heart rate continued to drop.  The patient
+was given 1 mg of epinephrine and then atropine.  The
+patient's dopamine was increased.  Volume resuscitation was
+begun without improvement in heart rate or bp.  NAPS
+continued to decline despite all medical efforts.  Family at
+that time did not want further shocks or defibrillations and
+at 6 p.m. on 2007-04-20 00:00:00, the patient expired.
+
+DISCHARGE DIAGNOSES:  Disseminated primary varicella
+infection causing hepatic failure, pneumonitis, and the renal
+failure.
+
+Acute renal failure.
+
+Hepatic failure.
+
+Pneumonitis progressing to ARDS.
+
+Hypoxia.
+
+Septic shock.
+
+Hypotension requiring multiple pressor support.
+
+Hyperkalemia.
+
+Hyperphosphatemia.
+
+Hypocalcemia.
+
+Hyperglycemia.
+
+DIC with evidence of venous obstruction.
+
+Thrombocytopenia.
+
+Anemia.
+
+Metabolic acidosis.
+
+History of Crohn's disease.
+
+
+
+                        Cianah Paley, 14497
+
+Dictated By:Donte Strieff
+MEDQUIST36
+D:  2007-04-20 00:00:00 08:42:57
+T:  2007-04-20 00:00:00 12:51:32
+Job#:  14497

@@ -1,0 +1,299 @@
+Admission Date:  2010-10-01 00:00:00              Discharge Date:   2010-10-01 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Elis Garrey
+Chief Complaint:
+Hypothermia at Dilaysis
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+The patient is a 84 y.o. female with h/o ESRD on HD recent
+admission for C diff colitis in 2010-10-01 00:00:00, a resident at
+[**First Name4 (NamePattern1) 4173**] Gronowski, admitted 2010-10-01 00:00:00 after she was found to be
+hypothermic during HD yesterday. The patient with recent stool
+positive for cdiff at nursing home (C.Diff +2010-10-01 00:00:00). The
+patient with h/o nausea and vomiting and diarrhea prior to
+admission. On the day of admission, the patient was found to be
+hypothermic c/o chills at HD and was sent to ED for eval. EKG
+with new T wave inversions in in  c/w prior EKG 2010-10-01 00:00:00. In the
+ED, the patient was treated with ASA, metoprolol 50mg,
+oxycodone, and dextrose. The patient was admitted to the general
+medical floor and had T 94.4 on admission BP 124/50; HR71; RR24;
+O2 sats 93% on RA and 99% on 4L NC. She was placed on a bear
+hugger and was mentating fine. The patient received Vancomycin
+IV x one dose, Levaquin x one dose and she is also on Flagyl po.
+At 5 am today, she found to be confused, persistently
+hypothermic with T min 93.7, hypotensive with SBP 94/60 in
+Trendelenberg and intermittent SBP down to 70's, and
+hypoglycemic to 34 on random finger stick check. She was given
+NS boluses and dextrose and one hour after dextrose hypoglycemic
+again. Patient placed on NRB after desatting to 80's on 4L NC.
+She denies pain, SOB, chest pain, or any discomfort. The
+patient's mental status has waxed and waned.
+
+
+Past Medical History:
+1. ESRD on HD since 2010-10-01 00:00:00 (Dr. Gronowski; MRSA bacteremia from
+fistula 2010-10-01 00:00:00
+2. Atrial Fibrillation
+3. Renal Mass on CT since 2010-10-01 00:00:00
+4. Right Hip Erosive Arthritis; now s/p R hip surgery
+(hemiarthroplasty) complicated by mental status changes and
+decreased BP
+5. Osteoporosis
+6. Anemia
+7. Asthma
+8. GERD
+9. Hypertension
+10. PVD/Heel Ulcers - refusing angio
+11. C.Diff 2010-10-01 00:00:00 treated with Flagyl. C.Diff positive on 2010-10-01 00:00:00 at
+nursing home.
+12. Poor PO Intake
+13. Depression
+14. Low Phos, Mag, and Potassium
+
+
+Social History:
+Pt currently lives at rehab center but prior to fracture lived
+alone in 123 Any St. with a house cleaner who comes several times a
+week to clean her house. Pt reports quiting smoking 8 years ago.
+However, the patient does have a 60+ pack year history of
+smoking. Pt has occasional alcohol use.
+
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+VS: T 94;  HR 70; BP 106/58; RR 18; 93-95% on NRB
+General: thin, Gronowski AA female lying in bed with NRB
+HEENT: PER small and RL, EOMI, no scleral icterus
+Neck: supple, no JVD
+CV: regular, S1S2, normal
+Chest: bilateral crackles
+Abdomen: +BS, soft, Gronowski-tender, mildly distended, no rebound or
+guarding
+Extr: 1+ pitting edema bilaterally; bilateral heel ulcers with
+dressing c/d/i Family History: Unknown
+
+
+Pertinent Results:
+Imaging:
+2010-10-01 00:00:00 CXR - Termination of feeding tube within the gastric
+antrum.  Otherwise, no change
+2010-10-01 00:00:00 CXR - Worsening interstitial edema. Increasing left
+pleural effusion and left lower lobe atelectasis.
+2010-10-01 00:00:00 Foot X-Rays -  No evidence of osteomyelitis.
+2010-10-01 00:00:00 CXR - Cardiomegaly and interval development of small
+bilateral pleural effusions. No overt volume overload
+identified.
+<br>
+Cultures:
+2010-10-01 00:00:00 Blood (mycotic bottle) - pending
+2010-10-01 00:00:00 Blood - pending
+2010-10-01 00:00:00 Blood - pending
+2010-10-01 00:00:00 Heel Culture - GRAM STAIN (Final 2010-10-01 00:00:00): 1+ GRAM
+POSITIVE COCCI. IN PAIRS AND CLUSTERS. WOUND CULTURE
+(123 Any St.inary): Due to mixed bacterial types ( >= 3 colony types)
+an abbreviated workup is performed appropriate to the isolates
+recovered from the site STAPH AUREUS COAG +. MODERATE GROWTH.
+GRAM POSITIVE COCCUS(COCCI). MODERATE GROWTH. BEING ISOLATED
+FURTHER IDENTIFICATION TO FOLLOW. CORYNEBACTERIUM SPECIES
+(DIPHTHEROIDS). MODERATE GROWTH. STAPHYLOCOCCUS, COAGULASE
+NEGATIVE. SPARSE GROWTH.
+2010-10-01 00:00:00 Urine - pending
+
+Brief Hospital Course:
+Ms. Gronowski is an 84 year old woman with ESRD on HD and recent
+admission for C diff colitis who was admitted from her nursing
+home after she was noted to have recurrence of c. difficile
+colitis.  Originally admitted to the medicine service, the
+patient to the MICU with hypothermia with T min 93.7,
+hypotension with systolic blood pressures intermittently falling
+from 90's to the 70's, and hypoglycemia to 34 on random finger
+stick check who is adrenally insufficient by Gronowski stim.  The
+patient was never in respiratory distress and did not require
+intubation.  Her hypotension improved with IV fluid resuscitaion
+(3 L NS) and was transferred to floor soon thereafter.  While in
+MICU, She was started on broad spectrum antibiotics, pan
+cultures and chest x-ray did not reveal any signs of infection.
+She was found to have   Stool cultures were negative for c.
+diff. toxin.  Vancomycin was discontinued in MICU.
+
+An cosyntropin stimulation test was performed to determine
+whether adrenal insufficiency was a cause of her hypotension.
+This revealed normal AM cortisol levels but a somewhat sluggish
+response to cosyntropin.  The patient was therefore started on
+high dose steroids.  This was tapered off by discharge.
+
+Another potential contributing factor behind the patients prior
+hypotension may have been her poor PO intake and, perhaps, her
+hypoglycemia. For this reason the patient had a PEG tube placed
+to aid her nutritional status.
+
+The patient's stay on the medical floor was otherwise relatively
+uneventful, she continued her schedule of dialysis without
+complication.  On discharge she remained afebrile and
+hemodynamically stable with blood pressures in the normal to
+high range.
+
+In summary, this is an 84 year-old woman with ESRD on HD
+admitted from nursing home for diarrhea secondary to c. dificile
+infection who developed hypotension and hypoglycemia.  She
+responded well hemodynamically to IV fluid resuscitation.  No
+potential source of infection was definitively identified but
+patient did well with broad spectrum antibiotics.  It is likely
+that her hypotension was secondary to intravascular de123 Any St.n
+from diarrhea in the setting of poor PO intake and, possibly,
+borderline adrenal insufficiency.  On discharge, she was without
+signs of infection other than occasional diarrhea, and was
+hemodynamically stable.  She received a PEG tube for feeding to
+aid her nutritional status.
+
+Issues and plan arising from this admission:
+
+1. C. dificile infection.  Diarrhea may have been major
+contributor to hypotension.  But patient was likely never septic
+per se.   Pan cultures unrevealing
+-can continue flagyl for approximately two weeks after
+discharge.
+
+2. Heel ulcers. Ap123 Any St.te podiatry input (Dr. Elis Garrey.  X-rays
+did not indicate osteomyelitis.  Vascular surgery was Gronowski.
+ They had seen the patient on prior admissions and felt the
+patient needed an angiogram.
+-to see vascular surgery and receive angiogram as outpatient
+
+3. New T wave inversions but difficult to interpret with
+electrolyte abnormalities.  The patient was ruled out for MI.
+Repeat EKG's were unchanged.
+
+4. Poor nutritional status/poor a123 Any St.e: 2010-10-01 00:00:00 also have
+contributed to hypotension
+-PEG in place for use in supplementation of pt PO intake.
+
+5. ESRD/ atient of Dr. Gronowski (who is aware of patients
+admission).  The patient was dialyzed on schedule during her
+admission.
+
+6. Hypoglycemia. Most likely from long standing malnutrition and
+poor po intake.
+
+7. Coagulopathy. Patient on coumadin and INR likely elevated in
+the setting of Abx use. The patient did receive Vit K IV dose.
+Coumadin was held prior to the patient getting her PEG tube.
+
+8. Atrial Fibrillation. Currently in sinus.  Coumadin was held
+on prior to the patient getting a PEG.
+-continuing coumadin
+
+9. Leg swelling (R side) - A LENI ruled out DVT.
+
+10. Depression - continued on Remeron 15mg qHS
+
+11. GERD - Continued on protonix 40mg QD
+
+12. COPD/Asthma - continued on combivent
+
+13. Poor Nutritional Status - PO intake encourage, PEG placed
+for supplementation.  Pt to continue renal, heart healthy,
+diabetic diet.
+
+The code status of this patient is DNR/DNI, confirmed with
+attending physician.
+
+Medications on Admission:
+Amiodarone 200mg QD
+Coumadin 1mg QD
+Toprol XL 50mg UPMCE
+Protonix 40mg QD
+MVI
+Nephrocaps
+Lisinipril 30mg QD
+Combivent
+Albuterol PRN
+
+Discharge Medications:
+1. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: 2010-10-01 00:00:00
+Puffs Inhalation Q6H (every 6 hours) as needed.
+2. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H (every
+48 hours).
+3. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+4. Fludrocortisone 0.1 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+5. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 3 weeks: Please continue for total of three
+weeks, last day of therapy is 2010-10-01 00:00:00.
+6. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+9. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+10. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Warfarin 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Hypotension.
+Dehydration.
+Borderline adrenal insufficiency.
+End stage renal disease.
+
+
+Discharge Condition:
+Good.  No fevers, blood pressure now in normal/high normal
+range.
+
+
+Discharge Instructions:
+Please return patient to hospital if she develops high grade
+fevers, becomes hypotensive, or has a change in her mental
+status.
+
+Please return patient to hospital if patient develops chest
+pain, shortness of breath, palpitations, or if she becomes
+light-headed or dizzy.
+
+Please have patient continue all prescribed medications.
+
+Please continue patient on her dialysis schedule.
+
+Please have patient keep follow up appointments.
+
+Followup Instructions:
+Please continue hemodialysis and follow up with your
+nephrologist to help manage hemodialysis.
+
+Please follow up with your primary care provider, Gronowski. Johnetta
+Gronowski.
+
+Please follow up with vascular outpatient services at UPMCE hospital.  We have scheduled an appointment
+with Dr. Elis Garrey on 2010-10-01 00:00:00 at 12:45 PM. his office
+phone number is test@mail.com.  You may need an angiogram, we
+would like to evaluate why you have ulcers on your heels.
+
+Provider: Johnetta Gronowski [**Doctor Last Name **], OD Phone:test@mail.com Date/Time:2010-10-01 00:00:00
+1:00
+
+
+                             Johnetta Gronowski Johnetta Gronowski MD 12272
+

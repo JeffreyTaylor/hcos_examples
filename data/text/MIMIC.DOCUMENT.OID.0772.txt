@@ -1,0 +1,250 @@
+Admission Date:  2011-09-01 00:00:00       Discharge Date:
+
+
+Service:  ICU
+
+CHIEF COMPLAINT:  Hypercarbic hypoxemic respiratory failure
+
+HISTORY OF PRESENT ILLNESS:  79-year-old white female with a
+history of chronic obstructive pulmonary disease,
+hypertension, paroxysmal atrial fibrillation, presents from
+rehabilitation facility following an episode of tachypnea,
+hypoxia and obtundation requiring endotracheal intubation.
+The patient is status post a recent prolonged hospitalization
+from 2011-09-01 00:00:00 to 2011-09-01 00:00:00 for gallstone pancreatitis requiring
+open cholecystectomy and choledochoduodenostomy on 2011-09-01 00:00:00 by
+Dr. Dimmer with a long hospitalization complicated by E. coli
+sepsis, a lower gastrointestinal bleed, with negative
+colonoscopy, volume overload, and a postoperative abdominal
+abscess, culture positive for vancomycin-resistant
+enterococcus requiring CT-guided drainage.  The patient also
+suffered C. difficile colitis during this admission.  Toward
+the end of her hospitalization, the patient was noted to have
+acute tachypnea, pH 7.27, CO2 70, which resolved with minimal
+intervention the following day.  The patient was discharged
+to a skilled nursing facility on 2011-09-01 00:00:00 on a plan for
+linezolid for four weeks for her VRE abscess, and Flagyl for
+two weeks for her C. difficile colitis.
+
+At the skilled nursing facility, the patient has done poorly,
+with continued lethargy, anorexia and depression.  She was
+noted to have decreased sodium to 119 on 2011-09-01 00:00:00, which was
+question of serum-inappropriate antidiuretic hormone.  The
+patient developed cough on 2011-09-01 00:00:00, for which she was started
+on Robitussin, and yesterday she was noted to have hypoxia
+with an oxygen saturation of 93% on 2 liters nasal cannula.
+This morning, shortly after breakfast, the patient was noted
+to become more tachypneic and somnolent, having an oxygen
+saturation in the 60s on 2 liters, improving to 97% on 100%
+non-rebreather.  She became increasingly somnolent, and
+became completely unresponsive.  The patient was bag mask
+ventilated and referred to UPMCE for further evaluation.
+
+In the Emergency Department, she was afebrile, with heart
+rate in the 80s, blood pressure 140/80, oxygen saturation 90%
+on 100% non-rebreather.  She was unresponsive to voice and
+pain.  The patient was subsequently intubated, with
+improvement in her mental status following intubation.  A CTA
+of the chest was performed, without evidence of pulmonary
+embolism, with scattered ground-glass opacities, slightly
+increased right greater than left. Electrocardiogram was
+without significant change.  A head CT was negative for acute
+bleed or cerebrovascular accident.  After receiving 4 liters
+of normal saline, ceftriaxone, Flagyl and lasix, the patient
+was transferred to the Intensive Care Unit.
+
+Upon arrival to the Intensive Care Unit, the patient spiked a
+temperature to 101, and dropped her systolic blood pressure
+from 130s to the 80s.  The patient received a 1 liter fluid
+bolus without significant change.  She was subsequently
+started on dopamine.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension
+2.  Chronic obstructive pulmonary disease, FEV-1 1.74 in 2011-09-01 00:00:00
+3.  Atrial fibrillation
+4.  Congestive heart failure with an ejection fraction of
+60%, basal septal hypertrophy, 1 to 2+ aortic regurgitation,
+and 1 to 2+ mitral regurgitation
+5.  History of gastrointestinal bleed on aspirin
+6.  Degenerative joint disease
+7.  Migraine headaches
+8.  Cataracts
+9.  Large substernal goiter and hypothyroidism
+
+ALLERGIES:  Aspirin
+
+MEDICATIONS ON TRANSFER:  Linezolid 200 mg twice a day,
+Flagyl 500 mg by mouth three times a day, Darvocet as needed,
+atenolol 100 mg by mouth once daily, Ranitidine 150 mg by
+mouth once daily, Levothyroxine 75 mcg by mouth once daily,
+lasix 40 mg by mouth once daily, amiodarone 200 mg by mouth
+once daily, Zoloft, Mycostatin, Florinef, and prednisone
+
+SOCIAL HISTORY:  The patient is married and has her children
+very involved with her care.  Her son, Jerelly Dimmer, is a
+cardiologist in Jerelly Dimmer, 123 Any St..  She has a 20
+pack year smoking history.
+
+PHYSICAL EXAMINATION:  Temperature 101, heart rate 70s to
+80s, blood pressure 170/48 on 16 mcg/kg/minute of dopamine.
+Skin:  Dry, cool feet.  Head, eyes, ears, nose and throat:
+Normocephalic, atraumatic, pupils equal, round and reactive
+to light and accommodation, extraocular movements intact,
+oropharynx dry.  Neck:  Prominent external jugular vein.
+Lungs:  Bilateral inspiratory and expiratory rhonchi.
+Cardiovascular:  S1 and S2, no murmurs, gallops or rubs.
+Abdomen:  Surgical scar healing well, hypoactive bowel
+sounds, soft, nontender, nondistended.  Extremities:  No
+edema, peripheral pulses intact.  Neurological:  Moving upper
+extremities and lower extremities.
+
+LABORATORY DATA:  White blood count 17.3, hematocrit 33.5,
+platelets 187.  INR 1.4, PTT 30.  Sodium 130, potassium 3.7,
+chloride 94, bicarbonate 26, BUN 13, creatinine 0.3.  CPK 75,
+troponin-i 0.3.  Urinalysis was unremarkable.  Chest x-ray
+revealed increasing left-sided effusion, consolidation at the
+left base, a large mediastinal mass without tracheal
+deviation that was unchanged from that on 2011-09-01 00:00:00.  CT of the
+chest was negative for pulmonary embolism, moderate bilateral
+pleural effusion, slightly increased from 2011-09-01 00:00:00.  Bilateral
+atelectasis, partial collapse adjacent to pleural effusions,
+large superior mediastinal mass with calcific density
+consistent with thyroid goiter.  Deviated trachea and
+esophagus, deviated anterior and to the right.  Calcification
+of the coronary arteries, ground-glass opacifications in both
+lungs, with central lobular emphysematous changes mostly at
+the bases.  CT of the head:  No acute bleed, chronic small
+vessel ischemic changes.
+
+HOSPITAL COURSE:
+1.  Pulmonary/thoracic:  The patient was initially admitted
+with hypoxic and hypercarbic respiratory failure.  As stated
+above, CTA showed no evidence for pulmonary embolism.  The
+patient was gradually weaned from the ventilator.  The
+patient's left-sided pleural effusion was tapped on 2011-09-01 00:00:00,
+which revealed a 700 cc pleural effusion which was
+transudative and sterile.  The patient was extubated on 2011-09-01 00:00:00.  However, on 2011-09-01 00:00:00, while receiving a bath, the
+patient again developed sudden acute hypoxia, respiratory
+acidosis, apnea, and generalized unresponsiveness, requiring
+emergent reintubation on 2011-09-01 00:00:00.
+
+On 2011-09-01 00:00:00, the patient underwent a percutaneous
+tracheostomy, complicated by a tear of the posterior trachea.
+The patient was taken emergently to the operating room, and
+required open sternotomy with surgical repair of her trachea,
+along with placement of bilateral chest tubes and mediastinal
+tubes.  Because of the tortuosity of her large substernal
+goiter, she had a partial thyroid resection.
+
+Following this procedure, the patient was managed on AC
+ventilation, with eventual removal of her chest and
+mediastinal tubes.  The patient continued to wean from the
+ventilator on AC and, at the time of this dictation, is
+tolerating pressure support for approximately 12 hours per
+day.  The patient was bronchoscoped on an almost daily
+regimen by Dr. Charis Brawand of Interventional Pulmonology both
+for secretion clearing and checking placement of the
+endotracheal tube.  The endotracheal tube position was
+changed multiple times.
+
+At the time of this dictation, the patient is scheduled to
+undergo placement of a customized tracheostomy tube obtained
+by Dr. Charis Brawand on 2011-09-01 00:00:00.
+
+2.  Cardiovascular/hemodynamics:  The patient was weaned off
+pressors by 2011-09-01 00:00:00.  The patient's amiodarone was
+discontinued secondary to concerns for 123 Any St.itating a
+myopathy.  An echocardiogram in late 2011-09-01 00:00:00 revealed basal
+septal left ventricular hypertrophy with ejection fraction
+greater than 55%, 2+ mitral regurgitation, 2+ tricuspid
+regurgitation, and moderate pulmonary hypertension.  The
+patient was restarted on her outpatient doses of Captopril,
+on low doses of ACE inhibitors and beta blockers.  In the
+second week of 2011-09-01 00:00:00, the patient's blood pressure began to
+trend to the 90s, with heart rate in the 110s, along with
+poor urine output.  There were no electrocardiogram changes,
+and the patient did not complain of chest pain or shortness
+of breath.  The patient's poor urine output is currently
+being managed with aggressive fluid boluses and
+resuscitation.  She remains otherwise hemodynamically stable.
+
+3.  Infectious Disease:  The patient was initially covered
+with broad spectrum antibiotics, including ceftazidime,
+Flagyl, as well as linezolid.  All blood cultures remained
+negative, though her sputum did grow Klebsiella pneumoniae,
+with urine showing pseudomonas.  Her antibiotic therapy was
+tailored to Zosyn, for which she received a seven day course.
+The patient did develop a rash on Levaquin, which she was
+being treated for a urinary tract infection.  Following the
+tear of her trachea, the patient was begun on a 14 day course
+of empiric vancomycin for coverage of her history of
+methicillin resistant staphylococcus aureus, as per Dr.
+Dimmer, the Thoracic Surgery attending.
+
+4.  Neurological:  The etiology of the patient's recurrent
+respiratory decompensations was unclear.  Jerelly Dimmer the fact that
+her chronic obstructive pulmonary disease was not felt to be
+very severe, a diagnosis of a potential respiratory muscle
+myopathy was entertained.  While CKs were negative, the
+patient was evaluated by Neurology.  The patient had a
+negative tensilon test.  An electromyogram was also
+consistent with a myopathic process with a moderate to severe
+axonal polyneuropathy noted.  At the time of this dictation,
+the differential diagnosis includes critical care myopathy
+vs. drug-induced myopathy.  Because of concern for
+drug-induced myopathy, linezolid and amiodarone were
+discontinued.  All other medications were longstanding.  The
+patient is currently scheduled to undergo a muscle biopsy by
+Dr. Dimmer in a combined operating room procedure on 2011-09-01 00:00:00.
+
+5.  Gastroenterology:  The patient has a history of lower
+gastrointestinal bleed during her last hospitalization, with
+a negative colonoscopy.  The patient has remained OB negative
+during this hospitalization.  She had multiple C. difficile
+screens, which have been negative.  An abdominal CT done on
+2011-09-01 00:00:00 revealed no change in her abdominal fluid
+collection.
+
+6.  Hematology:  The patient developed thrombocytopenia to
+the 100s during the early part of her hospitalization.  The
+etiology was unclear, but was felt to either be drug-related
+vs. thrombocytopenia sepsis.  It has since resolved.  The
+patient required intermittent transfusions of several units
+of packed red blood cells.
+
+7.  Endocrine:  The patient was continued on Synthroid.
+Given her periods of hypotension, an ACTH stimulation test
+was performed, which was negative.
+
+8.  Renal:  The patient's creatinine remained well within
+normal limits.  However, as stated in the cardiovascular
+section, her urine output continued to be poor through the
+second week of 2011-09-01 00:00:00.  She was given aggressive fluid
+resuscitation with some improvement in her urine output but,
+at the time of this dictation, is currently receiving
+intravenous fluid boluses.  A fractional excretion of sodium
+was calculated and was found to be 0.1 and negative of
+pre-renal insufficiency.
+
+9.  Fluids, electrolytes and nutrition:  The patient was
+briefly on total parenteral nutrition at the time of her
+tracheal seal, but is currently now tolerating tube feeds.
+She will need to undergo placement of a percutaneous
+endoscopic gastrostomy tube either by Radiology or by Dr.
+Dimmer.
+
+An addendum will be completed for this hospitalization at the
+time of discharge.
+
+
+
+
+                            Charis Brawand, M.D.  20007
+
+Dictated By:Charis Brawand
+MEDQUIST36
+
+D:  2011-09-01 00:00:00  20:53
+T:  2011-09-01 00:00:00  00:00
+JOB#:  20007

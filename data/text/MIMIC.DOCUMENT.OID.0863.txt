@@ -1,0 +1,420 @@
+Admission Date:  2013-11-10 00:00:00              Discharge Date:   2013-11-10 00:00:00
+
+Date of Birth: 1945-11-10 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Codeine / Nsaids / Levaquin
+
+Attending:Kadarius Lynner
+Chief Complaint:
+Shortness of breath.
+
+Major Surgical or Invasive Procedure:
+Right and left heart catheterization.
+Endomyocardial biopsy.
+
+History of Present Illness:
+Mrs. Gruszka is a 34 year old woman with a history of
+hypertrophic cardiomyopathy, hypertension, SVT, s/p PEA arrest
+x3, s/p pericardial effusion/window who was transferred to UPMCE
+from UPMCE Hospital for CHF exacerbation and work up for
+constrictive pericarditis.  She reports she developed bilateral
+back pain with inspiration about 2 days ago that is consistent
+with her prior CHF exacerbation. She also reports that she
+noticed that her face and lips became cyanotic with exertion at
+home. Of note, she reports she has a baseline variable 02
+requirement at home from 0-2L. She otherwise denies f/c/change
+in a123 Any St.e, CP/palp/SOB/+dyspnea, -abd
+pain/n/v/d/c/melena/brbpr, paresthesias/weakness.
+.
+At UPMCE Hospital, she underwent CT angiogram that was
+negative for PE. She was treated for CHF exacerbation with
+diuresis. She was noted to be bradycardic to the 40's and
+amiodarone briefly dc'd. She had a CT scan of the chest showing
+hilar and mediastinal adenopathy. RHC showed question of
+constrictive pericarditis with equalization of diastolic
+pressures in all four Kadarius Lynner (RAP 27, RVP 25, wedge 27).
+.
+During this hospitalization at the UPMCE, she had multiple
+bursts of SVT to HR 150s-160s.  Most recently this morning she
+had several minutes of SVT to 160s x 3.  During these episodes,
+she was noted to have undopplerable blood pressure per report.
+She was treated with carotid massage and converted to her native
+rhythm.  She was also given 1 L of IVF with SBP 100.
+.
+Cardiac review of systems is notable for absence of chest pain,
++dyspnea on exertion, paroxysmal nocturnal dyspnea, +orthopnea
+chronic 2 pillows, -ankle edema, -palpitations, -syncope or
+presyncope.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+.
+Cardiac Risk Factors: Diabetes, Dyslipidemia, + Hypertension
+.
+Percutaneous coronary intervention: None
+.
+Pacemaker/ICD: None
+.
+Cardiac history, compiled from OMR: taken from last discharge
+summary.
+Age:
+12: Initial presentation with syncope
+13: Seen at UPMCE for history of syncope, chest
+pain and progressive exercise intolerance; diagnosed with
+hypertrophic cardiomyopathy, and underwent catheterization in
+which LVEDP was found to be 20. Started on ongoing verapamil
+therapy.
+16: Cardiac arrest secondary to complex tachycardia,
+successfully resuscitated. Repeat catheterization showed left
+ventricular end diastolic pressure of 36-40 without outflow
+tract obstruction. EP showed inducible atrial flutter with a
+rapid ventricular blood pressure; dx'ed w/rapid antegrade
+conduction and possible pre-excitation. Started on Norpace
+(dysopyramide); kept on verapamil and Norpace for many years.
+Had occasional palpitations, chest pain and light headedness.
+25: Appendicitis during pregnancy, with post-op course
+complicated by congestive heart failure, intubated and then
+eventually extubated without difficulty; delivered son at 25
+weeks.
+RECENT HISTORY:
+* 2013-11-10 00:00:00: Atrial arrythmias (MAT diagnosed at UPMCE,
+Afib/flutter seen at OSH), started on amiodarone.
+* 2013-11-10 00:00:00: Admitted from UPMCE Hosp w palpitations,
+diagnosed as AVNRT, discharged with increased dose of verapamil,
+
+made long-acting.
+* 2013-11-10 00:00:00: Pulmonary vein isolation procedure. Post-procedure
+atrial tachycardia w/multiple morphologies-->cardioversion.
+Respiratory distress and post-procedure
+re-intubation<--pulmonary edema and possible contribution of
+pan-sensitive klebsiella PNA. Ongoing fevers, ?PE treated with
+heparin. Discharged on amiodarone 200 mg TID.
+* 2013-11-10 00:00:00: Dyspnea, chest pain, possible pneumomediastinum;
+diagnosed with large pericardial effusion; pericardial window
+done; post-op atrial tachycardia. During post-op course, had
+difficult-to-assess fluid status and was taken to the cath lab;
+
+in holding area had PEA arrest, coded for 1 hour; intubated for
+
+6 days and put on CVVH after cath confirmed volume overload;
+extubated; and then reintubated 2 days later for aspiration and
+
+hypoxia, then had pneumothorax as complication of intubation;
+ultimately extubated again, treated for pneumonia. Admission
+also notable for ARF and pancreatitis.
+* 2013-11-10 00:00:00: Admitted from rehab with dyspnea and chest pain,
+anemia and mild CHF symptoms; having atrial tachycardia with
+varying 2:1 and 3:1 conduction. Discharged 2013-11-10 00:00:00.
+* 2013-11-10 00:00:00: Admit for shortness of breath, coded for 30 minutes
+
+while being evaluated in ED: PEA w wide-complex near-sine-wave
+tachycardia 2013-11-10 00:00:00 hyperkalemia; regained pulse in 30 minutes,
+after which she had NSR w RBBB; then had wide complex tachy and
+
+BP drop; defibrillated x1 200J, briefly on dopamine gtt.
+Admission notable for ongoing fluid overload and
+weakness/apparent deconditioning. Source of hyperkalemia was
+never clear.  Pt discharged on 2013-11-10 00:00:00 to home after refusing
+placement to rehab. Pt had been at home  until her most recent
+admission to UPMCE.
+
+Social History:
+Lives at home with her husband and 15y/o son.
+-Tobacco history:Quit 2013-11-10 00:00:00 (former 2ppdx20yrs).
+-ETOH:denies
+-Illicit drugs:denies
+
+Family History:
+No family history of early MI, otherwise non-contributory.
+
+Physical Exam:
+PHYSICAL EXAM AT ADMISSION:
+VS: T97.7, B P 100/67, HR 105, RR 16, sat 96% on 2L Pulsus:
+difficult to assess due to faint pulses ~8
+GENERAL: NAD. Oriented x3. Mood, affect appropriate. Able to
+speak in full sentencnes.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: JVP ~8 cms
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2, +S4, 2013-11-10 00:00:00 diastolic murmur loudest rusb.
+
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were slightly labored, no accessory muscle use. Crackles bases
+to mid lung fields b/l.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 1+ DP 1+ PT 1+
+Left: Carotid 2+ Femoral 2+ Popliteal 1+ DP 1+ PT 1+
+..
+PHYSICAL EXAM AT DISCHARGE:
+
+Pertinent Results:
+EKG (2013-11-10 00:00:00) demonstrated atrial tachycardia to 164, left
+axis deviation, RBBB, biatrial enlargement.
+..
+CXR PA AND LAT (2013-11-10 00:00:00):
+FINDINGS: Two views of the chest are compared to 2013-11-10 00:00:00.
+There are bilateral small-to-moderate pleural effusions (right
+greater than left), but much improved from 2013-11-10 00:00:00. There is
+a cephalization of engorged pulmonary vasculature, but no overt
+pulmonary edema. There is no new
+superimposed consolidative process identified. Cardiomegaly and
+mediastinal
+contours are stable.
+IMPRESSION: Bilateral loculated pleural effusions, improved from
+2013-11-10 00:00:00.  Mild pulmonary overload, but no overt interstitial
+edema.
+..
+CARDIAC MRI (2013-11-10 00:00:00):
+IMPRESSION:
+1. The pericardium demonstrates patchy late gadolinium
+enhancement and maybe tethered to the myocardium; the
+pericardial thickness is normal. Abnormal septal motion was not
+seen. Together, these findings are consistent with but not
+diagnostic of constrictive pericarditis.
+2. Moderate asymmetric hypertrophy with mildly depressed
+biventricular
+function due to septal akinesis.
+3. The indexed diameters of the ascending and descending
+thoracic aorta were normal. The main pulmonary artery diameter
+index was normal.
+4. Moderate to severe biatrial enlargement.
+5. Moderate bilateral pleural effusion. Patchy opacity is noted
+in the right middle lobe. Correlation with other chest imaging
+studies is advised.
+..
+ENDOMYOCARDIAL BIOPSY (2013-11-10 00:00:00):
+DIAGNOSIS:
+Heart, intraventricular septum, biopsy (A):  Cardiomyocyte
+disarray, hypertrophy and increased amount of interstitial
+fibrosis consistent with hypertrophic cardiomyopathy.
+Thickening of the endocardium present.  All findings could
+account for clinical picture.  No evidence of amyloid or
+inflammation.  Masson trichrome done.
+..
+CORONARY CATH (2013-11-10 00:00:00):
+COMMENTS:
+1. Coronary angiography of this right dominant system
+demonstrated no
+angiographically apparent coronary artery disease. The LMCA,
+LAD, LCx,
+and RCA were free of apparent flow-limiting lesions.
+2. Resting hemodyamics revealed moderately elevated right and
+left sided
+filling pressures (RA mean and RVEDP both 28 mm Hg, and PCWP
+mean 40 mm
+Hg, LVEDP 33 mm Hg, respectively). There were prominent x and y
+descents
+and concordance of left and right ventricular pressures with
+respiration, consistent with restriction. Pulmonary pressures
+were
+moderately elevated (PASP 59 mm Hg). Cardiac index was mildly
+depressed
+at 1.6 l/min/m2. Systemic and pulmonary vascular resistance were
+normal
+(SVR 1368 dynes-sec/cm5, PVR 52 dynes-sec/cm5). There was no
+gradient
+upon pullback of the catheter from the LV into the aorta.
+3. Left ventriculography was deferred.
+4. Endomyocardial biopsy was performed (2 samples) from the RV
+interventricular septum. RV contraction appeared normal, there
+was no
+pulmonic outflow obstruction, and prominent trabeculation was
+evident.
+FINAL DIAGNOSIS:
+1. No angiographically apparent coronary artery disease.
+2. Elevated right and left heart pressures consistent with
+diastolic
+dysfunction.
+3. Possible restrictive cardiomyopathy.
+4. Mildly depressed cardiac index.
+5. Successful endomyocardial biopsy.
+..
+ECHOCARDIOGRAM (2013-11-10 00:00:00):
+The atria are moderately dilated. There is moderate symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is normal. Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Overall left
+ventricular systolic function is normal (LVEF>55%). The right
+ventricular free wall is hypertrophied and RV cavity is mildly
+dilated, with mild global free wall hypokinesis. The number of
+aortic valve leaflets cannot be determined. There is no aortic
+valve stenosis. No aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. Trivial mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion or pericardial
+thickening. There is no evidence of pericardial constriction.
+
+Brief Hospital Course:
+In summary, this is a 34-year old female with a history of
+hypertrophic cardiomyopathy, SVT, hypertension, COPD s/p
+multiple PEA arrests who is admitted with CHF exacerbation and
+work up for constrictive pericarditis versus restrictive
+cardiomyopathy.  She is transferred to the CCU due to runs of
+atrial tachycardia to the 160s and associated hypotension.
+..
+# RHYTHM:  She has a history of multiple SVTs including atrial
+fibrillation, atrial tachycardia, MAT and AVNRT.  She was
+transferred to the CCU after bursts of what appeared to be MAT.
+Due to her hemodynamic compromise in this rhythm, she was
+reloaded with amiodorone at a dose of 400 mg UPMCE. She was then
+loaded with digoxin and had a subsequent decrease in her
+ventricular rate to 70s with 2:1-3:1 atrioventricular
+conduction.  Her metoprolol was uptitrated as blood pressure
+would tolerate.
+.
+Plan for AV nodal ablation and permanent pacemaker placement was
+delayed by symptomatic candidal UTI being tx with 2 week course.
+ However, at time of discharge her rate was well controlled on
+the combination of amiodorone, digoxin, and metoprolol. Pt will
+return for elective procedure in 1 to 2 weeks after repeat UA is
+clear.
+..
+# PUMP:  She has a history of hypertrophic cardiomyopathy with
+preserved EF and moderate symmetric LVH.  Right heart
+catheterization at UPMCE Hospital prior to transfer showed
+equalization of pressures concerning for constrictive
+pericarditis.  However, right and left heart catheterization at
+UPMCE showed prominent x and y descents and concordance of left
+and right ventricular pressures with respiration, all consistent
+with a restrictive cardiomyopathy.  Endomyocardial biopsy was
+performed and pathology was consistent with hypertrophic
+cardiomyopathy.  Cardiac MR was done with full report above.
+.
+On physical exam and chest x-ray, it was clear that she was
+volume-overloaded and her symptoms of shortness of breath,
+fatigue were consistent with her usual heart failure
+exacerbations.  She was therefore started on a Lasix drip with
+goal diuresis 1 to 1.5 L per day.  At time of discharge, her net
+diuresis is negative.  Her oxygen requirements are 2L.
+.
+# CAD:  There was no evidence of coronary disease on cardiac
+catheterization during this or 123 Any St.us hospitalizations.  Blood
+pressure and heart rate control were achieved with metoprolol,
+amio, and digoxin for primary prevention.
+.
+# URINARY TRACT INFECTION:  During the hospital course, she
+started complaining of burning with urination.  A urine culture
+grew out yeast, 100,000 colonies, and because she was
+symptomatic we decided to treat with a 14 day course of
+fluconazole.  A renal ultrasound was performed to look for
+perinephric abscess; this showed no hydronephrosis or
+perinephric abcess, it did show a small left pleural effusion.
+Her symptoms resolved on fluconazole and is to have a repeat Ua
+in 2013-11-10 00:00:00 weeks. Patient can have ablation once UTI resolves.
+.
+# COPD: We continued her outpatient regimen of Xopenex,
+Montelukast, and ipratropium.
+.
+# DEPRESSION / ANXIETY:  We continued her outpatient regimen of
+bupropion, clonazepam, sertraline.
+.
+She was maintained on a heparin drip due to her underlying
+atrial dysrrhythmia; this was switched to lovenox instead of
+coumadin at time of discharge because there was concern fo
+interactions with digoxin and amiodarone.  She had a cardiac
+heart-healthy diet.  There was no indication for GI prophylaxis.
+
+
+Medications on Admission:
+MEDICATIONS AT TIME OF TRANSFER FROM UPMCE:
+lopressor 12.5mg UPMCE
+amiodarone 100mg daily
+lasix 80mg IV BID
+aldactone 25mg UPMCE
+singular 10mg daily
+trazadone 100mg daily
+zoloft 50mg TID
+wellbutrin 75mg daily
+IV dilaudid q4hprn
+percocet 5/325 UPMCE prn
+potassium chloride 40meq UPMCE
+folic acid 1mg daily
+iron 300mg daily
+klonapin 1mg QID
+tylenol.
+..
+MEDICATIONS AT TIME OF TRANSFER FROM FLOOR:
+Albuterol prn
+Amiodarone 200
+Metoprolol Tartrate 37.5 TID
+Wellbutrin 75
+Monteleukast
+Clonazepam
+Iron
+Folic acid
+Lasix 40 IV BID
+Dilaudid prn
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE VNA
+
+Discharge Diagnosis:
+Atrial Tachycardia
+Atrial Fibrillation/Atrial Flutter
+Hypertrophic Obstructive Cardiomyopathy
+ASthma
+Depression
+anxiety
+Fungal Urinary Tract Infection with right flank pain
+
+
+Discharge Condition:
+Stable
+Right groin with tiny tender nodule under puncture site, no
+bruising swelling or erythema.
+
+
+Discharge Instructions:
+You had an episode of congestive heart failure with high
+pressures within your heart at UPMCE Hospital. We increased
+the amount of fluid medicine (spironolactone) to take with the
+Furosemide. We also started you on Digoxin and increased your
+Metoprolol to control your heart rate. You have a urinary tract
+infection and we started you on fluconazole for a total of 14
+days. You will need an AV node ablation and pacemaker after your
+urinary tract infection is cleared.
+Stop taking your warfarin for now, you will give yourself
+Lovenox twice daily until the nurse who arranges the pacemaker
+tells you to stop taking it.
+We started Lisinopril to control your blood pressure better and
+help your heart pump. We also started Spiriva to help with your
+breathing.
+.
+
+Weigh yourself every morning, Jacklon Gruszka MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction:2013-11-10 00:00:00 cc
+.
+Congratulations on quitting smoking. Information was given to
+you on admission regarding smoking cessation and preventing
+relapses.
+
+Followup Instructions:
+Cardiology:
+Dr. [**First Name8 (NamePattern2) 444**] Gruszka Phone: (test@mail.com Date/time: Monday 2013-11-10 00:00:00 at 3:30pm.
+.
+Primary Care: UPMCE HealthCare
+Gruszka, MA
+Jacklon Gruszka, MD
+Wednesday 2013-11-10 00:00:00 at 10 am
+Please do EKG at this time and e-mail [**First Name8 (NamePattern2) 444**] Gruszka, MD Jacklon Gruszka
+results.
+.
+Pt will need AV ablation and pacemaker after Urine culture is
+clear. This will be done by Jacklon Gruszka.
+
+
+                             Jacklon Gruszka MD, 31171
+
+Completed by:2013-11-10 00:00:00

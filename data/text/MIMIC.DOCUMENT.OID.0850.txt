@@ -1,0 +1,168 @@
+Admission Date: 2008-11-04 00:00:00        Discharge Date: 2008-11-04 00:00:00
+
+Date of Birth: 1941-10-29 00:00:00 00:00:00        Sex:  M
+
+Service:  CSU
+
+
+HISTORY OF PRESENT ILLNESS:  This is a 68-year-old male
+patient, with a long history of coronary artery disease,
+status post multiple percutaneous interventions in past 35
+years, with his last intervention in 2008-11-04 00:00:00, who presented
+to an outside hospital on the morning of 2008-11-04 00:00:00 with
+complaints of chest pain at rest, no troponin leak at that
+outside hospital, who was transferred to the UPMCE for cath
+showing severe 3VD with a left main stenosis of 60 percent,
+LAD 50-60 percent, left circ 80 percent, RCA 90 percent
+distal involving the PDA, who was referred at this time for
+coronary artery bypass grafting.
+
+PAST MEDICAL HISTORY:  Coronary artery disease, status post 6-
+7 stents in the past.
+
+Hyperlipidemia.
+
+Gout.
+
+Gastroesophageal reflux disease.
+
+Depression.
+
+PAST SURGICAL HISTORY:  Right carotid endarterectomy
+approximately 5 years ago.
+
+Appendectomy as a child.
+
+ALLERGIES:  No known drug allergies.
+
+MEDS PRIOR TO ADMISSION:
+1. Lescol 80 mg once daily.
+2. Folate 1 mg once daily.
+3. Prevacid 30 mg once daily.
+4. Colchicine 0.6 mg UPMCE.
+5. Zetia 10 mg once daily.
+6. Wellbutrin SR 150 mg UPMCE.
+7. Cardizem CD 240 mg once daily.
+8. Colace 100 mg UPMCE.
+9. Allopurinol 100 mg once daily.
+10.Provigil 100 mg once daily.
+11.Imdur 30 mg q am and 15 mg q pm.
+12.Plavix 75 mg once daily.
+13.Ecotrin 325 mg once daily.
+14.Diovan/HCTZ 160/12.5 once daily.
+15.Vitamin B6 50 mg once daily.
+
+PHYSICAL EXAM ON PRESENTATION:  Height 5 feet 8 inches tall,
+weight 250 pounds.  Vital signs:  Blood pressure 118/66,
+heart rate 54 and sinus rhythm, temp 97.1.  General:  Lying
+flat in bed in no acute distress.  Neuro:  Alert and oriented
+x 3, appropriate.  Respiratory:  Clear to auscultation.
+Cardiovascular:  Regular rate and rhythm, S1, S2, II/VI
+systolic ejection murmur loudest at the apex.  GI:  Soft,
+obese, nontender, nondistended with positive bowel sounds.
+Extremities:  Warm and well-perfused, no edema, no
+varicosities with good distal pulses.
+
+LABS ON ADMISSION:  WBC 5.7, hematocrit 44.3, platelets 156,
+PT 13.0, PTT 26.5, INR 1.1, sodium 137, potassium 3.7,
+chloride 100, bicarb 28, BUN 16, creatinine 0.9, glucose 153,
+ALT 42, AST 27, alk phos 70, total bili 0.5, albumin 4.0.
+
+SUMMARY OF HOSPITAL COURSE:  As above, the patient was
+admitted on 2008-11-04 00:00:00 and proceeded to the Cardiac Cath Lab
+showing severe 3VD and was referred for coronary artery
+bypass grafting.  He underwent a preop evaluation and was
+cleared for CABG and proceeded to the operating room on
+2008-11-04 00:00:00 and underwent coronary artery bypass grafting x 4
+with Dr. Alsa Marcuccio with a LIMA to the LAD, saphenous vein graft
+to the OM, left PDA and right PDA.  He was transferred to the
+Cardiac Surgery Recovery Room, AV-paced with a rate of 88,
+mean arterial pressure of 76, and CVP of 14.  He was
+sustained on Neo-Synephrine and propofol drips.  His
+underlying rhythm initially was a sinus bradycardia with a
+rate in the 30's.
+
+Postoperative day 1 was significant for successful extubation
+and return of his heart rate to 62 in a normal sinus rhythm.
+On postoperative day 4, the rest of his intravenous
+medications were discontinued, and his Foley catheter was
+also discontinued, and he was transferred to the inpatient
+floor for continued care.
+
+Postoperative day 3 and 4 were also uneventful with heart
+rate continuing in sinus rhythm, not requiring any cardiac
+pacing.  His pacing wires were thus DC'd, and his usual meds
+were resumed.  Mr. Cavalli was followed by the physical
+therapy team throughout his recovery, and on 2008-11-04 00:00:00 met
+all goals of therapy and was DC'd from a physical therapy
+standpoint.
+
+On postoperative day 5, 2008-11-04 00:00:00, Mr. Cavalli was found to
+be medically ready for home and was discharged home with
+visiting nurses to follow.
+
+CONDITION ON DISCHARGE:  Vital signs:  Temp 97, pulse 62 in
+sinus rhythm, BP 130/__, respiratory rate 20, O2 sat 95
+percent on room air, weight 95 kg--up from a preoperative
+weight of 91 kg.
+Physical Exam:  Neuro:  Alert, oriented, nonfocal, moves all
+extremities and follows commands.  Pulmonary:  Lungs clear
+bilaterally.  Cardiac:  Regular rate and rhythm.  Sternal
+incision without drainage or erythema.  Sternum stable and
+incision with Steri-Strips.  Abdomen:  Soft, nontender,
+nondistended with positive bowel sounds.  Extremities:  Warm
+with trace edema.  Left leg incision clean and dry.
+Endoscopic sites with Steri-Strips.
+
+DISCHARGE STATUS:  The patient will be discharged to home
+with visiting nurses to follow.
+
+DISCHARGE DIAGNOSES:  Coronary artery disease, status post
+coronary artery bypass graft x 4.
+
+Hypertension.
+
+Hyperlipidemia.
+
+History of a gastrointestinal bleed.
+
+Status post right carotid endarterectomy.
+.
+Depression.
+
+Transient ischemic attacks.
+
+Sleep apnea.
+
+Arthritis.
+
+Gout.
+
+DISCHARGE MEDICATIONS:
+1. Percocet 5/325, 1-2 tabs po q 4-6 h prn pain.
+2. Aspirin 81 mg once daily.
+3. Colace 100 mg po once daily.
+4. Wellbutrin 150 mg po bid.
+5. Lopressor 25 mg po bid.
+6. Lasix 20 mg po bid for 7 days, then Lasix 20 mg po once
+   daily for 10 days.
+7. Potassium chloride 20 mEq po bid for 7 days, then 20 mEq
+   po once daily for 10 days.
+8. Lescol 80 mg po once daily.
+9. Prevacid 30 mg po once daily.
+10.Provigil 100 mg po once daily.
+
+FOLLOW-UP PLANS:  The patient is to be followed by visiting
+nurses.  He will be seen in the outpatient wound clinic in 2
+weeks.  He will follow with Dr. Alsa Marcuccio Cavalli in 2008-11-04 00:00:00 weeks,
+and with Dr. Alsa Marcuccio in approximately 4 weeks.
+
+
+
+                        Alsa Marcuccio, M.D. 13229
+
+Dictated By:Alsa Marcuccio
+MEDQUIST36
+D:  2008-11-04 00:00:00 13:00:24
+T:  2008-11-04 00:00:00 14:31:08
+Job#:  13229

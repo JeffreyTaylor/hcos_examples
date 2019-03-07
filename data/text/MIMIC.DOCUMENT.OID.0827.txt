@@ -1,0 +1,291 @@
+Admission Date:  2014-06-26 00:00:00              Discharge Date:   2014-06-26 00:00:00
+
+Date of Birth: 1922-07-03 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Dilaudid / Iodine-Iodine Containing
+
+Attending:Dylana Soc
+Chief Complaint:
+Chief Complaint:  Headache
+Reason for ICU Admission: Monitoring after contrast allergic
+reaction
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+History of Present Illness:
+Ms. 123 Any St.usly PD until
+2014-06-26 00:00:00) for ESRD secondary to type 1 DM for the past 3 years.
+Per her mother with whom she lives, she developed a headache,
+hypoglycemia, nausea and vomiting and abdominal pain with chills
+over the past day.  She was also more combative and somnolent at
+home.  She did have HD on Thursday as scheduled and per a
+nephrology census note, has a history of catheter infections.
+She was brought in by ambulance to the UPMCE for further
+evaluation.
+.
+In the ED, initial vs were: 100.4 90 test@mail.com. Patient
+underwent LP after receiving Vanc, CTX and acyclovir and blood
+cultures.  CSF unrevealing.  The patient also underwent Head CT
+and CXR.  She was slated for CT Ab/Pelvis with IV contrast to
+evaluate her abdominal pain given her recent hernia repair
+(despite her mother's protestations) and during the contrast
+exposure, developed rapid facial swelling, oropharyngeal rash
+without wheezing or hives.  She was given Solumedrol,
+Famotidine, Benadryl and 1L NS for allergic reaction and
+transferred to the ICU for further monitoring.  CT Ab with PO
+contrast was obtained prior to transfer. Renal was consulted. VS
+ib transfer: 87 199/93 14 100% RA- no headache or chest pain.
+.
+On the floor, the patient is somonolent but arousable.  She is
+tacitly refusing to answer questions but does respond to
+commands and express her displeasure at my attempt to interview
+her.  A brief meeting with her mother confirmed the story above.
+.
+Review of systems:  Unable to obtain
+
+
+Past Medical History:
+Past Medical History:
+- ESRD since 2014-06-26 00:00:00 HD through L IJ Tunnelled line
+- Peritonitis 2014-06-26 00:00:00
+- Type I DM complicated by neuropathy and nephropathy
+- Bilateral cataract surgeries
+- Ventral Hernia, repaired 2014-06-26 00:00:00
+
+Social History:
+- Lives with her mother, + tobacco history, social ETOH,
+marijuana use noted in history
+
+Family History:
+DM type II, otherwise NC
+
+
+Physical Exam:
+Initial Exam:
+Vitals: T: 98.7 BP: 188/89 P: 88 R: 14 O2: 100% RA
+General: Sleeping, arousable, no acute distress
+HEENT: Swollen facies, tongue, eyelids. No upper airway wheezes
+Neck: supple, JVP not elevated, no LAD
+Lungs: Limited exam, anteriorly, laterally and apically clear.
+
+CV: S1 & S2 regular without murmur ap123 Any St.ted.  Tunnelled L IJ
+present on chest, not erythematous
+Abdomen: Soft, tender, patient swatted away my hand on attempted
+examination, bowel sounds present.
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no edema
+
+Pertinent Results:
+Labs on Admission:
+2014-06-26 00:00:00 07:29PM CEREBROSPINAL FLUID (CSF)  PROTEIN-51*
+GLUCOSE-109
+2014-06-26 00:00:00 07:29PM CEREBROSPINAL FLUID (CSF)  WBC-4 RBC-1*
+POLYS-78 LYMPHS-10 MONOS-12
+2014-06-26 00:00:00 09:32AM   GLUCOSE-166* LACTATE-1.8 K+-4.0
+2014-06-26 00:00:00 09:20AM   GLUCOSE-176* UREA N-40* CREAT-7.6* SODIUM-140
+POTASSIUM-4.0 CHLORIDE-94* TOTAL CO2-27 ANION GAP-23*
+2014-06-26 00:00:00 09:20AM   estGFR-Using this
+2014-06-26 00:00:00 09:20AM   LIPASE-39
+2014-06-26 00:00:00 09:20AM   LIPASE-39
+2014-06-26 00:00:00 09:20AM   ALBUMIN-5.0 CALCIUM-9.4 PHOSPHATE-5.0*
+MAGNESIUM-2.5
+2014-06-26 00:00:00 09:20AM   WBC-13.5*# RBC-4.50 HGB-13.4 HCT-40.8 MCV-91
+MCH-29.9 MCHC-32.9 RDW-16.5*
+2014-06-26 00:00:00 09:20AM   NEUTS-90.3* LYMPHS-6.5* MONOS-2.0 EOS-0.8
+BASOS-0.4
+
+Labs on Discharge:
+2014-06-26 00:00:00 07:10AM BLOOD WBC-4.5 RBC-4.69 Hgb-13.8 Hct-43.9 MCV-93
+MCH-29.4 MCHC-31.5 RDW-16.4* Plt Ct-206
+2014-06-26 00:00:00 07:10AM BLOOD Glucose-600* UreaN-29* Creat-6.5*#
+Na-132* K-4.7 Cl-91* HCO3-29 AnGap-17
+2014-06-26 00:00:00 07:10AM BLOOD Calcium-8.8 Phos-4.1 Mg-2.7*
+
+Imaging:
+CXR (2014-06-26 00:00:00): IMPRESSION: No acute pulmonary process. Dialysis
+access recently replaced,
+but otherwise no interval change noted.
+
+CT Head w/o contrast (2014-06-26 00:00:00): IMPRESSION: Normal head CT, without
+acute intracranial process.
+
+CT Abdomen/Pelvis w/o contrast (2014-06-26 00:00:00):
+IMPRESSION:
+1.Small soft tissue density noted within the subcutaneous fat
+overlying the 123 Any St.us site of ventral hernia, likely
+post-surgical changes. No evidence of abscess or colitis.
+2. Focal ground glass opacity in right lower lobe could be due
+to edema, infectious or inflammatory change. Small left pleural
+effusion.
+3. Small amount of intermediate density free fluid in the
+pelvis, a nonspecific finding. If there are symptoms referable
+to the pelvis then pelvic ultrasound would further evaluate.
+
+Abdominal u/s (2014-06-26 00:00:00):IMPRESSION: Findings compatible with
+surgical mesh material in the anterior abdominal wall at the
+site of hernia repair with adjacent hypoechoic vascularized
+tissue that may represent scarring or keloid. No evidence of
+bowel containing hernia. Continued clinical followup with
+palpation is recommended. If the mass continues to grow, then
+further assessment could be obtained with MRI.
+
+
+Brief Hospital Course:
+30F on HD for ESRD 2014-06-26 00:00:00 type 1 DM who p/w headache,
+nausea/vomiting and abdominal pain, whose hospital course was
+complicated by an anaphylactic rxn to IV contrast. The patient
+was started on vancomycin/cefepime/cipro for fevers and
+leukocytosis, but no source of infection was found.
+.
+1) Abdominal pain and fevers: The patient presented with a
+diffusely tender abdomen, fevers, and leukocytosis. There was
+concern for intraabdominal process given recent PD catheter
+removal and hernia repair. CT abdomen with contrast was
+complicated by allergic reaction (described below). CT
+abd/pelvis without contrast showed no evidence of abscess or
+colitis. There were no clear localizing findings on physical
+exam. The patient received a course of vancomycin, cefepime, and
+ciprofloxacin; all were discontinued when the patient remained
+afebrile for >48 hours. The patient's pain, fevers, and white
+count resolved by the time of discharge.
+.
+2) Contrast reaction:  The patient developed rapid facial
+swelling, oropharyngeal rash without wheezing or hives upon
+administration of IV contrast. She was given Solumedrol,
+Famotidine, Benadryl and 1L NS for allergic reaction and
+transferred to the ICU for further monitoring. There was no
+evidence of respiratory compromise, and did not require
+intubation during her hospital course. The patient's facial
+swelling resolved during the course of her hospital stay.
+.
+3) Type 1 DM: The patient developed hyperglygemia in the setting
+of steroid administration during her allergic reaction. The
+patient had consistent BS readings in the 400s while in the ICU.
+There was no evidence of anion gap acidosis. Once the patient
+arrived on the floor, Sower was consulted to help manage her
+diabetes. The patient's dose of lantus was adjusted, but
+ultimately she remained well-controlled on her home dose of
+lantus and ISS.
+.
+4) Headache: The patient presented with severe headache, that
+resolved by day 3 of hospital course. A LP performed in the ED
+was negative for infection.
+.
+5) ESRD on HD: The patient underwent HD as an inpatient as per
+her schedule. The patient's lisinopril dose was reduced from
+40mg to 10mg as per Renal recommendation.
+.
+6) HTN: The patient's SBP ranged from 140-200 during the course
+of her hospital stay. The higher numbers were attributed to pain
+that the patient was experiencing.
+.
+
+
+Medications on Admission:
+Aspirin 81mg PO daily
+B Complex Vitamins 1 Cap Daily
+Carvedilol 12.5mg PO BID
+Cinacalcet 30mg PO Daily
+Docusate Sodium 100mg PO BID
+E123 Any St. Alfa [Epogen] 10,000 unit INJ weekly
+Folic Acid 1mg PO daily
+Furosemide 60mg PO daily
+Insulin Aspart [Novolog] sliding scale
+Insulin Glargine 10 units SQ Daily
+Latanoprost 0.005 % Drops One (1) Drop Ophthalmic HS
+Lisinopril 20mg PO daily
+Oxycodone PRN
+Sennosides [Senna] PRN
+Sevelamer HCl 800mg PO TIDAC
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+3. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. E123 Any St. Alfa 10,000 unit/mL Solution Sig: One (1) INJ
+Injection once a week.
+6. Insulin Aspart  Subcutaneous
+7. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) Units
+Subcutaneous once a day.
+8. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+9. Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+10. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+11. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis: Type I Diabetes
+                   Allergic Reaction to contrast dye
+                   ESRD on hemodialysis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. Sower,
+
+You were admitted to the hospital for evaluation and treatment
+of your severe headache, fevers, nausea, and vomiting. In the
+process of evaluation, you developed a serious allergic reaction
+to the contrast solution used for imaging. Once stabilized after
+the reaction, your blood sugars were managed through adjustments
+in your insulin regimen. You were dialyzed according to your
+home schedule. Your fevers did not appear to be caused by an
+underlying infection.
+
+Please CHANGE the following medications:
+From LISINOPRIL 40mg daily to LISINOPRIL 10mg daily.
+
+Please STOP the following medications:
+Folic Acid
+Lasix (Furosemide)
+
+
+Followup Instructions:
+Please follow-up at the following times/places:
+Please schedule a follow up visit with your PCP Sower. Sower by
+calling
+test@mail.com. Please schedule this visit within 1-2 weeks.
+.
+Department: UPMCE HEALTH CENTER
+When: FRIDAY 2014-06-26 00:00:00 at 10:40 AM
+With: Kayeleigh Sower, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+.
+Department: PODIATRY
+When: TUESDAY 2014-06-26 00:00:00 at 9:20 AM
+With: Kayeleigh Dylana Soc Sower, DPM test@mail.com
+Building: Ba 123 Any St.
+Campus: WEST     Best Parking: 123 Any St. Garage
+.
+Department: TRANSPLANT CENTER
+When: THURSDAY 2014-06-26 00:00:00 at 9:20 AM
+With: Kayeleigh Sower Kayeleigh Sower, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+.
+
+

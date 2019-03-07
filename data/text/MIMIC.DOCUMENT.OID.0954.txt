@@ -1,0 +1,184 @@
+Admission Date:  2012-01-29 00:00:00              Discharge Date:   2012-01-29 00:00:00
+
+Date of Birth: 1945-01-29 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Jurni Zaepfel
+Chief Complaint:
+CC:test@mail.com
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+HPI: The patient is a 75 year old right handed woman with a
+history of atrial fibrillation on Coumadin, hypertension, and
+Grave's Disease who presented with headache, vomiting, and
+confusion, and was transferred from an OSH with left
+temporoparietal IPH with midline shift and left uncal
+herniation.
+The history is obtained from the patient's husband and daughter.
+
+The patient was in her usual state of health until 8:00-8:30 pm
+on the evening prior to admission when she complained of a
+headache and wanted to lay down. At approximately 10:00 pm she
+called out her husband's name, and said help me. She walked from
+the bedroom to the bathroom and vomited. Her husband found her
+sitting on the edge of the tub confused, saying "give me a few
+minutes". She had difficulty sitting upright and was leaning to
+the left per her husband. She was more sleepy than usual. After
+10 minutes, her husband called 911. Der Delapp husband denied any head
+trauma. Per EMS notes, exam showed pupils pinpoint, EKG showed
+sinus bradycardia at 50 bpm.
+
+She initially presented to UPMCE Hospital, where SBP
+174/79. Labs showed WBC 12.5, plt 185, INR 2.2, glucose 213, Cr
+0.9. Head CT at the OSH showed 6.5 x 3.3 cm acute
+intraparenchymal hematoma in the left temporoparietal lobe with
+surrounding edema and 1.4 cm midline shift to the right, left
+uncal herniation with impending transtentorial herniation. She
+was given 2 U FFP and intubated. It is difficult to determine
+what other medications she received, but they may include
+Decadron 10 mg, Fosphenytoin 1 gm, Labetalol, Succs, Fentanyl,
+and Valium. She was transferred to UPMCE for further care.
+
+At the UPMCE ED, INR was 2.0 on admission. Here she was given
+Vitamin K 10 mg IV, Profilnine, and Nicardipine gtt.
+
+
+Past Medical History:
+Jurni Zaepfel Disease
+- status post radioactive iodine ablation
+Atrial Fibrillation - not on coumadin, occured in setting of
+hyperthyroid, resolved since treatment
+Hypertension
+Glaucoma
+
+
+Social History:
+Patient lives in 123 Any St., MA with her husband, one daughter
+who is ped radiologist at Der Delapp.
+Tobacco: None
+ETOH: 2012-01-29 00:00:00 mixed drinks daily, last drink yesterday
+Illicits: None
+.
+
+
+Family History:
+Father - MI age 50, died 90s
+Mother - Died 92 natural cuases
+8 siblings
+
+
+Physical Exam:
+PHYSICAL EXAM:
+VS: temp 97.7, bp 155/97, HR 76, RR 18, SaO2 100% (intubated)
+Genl: Intubated, eyes open
+HEENT: Sclerae anicteric, bilateral conjunctival injection
+CV: Regular rate, Nl S1, S2, no murmurs, rubs, or gallops
+Chest: CTA bilaterally anteriorly, no wheezes, rhonchi, rales
+Abd: +BS, soft, NTND abdomen
+
+Neurologic examination:
+Mental status: Intubated, eyes open. Does not follow commands to
+squeeze hands bilaterally. Does not arouse to name being called
+or sternal rub.
+
+Cranial Nerves: Pinpoint pupils nonreactive to light, 1.5 mm on
+the left and 1 mm on the right. Minimal corneal reflex
+bilaterally, slightly more brisk on the left. No gag reflex. No
+obvious facial asymmetry. Eyes turn in the same direction as the
+head with Doll's eye maneuver.
+
+Motor/Sensation: No observed myoclonus, asterixis, or tremor.
+The
+patient withdraws her right>left upper extremity to noxious
+stimulus. She occasionally spontaneously moves her right upper
+extremiy. There is a flicker of contraction of her bilateral
+lower extremities to noxious, but she does not withdraw them.
+She
+occasionally spontaneously rotates her left lower extremity.
+
+Reflexes: 2+ and symmetric in biceps, brachioradialis, and
+knees.
+No ankle clonus. Toes equivocal bilaterally.
+
+Pertinent Results:
+IMAGING:
+CT Head (123 Any St.): large left temporal lobe intraparenchymal
+hemorrhage with extensive surrounding edema resulting in 13mm
+rightward shift of normally midline structures and entrapment of
+the right lateral ventricle. There is associated mild left uncal
+herniation
+
+2012-01-29 00:00:00 01:15AM   WBC-13.1*# RBC-4.07* HGB-12.0 HCT-34.1*
+MCV-84 MCH-29.4 MCHC-35.1* RDW-13.1
+2012-01-29 00:00:00 01:15AM   NEUTS-87.9* LYMPHS-9.6* MONOS-2.1 EOS-0.3
+BASOS-0.1
+2012-01-29 00:00:00 01:15AM   PLT COUNT-164
+2012-01-29 00:00:00 01:15AM   PT-21.2* PTT-27.0 INR(PT)-2.0*
+
+Brief Hospital Course:
+The patient is a 75 year old right handed woman with a history
+of atrial fibrillation on Coumadin (INR 2.2),hypertension, and
+Grave's Disease who presented with a left temporoparietal IPH
+with midline shift and left uncal herniation.
+Her exam evidences the absence of some brain stem reflexes (gag,
+dolls eyes, corneal reflexes) though her exam was not completely
+consistent with brain death. Given her poor exam and extensive
+size of her hemorrhage she was not a surgical candidate. She was
+admitted to the ICU her INR was reversed her SBP was kept less
+than 140 and she was started on Dilantin and Mannitol. An MRI
+showed  Several areas of restricted diffusion within the left
+occipital lobe, left thalamus, mid brain, and corpus callosum
+most consistent with acute infarction. A few foci of increased
+susceptibility within the left thalamus and to a lesser extent
+midbrain suggestive of Duret hemorrhage.
+ On the first morning of her hospital day she had no eye opening
+no blink to threat she made a weak attempt to localize on the
+right and withdrew her lower extremeties and left arm. Stroke
+neurology was consulted and felt that she should not have
+surgery due to size of bleed and dominent hemisphere and
+recommended medical management.
+Extensive discussion were held with the family from
+neurosurgery, neurology and critcal care team to discuss the
+gravity of the situation.
+On her second hospital day the patients exam did not not improve
+the family had a meeting with pallative care they planned an
+extubation with Morphine and Ativan for comfort. The patient
+passed away on 2012-01-29 00:00:00.
+
+Medications on Admission:
+Medications prior to admission:
+Coumadin 5 mg daily
+HCTZ 12.5 mg daily
+Lisinopril 10 mg qhs
+Verapamil 120 mg Sust Release daily
+Levothyroxine 88 mcg daily
+Lumigan 0.03% drops OU daily
+Pilocarpine 2% OU qid
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+cerebral hemorrhage
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+
+Completed by:2012-01-29 00:00:00

@@ -1,0 +1,516 @@
+Admission Date:  2012-09-30 00:00:00              Discharge Date:   2012-09-30 00:00:00
+
+Date of Birth: 1984-09-30 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Colter Renas
+Chief Complaint:
+Presyncope
+
+Major Surgical or Invasive Procedure:
+Pericardial window
+
+History of Present Illness:
+This is a 45 y/o female with past medical history of
+hypothyroidism presenting initially for an urgent care visit
+with an episode of  diaphoresis and presyncope several hours
+prior.  The patient has had ~1 month of bilateral neck
+discomfort associated with mild dyspnea on exertion.  Her neck
+pain improved with physical therapy and her neck pain improved.
+She now reports worsening DOE and worsening neck pain over the
+past 1 1/2 weeks. She now has difficulty walking up a single
+flight of stairs.  Additionally, she reports that for the past
+few days, she hasn't been "feeling herself", with fatigue,
+nausea, vomitting, decreased PO.  On day of presentation she was
+leaving work, walking to car when had acute onset of diaphoresis
+and presycnope associated with SOB; no fall /headstrike.  No
+palpitations.  Presented to clinic for further evaluation.  In
+clinic triage noted to be tachycardic to 116.  On review of
+systems she reports low grade fevers (but has been taken
+ibuprofen regularly), 5 pounds of weight loss over past 2 weeks,
+day&nightime sweats (and felling 'hot'), with increasing
+nausea/vomitting.  She has had no lymphadenopathy, abdominal
+pain, change in her bowel or bladder habits, muscle or joint
+pain. Of note, on review of history had recent TSH of .088 2012-09-30 00:00:00,
+for which she had levoxyl dose decreased and cytomel dose kept
+the same.
+
+In the ED, initial vitals were  100.0 116 126/88 18 99% Labs and
+imaging significant for new anterior mediastinal mass.  She had
+elevated WBC to 14.1 with 89.7%Neutrophils, Hb:10.4 plt:468.
+Chem 7 wnl. TSH, FT4 pending.  D-Dimer 5515, but CTA negative
+for PE.
+Patient given zofran.
+
+On arrival to the floor, patient complained of pleuritic chest
+pain and intermittent nausea
+
+Past Medical History:
+Hypothyroidism/Hashimoto's disease
+DYSPEPSIA
+HEPATITIS
+IRRITABLE BOWEL SYNDROME
+S/P FIBROADENOMA EXCISION, right breast
+VARICOSE VEINS, s/p sclerotherapy
+ALLERGIC RHINITIS
+Tonsillectomy/adenoidectomy
+
+Social History:
+levothyroxine [Levoxyl] 88mcg daily
+liothyronine [Cytomel]  10 mcg qAM, 2.5 mcg qPM
+calcium and vitamin D two tablets in the evening, vitamin D 2012-09-30 00:00:00
+units a day, magnesium oxide 400 mg a day, Metamucil, selenium
+100 mcg a day, vitamin B complex with biotin.
+
+Family History:
+Father living, age 73, hypertension, positive
+for H. pylori on endoscopy, history of colon cancer,
+123 Any St.betes.
+ Mother living, age 66, high cholesterol.  Two brothers, one
+with
+hypertension and ulcers.  One brother and sister who are
+healthy.
+ Daughter is 19 years old, graduated from high school and going
+to UPMCEin the fall, going to live at home.  Son
+Brucelee Toll 17 years old, going into his senior year of high school.
+Family history positive for breast cancer in two maternal aunts.
+
+Family history negative for coronary artery disease, MI, CVA,
+and
+diabetes mellitus.
+
+
+Physical Exam:
+ADMISSION EXAM:
+VS: T=98.4 BP=109/77 HR=120 RR=19 O2 sat= 97%RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with JVP of 10 cm.
+CARDIAC: tachycardic, normal S1, S2. No m/r/g. No thrills,
+lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were somewhat labored intermittently, no accessory muscle use.
+CTAB, no crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+
+DISCHARGE EXAM:
+GENERAL - well-appearing woman in NAD, comfortable, appropriate
+
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple
+LUNGS -  clear to ausculation bilaterally
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding
+EXTREMITIES - WWP, 2+ peripheral pulses (radials, DPs); 1+ trace
+edema bilaterally
+SKIN - no rashes or lesions
+LYMPH - no cervical, axillary, or inguinal LAD
+NEURO - awake, A&Ox3,
+
+
+Pertinent Results:
+ADMISSION LABS:
+
+2012-09-30 00:00:00 06:18PM   WBC-14.1*# RBC-3.73* HGB-10.4* HCT-32.6*
+MCV-87 MCH-27.8 MCHC-31.8 RDW-13.9
+2012-09-30 00:00:00 06:18PM   NEUTS-89.7* LYMPHS-5.0* MONOS-5.0 EOS-0.2
+BASOS-0.2
+2012-09-30 00:00:00 06:18PM   PLT COUNT-468*#
+2012-09-30 00:00:00 06:18PM   HCG-<5
+2012-09-30 00:00:00 06:18PM   TSH-0.67
+2012-09-30 00:00:00 08:14PM   D-DIMER-5515*
+2012-09-30 00:00:00 06:18PM   GLUCOSE-125* UREA N-16 CREAT-0.5 SODIUM-138
+POTASSIUM-4.7 CHLORIDE-101 TOTAL CO2-26 ANION GAP-16
+2012-09-30 00:00:00 09:13AM   CEA-<1.0
+2012-09-30 00:00:00 04:28AM   ALT(SGPT)-41* AST(SGOT)-19 LD(LDH)-485* ALK
+PHOS-220* TOT BILI-0.6
+2012-09-30 00:00:00 09:21AM BLOOD Type-ART pO2-87 pCO2-25* pH-7.43
+calTCO2-17* Base XS--5
+
+DISCHARGE LAB
+
+2012-09-30 00:00:00 06:15AM BLOOD WBC-21.4* RBC-3.82* Hgb-10.7* Hct-31.9*
+MCV-84 MCH-28.0 MCHC-33.5 RDW-13.5 Plt Ct-333
+2012-09-30 00:00:00 06:15AM BLOOD Neuts-95.2* Lymphs-2.7* Monos-0.4*
+Eos-1.7 Baso-0
+2012-09-30 00:00:00 06:15AM BLOOD Glucose-116* UreaN-8 Creat-0.5 Na-137
+K-4.1 Cl-102 HCO3-28 AnGap-11
+2012-09-30 00:00:00 06:15AM BLOOD ALT-30 AST-20 LD(LDH)-249 AlkPhos-135*
+TotBili-1.0
+2012-09-30 00:00:00 06:15AM BLOOD Calcium-8.8 Phos-2.8 Mg-2.1 UricAcd-3.1
+
+MICRO
+URINE CULTURE (Final 2012-09-30 00:00:00):
+      Culture workup discontinued. Further incubation showed
+contamination
+      with mixed skin/genital flora. Clinical significance of
+isolate(s)
+      uncertain. Interpret with caution.
+      PROTEUS MIRABILIS.    10,000-100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+PATHOLOGY
+
+2012-09-30 00:00:00 pericardium, mediastinal mass biopsy
+
+SPECIMEN #1:  PERICARDIUM, BIOPSY (A).
+DIAGNOSIS:
+CARDIAC MUSCLE AND FIBROADIPOSE TISSUE WITH FIBRIN DEPOSITION
+AND GRANULATION TISSUE REACTION. THERE IS NO MORPHOLOGIC
+EVIDENCE OF INVOLVEMENT BY LYMPHOMA.
+
+SPECIMEN #2:  SOFT TISSUE MASS, RIGHT ANTERIOR MEDIASTINUM,
+BIOPSY (B-C).
+DIAGNOSIS:
+DIFFUSE LARGE B-CELL LYMPHOMA, PRIMARY MEDIASTINAL (THYMIC)
+TYPE, SEE NOTE.
+
+SPECIMEN #3:  SOFT TISSUE MASS, RIGHT ANTERIOR MEDIASTINUM,
+BIOPSY (D-E).
+DIAGNOSIS:
+DIFFUSE LARGE B-CELL LYMPHOMA, PRIMARY MEDIASTINAL (THYMIC)
+TYPE, SEE NOTE.
+
+Note: H&E sections (B through E) reveal fibrous tissue with
+abundant geographic necrosis and infiltration by an atypical
+lymphoid population in an invasive and reticulated growth
+pattern with delicate interstitial fibrosis.  The tumor cells
+are large with moderately abundant amphophilic cytoplasm.  The
+nuclei have pale chromatin, irregular and angulated nuclear
+contours, and small inconspicuous nucleoli.  Scattered mitoses
+and apoptotic bodies are seen.
+
+By immunohistochemistry, tumor cells are pan reactive with CD45
+and in addition, immunoreactive for CD20 and PAX-5, with
+co-expression of CD30, MUM1, and BCL-6.  The admixed reactive
+T-cells are positive for CD3 and CD5.  The tumor is negative for
+CD10, CD15, and CD56, which shows only rare scattered positive
+cells.  The tumor cells are negative for cytokeratin cocktail
+(which stains the fibroblasts), synaptophysin, S-100, and TdT.
+The proliferation index, by MIB-1 staining, is approximately
+80-90%.  The combined clinical, morphologic, and
+immunophenotypic findings are most consistent with the diagnosis
+of primary mediastinal large B-cell lymphoma.
+
+2012-09-30 00:00:00
+FLOW CYTOMETRY REPORT
+FLOW CYTOMETRY IMMUNOPHENOTYPING
+The following tests (antibodies) were performed: HLA-DR, FMC-7,
+Kappa, Lambda, and CD antigens 3,5,10,19.20,23,45.
+RESULTS:
+Three color gating is performed (light scatter vs. CD45) to
+optimize lymphocyte yield.  B cells comprise 1% of
+lymphoid-gated events, (<1% of total events), and do not express
+aberrant antigens.  T cells comprise 63% of lymphoid gated
+events, 3% of total events, and express mature lineage antigens.
+
+INTERPRETATION
+Nonspecific T cell dominant lymphoid profile; diagnostic
+immunophenotypic features of involvement by lymphoma are not
+seen in specimen.  Correlation with clinical findings and
+morphology (see S12-40728K) is recommended.  Flow cytometry
+immunophenotyping may not detect all lymphomas due to
+topography, sampling or artifacts of sample preparation.
+
+2012-09-30 00:00:00 Bone Marrow Biopsy
+DIAGNOSIS:
+HYPERCELLULAR BONE MARROW WITH MATURING TRILINEAGE
+HEMATOPOIESIS.  THERE IS NO MORPHOLOGIC EVIDENCE OF INVOLVEMENT
+BY LYMPHOMA.
+
+
+MICROSCOPIC DESCRIPTION
+Peripheral Blood Smear:
+The smear is adequate for evaluation.  Erythrocytes are
+decreased, with mild anisopoikilocytosis including occasional
+echinocytes, and rare target cells.  The white blood cell count
+is normal.  Occasional hypersegmented neutrophils are seen.  The
+platelet count appears normal.  Occasional large platelets are
+seen.   A manual differential shows:  97% neutrophils, 0% bands,
+3% lymphocytes, 0% monocytes, 0% lymphocytes, 0% eosinophils, 0%
+basophils.
+
+
+Aspirate Smear:
+The aspirate material is adequate for evaluation.  M:E ratio is
+1.5:1.   Erythroid precursors are relatively proportionately
+decreased in number and exhibit overall normoblastic maturation
+with rare cells with irregular contours.   Myeloid precursors
+are relatively proportionately increased in number and show
+normal maturation.  Megakaryocytes are increased number.
+Abnormal forms are not seen. A 500 cell manual differential
+shows: 0% Blasts, 4% Promyelocytes, 7% Myelocytes, 8%
+Metamyelocytes, 38% Bands/Neutrophils, 37% Erythroids, 6%
+Lymphocytes, 0% plasma cells.
+
+Biopsy Slides:
+The core biopsy material is adequate for evaluation.  It
+consists of a 1.1 cm core biopsy of trabecular marrow with a
+cellularity of 70%.  M:E ratio estimate is increased. The bone
+appears mildly osteopenic. Erythroid precursors are relatively
+proportionately decreased in number in number and have overall
+normoblastic maturation.  Myeloid precursors are relatively
+proportionately increased in number with normal maturation.
+Megakaryocytes are increased in number, with focal loose and
+tight clustering.
+
+IMAGING
+
+2-D ECHOCARDIOGRAM 2012-09-30 00:00:00:
+The estimated right atrial pressure is at least 15 mmHg. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity size is normal. Due to suboptimal technical quality, a
+focal wall motion abnormality cannot be fully excluded. Overall
+left ventricular systolic function is normal (LVEF 65%). The
+right ventricular free wall is thick. There is a 1 cm thick soft
+tissue rind abutting the right ventricular free wall, largest at
+the atrioventricular groove. This could represent an
+acoustically dense epicardial fat pad or an extensive epicardial
+tumor/metastasis. Right ventricular free wall infiltration
+cannot be excluded, especially in light of the thickened,
+hypocontractile appearance. Right ventricular chamber size is
+normal with depressed free wall contractility. The aortic valve
+leaflets (?#) appear structurally normal with good leaflet
+excursion. The mitral valve leaflets are structurally normal.
+The pulmonary artery systolic pressure could not be determined.
+There is a large pericardial effusion. The effusion is echo
+dense, consistent with blood, inflammation or other cellular
+elements. Stranding is visualized within the pericardial space
+c/w organization. There is significant, accentuated respiratory
+variation in mitral/tricuspid valve inflows, consistent with
+impaired ventricular filling.
+
+Consider cardiac MRI to better assess the possibility of right
+ventricular free wall infiltration
+
+READ BY: Brucelee Brucelee Toll, MD
+
+ECHOCARDIOGRAM POST-PERICARDIAL WINDOW: 2012-09-30 00:00:00
+IMPRESSION: Normal biventricular systolic function. Abnormal
+septal motion, likely due to effusive-constrictive physiology
+(commonly seen for a limited time after pericadiocentesis).
+Mediastinal mass abutting the right ventricular free wall.
+
+Compared with the prior study (images reviewed) of 2012-09-30 00:00:00,
+the 123 Any St.usly seen pericardial fluid is no longer present. Both
+ventricles appear larger as a result. No evidence of tamponade
+physiology.
+
+READ BY: Brucelee Toll
+
+ECHOCARDIOGRAM 2012-09-30 00:00:00
+Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+The estimated pulmonary artery systolic pressure is normal.
+There is no pericardial effusion. There is an anterior space
+which most likely represents a prominent fat pad. There are no
+echocardiographic signs of tamponade. There is a mediastinal
+mass compressing the heart.
+
+IMPRESSION: No evidence of significant pericardial fluid or
+tamponade physiology. Mediastinal mass anterior to the right
+ventricle.
+
+Compared with the prior study (images reviewed) of 2012-09-30 00:00:00,
+the septal bounce has resolved. Other findings are similar.
+
+2012-09-30 00:00:00 Echo
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There is no aortic valve stenosis. No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Trivial
+mitral regurgitation is seen. There is a trivial/physiologic
+pericardial effusion. There is an anterior space which most
+likely represents a prominent fat pad. There are no
+echocardiographic signs of tamponade.
+
+
+Brief Hospital Course:
+This is a 45 year f with past medical history of hypothyroidisim
+presenting with diaphoresis, presyncope, and severe DOE and
+found to have an anterior medialstinal mass  consistnet with
+Primary Mediastinal Large B- Cell Lymphoma on pathology,
+transfered from CCU after pericardial window and resolution of
+tamponade to BMT service for intiation of R-UPMCE
+
+#Primary Mediastinal Large B-Cell Lymphoma- The patient
+presneted with dyspnea and pleuritic chest pain. A CT chest done
+as part of her evaluation was notable for a anterior mediastinal
+mass. Biopsy of the pericardium and mediastinal mass was positve
+for B-cell lymphoma. R-UPMCE chemotherapy was intiated for
+treatement, and a bone marrow biospy was done. The patient
+experienced an adverse reaction during infusion of rituxan ( see
+below), but tolerated the remainder of her treatment course
+without complication. She will follow up with her primary
+oncologist Dr. Colter Renas for further mangement.
+
+# Afib w/ RVR- the patient triggered twice during infusion of
+rituxan on Day 1 of R-CHOP.  During the infusion of Rituxan on
+Day 1 of R-CHOPthe patiet became hyptoensive to 80s/50s, with
+associated palpitations,  but arousable when the rate of Rituxan
+was increased from 50 to 100 mg/hr. The patient was found to be
+in afib with RVR ( Hrs 130s-150s) on telemetry ( confirmed by
+EKG). Rituxan was stopped, IV hydrocortisone 100mg x2 was and 1
+L IVFs were given. The patient convereted to NSR HR in he 80s
+with out any intevention, and resolution of palpitation. The BMT
+atending was notified and the decision wasmade to restart
+Rituxan at 0mg/hr,and if an further complications would stop
+completely. Two hours after inital episode the patient was
+satiing 91 on 2L, was normotensive with HR 80. Rituxan was
+stopped pending repeat echo, as asses cardiac function. 3 hours
+after discontinuing Rituxan the patient returned to Afib with
+RVT, HR 130s, although the patient was asymptomatic at this
+time. She received IV metoprol mg x 2, and started on metoprolol
+12.mg PO ID.  She converted back to NSR 1 hour later. An echo
+was done the next morning, significant for an LVEF > 55%. Her
+afib was most likley a exaggerated inflammatory reaction to
+Rituxan.   She was evaluated by cardiology who did not recommend
+long term anticogualtion for her afib, and to rate control with
+nodal agents if recurred. ?She had no further episodes during
+her hospital course
+
+# Pulmonary Embolism- The patient was found to have a right
+subsegmental PE and on CTA. She was treated with a heparin gtt
+and transitioned to Lovenox on discharge. Duration of therapy to
+be determined by primary oncologist.
+
+
+# pericardial effusion/tamponade-  The patient  most likely had
+a malignant effusion secondary to her Primary Mediastinal Large
+B-Cell Lymphoma. Went for pericardial window 2012-09-30 00:00:00, drained 250cc
+fluid.  Gram stain of fluid and tissue negative for organisms,
+2+ polys and 0 polys, respectively.   Pericardial drain was
+pulled on 2012-09-30 00:00:00 and f/u echo showed resolution of pericardial
+effusion. She was monitored with serial echos during her
+hospital course which did not show reaccumulation of the
+pericardial effusion.
+
+# Urinary tract infection- The patient noted to have hematuria.
+A UA and Urine Cx were sent which grew Proteus. She was treated
+with a 7 day course of ciprofloxacin.
+
+----------
+CHRONIC STABLE ISSUES
+
+# hypothyroidism-  The patient was continued on  home
+medications levoxyl, cytomel
+.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from Patient.
+1. Levothyroxine Sodium 88 mcg PO DAILY
+2. Liothyronine Sodium 15 mcg PO DAILY
+3. Calcium Carbonate 500 mg PO Frequency is Unknown
+4. Vitamin D 400 UNIT PO Frequency is Unknown
+5. Magnesium Oxide 400 mg PO DAILY
+6. Psyllium 1 PKT PO Frequency is Unknown
+7. Selenium Sulfide Dose is Unknown  TP Frequency is Unknown
+8. Vitamin B Complex 1 CAP PO DAILY
+
+
+Discharge Medications:
+1. Levothyroxine Sodium 88 mcg PO DAILY
+2. Liothyronine Sodium 10 mcg PO QAM
+3. Liothyronine Sodium 2.5 mcg PO QPM
+4. Vitamin D 400 UNIT PO BID
+5. Enoxaparin Sodium 80 mg SC Q12H
+RX *enoxaparin 80 mg/0.8 mL administer 1 injection
+subcutaneously twice a day Disp #*60 Syringe Refills:*1
+6. Calcium Carbonate 500 mg PO Frequency is Unknown
+7. Ciprofloxacin HCl 500 mg PO Q12H Duration: 7 Days
+RX *ciprofloxacin 250 mg 1 tablet(s) by mouth twice a day Disp
+#*6 Tablet Refills:*0
+8. Filgrastim 480 mcg SC Q24H Duration: 10 Days
+9. Prochlorperazine 10 mg PO Q6H:PRN nausea
+RX *prochlorperazine maleate 10 mg 1 tablet(s) by mouth 6 hours
+Disp #*60 Tablet Refills:*0
+10. Scopolamine Patch 1 PTCH TP ONCE Duration: 1 Doses
+1 patch Q 72 hours. should be removed on 2012-09-30 00:00:00
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis
+Primary Mediastinal large b cell lymphoma
+Pulmonary embolism/deep venous thromboembolism
+
+Secondary Diagnosis
+Hypothyroidism
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. Toll,
+It was a pleasure participating in your care at UPMCE. You were
+admitted to the hospital because you were feeling short of
+breath, lightheaded, with associated sweating. You were found to
+have a  cancer in your chest ( Primary Mediastinal large b cell
+lymphoma) and a blood clot in your lungs ( Pulmonary Embolism).
+You were also found to have a clot at the site of your PICC
+line, and the line was ultimately removed. You were started on
+blood thiners to treat your blood clot ( Lovenox also known as
+enoxaparin) which you will continue to take on discharge. For
+you cancer you finished your first cycle of chemotherapy and
+will follow up with your primary oncolgoist Dr. Colter Renas at the
+appointments scheduled for you below. Your Neupogen was
+discontinued prior to discharge, because your white count was
+elevated. Please discuss with Dr. Colter Renas when to resume these
+injections at your next visit
+
+Followup Instructions:
+Department: HEMATOLOGY/ONCOLOGY
+When: WEDNESDAY 2012-09-30 00:00:00 at 12:45 PM
+With: CHECKIN HEM ONC CC7 test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: WEDNESDAY 2012-09-30 00:00:00 at 1:30 PM
+With: Brucelee Brucelee Toll, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+                             Brucelee Brucelee Toll MD 83596
+

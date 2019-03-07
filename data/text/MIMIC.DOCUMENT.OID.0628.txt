@@ -1,0 +1,129 @@
+Admission Date:  2005-09-11 00:00:00       Discharge Date:  2005-09-11 00:00:00
+
+Date of Birth: 1987-03-17 00:00:00 00:00:00       Sex:  M
+
+Service:  NEUROSURG
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 42-year-old
+gentleman with a past medical history of cerebellar
+astrocytoma diagnosed in 2005-09-11 00:00:00 by biopsy.  He then followed up
+with radiation therapy.  The patient was known to have
+recurrence of his tumor by biopsy on 2005-09-11 00:00:00.  He did not
+have chemotherapy secondary to infectious issues.  The
+patient was noted to have increased unsteadiness of gait per
+a clinic note.
+
+The patient came in with a one day headache on the left and
+vomiting times four days.  He said that the left side
+numbness and weakness was worse.  The patient also had a
+history of diabetic complications from steroids.  He had a
+head CT scan on admission, which showed a large bleed into
+the site of the prior tumor.
+
+PAST MEDICAL HISTORY:  The past medical history included
+hepatitis B positive, PPD positive, herpetic keratitis,
+epididymitis and piloid astrocytoma, which was recurrent.
+
+PAST SURGICAL HISTORY:  The patient had biopsies times two,
+the last one being in 2005-09-11 00:00:00.
+
+ALLERGIES:  The patient had no known drug allergies.
+
+PHYSICAL EXAMINATION:  On physical examination, the patient
+had a blood pressure of 140/94, a heart rate of 60, a
+respiratory rate of 16 and an oxygen saturation of 100% on
+room air.  He was awake, alert and in no acute distress.  The
+heart had a regular rate and rhythm with an S1 and S2.  The
+lungs were clear bilaterally.  The abdomen was soft,
+nontender and nondistended with positive bowel sounds.
+
+Neurologically, the pupils were unequal and reactive with the
+right being greater than left in size.  On the left, there
+was no lateral gaze.  The tongue was midline.  The left
+finger-to-nose was inaccurate.  There was a left facial
+droop.  The left upper extremity was 2005-09-11 00:00:00 and the left lower
+extremity was 2005-09-11 00:00:00.  The patient had no drift.  He was alert
+and oriented times three.  Speech was fluent.  He was
+following commands.
+
+RADIOLOGY:  A CT scan showed a 3 cm bleed with significant
+mass effect with an obstructive hydrocephalus.
+
+LABORATORY DATA:  On admission, the patient had a sodium of
+140, potassium of 3.7, chloride of 101, bicarbonate of 24,
+BUN of 12, creatinine of 0.7 and glucose of 161.  There was a
+white blood cell count of 7000, hematocrit of 44.5 and
+platelet count of 294,000.  Prothrombin time was 13, partial
+thromboplastin time was 29 and INR was 1.1.
+
+HOSPITAL COURSE:  The patient was admitted to the surgical
+intensive care unit.  On 2005-09-11 00:00:00, the patient went to the
+operating room for a left suboccipital craniotomy for
+evacuation of hematoma and right frontal drain placement
+without complications.
+
+The patient continued to be monitored in the surgical
+intensive care unit.  He was awake, alert, following commands
+and moving all extremities strongly.  He did have a left
+upper motor neuron seventh nerve palsy, which was there prior
+to surgery.  Vital signs remained stable.  The ventricular
+drain was pulled out by the patient on 2005-09-11 00:00:00 and was
+replaced.  The patient was extubated on postoperative day #1.
+
+On 2005-09-11 00:00:00, the patient became tachypneic, requiring
+intubation for full respiratory failure.  On neurological
+examination, the patient was following commands.  He had left
+lateral gaze to the midpoint, but was unable to go to extreme
+lateral gaze on the left.  The right eye had slight lateral
+gaze deviation.  He was following simple commands.  He had
+decreased strength on the right, but improved, with no focal
+drift.  The patient was extubated on 2005-09-11 00:00:00 and had a
+swallow study which showed that the patient was aspirating
+with all consistencies.  Therefore, the patient was made
+n.p.o. and a feeding tube was placed.
+
+A family meeting was held with the family to discuss the
+grave prognosis of the patient's condition.  The patient was
+initially made "Do Not Resuscitate"/"Do Not Intubate", but
+after he became extubated and the situation was explained to
+him and his condition improved, the patient rescinded the "Do
+Not Resuscitate"/ "Do Not Intubate" status and was now a full
+code.
+
+The patient was transferred out of the intensive care unit.
+The drain was discontinued on 2005-09-11 00:00:00.  He was transferred
+to the regular floor.  Vital signs remained stable.  The
+patient was afebrile.
+
+The patient was seen by the gastrointestinal service for
+placement of a PEG tube.  At this time, we are still awaiting
+PEG tube placement, which should occur today, 2005-09-11 00:00:00.
+Then the patient will be transferred to rehabilitation for a
+short stay prior to discharge to home.
+
+DISCHARGE MEDICATIONS:
+Zantac 150 mg b.i.d.
+Decadron 2 mg b.i.d.
+Acyclovir 400 mg b.i.d.
+Bacitracin to the left eye q.i.d.
+NPH 6 units subcutaneous b.i.d.
+Colace 100 mg per PEG tube b.i.d.
+
+CONDITION ON DISCHARGE:  The patient's condition is stable at
+the time of discharge.
+
+FOLLOW UP:  The patient will be discharged to rehabilitation
+with follow up in the brain tumor clinic in two to three
+weeks' time.
+
+
+
+
+                            Zoeanne Fischer, M.D.  19351
+
+Dictated By:Zoeanne Fischer
+MEDQUIST36
+
+D:  2005-09-11 00:00:00  08:39
+T:  2005-09-11 00:00:00  10:06
+JOB#:  19351

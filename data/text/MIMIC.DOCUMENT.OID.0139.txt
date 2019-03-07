@@ -1,0 +1,133 @@
+Admission Date:  2012-07-15 00:00:00              Discharge Date:   2012-07-15 00:00:00
+
+Date of Birth: 1930-07-15 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Alaiza Schoellman
+Chief Complaint:
+Colitis with bleeding
+
+Major Surgical or Invasive Procedure:
+Right Colectomy
+
+
+History of Present Illness:
+49 yo female who has had blood loss over a period of several
+months and has had abnormal colonoscopies which have shown some
+areas of stricturing. This has been unusual but is thought most
+likely to be due to Crohn's disease. She has
+been on steroids but still with problems. She presents now with
+a hematocrit of 20. She is a Jehovah's witness and will not
+accept any blood transfusions. After consultation with her
+General Medical physician and also with the hematology service,
+it was thought that it would not be possible to increase her
+hematocrit significantly prior to operation without at least a 1
+month delay. It was also thought likely that any improvement in
+iron therapy would be off-set by continued bleeding. The patient
+and her partner understand the gravity of this situation and the
+need for operation under less than optimum circumstances. The
+patient has again expressed her wish that she not be given blood
+products, but she would accept certain other types of fluid. She
+presents
+now for right colectomy.
+
+Past Medical History:
+Neuralgia
+Rheumatoid arthritis
+Depression
+
+Social History:
+Patient is Jehovah's witness (okay with FFP, plts, cryo,
+albumin, and any product that does not have RBC's).  Denies ETOH
+or recreational drug use.  Smokes 1 pack per week.
+
+Physical Exam:
+Gen: NAD
+Chest: CTA bilaterally, no wheezes, rales, or rhonchi
+CV: RRR, no murmurs, rubs, or gallops
+Abd: +BS, soft, mild tender, nondistended, incision
+clean/dry/intact
+
+
+Pertinent Results:
+2012-07-15 00:00:00 03:08PM BLOOD Type-ART pO2-231* pCO2-37 pH-7.44
+calHCO3-26 Base XS-1
+2012-07-15 00:00:00 01:32PM BLOOD Type-ART pO2-154* pCO2-43 pH-7.41
+calHCO3-28 Base XS-2 Intubat-NOT INTUBA
+2012-07-15 00:00:00 03:08PM BLOOD Glucose-137* Lactate-0.7 Na-137 K-3.6
+Cl-106
+2012-07-15 00:00:00 01:32PM BLOOD Glucose-101 Lactate-1.0 Na-138 K-3.5
+Cl-107
+2012-07-15 00:00:00 03:08PM BLOOD Hgb-6.0* calcHCT-18
+2012-07-15 00:00:00 01:32PM BLOOD Hgb-5.5* calcHCT-17
+2012-07-15 00:00:00 03:08PM BLOOD freeCa-1.08*
+2012-07-15 00:00:00 01:32PM BLOOD freeCa-1.14
+
+Brief Hospital Course:
+49 yo female with colitis resulting in anemia (HCt 20) s/p right
+colectomy on 2012-07-15 00:00:00.  She is Jehovah's witness and refused blood
+products.  Intraoperatively, pt surgery went without
+complication and her estimated blood loss was 100ml.
+Post-operatively, patient was placed on O2 mask to maximize
+oxygenation and blood draws were not allowed.  Pt progressed to
+tolerate PO intake well, ambulate, and bowel function returned.
+She was discharged on 2012-07-15 00:00:00 in good condition on steroid taper.
+
+Medications on Admission:
+Prednisone 40mg PO bid
+Bupropion 150mg po bid
+Nortryptiline 50mg po qd
+Risperidone 0.5mg po qhs
+Celexa 20mg po qd
+Mesalamine
+Iron Dextran
+
+Discharge Medications:
+1. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours
+as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Colace 100 mg Capsule Sig: One (1) Capsule PO BID:PRN as
+needed for constipation.
+Disp:*10 Capsule(s)* Refills:*0*
+3. Prednisone 5 mg Tablet Sig: Two (2) Tablet PO once a day for
+3 days: then take 1.5 tablets daily for 3 days, then take 1
+tablet daily for 3 days, then take half a tablet daily for 3
+days (decrease by 2.5mg every three days).
+Disp:*18 Tablet(s)* Refills:*0*
+4. Bupropion 150 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO twice a day.
+5. Celexa 20 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Nortriptyline 50 mg Capsule Sig: One (1) Capsule PO once a
+day.
+7. Risperdal 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Colitis with bleeding
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please resume your home medications.  You may shower regularly.
+Call your physician or go to the emergency room if you
+experience fever >101.5, abdominal pain unrelieved by
+medication, or intractable nausea or vomiting.  We have started
+you on prednisone (steroid) taper that decreases by 2.5mg every
+3 days.
+
+Followup Instructions:
+Please call Dr.Deanthony Sergi office at (test@mail.com to schedule
+a follow-up appointment in 2012-07-15 00:00:00 weeks.
+
+
+
+Completed by:2012-07-15 00:00:00

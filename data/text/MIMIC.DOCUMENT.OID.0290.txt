@@ -1,0 +1,305 @@
+Admission Date:  2013-12-14 00:00:00              Discharge Date:   2013-12-14 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Iodine; Iodine Containing / Ampicillin / Phenergan / Zaroxolyn
+
+Attending:Alayasia Plover
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+98yo 98-speaking female with CHF, presents with increasing
+dyspnea, pedal edema x1wk.  According to the patient's Grandson,
+she has had issues with medication and dietary compliance.  VNA
+at home note the patient's dyspnea and edema, was concerned
+about a CHF exacerbation yesterday.  However, the patient
+refused to come in until today, when her symptoms continued to
+worsen.  Per the patient, at that time her O2 sat was 88% on 5L
+oxygen via NC at home.
+
+In the ED, patient's vitals were 98.2 100 130/93 22 88% 5L NC.
+Patient reported feeling "lowsy", with shortness of breath and
+edema.  She denied fevers, cough.  On 5L nasal cannula, she was
+comfortable, with a mid-high 90s O2 sat.  On physical exam she
+was noted to have crackles and tachypnea.  A CXR showed
+bilateral pulmonary congestion.  A UA was negative for signs of
+a UTI.  Her HCT was at baseline 35.  EKG demonstrated afib with
+around 80.  Pt denied CP, but did report some occassional "heart
+pauses" that were believed to be palpitations, however no
+changes were observed on telemtry.
+.
+Patient is now being admitted to medicine for treatment of a CHF
+exacerbation.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias. All
+other review of systems are negative.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia
+2. CARDIAC HISTORY:
+-dCHF last echo on 2013-12-14 00:00:00 EF of 65%
+-aFIB not anticoagulated due to fall risk
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+-PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+-Microvascular disease
+-Extensive basal ganglia disease
+-Gait disorder
+-HTN
+-Dyslipidemia
+-Advanced DJD
+-Meniere's disease
+-hard of hearing
+
+Social History:
+Patient lives at home by herself at subsidized senior housing
+with assistance from family.  Her Grandson Juridia Ozer is an
+interpreter at UPMCE and is very active in her care.
+
+
+Family History:
+No clear history of CAD.
+
+Physical Exam:
+Admission Exam
+Vitals: 96.2 140/101 92 20 93%3L, Wt 64Kg
+Gen:  Elderly female, frail, NAD.
+HEENT:  PERRL, EOMI.  No scleral icterus.  No conjunctival
+injection.
+Neck:  Supple, JVP to ear lobe.
+Lungs: diffuse wheezes throughout w rales, no ronchi. Normal
+respiratory effort
+CV: Irregularly irregular, no murmurs, rubs, gallops.
+Abdomen:  soft, NT, ND, NABS, no HSM.
+Extremities:  WWP, no cyanosis.  2 + edema to knee
+Neurological:  AOx3, CN II-XII intact.
+Skin:  Paper-thin skin, no rashes or ulcers.
+GU:  foley in place
+
+Discharge Exam:
+Temp Max: 97.5 Temp current: 97.5 HR: 64-92 RR: 24-26 BP:
+102-122/56-88 O2 Sat: 95% on 5L   Weight 61.5 Kg
+24 hour I= 1000 O= 1060++
+8 hour I= 90 O= 300
+Physical Exam:
+Gen: alert, tachypnic
+HEENT: supple
+CV: irreg, irreg. no M/R/G
+RESP: Poor effort, no crackles or wheezes
+ABD: soft, NT, ND
+EXTR: trace peripheral edema to knee bilat
+NEURO: alert, answering questions appropriately, good a123 Any St.e.
+
+Extremeties:
+Pulses:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+Skin: intact
+
+
+Pertinent Results:
+Blood Counts:
+2013-12-14 00:00:00 03:00PM BLOOD WBC-8.1 RBC-3.87* Hgb-12.3 Hct-35.7*
+MCV-92 MCH-31.8 MCHC-34.6 RDW-16.1* Plt Ct-224
+2013-12-14 00:00:00 05:30AM BLOOD WBC-9.4 RBC-3.91* Hgb-12.1 Hct-37.2
+MCV-95 MCH-31.0 MCHC-32.6 RDW-16.1* Plt Ct-245
+2013-12-14 00:00:00 06:00AM BLOOD WBC-6.4 RBC-3.46* Hgb-11.0* Hct-32.0*
+MCV-92 MCH-31.9 MCHC-34.5 RDW-15.8* Plt Ct-180
+
+Coags:
+2013-12-14 00:00:00 03:00PM BLOOD PT-13.4 PTT-26.0 INR(PT)-1.1
+
+Chemistry
+2013-12-14 00:00:00 03:00PM BLOOD Glucose-115* UreaN-27* Creat-0.9 Na-139
+K-3.4 Cl-97 HCO3-32 AnGap-13
+2013-12-14 00:00:00 06:49AM BLOOD Glucose-104* UreaN-25* Creat-0.9 Na-144
+K-3.0* Cl-96 HCO3-36* AnGap-15
+2013-12-14 00:00:00 05:30AM BLOOD Glucose-128* UreaN-26* Creat-0.9 Na-141
+K-4.9 Cl-97 HCO3-35* AnGap-14
+2013-12-14 00:00:00 06:00AM BLOOD Glucose-99 UreaN-25* Creat-0.7 Na-140
+K-3.8 Cl-98 HCO3-35* AnGap-11
+
+Cardiac:
+2013-12-14 00:00:00 03:00PM BLOOD cTropnT-<0.01 proBNP-4693*
+2013-12-14 00:00:00 08:10AM BLOOD CK-MB-2 cTropnT-<0.01
+
+Blood Gas:
+2013-12-14 00:00:00 09:10PM BLOOD Type-ART pO2-76* pCO2-59* pH-7.41
+calTCO2-39* Base XS-9
+2013-12-14 00:00:00 11:32PM BLOOD Type-ART Temp-37.0 O2 Flow-4 pO2-67*
+pCO2-60* pH-7.43 calTCO2-41* Base XS-12 Intubat-NOT INTUBA
+
+2013-12-14 00:00:00
+EKG: Atrial fibrillation. Non-specific ST-T wave changes are
+diffuse. Compared to the 123 Any St.us tracing of 2013-12-14 00:00:00 the ST-T
+wave changes are similar.
+
+2013-12-14 00:00:00
+CXR: Prominent bronchovascular markings, with bilateral small
+pleural
+effusions and bibasilar atelectases, concerning for congestive
+failure and
+pulmonary edema.
+
+2013-12-14 00:00:00
+CXR: Increase in bilateral moderate-sized pleural effusions with
+
+associated pulmonary vascular congestion and mild-to-moderate
+pulmonary edema. On this background assessment for pneumonia is
+limited and if concern exists, repeat examination should be
+performed after diuresis.
+
+11.13 CXR:
+FRONTAL CHEST RADIOGRAPH: Cardiomediastinal silhouette is
+stable. Pulmonary
+vasculature indistinctness is improving consistent with
+resolving pulmonary
+edema. There are small bilateral pleural effusions as well as
+retrocardiac
+and bibasilar atelectasis.
+
+
+Brief Hospital Course:
+98yo 98-speaking female admitted to general medicine
+service for likely CHF exacerbation in the setting of poor
+medication compliance transferred to the CCU secondary to
+persistent tachypnea.
+.
+# Tachpnea/CHF: Pt was admitted for CHF exacerbation likely
+secondary to med non-compliance and poor rate control of A. fib.
+CXR revealed pulm edema. Initially cared for on the medical
+floor, where she was diuresed to 64kg (123 Any St.us d/c weight was
+62kg) with IV Lasix UPMCE 120mg. She was trasferred to the CCU for
+close monitoring after an episode of tachypnea and desaturation.
+ While in the ICU, challenging to balance her blood pressure and
+fluid status. Pt was given gentle Lasix for diuresis and then
+transitionted to torsemide PO 100mg UPMCE. Went home with
+torsemide 100mg UPMCE and potassium supplementation. Discharge
+weight was 61.5 kg. Pt with stage IV heart failure. Prognosis
+discussed with family. Family and patient decided to be DNR/DNI.
+Strongly encouraged pt to go to rehab but family and pt declined
+and preferred to go home. Pt has 24 hour support at home.
+.
+#Afib: hx afib, CHADS score 3, and only on ASA, since fall risk.
+Rate controlled with metoprolol 75mg once a day (decreased home
+dose of 100mg UPMCE) and diltiazem was added on this admission.
+Metoprolol dose was decreased since pt became more hypotensive
+with  higher dose of metoprolol. Pt went home on Diltiazem 240mg
+daily and metoprolol 75 mg daily.
+.
+#Chronic Falls: Continued Phenytoin
+.
+#Gallstones: Continued home Ursodiol
+
+Medications on Admission:
+Medications:
+Phenytoin sodium extended 300 mg 6 DAYS/WEEK (Every day except
+Sunday)
+Phenytoin sodium extended 400 mg qSUN
+Ursodiol 300 mg UPMCE
+Aspirin 325 mg Daily
+Metoprolol succinate 100 mg UPMCE
+Senna 8.6 mg qHS prn
+Docusate sodium 100 mg UPMCE
+Furosemide 120mg UPMCE
+
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO once a day as
+needed for constipation.
+3. food supplement, lactose-free     Liquid Sig: One (1) bottle
+PO once a day.
+4. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+5. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+7. phenytoin sodium extended 100 mg Capsule Sig: Four (4)
+Capsule PO QSUN (every Sunday).
+8. phenytoin sodium extended 100 mg Capsule Sig: Three (3)
+Capsule PO DAYS (MO,TU,WE,TH,FR,SA) ().
+9. metoprolol succinate 100 mg Tablet Sustained Release 24 hr
+Sig: 1.5 Tablet Sustained Release 24 hrs PO once a day.
+10. diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+11. torsemide 100 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+12. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+13. Outpatient Lab Work
+Please check Chem-7 on 2013-12-14 00:00:00 with results to Ozer,[**First Name3 (LF) **]
+R. test@mail.com
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+surburban
+
+Discharge Diagnosis:
+Acute on Chronic Diastolic Congestive Heart Failure
+Atrial fibrillation with rapid ventricular response
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+You were admitted to the hospital for heart failure. We gave you
+diuretics to help you urinate some of the extra fluid. This
+helped your symptoms. It is very important to maintain a low
+sodium diet, use oxygen at home, and take your medications every
+day.
+Please weight yourself every day in the morning and call Dr.
+Ozer if your weight increases more than 3 pounds in 1 day
+or 6 pounds in 3 days.
+It is very important that you do not eat foods high in sodium or
+it is very likely that you will need to come back to the
+hospital.
+
+We made the following changes to your medications:
+1. Start taking potassium every day
+2. Decrease Metoprolol to 1.5 tablets of 100mg daily in the am,
+do not take in the pm.
+3. Start Diltiazem 240 mg daily to control your heart rate
+4. Stop taking Furosemide, take Torsemide instead twice daily to
+take off extra fluid.
+
+
+Followup Instructions:
+Department: CARDIAC SERVICES
+When: MONDAY 2013-12-14 00:00:00 at 1:20 PM
+With: Juridia Ozer, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+.
+Department: INTERNAL MEDICINE
+When: TUESDAY 2013-12-14 00:00:00 at 9:45 AM
+With: Juridia Ozer, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+

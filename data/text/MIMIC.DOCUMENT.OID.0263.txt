@@ -1,0 +1,287 @@
+Admission Date:  2014-10-30 00:00:00              Discharge Date:   2014-10-30 00:00:00
+
+Date of Birth: 1965-10-23 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Landin Mcsparren
+Chief Complaint:
+Chest pain
+
+
+Major Surgical or Invasive Procedure:
+2014-10-30 00:00:00: Emergency repair of type-A ascending aortic dissection
+with ascending aortic and hemiarch replacement with a size-28
+Gelweave graft.
+
+
+History of Present Illness:
+69 year old male woke up this am with acute epigastic pain,
+chest pain, shortness of breath and diaphoresis. He called EMS
+and was brought to ED and was found to have type A dissection
+and is going emergently to OR with Dr.
+Jakavious.
+
+Past Medical History:
+Hyperlipidemia
+Hypertension
+BPH
+right superior cerebellar artery stroke
+prostate cancer s/p brachytherapy 5 years ago
+gout
+Afib
+Past Surgical History:
+s/p lumbar laminectomy
+s/p tonsillectomy
+
+Social History:
+Lives with wife, Ex Jakavious Navis, quit smoking 25 years ago, drinks a
+glass of wine on occasions, no drug abuse
+
+Family History:
+Strokes in both parents
+
+Physical Exam:
+Admission:
+Pulse:58 Resp:18  O2 sat:97
+B/P  206/72
+Height:6'1"    Weight:220 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI []
+Neck:  Supple [x] Full ROM []
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema none
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:2+   Left:2+
+DP           Right:2+   Left:2+
+PT           Jakavious Navis:2+   Left:2+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right:none    Left:none
+
+Pertinent Results:
+2014-10-30 00:00:00 Echo: Prebypass: No atrial septal defect is seen by 2D or
+color Doppler. There is severe symmetric left ventricular
+hypertrophy. There is mild regional left ventricular systolic
+dysfunction with hypokinesia of the apical and mid portions of
+the inferior wall.. Overall left ventricular systolic function
+is mildly depressed (LVEF= 45%). Right ventricular chamber size
+and free wall motion are normal. The ascending aorta is mildly
+dilated. The aortic arch is mildly dilated. A mobile density is
+seen in the ascending aorta consistent with an intimal
+flap/aortic dissection. A mobile density is seen in the aortic
+arch consistent with an intimal flap/aortic dissection. A mobile
+density is seen in the descending aorta consistent with an
+intimal flap/aortic dissection. There are three aortic valve
+leaflets. There is no aortic valve stenosis. Mild (1+) to
+Moderate [2+] aortic regurgitation is seen. Mild (1+) mitral
+regurgitation is seen. There is no pericardial effusion. Dr.
+Navis was notified in person of the results on 2014-10-30 00:00:00
+at 1715. Post bypass: Patient is A paced. LVEF= 40%. 2+ aortic
+insufficiency present. (2 jets seen - one central and the other
+eccentric. Mild mitral regurgitation present.
+
+2014-10-30 00:00:00 Chest CT: 1. Type A aortic dissection with involvement of
+the entire thoracic aorta and abdominal aprta as well as
+multiple abdominal aprtic branches, described in detail above.
+No evidence of aortic rupture. 2. Infrahilar lymphadenopathy,
+unclear etiology, may be reactive. 3. Multiple pancreatic
+hypodense lesions. Recommend further evaluation with
+non-emergent MRCP. 4. Pulmonary, hepatic, and s123 Any St.
+calcifications suggestive of granulomatous disease. 5.
+Diverticulosis without evidence of diverticulitis.
+
+2014-10-30 00:00:00 Renal U/S: 1. No hydronephrosis. Simple bilateral renal
+cysts. 2. Arterial and venous flow is seen bilaterally within
+the kidneys.
+
+2014-10-30 00:00:00 03:56AM BLOOD WBC-9.2 RBC-2.97* Hgb-8.9* Hct-26.5*
+MCV-89 MCH-30.1 MCHC-33.7 RDW-15.4 Plt Ct-313
+2014-10-30 00:00:00 03:43AM BLOOD WBC-10.2 RBC-2.96* Hgb-8.8* Hct-26.4*
+MCV-89 MCH-29.8 MCHC-33.3 RDW-15.1 Plt Ct-245
+2014-10-30 00:00:00 05:00AM BLOOD WBC-10.2 RBC-2.85* Hgb-8.7* Hct-25.4*
+MCV-89 MCH-30.4 MCHC-34.1 RDW-14.9 Plt Ct-184
+2014-10-30 00:00:00 03:56AM BLOOD PT-15.2* INR(PT)-1.4*
+2014-10-30 00:00:00 03:43AM BLOOD PT-14.8* INR(PT)-1.4*
+2014-10-30 00:00:00 05:00AM BLOOD PT-15.5* INR(PT)-1.5*
+2014-10-30 00:00:00 05:12AM BLOOD PT-15.3* INR(PT)-1.4*
+2014-10-30 00:00:00 03:56AM BLOOD Glucose-109* UreaN-66* Creat-2.2* Na-135
+K-3.8 Cl-97 HCO3-29 AnGap-13
+2014-10-30 00:00:00 03:43AM BLOOD Glucose-116* UreaN-70* Creat-2.6* Na-136
+K-3.8 Cl-98 HCO3-29 AnGap-13
+2014-10-30 00:00:00 05:00AM BLOOD Glucose-105* UreaN-61* Creat-3.1*# Na-135
+K-4.0 Cl-97 HCO3-27 AnGap-15
+2014-10-30 00:00:00 05:12AM BLOOD Glucose-131* UreaN-87* Creat-5.2* Na-134
+K-4.4 Cl-97 HCO3-25 AnGap-16
+
+Brief Hospital Course:
+As mentioned in the HPI, Mr. Navis was transferred to the ED by
+EMS presenting with acute epigastric pain, chest pain, shortness
+of breath and diaphoresis. He was found to have a type A aortic
+dissection and was emergently transferred to the operating room
+for repair. Please see operative note for surgical details.
+Following surgery he was transferred to the CVICU for invasive
+monitoring in stable condition. He remained intubated for
+several days due to respiratory failure and worsening
+hypertension during extubation trial. Finally on post-op day two
+he was weaned from sedation, awoke neurologically intact and
+extubated. In addition on post-op day two, nephrology was
+consulted for decreasing urine output and acute kidney injury.
+He eventually required hemodialysis and was followed closely by
+nephrology throughout his hospital course. Atrial fibrillation
+was noted post-operatively (has history of) and he was
+appropriately treated with beta-blockers and Amiodarone. Chest
+tubes and epicardial pacing wires were removed per protocol. He
+had a swallow study performed due to a history of CVA which he
+passed for a regular diet, thin liquids. On post-op day four he
+was transferred to the step-down unit for further recovery.
+Blood pressure medications were titrated to keep SBP<140.
+Coumadin was eventually started for his atrial fibrillation and
+history of CVA and his home dose was resumed.  He is to be
+followed by the UPMCE Coumadin Clinic. Over the next
+several days he remained stable while receiving hemodialysis.
+Renal continued to follow, urine output slowly increased and
+renal function was improved to a creatinine of 2.2 at the time
+of discharge (peak cratinine 5.7.) Renal signed off with the
+thought that renal function would continue to inprove, although
+it may not return to baseline (1.5-1.6.)  Physicial therapy
+worked with him for strength and mobility. On POD 8 he was
+ambulating without difficulty, tolerating a full oral diet and
+his incisions were healing well.  It was felt that he was safe
+for discharge home at this time with VNA services.
+
+Medications on Admission:
+famotidine 20 mg UPMCE
+labetalol 200 mg- 2 Tablet(s) Twice Daily
+Benicar 40 mg- 1 Tablet Once Daily
+methocarbamol 750 mg- 1 Tablet TID
+warfarin Unknown Strength 1 tablet daily
+allopurinol 300 mg Daily
+simvastatin 40 mg Daily
+prednisone 5 mg Tab Oral PRN- last dose 1 week ago (has only
+taken a few times for gout)
+
+Discharge Medications:
+1. tramadol 50 mg Tablet Sig: One (1) Tablet PO every 4-6 hours
+as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day: Take
+as directed for INR goal 2.0-2.5.
+Disp:*90 Tablet(s)* Refills:*2*
+5. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 2 weeks.
+Disp:*30 Tablet(s)* Refills:*0*
+6. allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*100 Tablet(s)* Refills:*0*
+8. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*100 Tablet(s)* Refills:*0*
+9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+10. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+11. clonidine 0.1 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+Disp:*90 Tablet(s)* Refills:*0*
+12. Norvasc 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+13. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed for pain/fever.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+Aortic Dissection s/p Emergent repair
+Past medical history:
+Hyperlipidemia
+Hypertension
+Benign prostatic hypertrophy
+Right superior cerebellar artery stroke
+Prostate cancer s/p brachytherapy 5 years ago
+Gout
+Atrial fibrillation
+s/p lumbar laminectomy
+s/p tonsillectomy
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with Ultram
+Sternal Incision - healing well, no erythema or drainage
+Edema: 1+ LE edema
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Wound Check at Cardiac Surgery Office test@mail.com on 2014-10-30 00:00:00 at
+10:45 AM in UPMCE UPMCE
+
+Surgeon: Jakavious Jakavious Navis, MD Phone:test@mail.com
+Date/Time:2014-10-30 00:00:00 1:30
+Location: Navis Building Navis
+
+Cardiologist: Please get referral to cardiologist from Dr. Navis
+
+Please call to schedule the following:
+Primary Care Dr. Navis test@mail.com in 2014-10-30 00:00:00 weeks
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR
+Coumadin for Atrial Fibrillation
+Goal INR: 2.0-3.0
+First draw 2014-10-30 00:00:00
+Then please do INR checks Monday, Wednesday, and Friday for 2
+weeks then decrease as directed by Mass Genereal Coumadin Clinic
+
+Results to phone test@mail.com
+
+
+                             Jakavious Navis Jakavious Navis MD 53876
+
+Completed by:2014-10-30 00:00:00

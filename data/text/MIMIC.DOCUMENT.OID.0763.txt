@@ -1,0 +1,281 @@
+Admission Date:  2006-07-01 00:00:00              Discharge Date:   2006-07-01 00:00:00
+
+Date of Birth: 1945-02-10 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet
+
+Attending:Labresha Hoenicke
+Chief Complaint:
+cholecystitis
+
+Major Surgical or Invasive Procedure:
+Intubation
+Cholecystomy Tube placement
+Thoracentesis
+
+
+History of Present Illness:
+74 y/o female with PMH significant for COPD, CAD, and
+hypertension admitted to UPMCE on 2006-07-01 00:00:00 to the surgery service
+with two days of epigastric and right upper quadrant pain. She
+had also been febrile to 101 and had one episode of nausea and
+vomiting. Per notes, her abdominal exam was significant for
+epitastric and right upper quadrant tenderness; positive
+gaurding; and no rebound. Pt was guiac negative. CT showed a
+distended gallbladder with wall thickening and a small amount of
+pericholecystic fluid. Common duct was dilated up to 11 mm and
+the pancreatinc duct was prominent at 5 mm. No free air or
+fluid. Significant atherosclerotic disease with occlusion of the
+Chrissiana Guard and possible celiac and renal artery stenosis.
+
+Past Medical History:
+1. Chrissiana Guard Pt has been intubated twice in the past. Her most
+recent PFTs from 2006-07-01 00:00:00 whoed a FVC of 30% 123 Any St.ted, FEV1 of
+24% 123 Any St.ted, and FEV1/FVC of 79% [** Location **]ted. Her marked
+obstructive ventilatory defect had worsened since PFTs from
+2006-07-01 00:00:00. Also with a concurrent restrictive process given her
+low-normal TLC.
+2. Coronary artery disease- Pt is status post a cardiac
+catheterization recently at the end of 2006-07-01 00:00:00 which showed a left
+anterior descending artery 90% blockage which was stented and
+her left circumflex artery underwent angioplasty with a balloon.
+Stress in 2006-07-01 00:00:00 showed a mild fixed septal defect. Recent echo
+from 2006-07-01 00:00:00 whoed a normal RA and LA. LVEF with 55% with
+normal regional LV systolic function. 2006-07-01 00:00:00+ AR. 1+ MR. Chrissiana GuardR. Indeterminate PA systolic pressure.
+3. Hypertension.
+4. Hyperlipidemia.
+5. Borderline pulmonary hypertension.
+6. Irritable bowel syndrome.
+7. S/P total abdominal hysterectomy in 2006-07-01 00:00:00.
+8. S/P bilateral hernia repair in the remote past
+
+
+Social History:
+Pt lives in an UPMCE facility. She is no longer able
+to leave her home but does go down for meals. Widowed. Has six
+children. Her HCP is her daughter Chrissiana Guard. The pt is a retired
+nurses aid. Pt smoked 1 pack per day for 60 years before quiting
+1.5 years ago. No ETOH or drugs. + Pneumovax.
+
+Family History:
+NC
+
+Physical Exam:
+97.9 103/57 114 23 100% BiPAP FiO2- .50 ePAP- 8 iPAP- 5
+Gen- Lady resting in bed with BiPAP on. Appears uncomfortable.
+Moaning. Asking to take mask off.
+HEENT- NC AT. Anicteric sclera. BiPAP mask in place.
+Cardiac- Very faint heart sounds which are difficult to hear
+over pulmonary sounds. RRR.
+Pulm- Coars breath sounds anteriorly and laterally with very
+poor air movement.
+Abdomen- Obese. Distended. Soft. NT. Percutaneous drainage tube
+in place.
+Extremities- No c/c/e.
+
+
+Pertinent Results:
+2006-07-01 00:00:00 03:40PM   ALT(SGPT)-17 AST(SGOT)-18 ALK PHOS-111
+AMYLASE-64 TOT BILI-0.6
+2006-07-01 00:00:00 03:40PM   LIPASE-16
+2006-07-01 00:00:00 03:40PM   ALBUMIN-3.6
+2006-07-01 00:00:00 12:35AM URINE  COLOR-Yellow APPEAR-Clear SP Guard-1.010
+2006-07-01 00:00:00 12:35AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+2006-07-01 00:00:00 10:20PM   GLUCOSE-95 UREA N-16 CREAT-0.8 SODIUM-139
+POTASSIUM-3.4 CHLORIDE-95* TOTAL CO2-28 ANION GAP-19
+2006-07-01 00:00:00 10:20PM   ALT(SGPT)-21 AST(SGOT)-22 ALK PHOS-131*
+AMYLASE-63 TOT BILI-0.9
+2006-07-01 00:00:00 10:20PM   LIPASE-16
+2006-07-01 00:00:00 10:20PM   WBC-9.2 RBC-4.83 HGB-13.6 HCT-40.2 MCV-83
+MCH-28.2 MCHC-33.9 RDW-15.1
+2006-07-01 00:00:00 10:20PM   PLT COUNT-330
+2006-07-01 00:00:00 10:12PM   LACTATE-2.1*
+.
+2006-07-01 00:00:00 CT
+1) Distended gallbladder with wall edema and possible
+pericholecystic fluid. Intra and extrahepatic ductal dilatation
+is noted as well as prominence of the pancreatic duct. Further
+evaluation with ERCP or MRCP is recommended.
+2) Significant atherosclerotic disease with occlusion of the Chrissiana Guard
+and possible celiac and renal artery stenosis. The patient's
+abdominal pain could be related to intestinal angina. Further
+evaluation can be obtained with mesenteric CTA.
+3) No evidence of diverticulitis.
+4) Stable left pleural effusion.
+5) Stable right renal cyst.
+6) Stable small low attenuation focus in the spleen, which is
+too small to be characterized.
+.
+2006-07-01 00:00:00 CT
+1. Cholecystostomy tube in good position with no evidence of
+fluid collection around it.
+2. Ostial calcifications with narrowing of the mesenteric
+vessels with no evidence of bowel wall thickening, edema, or
+fluid.
+.
+2006-07-01 00:00:00 CTA
+1) No evidence of pulmonary embolus.
+2) Marked interval increase in left-sided pleural effusion and
+left lower lobe atelectasis. No evidence of central obstructing
+lesion.
+3) Unchanged appearance of pulmonary nodules; in the absence of
+a known primary malignancy, one-year follow-up is recommended to
+ensure stability.
+4) Mild upper lobe emphysematous changes.
+
+Brief Hospital Course:
+Although it was felt that the pt had cholycytstitis, it was felt
+that she was an extremely high risk surgical candidate given her
+significant pulmonary and cardiac disease. Therefore, a
+percutaneous cholecyst tube was placed on 2006-07-01 00:00:00 instead of doing
+a cholecystectomy. Following this, the pt had a good decreased
+in her pain and her fevers decreased into the 99 range. Doing an
+ERCP was considered but as the pt had normal LFTs and bili this
+was deferred as there was a concern that it would require
+intubation. On 2006-07-01 00:00:00, the pt spiked to 101.2 and redeveloped
+right upper quadrant tenderness. On 2006-07-01 00:00:00, she developed an
+acutely more distended abdomen associated with nausea. At that
+time, she began to desatruate to 70% with associated tachypnea,
+accesory muscle use, and tachycardia into the 130s. An ABG at
+that time was 7.44/39/52. CXR showed minimal worsening of a left
+lower lobe consolidation with prominent bilateral vascular
+markings. At that time, the pt was transferred to the SICU for
+closer monitoring.
+.
+In the SICU, her oxygen saturation initially increased to 90% on
+4L NC. Following transfer, she spiked to 103.6 and was started
+on vancomycin and zosyn for a left lower lobe PNA. She was also
+started on steroids for her COPD component. LFTs remained within
+normal limits and there continued to be good drainage from her
+choly tube. Pt defervesced over the nex few days and her
+oxygenation stablalized on 4 L NC with a sat in the high 90s and
+RR in the high teens. Then, on the evening of 2006-07-01 00:00:00, the pt
+received 1 mg ativan and 4 mg morphine for anxiety then desatted
+to 100% on a NRB. In addition, pt had a low blood sugar of 65
+which was treated with 1/2 amp D50. ABG obtained at that time
+showed 7.38/56/66. Pt also received an extra 40 mg of IV lasix.
+This morning, after receiving her morning nebs, the pt reported
+that she could not breath and her oxygen sat began to drop
+quickly going from 95 to 65%. Pt was given another treatment and
+her BiPAP settings were increased with an improvement in her
+sat. However, she became more tachypnic, tachycardic, and was
+using her accessory muscles to breath. Pulmonary saw the pt and
+was concerned that this acute respiratory failure coud be
+secondary to bronchospasm. The pt had been off of high dose
+steroids for 24 hours. However, PE was the primary concern to
+rule out given her acute hypoxia, tachycardia, and relative
+hypotension. A CTA was negative for PE however demonstrated a
+large pleural effusion.  At this time the patient's respiratory
+status was quite tenuous requiring mask ventillation.
+.
+The effusion was tapped producing 1 L of transudative fluid
+which was culture negative.  The patient's respiratory status
+markedly improved and her oxygen requirements decreased to 4L
+NC.  She was transferred to the floor where she felt much
+better.  The patient had one desatturation to 89% on 3L on 2006-07-01 00:00:00
+which quickly resolved with nebs.  Otherwise the patient has
+been at her baselie which is unfortunately poor.  At home she is
+on 2006-07-01 00:00:00 L NC and  requires freq nebs.  She will complete a 14 day
+course of vanc/zosyn for her pneumonia.
+.
+The patient's liver funcitions decreased after tube placement
+and stayed down.  She will complete a 14 day course of
+vanc/zosyn for her cholecystitis.  The patient will have the
+tube in place for 4-6 weeks total and follow up with IR as an
+outpatient.
+.
+Of note the patient noticed numbness in her R hand where her a
+line was placed.  The are was largely ecchymotic.  However this
+improved once the line was taken out and returned to her
+baseline neuropathy which is equal bilaterally.
+.
+Furthemore the patient had pain in her feet.  She was noted to
+have pitting edema to her mid calf.  She was diuresed with
+lasix.  the patient was also noted to have an ecchymosis on the
+dorsum of her foot, 2006-07-01 00:00:00 a phone falling.  XRays were negative.
+
+Medications on Admission:
+K-DUR 20 MEQ TBCR 1 tab po qd 2006-07-01 00:00:00
+ MORPHINE SULFATE CR 15 MG TB12 1 tab po q 12 h 2006-07-01 00:00:00
+ ADVAIR DISKUS 250-50 MCG/DOSE MISC 1 puff UPMCE 2006-07-01 00:00:00
+ NOVOLIN N PENFILL 100 U/ML SUSP 16 units SC q am, 10 units SC
+before supper 2006-07-01 00:00:00
+ ALBUTEROL AER 90MCG 2 puffs 4 times a day as needed 2006-07-01 00:00:00
+ ATROVENT 18 MCG/ACT AERS 2 puffs UPMCE 2006-07-01 00:00:00
+ PREDNISONE 5 MG TABS 1 po q am 2006-07-01 00:00:00
+ FUROSEMIDE 40 MG TABS 1 po q am 2006-07-01 00:00:00
+ NITROGLYCERIN 0.4 MG SL TAB 1 SL prn CP, may repeat q 5min x 2
+2006-07-01 00:00:00
+ ASPIRIN TAB 325MG EC 1 po qd 2006-07-01 00:00:00
+ LIPITOR 40 MG TABS 1 po qd 2006-07-01 00:00:00
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Insulin Regular Human 100 unit/mL Solution Sig: see attached
+sheet units Injection ASDIR (AS DIRECTED).
+3. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID
+(3 times a day) as needed.
+4. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb
+Inhalation Q2H (every 2 hours) as needed for shortness of breath
+or wheezing.
+5. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation every six (6) hours.
+6. Prednisone 20 mg Tablet Sig: As Dir Tablet PO DAILY (Daily):
+Give 60 mg for 3 days, then decrease by 10 every 3 days.
+7. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb
+Inhalation Q3H (every 3 hours).
+8. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+9. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) puff Inhalation UPMCE (2 times a day).
+10. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+11. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: One (1) Recon
+Soln Intravenous  Q6H (every 6 hours) for 2 days.
+12. Vancomycin HCl in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+g Intravenous  Q24H (every 24 hours) for 2 days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE & Rehab Center - UPMCE
+
+Discharge Diagnosis:
+Cholecystis
+COPD Exacebation
+Pneumonia
+Respiratory Failure
+Diabetes
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please take all medications and make all appointments as listed
+in the discharge paper work.
+
+Followup Instructions:
+Patient will need to have biliary tube removed by interventional
+radiology in early 2006-07-01 00:00:00 (2006-07-01 00:00:00).  Please call Dr.
+Guard.  test@mail.com.  2 day prior to this appointment the
+tube should be clamped.
+.
+Please follow up with Dr. Labresha Hoenicke in 2006-07-01 00:00:00 weeks. test@mail.com.
+.
+Provider: Chrissiana Guard BREATHING TESTS Where: UPMCE
+PULMONARY FUNCTION LAB Phone:test@mail.com Date/Time:2006-07-01 00:00:00
+4:15
+.
+Provider: Chrissiana Guard, Chrissiana Guard.D. Where: UPMCE MEDICAL
+SPECIALTIES Phone:test@mail.com Date/Time:2006-07-01 00:00:00 4:30
+
+
+

@@ -1,0 +1,169 @@
+Admission Date:  2009-10-12 00:00:00              Discharge Date:   2009-10-12 00:00:00
+
+Date of Birth: 1982-10-07 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Aneek Cressotti
+Chief Complaint:
+CP / CAD
+
+Major Surgical or Invasive Procedure:
+Iliac and aortic stent placement 2009-10-12 00:00:00
+Re-do CABG X 4, AVR(tissue) 2009-10-12 00:00:00
+
+
+History of Present Illness:
+This is a 73-year-old male who had a history of
+coronary artery disease and had underwent a left internal
+mammary artery H grafted with a radial artery to the left
+anterior descending artery through a left anterior
+thoracotomy many years ago. He had progressive shortness of
+breath and was found to have critical aortic stenosis with
+aortic valve area of 0.8 cm squared and moderate mitral
+regurgitation. His ejection fraction was estimated to be
+about a 25%. He also underwent a cardiac catheterization
+which demonstrated that his H graft to the left anterior
+descending artery was patent. He had a totally occluded left
+anterior descending artery proximally. He also had
+significant stenosis of his left circumflex artery and right
+coronary artery.
+
+It was recommended that he undergo a coronary artery bypass
+grafting, aortic valve replacement, and possible mitral valve
+repair/replacement. After the risks and benefits were
+explained to the patient he agreed to proceed.
+
+
+Past Medical History:
+lisinopril 30', coreg 3.125", norvasc 5', lipitor 40', coumadin
+
+Social History:
+retired electrical engineer with 7 children
+
+Pertinent Results:
+2009-10-12 00:00:00 01:37PM BLOOD WBC-9.7# RBC-2.61*# Hgb-8.1*# Hct-23.2*
+MCV-89 MCH-31.1 MCHC-34.9 RDW-14.1 Plt Ct-95*#
+2009-10-12 00:00:00 07:15AM BLOOD WBC-11.0 RBC-4.05* Hgb-12.9* Hct-37.0*
+MCV-91 MCH-31.7 MCHC-34.7 RDW-13.9 Plt Ct-137*
+2009-10-12 00:00:00 05:10AM BLOOD PT-11.5 INR(PT)-1.0
+2009-10-12 00:00:00 07:15AM BLOOD Plt Ct-137*
+2009-10-12 00:00:00 05:25AM BLOOD Glucose-111* UreaN-20 Creat-1.0 Na-140
+K-4.5 Cl-102 HCO3-28 AnGap-15
+
+Conclusions:
+Pre-CPB: No spontaneous echo contrast is seen in the left atrial
+appendage.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular
+cavity size is normal. Resting regional wall motion
+abnormalities include
+hypokinesis of septum, anterior, posterior and lateral walls at
+the bases, and
+akinesis of all mid-segments and apex. There is moderate global
+right
+ventricular free wall hypokinesis. There are simple atheroma in
+the descending
+thoracic aorta. There are three thickened aortic valve leaflets.
+There is
+moderate aortic valve stenosis. Mild (1+) aortic regurgitation
+is seen. The
+mitral valve leaflets are mildly thickened. Mild to moderate
+(2009-10-12 00:00:00+) mitral
+regurgitation with a central jet is seen. There is no
+pericardial effusion.
+
+Post-CPB: A well-seated and functioning prosthetic aortic valve
+is seen. There
+are no leaks. No AI. MR is 1+. Aorta is intact. Both ventricles
+show slight
+improvement in global systolic fxn. (The patient is on low-dose
+epinephrine.)
+Other parameters as pre-bypass.
+
+
+Brief Hospital Course:
+Patient was admitted after cardiac cath overnight, then
+underwent an uncomplicated AVR with 23mm pericardial valve and
+redo cabgx3. Patient came of CPB in the OR without incident, and
+was treansferred to the csru intubated. pressors were weaned
+that nights, and patient was extubated on POD1 after ppf was
+switched to precedex for agitation when weaning. CTs were dc'd
+on POD1, bblocker and asa started. He was then transferred to
+the floor on POD2 after doing very well. Lopressor was gradually
+increased for sinus tachycardia but was then swtiched to
+carvedalol (his home med) to better control his HR&BP. Patient
+was tolerating a regular diet ambulating well when he was
+discharged home on POD5.
+
+Medications on Admission:
+lisinopril 30', coreg 3.125", norvasc 5', lipitor 40', coumadin
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day
+for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+2. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO twice a day for 7 days.
+Disp:*28 Capsule, Sustained Release(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+AS
+CAD
+MR
+Joaquina
+Sian
+hypercholesterolemia
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+may shower, no bathing or swimming for 1 month
+no creams, lotions or powders to any incisions
+no driving for 1 month
+no lifting > 10# for 10 weeks
+
+
+Sianp Instructions:
+with Dr. Aneek Cressotti in 2009-10-12 00:00:00 weeks
+with Dr. 123 Any St.es) **] in 4 weeks
+
+
+
+Completed by:2009-10-12 00:00:00

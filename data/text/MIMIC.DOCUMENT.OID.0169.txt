@@ -1,0 +1,205 @@
+Admission Date:  2005-05-23 00:00:00       Discharge Date:  2005-05-23 00:00:00
+
+
+Service:  MEDICAL ICU
+
+HISTORY OF PRESENT ILLNESS:  Ms. Noblin is an 80 year-old
+female with a past medical history significant for dementia
+presents as a transfer from HCRA with fevers and hypotension.
+Per available information the patient was in her usual state
+of health until 9:30 in the morning of 2005-05-23 00:00:00 when she
+spiked a temperature to 104.  She was seen by Effrey Noblin cover MD
+and found to be bradycardic.  A few hours later the patient
+was found to be hypotensive with a systolic blood pressure in
+the 50s.  She was unresponsive.  She was bolused 500 cc of
+normal saline without a change in blood pressure and was
+transferred to the UPMCE
+Emergency Department at that point.
+
+Initial vital signs in the Emergency Room were temperature
+100.8.  Blood pressure 54/27 with a pulse of 88.
+Respirations 28 with an O2 saturation of 91% on room air
+increasing to 99% on 10 liters.  She received 4 liters of
+intravenous fluids, antibiotics were started Ampicillin,
+Gentamycin and Flagyl and a left subclavian triple lumen
+catheter was placed.  Physical examination was
+noncontributory initially.  Initial laboratories were notable
+for a white blood cell count of 10.9 with a bandemia.
+Urinalysis was very concentrated and multiple white blood
+cells.  Despite intravenous fluids systolic blood pressure
+remained low and she was started on a dopamine drip titrated
+to 15 mcs per minute and systolic blood pressure was
+maintained in the low 100s.  At that point the patient was
+transferred to the MICU for further evaluation.
+
+PAST MEDICAL HISTORY:  1.  Dementia.  2.  Hypertension.  3.
+Glaucoma.  4.  Coronary artery disease.  5.  Ischemic
+cardiomyopathy with EF of 40%.  6.  PEG tube.  7.  Paroxysmal
+atrial fibrillation on Amiodarone.  8.  Type 2 diabetes.
+
+MEDICATIONS ON TRANSFER:  Sorbitol 30 mg po q day, Amiodarone
+200 mg po q day, vitamin C 500 units po q day, aspirin 81 mg
+po q day, multivitamin q day, Axid 150 mg po q day, Risperdal
+10 mg po b.i.d. and zinc 220 mg po q day.
+
+PHYSICAL EXAMINATION:  Afebrile 97.9.  Heart rate 99.  Blood
+pressure 84/43.  O2 sat 99% on nonrebreather.  Generally, was
+unresponsive to oral stimuli or to sternal rub.  Of note,the
+patient is Russian speaking only.  HEENT pupils are equal,
+round and reactive to light and accommodation.  Extraocular
+movements intact.  Neck was supple without lymphadenopathy.
+Neck veins were flat.  Chest was clear to auscultation
+bilaterally.  Heart was tachycardic with distant heart
+sounds, 2/6 systolic murmur at the left lower sternal border.
+Abdomen soft, nontender, nondistended.  Normoactive bowel
+sounds.  Extremities mild pedal edema.
+
+LABORATORY:  White blood cell count 10.9, hematocrit 34.4,
+platelet count of 214, INR 2.0, sodium 147, creatinine 2.0,
+anion gap of 14.  Her differential showed 62 polys and 20
+bands.  Urinalysis was cloudy, specific gravity of 1.015, pH
+of 8.5, large blood, positive nitrite, greater then 300
+protein, large leukocyte esterase, greater then 50 white
+blood cells and red blood cells with many bacteria.  Chest
+x-ray showed diffuse left sided infiltrates.
+Electrocardiogram was sinus at 100 with normal axis and
+intervals, ___________________ voltage with nonspecific T
+diffuse T wave inversions and 1 to 123 Any St. depressions, T
+wave inversions in V2 to V5.  Blood and urine cultures were
+sent at that point.
+
+HOSPITAL COURSE:  The patient was presumed to have urosepsis
+initially managed on Dopamine and Levophed drips.  She had
+intermittent runs of rapid atrial fibrillation on Amiodarone
+requiring at one point Diltiazem drip.  She was successfully
+weaned from her Dopamine and Levophed drips on hospital day
+four.  She was presumed to have aspiration pneumonitis versus
+pneumonia and acute lung injury.  During intubation and was
+initially managed with Levofloxacin, Vancomycin and
+Ceftazidime.  Her antibiotics regimen were switched around
+several times when she would intermittently spike
+temperatures with no obvious source.  She was extremely slow
+to wean from the vent despite the aggressive pulmonary
+toilet, chest physical therapy and broad spectrum
+antibiotics.  Of note, the patient's urine initially grew
+Providencia stuartii E and proteus mirabilis and she grew
+proteus mirabilis as well in her blood.  On 2005-05-23 00:00:00 also had
+coag negative staph in her blood, which was the rational for
+the Ceptaz and Vancomycin and Levofloxacin initially.
+Subsequent blood cultures were negative on 2005-05-23 00:00:00 and 2005-05-23 00:00:00.
+She completed a course for her urinary tract infection.
+Ceftazidime was subsequently stopped.  However, she was
+febrile on 2005-05-23 00:00:00.  Sputum showed Pseudomonas aeruginosa again.
+The patient was subsequently restarted on Ceftazidime, which
+was later switched to Piperacillin and Tazobactam.
+
+At the time of discharge the patient had completed nineteen
+days of Levofloxacin and was on day eight of her third round
+of her Vancomycin and Zosyn.  Her central lines were changed
+on multiple occasions.  She had a PICC line placed on 2005-05-23 00:00:00.
+Given her slow wean off of pressors and intermittent
+hypotensive episodes the patient had Noblin stem test on 2005-05-23 00:00:00,
+which was performed according to regular protocol and it
+showed an inappropriate Cortisol response to ACTH infusion.
+Her baseline Cortisol was 18 and a one hour Cortisol level
+was measured at 18.  She was therefore started on Prednisone
+5 mg po q day as replacement therapy.  She may at some point
+require mineral corticoid supplementation.  However, elected
+not to add Florinef at this time.
+
+The patient was very slow to wean from the vent given her
+continued diffuse pulmonary infiltrates and adult respiratory
+distress syndrome type picture.  She was trached on 2005-05-23 00:00:00
+without complications.  She was maintained on assist control
+ventilation, however, her PEEP was successfully weaned from
+15 to 5 and her FIO2 was weaned from 0.6 to 0.4.  The patient
+tolerated that with O2 saturations in the high 90s.  The
+patient did continue to spike low grade temperatures.  Her
+line sites looked clean and had a PICC line placed on 2005-05-23 00:00:00.
+She did have twelve hours of increased stool output while on
+broad spectrum antibiotics, therefore C-diff was sent.  The
+first C-diff was pending at the time of discharge.  Her
+active issues upon discharge include:
+
+1.  Pulmonary, the patient continues to have diffuse
+bilateral infiltrates presumed noncardiogenic pulmonary edema
+and resolving acute lung injury/pneumonia.  She will be
+discharged on Vancomycin day eight of fourteen, Piperacillin
+and Tazobactam day eight of fourteen and Levofloxacin day
+nineteen.  She will require aggressive pulmonary toilet and
+is currently being suctioned more overnight, but generally
+every two to three hours.  She currently is on assist control
+450 by 20 breathing at 26 with a PEEP of 5 and an FIO2 of 0.4
+maintaining O2 sats in the high 90s.  She continues to
+auto diurese and generally is more awake and interactive.
+She will most likely be a very slow wean and may not be
+possible to decannulate her trach
+
+2.  Infectious disease:  The patient continues to hve
+intermittent low grade temperature spikes with no obvious
+source.  Her cultures remain negative at this point.  She
+should receive two more C-diff toxins upon reaching the rehab
+facility and po Flagyl should be added to her nasogastric
+tube should she come back positive.  At this point her stool
+output has decreased and she has been afebrile for greater
+then 24 hours at the time of discharge.  She should complete
+a fourteen day course of Vancomycin and Piperacillin and
+Tazobactam.  Dosages are listed at the end of this dictation.
+I would continue the Levofloxacin for the remaining six days
+and stop all antibiotics at that point.  Should she spike she
+should be recultured for sources, although I feel that her
+intermittent temperature spike was likely related to her
+pulmonary disease.
+
+3.  Cardiovascular/atrial fibrillation:  The patient has
+intermittent atrial fibrillation currently in normal sinus
+rhythm.  She responds very well to Diltiazem should she have
+recurrent atrial fibrillation.  There is no plan to
+anticoagulate the patient at this time despite her risk of
+stroke given her multiple comorbidities.
+
+4.  FEN:  Our goal ins and outs at this point are even to
+slightly negative.  The patient continues to auto diurese and
+generally line status is euvolemic to slightly positive.
+Continue to follow her electrolytes and replete.  She is
+currently on tube feeds and at goal with minimal residuals.
+She has a PICC line, which was placed on 2005-05-23 00:00:00, which is
+functioning well and the site looks clean.
+
+DISCHARGE DIAGNOSES:
+1.  Pneumonia.
+2.  Acquired Immunodeficiency Syndrome.
+3.  Urinary tract infection.
+4.  Atrial fibrillation with rapid ventricular response.
+5.  Dementia.
+6.  Respiratory failure requiring tracheostomy placement.
+
+DISPOSITION:  UPMCE.
+
+DISCHARGE MEDICATIONS:  Vancomycin 750 mg intravenous q 18
+hours day eight of fourteen, stop on 2005-05-23 00:00:00, Piperacillin
+Tazobactam of 2.25 grams intravenous q 6 hours day eight of
+fourteen stop 2005-05-23 00:00:00.  Levofloxacin 500 mg po q day  eighteen
+of twenty four stop 2005-05-23 00:00:00.  Reglan 10 mg intravenous q.i.d.,
+Prevacid 50 mg po q day, Amiodarone 200 mg po q day, aspirin
+325 mg po q day, ProMod with fiber tube feeds 55 cc per hour,
+check residuals q 4 hours.  Regular insulin sliding scale,
+specific listed on page one.  Neutrophos one tab po b.i.d.
+times one day stop 2005-05-23 00:00:00.  SubQ heparin 5000 units subQ
+b.i.d., Prednisone 5 mg po q day, Ativan 0.5 mg per G tube q
+4 to 6 hours prn.  Morphine sulfate 1 to 2 mg intravenous q 2
+to 3 hours prn.
+
+
+
+
+
+
+                            Lan Pertl, M.D.  24711
+
+Dictated By:Lan Pertl
+MEDQUIST36
+
+D:  2005-05-23 00:00:00  08:40
+T:  2005-05-23 00:00:00  08:54
+JOB#:  24711

@@ -1,0 +1,264 @@
+Admission Date:  2012-03-24 00:00:00              Discharge Date:   2012-03-24 00:00:00
+
+Date of Birth: 1932-03-18 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:Amyha Pisana
+Chief Complaint:
+hypothermia, sepsis
+
+Major Surgical or Invasive Procedure:
+EGD
+flex sig
+
+History of Present Illness:
+73yo F with PBC, decompensated cirrhosis c/b encephalopathy,
+ascites, and esoph varices, who was discharged 2 days prior to
+admission with AMS thought to be related to hepatic
+encephalopathy. At that time she was also found to have
+hypoglycemia, PNA (tx w/ Azithro), and a UTI (tx w/ Bactrim).
+She was referred from clinic at UPMCE with chief
+complaint of BRBPR. She noted 2 painless BM's with BRBPR, and
+blood was noted on rectal exam without melena. She denied any CP
+or SOB, but does note feeling weak. She does note some decreased
+urine output lately, as well as increased LE edema and abdominal
+distention. She notes abdominal 'fullness' for the last few
+weeks, but denies nausea/vomiting. She notes some
+lightheadedness and thirst while in the ED.
+.
+In the ED she was initially normotensive, but was later found to
+have SBP's in the 70's (baseline SBP in 90's). She was also
+noted to be hypothermic with core temp of 93.4. Because of
+concern for sepsis an IJ was placed and she was placed on sepsis
+protocol. She was given Vanc/CTX/Flagyl and hydrocort, and was
+also noted to have worsening renal function with a Cr of 2.1
+from NL baseline. Because of an initial potassium of 6.9, she
+was given D50/insulin/kayexylate. She was admitted to the MICU
+for further monitoring.
+
+Past Medical History:
+1. PBC cirrhosis x 13 yrs, known varices, followed by Dr.Rutledge
+2. Liver cirrhosis
+3. Hypothyroidism
+4. Osteopenia
+5. Status post cholecystectomy
+6. History of ankle fractures
+7. Hypertension
+
+Social History:
+Tobacco stopped 15 yrs ago, 30 pack-yrs, no alcohol or drug use,
+married with three children. Lives at home with husband
+
+
+Family History:
+No family history of strokes, seizures.  Mother and father died
+in 90s.
+
+Physical Exam:
+vitals (ED)- T=93.4(now ax95), HR=77, BP=114/33-70/48, RR=16,
+O2sat 95%RA
+General - alert, interactive, in NAD
+HEENT- PERRL, sclerae mildly icteric(?), mucosa slightly dry
+Neck- supple, no JVD noted
+Lungs- mild end-exp wheezes bil, otherwise CTA
+Heart- RRR, 2/6 SEM heard best at LUSB
+Abd- +BS's, distended, tympanitic, mild/mod diffuse tenderness,
+no
+rebound/guarding; rectal exam in ED w/ BRBPR guaiac+
+Ext- 3+ pitting LE edema b/l
+Neuro- AAO x 3, follows commands, +asterixis
+
+Pertinent Results:
+CT abdomen:
+1. Diffuse anasarca with soft tissue edema as well as ascites
+and nonspecific mesenteric stranding. Ascites is increased
+compared to the 123 Any St.us study.
+2. Limited evaluation of the bowel with no definite wall
+thickening. There is no pneumatosis or free air. Patency within
+mesenteric vessels cannot be assessed without IV contrast.
+3. Acute right posterior rib fracture that does not appear to be
+present on the study of 2012-03-24 00:00:00. No evidence of pneumothorax in
+the imaged portions of the lungs.
+
+CXR: The lungs are hyperinflated and the diaphragms are
+flattened, consistent with COPD. Heart size is at the upper
+limits of normal with left ventricular configuration. The aorta
+is calcified and unfolded. There is no CHF, frank consolidation
+or effusion. Again seen is eventration of the left hemidiaphragm
+posteriorly. There is probably some associated atelectasis, but
+no definite pneumonic infiltrate.
+
+RUQ: Targeted examination was performed. There is small ascites.
+Hepatic veins appear patent. The portal vein appears patent with
+hepatopetal flow. Hepatic arteries appear patent. No spot marked
+for tap.
+
+
+Brief Hospital Course:
+73 y/o F with PBC, decompensated cirrhosis with now presents
+with weakness, ARF, hypothermia, and hypotension.
+.
+HYPOTENSION/HYPOTHERMIA: On admission there was some concern
+that the patient was septic given her hypotermia and
+hypotension.  She is known to have a low baseline SBP in the
+~90's and may have low temp at baseline.  Given her tenuous
+state, she was covered empirically with CTX and Flagyl. Naldol
+and diuretics were held.  An abdominal U/S was obtained and
+showed ascites fluid, but of insufficicent quantity to tap.  Her
+CXR and UA were negative for evidence of infection. In light of
+the patient's persistent hypotension and hypothermia, patient
+was transferred to the ICU where she was started on levophed and
+vasopressin.  An abdominal CT was ordered to assess for possible
+obstruction and a surgery consult was obtained.  The CT scan
+showed diffuse anasarca, ascites, and no convincing evidence of
+obstruction although the study was limited 2012-03-24 00:00:00 lack of IV
+contrast.  There was also an incidental finding of a new right
+posterior rib fracture.  Her clinical condition gradually
+improved and she was weaned off pressors on ICU day 4 with a
+baseline SBP of 90/50.  CTX and flagyl were d/c'd and patient
+was called out to the floor on 2012-03-24 00:00:00.
+.
+ARF: Patient was found to have a creatinine of 2.1 in the
+setting of decreased UO and increased abdominal distention.  Her
+urine lytes were consistent with a sodium-avid state, either a
+pre-renal etiology or hepatorenal syndrome.  Later labs were
+consistent with a ATN vs HRS.  Nephrology was consulted and
+agreed with treating with ocreaotide.  Patient was found to have
+a Klebsiella UTI, which was treated with a seven day course of
+bactrim, and candiduria.  She did receive 2 units of PRBC and
+albumin in order to improve her UOP without worsening her
+anasarca.  Her creatinine gradually improved and was still
+trending down on day of discharge.
+.
+ABDOMINAL DISTENTION: Initially thought to be 2012-03-24 00:00:00 ascites but
+abd U/S showed only a small amount of fluid.  There was no
+evidence of obstruction/ileus on CT and patient continued to
+pass stool asd flatus.  Transplant surgery was consulted and
+patient was made NPO.  Eventually the distention was attributed
+to bowel wall edema in the setting of total body anasarca.
+Patient was started on lasix and aldactone.
+.
+BRBPR: Her initial presentation was for painless BRBPR, but her
+Hct has remained stable.  In the MICU she had a maroon stool.
+NGT was placed and lavage was negative, with stable f/u Hct.
+This seemed to be consistent with a lower source such as an AVM,
+diverticular bleed, or hemorroids.  Patient underwent an EGD
+which showed 1 non-bleeding cord of grade III varices, which was
+banded, and no evidence of active bleed. Patient also had a
+sigmoidoscopy which showed medium grade 1 hemorroids.
+.
+PULMONARY: Patient has some very mild hypoxia likely related to
+abdominal distention vs cardiac asthma vs reactive airways.  She
+maintained her oxygen saturations and did not require
+intubation.
+.
+PPx: Patient maintained of PPI, Lactulose, and pneumoboots for
+DVT prophylaxis.
+.
+DISPO: Patient was discharged home with services in stable
+condition with close follow up with her PCP, Adianna Rutledge hepatologist,
+and Dr. Rutledge of nephrology.
+
+
+Medications on Admission:
+Synthroid 75mcg QD
+Protonix 40mg
+Ursodiol 500AM/750PM
+Nadolol 20mg QD
+Colace 100mg UPMCE
+Folate
+CaCO3
+Rifaximin 400mg TID
+Lactulose 30mg UPMCE
+Lasix 40mg QD
+Aldactobe 100mg HS
+Bactrim 1 tab UPMCE until 2012-03-24 00:00:00 for UTI
+
+Discharge Medications:
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Spironolactone 25 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a
+day).
+Disp:*180 Tablet(s)* Refills:*2*
+5. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q6H (every
+6 hours) as needed.
+Disp:*100 ML(s)* Refills:*0*
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Ursodiol 250 mg Tablet Sig: Two (2) Tablet PO QAM (once a day
+(in the morning)).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Ursodiol 250 mg Tablet Sig: Three (3) Tablet PO QPM (once a
+day (in the evening)).
+Disp:*90 Tablet(s)* Refills:*2*
+9. Nadolol 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Prednisone 20 mg Tablet Sig: One (1) Tablet PO QD () for 1
+days.
+Disp:*1 Tablet(s)* Refills:*0*
+11. Prednisone 10 mg Tablet Sig: One (1) Tablet PO QD () for 2
+doses: start after done with 20mg dose.
+Disp:*2 Tablet(s)* Refills:*0*
+12. Prednisone 5 mg Tablet Sig: One (1) Tablet PO QD () for 2
+days: start after done with 10mg dose.
+Disp:*2 Tablet(s)* Refills:*0*
+13. Outpatient Lab Work
+CBC, CHEM 10, LFTS, and PT, PTT, INR
+
+Please have this bloodwork performed on 2012-03-24 00:00:00 and have the
+results faxed to Dr. Amyha Pisana office at the UPMCE Department of Hepatology
+
+
+Discharge Disposition:
+Home with Service
+
+Facility:
+[**First Name8 (NamePattern2) 1477**] Amyha Pisana
+
+Discharge Diagnosis:
+Variceal Bleed s/p banding
+Sepsis
+Acute Renal Failure
+Anasarca
+Primary Billary Cirrhosis
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please take all medications as perscribed. Please report to the
+UPMCE emergency room with any fevers, chills, nausea, vomiting,
+abdominal pain, bright red blood per rectum, hemetamesis.
+
+Please keep all follow up appointments.
+
+Followup Instructions:
+[**First Name5 (NamePattern1) 1476**] Rutledge- Primary Care Physician- 2012-03-24 00:00:00/28/06
+at 12:15PM- please have your CBC, Chem 10 and Liver Function
+Tests, and coagulation studies checked at that visit and have
+results faxed to Dr. Amyha Pisana office.
+
+Please also have the blood work checked on 2012-03-24 00:00:00 faxed to Dr.
+Adianna Rutledge office.
+
+Adianna Rutledge-Hepatology-UPMCE clinic will call you
+within 24H to schedule your follow up appointment, but if you do
+not hear from them within 24H, please call the clinic yourself.
+
+[**First Name4 (NamePattern1) 424**] Rutledge-Nephrology-test@mail.com-3/27/06 at 12:30 PM
+
+
+

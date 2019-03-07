@@ -1,0 +1,384 @@
+Admission Date:  2012-04-09 00:00:00              Discharge Date:   2012-04-09 00:00:00
+
+Date of Birth: 1958-04-05 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Calcium Channel Blockers
+
+Attending:Kiairra Skovron
+Chief Complaint:
+hypoxia, lip and tongue swelling
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+84yo w/PMHx significant for HTN, CKD, CVA (hemi123 Any St. in 2012-04-09 00:00:00),
+diastolic heart failure, HLD, PVD refered from UPMCE rehab
+after bolus fluids for Roudebush given poor PO intake and elevated Cr
+on labs (felt to be pre-renal) and lasix held yesterday. However
+after fluids bolus of 1L, pt became hypoxic to 85% w/crackles. K
+elevated to 5.5 at UPMCE rehab, got kayexalete. She was then
+given 60mg lasix w/out much improvement despite diuresis at
+which point transferred to UPMCE. Pt has had gradual decline in
+MS (somnolent, but no confusion). Also developed large tongue
+and protruding lower lip concerning for angioedema in setting of
+chronic ACEI use. However, per report swelling developed slowly
+since her recent ED admission on 2012-04-09 00:00:00 during which she was
+started on augmentin. Other than this she has had no medications
+but has been on enalapril for extended period (duration
+unknown).
+
+Of note, pt was hospitalized ~1 mo ago for PVD, failed LLL
+angioplasty and stent intervention for ischemia which failed and
+amputation under consideration for chronic non healing ulcer. Pt
+has been on oxycodone for pain which has resulted in sedation
+and consequently poor PO intake. Pt now has Cr of 3.3 (baseline
+2.0) on labs. Also had bought of cellulitis for which she
+presented to ED on 2012-04-09 00:00:00 which was treated w/augmentin and
+cellulitis improved.
+
+In ED, arousable, follows comands, VS 98.4 74 139/59 20 97% 4L,
+now on 2L 96%. Diffuse crackles throught; no lower extremity
+edema,benign ab exam. Replaced foley with stable inguinal
+hematoma (firm indurated, no erythematous or warm there for 2012-04-09 00:00:00
+days). Elected not to image given ok VS and no abnormalities on
+exam, hemotoma has been stable. On CXR pt had retro-cardiac
+opacity, given recent outbreak of RSV at nursing home, pt was
+given Vanc/Cipro (HCAP).
+
+On the floor, appears in NAD however does have swelling of the
+lower lip, Roudebush and eyes. Has difficulty pronouncing words
+given lip and tongue swelling. Denies pain but does say that her
+foot bothers her. States that her breathing is fine, no chest
+pain, no abdominal pain
+
+Review of sytems:
+(+) Per HPI. has leg pain from chronic PVD
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied nausea, vomiting, diarrhea, constipation or
+abdominal pain. No recent change in bowel or bladder habits. No
+dysuria. Denied arthralgias or myalgias.
+
+Past Medical History:
+- CORONARY ARTERY DISEASE
+- HEART FAILURE, DIASTOLIC
+- HYPERTENSION
+- HYPERCHOLESTEROLEMIA
+- DM-2
+- RENAL INSUFFICIENCY 2012-04-09 00:00:00
+- ?ATHEROEMBOLIC DISEASE
+- BELL'S PALSY
+- STROKE 2012-04-09 00:00:00 CVA w/L hemi123 Any St., wheelchair bound; has
+decreased speech at baseline but generally good comprehension
+- GASTROINTESTINAL BLEEDING 2012-04-09 00:00:00
+- MULTINODULAR GOITER
+- LOWER EXTREMITY EDEMA 99
+- HEADACHES
+- ANEMIA (IRON/B12)
+- CHRONIC NONHEALING UCLER ON TOE--> Left lower extremity
+ischemia with ulceration of left 3rd toe
+- glaucoma
+- cataracts
+-dementia
+-constipation
+-diabetic retinopathy
+- macular degeneration
+- a fib
+- peripheral edema
+
+Social History:
+coming from UPMCE rehab. Russian speaking but some English.
+Married, daughter and son.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Admission:
+Vitals:   98.3,130/72, 69, 16, 93% 2L
+General: Sleepy but rousable, no acute distress
+HEENT: Sclera anicteric, dry MM, oropharynx clear, lower lip,
+eyes and tongue swollen
+Neck: supple, JVP not elevated, no LAD
+Lungs: fine crackles at bases but no UPMCE wheezes, rales,
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley
+Ext: cool, no edema, chronic PVD non-healing ulcer on 3 toe
+
+Pertinent Results:
+2012-04-09 00:00:00 06:30PM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-LG
+2012-04-09 00:00:00 06:30PM URINE  RBC-7* WBC->182* BACTERIA-FEW YEAST-NONE
+EPI-55 TRANS EPI-2
+
+CXR 2012-04-09 00:00:00:
+There is severe cardiomegaly associated also with bilateral
+hilar enlargement, findings that might be consistent with
+complex valvular problems as well as cardiomyopathy. There are
+most likely present bilateral pleural effusions.  There is no
+evidence of pulmonary edema. Calcified right pleural plaques are
+redemonstrated. There is no evidence of pneumothorax
+
+TTE 2012-04-09 00:00:00:
+The left atrium is elongated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. Regional left
+ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). Tissue Doppler imaging
+suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). Right ventricular chamber size and free wall
+motion are normal. The diameters of aorta at the sinus,
+ascending and arch levels are normal. The aortic valve leaflets
+are mildly thickened (?#). There is mild aortic valve stenosis
+(valve area 1.2-1.9cm2). No aortic regurgitation is seen. There
+is mild functional mitral stenosis (mean gradient 6 mmHg) due to
+mitral annular calcification. Mild (1+) mitral regurgitation is
+seen. The estimated pulmonary artery systolic pressure is
+normal. There is no pericardial effusion.
+IMPRESSION: Suboptimal image quality. Mild left ventricular
+hypertrophy with preserved global biventricular systolic
+function. Mild aortic stenosis and mitral regurgitation. Mild
+functional mitral stenosis from annular calcification.
+
+2012-04-09 00:00:00 03:59PM BLOOD WBC-5.2 RBC-3.20* Hgb-9.3* Hct-28.7*
+MCV-90 MCH-29.1 MCHC-32.4 RDW-16.6* Plt Ct-185
+2012-04-09 00:00:00 09:15AM BLOOD WBC-5.5 RBC-3.56* Hgb-10.1* Hct-31.0*
+MCV-87 MCH-28.4 MCHC-32.6 RDW-16.1* Plt Ct-255
+2012-04-09 00:00:00 03:59PM BLOOD Neuts-74.1* Lymphs-17.6* Monos-6.1
+Eos-1.0 Baso-1.1
+2012-04-09 00:00:00 04:22AM BLOOD PT-14.2* PTT-36.2* INR(PT)-1.2*
+2012-04-09 00:00:00 03:59PM BLOOD Glucose-145* UreaN-99* Creat-3.2* Na-144
+K-4.6 Cl-111* HCO3-20* AnGap-18
+2012-04-09 00:00:00 09:14AM BLOOD Glucose-163* UreaN-71* Creat-2.3* Na-145
+K-4.9 Cl-112* HCO3-24 AnGap-14
+2012-04-09 00:00:00 03:59PM BLOOD CK-MB-4 cTropnT-0.09* proBNP-[**Numeric Identifier 2560**]*
+2012-04-09 00:00:00 04:22AM BLOOD Calcium-8.1* Phos-8.0*# Mg-2.7*
+2012-04-09 00:00:00 09:14AM BLOOD Mg-3.2*
+2012-04-09 00:00:00 06:45AM BLOOD C4-51*
+2012-04-09 00:00:00 11:00AM BLOOD Vanco-19.1
+
+2012-04-09 00:00:00 7:00 pm BLOOD CULTURE      2ND.
+   Blood Culture, Routine (123 Any St.inary):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+         Isolated from only one set in the 123 Any St.us five days.
+         SENSITIVITIES PERFORMED ON REQUEST..
+   Anaerobic Bottle Gram Stain (Final 2012-04-09 00:00:00):
+      Reported to and read back by DR. Kiairra Skovron. [**Doctor Last Name 2561**] ON 2012-04-09 00:00:00 AT
+0610.
+      GRAM POSITIVE COCCI IN CLUSTERS.
+
+Other blood culture from 2012-04-09 00:00:00 no growth by the time of
+discharge
+Blood cultures x 2 on 2012-04-09 00:00:00 no growth by the time of discharge
+
+
+Brief Hospital Course:
+84yo w/PMHx significant for HTN, CKD, CVA (hemi123 Any St. in 2012-04-09 00:00:00),
+diastolic heart failure, HLD, PVD refered from UPMCE rehab for
+hypoxia after receiving IVF, along with tongue and lip swelling
+for the last few days concerning for angioedema.
+
+ANGIOEDEMA: the patient was seen by the allergy consult team
+([**First Name8 (NamePattern2) 2562**] Kiairra Skovron) who thought this was consistent with angioedema,
+she was started on dexamethasone 4mg q8hrs and H2 blockers.  her
+symptoms improved and she was sent to the regular medical wards
+from the ICU.  Her steroids were tapered to 2mg po q8hrs on 2012-04-09 00:00:00
+and stopped completely on 2012-04-09 00:00:00.
+
+PULMONARY EDEMA: She improved with blood pressure control.  Her
+home lasix of 40mg po daily was restarted on 2012-04-09 00:00:00 as she had
+some rales at the R base of her lung and mild shortness of
+breath.  Her O2 sat was 95% on room air.  Her creatinine had
+improved.  In addition for BENIGN HYPERTENSION her ACEi had been
+stopped as noted above and she was started on hydralazine 25mg
+po q6hrs, her nifedipine was increased to 60mg po bid (from 40mg
+po bid) and her imdur was increased from 30mg po daily to 60mg
+po daily.
+
+ACUTE ON CHRONIC RENAL FAILURE: urine electrolytes consistent
+with a pre-renal cause but given recent angiogram this also
+could be related to contrast nephropathy.  Her renal failure
+improved with time and blood pressure control.  Her creatinine
+at discharge was 2.3 (baseline 2-2.2).  Chem 7 should be checked
+in the next 5-7 days to ensure stability.
+
+TOE ULCERATION, PERIPHERAL VASCULAR DISEASE: non infected toe
+ulceration.  She had a recent angiogram and will f/u with
+podiatry and vascular surgery (appointments have been made)
+
+URINARY TRACT INFECTION: Started on PO cipro on 2012-04-09 00:00:00. She has
+completed a 5 day total course.
+
+POSITIVE BLOOD CULTURE: on 2012-04-09 00:00:00, this was treated with
+vancomycin until it returned as 1/2 bottles from one set of coag
+negative staph.  At this point she did not have a PICC or mid
+line or any other foreign body.  She was afebrile and had no
+white blood cell elevation, her vancomycin was last dosed on
+2012-04-09 00:00:00 (1 gram IV), this was likely a contaminant so
+antibiotics were discontinued.
+
+DIABETES TYPE II: the patient was on pioglitazone as an
+outpatient, given pulmonary edema this was stopped.  While inpt
+on steroids she was treated with an insulin sliding scale, on
+discharge she was switched to glipizide xl 2.5mg po daily, this
+can be further adjusted as an outpatient.
+
+For her history of CVA with chronic left sided hemiparesis and
+depression as well as iron and B12 deficiency anemia, the
+patient continued on her home med regimen.
+
+Medications on Admission:
+-augmentin 250mgBID 2012-04-09 00:00:00 to 2012-04-09 00:00:00
+-oxycodone ER 10mg UPMCE
+-oxycodone IR7.5mg Q4h/prn
+-calcitriol 0.25mcg daily
+-artificial tears
+-nitroglycerin 2% ointment 0.5inch daily
+-bisacodyl 10mg qpm
+-bisacodyl 10mg suppository
+-omeprazole 20mg
+-oxcarbazepine 150 mg
+-polyethlen glycol 17 UPMCE
+-isosorbide mononitrate 30mg
+-trazadone25mg qhs
+-??trazadone 12.5mg --> total 37.5mg
+-nifedipine 40mg UPMCE
+-iron 325 daily
+-aspirin enteric 81mg
+-pioglitazone 30mg daily
+-acetaminophen 325 mg TID
+-citalopram 20mg
+-heparin sq
+-milk of mag 30mg daily
+-vasotec 10mg daily, stopped prior to admission on 2012-04-09 00:00:00
+-furosemide given PRN at UPMCE Rehab, was on 40mg daily started
+2012-04-09 00:00:00
+
+Discharge Medications:
+1. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)
+as needed for pain.
+2. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+3. polyvinyl alcohol-povidone 1.4-0.6 % Dropperette Sig: 2012-04-09 00:00:00
+Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+4. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+6. oxcarbazepine 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+dose PO BID (2 times a day).
+8. trazodone 50 mg Tablet Sig: 0.5-1 Tablet PO at bedtime as
+needed for insomnia.
+9. nifedipine 60 mg Tablet Extended Rel 24 hr Sig: One (1)
+Tablet Extended Rel 24 hr PO twice a day.
+10. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+11. glipizide 2.5 mg Tablet Extended Rel 24 hr Sig: One (1)
+Tablet Extended Rel 24 hr PO once a day.
+12. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+13. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+14. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO DAILY (Daily).
+16. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr
+Sig: Two (2) Tablet Extended Release 24 hr PO DAILY (Daily).
+17. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+18. hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - LTC
+
+Discharge Diagnosis:
+Hypoxia and shortness of breath due to acute diastolic CHF
+exacerbation
+Acute on chronic kidney failure, CKD4
+Angioedema
+UTI
+Peripheral vascular disease
+Chronic non-healing left toe ulcer
+Hypertension
+Hyperlipidemia
+CAD
+Chronic diastolic CHF
+CVA, late effects
+Depression
+Iron deficiency and B12 deficiency anemia
+DM2 uncontrolled with PVD complications
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+You were admitted with shortness of breath due to volume
+overload. Continue to take lasix.
+
+You had acute on chronic kidney failure likely due to an effect
+of medications and due to volume de[** Location **]n within the blood
+vessel (despite having too much fluid elsewhere).
+
+You had swelling of your lip due to angioedema - probably an
+allergic reaction to either ACE inhibitors (of which your
+chronic medicaion vasotec is one example) or augmentin (which
+you were recently started on for cellulitis). From now on please
+avoid all ACE inhibitor medications and penicillin containing
+antibiotics.
+
+You had a urinary tract infection. You were treated with 5 days
+of ciprofloxacin.
+
+MEDICATION CHANGES:
+Your OXYCONTIN was stopped and your pain was treated with short
+acting OXYCODONE in the hospital
+
+Your BLOOD PRESSURE MEDICATIONS were adjusted:
+NITROPASTE was STOPPED
+NIFEDIPINE was INCREASED from 40mg twice daily to 60mg twice
+daily
+IMDUR was INCREASED from 30mg daily to 60mg daily
+HYDRALAZINE 25mg four times daily was added
+
+YOUR DIABETES MEDICATIONS WERE ADJUSTED:
+PIOGLITAZONE was STOPPED
+GLIPIZIDE was STARTED
+
+Followup Instructions:
+Department: PODIATRY
+When: TUESDAY 2012-04-09 00:00:00 at 2:35 PM
+With: Chinyere Roudebush, DPM test@mail.com
+Building: Ba 123 Any St.
+Campus: WEST     Best Parking: 123 Any St. Garage
+
+Department: VASCULAR SURGERY
+When: MONDAY 2012-04-09 00:00:00 at 4:15 PM
+With: Chinyere Roudebush, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+

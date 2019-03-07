@@ -1,0 +1,370 @@
+Admission Date:  2012-12-07 00:00:00              Discharge Date:   2012-12-07 00:00:00
+
+Date of Birth: 1979-12-07 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:Laneeka Laboon
+Chief Complaint:
+Chief Complaint: fever
+
+Reason for MICU transfer: hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+A 71 year old male with PMH Cholelithiasis and biliary colic s/p
+unsuccessful open cholecystectomy is called out of the MICU
+after a one day hospitalization for hypotension following ERCP.
+.
+According to the patient, he had an episode of abdominal pain in
+2012-12-07 00:00:00 and presented to UPMCE where he underwent an
+attempted laparoscopic cholecystectomy which was converted to an
+open proceedure due to fibrosis. He reports that the surgeon was
+able to remove some stones and closed leaving a bile drain in
+place. He was then sent to UPMCE for ERCP on 2012-12-07 00:00:00 with
+biliary stent placement which was successful. Following the
+procedure, the patient noted decreased output from the external
+biliary drain and had resolution of abdominal pain. On the day
+of admission (2012-12-07 00:00:00) the patient presented for an repeat ERCP
+to place a larger biliary stent which was performed
+successfully. He returned home where he noted chills and an oral
+temperature of 100.7. He called his PCP who recommended referral
+to the ED. In the ED, initial VS were: 98.3 78 91/52 18 94%,
+Labs were remarkable for WBC 5.0 73%PMN 3% Bands, he was given
+amp/sulbactam and 2L IVNS and admitted to the MICU.
+.
+While in the MICU, antibiotics were changed to vancomycin and
+zosyn. Biliary drain fluid was cultured with initial gram stain
+showing Gram Neg Rods and Gram positive Cocci and culture
+showing polymicrobial growth. ERCP fellow was 2012-12-07 00:00:00 who
+noted that the fluid in a cholecystomy bag is rarely cultured
+and is likely to be colonized with non-pathogenic bacteria. The
+patient was given a total of 5 liters of fluid in the ED and
+MICU. BP has now been stable without requring fluid for over 24
+hrs and therefore patient was able to leave the MICU.
+.
+On arrival to the floor, patient denies any current complaints
+and states that he feels as well as he normally does at home.
+.
+REVIEW OF SYSTEMS
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies exertional buttock or calf pain.
+All of the other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+HTN
+hyperlipidemia
+Type II DM
+Status post carotid endarterectomy
+Thrombocytopenia
+Fibrotic lung disease: Likely due to asbestosis
+Bladder CA status post TURBT
+
+
+Social History:
+Lives in 123 Any St. with his wife and son.  Significant 30+ pack
+year history, quit 3 months ago.  No alcohol use.  Emigrated to
+the U.S. in the 2012-12-07 00:00:00, worked in [**Location (un) 86**] shipyards for 30 years.
+
+Family History:
+Denies family history of coronary artery disease, congestive
+heart failure.
+
+Physical Exam:
+Admission Physical Exam
+Vitals:  98.9  HR 75  BP 105/51  RR 16  97% 2 liters n/c
+General: Alert, oriented, no acute distress, slightly agitated
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: bibasilar crackles that clear somewhat with ventilation,
+rare wheeze LUL
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly.  biliary drain in place
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation
+
+
+Pertinent Results:
+Admission Labs
+==============
+2012-12-07 00:00:00 10:00AM BLOOD WBC-5.0 RBC-3.20* Hgb-9.8* Hct-30.9*
+MCV-96 MCH-30.7 MCHC-31.8 RDW-16.8* Plt Ct-76*
+2012-12-07 00:00:00 11:25PM BLOOD Neuts-73* Bands-3 Lymphs-10* Monos-8
+Eos-5* Baso-0 Atyps-1* Metas-0 Myelos-0
+2012-12-07 00:00:00 10:00AM BLOOD PT-13.9* PTT-28.2 INR(PT)-1.2*
+2012-12-07 00:00:00 10:00AM BLOOD Glucose-121* UreaN-21* Creat-1.1 Na-136
+K-4.4 Cl-100 HCO3-27 AnGap-13
+2012-12-07 00:00:00 10:00AM BLOOD ALT-28 AST-39 AlkPhos-207* Amylase-31
+TotBili-0.6 DirBili-0.3 IndBili-0.3
+2012-12-07 00:00:00 10:00AM BLOOD Lipase-11
+2012-12-07 00:00:00 06:15AM BLOOD Albumin-2.5* Calcium-7.5* Phos-3.4
+Mg-1.5*
+2012-12-07 00:00:00 11:25PM BLOOD Iron-26*
+2012-12-07 00:00:00 11:25PM BLOOD calTIBC-251* VitB12-450 Folate-11.8
+Ferritn-135 TRF-193*
+2012-12-07 00:00:00 11:25PM BLOOD TSH-1.5
+2012-12-07 00:00:00 06:15AM BLOOD Cortsol-27.3*
+2012-12-07 00:00:00 11:30PM BLOOD Lactate-1.1 K-4.2
+.
+Discharge Labs:
+===============
+2012-12-07 00:00:00 06:27AM BLOOD WBC-2.8* RBC-3.02* Hgb-9.0* Hct-28.3*
+MCV-94 MCH-30.0 MCHC-31.9 RDW-16.7* Plt Ct-85*
+2012-12-07 00:00:00 06:27AM BLOOD Glucose-111* UreaN-21* Creat-1.3* Na-139
+K-3.9 Cl-100 HCO3-31 AnGap-12
+2012-12-07 00:00:00 05:56AM BLOOD ALT-21 AST-40 AlkPhos-235* TotBili-0.6
+2012-12-07 00:00:00 06:27AM BLOOD Mg-1.8
+.
+Other Studies:
+==============
+CXR 2012-12-07 00:00:00:
+1. Diffuse interstitial opacities likely pulmonary fibrosis
+(evidence of
+asbestos exposure) with or without interstial pulmonary edema or
+atypical
+infection.
+2. Dilated azygous vein indicates elevated central venous
+pressure or volume.
+.
+CXR 2012-12-07 00:00:00:
+As compared to the 123 Any St.us radiograph, there is no relevant
+change. Borderline diameter of the azygos vein indicating
+minimal systemic
+fluid overload. However, there is no other indicator for
+pulmonary fluid
+overload, in particular no widening of the mediastinum, no
+presence of pleural effusions and no interval enlargement of the
+cardiac silhouette. Unchanged extensive bilateral interstitial
+opacities, in the context of known pulmonary fibrosis. No
+interval appearance of new focal parenchymal opacities.
+.
+TTE 2012-12-07 00:00:00:
+The left atrium is mildly dilated. Left ventricular wall
+thickness, cavity size and regional/global systolic function are
+normal (LVEF >55%). Right ventricular chamber size and free wall
+motion are normal. The diameters of aorta at the sinus,
+ascending and arch levels are normal. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present.
+Trace aortic regurgitation is seen. The mitral valve leaflets
+are mildly thickened. There is no mitral valve prolapse. The
+pulmonary artery systolic pressure could not be determined.
+There is no pericardial effusion.
+
+IMPRESSION: Normal global and regional biventricular systolic
+function. Mild diastolic LV dysfunction. No
+clinically-significant valvular disease seen.
+.
+MICROBIOLOGY:
+=============
+2012-12-07 00:00:00 12:10 am BILE
+
+   GRAM STAIN (Final 2012-12-07 00:00:00):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      3+  (5-10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+   FLUID CULTURE (123 Any St.inary):
+      Due to mixed bacterial types (>=3) an abbreviated workup
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are
+reported if
+      present. Susceptibility will be performed on P.aeruginosa
+and
+      S.aureus if sparse growth or greater..
+
+   ANAEROBIC CULTURE (123 Any St.inary):    NO ANAEROBES ISOLATED.
+
+.
+Blood Cultures 2012-12-07 00:00:00 and 2012-12-07 00:00:00: NGTD
+
+Brief Hospital Course:
+71 year old male with history of HTN, hyperlipidemia, who
+presented with fever and relative hypotension after elective
+ERCP.
+.
+ACTIVE ISSUES:
+==============
+# Fever, hypotension- This may have been related to transient
+bacteremia from manipulation of tube during ERCP, however could
+not exclude acending cholangitis therefore patient was started
+on empiric antibiotics. Workup unremarkable for other localizing
+source of infection.
+- He will PO cipro and metronidazole based on discussion with
+ERCP. Will complete a 7 day course of antibiotics as outpatient.
+.
+# Pancytopenia: Appears to be chronic based upon review of UPMCE records. No evidence of portal hypertension on exam.
+Given diverse differential on CBC, concern for a marrow process.
+ Patient is not deficient in B12, folate, or iron. These
+findings do not appear to be directly related to current
+admission but warrant further workup possibly including bone
+marrow biopsy. However patient eager to go home and have any
+further testing as outpatient with PCP. Felisitas Keelan risk is low based
+on current values.
+- PCP informed and will evaluate and refer appropriately at f/u
+appointment
+- Further workup as outpatient
+.
+# Hypoxemia- During his stay the patient was noted to have low
+O2 sats on room air. Ambulatory O2 sats dipped as low as 79%
+transiently. The patient denied any feeling of shortness of
+breath. He reported that his breathing was at baseline. It was
+unclear if he is chronically hypoxemic. The patient's PCP did
+not have any PFT records available. OSH records indicated a
+history of fibrotic lung disease and evidence of asbestosis
+likely due to his career working in a ship-yard. Chest x-rays
+performed here are concordant with this history. The patient's
+PCP was Felisitas Keelan and he could not recall any history of
+de-saturations to this degree. It is unclear what component of
+his hypoxemia is from his chronic lung disease and what is
+acute. It was initally thought that he had a component of
+pulmonary edema because patient 5 liters positive in MICU and
+CXR suggestive. Therefore he was diuresed with IV lasix and he
+was clinically euvolemic but there was minimal improvement in
+oxygenation. TTE showed preserved EF with mild diastolic
+dysfunction. There was nothing obvious on history or physical to
+suggest another etiology for patient's acute insult to his
+chronic lung disease. He was low risk for Pulmonary Embolism
+therefore CTA was not indicated. He has a long smoking history
+however patient denied any known diagnosis of COPD and patient
+was not on any COPD medications.
+The patient was strongly opposed to any further workup while
+inpatient and threatened to leave AMA on multiple occassions.
+Therefore he will follow-up with his PCP tomorrow and will have
+further workup including referral to pulmonology with CT and
+PFTs as outpatient.
+He was unable to maintain ambulatory O2 sats above 88% therefore
+he will go home with O2. Patient, patient's wife, and daughter
+all state they are committed to maintaining no smoking in the
+home. They understand the risks including fire and serious
+injury. Patient counseled on smoking cessation.
+.
+CHRONIC ISSUES:
+================
+# HTN- continue home lisinopril
+.
+# HL- cont home simvastatin
+.
+# Type II DM- continue home metformin
+.
+TRANSITIONAL ISSUES:
+====================
+- Contact: Daughter (Felisitas Keelan) test@mail.com
+- Patient's PCP will coordinate further workup of hypoxemia
+including chest CT and referal to pulmonology
+- Patient's PCP will coordinate further workup of pancytopenia
+
+Medications on Admission:
+lisinopril 5 mg daily
+simvastatin 40 mg daily
+metformin 850 daily
+
+
+Discharge Medications:
+1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO at bedtime.
+2. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. metformin 850 mg Tablet Sig: One (1) Tablet PO once a day.
+4. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours): Last dose in evening on 2012-12-07 00:00:00.
+Disp:*5 Tablet(s)* Refills:*0*
+5. metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day): Last dose in evening on 2012-12-07 00:00:00.
+Disp:*7 Tablet(s)* Refills:*0*
+6. Home Oxygen Therapy
+2 Liters/Minute
+For portability: pulse dose system
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Primary
+- Sepsis
+- Post ERCP fever
+- Hypoxemia
+- Pulmonary Fibrosis
+Secondary
+- Pancytopenia
+- Type 2 DM
+- Hypertension
+- Hyperlipidemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr. Keelan,
+
+You were admitted to the hospital because you had fever and low
+blood pressure after your ERCP procedure. There was concern that
+you could have a serious infection. Therefore you were admitted
+to the Intensive Care Unit and given antibiotics and fluid to
+help maintain your blood pressure. You did well and were able to
+leave the ICU. You will take 2 more days of antibiotics when you
+get home as described below.
+
+An additional reason that you needed to stay in the hospital was
+that your oxygen levels were low. Although you may not always
+have symptoms, it is very dangerous to have low oxygen levels
+for a long period. Part of the explanation for your low oxygen
+levels may have been extra fluid in your lungs, therefore that
+was removed with medication. However you still had low oxygen
+levels afterwards. Most likely this is from lung disease that
+you have had for some time. As we discussed, it is VERY
+important that you and everyone else in your household quit
+smoking. Oxygen is very flammable and can cause a fire. You will
+need
+
+The following additions were made to your medications:
+START: ciprofloxacin 500 mg Tablet Twice daily. Last dose in
+evening on 2012-12-07 00:00:00.
+START: metronidazole 500 mg Tablet Three times daily. Last dose
+in evening on 2012-12-07 00:00:00
+
+You should continue taking all of your other medications as you
+were 123 Any St.usly.
+
+You will need to see your primary care doctor soon for further
+evaluation of your lung disease. You also will need further
+evaluation for your low blood counts.
+
+Followup Instructions:
+Name: VLAGOPOULOS,TRIPHON P.
+Address: UPMCE, UPMCE,[**Numeric Identifier 4233**]
+Phone: test@mail.com
+Appointment: Wednesday 2012-12-07 00:00:00 2:00pm
+
+Your Primary Care Doctor should refer you to see a pulmonologist
+(lung specialist) for further evaluation.
+
+
+                             Felisitas Keelan MD, 97982
+

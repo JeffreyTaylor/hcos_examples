@@ -1,0 +1,369 @@
+Admission Date:  2009-11-05 00:00:00              Discharge Date:   2009-11-05 00:00:00
+
+Date of Birth: 1980-11-05 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Jersy Jarzyna
+Chief Complaint:
+diabetic ketoacidosis
+
+Major Surgical or Invasive Procedure:
+central line placement in ED
+
+
+History of Present Illness:
+Pt is a 55 yo F with no significant PMH who presented to PCP
+Dhylan Reily 3 days of profound fatigue and DOE.  Pt states she "had
+never felt so tired in her life" and felt that she had to
+"lurch" against objects to get around.  Admits also to vomiting
+and mild diarrhea beginning at the same time as fatigue.  Admits
+to increased thirst and urinary frequency of three weeks
+duration.  Denied dysuria.  Has had a 28 pound unintentional
+weight loss over the past few weeks.  In clinic pt's fingerstick
+was >500 and she was sent to the ED.
+.
+In the ED inital vitals were 98.5, 108, 150/89, 14, 98%.  Pt was
+found to be in DKA with a blood sugar of 720, a bicarb of 7, and
+an anion gap of 37. 4L IVF, 40meq over 2 hours IV, and 20Meq PO,
+insulin 8 u bolus and 8/hr drip repeat chemistry sent. 1 18g EJ
+placed. FSBGs responded down to 450.
+.
+On the floor, initial vitals were HR 96, 124/87, 97% RA.
+.
+Review of systems:
+(+) Per HPI.  Also admits to noticing thinning hair on top of
+scalp for about 1 year.  No itching or other skin irritation or
+rashes.
+(-) Denies fever, chills, night sweats. Denies headache, sinus
+tenderness, rhinorrhea or congestion. Denies cough, shortness of
+breath, or wheezing. Denies chest pain. Denies nausea, abdominal
+pain. Denies arthralgias or myalgias.
+
+
+Past Medical History:
+none.  Last pap and Reily in 2009-11-05 00:00:00.
+
+
+Social History:
+Married, has one child, age 18 (son).  Works as a lawyer.  Used
+to play soccer and softball recreationally before twisting
+ankle.
+- Tobacco:  Smoked rarely when younger but quit 20-25 years ago.
+- Alcohol:  Admits to "occasional" EtOH use, which she
+quantified as 2009-11-05 00:00:00 glasses of wine a week.
+- Illicits:  Remote history of marijuana use over 35 years ago,
+but denies other illicit drug history.
+
+
+Family History:
+Two maternal aunts with DM - one diagnosed in 50s and one
+diagnosed in 60s.  One of these aunts died of cervical cancer,
+the other is still living.  Mother with h/o CHF, hypertension,
+nephrolithiasis.  Two sisters, both with hypertension.  Maternal
+Grandmother died of stroke in mid-50s.
+
+Physical Exam:
+ADMISSION EXAM
+General: Alert, oriented, no acute distress.  flat affect.
+HEENT: Sclera anicteric, MM dry with yellow/white film on tongue
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, TTP over midline hypogastrium, non-distended,
+bowel sounds present, no rebound tenderness or guarding, no
+organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: scalp with patchy thinning over vertex extending to
+several centimeters behind forehead hairline (which is intact).
+no distinct demarcation between areas of hair loss and areas
+without. no broken hair shafts, erythema, or scaling.
+Neuro: CN2-12 intact, strength 5/5 in UE and LE bilat, LTSI
+
+
+Pertinent Results:
+.
+CHEST XRAY- 2009-11-05 00:00:00
+PA and lateral chest radiographs were provided. There is no
+focal
+consolidation, pneumothorax or pleural effusion.
+Cardiomediastinal silhouette is unremarkable. There are no
+concerning osseous lesions.
+IMPRESSION: No acute cardiopulmonary process
+.
+2009-11-05 00:00:00:EKG Artifact is present. Sinus tachycardia.
+Non-specific ST-T wave changes. No 123 Any St.us tracing available
+for comparison.
+.
+CULTURE DATA
+RAPID PLASMA REAGIN TEST (Final 2009-11-05 00:00:00):
+      NONREACTIVE.
+      Reference Range: Non-Reactive.
+.
+UCX-<10,000 organisms.
+.
+Labs:
+
+2009-11-05 00:00:00 07:15AM BLOOD WBC-7.1 RBC-4.49 Hgb-13.2 Hct-38.3 MCV-85
+MCH-29.4 MCHC-34.5 RDW-14.3 Plt Ct-128*
+2009-11-05 00:00:00 08:00AM BLOOD WBC-6.1 RBC-4.30 Hgb-12.9 Hct-36.7 MCV-85
+MCH-29.9 MCHC-35.1* RDW-14.2 Plt Ct-136*
+2009-11-05 00:00:00 02:49AM BLOOD WBC-7.9 RBC-4.32# Hgb-12.6# Hct-37.8#
+MCV-88 MCH-29.1 MCHC-33.2 RDW-14.5 Plt Ct-151
+2009-11-05 00:00:00 01:10PM BLOOD WBC-9.5 RBC-5.91* Hgb-17.2* Hct-52.3*
+MCV-89 MCH-29.2 MCHC-32.9 RDW-13.9 Plt Ct-220
+2009-11-05 00:00:00 01:10PM BLOOD Neuts-88.6* Lymphs-8.3* Monos-2.6 Eos-0.1
+Baso-0.3
+2009-11-05 00:00:00 07:15AM BLOOD Plt Ct-128*
+2009-11-05 00:00:00 08:00AM BLOOD Plt Ct-136*
+2009-11-05 00:00:00 02:49AM BLOOD Plt Ct-151
+2009-11-05 00:00:00 01:10PM BLOOD Plt Ct-220
+2009-11-05 00:00:00 07:15AM BLOOD Glucose-179* UreaN-8 Creat-0.7 Na-141
+K-3.3 Cl-103 HCO3-29 AnGap-12
+2009-11-05 00:00:00 05:40PM BLOOD Glucose-234* UreaN-9 Creat-0.7 Na-139
+K-3.8 Cl-105 HCO3-26 AnGap-12
+2009-11-05 00:00:00 08:00AM BLOOD Glucose-237* UreaN-7 Creat-0.8 Na-143
+K-3.5 Cl-109* HCO3-25 AnGap-13
+2009-11-05 00:00:00 09:55PM BLOOD Glucose-245* UreaN-11 Creat-0.9 Na-142
+K-3.2* Cl-111* HCO3-22 AnGap-12
+2009-11-05 00:00:00 03:52PM BLOOD Glucose-270* Na-142 K-3.4 Cl-113*
+HCO3-18* AnGap-14
+2009-11-05 00:00:00 11:08AM BLOOD Glucose-309* UreaN-13 Creat-1.0 Na-142
+K-3.6 Cl-113* HCO3-17* AnGap-16
+2009-11-05 00:00:00 05:53AM BLOOD Glucose-291* UreaN-15 Creat-0.9 Na-144
+K-3.3 Cl-116* HCO3-16* AnGap-15
+2009-11-05 00:00:00 02:49AM BLOOD Glucose-225* UreaN-16 Creat-0.9 Na-147*
+K-3.9 Cl-118* HCO3-16* AnGap-17
+2009-11-05 00:00:00 09:52PM BLOOD Glucose-191* UreaN-18 Creat-1.1 Na-146*
+K-5.3* Cl-120* HCO3-15* AnGap-16
+2009-11-05 00:00:00 08:01PM BLOOD Glucose-276* UreaN-20 Creat-1.1 Na-151*
+K-5.3* Cl-124* HCO3-14* AnGap-18
+2009-11-05 00:00:00 05:58PM BLOOD Glucose-375* UreaN-24* Creat-1.3* Na-153*
+K-3.9 Cl-120* HCO3-8* AnGap-29*
+2009-11-05 00:00:00 01:10PM BLOOD Glucose-720* UreaN-27* Creat-1.7* Na-144
+K-4.3 Cl-100 HCO3-7* AnGap-41*
+2009-11-05 00:00:00 08:01PM BLOOD CK(CPK)-132
+2009-11-05 00:00:00 05:58PM BLOOD ALT-16 AST-13 LD(LDH)-210 CK(CPK)-87
+AlkPhos-70 TotBili-0.3
+2009-11-05 00:00:00 01:10PM BLOOD ALT-20 AST-14 AlkPhos-96 TotBili-0.4
+2009-11-05 00:00:00 01:10PM BLOOD Lipase-70*
+2009-11-05 00:00:00 08:01PM BLOOD CK-MB-3 cTropnT-<0.01
+2009-11-05 00:00:00 05:58PM BLOOD CK-MB-3 cTropnT-<0.01
+2009-11-05 00:00:00 05:40PM BLOOD Phos-2.5* Mg-1.7
+2009-11-05 00:00:00 08:00AM BLOOD Calcium-8.5 Phos-3.5# Mg-1.8
+2009-11-05 00:00:00 09:55PM BLOOD Calcium-8.7 Phos-1.4*# Mg-1.8
+2009-11-05 00:00:00 05:53AM BLOOD Calcium-7.8* Phos-3.2 Mg-1.8
+2009-11-05 00:00:00 02:49AM BLOOD Calcium-8.2* Phos-3.5# Mg-1.9
+2009-11-05 00:00:00 09:52PM BLOOD Calcium-9.0 Phos-1.3* Mg-2.0
+2009-11-05 00:00:00 08:01PM BLOOD Calcium-8.2* Phos-1.2* Mg-2.2
+2009-11-05 00:00:00 05:58PM BLOOD Albumin-3.7 Calcium-8.1* Phos-2.2* Mg-2.1
+Iron-52
+2009-11-05 00:00:00 01:10PM BLOOD Albumin-4.8
+2009-11-05 00:00:00 05:58PM BLOOD calTIBC-200* Ferritn-649* TRF-154*
+2009-11-05 00:00:00 01:10PM BLOOD %HbA1c-14.6* eAG-372*
+2009-11-05 00:00:00 05:58PM BLOOD Osmolal-348*
+2009-11-05 00:00:00 05:58PM BLOOD TSH-0.40
+2009-11-05 00:00:00 11:08AM BLOOD T4-4.1*
+2009-11-05 00:00:00 05:53AM BLOOD Free T4-1.1
+2009-11-05 00:00:00 11:08AM BLOOD Jersy Jarzyna-NEGATIVE
+2009-11-05 00:00:00 05:53AM BLOOD Jersy Jarzyna-NEGATIVE
+2009-11-05 00:00:00 09:30AM BLOOD VoidSpe-PND
+2009-11-05 00:00:00 09:30AM BLOOD VoidSpe-PND
+2009-11-05 00:00:00 04:17PM BLOOD Lactate-1.5
+2009-11-05 00:00:00 04:17PM BLOOD Type-Reily pO2-57* pCO2-31* pH-7.38
+calTCO2-19* Base XS--5
+2009-11-05 00:00:00 11:08AM BLOOD GLUTAMIC ACID DECARBOXYLASE-PND
+2009-11-05 00:00:00 09:51PM BLOOD GLUTAMIC ACID DECARBOXYLASE-PND
+
+Brief Hospital Course:
+55 yo F with no significant PMH who presented to clinic with DKA
+and was initially admitted to the ICU.
+.
+#acute diabetic ketoacidosis/new diagnosis of uncontrolled
+diabetes-Patient was initially admitted to the UPMCE with DKA;
+blood sugar of 720, a bicarb of 7, and an anion gap of 37. Pt
+with personal history of being overweight and a family history
+of diabetes. Infection was ruled out by a normal chest xray and
+urine culture. She did not have any other localizing symptoms of
+infection.  CK and troponin were negative and EKG was
+unremarkable not suggesting cardiac ischemia. HgB A1C was
+markedly elevated at 14.6. In the ICU, she was maintained on an
+insulin gtt until her gap closed a few hours after admission
+(2009-11-05 00:00:00) and was successfully transitioned to glargine with
+humalog sliding scale that was uptitrated daily insulin Dhylan
+Reily recommendations. Pt's regimen upon discharge is 28units
+of glargine nightly with the follow sliding scale:
+Insulin SC Sliding Scale
+          Breakfast      Lunch        Dinner     Bedtime
+Humalog Humalog Humalog Humalog
+Glucose Insulin Dose Insulin Dose Insulin Dose Insulin Dose
+71-150    mg/dL 8  Units     6 Units     8 Units   2 Units
+151-200   mg/dL 10 Units     8 Units    10 Units   2 Units
+201-250   mg/dL 12 Units     10 Units   12 Units   6 Units
+251-300   mg/dL 14 Units     12 Units   14 Units   7 Units
+301-350   mg/dL 16 Units     14 Units   16 Units   8 Units
+351-400   mg/dL 18 Units     16 Units   18 Units   9 Units
+
+Pt has elected to follow up with Reily after discharge. She
+should receive regular foot/eye exams and be evaluated for
+consideration of starting ASA and ACEI. The Reily office was
+closed on the day of discharge and appointment was unable to be
+made. Pt was instructed to call on monday to be seen within 1
+week of discharge at Reily. The Reily team feels that patient
+either had type 1 or flatbush diabetes.
+.
+#acute renal failure: Pt noted to have Cr of 1.7 on admission.
+This was felt to be likely due to a pre-renal state 2009-11-05 00:00:00 volume
+de123 Any St.n/glycosuria.  Creatine improved with intravenous IVF.
+UCX <10,000 organisms. Creatinine on discharge was 0.7
+.
+#non-gap metabolic acidosis-Pt initially with AGMA due to DKA.
+However, then had a non-gap acidosis likely secondary to
+aggressive NS IVF re123 Any St.n and diarrhea. Lactate was normal.
+Tox screen not performed in ICU, but acidosis quickly resolved.
+
+.
+#thrombocytopenia-could be due to acute illness. Could also be
+due to heparin effect (SC heparin given for 2 days). Therefore,
+SC heparin was DC'd on 2009-11-05 00:00:00. Platelet count was monitored
+and was 128 on the day of discharge. There were no signs of
+obvious clotting or bleeding. This could have been due to acute
+illness and/or heparin effect. 4t score was "Low probability
+score 3" (fall >50% and nadir >20, fall <4days, no thombosis and
+other etiologies possible). Patient should have her platelet
+count rechecked at PCP appointment on 2009-11-05 00:00:00. Platelet trend
+220, 151, 136 and 128 on day of discharge.
+.
+#weight loss-28lbs in ~2months. Unintentional and patient
+reports she was not aware. In hindsight, likely secondary to DM.
+TSH/Free T4 normal. Nutrition was consulted. Pt will require age
+appropriate cancer screening (mammogram, pap smear, colonoscopy)
+after discharge.
+.
+# alopecia: androgenic distribution. Considered hypothyroidism
+but TFTs were normal, syphilis-RPR negative, anemia but iron
+studies do not suggest iron deficiency. Jersy Jarzyna negative.
+.
+#erythrocytosis-(upon admission). Likely secondary to
+significant volume de123 Any St.n on admission. However, one could
+consider hemochromatosis given this, with DM and elevated
+ferritin level. However, transferrin saturation is 18.5%, not
+suggestive. Denied any joint pain. Ferritin elevation and iron
+overload can occur in insulin resistant states per uptodate.
+Resolved with IV fluid re123 Any St.n. HCT on discharge stable at
+38.3
+.
+#electrolyte derrangements-hypernatremia, hyperkalemia,
+hypokalemia-likely secondary to volume de123 Any St.n in the setting
+of osmotic diuresis as well as fluid shifts in the insulin
+deficient state. Electrolytes monitored closely and repleted
+prn.
+.
+TRANSITIONAL ISSUES
+1.ongoing diabetic care-eye exam, foot exams, proteinuria
+screening. Consideration of starting ASA, ACEI
+2.age appropriate cancer screening
+3.follow up platelet count at PCP appointment on 2009-11-05 00:00:00 to
+ensure improvement or to determine need for further work up or
+hematology referral.
+4.electrolyte monitoring
+
+Medications on Admission:
+multivitamin daily
+
+
+Discharge Medications:
+1. Humalog 100 unit/mL Solution Sig: 2-18 units Subcutaneous
+QIDACHS: per attached attached sliding scale.
+Disp:*1 bottle* Refills:*2*
+2. insulin glargine 100 unit/mL Solution Sig: Twenty Eight (28)
+units Subcutaneous at bedtime.
+Disp:*1 bottle* Refills:*2*
+3. glucometer
+1 glucometer for use as directed.
+4. Alcohol Prep Swabs     Pads, Medicated Sig: One (1)  Topical
+four times a day: for testing QIDACHS.
+Disp:*1 box* Refills:*2*
+5. syringe with needle (disp) 3 mL 22 x 2009-11-05 00:00:00  Syringe Sig: One
+(1)  Miscellaneous as directed QIDACHS.
+Disp:*100 syringes* Refills:*2*
+6. Lancets,Ultra Thin     Misc Sig: One (1)  Miscellaneous
+QIDACHS: for testing before meals and at bedtime.
+Disp:*120 qs* Refills:*2*
+7. glucometer test strips
+glucometer testing strips.
+For use as directed. To use with glucometer to check blood sugar
+QIDACHS
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+diabetic ketoacidosis
+metabolic acidosis
+hyperkalemia, hypokalemia
+hypophosphatemia
+weight loss
+acute renal failure
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted for evaluation of fatigue, excessive thirst
+and urination and found to have a new diagnosis of diabetes. Due
+to your significant elevation in blood sugar, you were also
+found to have dehydration and electrolyte abnormalities that
+resolved with treatment. You had teaching regarding insulin
+administration and following a diabetic diet. Your blood sugar
+improved. Going forward, please be sure to follow a diabetic
+diet and check your blood sugars before each meal and at
+bedtime. Please use the attached "insulin sliding scale" to give
+yourself insulin accordingly. You have elected to follow up with
+Reily Diabetes Center for ongoing care.
+.
+You also mentioned an unintentional weight loss prior to
+admission. This could be due to diabetes. However, please be
+sure to follow up with your PCP Reily. Dhylan to ensure that you
+have had the recommended age appropriate cancer screening
+(colonoscopy, pap smear, mammogram).
+.
+Medication changes:
+1.start glargine (long acting) insulin nightly.
+2.start humalog insulin (Short acting) sliding scale before each
+meal and bedtime
+.
+Please take all of your medications as prescribed and follow up
+with the appointments below.
+
+Followup Instructions:
+Department: Primary Care
+Name: Dr. Reily Dhylan Reily
+When: Friday 2009-11-05 00:00:00 at 1:00 PM
+Location: UPMCE
+Address: 123 Any St.,[**Numeric Identifier 637**]
+Phone: test@mail.com
+
+Department: Endocrinology
+Reily Diabetes Center
+123 Any St.
+123 Any St., [**Numeric Identifier 711**]
+Phone: test@mail.com
+Notes: Please call the Reily Diabetes Center to make a hospital
+follow up appointment for 1 weeks after your hospital discharge.
+The office is closed today. Please be sure to call on monday.
+
+
+

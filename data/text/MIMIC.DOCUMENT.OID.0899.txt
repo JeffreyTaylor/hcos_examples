@@ -1,0 +1,418 @@
+Admission Date:  2005-04-18 00:00:00              Discharge Date:   2005-04-18 00:00:00
+
+Date of Birth: 1921-04-15 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Djamila Ledy
+Chief Complaint:
+Hypoxia
+Posterior hip dislocation
+
+Major Surgical or Invasive Procedure:
+Reduction of left posterior hip dislocation
+PICC line insertion
+
+History of Present Illness:
+78M with hx of CABG in 2005-04-18 00:00:00, CAD, DM hx of hip frequent
+dislocation of artificial L hip, tripped over rug in apartment
+and fell, no Head strike or LOc. He felt hip Djamila Ledy out. In the ED,
+initial VS were:97.3 108 144/75 16, no O2 sat recorded, 3L
+NC(recorded).However resident noted patient to be tachypneic at
+35 hypoxic to 50. Patient did note several hours of shortness of
+breath today upon further questioning. CXR showed R pulmonary
+edema vs infiltrate, placed on NRB, then sats to mid90s-100. A
+CT scan was negative for PE, but did show right sided pneumonia,
+possible aspiration. Patient noted to have elevated lactate 4.4.
+WBC 2.8 with N:59.5 L:33.2 M:5.4 E:0.9 Bas:1.0.
+Vanc/Zosyn/Levoflox given. Trop of 0.05. EKG: sinus 92 NA, IV
+conduction delay ST depression I and aVL.
+.
+In ED, Ortho consulted and patient had procedural sedation with
+with fent (100)/versed (4) hip successfully reduced in ED.
+Reversed sedation with flumazenil (0.2)/narcan (2), Got 2L IV
+fluids for the lactate.
+.
+On arrival to the MICU, patient's VS. 97.7/ 81/112/69/13 100%
+NRB. On recheck 91% on RA. 97% on 2L. patient denied any Chest
+pain/SOB. Feels very well and is surprised to be admitted.
+
+
+Past Medical History:
+Coronary artery disease status post CABG, 2005-04-18 00:00:00
+Diabetes recently stopped glyburide and metformin per his doctor
+Emnet
+Smolenski, muscle weakness, NOS
+spinal stenosis, lumbar
+MITRAL INSUF/AORT STENOS
+PVD, NOS
+HL
+
+
+Social History:
+Social History: Lives by himself. Has a home care nurse Emnet Smolenskis every 2 weeks. Uses a walker or cane and scooter when out
+of apartment. No smoking, no alcohol, no rec drugs. has a Niece
+Emnet Smolenski Emnet Smolenski who lives in UPMCE test@mail.com (cell)
+test@mail.com (work) is HCP according to patient.
+
+
+Family History:
+Family History: Father with MI in 50s. Brother with MI in 50s.
+No history of cancer
+
+
+Physical Exam:
+Vitals:  97.7/ 81/112/69/13 100% NRB
+General: Alert, oriented x3, no acute distress, NRB in place
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, holosystolic murmur
+radiates to both axilla and carotids, rubs, gallops
+Lungs:rales in bilateral lung bases R>L., no wheezes, occasional
+ronchi
+Abdomen: soft, non-distended, bowel sounds present, no
+organomegaly, no tenderness to palpation, no rebound or guarding
+GU: no foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred. Left leg in knee immobilizer
+
+
+Pertinent Results:
+ADMISSION
+2005-04-18 00:00:00 09:45AM BLOOD WBC-2.8* RBC-3.81* Hgb-10.3* Hct-35.3*
+MCV-93 MCH-27.2# MCHC-29.3*# RDW-14.1 Plt Ct-144*
+2005-04-18 00:00:00 07:36AM BLOOD Hct-28.4*
+2005-04-18 00:00:00 12:05PM BLOOD Hct-29.7*
+2005-04-18 00:00:00 09:45AM BLOOD PT-10.4 PTT-25.9 INR(PT)-1.0
+2005-04-18 00:00:00 04:24AM BLOOD Plt Ct-100*
+2005-04-18 00:00:00 09:45AM BLOOD Neuts-59.5 Lymphs-33.2 Monos-5.4 Eos-0.9
+Baso-1.0
+2005-04-18 00:00:00 04:24AM BLOOD Ret Aut-2.4
+2005-04-18 00:00:00 09:45AM BLOOD Glucose-322* UreaN-23* Creat-0.6 Na-139
+K-4.0 Cl-98 HCO3-29 AnGap-16
+2005-04-18 00:00:00 04:24AM BLOOD Glucose-113* UreaN-14 Creat-0.4* Na-138
+K-4.0 Cl-104 HCO3-30 AnGap-8
+2005-04-18 00:00:00 09:45AM BLOOD CK(CPK)-216
+2005-04-18 00:00:00 03:57PM BLOOD ALT-29 AST-46* LD(LDH)-225 CK(CPK)-482*
+AlkPhos-51 TotBili-0.3
+2005-04-18 00:00:00 08:54PM BLOOD CK(CPK)-516*
+2005-04-18 00:00:00 04:24AM BLOOD LD(LDH)-214 CK(CPK)-395* TotBili-0.3
+2005-04-18 00:00:00 12:05PM BLOOD CK(CPK)-379*
+2005-04-18 00:00:00 09:45AM BLOOD CK-MB-8
+2005-04-18 00:00:00 09:45AM BLOOD cTropnT-0.05*
+2005-04-18 00:00:00 03:57PM BLOOD CK-MB-15* MB Indx-3.1 cTropnT-0.34*
+2005-04-18 00:00:00 08:54PM BLOOD CK-MB-15* MB Indx-2.9 cTropnT-0.37*
+2005-04-18 00:00:00 04:24AM BLOOD CK-MB-11* MB Indx-2.8 cTropnT-0.25*
+2005-04-18 00:00:00 12:05PM BLOOD CK-MB-10 MB Indx-2.6 cTropnT-0.19*
+2005-04-18 00:00:00 04:24AM BLOOD Calcium-8.3* Phos-3.0 Mg-2.0
+2005-04-18 00:00:00 04:24AM BLOOD Hapto-48
+2005-04-18 00:00:00 04:18PM BLOOD Type-Smolenski pH-7.29* Comment-GREEN TOP
+2005-04-18 00:00:00 04:18PM BLOOD Lactate-0.9
+2005-04-18 00:00:00 09:56AM BLOOD Lactate-4.4*
+2005-04-18 00:00:00 04:18PM BLOOD freeCa-1.02*
+2005-04-18 00:00:00 11:45AM URINE Color-Yellow Appear-Clear Sp Smolenski-1.029
+2005-04-18 00:00:00 11:45AM URINE Blood-NEG Nitrite-NEG Protein-30
+Glucose-1000 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+2005-04-18 00:00:00 11:45AM URINE RBC-3* WBC-1 Bacteri-NONE Yeast-NONE
+Epi-0
+2005-04-18 00:00:00 11:45AM URINE CastHy-1*
+2005-04-18 00:00:00 11:45AM URINE Mucous-RARE
+
+DISCHARGE
+2005-04-18 00:00:00 06:15AM BLOOD WBC-1.9* RBC-3.33* Hgb-8.9* Hct-29.1*
+MCV-87 MCH-26.8* MCHC-30.6* RDW-13.9 Plt Ct-125*
+2005-04-18 00:00:00 06:05AM BLOOD Neuts-58.9 Lymphs-29.5 Monos-9.1 Eos-2.2
+Baso-0.4
+2005-04-18 00:00:00 06:15AM BLOOD ESR-15
+2005-04-18 00:00:00 06:15AM BLOOD Glucose-126* UreaN-11 Creat-0.5 Na-141
+K-3.6 Cl-99 HCO3-33* AnGap-13
+2005-04-18 00:00:00 06:05AM BLOOD ALT-23 AST-28 LD(LDH)-225 AlkPhos-63
+TotBili-0.3
+2005-04-18 00:00:00 06:15AM BLOOD Calcium-8.8 Phos-3.8 Mg-2.3
+2005-04-18 00:00:00 06:15AM BLOOD CRP-5.8*
+
+MICRO
+Blood Culture, Routine (123 Any St.inary):
+      SENSITIVITIES REQUESTED BY DR.Djamila Ledy ([**Numeric Identifier 6020**]) ON 2005-04-18 00:00:00.
+      VIRIDANS STREPTOCOCCI.    OF TWO COLONIAL MORPHOLOGIES.
+         Isolated from only one set in the 123 Any St.us five days.
+
+   Anaerobic Bottle Gram Stain (Final 2005-04-18 00:00:00):
+      Reported to and read back by DR. Smolenski. ROSE ON 2005-04-18 00:00:00 AT
+0145.
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+-2005-04-18 00:00:00 blood cxs are no growth to date
+
+CHEST (PORTABLE AP) Study Date of 2005-04-18 00:00:00 9:47 AM
+IMPRESSION: Increased hazy opacity in the right lung,
+predominantly in the right greater than left base, which could
+represent asymmetric edema versus aspiration or infection. No
+pneumothorax. No laboratory data is available at the time of
+interpretation, which should be correlated as well as with
+clinical presentation.
+
+HIP UNILAT MIN 2 VIEWS LEFT PORT Study Date of 2005-04-18 00:00:00 10:13 AM
+
+IMPRESSION: Findings consistent with posterior dislocation of
+the prosthetic femoral head from the acetabular cup.
+
+CTA CHEST W&W/O C&RECONS, NON-CORONARY Study Date of 2005-04-18 00:00:00
+11:04 AM
+IMPRESSION:
+1. Bilateral lower lobe consolidations, likely reflecting
+pneumonia and/or aspiration, worse on the right.
+2. Right upper lobe and left apical ground-glass opacities, with
+neighboring smooth septal wall thickening, likely reflecting
+combination  of inflammation/infection and mild edema.
+3. No pulmonary embolus detected to the subsegmental levels. No
+acute
+dissection.
+4. Mildly prominent left para-aortic lymph node/
+
+Portable TTE (Complete) Done 2005-04-18 00:00:00 at 9:53:07 AM
+Conclusions
+The left atrium is mildly dilated. There is moderate symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is normal. Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Overall left
+ventricular systolic function is probably normal (LVEF~55%).
+Tissue Doppler imaging suggests a normal left ventricular
+filling pressure (PCWP<12mmHg). Right ventricular chamber size
+and free wall motion are normal. There is abnormal septal
+motion/position consistent with right ventricular
+pressure/volume overload. The ascending aorta is mildly dilated.
+The aortic valve leaflets are severely thickened/deformed. There
+is moderate to severe aortic valve stenosis (valve area
+~1.0cm2). Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+The left ventricular inflow pattern suggests impaired
+relaxation. There is no pericardial effusion.
+
+CHEST (PORTABLE AP) Study Date of 2005-04-18 00:00:00 7:59 AM
+FINDINGS: As compared to the 123 Any St.us radiograph, there is
+marked improvement of the pre-existing right parenchymal
+opacity. On the left, there is unchanged evidence of moderate
+retrocardiac atelectasis, potentially combined to a minimal left
+pleural effusion. Unchanged status post CABG with stable size of
+the cardiac silhouette and stable sternal wires.
+
+PELVIS AP 2005-04-18 00:00:00 There is some relocation of the left total hip
+arthroplasty. There is some asymmetric positioning of the
+femoral head suggestive of polyethylene liner wear with the
+femoral head positioned slightly more superolaterally within the
+center. No periprosthetic fractures are seen. Vascular
+calcifications are present.
+
+
+Brief Hospital Course:
+78M with hx of CAD s/p CABG, L THA with Left hip dislocation s/p
+reduction, here with hypoxia in setting of likely
+pneumonia/aspiration.
+.
+ACTIVE ISSUES
+.
+#Aspiration Pneumonia with Strep Viridans Bacteremia. Patient
+presented with dyspnea, elevated lactate, hypoxia, and CXR/CT
+with evidence of pneumonia vs aspiration pneumonitis. Patient
+initially received vancomycin, levofloxacin, and ceftriaxone for
+likely community-acquired v aspiration PNA. He was initially
+admitted to the MICU as he required a non-rebreather but he was
+quickly transitioned to nasal cannula and sent to the floor. He
+continued to improve clinically, remaining afebrile and without
+leukocytosis or an oxygen requirement. One of 4 blood cultures
+was postive for gram positive cocci, so vancomycin was also
+started. When the blood culture speciated to Streptococcus
+viridans, vancomycin was discontinued and he was kept on
+ceftriaxone and levofloxacin. TEE could not be performed to rule
+out endocarditis due to his tenuous aortic valve but as patient
+appeared clinically well and had a very low-grade bacteremia
+(only one positive culture out of many bottles), CRP/ESR were
+low and TTE was negative for vegetations, there was a low
+suspicion for endocarditis so ID recommended he be treated for
+two weeks of IV antibiotics for his bacteremia until 2005-04-18 00:00:00.
+Patient was discharged on oral levofloxacin as well to cover for
+atypical organisms.
+.
+#Elevated Troponin. Presented with troponin of 0.05 that peaked
+at 0.37. Cardiology was consulted who felt this was due to
+demand ischemia in the setting of his fall. Patient was without
+chest pain throughout his stay. EKG showed no acute changes only
+borderline ST depressions in I and aVL. He was placed on ASA,
+metoprolol 12.5mg UPMCE, and continued on his statin. Cardiology
+agreed with plan, and recommended considering an ACE-I, however
+his outpatient cardiologist did not want to start it. Patient
+remained chest pain free with stable EKGs throughout his stay.
+.
+#Left hip dislocation. Patient with total hip arthroplasty of
+left hip many years ago and has had multiple dislocations in
+past, this presentation is similar to his 123 Any St.us. It was
+reduced successfully in the ED. Patient was initially placed in
+a lower lumbar to hip brace by orthopedics with restrictions on
+movement that were gradually loosened. At the time of discharge
+they recommended keeping him in the brace when out of bed only
+and with a maximum of 70 degrees hip flexion. At night, he
+should wear an abduction pillow. They recommended he continue in
+these braces until his hip can be evaluated for surgical repair.
+
+.
+CHRONIC ISSUES
+.
+#Aortic Stenosis: TTE on this admission showed severe AS (valve
+area 1.0cm2) with otherwise preserved EF.
+.
+#DM. Maintained on insulin sliding scale in house.
+Diet-controlled.
+.
+#HTN. Continued lasix 20mg daily, switched atenolol 12.5mg daily
+to metop 12.5 UPMCE.
+.
+#HL. Continued rosuvastatin 5mg daily
+.
+#GERD. Continued omeprazole 20mg daily.
+.
+# Melanoma: Followed at VA. Was scheduled for biopsy this week
+which he missed due to this hospitalization. He is to follow-up
+with dermatology next week here at UPMCE for an urgent
+appointment.
+.
+TRANSITIONAL ISSUES
+- Given his severe aortic stenosis, patient will likely require
+cardiac evaluation to determine whether he is a candidate for
+hip surgery
+- Patient will need follow-up for his melanoma. We have arranged
+an appointment for him at UPMCE for next week for biopsy.
+- Patient will require repeat blood cultures two weeks after he
+has completed his antibiotic course to make sure his infection
+has cleared
+
+Medications on Admission:
+Lasix 20mg qday
+multivitamin qday
+omeprazole 20mg qday
+atenolol 12.5mg qday
+Calcarb 600 With Vitamin D 1tab qday
+lactulose 10g/15mL 1tblespoon as needed for constipation
+Ecotrin 81mg qday
+tylenol 650 qday
+rosuvastatin 5mg qday
+
+
+Discharge Medications:
+1. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+3. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain/fever.
+6. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 3 days.
+7. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+8. rosuvastatin 5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+10. lactulose 10 gram/15 mL Solution Sig: One (1)  PO once a day
+as needed for constipation.
+11. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+12. ceftriaxone in dextrose,iso-os 1 gram/50 mL Piggyback Sig:
+One (1) unit Intravenous Q24H (every 24 hours) for 10 days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the 123 Any St.
+
+Discharge Diagnosis:
+PRIMARY
+Hip dislocation
+Aspiration Pneumonia
+Demand ischemia
+.
+SECONDARY
+HTN
+HL
+Aortic stenosis
+Coronary artery disease
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+Discharge Instructions:
+Dear Mr. Smolenski,
+  You were admitted to UPMCE because you fell, dislocated your
+hip, and were found to have trouble breathing. Your hip was put
+back into place by our orthopedic surgeons who felt you should
+wear a brace to help keep your joint in place. You will likely
+require surgery to repair this hip. We have scheduled
+appointments with an orthopedic surgeon to evaluate your hip.
+You will need to talk to your cardiologist to determine whether
+you are a good candidate for surgery given your narrow aortic
+valve.
+
+Your shortness of breath was thought to be due to some
+accidental swallowing of your stomach contents during your fall.
+We treated you with antibiotics and your breathing improved
+quickly. However, some bacteria was found in your blood, likely
+coming from this infection in your lungs. As a result you will
+need to be on intravenous antibiotics to make sure that all the
+bacteria in your blood is gone.
+
+For the lesions on your nose, we have arranged for the UPMCE
+dermatologists to see you next week to determine whether it is
+melanoma. Please bring your records from the VA with you to this
+appointment.
+
+The following medications were changed during this
+hospitalization:
+START ceftriaxone intravenously for a total of two weeks to end
+on 2005-04-18 00:00:00
+START levofloxacin until 2005-04-18 00:00:00
+STOP atenolol and START metoprolol 12.5mg twice a day
+.
+Please continue your other medications as 123 Any St.usly prescribed
+
+Followup Instructions:
+The doctor at rehab will follow-up this hospitalization. They
+will schedule you for an appointment with your PCP upon
+discharge.
+
+Department: ORTHOPEDICS
+When: THURSDAY 2005-04-18 00:00:00 at 11:10 AM
+With: ORTHO XRAY (SCC 2) test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: ORTHOPEDICS
+When: THURSDAY 2005-04-18 00:00:00 at 11:30 AM
+With: [**First Name4 (NamePattern1) 6023**] Smolenski, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: DERMATOLOGY
+When: THURSDAY 2005-04-18 00:00:00 at 2:00 PM
+With: Emnet Smolenski Emnet Smolenski, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+Please bring your dermatologic records from the VA to this
+appointment if possible.
+
+

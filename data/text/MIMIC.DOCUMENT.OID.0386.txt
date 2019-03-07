@@ -1,0 +1,359 @@
+Admission Date:  2009-01-22 00:00:00              Discharge Date:   2009-01-22 00:00:00
+
+Date of Birth: 1998-01-22 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Lisinopril / Aspirin Enteric Coated
+
+Attending:Zuriah George
+Chief Complaint:
+Abdominal Distention
+Nausea and Vomiting
+
+Major Surgical or Invasive Procedure:
+2009-01-22 00:00:00:
+1.  Lysis of single strand adhesion with derotation of a
+    volvulus
+2.  Placement of a nasogastric tube
+
+2009-01-22 00:00:00: Second look laparotomy
+
+
+History of Present Illness:
+79M s/p repair of AAA 2009-01-22 00:00:00 presents with abdominal distention,
+nausea and vomiting.
+
+Past Medical History:
+CAD (s/p CABG),
+HTN,
+^lipid,
+MGUS,
+DJD,
+Orthostatic syncope,
+L4-5 disc herniation.
+
+Social History:
++Tobacco; +ETOH
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Admission Physical Exam-  2009-01-22 00:00:00
+
+97.5  68  162/72  18  94%
+
+comfortable
+no icterus/jaundice
+neck supple
+CTAB
+CV regular
+abdomen distended, NT, easily reducible (R)inguinal hernia
+ext palpable DP (B), no edema
+
+Pertinent Results:
+CTA ABD W&W/O C & RECONS  2009-01-22 00:00:00 3:43 AM
+FINDINGS: Abdomen, the evaluation of upper abdomen is somewhat
+limited due to motion artifact. The oral contrast seen mostly in
+stomach and duodenum, and duodenum is dilated, measuring 4.3 cm.
+There is ascites anterior to the liver, overall unchanged since
+prior study. In this study, no focal liver lesion is seen.
+Gallbladder, spleen, pancreas, adrenal glands and kidneys are
+unchanged with renal cyst with perinephritic fat stranding. The
+patient is status post aortic aneurysm repair with surgical
+clips. There is no evidence of leak or hematoma. There is small
+amount of soft tissue surrounding the abdominal aorta at the
+level of surgery at just below the renal arteries, however, the
+soft tissue has markedly decreased since prior study.
+
+There is markedly dilated loops of small bowel, mostly in mid
+lower pelvis, measuring up to 3.2 cm associated with moderate
+amount of ascites, new cyst prior study. The distal small bowel
+is collapsed, and oral contrast has not reached the small bowel.
+There are two possible transitional point, one in left lower
+quadrant and the other one in right lower quadrant. The finding
+is representing small-bowel obstruction, and its also worrisome
+for closed loop obstruction or ischemia given the presence of
+ascites. However, SMA and its branches opacified. There is no
+significant lymphadenopathy. The visualized portion of the large
+bowel is within normal limits. There is no evidence of free air.
+
+In the visualized portion of the lung bases, note is made of
+basilar atelectasis with left pleural effusion. Aspiration or
+aspiration pneumonia in this area cannot be totally excluded.
+
+There is marked degeneration of lumbar spine with vacuum
+phenomena. There is no suspicious lytic or blastic lesion in
+skeletal structures.
+
+IMPRESSION:
+1. Markedly dilated loops of small bowel in mid lower pelvis
+associated with moderate amount of ascites, with collapsed
+distal small bowel, representing high grade mechanical
+small-bowel obstruction, worrisome for closed loop. SMA and its
+branches opacified, however, given the presence of ascites,
+presence of ischemia cannot be excluded. Urgent clinical
+attention is needed.
+2. Dilated and fluid-filled duodenum as described above.
+3. Persistent ascites anterior to the liver.
+4. Status post AAA repair, without evidence of leak.
+5. Renal cyst.
+
+Operative Note 2009-01-22 00:00:00
+
+PREOPERATIVE DIAGNOSIS:  Acute small-bowel obstruction.
+
+POSTOPERATIVE DIAGNOSIS:  Acute small-bowel obstruction with
+volvulus and an internal hernia.
+
+PROCEDURES:
+1.  Lysis of single strand adhesion with derotation of a
+    volvulus.
+2.  Placement of a nasogastric tube.
+
+ASSISTANT:  Gussie Vasek, RES and Gussie Vasek Gussie Vasek, MD.
+
+ANESTHESIA:  General.
+
+SURGICAL FINDINGS:  This elderly male, status post aortic
+aneurysmectomy some months ago, presented with a 2 day
+history of vomiting. He denied abdominal pain and had no
+acute abdominal findings, however, his white blood cell count
+was elevated to 11,000. He was brought to surgery.
+Unfortunately, without an NG tube, as we were totally unable
+to pass it through his nares, it was elected to go ahead and
+protect his airway, intubate him, and then have ENT assist
+with placement if we could not do it with him asleep.
+
+He was, therefore, brought to surgery, anesthetized and an OG
+was put into place and approximately 2 liters of feculent
+material were recovered from the stomach. The airway was
+protected throughout the entire time. Having accomplished
+this he had usual prep and draping and had a midline
+incision. The bowel was very compromised, appeared to be
+necrotic through approximately 60% of the bowel. He
+additionally had some some telangiectasias noted on the
+mesenteric surface and the jejunum and the LAO areas. He had
+a single banjo string adhesion across the base of the
+mesentery creating an internal hernia through which he had
+volvulized a significant component of his bowel. After this
+was taken down with electrocautery to control bleeding the
+bowel was derotated. The patient did not manifest any unusual
+acid reperfusion syndrome at that point, however, the bowel
+over the next ensuing 20 minutes did pink up significantly
+but still had a significant hemorrhagic aspect to it. There
+was also a lot of hemorrhage into the mesentery. Based on
+this it was decided that we should do a second look
+laparotomy the following day for bowel viability. Since the
+bowel looked so much better we did not want to resect a large
+component that was effected.
+
+Prior to com123 Any St.n of the procedure the patient had the OG
+removed and we still could not place an NG tube with the
+patient anesthetized so the ENT service came to the room,
+visualized the nares with a scope and placed mucosal
+vasoconstrictors and ultimately was able to thread an NG tube
+through the nose. During the course of the operation we had
+given considerations to doing a gastrostomy, however, prior
+to the operation I had been advised by the patient's
+cardiologist that he was quite noncompliant and that could be
+a problem in the postoperative management. Therefore, in an
+effort to avoid someone pulling out a tube we decided not to
+place it if we could get the NG tube.
+
+OPERATION:  Under adequate general endotracheal anesthesia
+the patient was prepped and draped in the usual fashion. The
+midline incision was opened and the above noted findings were
+observed. He had significant adhesions of the omentum to the
+anterior abdominal wall which were taken down but once we
+entered the post omental aspect he was fairly free of
+adhesions. The necrotic bowel and feculent smell immediately
+met us. We were able to identify the banjo string adhesion
+very promptly and lyse that, first with electrocautery to
+control any bleeding and then sharply with the Metzenbaum
+scissors to actually divide the strand. Once this occurred we
+were able to derotate the bowel and as noted above it, over
+the ensuing several minutes, pinked up fairly well. The bowel
+was run along its entire course on 2 different runs to make
+sure there was no perforation and to assess for viability.
+The remainder of the abdomen was explored and there was found
+to be no issues. The retroperitoneum was intact without
+hemorrhage in or around the aortic graft and there appeared
+to be [**Last Name **] problem associated with that. After a significant
+amount of time in the operating room we re-visualized the
+bowel and the bowel actually had gotten much better in
+appearance but was still quite dusky looking. Because of my
+lack of confidence that this was going to be recovered bowel
+we decided to not leave him on the table longer but to just
+simply bring him back to surgery the next day for a 2nd look.
+
+Based on this and having an, otherwise, negative exploration
+of his abdomen the patient had closure with running #1 double
+looped PDS. The skin was closed with skin staples. Sterile
+dressing was applied and the patient was reversed from
+anesthesia and returned to the ICU for further ongoing
+resuscitation. ENT service had been able to successfully
+place the NG tube and it was elected not to place a
+gastrostomy tube unless it was necessary on re-evaluation the
+next day. Sponge, needle and instrument count were correct
+x2.
+
+Please note this is a re-dictation of an OP note which was
+apparently not able to be found.
+
+Operative Note- 2009-01-22 00:00:00
+
+PREOPERATIVE DIAGNOSES:  Small bowel ischemia.
+
+POSTOPERATIVE DIAGNOSES:  Bowel in recovery.
+
+OPERATION:  Second look laparotomy.
+
+ASSISTANT:  Gussie Vasek, RES
+Zuriah George, M.D.
+
+ANESTHESIA:  General
+
+FINDINGS:  This 79-year-old male presenting acutely with a
+small bowel obstruction 24 hours ago had exploratory
+laparotomy. He had a single band adhesion around the base of
+the mesentery with a large component of the small bowel,
+approximately 60%, quite compromised with venous congestion
+and ischemia. He was derotated and his mesenteric obstruction
+was relieved, however, in an effort to preserve bowel he was
+closed, resuscitated overnight and brought back to surgery
+today for a second look laparotomy. At surgery today he had
+recovering bowel identified. There were no areas of frank
+necrosis. There were areas of obvious suspected mucosal
+sloughing and there was blood in the right colon which would
+be consistent with a mucosal slough. The mesenteric hematomas
+and congestion had cleared out almost entirely and a
+subserosal lesion which was questioned on the first operation
+had totally disappeared. Therefore, it represented a
+lymphangiectasia which was dilated secondary to mesenteric
+compromise.
+
+The patient had an abdominal wash out. All of the entire
+abdomen was inspected. The NG tube was confirmed to be a good
+location and we reclosed.
+
+PROCEDURE:  Under adequate general anesthesia, the patient
+was prepped and draped in the usual fashion. The midline
+incision was reopened and the abdomen was explored. There was
+a fair amount of blood and even feculent smelling exudate in
+the abdomen. This was all washed out with gentle warm lavage.
+Having accomplished that, the bowel was run in its entirety
+including the colon. The stomach and the duodenum were noted
+to be normal in appearance. The NG tube was in good position.
+
+The small bowel was run from the ligament of Treitz to the
+ileocecal valve twice to make sure there were no areas of
+necrosis or pinpoint perforation, primarily because of the
+odor that was present in the abdomen. After we had totally
+irrigated the resident fluid out of the abdomen, it was much
+better and there was no unusual odor. There was no
+demonstrable fecal leaks and there was no demonstrable small-
+bowel necrosis. Based on this, the patient had a second
+lavage. The omentum was pulled down over the small bowel and
+closure was effected using double looped PDS to the fascial
+layers. The skin was closed with staples. Sterile dressing
+was reapplied. The patient was partially reversed from
+anesthesia but kept on the ventilator and returned the ICU
+for ongoing resuscitation. During the course of the
+operation, because of his blood loss overnight, he was given
+1 unit of blood and 350 cc of crystalloid.
+
+
+Brief Hospital Course:
+Gussie Vasek was evaluated in the emergency department at UPMCE on
+2009-01-22 00:00:00. Initial WBC count was 9.2.  KUB showed dilated loops
+of small bowel with air-fluid level, worrisome for small bowel
+obstruction. He was made NPO and IV fluids were started. An NGT
+was attempted several times without success.  He was admitted to
+the surgery department under the care of Dr. Zuriah George. There was
+reattempt at NGT placement without success.  Repeat WBC count
+was 12.6.  Urinalysis was negative for infection. CTA of the
+abdomen/pelvis was completed which showed markedly dilated loops
+of small bowel in mid lower pelvis associated with moderate
+amount of ascites, with collapsed distal small bowel,
+representing high grade mechanical small-bowel obstruction,
+worrisome for closed loop. There was no evidence of AAA leak.
+Given these findings he was taken to the operating room where he
+underwent lysis of a single strand adhesion with derotation of a
+volvulus; and placement of a nasogastric tube. He tolerated the
+procedure well and was taken to the ICU. At POD 1 he was taken
+back to the opertating room, as planned, in order to reevaluate
+the condition of the bowel after resuscitation overnight.
+Recovering bowel was identified with no areas of necrosis. The
+small bowel was run from the ligament of Treitz to the
+ileocecal valve twice to make sure there were no areas of
+necrosis or pinpoint perforation and his abdomen copiously
+irrigated. He tolerated the procedure well and was returned to
+the ICU for continued care. At POD 1 he was extubated.  WBC
+count was 6.9; HCT was 28.5.  Urine output was adequate.
+Ciprofloxacin/Flagyl/Ampicillin were continued for empiric
+coverage. At POD 2009-01-22 00:00:00 he was transferred to the floor.  The NG
+tube had been accidentally removed.  He remained NPO.  At POD
+2009-01-22 00:00:00 he was afebrile and doing well.  He was +flatus and his diet
+was advanced to clears. The urinary catheter was removed.  At
+POD 2009-01-22 00:00:00 he was tolerating clear liquids.  His WBC count was 6.1.
+ He was OOB and ambulating.
+
+On 2009-01-22 00:00:00 he was discharged home in good condition. He was to
+follow up with Dr. Zuriah George in clinic in 2009-01-22 00:00:00 weeks.
+
+Medications on Admission:
+Atenolol
+ASA
+Lovastatin
+Relafen
+Senna
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day as needed for constipation: Please hold for loose stools.
+.
+Disp:*60 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Acute small-bowel obstruction with
+volvulus and an internal hernia
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Please return or contact for:
+* Fever (>101 F) or chills
+* Abdominal Pain
+* Nausea or vomiting
+* Inability to pass gas or stool
+* Redness, drainage or bleeding from incision site
+* Chest pain
+* Shortness of breath
+* Any other concerns
+
+You may shower; gently wash incision and pat dry.  No tub baths
+or swimming for two weeks.  The staples will be removed at your
+next clinic visit.
+Please resume your home medications as prescribed. Please do not
+drive while taking pain medications.
+
+Followup Instructions:
+Please follow up with Dr. Zuriah George in clinic in 2009-01-22 00:00:00 weeks. Please
+call for an appointment. The number is test@mail.com.  You may
+also call this number for any questions or concerns.
+
+
+
+Completed by:2009-01-22 00:00:00

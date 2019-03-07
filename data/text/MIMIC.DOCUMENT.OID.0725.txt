@@ -1,0 +1,335 @@
+Admission Date:  2010-10-23 00:00:00              Discharge Date:   2010-10-23 00:00:00
+
+Date of Birth: 1969-10-03 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ibuprofen
+
+Attending:Demarquis Pressimone
+Chief Complaint:
+lethargy
+
+Major Surgical or Invasive Procedure:
+intubation x2
+colonoscopy
+EGD
+right femoral line
+left sunclavian line
+left cordis with Swan
+arterial line
+
+
+History of Present Illness:
+The pt is a 50yo M with PMHx significant for alcohol abuse and
+CAD with multiple MI's, prior MI 2010-10-23 00:00:00 with OM stent, and PCI at
+UPMCE 2010-10-23 00:00:00 of the proximal RCA and mid-RCA (both Taxus),
+LAD stent at UPMCE in 2010-10-23 00:00:00. The patient initially was in the
+UPMCE Hospital ED on 2010-10-23 00:00:00 with chest pain. EKG showed  NSR,
+nonspecific ST-T changes per report. The paitent left AMA before
+further w/u was done. He then presented to UPMCE via
+EMS on 2010-10-23 00:00:00 with increase lethergy and jaundice for the last
+three days. He was transfeed to UPMCE ED for a GIB and a HCT of
+21. He was transfused before transfer with 1 unit.
+.
+From the medicine admission note:
+Pt states he has never had liver problems or h/o jaundice, but
+has taken about 14 tylenol over past week for chronic back pain.
+Pt reports he was on an alcohol binge while in 123 Any St. one
+week ago. Around the time he came back he developed chest pain
+and was seen in the UPMCE ED where chest pain resolved
+with NG and he was discharged. Pt is very unclear about this -
+states that he had an MI but was only given SL NG and was
+discharged without admission. UPMCE was contactBarbaa Ammerman and
+they currently have no record of EKGs or other records
+indicating that pt was seen one week ago - at last communication
+with RN in ED of UPMCE, it was felt that perphaps visit had not
+yet been logged in to computer and will need to contact again
+tomorrow. Since that time he developed melena and jaundice. He
+denies dizziness or chest pain but in the UPMCE ED he
+was found to have elevated LFTs, Hct of 22, received 1u PRBC and
+transferred to UPMCE. Here pt refused EGD and NG lavage. In
+UPMCE ED received 2u PRBC, octreotide and PPIs as well as KCL
+for hypokalemia, N-acetylcysteine for elevated tylenol levels,
+and antibiotics for bandemia. RUQ showed gall baldder sludge but
+no bilary dilation. He was felt to have no ascites and so was
+not tapped. After receiving the two units of PRBC he desaturated
+to from 96% to 88% on RA. Received Lasix for volume overload
+.
+The paitent was then admitted to a medicine team via NF. He
+recieved a total of 3 transfusions here and his and his HCT has
+only gone up from 22.6 to 25.2. Also, he has having multiple
+episodes of melana. He went for an EGD today (2010-10-23 00:00:00) but was not
+coorperative despite midazloam 3mg and meperidene 75mg.  He also
+started to have hallucinations on the floor. Therefore, he was
+tx to the MICU for closer monitoring and intubation for EGD.
+.
+.
+ROS: denies CP, SOP, abd pain. Per wife, he always hs wheezing,
+not dx with a lung condition. He has been having increasing
+swelling in his left lower leg for the past 6 months.
+
+Past Medical History:
+-alcohol abuse - pt reports that he drinks 2-3 beers per day,
+denies DTs. no prior history of liver disease
+-CAD s/p MI 2010-10-23 00:00:00, stent LAD 2010-10-23 00:00:00, stent mid and prox RCA in 2010-10-23 00:00:00
+
+- Per wife, in 2010-10-23 00:00:00, the patient had a motorcycle accident and
+broke his femur and had compartment syndrome leading to a
+fasicotomy in the right lower leg. He has had multiple DVT's
+since in that leg.
+- herniated lumbar disc with sciatica, on chronic pain
+medications
+
+
+Social History:
+90 tobacco pack yr history, lives alone, drinks beer and liquor
+2010-10-23 00:00:00 drinks per day, on diasbilty for the last 10 years
+Per the patient's wife: The patient has a h/o a sucide attempt
+by cutting his wrists 5 years ago. She dose not know of any
+inpatient ETOH detox stays, DT,s or seizures. The patient has
+been living alone for the last 6 months becaue she could not
+tolerate his drinking. recently, he has switched to vodka.
+
+Family History:
+multiple MI's
+
+Physical Exam:
+T 99.7 P 90  BP: 112/72, RR 20; O2sat 92% RA  95.8 KG
+Gen: Jaundiced, hallucinating
+HEENT: poor dentition, Sclera interic
+Neck: No LAD, No JVD
+Lungs: Lungs b/l wheezes
+CV: RRR nl s1s2 no mrg
+Abd: distended, diffusly tender to deep palpation, no rebound or
+gaurding, no ecchymosis, no spider angiomata, no caput medusae,
+no hepatomegaly, no Demarquis Pressimone sign  Liver edge not felt.
+Ext: cheonic LE edema, ?h/o fasicotomy. 2+ pitting edema to the
+knee on the left.
+Neuro: AAOX3, minor asterixis. hallucinating
+
+
+Pertinent Results:
+2010-10-23 00:00:00 from UPMCE: Total bili: 2010-10-23 00:00:00, CKMB: 1.16, Trop I: <0.15,
+CK: 38, AST: 242, ALT: 59, HCT 28Plts: 90,
+.
+2010-10-23 00:00:00 from UPMCE: HCT 21.8, K 2.5, Trop I 0.05, CK and MB not
+reported, ETOH: 327, BNP 418
+
+Admission labs:
+
+2010-10-23 00:00:00 05:50PM BLOOD WBC-6.9 RBC-1.96*# Hgb-8.0*# Hct-22.9*#
+MCV-117*# MCH-40.8*# MCHC-34.8 RDW-20.9* Plt Ct-77*
+2010-10-23 00:00:00 05:50PM BLOOD PT-14.0* PTT-35.4* INR(PT)-1.3
+2010-10-23 00:00:00 05:50PM BLOOD Glucose-74 UreaN-9 Creat-0.7 Na-132*
+K-2.9* Cl-88* HCO3-27 AnGap-20
+2010-10-23 00:00:00 05:50PM BLOOD ALT-33 AST-134* CK(CPK)-35* AlkPhos-327*
+Amylase-81 TotBili-18.5*
+2010-10-23 00:00:00 05:50PM BLOOD Albumin-2.4* Calcium-7.7* Phos-3.7 Mg-1.6
+2010-10-23 00:00:00 10:39AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE IgM HAV-NEGATIVE
+2010-10-23 00:00:00 05:50PM BLOOD ASA-NEG Ethanol-254* Acetmnp-5.6
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+Micro:
+
+Radiology:
+2010-10-23 00:00:00 RUQ US:  Echogenic liver consistent with fatty
+infiltration.  Other forms of liver disease including hepatitis
+and severe hepatic fibrosis/cirrhosis cannot be excluded on this
+examination.  Nondistended gallbladder containing sludge.
+Associated mild gallbladder wall edema is a non-specific finding
+which can be seen in low albumin states. No definite evidence
+for cholecystitis.
+
+2010-10-23 00:00:00 echo: EF 40%, 1. The left atrium is normal in size. The
+left atrium is elongated. The right  atrium is markedly dilated.
+ 2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity  is mildly dilated. Overall left ventricular
+systolic function is mildly  depressed. Resting regional wall
+motion abnormalities include basal and mid  inferior and
+inferolateral akinesis..  3.The aortic valve leaflets (3) are
+mildly thickened. No aortic regurgitation  is seen.
+4.The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral  regurgitation is seen.  5.Moderate [2+] tricuspid
+regurgitation is seen. There is moderate pulmonary  artery
+systolic hypertension.  6.There is no pericardial effusion.
+
+2010-10-23 00:00:00 CT abd: 1.  Markedly fatty liver containing a
+subcentimeter hypodense lesion that is too small to accurately
+characterize.  An additional focus of hyperdensity anteriorly
+within segment IV is incompletely characterized, and could
+represent a focus of fatty sparing.  6 month follow up CT is
+recommended. 2.  No evidence of mesenteric vascular occlusion or
+secondary signs of mesenteric ischemia.
+3.  Bibasilar atelectasis.
+
+2010-10-23 00:00:00 renal US: The right and left kidneys measure 12.8 and 13.2
+cm
+respectively without evidence of stones, masses or
+hydronephrosis.
+
+2010-10-23 00:00:00 CT torso: 1.  Patchy bilateral pulmonary opacities and
+dense bilateral lower lobe atelectasis and consolidation,
+findings that suggest infectious process superimposed upon
+atelectasis.  Bilateral pleural effusions. 2.  Fatty
+infiltration of the liver.  Interval increase in intraabdominal
+ascites. 3.  No definite evidence of free intraperitoneal air.
+Two foci of gas within the right lower quadrant are likely
+located within decompressed and non-opacified loops of small
+bowel.
+
+
+Brief Hospital Course:
+A/P: Pt is a 50yo man with anemia, GI bleed, liver
+insufficiency, hyperbilirubinemia, bandemia, elevated troponin
+with new EKG changes, desaturation consistent with volume
+overload, alcohol abuse. Could not tolerate EGD therefore
+transferred to the MICU for intubation and EGD.
+
+1.  Blood loss Anemia and GI bleed- Likley 2010-10-23 00:00:00 to GIB, acute on
+chronic since he was also anemic on 2010-10-23 00:00:00 at UPMCE. GI
+preformed EGD which showed gastropathy and grade I varices, no
+active or h/o bleeding.  He was transferred to MICU for
+intubation prior to this study. ABdominal CT scan revealed
+hyperdensity in the liver and fatty infiltration.  A colonoscopy
+showed a non-bleeding small polyp.  He was transfused to keep
+his hct>25.  Hematocrit was monitored daily, and hct was kept
+>25.
+
+2.  ESLD:  On admission, differential for this was tylenol
+toxicity vs. alcoholic hepatitis.  On presentation, he was
+jaundiced, had evidence of GI bleeding.  He had reportedly been
+on a recent EtOH binge in 123 Any St..  His liver failure was
+likely a result of alcoholic hepatitis.  He was initially
+treated with N-acetyl cysteine and lipitor was held.  Liver was
+consulted and felt that the prognosis was poor.  He was started
+on pentoxyfylline without much improvement.  This was ultimately
+discontinued for ineffectiveness.  RUQ US showed GB wall edema
+with sludge, no biliary obstruction, no ascites, some fatty
+infiltration of the liver.  CT scan (no contrast) of the abdomen
+showed ascites with an enlarged liver, with evidence of fatty
+infiltration.  Hepatitis serologies were negative for infection
+(Hep A, B, C).  Bilirubin improved slightly with these
+supportive measures, but this still remained very elevated.  INR
+was 2010-10-23 00:00:00, with some improvement to vitamin K.  Albumin was in the
+2's as well.  After 5-6 weeks of supportive care, liver team
+felt that possibility of improvement was remote. After
+discussion with family, patient was made CMO and transferred
+home for hospice care.
+
+3.  Hypercarbic Respiratory failure: Pt was initially intubated
+semi-electively for EGD, performed in MICU.  This was difficult
+to wean post-procedure.  The reasons for this were thought to be
+neuromuscular weakness, PNA.  He was ultimately trached (after
+failing extubation).  He was weaned from pressure support to
+trach mask, with adequate saturation on this.  This was
+continued upon transfer home to hospice.
+
+4.  Encephalopathy:  Patient had altered MS that was likely
+multifactorial.  Neurology was consulted and felt that this was
+likely secondary to a toxic-metabolic cause.  EEG was done;
+results were non-specific.  LP was deferred given low likelihood
+for infectious etiology.  MRI of the brain was performed and was
+negative for any focal lesion, enhancement, or other
+abnormality.  Mental status cleared; confusion was likely a
+result of hepatic and uremic encephalopathy.
+
+5.  ID:  Although initially afebrile on admission, he developed
+a WBC count and fever, bandemia.  Ascites was tapped and was
+negative for signs of infection/SBP.  CXR was suspicious for
+blossoming pneumonia.  After intubation, he was treated for VAP
+with 7 days of imipenem with subsequent Vancomycin therapy for
+MRSA in his sputum.  All blood/urine cultures remained negative.
+ The only significant culture data was +MRSA in his sputum.  He
+remained febrile with a leukocytosis, however; he did remain
+hemodynamically stable.  He completed 13 days of vancomycin
+therapy before he was made CMO.
+
+6.  CAD: On 2010-10-23 00:00:00, he went to an outside hospital with chest
+pain, had an EKG with "nonspecific ST-T changes", and once his
+pain resolved he left the ED AMA. Cardiology evaluated him and
+thought his current changes in the inferior lead was demand
+ischemia (in the setting of blood loss anemia). He has ruled out
+for an MI.  An echocardiogram revealed a markedly dilated right
+atrium, 2+tr, moderate pulmonary hypertension, mildly dilated LV
+with basal, mid-inferior and inferolateral akinesis with 1+mr
+and EF 40%.  His atenolol and aspirin were held while he had a
+GI bleed.  Once hemodynamically stable, metoprolol was
+restarted.  Patient also developed an atrial tachycardia; rate
+was controlled with beta-blocker as above.  ASA was held given
+GI bleed.
+
+7.  Hepatorenal syndrome: Creatinine/renal function was normal
+on admission but then dramatically rose to 3-4 as liver function
+worsened.  This was most likely due to hepatorenal syndrome.
+Renal was consulted and recommended starting Octreotide and
+midodrine.  In addition, CVVHD was initiated to manage volume
+and electrolyte status.  This was discontinued upon transition
+to CMO care.
+
+8.  Alcohol detox: He was initially actively withdrawing from
+alcohol on admission, with visual hallucinations.  He was
+managed with benzodiazepines as necessary and transitioned to a
+versed drip in the MICU.
+
+9.  Disposition: After a prolonged course in the MICU without
+apparent improvment in liver or kidney function, patient was
+made CMO.  This decision was discussed with the patient, his
+family, and various subspecialists involved in his care.  He was
+discharged home with hospice level care, as per patient and
+family's wishes.
+
+Medications on Admission:
+Lisinopril 10 mg po qd
+Lipitor 10 mg po qd
+Atenolol 100 mg po qd
+Does not take ASA or plavix
+Oxycontin 30 UPMCE
+oxycodone 120/month
+the patient had been taking many percoct in the week before
+admission
+
+Discharge Medications:
+1. Ativan 0.5 mg Tablet Sig: 2010-10-23 00:00:00 Tablet(s)  PO q1-2 hrs as
+needed: sublingual tablets.
+Disp:*60 tabs* Refills:*2*
+2. Morphine Concentrate 20 mg/mL Solution Sig: 15-30 mg PO q1 hr
+as needed for pain: sublingual.
+Disp:*qs 1* Refills:*0*
+3. Hydroxyzine HCl 10 mg/5 mL Syrup Sig: 2010-10-23 00:00:00  PO every 4-6 hours
+as needed for itching.
+Disp:*qs 1* Refills:*2*
+4. Morphine 20 mg/5 mL Solution Sig: 5-20 mg PO q2 hrs as needed
+for pain: immediate release.
+Disp:*qs 1* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE
+
+Discharge Diagnosis:
+GI bleed
+Grade 1 esophageal varices
+Colonic polyp
+Alcohol withdrawal
+Alcoholic hepatitis
+internal hemorrhoids
+Acetaminophen toxicity
+Fatty liver
+
+
+Discharge Condition:
+Poor
+
+
+Discharge Instructions:
+Please give medications as per prescribed
+
+                             Barbaa Ammerman MD 5090
+
+Completed by:2010-10-23 00:00:00

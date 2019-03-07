@@ -1,0 +1,256 @@
+Admission Date:  2014-04-15 00:00:00              Discharge Date:   2014-04-15 00:00:00
+
+Date of Birth: 1932-03-18 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:Larren Rengstorf
+Chief Complaint:
+dizziness x 1 day
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+73 yo F with h/o PBC, decompensated cirrhosis c/b
+encephalopathy, ascites, and esoph varices who presents with c/o
+lightheadedness, dizziness x 1 day. Feels weak with decreased
+energy level. Of note, recently discharged on 2014-04-15 00:00:00 after
+hypotensive/hypothermic episode w/ suspected sepsis, treated
+empirically with a course of ceftriaxone, flagyl and stress-dose
+steroids. No infectious source was identified. Discharged to
+home to complete prednisone taper.
+.
+In ED today, found to be hypotensive (SBP's in 80's) and
+hypothermic (31 C rectal temp). EKG w/ bradycardia to 40's. Plt
+18. INR 1.5. given rewarming blankets. b/l EJ PIV placed. given
+3L IVF's followed by peripheral dopa in ED. Recieved empiric
+steroids w/ dex for ?adrenal insuff. Vanco, levo, flagyl
+initiated. Given plt, coags, then right femoral line placed.
+.
+Denies N/V/Abd pain. + Loose stools x 7 days. No BRBPR
+.
+Admit to MICU for hypotension, sepsis w/u
+
+
+Past Medical History:
+1. PBC cirrhosis x 13 yrs, known varices, followed by Dr.Rutledge
+2. Liver cirrhosis
+3. Hypothyroidism
+4. Osteopenia
+5. Status post cholecystectomy
+6. History of ankle fractures
+7. Hypertension
+
+Social History:
+Tobacco stopped 15 yrs ago, 30 pack-yrs, no alcohol or drug use,
+
+married with three children. Lives at home with husband
+
+
+Family History:
+No family history of strokes, seizures.  Mother and father died
+in 90s.
+
+Physical Exam:
+T 33.9, BP 101/47, HR 45, RR 18, 98% RA
+gen- sleepy but arousable, garbled speech, non-toxic appearing
+heent-EOMI. Pupils 4->2 b/l. MM dry
+neck- diff to assess jvp 2/2 body habitus, b/l EJ's in place
+CV- brady. regular. no murmurs
+Pulm- anteriorly clear to auscultation w/o ronchi,rales,wheezes
+
+Abd- distended w/ dull flanks. non-tender to palpation.
+eXt- 3+ periph edema b/l. ext warm (bear hugger in place)
+neuro- follows commands, grip strength equal b/l, moving all
+extremities, oriented to person, UPMCE hospital; no asterixis.
+
+skin- superficial ulcerations on r elbow, hand.
+rect- yellow-brown stool, trace guaiac positive
+
+
+Pertinent Results:
+2014-04-15 00:00:00 09:20PM   GLUCOSE-90 UREA N-46* CREAT-1.0 SODIUM-143
+POTASSIUM-4.3 CHLORIDE-109* TOTAL CO2-25 ANION GAP-13
+2014-04-15 00:00:00 09:20PM   ALT(SGPT)-70* AST(SGOT)-90* CK(CPK)-112 ALK
+PHOS-154* AMYLASE-107* TOT BILI-3.6*
+2014-04-15 00:00:00 09:20PM   cTropnT-<0.01
+2014-04-15 00:00:00 09:20PM   CK-MB-12* MB INDX-10.7*
+2014-04-15 00:00:00 09:20PM   ALBUMIN-3.4 CALCIUM-9.1 PHOSPHATE-3.3
+MAGNESIUM-2.1
+2014-04-15 00:00:00 09:20PM   WBC-5.6 RBC-3.51* HGB-10.7* HCT-32.5* MCV-93
+MCH-30.5 MCHC-33.0 RDW-21.0*
+2014-04-15 00:00:00 09:20PM   NEUTS-82.7* BANDS-0 LYMPHS-7.7* MONOS-3.8
+EOS-5.3* BASOS-0.5
+2014-04-15 00:00:00 09:20PM   PLT COUNT-99*#
+2014-04-15 00:00:00 09:20PM   PT-15.6* PTT-35.8* INR(PT)-1.4*
+2014-04-15 00:00:00 07:16PM   LACTATE-1.7
+2014-04-15 00:00:00 07:02PM URINE  COLOR-Yellow APPEAR-Clear SP Rutledge-1.010
+2014-04-15 00:00:00 07:02PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-TR
+2014-04-15 00:00:00 07:02PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-MOD
+EPI-0
+2014-04-15 00:00:00 05:36PM   GLUCOSE-98 UREA N-49* CREAT-1.1 SODIUM-142
+POTASSIUM-4.6 CHLORIDE-108 TOTAL CO2-26 ANION GAP-13
+2014-04-15 00:00:00 05:36PM   AST(SGOT)-96* CK(CPK)-114 ALK PHOS-155* TOT
+BILI-3.4*
+2014-04-15 00:00:00 05:36PM   CK-MB-13* MB INDX-11.4* cTropnT-0.02*
+2014-04-15 00:00:00 05:36PM   ALBUMIN-2.9*
+2014-04-15 00:00:00 05:36PM   TSH-1.9
+2014-04-15 00:00:00 05:36PM   FREE T4-1.4
+2014-04-15 00:00:00 05:36PM   CORTISOL-9.2
+2014-04-15 00:00:00 05:36PM   WBC-4.5 RBC-3.61* HGB-11.2* HCT-33.4* MCV-93
+MCH-31.0 MCHC-33.4 RDW-20.9*
+2014-04-15 00:00:00 05:36PM   NEUTS-75.3* LYMPHS-13.4* MONOS-5.6 EOS-5.5*
+BASOS-0.3
+2014-04-15 00:00:00 05:36PM   HYPOCHROM-1+ ANISOCYT-2+ MACROCYT-2+
+MICROCYT-1+
+2014-04-15 00:00:00 05:36PM   PLT SMR-RARE PLT COUNT-18*# LPLT-2+
+2014-04-15 00:00:00 05:36PM   PT-16.4* PTT-38.5* INR(PT)-1.5*
+
+CXR- RUL opacity
+EKG- sinus brady 49 bpm, LAD, QT 489, no ST/T changes, no block
+
+.
+Recent Studies:
+CT abd 2014-04-15 00:00:00-
+1. Diffuse anasarca with soft tissue edema as well as ascites
+and nonspecific mesenteric stranding. Ascites is increased
+compared to the 123 Any St.us study.
+2. Limited evaluation of the bowel with no definite wall
+thickening. There is no pneumatosis or free air. Patency within
+mesenteric vessels cannot be assessed without IV contrast.
+3. Acute right posterior rib fracture that does not appear to be
+present on the study of 2014-04-15 00:00:00. No evidence of pneumothorax in
+the imaged portions of the lungs
+.
+RUQ U/S 2014-04-15 00:00:00
+1. Patent portal vein with hepatopetal flow.
+2. Small amount of ascites.
+.
+EGD 2014-04-15 00:00:00:
+No active bleeding in esophagus, stomach, duodenum
+Mosaiac pattern in stomach c/w portal gastropathy
+.
+Colonoscopy 2014-04-15 00:00:00:
+grade 1 internal hemmoroids
+few diverticula. no ischemic colitis
+
+
+Brief Hospital Course:
+Hospital Course: 73 y/o F w/ PBC, decompensated cirrhosis c/b
+encephalopathy, ascites, and esoph varices who presents with c/o
+lightheadedness, dizziness x 1 day, found to be hypotensive,
+hypothermic requiring the ICU. She was called out to the floor
+but remained medically tenuous and elected to be made CMO.
+.
+# Hypotension/hypothermia: On admission the likely causes were
+felt to be adrenal insufficiency and sepsis.  [**First Name9 (NamePattern2) 1481**]
+Rutledge-stim test, the patient was started on fludro and hydrocort
+empirically presuming her to be adrenally insufficient.  She was
+also covered broadly with vanc,levo, flagyl as concerned for
+sepsis and question of PNA on CXR.  Her abdominal ultrasound was
+negative for significant ascites for diagnostic paracentesis.
+Blood cultures from admission returned positive for
+streptococcus and flagyl was discontinued. With antibiotics  and
+steroids, pt was weaned off dopamine and blood pressure remained
+stable for pt to go to the floor. Once on the floor she was
+weaned off iv steroids and then completed a taper of po
+steroids. She also completed a course of levofloxacin and vanc.
+
+.
+# Primary biliary Cirrhosis- Initially the patient's medications
+were held in the setting of sepsis. However, once on the floor,
+her ursodiol, lactulose, rifaximin, and diuretics were resumed.
+Her diuretics were titrated up as her renal function could
+tolerate it. Her ursodiol was discontinued as it was felt to be
+of little benefit. Her rifaximin and lactulose were discontinued
+when the patient elected to be CMO. Her diuretics were continued
+anticipating that they would provide some relief, given her
+fluid burden.
+.
+# ARF- This was likely 2014-04-15 00:00:00 hypotension, some component of acute
+renal failure on hepatorenal syndrome. She was placed on
+midodrine and octreotide and with improved hypotension, her
+urine out-pt increased.  However, her creatinine elevated and
+remained persistently elevated on increased diuretics for her
+anasarca.
+.
+# Thrombocytopenia- The patient had progressively lowering
+platelets throughout the admission. Further work-up was done and
+her labwork was also revealed to possibly be c/w DIC. However,
+on discussion with heme/onc, it was felt that her low platelets,
+low fibrinogen, and elevated coags were in fact related to her
+end stage liver disease.
+.
+# hypothyroidsm: The patient was continued on her levothyroxine
+throughout the admission.
+.
+# FEN: Once her mental status was improved on the floor she was
+maintained on a regular diet. Her electrolytes were followed
+daily.
+.
+# PPx - She was placed on a PPI and sc heparin during the
+admission.
+.
+# Communication/Dispo - Several discussions were held with Ms.
+Rutledge family regarding her medical course and prognosis. She
+and her family agreed that she be made DNR/DNI on 2014-04-15 00:00:00. A
+later discussion was held with the patient, her family, the
+medical team, palliative care team, and social work. The patient
+and her family expressed understanding that the pt was not a
+liver transplant candidate and that recovery of her independence
+prior to admission would be unlikely. At that time, given her
+prognosis, the patient decided to be made CMO with anticipation
+for discharge to a UPMCE with hospice.
+
+
+Medications on Admission:
+Levothyroxine 75 mcg PO DAILY
+Furosemide 40 mg PO DAILY
+Spironolactone 100mg PO DAILY (recently increased from 50 mg
+2014-04-15 00:00:00)
+Rifaximin 400mg PO TID
+Lactulose(30) ML PO Q6H prn (once/day per pt)
+Pantoprazole 40 mg PO Q24H
+Ursodiol 500mg PO QAM
+Ursodiol 750 mg QPM
+Nadolol 10 mg PO DAILY
+Citracal lD 2 pills UPMCE
+Prednisone taper- completed on: 2014-04-15 00:00:00
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary: primary biliary cirrhosis, encephalopathy
+
+Secondary: hypothyroidism, osteopenia
+
+
+Discharge Condition:
+Ms. Rutledge needs related to comfort are continuing to be
+addressed.
+
+
+Discharge Instructions:
+You will be discharged to a specialized nursing facility. If you
+have any needs related to your comfort there, you should feel
+free to address them with the staff of the facility.
+
+Followup Instructions:
+You will be followed closely by your health care providers at
+your specialized nursing facility. You will also be followed
+closely by the hospice providers.
+
+
+

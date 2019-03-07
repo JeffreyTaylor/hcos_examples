@@ -1,0 +1,188 @@
+Admission Date:  2010-09-02 00:00:00              Discharge Date:   2010-09-02 00:00:00
+
+Date of Birth: 1924-08-31 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Druce Daschbach
+Chief Complaint:
+BRBPR after colonoscopy with polypectomy
+
+Major Surgical or Invasive Procedure:
+Colonoscopy
+
+
+History of Present Illness:
+66 y/o M with PMHx of Atrial Fib who went for colonoscopy on
+2010-09-02 00:00:00 after holding coumadin for 3 days prior to procedure and
+underwent three polypectomies-proximal transverse, distal
+transverse, and cecum. On 2010-09-02 00:00:00, pt noted some crampy lower
+abdominal pain when he awoke and noticed a small amount of blood
+in BMs. Pt went to work but was concerned with the continued
+BRBPR approx 4 episodes. Pt reportes feeling dizzy when he saw
+the blood in the toilet, but denied any syncope or presyncope.
+Pt initially presented to UPMCE, thinking it was the ED
+and medical emergency was called. Pt was found with blood on
+seat of pants & e/o incontinence.
+.
+Pt was transferred directly to the ED where initial VS 96.7 HR
+90 BP 117/70 RR 16 and Sats 97% on RA. Hct was down from 54 in
+2010-09-02 00:00:00 to 39.1.  Pt received 2L of NS but did not receive any
+blood products overnight and am HCT was down at 29.7. Pt had an
+episode of BRBPR on the floor and became tachy to 140s.
+Decision was made for transfer to ICU and per GI recs, pt had
+already begun taking Golytely prep.
+.
+On arrival to ICU, pt was anxious but denying any CP/SOB/Abd
+pain or nausea.  He had already taken approx half of the
+golytely prep and was complaining of chills.
+.
+ROS: The patient denies any fevers, chills, nausea, vomiting,
+diarrhea, constipation, hematemesis, shortness of breath, cough,
+urinary frequency, urgency, dysuria.
+
+Past Medical History:
+Atrial fibrillation anticoagulated but pt has been holding
+coumadin for approx 3 days prior to colonoscopy, not restarted
+
+Gout
+Hyperlipidemia
+Hypertension
+
+Social History:
+patient lives in 123 Any St.. He is married with 2 children.  He is
+an active smoker and has prior 50-pack-year cigarette history,
+and has never used IV drugs.  He drinks alcohol rarely, only on
+social occasions.
+
+Family History:
+non-contributory
+
+Physical Exam:
+Vitals: T- 96.7 BP 111/67 HR 90 RR 18 Sats 100% on RA
+GEN: Well-appearing, well-nourished, no acute distress
+HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or
+rhinorrhea, MMM, OP Clear
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline
+COR: RRR, no M/G/R, normal S1 S2
+PULM: Lungs CTAB, no apprec W/R/R
+ABD: Soft, NT, ND, +BS, no HSM, no masses
+EXT: No C/C/E, good distal pulses
+NEURO: alert, oriented to person, place, and time. CN II ?????? XII
+grossly intact. Moves all 4 extremities. Strength 5/5 in upper
+and lower extremities.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+
+
+Pertinent Results:
+2010-09-02 00:00:00 11:15PM BLOOD WBC-21.4*# RBC-4.12* Hgb-13.2*#
+Hct-39.1*# MCV-95 MCH-32.0 MCHC-33.7 RDW-13.7 Plt Ct-310
+2010-09-02 00:00:00 06:35AM BLOOD WBC-11.4* RBC-3.02*# Hgb-9.9*# Hct-29.7*
+MCV-98 MCH-32.8* MCHC-33.3 RDW-13.2 Plt Ct-189
+2010-09-02 00:00:00 12:39PM BLOOD WBC-11.6* RBC-3.72* Hgb-12.0* Hct-34.8*
+MCV-94 MCH-32.2* MCHC-34.3 RDW-15.0 Plt Ct-183
+2010-09-02 00:00:00 12:39PM BLOOD Hct-33.8*
+2010-09-02 00:00:00 08:28PM BLOOD Hct-32.5*
+2010-09-02 00:00:00 02:22AM BLOOD WBC-8.1 RBC-3.57* Hgb-11.8* Hct-32.7*
+MCV-92 MCH-33.2* MCHC-36.2* RDW-15.4 Plt Ct-168
+2010-09-02 00:00:00 11:15PM BLOOD PT-13.8* PTT-51.8* INR(PT)-1.2*
+2010-09-02 00:00:00 02:22AM BLOOD PT-13.2 PTT-47.0* INR(PT)-1.1
+2010-09-02 00:00:00 11:15PM BLOOD Glucose-156* UreaN-28* Creat-1.7* Na-141
+K-4.9 Cl-106 HCO3-23 AnGap-17
+2010-09-02 00:00:00 06:35AM BLOOD Glucose-95 UreaN-27* Creat-1.1 Na-142
+K-4.3 Cl-114* HCO3-21* AnGap-11
+2010-09-02 00:00:00 12:39PM BLOOD Glucose-93 UreaN-19 Creat-0.8 Na-145
+K-4.3 Cl-114* HCO3-22 AnGap-13
+2010-09-02 00:00:00 02:22AM BLOOD Glucose-84 UreaN-13 Creat-0.8 Na-142
+K-3.9 Cl-112* HCO3-23 AnGap-11
+2010-09-02 00:00:00 12:39PM BLOOD Calcium-7.4* Phos-2.5* Mg-1.8
+2010-09-02 00:00:00 02:22AM BLOOD Calcium-8.0* Phos-2.5* Mg-1.7
+.
+Portable abdomen (2010-09-02 00:00:00): No evidence of free air or
+obstruction.
+.
+CXR (2010-09-02 00:00:00):  1. No evidence of free air under the
+hemidiaphragms. 2. Probable mild interstitial lung disease - if
+clinically indicated, a high-resolution CT (HRCT) of the chest
+could be obtained to further characterize this process.
+
+Brief Hospital Course:
+66 yo Jenalyn Druce Daschbach Scibetta, Hyperlipidemia was hospitalized after he
+noticed hematochezia s/p outpt colonoscopy w polypectomy
+1. Acute blood loss anemia/Hematochezia -
+-Likely 2010-09-02 00:00:00 polypectomy (of note, pt had been off of coumadin
+prior to colonoscopy)
+-H/H, vitals stabilized s/p 5 units PRBC
+-Repeat colonoscopy w/o signs of active bleed
+-D/C home as h/H stable and pt noted brown stools
+-Hold coumadin,ASA, atenolol until FU w/ PCP, Scibetta. Druce Daschbach Scibetta
+this thursday
+
+2. Atrial fibrillation
+-rate controlled on its own
+-low risk per CHADS score
+-Hold atenolol and coumadin 2010-09-02 00:00:00 recent bleed
+-Pt will discuss anticoag w/ PCP next week
+
+3. Hyperlipidemia
+-cont Simvastatin
+
+4. Hx of Gout
+-Continue Allopurinol
+
+
+Medications on Admission:
+1. Simvastatin 20mg QD
+2. Allopurinol 300mg QD
+3. Atenolol 25mg QD
+4. Coumadin (held)
+
+Discharge Medications:
+1. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Bright red blood per rectum, post-polypectomy bleeding
+.
+Atrial fibrillation
+Hypertension
+Hyperlipidemia
+Gout
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted due to blood in your stool after a recent
+colonscopy. You received several units of blood transfusion. You
+underwent a repeat colonoscopy that did not show any sign of
+active bleeding. This was likely a complication of your recent
+colonoscopy with polypectomy. Do not restart your coumadin or
+atenolol until you have discussed these medications further with
+your primary care doctor.
+.
+You have told us that you already have an appointment w/ your
+PCP, Scibetta. Jenalyn Scibetta, this thursday. Please keep that
+appointment
+.
+Call your doctor or return to the hospital for any new or
+worsening dizziness, lightheadedness, nausea, vomiting, blood in
+the stool or any other concerning symptoms.
+
+Followup Instructions:
+Follow-up with your primary care next thursday, w Dr. Jenalyn
+Scibetta, ph test@mail.com
+
+
+

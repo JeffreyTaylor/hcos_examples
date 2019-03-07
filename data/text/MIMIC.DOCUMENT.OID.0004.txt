@@ -1,0 +1,249 @@
+Admission Date:  2009-11-27 00:00:00              Discharge Date:   2009-11-27 00:00:00
+
+Date of Birth: 1951-11-27 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Alecxis Laberta
+Chief Complaint:
+PEA arrest
+.
+
+
+Major Surgical or Invasive Procedure:
+temporary pacemaker placement
+permanent Pacemaker placement 2009-11-27 00:00:00
+
+
+History of Present Illness:
+Pt was in USOH, awaiting R THR, collapsed while celebrating a
+funeral mass, was down for 1 min prior to EMS arrival, found to
+be pulseless, atrial activity noted on stips but only occasional
+wide qrs complexes, could not transcut pace, got atropine and
+calcium gluc, went to [**First Name4 (NamePattern1) 46**] Dowler, was intubated for protection, K
+6.6, HCO3 13, and Cr 2.7. Got kayexylate, bicarb gtt, lasix, and
+extubated. ECG w/RBBB, LAD, LAFB, and sig PR delay so sent here
+for pacer. R IJ pacer wire screwed in but still temporary.
+Transferred to UPMCE for permanent pacer and further managment.
+
+Past Medical History:
+PMH: HTN, dyslipidemia, CRI (not formally dx per pt), OA w/ hip
+pain awaiting R THR, h/o chronic low potassium and severe HTN
+per pt
+-baseline trifasicular block
+
+Social History:
+Pt is a priest
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+t 98.9
+BP 131/79
+HR 64
+Tele: v-paced/ few PVC's with compensatory pauses
+O2 sat 92%RA
+Gen: elder male, lying in bed, NAD
+HEENT: JVP flat, MMM, PERRLA, EOMI
+Heart: s1, s2, RRR. no MRG
+Lungs: bibasilar crackles, otherwise, CTAB
+Ext: 1+ pedal edema bilat
+Neuro: A&O x3
+
+Pertinent Results:
+2009-11-27 00:00:00 05:40PM   PT-14.2* PTT-26.9 INR(PT)-1.4
+2009-11-27 00:00:00 05:40PM   PLT COUNT-137*
+2009-11-27 00:00:00 05:40PM   WBC-11.0 RBC-4.23* HGB-13.2* HCT-37.5* MCV-89
+MCH-31.1 MCHC-35.2* RDW-13.9
+2009-11-27 00:00:00 05:40PM   GLUCOSE-111* UREA N-55* CREAT-2.6* SODIUM-141
+POTASSIUM-4.7 CHLORIDE-102 TOTAL CO2-31 ANION GAP-13
+2009-11-27 00:00:00 09:00AM BLOOD WBC-6.5 RBC-4.38* Hgb-13.6* Hct-38.2*
+MCV-87 MCH-31.0 MCHC-35.5* RDW-13.4 Plt Ct-155
+.
+Echo 2009-11-27 00:00:00
+Conclusions:
+There is moderate symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. There is mild regional
+left ventricular systolic dysfunction. Resting regional wall
+motion abnormalities include inferior and inferolateral
+akinesis/hypokinesis. Right ventricular chamber size and free
+wall motion are normal. The aortic valve leaflets are mildly
+thickened. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. There is a
+trivial/physiologic pericardial effusion.
+
+Compared with the report of the prior study (tape unavailable
+for review) of
+2009-11-27 00:00:00, left ventricular dysfunction is new and mild aortic
+regurgitation
+is now detected.
+
+Brief Hospital Course:
+A/P: 63 yo male with cardiac arrest 2009-11-27 00:00:00 paroxysmal high degree
+AV block, s/p collapse with PEA arrest now with temp pacer
+transferred to UPMCE for further mgmt and permanent pacemaker
+placement.
+.
+1. Rhythm: paroxysmal high degree block, temp pacer placed.
+reasons for initial collapse are unclear, possibly combination
+of high degree av block and electrolyte disturbances, since
+patient was on many K+sparing diuretics.  Tele after admission
+showed V-paced with few PVCs.  Pt underwent pacemaker placement
+on 2009-11-27 00:00:00 without complications.  The next day device
+interrigation was satisfacotory.  CXR did not show a
+pneumothorax or any acute processes.  Pt remained without
+complaints and was discharged on 2009-11-27 00:00:00.  Indications for
+pacer was symptomatic with high degree block.
+.
+2. Coronaries: risk factors, 123 Any St. risk 17%, ruled out for
+MI w/trop leak but flat CKs after arrest. -Cont ASA, BB, statin
+- lipids checked : total chol 122, HDL 36, LDL 68.  Continued on
+lipitor 20.
+- initially held ACEI given Alecxis Laberta upto Creatinine of 2.2.  Given
+his hyperkalemia on presentation pt was not restarted on ACE
+inhibitors as his BP was well controlled.
+- Repeat Echo (see below) showed EF of 50%.  Given this event
+would recommend an outpatient evaluation by cardiologist for
+likely exercise stress test.
+.
+3. Pump: EF 2009-11-27 00:00:00 was 60% w/LAE, likely diastolic dysfunction,
+mild hypervolemia w/?mild pulm edema causing mild hypoxia,
+initially gentle diuresis with goals -500cc to -1L.
+- Continued amlodipine and metoprolol for rate control
+- held ace/arbs due to Alecxis Laberta
+- echo 2009-11-27 00:00:00 showed EF of 50%.
+- During the admission pt did not go onto complain any further
+of Chest pain or Shortness of breath.
+.
+4. ARF/CRI: acute insult likely combo of triamterene and NSAIDS,
+aggrevated by diuretics and ACE-I. Baseline 1.3-1.5 with
+proteinuria long standing, should avoid NSAIDS for life.
+-Discontinued ACE-I/ARBa and diuretics.
+-Checked FeUrea, FeUrea: 36.5%, confirming ATN. spep and upep
+(given anemia, pending), had u/s at UPMCE but should have
+repeat as outpt to check complex cysts vs masses. Renal diet.
+.
+5. Anemia: new,  SPEP was negative, UPEP negative for bence
+Alecxis Laberta proteins,  and iron, shows anemia likely due to renal
+causes
+-PCP may consider Brea Dowler as outpt given pt's age and anemia.
+.
+6. Thombocytopenia: new, mild and stable during the admission.
+.
+7. Elevated glucose: possibly continued stress response, check
+FS wnl.
+.
+8. h/o hypokalemia:  PCP may consider Nephrologist follow up.
+Would Recommend outpt mineralocorticoid XS work-up once off K
+sparing diuretics for a while.
+.
+9. Hip pain: awaiting THR. vicodin prn. No NSAIDs due to renal
+problems.
+
+10. Communicate with friend, preferred HCP per pt, Brea Dowler
+Brea Dowler test@mail.com and PCP Brea Dowler UPMCE [**Location (un) 55**]
+test@mail.com
+
+
+
+Medications on Admission:
+Amlodipine 10 mg PO DAILY
+Metoprolol 100 mg PO BID
+
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+2. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*0*
+4. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Cephalexin 250 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 2 days.
+Disp:*10 Capsule(s)* Refills:*0*
+7. Toprol XL 200 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+cardiac arrest
+high degree heart block
+acute renal failure
+hyperkalemia
+metabolic acidosis
+anemia with poor bone marrow response/insufficient production
+thrombocytopenia
+chronic renal insufficiency, stage 2-3
+HTN
+dyslipidemia
+osteoarthritis w/ hip pain awaiting R THR
+h/o chronic low potassium
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+You have had a pacemaker placed because of electrical block in
+your heart. This may have been 123 Any St.itated by kidney failure
+and too much potassium in your blood. Do not take the
+medications you were taking prior to this event. We have
+enclosed a list of and prescriptions for your new medication
+needs. Please take these as directed and discuss any changes
+with your primary care doctor.
+.
+You have many risks for coronary heart disease. We feel you need
+a stress test with imaging in the next month to make sure that
+you do not have any significant need for a cardiac
+catheterization. Until then, taking aspirin, your Toprol XL
+(beta blocker safe in renal failure), your lipitor, and
+eventually starting your lisinopril again will protect you
+somewhat from heart attacks.
+.
+You must never take NSAID medications again. Your kidney disease
+makes this dangerous. Avoid ibuprofen, advil, motrin, aleve,
+naproxen, or ketoprofen. Talk with your doctor Brea Dowler if
+you are unsure about any medications you are taking.
+
+
+Followup Instructions:
+1. See your primary care doctor Dr. Dowler on Friday 28th at
+2:30pm, to check your potassium and creatinine levels and to
+discuss everything we recommended. Have your doctor follow up on
+the serum and urine protein electrophoresis that was pending
+when you were discharged as well as the final report of your
+echocardiogram. Talk with your doctor about your anemia and
+whether or not you would need a bone marrow biopsy.
+
+2. Go to the pacemaker DEVICE CLINIC Phone:test@mail.com
+Date/Time:2009-11-27 00:00:00 11:30
+
+3. You should see our nephrologists sometime for your kidney
+disease. Talk with your primary doctor about this and call for
+an appointment test@mail.com.
+
+4. You should also setup an appointment with a cardiologist to
+have a exercise stress test done as outpatient.  You can speak
+with your PCP regarding Brea Dowler cardiologist or you can call UPMCE at test@mail.com to setup an appointment here.
+
+
+                             Brea Dowler MD Alecxis Laberta
+
+Completed by:2009-11-27 00:00:00

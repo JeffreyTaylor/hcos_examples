@@ -1,0 +1,472 @@
+Admission Date:  2013-12-18 00:00:00              Discharge Date:   2013-12-18 00:00:00
+
+Date of Birth: 1992-12-18 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Bactrim / Baclofen
+
+Attending:Laureli Kink
+Chief Complaint:
+fevers, headache, diarrhea, hypoxia
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+The paitent is a 43-year-old male with a longstanding history of
+HIV/AIDS who presented to the ED after a week long history of
+high grade fevers and worseing dyspnea with exertion. The
+patient was diagnosed in 2013-12-18 00:00:00 with HIV and has been on and off
+HAART therapy since that time. Most recently, he was on steady
+treatment for 3 years until this spring when he decided to take
+a self decided medication holiday. He reports he has not taken
+HAART medications in about 6 months. About 2-3 months ago the
+patient also started having watery diarrhea intermittently 2013-12-18 00:00:00
+times weekly. About one and a half weeks ago, he started
+noticing high fevers and night sweats. The diarrhea worsened and
+instead of having it on and off, it became constant. The fevers
+also continued to worsen and peaked at a temp of 103.6 today,
+the morning of his admission. Two days prior to admission he
+started noticing shortness of breath with simple tasks such s
+climbing a few stairs at home. He also describes a
+non-productive dry cough and some chest "tightness" associated
+with this increased work of breathing. He could barely walk from
+the kitchen back and forth to the couch due to his dyspnea. He
+has also noticed daily headaches. He denies neck
+stiffness/rigidity, photophobia or any new skin rashes. He
+describes some mild blurry vision when he would try to focus on
+123 Any St. but this would subside after a minute or so. He now
+complains of diffuse weakness and lightheadedness today. He
+denies any syncope. Of note, he has lost about 25 pounds over
+the last couple months which he attributes to a decreased
+a123 Any St.e and his diarrhea issues.
+.
+In the ED, initial vitals were T 99.4, BP 97/56, P 98, R 22, 85%
+on RA with only a slight improvement to 91% on 2L. The patient
+received 1000 mg IV  Vancomycin, 750 mg PO Levofloxacin, and 40
+mg oral 123 Any St.. He was ordered for Pentamidine 225 mg but
+did not receive it in the ED. An ABG was done and showed a low
+pO2 of 72. CXR showed multiple small patchy opacities
+bilaterally which were immediately concerning for PCP.
+.
+On the floor, the patient continued to feel short of breath. He
+was eventually comfortable on 2013-12-18 00:00:00 L NC O2 but noticed he got
+very winded walking to and from the bathroom. He denied any
+nausea, vomiting. No abdominal pain. No diarrhea on day of
+admission. He still felt weak "all over" and had diffuse muscle
+aches. No headaches on arrival to floor. The patient had an
+acute exacerbation of his shortness of breath with associated
+tachypnea and tachycardia soon after admission to the medical
+floor. This acute episode of respiratory distress was soon after
+an induced sputum sample and thus, likely due to associated
+bronchospasms. The patient was hypoxic on labs and was therefore
+transferred to the MICU for a brief one day stay in order to
+watch his airway closely while he improved. Fortunately, he
+improved significantly following nebulizer treatments and high
+flow supplemental oxygen. He did not require any intubations. He
+was transferred back to the general medical floor once he was
+more hemodynamically stable and breathing comfortably on 4L
+oxygen via nasal cannula with oxygen saturations >95%
+consistently.
+
+
+Past Medical History:
+HIV/AIDS
+anemia
+HSV
+Depression, ? Bipolar disorder
+HPV
+h/o PCP
+h/o recurrent aphthous ulcers
+h/o oral candidiasis
+h/o esophageal ulcer
+h/o zoster
+h/o molluscum
+
+
+Social History:
+He lives alone in 123 Any St. MA. He works as an indoor/outdoor
+painter and has been functioning well until about one week prior
+to this admission when he really started feeling poorly.
+Currently smokes about a pack per day, no recent ETOH use, no
+recent drug use; has used cocaine in the distant past, denies
+IVDU history.
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VS: T99.5 HR 80 BP 101/59 RR 18  93% 4L NC
+Gen: Alert and orieted to person/time/place. He is mildly winded
+speaking in full sentences, no acute distress, no accessory
+muscle use noted
+HEENT: NC/AT, PERRLA, EOMI, scattered yellowish, thick patches
+over posterior tongue consistent with oral candidiasis, no
+tonsillar exudates
+Neck: supple, no lymphadenopathy, 2+ carotid upstrokes, JVD
+3-4cm
+CV: S1/S2 regular, no murmurs/rubs/gallops noted. No S3/S4.
+Lungs: Diffuse crackles at the right base, bilateral rhonchi
+noted anteriorly across right and left apices and posteriorly at
+mid-lung fields.
+Abd: Soft, NT/ND, normoactive bowel sounds, no HSM.
+Ext: warm, no edema, DP and PT pedal pulses 2+ bilaterally, no
+cyanotic features
+Skin: no rashes, no bruising
+
+
+Pertinent Results:
+URINE STUDIES:
+2013-12-18 00:00:00 11:58PM URINE  COLOR-Yellow APPEAR-Clear SP Knotts-1.016
+2013-12-18 00:00:00 11:58PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0
+LEUK-NEG
+2013-12-18 00:00:00 11:58PM URINE  RBC-<1 WBC-4 BACTERIA-NONE YEAST-NONE
+EPI-0
+2013-12-18 00:00:00 11:58PM URINE  HYALINE-2*
+2013-12-18 00:00:00 11:58PM URINE  MUCOUS-RARE
+.
+ADMISSION LABS:
+2013-12-18 00:00:00 02:10PM   TYPE-ART O2-20 PO2-72* PCO2-39 PH-7.42 TOTAL
+CO2-26,   LACTATE-1.2
+2013-12-18 00:00:00 01:10PM   GLUCOSE-104 UREA N-14 CREAT-1.1 SODIUM-134
+POTASSIUM-3.7 CHLORIDE-98 TOTAL CO2-24 ANION GAP-16
+2013-12-18 00:00:00 01:10PM   estGFR-Using this
+2013-12-18 00:00:00 01:10PM   LD(LDH)-357*
+2013-12-18 00:00:00 01:10PM   CALCIUM-8.3* PHOSPHATE-3.8 MAGNESIUM-2.1
+2013-12-18 00:00:00 01:10PM   WBC-6.9 RBC-4.01* HGB-11.5* HCT-32.2*
+MCV-80*# MCH-28.8 MCHC-35.8* RDW-13.9
+2013-12-18 00:00:00 01:10PM   NEUTS-84.8* LYMPHS-10.3* MONOS-4.6 EOS-0.1
+BASOS-0.1
+2013-12-18 00:00:00 01:10PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-1+
+2013-12-18 00:00:00 01:10PM   PLT COUNT-183
+2013-12-18 00:00:00 01:10PM   PT-14.1* PTT-36.3* INR(PT)-1.2*
+2013-12-18 00:00:00 01:10PM    WBC-6.9  LYMPH-10* ABS LYMPH-690 CD3-50 ABS
+CD3-345* CD4-2 ABS CD4-16* CD8-38 ABS CD8-264 CD4/CD8-0.1*
+.
+IMAGING:
+2013-12-18 00:00:00 CT CHEST: The airways are patent to the subsegmental
+level. Diffuse bilateral ground-glass opacities are more
+confluent in the bases, greater on the right side. There is no
+pleural or pericardial effusion. Cardiac size is top normal. The
+aorta is normal in caliber. There are no mediastinal, hilar, or
+axillary enlarged lymph nodes. Tiny calcification is in the LAD.
+There are no bone findings of malignancy.
+This examination is not tailored for subdiaphragmatic
+evaluation. The upper
+abdomen is unremarkable. IMPRESSION: Findings are likely due to
+PCP Amenia Knotts. Differential diagnosis includes viral pneumonia.
+.
+2013-12-18 00:00:00 CXR : Since yesterday, multifocal bilateral opacities,
+mostly bibasilar, are unchanged, could be due to PCP pneumonia
+in the clinical context. There is no pleural effusion. The
+cardiomediastinal silhouette and hilar contours are unchanged,
+with a top- normal heart size, likely due to lower lung volumes.
+.
+OTHER STUDIES:
+2013-12-18 00:00:00 EKG: rate 80s,Sinus rhythm. Non-diagnostic inferior Q
+waves. Prominent QRS voltage but probably normal for age. Since
+the 123 Any St.us tracing of 2013-12-18 00:00:00 the premature beat is no longer
+seen.
+.
+MICROBIOLOGY:
+2013-12-18 00:00:00 Blood Cultures x2 -negative
+2013-12-18 00:00:00 Blood Culture x1 -negative
+2013-12-18 00:00:00 Urine Culture - negative
+.
+2013-12-18 00:00:00 :CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final
+2013-12-18 00:00:00):
+eces negative for C.difficile toxin A & B by EIA.
+.
+2013-12-18 00:00:00 : Legionella Urinary Antigen  (Final 2013-12-18 00:00:00):
+NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN
+.
+2013-12-18 00:00:00 11:45 am SPUTUM     Site: INDUCED      Source: Induced.
+
+GRAM STAIN (Final 2013-12-18 00:00:00):
+<10 PMNs and >10 epithelial cells/100X field.
+3+ (5-10 per 1000X FIELD):   MULTIPLE ORGANISMS CONSISTENT WITH
+
+                           OROPHARYNGEAL FLORA.
+ QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+ RESPIRATORY CULTURE (Final 2013-12-18 00:00:00):
+ MODERATE GROWTH OROPHARYNGEAL FLORA.
+Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+  2013-12-18 00:00:00): POSITIVE FOR PNEUMOCYSTIS JIROVECII (CARINII).
+STOOL STUDIES:
+2013-12-18 00:00:00 11:05 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+
+   MICROSPORIDIA STAIN (Final 2013-12-18 00:00:00):    NO MICROSPORIDIUM
+SEEN.
+
+   CYCLOSPORA STAIN (Final 2013-12-18 00:00:00):    NO CYCLOSPORA SEEN.
+
+   FECAL CULTURE (Final 2013-12-18 00:00:00):    NO SALMONELLA OR SHIGELLA
+FOUND.
+
+   CAMPYLOBACTER CULTURE (Final 2013-12-18 00:00:00):    NO CAMPYLOBACTER
+FOUND.
+
+   OVA + PARASITES (Final 2013-12-18 00:00:00):
+      NO OVA AND PARASITES SEEN.
+      This test does not reliably detect Cryptosporidium,
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected
+by routine
+      O+P, the Giardia antigen test may enhance detection when
+organisms
+      are rare.
+
+   Cryptosporidium/Giardia (DFA) (Final 2013-12-18 00:00:00):
+      NO CRYPTOSPORIDIUM OR GIARDIA SEEN.
+
+   VIRAL CULTURE (123 Any St.inary):    No Virus isolated so far.
+
+
+Brief Hospital Course:
+In summary, Mr. Knotts is a 43-year-old male with a longstanding
+history of HIV/AIDs who was admitted with a CD4 count of 16 and
+1 week of worsening fevers, cough and dyspnea and found to have
+sputum samples and imaging consistent with an acute PCP
+pneumonia episode.
+.
+# Hypoxemia/Dyspnea: The patient explains feeling very fatigued
+with nightly fevers in the 101-103 range for 1 week leading up
+to his hospital admission. He began having chest "tightness" and
+progressive shortness of breath about 3 days prior to ED
+presentation. The day of admission he had an acute worsening of
+his shortness of breath and hypoxia which prompted his transfer
+to the MICU. This was most likely related to underlying PCP
+alongside acute bronchospasm from sputum induction given the
+temporality of his symptoms which occured shortly after an
+induced sputum sample was collected. He responded very well to
+albuterol nebulizer therapy and fortunately, never required
+intubation. To protect against possible inflammatory response
+from anti-PCP treatment steroids were initiated and
+appropriately increased from 40 daily to 40 UPMCE. UPMCE was
+again tapered after 4-5 days down to qdaily dosing. He was
+continued on Pentamidine 225 IV daily in place of Bactrim given
+his allergy to sulfa medications. Later in his hospital course
+he was transitioned to 300mg PO Trimethoprim three times daily
+along with 100mg daily Dapsone for PCP Amenia Knotts. He was continued
+on albuterol nebulizers as needed for the remainder of his
+hospital course and he was continued on supportive oxygen via
+nasal cannula with oxygen saturation goal of >95%. He was
+gradually weaned down from 4-5L/min to 2L oxygen on nasal
+cannula by the time of discharge. Mr. Knotts desaturations
+were clearly most marked with any exertion. Walking oxygen
+saturation levels improved very slowly but he was still dropping
+to 88-90% after only 2013-12-18 00:00:00 yards of ambulation 1-2 days prior to
+discharge. Therefore, he was set up with home oxygen
+therapy/continuous flow at 2L to use at home while he continued
+to recuperate.  He was set up for close follow-up with his PCP,
+Knotts. Knotts on 2013-12-18 00:00:00.
+.
+
+# Pneumocystis jirovecii/ PCP Amenia Knotts: The patient had a
+sputum sample done 2013-12-18 00:00:00 which was positive for Pneumocystis
+jirovecii. Moreover, the patient's CXR and CT revealed bilateral
+infiltrates consistent with the diagnosis and he also had a
+typical LDH elevation to further corroborate the diagnosis. Mr.
+Knotts fevers, shortness of breath/hypoxia, and recent cough
+were all Knotts to his PCP. Amenia Knotts was more prone to infection
+with a low CD4 count of 16 and his worsening immunocompromised
+state was likely directly linked to his HAART medication
+non-compliance over the last 6 months. As above, he was
+continued on albuterol nebulizers PRN along with Pentamidine and
+then TMP/Dapsone combination for treatment of his PCP.
+Amenia Knotts was eventually tapered from 40mg b.i.d. to 40mg once
+daily for 5 days with a plan to then taper to 20mg daily for 10
+days. He was continued on low flow supplemental oxygen via nasal
+cannula and weaned down to 2L by time of discharge. Mr. Knotts
+shortness of breath and cough gradually improved throughout his
+hospital course. Lung exam at time of discharge revealed much
+less prominent diffuse rhonchi than his admission presentation.
+He also appeared less fatigued and was breathing much more
+comfortably in lower O2 requirements.
+.
+#Diarrhea: Given immunocompromised state with CD4 count of 16
+other infectious etiologies were considered with a wide
+differential. Mr. Knotts recent fevers up to 103 degrees were
+likely from his PCP. Amenia Knotts, given his noncompliance with his
+HIV therapy for 6 months, the team opted to collect multiple
+stool studies. Per OMR records, he had been seen in 2013-12-18 00:00:00-2013-12-18 00:00:00
+for chronic diarrhea and dyspeptic symptoms and he has a past
+history of ulcers in the upper third of his esophagus. Biopsies
+back in 2013-12-18 00:00:00 were negative for HSV and CMV. On this admission he
+had an extensive workup for his diarrhea and stool studies
+tested negative for all ova/parasites, cryptospora,
+microsporidium, salmonella, shigella, campylobacter, and
+giardia. Viral stool studies and C.difficile studies were also
+negative. Mr. Knotts Knotts his 25lb weight loss over the
+past 5 months to his intermittent chronic diarrhea (2013-12-18 00:00:00
+episodes/week) and decreased a123 Any St.e. As of 2013-12-18 00:00:00 his
+diarrhea symptoms tapered and he proceeded to have 2 days of
+constipation which was relieved with some stool softeners. By
+the time of discharge he had been having normal, daily, well
+formed bowel movements for 3 days and his diarrhea appeared to
+have at least temporarily ceased. During the initial days of his
+hospital stay he was given some supplemental IVFs as needed, but
+he continued to have excellent PO fluid intake so IVFs weren't
+needed. He was encouraged to follow up with his PCP as an
+outpatient if his diarrhea returned for possible imaging and
+additional workup.
+.
+# HIV/AIDS: Mr. Knotts  CD4 count of 16 was largely a result
+of his noncompliance with HAART medications x 6 months. After
+admission he was restarted on ritonavir, atazanavir, and
+truvada. He had complaints of dysphagia with his ritonavir
+tablet and he was switched to the elixir form which he was able
+to tolerate much better. He was continued on this same regimen
+at time of his discharge. He was also continued on Laureli Kink
+prophylaxis with Azithromycin and PCP treatment with
+Trimethoprim/Dapsone daily with a plan for 21 days total
+therapy.
+.
+# Weight loss: The patient reports a 25lb weight loss over the
+past 4-5 months. This is likely multifactorial in origin
+including diarrhea, infection, and noncompliance with his AIDS
+medications. Stool studies were all unremarkable and he had no
+evidence of GI bleeding. He was encouraged to consider
+supplemental shakes at time of discharge. He will continue to
+monitor his weight loss with his primary care physician as an
+outpatient.
+.
+#Transaminitis: Mr. Knotts had a slight increase in his AST /ALT
+enzymes which were Knotts to restarting his HAART regimen in
+conjunction with his TMP therapy. Dapsone can also raise LFTs.
+ALT peaked at 104 and AST reached a high of 55. He had no
+evidence of hepatosplenomegaly or RUQ tenderness on physical
+exam. No abdominal pain or jaundice. ALP remained within normal
+limits.  He will continue to have this issue followed as an
+outpatient.
+.
+# Dysphagia: On exam, the patient had yellowish patches on the
+posterior aspect of tongue consistent with thrush. His dysphagia
+gradually improved with a combination of oral fluconazole
+therapy and daily nystatin swish and swallow for suspected
+Amenia Knotts esophagitis. CMV esophagitis and HSV were also on the
+differential, especially since the patient has a known history
+of CMV esophagitis. After rapid response to fluconazole it was
+clear that he had a fungal infection. By time of discharge he
+had scant patches and near complete resolution of his symptoms.
+He was asked to continue his Diflucan and Nystatin for a total
+of 2 weeks.
+.
+
+# Anemia: Mr. Knotts had no sudden hematocrit drops or any
+evidence of acute bleeding during his hospital course. Based on
+his high ferritin and low TIBC his anemia is mainly from chronic
+disease. Iron levels were WNL and he had a borderline MCV at 80.
+Folate and Vitamin B12 deficiency were considered but follow-up
+lab testing revealed both Vitamin B12/folic acid levels were
+within normal limits.
+.
+#Hyperkalemia: A few days into his hospital stay he had a slight
+elevation from K 5 to 5.3 which was most likely a side effect of
+his trimethoprim therapy which can raise potassium levels. He
+was given Kayexalate 30g x1 on 2013-12-18 00:00:00 and patient had 2 loose BMs
+with a drop in his K down from 5 to 4 range. EKGs were all
+unremarkable and he had no repeat hyperkalemia bouts.
+.
+# Fluids, Electrolytes and Nutrition: Electrolytes were
+monitored and repleted daily as needed. He was continued on a
+regular PO diet with nutritional supplements and additional
+hydration with IVFs as needed.
+.
+# Prophylaxis: Subcutaneous heparin was given for DVT
+prevention, and H2 blocker was provided for GI protection. Bowel
+regimen was given for a few days later in his hospital stay for
+a few days of constipation.
+.
+The patient was maintained as a full code status for the
+entirety of his hospital stay and communication occurred on a
+daily basis directly with the patient to update him on his
+health status and progress. He was set up for close follow-up
+with his primary care physician at the time of discharge.
+.
+
+
+Medications on Admission:
+Reyataz - 300 mg, 1 tab daily
+Norvir - 100 mg, 1 tab daily
+Truvada 200/300 mg tab, 1 tab daily
+Dapsone - 100 mg, 1 tab daily
+Oxandrin - unknown strength - 1 tab as needed
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Primary:
+-Pneumonia
+-Oral Amenia Knotts /thrush
+-HIV/AIDS
+-Diarrhea
+.
+Secondary:
+-Anemia
+-Depression
+-h/o Herpes Simplex Virus
+-recurrent aphthous ulcers
+
+
+Discharge Condition:
+Good. At time of discharge the patient had stable vital signs
+and his shortness of breath and cough had improved.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you here at UPMCE (UPMCE).
+.
+You were admitted with fevers, shortness of breath, and a cough.
+After several labs and imaging studies you were diagnosed with
+pneumonia. Specifically, you were found to have Pneumocystis
+jirovecii pneumonia or Pneumocystis carinii pneumonia.
+.
+You also had some complaints of diarrhea on admission. Stool
+studies for parasites and bacteria returned normal. Please
+continue to monitor this issue with your primary care physician
+upon Amenia Knotts.
+.
+Antibiotics, nebulizer treatments, oxygen and oral steroids were
+given to improve your symptoms.
+.
+Please continue to use home oxygen therapy at 2L continuous
+until you follow-up with your PCP next week to discuss the need
+for additional oxygen beyond 1 weeks time.
+.
+Additional Medication Instructions:
+
+Please start taking daily triple regimen of Atazanavir,
+Emtricitabine-Tenofovir (Truvada), and Ritonavir for your
+HIV/AIDS medications.
+.
+Please complete an additional Amenia Knotts taper schedule over the
+next 3 weeks as prescribed.
+.
+Continue taking oral Diflucan for a total of 2 weeks therapy as
+prescribed and use your daily Nystatin Swish & Swallow solution
+as prescribed for your oral thrush infection.
+.
+because it is a steroid and you are currently taking Amenia Knotts
+(a different steroid).
+
+
+
+Followup Instructions:
+Please follow up with your primary care physician, Knotts. Knotts,
+on 2013-12-18 00:00:00 at 12:30pm. (Phone #test@mail.com)
+
+
+
+Completed by:2013-12-18 00:00:00

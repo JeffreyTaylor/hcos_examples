@@ -1,0 +1,506 @@
+Admission Date:  2008-06-16 00:00:00              Discharge Date:   2008-06-16 00:00:00
+
+Date of Birth: 1945-11-10 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Codeine / Nsaids / Levaquin
+
+Attending:Dlana Kufeldt
+Chief Complaint:
+transfer from UPMCE with rapid atrial rhythm, hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is a complicated 34 year old woman with hypertrophic
+nonobstructive cardiomyopathy, atrial tachyarrhythmias, PVI for
+AF complicated by R atrial perforation and  clot in pericardium
+with recent VF arrest with prolonged CPR and subsequent
+admission to UPMCE 2008-06-16 00:00:00. The patient was discharged to home
+on 2008-06-16 00:00:00 and did well for about one week per her report. She then
+developed increased lower extremity edema bilaterally as well as
+left hand swelling per her report. She felt that she might be
+volume overloaded so she presented to UPMCE Hospital on 2008-06-16 00:00:00.
+States she was minimally active (using wheelchair/bedside
+commode) but she was trying to be as active as possible.
+
+On admission to UPMCE, INR was supratherapeutic 5.8 which
+increased to 7.2 on 2008-06-16 00:00:00. She was treated with various
+medications (zaroxolyn, lasix IV & PO) for volume overload. CT
+of the chest demonstrated large right-sided pleural effusion and
+right-sided infiltrate. On 2008-06-16 00:00:00, right-sided thoracentesis was
+performed with removal of 1300 cc fluid. Initially treated with
+ceftriaxone/azithromycin for pneumonia, changed to
+azithromycin/cefuroxime on 2008-06-16 00:00:00. She was diuresed ~ 5 L in first
+3 days. She tells me her breathing felt "improved" after the
+Jacklon Gruszka, but increased resp distress noted after thoracentesis
+(2008-06-16 00:00:00); she was further diuresed. RUQ ultrasound performed due
+to elevation of bilirubin (level unclear) which was benign.
+Patient afebrile throughout admission, BPs ranging 90s-120s. HR
+typically 40-50s, with brief episodes in the 90s. Weight noted
+to be 88.9 kg on admission and 82.1 on transfer. Last BP in
+nursing notes documented to be 65/60 with HR 54 prior to
+transfer; CCU attending note states patient blood pressure
+80s-90s and HR 90-110s prior to transfer. She received 250 cc NS
+bolus at 2008-06-16 00:00:00 this evening.
+
+On review of symptoms, she denies any prior history of stroke,
+TIA, bleeding at the time of surgery, myalgias, joint pains,
+black stools or red stools. States she hads had cough since
+prior admission and small amounts of blood in sputum during
+recent UPMCE hospitalization and at home but none since UPMCE
+admission. She denies recent fevers, chills or rigors. She
+denies exertional buttock or calf pain. All of the other review
+of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain,
+paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope
+or presyncope.
+
+
+Past Medical History:
+# Hypertrophic cardiomyopathy.
+- Cardiac MR on 2008-06-16 00:00:00 with asymmetric LVH with maximal wall
+thickness of 19 mm at mid septum with focal hyperenhancement
+consistent with hypertrophic CM. EF 55%.
+# SVT with A fib, left atrial tach and AVNRT s/p pulmonary vein
+isolation on 2008-06-16 00:00:00 complicated by right atrial perforation,
+pericardial clot
+# Questionable history of WPW
+# Tobacco use with bronchitis and associated multifocal a tach.
+
+# Anxiety
+# Obesity
+# Asthma, ?COPD
+# Ob/gyn history includes 4 TABs, 2 deliveries with one
+surviving son, both premature (25 weeks and 23+ weeks); the
+second infant was delivered in the context of chorioamnionitis
+and did not survive.
+
+Cardiac Risk Factors: (-) Diabetes, (+) Dyslipidemia,
+(-)Hypertension
+
+Cardiac History: CABG: n/a
+
+Percutaneous coronary intervention: n/a
+
+Pacemaker/ICD: n/a
+
+Cardiac history, compiled from OMR:
+Age:
+12: Initial presentation with syncope
+13: Seen at UPMCE for history of syncope, chest
+pain and progressive exercise intolerance; diagnosed with
+hypertrophic cardiomyopathy, and underwent catheterization in
+which LVEDP was found to be 20. Started on ongoing verapamil
+therapy.
+16: Cardiac arrest secondary to complex tachycardia,
+successfully resuscitated. Repeat catheterization showed left
+ventricular end diastolic pressure of 36-40 without outflow
+tract obstruction. EP showed inducible atrial flutter with a
+rapid ventricular blood pressure; dx'ed w/rapid antegrade
+conduction and possible pre-excitation. Started on Norpace
+(dysopyramide); kept on verapamil and Norpace for many years.
+Had occasional palpitations, chest pain and light headedness.
+25: Appendicitis during pregnancy, with post-op course
+complicated by congestive heart failure, intubated and then
+eventually extubated without difficulty; delivered son at 25
+weeks.
+RECENT HISTORY:
+* 2008-06-16 00:00:00:  Atrial arrythmias (MAT diagnosed at UPMCE,
+Afib/flutter seen at OSH), started on amiodarone.
+* 2008-06-16 00:00:00:  Admitted from UPMCE Hosp w palpitations,
+diagnosed as AVNRT, discharged with increased dose of verapamil,
+made long-acting.
+* 2008-06-16 00:00:00:  Pulmonary vein isolation procedure. Post-procedure
+atrial tachycardia w/multiple morphologies-->cardioversion.
+Respiratory distress and post-procedure
+re-intubation<--pulmonary edema and possible contribution of
+pan-sensitive klebsiella PNA. Ongoing fevers, ?PE treated with
+heparin. Discharged on amiodarone 200 mg TID.
+* 2008-06-16 00:00:00: Dyspnea, chest pain, possible pneumomediastinum;
+diagnosed with large pericardial effusion; pericardial window
+done; post-op atrial tachycardia. During post-op course, had
+difficult-to-assess fluid status and was taken to the cath lab;
+in holding area had PEA arrest, coded for 1 hour; intubated for
+6 days and put on CVVH after cath confirmed volume overload;
+extubated; and then reintubated 2 days later for aspiration and
+hypoxia, then had pneumothorax as complication of intubation;
+ultimately extubated again, treated for pneumonia. Admission
+also notable for ARF and pancreatitis.
+* 2008-06-16 00:00:00: Admitted from rehab with dyspnea and chest pain,
+anemia and mild CHF symptoms; having atrial tachycardia with
+varying 2:1 and 3:1 conduction. Discharged 2008-06-16 00:00:00.
+* 2008-06-16 00:00:00: Admit for shortness of breath, coded for 30 minutes
+while being evaluated in ED: PEA w wide-complex near-sine-wave
+tachycardia 2008-06-16 00:00:00 hyperkalemia; regained pulse in 30 minutes,
+after which she had NSR w RBBB; then had wide complex tachy and
+BP drop; defibrillated x1 200J, briefly on dopamine gtt.
+Admission notable for ongoing fluid overload and
+weakness/apparent deconditioning. Source of hyperkalemia was
+never clear and did not repeat itself. Pt discharged on 2008-06-16 00:00:00 to
+home after refusing placement to rehab. Pt had been at home
+until her most recent admission to UPMCE.
+
+
+Social History:
+Lives with fiance', son, and uncle. Currently on disability. 40
+pack-year smoker (2 ppd x 20 years) but denies recent smoking.
+No alcohol. Regular marijuana use in past but denies recently.
+No pets at home.
+
+
+Family History:
+No family history of sudden cardiac death or premature CAD. Mom
+has DM, HTN. Jacklon Gruszka son has aortic stenosis and hypertrophic
+cardiomyopathy, had cardiac surgery during infancy.
+
+
+
+Physical Exam:
+
+VS: T , BP 108/70, HR 59, RR 14, O2 100% on 2L NC
+Gen: WDWN middle aged female in NAD, resp or otherwise. Oriented
+x3. Flat affect, pleasant.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with JVP of 10 cm.
+CV: PMI prominent at 5th intercostal space, slightly displaced
+laterally. Regular rhythm with 2/6 systolic murmur at LUSB.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Diminished breath
+sounds noted at bilateral bases. No crackles, wheeze, rhonchi.
+Prior thoracentesis site noted on right back, covered with clean
+bandage without surrounding bruising.
+Abd: Obese, soft, NTND, No HSM or tenderness.
+Ext: 1+ pitting edema to bilateral knees, 1+ bilateral DP
+pulses,
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Scattered ecchymoses on bilateral upper arms secondary to prior
+lab sticks.
+Pulses:
+Right: Carotid 2+ without bruit; 1+ DP
+Left: Carotid 2+ without bruit; 1+ DP
+
+
+Pertinent Results:
+2008-06-16 00:00:00 02:40AM BLOOD WBC-9.6 RBC-3.22* Hgb-9.8* Hct-31.3*
+MCV-97 MCH-30.3 MCHC-31.2 RDW-18.6* Plt Ct-480*
+2008-06-16 00:00:00 02:40AM BLOOD Neuts-72.6* Lymphs-21.2 Monos-4.9 Eos-0.6
+Baso-0.6
+2008-06-16 00:00:00 02:40AM BLOOD PT-29.8* PTT-38.6* INR(PT)-3.0*
+2008-06-16 00:00:00 06:20AM BLOOD PT-31.5* PTT-38.9* INR(PT)-3.3*
+2008-06-16 00:00:00 02:40AM BLOOD Glucose-97 UreaN-11 Creat-0.6 Na-136
+K-3.8 Cl-92* HCO3-36* AnGap-12
+2008-06-16 00:00:00 06:20AM BLOOD Glucose-85 UreaN-12 Creat-0.6 Na-137
+K-3.7 Cl-94* HCO3-34* AnGap-13
+2008-06-16 00:00:00 02:40AM BLOOD Calcium-8.6 Phos-3.9 Mg-2.2
+
+MEDICAL DECISION MAKING  .
+EKG demonstrated sinus bradycardia with normal axis, which was
+signicantly changed from prior EKG showing rapid (rate 100s)
+atrial fibrillation (2008-06-16 00:00:00). No ischemic ST-T wave deviations.
+Prominent P waves in precordial leads, inverted in V1. Poor R
+wave progression.
+
+TELEMETRY demonstrated: pending, sinus bradycardia at OSH
+
+2D-ECHOCARDIOGRAM performed on 2008-06-16 00:00:00 demonstrated:  The left
+and right atria are moderately dilated. There is moderate
+symmetric left ventricular hypertrophy with normal cavity size
+and regional/global systolic function (LVEF>55%). There is no
+valvular Jacklon Gruszka or resting LVOT gradient. Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic regurgitation. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Physiologic mitral
+regurgitation is seen (within normal limits). The estimated
+pulmonary artery systolic pressure is high normal. There is a
+trivial/physiologic pericardial effusion.
+Compared with the prior study (images reviewed) of 2008-06-16 00:00:00, the
+magnitude of tricuspid regurgitation and the estimated pulmonary
+artery systolic pressure have decreased.
+
+ETT: n/a
+
+Right-CARDIAC CATH performed on 2008-06-16 00:00:00 demonstrated:
+HEMODYNAMICS:
+**PRESSURES
+RIGHT ATRIUM {a/v/m} 48/48/37
+RIGHT VENTRICLE {s/ed} 72/48
+PULMONARY ARTERY {s/d/m} 72/38/42
+PULMONARY WEDGE {a/v/m} 52/53/38
+**CARDIAC OUTPUT
+HEART RATE {beats/min} 91
+RHYTHM SINUS
+O2 CONS. IND {ml/min/m2} 125
+A-V O2 DIFFERENCE {ml/ltr} 48
+CARD. OP/IND FICK {l/mn/m2} 5.4/2.6
+**RESISTANCES
+PULMONARY VASC. RESISTANCE 59
+**% SATURATION DATA (NL)
+PA MAIN 48
+AO 90
+
+Outside studies from UPMCE:
+CXR (2008-06-16 00:00:00): small to moderate bilateral pleural effusions,
+persistent left lower lobe airspace opacity. Improved airspace
+opacity in the right lower lobe & RML.
+
+CT chest (2008-06-16 00:00:00): extensive consolidation of right lower lobe
+minimally sparing the superior segment. Large right pleural
+effusion & small left pleural effusion seen. Masslike alveolar
+density seen at posterior pleural border of the left lower lobe
+superior segment measuring 2.1 X 2.4 cm in size. A second
+masslike pleural based lesion eventually collected with
+peripheral atelectatic lung tissue in seen anterior lateral
+border of right upper lobe anterior sgement, measuring 2.2 X 1.6
+cm. Abnormally enlarged right lower paratracheal lymph nodes
+measuring 1.7 X 1.3 cm in size. No pericardial effusion.
+
+Abdominal ultrasound (2008-06-16 00:00:00): cholesterolosis of the gallbladder
+
+Outside Labs:
+Pleural fluid cell count: 1405 WBC (1 poly, 7 lymph, 92 monos),
+glucose 113, total protein 2.8, amylase 40, LDH 195, pH 8
+
+Cell block (thoracentesis, 2008-06-16 00:00:00): neutrophils, reactive
+mesothelial cells, lymphocytes, and RBCs
+
+ABG (2008-06-16 00:00:00): 7.58/42/147 on 3L NC
+
+WBC 9.8 (82N, 13L, 5M), Hgb 8.6, Hct 27.8, Plt 449
+MCV 97
+Retics 2.3
+
+PT 29.9, PTT 42, INR 3
+
+Iron 27, TIBC 340, ferritin 55
+2008-06-16 00:00:00: Na 135, K 3.5, Cl 91, CO2 36, Ca 8.6, Mg 2.2, glucose 78,
+BUN 12, Cr 0.5
+
+Total protein 6.1, albumin 2.7
+Tbili 0.9, direct bili 0.6
+alk phos 129
+ALT 21, ALT 11, LDH 321
+CK 24, CKMB 2, troponin ultra 0.2
+Cholesterol 125, HDL 34, LDL 67, TG 122
+TSH 4.8
+
+BNP (2008-06-16 00:00:00) 2944 (range 2700-5000)
+Mg (2008-06-16 00:00:00) 2.2
+Phos (2008-06-16 00:00:00) 4.1
+
+Dlana Kufeldt negative
+RF negative
+
+
+Brief Hospital Course:
+This is a 34 year old woman with hypertrophic cardiomyopathy and
+a cardiac history dating back to episodes of syncope at age 12
+and her first cardiac arrest at age 16; now admitted for episode
+of atrial tachycardia with hypotension, which resolved after IV
+fluids.
+
+# Atrial Tachycardia: Ms. Gruszka had tachycardia at the OSH
+which was transient.  She is now back in sinus bradycardia,
+which is consistent with past episodes of atrial
+tachyarrythmias. Although she has had a past chart diagnosis of
+WPW there has been no recent evidence of this.  She will go home
+on decreased dose of Metoprolol XL 25mg daily. We are holding
+verapamil given bradycardia.  She is to continue on home
+amiodarone dose.  She will follow up with Dr. Dlana Kufeldt in EP
+clinic who will discuss possible Pacemaker placement.  The
+patient is refusing pacemaker placement currently.  She is to
+continue on home Warfarin dosage.  INR should be followed by PCP
+with Jacklon Gruszka in Coumadin as needed.
+
+# CAD/Ischemia: No evidence of ischemia/CAD currently.
+
+# Pump: Ms. Gruszka suffers from severe diastolic heart failure
+with preserved systolic function by echocardiogram. She is
+pre-load dependent but also susceptible to fluid overload, fluid
+balance is therefore delicate.  She was started on
+Spironolactone at the OSH and will go home on Spironolactone
+12.5mg UPMCE.  She is to continue her home dose of Lasix.  She
+will continue with Metoprolol as above
+
+# Valves: Last echo shows no clear valvular dysfunction. She
+suffers from Hypertrophic Cardiomyopathy and is pre-load
+dependent.
+
+# Past dyspnea and respiratory distress. She is currently at
+baseline O2 reqiurement and appears comfortable. Imaging at OSH
+was reviewed with radiology here, there is a mass which likely
+represents infection/fluid and is very low probability of
+malignancy since it was absent from a recent CT chest.  She will
+need follow up imaging to assure that it has resolved.
+
+# Depression: Continue bupropion and sertraline
+
+
+Medications on Admission:
+Medications on admission to outside hospital:
+1. Montelukast 10 mg PO qhs
+2. Calcium Acetate 667 mg Two (2) Capsule PO TID W/MEALS
+3. Sertraline 150 mg PO daily
+4. Bupropion 75 mg PO daily
+5. Amiodarone 100 mg PO daily
+6. Pantoprazole 40 mg PO daily
+7. Verapamil 40 mg PO Q8H
+8. Camphor-Menthol 0.5-0.5 % Lotion. One (1) Appl Topical
+QID (4 times a day) as needed.
+9. Metoprolol Succinate 100 mg (Toprol XL) PO daily
+10. Clonazepam 1 mg PO TID as needed for anxiety.
+11. Furosemide 80 mg PO BID
+12. Warfarin 4 mg PO daily
+13. Ipratropium Bromide 17 mcg/Actuation Aerosol 2 IH QID.
+14. Percocet 5-325 mg; 1-2 tabs twice a day as needed for pain.
+15. Ascorbic Acid 500 mg PO BID
+16. Docusate Sodium 200 mg UPMCE
+17. FerrouSul 325 mg (65 mg Iron) PO once a day.
+18. Senna 8.6 mg Capsule PO twice a day.
+19. B Complex Plus Vitamin C  Oral
+20. Folic Acid 1 mg PO daily
+21. trazodone (dose unclear)
+.
+Meds on transfer from UPMCE:
+* KCL 20 meQ 20 mg UPMCE
+* furosemide 40 mg UPMCE
+* mg hydroxide 30 mL q8h prn
+* lidocaine patches (2) daily
+* cyclobenzaprine 5 mg q8h prn
+* spironolactone 25 mg UPMCE
+* coumadin 4 mg daily
+* sertraline 150 mg daily
+* metoprolol 12.5 mg PO BID
+* mg oxide 400 mg UPMCE
+* amiodarone 100 mg daily
+* guaifenesin 200 mg q4h prn
+* zofran 4 mg q4h prn
+* ferrous sulfate 300 mg daily
+* trazodone 100 mg qhs
+* atrovent in q6h prn
+* albulterol inh q6h prn
+* ascorbic acid 500 mg UPMCE
+* senna UPMCE
+* folate 1 mg daily
+* colace 200 mg UPMCE
+* protonix 40 mg daily
+* buproprion 75 mg daily
+* singulair 10 mg QHS
+* oxycodone/apap 1 tab q8h prn
+* clonazepam 1 mg TID
+* Cefuroxime 500 mg PO BID (start 2008-06-16 00:00:00, course planned until
+2008-06-16 00:00:00)
+* azithromycin 500 mg daily (2008-06-16 00:00:00)
+
+
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+2. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Bupropion 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) as needed for anxiety.
+5. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2
+times a day).
+6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+9. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+12. Sertraline 50 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+13. Warfarin 2 mg Tablet Sig: Two (2) Tablet PO DAILY16 (Once
+Daily at 16).
+14. B Complex  Oral
+15. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+twice a day as needed for pain.
+16. Toprol XL 25 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+17. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO three
+times a day: with meals
+.
+18. Spironolactone 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times
+a day).
+Disp:*15 Tablet(s)* Refills:*0*
+19. Furosemide 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE VNA
+
+Discharge Diagnosis:
+Primary:
+Acute diastolic heart failure
+Atrial tachycardia
+Hypotension
+Hypertrophic Cardiomyopathy
+.
+Secondary:
+H/o cardiac arrest
+H/o multiple cardiac tachyarrythmias
+Anxiety
+Obesity
+Asthma
+
+
+Discharge Condition:
+Good, afebrile, ambulating
+
+
+Discharge Instructions:
+You were admitted to the hospital with shortness of breath and
+tachycardia (rapid heart rate). Your symptoms improved with
+fluid management and control of your heart rate.  Your
+Metoprolol dose has been decreased to 25mg daily.  You have been
+started on a new diuretic Spironolactone 12.5mg twice daily.
+Your Verapamil has been stopped, please do not take this
+medication.
+.
+Please follow-up as below. It is also recommended that you have
+a repeat chest CT scan in 1 month to evaluate small pulmonary
+nodules (left lower and right upper lobes) that were
+incidentally found.
+.
+Please continue to take your remaining home medications as
+prescribed. Weigh yourself every morning, Jacklon Gruszka MD if weight > 3
+lbs.
+Adhere to 2 gm sodium diet
+.
+You should call your primary care provider, Gruszka. Gruszka, or your
+cardiologist, Dr. Dlana Kufeldt, or return to the emergency
+department if you experience palpitations, chest pain, shortness
+of breath, loss of consciousness, fever greater than 101.5
+degrees F, or any other symptoms that concern you.
+
+Followup Instructions:
+Please follow up with your PCP Gruszka. Gruszka. An appointment has
+been set up for you on Tuesday, 2008-06-16 00:00:00 at 2:30pm. Phone:
+2008-06-16 00:00:00. Discuss having a repeat chest CT scan in 1 month
+to evaluate small pulmonary nodules (left lower and right upper
+lobes) that were incidentally found.
+.
+Provider: Dlana Kufeldt, M.D. Phone:test@mail.com Date/Time:
+2008-06-16 00:00:00 4:00pm.
+
+
+

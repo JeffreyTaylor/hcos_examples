@@ -1,0 +1,176 @@
+Admission Date:  2010-02-13 00:00:00              Discharge Date:   2010-02-13 00:00:00
+
+Date of Birth: 1948-02-07 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Lipitor
+
+Attending:Eiljah Acidera
+Chief Complaint:
+Angina
+
+Major Surgical or Invasive Procedure:
+Cabg x4  2010-02-13 00:00:00  (LIMA to prox. LAD, SVG to distal LAD, SVG to
+ramus, SVG to OM)
+
+
+History of Present Illness:
+78 yo male with history of internmittent angina for the past
+year, relieved by rest. Failed a recent ETT, and referred for
+cath which revealed LM 50-60%, 75% LAD, CX 95%, OM 3 70%, RCA
+30%, PDA 75%. Referred for CABG.
+
+Past Medical History:
+MI
+CAD s/p angioplasty 2010-02-13 00:00:00
+HTN
+elev. chol.
+
+PSH: rem. renal calc.
+rem. cervical disc 2010-02-13 00:00:00
+
+Social History:
+Retired: lives alone
+50 year history of smoking cigars
+Occasional ETOH
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: Wgt: 76.8 kg preop 72.4 HR: 50's SB  BP: 104-110/50-60
+HEENT unremarkable
+Neck supple, full ROM, no carotid bruits ap123 Any St.ted
+Resp: decreased breath sounds bilaterally with crackles 1/4 up
+on Left
+Card: RRR, no murmur
+GI: bowel sounds positive, abdomen soft non-tender/non-distened
+Extrem: warm, well-perfused, no edema
+Neuro grossly intact
+Wound: sternal clean,dry, intact, with staples, no erythema
+Pulses: 2+ bil. fems/DP/PT/radials
+
+Pertinent Results:
+2010-02-13 00:00:00 WBC-15.9* RBC-3.31* Hgb-10.5* Hct-29.8 Plt Ct-156
+2010-02-13 00:00:00 Glucose-129* UreaN-12 Creat-0.9 Na-132* K-4.7 Cl-101
+HCO3-26
+2010-02-13 00:00:00 04:46PM BLOOD %HbA1c-5.9
+2010-02-13 00:00:00 WBC-8.2 RBC-2.68* Hgb-8.3* Hct-24.6  Plt Ct-277
+2010-02-13 00:00:00 Glucose-101 UreaN-23* Creat-1.2 Na-141 K-4.4 Cl-105
+HCO3-30
+2010-02-13 00:00:00  BLOOD PT-12.6 PTT-25.0 INR(PT)-1.1
+
+CHEST (PA & LAT)  2010-02-13 00:00:00
+
+The patient is status post sternotomy, with mediastinal clips
+and overlying skin staples. There is prominence of the
+cardiomediastinal silhouette. There is no CHF. There is some
+residual increased retrocardiac density and some atelectasis in
+the left mid zone and right medial base. There is minimal
+blunting of both costophrenic angles, consistent with small
+bilateral effusions.
+
+
+Brief Hospital Course:
+Admitted for cath on 2010-02-13 00:00:00 and started a Plavix washout over the
+weekend. Underwent successful CABG x4 with Dr. Rettig on 2010-02-13 00:00:00.
+Transferred to the CVICU in stable condition on epinephrine,
+lidocaine, phenylephrine and propofol drips. Extubated that
+evening and started on amiodarone the next morning for atrial
+fibrillation. Transferred to the floor on POD #1 to begin
+increasing his activity level. He was gently diuresed toward his
+preoperative weigh. Chest tubes removed on POD #2, and pacing
+wires removed on POD #3. He converted to a sinus rhythm on POD
+#4, continued to work with physical therapy.  He was started on
+Coumadin with an INR goal 2.0-3.0. Given 4 mg of coumadin
+2010-02-13 00:00:00 for INR 1.1. He was discharged to rehab on POD #6 and
+will follow-up with Dr. Eiljah Acidera as an outpatient and Dr.
+Rettig for coumadin management after discharge from rehab.
+
+Medications on Admission:
+lopressor 25 mg UPMCE
+accupril 20 mg daily
+cardizem CD 120 mg daily
+vytorin 10/20 mg daily
+ASA 325 mg daily
+viagra prn
+plavix 75 mg daily
+Vit. E
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 1 months.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+6. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed.
+8. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO ONCE (Once) for 1
+doses.
+10. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily) for 7 days: then 200 mg daily.
+11. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily).
+13. Warfarin 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Please dose to maintain INR of 2.0-3.0.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+CAD  s/p cabg x4 and angioplasty 2010-02-13 00:00:00
+MI
+HTN
+elev. chol.
+
+PSH: removal kidney stone
+rem. cervical disc  2010-02-13 00:00:00
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+SHOWER daily and pat incisions dry
+no lotions, creams or powders on any incision
+no lifting greater than 10 pounds for 10 weeks
+no driving for one month
+call for fever greater than 100.5, redness, or drainage
+coumadin for Afib INR Goal 2.0-3.0 please dose coumadin
+accordingly
+Amiodarone 400 mg once daily for 7 days then 200 mg daily
+Sternal Staple removal in 2010-02-13 00:00:00 days
+
+
+Followup Instructions:
+Dr. Rettig in 2010-02-13 00:00:00 weeks call for an appointment after
+discharge from rehab for coumadin management
+Call Dr. Rettig in 2010-02-13 00:00:00 weeks for a follow-up appointment
+Call Dr. Eiljah Acidera in 4 weeks  test@mail.com
+
+
+
+Completed by:2010-02-13 00:00:00

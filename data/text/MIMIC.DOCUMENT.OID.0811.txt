@@ -1,0 +1,383 @@
+Admission Date:  2013-11-20 00:00:00              Discharge Date:   2013-11-20 00:00:00
+
+Date of Birth: 1993-11-17 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ibuprofen
+
+Attending:Egor Blotner
+Chief Complaint:
+Right coronary artery ST-elevation myocardial infarction
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+History of Present Illness:
+Patient reports she was 123 Any St. a book at 1500h at home today
+and had sudden onset bilateral arm pain and heaviness from the
+biceps to the lower arms and chest pain. Per telephone triage,
+she also had wheezing and was very anxious. She had never had
+chest pain like this before. She was sent to the ED and recieved
+325mg of ASA and Morphine 10mg IV prior to arrival. She received
+Oxygen, Plavix 600mg heparin bolus 4200u IV and integrillin
+bolus 12mg IV. EKG demonstrated STE in II, III, AvF as well as
+in Right sided leads V3-V6 concerning for inferior infarct and
+RCA occlusion. Paatient was taken to cath lab and underwent PTCA
+with deployment of three BMS in the proximal RCA. She tolerated
+the procedure well and was admitted to the CCU for
+post-operative care.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion
+
+
+Past Medical History:
+ONCOLOGIC HISTORY:  Initially presented with URI-symptoms in
+2013-11-20 00:00:00. CXR followed by CT scan showed adenopathy and
+bronchial collapse, and a large hilar mass. Transbronchial
+needle aspiration and biopsy showed SCLC.  She was treated with
+carboplatin and etoposide with radiation for a total of 4+2
+cycles.  Her most recent consolidation cycle was completed in
+2013-11-20 00:00:00.  She underwent prophylactic cranial irradiation,
+which she completed on 2013-11-20 00:00:00.
+.
+MEDICAL HISTORY
+1.  Cholecystectomy.
+2.  Hypothyroidism.
+3.  Osteopenia.
+4.  Hypertension.
+5.  Hypercholesterolemia.
+6.  GERD.
+
+1. CARDIAC RISK FACTORS: Hypertension, Hypercholesterolemia.
+2. CARDIAC HISTORY: Has been worked up 123 Any St.usly in 2013-11-20 00:00:00 and
+2013-11-20 00:00:00 for anginal chest pain. 2013-11-20 00:00:00 did not show evidence of
+ischemic changes. 2013-11-20 00:00:00 showed angina with equivocal EKG changes.
+
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS: None prior
+-PACING/ICD: none
+3. OTHER PAST MEDICAL HISTORY:
+Hypothyroidism
+GERD
+Small Cell Lung Cancer
+Memory Loss
+Urinary incontinence
+Basal Cell Carcinoma of the right cheek.
+Cholecystectomy
+Osteopenia
+
+Social History:
+Former smoker; had smoked 1 to 1/2 packs a day for 37 years,
+quit 13 years ago. No alcohol use.  No illicit drug use.
+.
+She is divorced. Lives with brother, essentially lives
+independently. She has 1 son who lives in area. She was formerly
+employed as a federal auditor.
+
+
+Family History:
+One brother with prostate cancer.  No other cancer
+Mother with Catonya Rivet, arthritis, esophageal ulcers.
+Father and a brother with alcoholism.
+
+Physical Exam:
+Exam on admission
+VS: T= BP=118/62 HR=106 RR=12 O2 sat= 98 2L
+GENERAL: WDWN feamle in NAD. Oriented x2. Sedated and drowsy
+requiring redirection at times. Noteable slurred speech.
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink. Dry Mucous
+Membranes.
+NECK: Supple. Unable to assess JVP as patient was lying flat. No
+bruits.
+CARDIAC: RR, normal S1, S2. No m/r/g. No S3 or S4.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no
+crackles.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: Right femoral sheath in place. Hematoma on left
+forearm.
+Neuro: CN II-XII intact. No gross motor deficits.
+SKIN: CDI
+Right: Radial 1+ DP 1+
+Left: Radial 1+ DP 1+
+
+Exam on discharge
+Gen: alert, amb back from bathroom with walker, comfortable.
+HEENT: supple, unable to eval JVD
+CV: RRR, no M/R/G
+RESP: CTAB
+ABD: soft, NT, pos BS
+EXTR: trace peripheral edema
+NEURO: oriented x3, somewhat unclear on recent events.
+Extremeties: right groin with extensive ecchymosis, no hematoma
+Right: DP 1+ PT 1+
+Left: DP 1+ PT 1+
+Skin: intact
+
+Pertinent Results:
+2013-11-20 00:00:00: Catheterization
+COMMENTS:
+1. Selective coronary angiography in this right dominant system
+revealed
+two vessel disease.  The LMCA was normal without significant
+stenosis.
+The LAD has no obstructive disease with 60% stenosis in the
+origin of
+the first diagonal.  The LCx was normal without obstructive
+disease.
+The RCA had a total occlusion in the proximal part of the
+vessel.
+2. Limited resting hemodynamics revealed a normal central aortic
+
+pressure 135/84 with a mean of 113 mmHg.
+3. Successful PTCA/Stenting of proximal/mid RCA with three
+overlapping
+VISION 3.0 X 12 mm Baremetal stents along with Export
+thrombectomey
+resulting in 0% residual stenosis and normal flow.
+
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Inferior STEMI with successful placememt of three bare-metal
+stents
+in proximal and mid RCA.
+
+CTA Head/Neck 2013-11-20 00:00:00:
+IMPRESSION:
+
+1. CT head demonstrates no acute intracranial process; within
+the limitation of persistent contrast in the major cerebral
+arteries from recent cardiac catheterization, limiting the
+resolution of thrombus detection.
+
+2. Global dilatation of ventricles, unchanged since the earlier
+MR study of 2013-11-20 00:00:00, in keeping with a degree of
+central cerebral volume loss.
+
+3. CTA neck demonstrates no hemodynamically significant
+stenosis,
+craniocervical dissection or luminal narrowing.
+
+4. Impression of luminal narrowing and soft tissue density at
+the upper
+cervical esophagus, near its ostium. Re-evaluation of symptoms
+is advised,
+with direct inspection with upper endoscopy, particularly if
+warranted on
+clinical grounds.
+
+4. Extensive centrilobular emphysema involving both upper lobes.
+
+
+MRI 2013-11-20 00:00:00: No evidence of acute intracranial process.
+Unchanged global dilatation of ventricles in keeping with
+central volume loss since the earlier MR study of 2013-11-20 00:00:00.
+
+Echo results:
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and cavity size are normal. There is mild regional
+left ventricular systolic dysfunction with very mild hypokinesis
+of the inferior wall. The remaining segments contract normally
+(LVEF = 55 %). Right ventricular chamber size and free wall
+motion are normal. The diameters of aorta at the sinus,
+ascending and arch levels are normal. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic stenosis. Mild (1+) aortic regurgitation is seen. The
+mitral valve leaflets are structurally normal. There is no
+mitral valve prolapse. Mild (1+) mitral regurgitation is seen.
+The pulmonary artery systolic pressure could not be determined.
+There is a trivial/physiologic pericardial effusion.
+
+IMPRESSION: Very mild focal left ventricular hypokinesis c/w
+CAD. Mild aortic regurgitation. Mild mitral regurgitation.
+
+Admission labs:
+2013-11-20 00:00:00 05:00PM BLOOD cTropnT-0.13*
+2013-11-20 00:00:00 02:19AM BLOOD CK-MB-82* MB Indx-9.7*
+2013-11-20 00:00:00 10:11AM BLOOD CK-MB-54* MB Indx-7.0*
+2013-11-20 00:00:00 05:00PM BLOOD WBC-6.0 RBC-3.93* Hgb-12.2 Hct-35.7*
+MCV-91 MCH-31.1 MCHC-34.2 RDW-13.3 Plt Ct-176
+2013-11-20 00:00:00 10:06PM BLOOD Neuts-77.3* Lymphs-16.4* Monos-5.6
+Eos-0.3 Baso-0.4
+2013-11-20 00:00:00 05:00PM BLOOD PT-12.4 PTT-24.4 INR(PT)-1.0
+2013-11-20 00:00:00 10:06PM BLOOD Glucose-111* UreaN-26* Creat-1.2* Na-135
+K-4.6 Cl-106 HCO3-23 AnGap-11
+2013-11-20 00:00:00 05:00PM BLOOD Lipase-39
+2013-11-20 00:00:00 05:00PM BLOOD cTropnT-0.13*
+2013-11-20 00:00:00 05:00PM BLOOD Cholest-243*
+2013-11-20 00:00:00 05:00PM BLOOD Triglyc-151* HDL-65 CHOL/HD-3.7
+LDLcalc-148*
+2013-11-20 00:00:00 07:28PM BLOOD %HbA1c-5.8 eAG-120
+2013-11-20 00:00:00 05:04PM BLOOD Glucose-124* Lactate-1.4 Na-140 K-4.2
+Cl-106 calHCO3-22
+2013-11-20 00:00:00 05:04PM BLOOD freeCa-1.08*
+
+Discharge labs:
+2013-11-20 00:00:00 07:50AM BLOOD WBC-8.6 RBC-3.30* Hgb-10.1* Hct-30.3*
+MCV-92 MCH-30.6 MCHC-33.3 RDW-13.6 Plt Ct-163
+2013-11-20 00:00:00 07:50AM BLOOD Glucose-101* UreaN-19 Creat-1.0 Na-136
+K-4.1 Cl-104 HCO3-22 AnGap-14
+2013-11-20 00:00:00 07:50AM BLOOD Calcium-8.9 Phos-2.5* Mg-2.2
+
+Brief Hospital Course:
+Briefly this is a 75 YO woman with remote history of exertional
+angina presenting with sudden onset bilateral arm pain secondary
+to RCA STEMI.
+.
+# Right Coronary Artery STEMI: The patient underwent cardiac
+catheterization with placement of three bare metal stents in the
+proximal and mid RCA with no complications. Her pressures were
+supported postoperativly with IV fluids. Integrillin was hung
+for 18 hours post-procedure. Her EKG and troponins returned to
+123 Any St.. She was angina-free for the duration of her
+hospitalization. Her BB was initially held secondary to risk of
+high degree heart block following RCA STEMI. She remained in
+normal sinus rhythm for the duration of her hospitalization and
+was restarted at metoprolol XL 25mg PO daily. She should
+continue aspirin and plavix for 30 days post operatively.
+.
+Slurred speech: Immediatly post-procedure the patient was noted
+to have slurred speech and confusion that was a deviation from
+baseline mental status per her son. Neurology was consulted.
+Imaging of the head and neck was without evidence of hemmorhage
+but 123 Any St.inary reads were concerning for apossible left ICA
+thrombus. She was started on a heparin drip overnight. Further
+review of the imaging the following morning was not consistent
+with an ICA thrombus and the heparin was stopped. A follow up
+MRI was negative for any intracranial process. Her AMS was
+thought to be secondary to sedative medications received during
+the procedure and ICU delirium. She began to clear within two
+days.
+.
+Incidental finding on Neck CTA:  Imaging also showed an
+incidental finding of luminal narrowing and soft tissue density
+at the upper cervical esophagus, near its ostium. Follow-up
+evaluation is advised with EGD especially if clinically
+correlated. The patient was asymptomatic during her
+hospitalization. The pateint should follow up with her primary
+care physician to determine if further evaluation is needed.
+
+# Hypothyroidism: She was continued on her home levothyroxine.
+
+
+Medications on Admission:
+-Benzonatate 100mg 1 by mouth daily
+-Citalopram 30mg by mouth once daily
+-donezapil 5mg one tablet by mouth each morning with breakfast
+-Ergocalciferal 50,000 units capsule one by mouth every other
+week
+-combivent 2 puffs every 6 hours as needed for wheezing/sob
+-levothyroxine 88mcg tablet daily monday-saturday
+-oxybutynin chloride 5mg tablet ER one by mouth daily
+-trazodone 50mg tablet one tablet by mouth at bed time as needed
+for insomnia
+-Imodium prn for diarrhea
+-Tylenol prn for pain
+-Calcium citrate + vit D UPMCE
+
+
+Discharge Medications:
+1. oxybutynin chloride 5 mg Tablet Extended Rel 24 hr Sig: One
+(1) Tablet Extended Rel 24 hr PO once a day.
+2. benzonatate 100 mg Capsule Sig: One (1) Capsule PO DAILY PRN
+() as needed for cough.
+3. citalopram 20 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+4. donepezil 5 mg Tablet Sig: One (1) Tablet PO BREAKFAST
+(Breakfast).
+5. ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1)
+Capsule PO every other week: take on Fridays.
+6. ipratropium-albuterol 18-103 mcg/Actuation Aerosol Sig: 2013-11-20 00:00:00
+Puffs Inhalation Q6H (every 6 hours) as needed for SOB/wheezing.
+
+7. levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO
+MTUWETHFRSA ().
+8. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for insomnia.
+9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO three
+times a day as needed for pain.
+10. Calcium Citrate + D 315-200 mg-unit Tablet Sig: One (1)
+Tablet PO twice a day.
+11. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+12. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): Take every day for at least one month.
+13. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. metoprolol succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+15. ranitidine HCl 150 mg Capsule Sig: One (1) Capsule PO once a
+day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+ST Elevation Myocardial Infarction
+Hypertension
+Dyslipidemia
+Chronic Memory Loss with Acute Delerium
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You had a heart attack and needed to have 3 bare metal stents
+placed in your right coronary artery. You have not had any
+further chest pain since this procedure. You will need to take
+aspirin and plavix every day for at least one month and possibly
+longer to prevent the stents from clotting off and causing
+another heart attack. Do not stop taking these medicines unless
+Dr.Catonya Rivet tells you it is OK.
+You have some bruising in your groin from the catheterization,
+this should resolve slowly. You also had some confusion we call
+delerium from being in the hospital, this should resolve
+completely over the next few weeks.
+Medication changes:
+1. Start taking aspirin and Plavix (clopidogrel) to prevent the
+stents from clotting off
+2. Start taking Metoprolol to help your heart recover from the
+heart attack
+3. Start taking Atorvastatin (Lipitor) to prevent more blockages
+in your heart arteries.
+4. Stop taking Nexium, take Ranitidine instead to prevent
+heartburn.
+
+
+Followup Instructions:
+Department: RADIOLOGY
+When: THURSDAY 2013-11-20 00:00:00 at 11:30 AM
+With: CAT SCAN test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: PSYCHIATRY
+When: WEDNESDAY 2013-11-20 00:00:00 at 11:00 AM
+With: Catonya Rivet, MD test@mail.com
+Building: Ra 123 Any St.
+Campus: EAST     Best Parking: Main Garage
+
+Department: SURGICAL SPECIALTIES
+When: MONDAY 2013-11-20 00:00:00 at 2:15 PM
+With: [**First Name8 (NamePattern2) 159**] Catonya Rivet Catonya Rivet, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: CARDIAC SERVICES
+When: TUESDAY 2013-11-20 00:00:00 at 9:20 AM
+With: Catonya Rivet, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+

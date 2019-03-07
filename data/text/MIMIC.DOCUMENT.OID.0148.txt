@@ -1,0 +1,148 @@
+Admission Date:  2010-08-21 00:00:00              Discharge Date:   2010-08-21 00:00:00
+
+Date of Birth: 1961-08-18 00:00:00 00:00:00             Sex:   F
+
+Service: Adriene Schifrin
+
+Allergies:
+Penicillins / Bactrim
+
+Attending:Adriene Schifrin
+Chief Complaint:
+Morbid obesity
+
+Major Surgical or Invasive Procedure:
+1. Laparoscopic Roux en Y gastric bypass. (2010-08-21 00:00:00)
+2. Laparoscopic cholecystectomy. (2010-08-21 00:00:00)
+3. Takeback for Laparoscopic abdominal exploration. (2010-08-21 00:00:00)
+
+History of Present Illness:
+Mrs. Bentley is a 50 year old
+woman, with longstanding morbid obesity, refractory to non
+operative attempts at weight loss. She has a preoperative
+weight of 230.7 pounds, a height of 63 inches and a body mass
+index of 40.9. She was evaluated by a multi-disciplinary
+bariatric team and
+deemed a suitable candidate for gastric bypass in accordance
+with the National
+Institute of Health Consensus Statement.
+
+
+Past Medical History:
+She suffers from associated comorbidities
+including hypertension, non insulin dependent diabetes
+mellitus, dyslipidemia, cardiac disease consisting of
+diastolic dysfunction, gastroesophageal reflux, non alcoholic
+hepatitis, cholelithiasis, urinary stress incontinence,
+osteoarthritis of the lower extremities and low back pain.
+
+
+Social History:
+Socially, she does not smoke although she has a 10-pack-year
+history. She does not use drugs or drink excessive amounts of
+alcohol. She is a nurse with a doctor at education and employed
+at the 123 Any St. in UPMCE. She is married
+and lives with her husband and two children.
+
+Family History:
+Her family history is noteworthy for heart disease, arthritis,
+obesity, and diabetes.
+
+
+Physical Exam:
+On examination, her recorded blood pressure is 142/82 with a
+pulse of 82. She is alert and oriented and in no acute distress.
+
+Pupils are equal, round, and reactive to light. Sclerae are
+anicteric. Oropharynx is without lesions. There are no loose
+teeth. Neck is supple without jugular venous distention, bruits,
+
+lymphadenopathy, thyromegaly, or nodules. Trachea is in midline.
+
+Lungs are clear to auscultation bilaterally. Heart is regular
+with no murmurs, rubs, or gallops. Abdomen is obese, soft,
+nontender, and nondistended. There is no organomegaly or masses.
+
+There are no hernias. Extremities have trace edema bilaterally
+with no evidence of venous stasis or varices. There is no spine
+or flank tenderness. Neurologically, cranial nerves II through
+XII are intact and otherwise nonfocal.
+
+
+Pertinent Results:
+2010-08-21 00:00:00 10:14PM   WBC-11.2*# RBC-4.18* HGB-11.7* HCT-35.0*
+MCV-84 MCH-27.9 MCHC-33.4 RDW-13.4
+2010-08-21 00:00:00 10:14PM   NEUTS-86.5* BANDS-0 LYMPHS-10.2* MONOS-2.9
+EOS-0.3 BASOS-0.1
+2010-08-21 00:00:00 10:14PM   GLUCOSE-167* UREA N-10 CREAT-0.6 SODIUM-139
+POTASSIUM-4.1 CHLORIDE-102 TOTAL CO2-28 ANION GAP-13
+
+Brief Hospital Course:
+Patient tolerated lap RYGBP and CCY and was transferred to PACU.
+On night of POD0, patient was nauseous refractory to Zofran,
+Compazine, and Phenergan. Subsequently her PCA was changed from
+MSO4 to Dilaudid and she was provided a Scopolamine patch. Later
+in the night, patient desat'ed to 79% on RA with continued
+nausea. In AM of POD1, patient was transferred to T-SICU for
+hypoxia. CTA of chest was done and demonstrated no PE, but
+evidence of bilateral consolidation. CT abdomen demonstrated no
+obvious leak.  She was started on IV antibiotics for question
+aspiration pneumonia. After being seen by Dr. Adriene Schifrin in SICU,
+team decided to take patient back to OR for laparoscopic
+exploration to rule out leak. No leak was found in OR. Patient
+tolerated procedure well and was back in PACU. She was
+transferred to floor without incident. Post-op course was
+unremarkable thereafter. On 2010-08-21 00:00:00, she was started on Stage I and
+transitioned to Stage II later in the day. On day of discharge,
+patient did well on Stage III with good pain control on oral
+Roxicet. Patient was sent home with oral antibiotics for 10
+days.
+
+Discharge Medications:
+1. Roxicet 5-325 mg/5 mL Solution Sig: 2010-08-21 00:00:00 teaspoons PO every
+4-6 hours as needed for pain.
+Disp:*250 ml* Refills:*0*
+2. Zantac 15 mg/mL Syrup Sig: Ten (10) ml PO twice a day for 1
+months.
+Disp:*qs * Refills:*0*
+3. Multi-Vitamins W/Iron     Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO twice a day.
+Disp:*60 Tablet, Chewable(s)* Refills:*2*
+4. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 10 days: Needs 10 total days of levo & flagyl.
+Disp:*10 Tablet(s)* Refills:*0*
+5. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 10 days: Needs 10 total days of levo & flagyl.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Morbid obesity s/p laparoscopic roux-en-y gastric bypass
+Cholethiasis
+Hypertension
+Non-insulin-dependent diabetes mellitus
+Dyslipidemia
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Please stay on stage 3 diet until follow-up.  Do not
+self-advance diet, drink from a straw, or chew gum.  No heavy
+lifting (>10lbs) for 6 weeks.  You may shower (no tub bathing or
+swimming for 6 weeks) as long as no drainage from wound sites.
+If there is clear drainage, cover wound and stop showering.
+Please Acia Bentley MD for temp >101.5, persistent nausea/vomiting or
+pain, or drainage from wound.  Please crush all pills.
+
+Followup Instructions:
+In 3 weeks at Bariatric clinic.  Please call test@mail.com for
+appointment.
+
+
+
+Completed by:2010-08-21 00:00:00

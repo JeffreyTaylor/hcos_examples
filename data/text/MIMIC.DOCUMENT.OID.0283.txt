@@ -1,0 +1,376 @@
+Admission Date:  2013-01-19 00:00:00              Discharge Date:   2013-01-19 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Jabarius Cristler
+Chief Complaint:
+Fall
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is an 89 year old male with past medical history of
+diverticulosis and melanoma who presented with with altered
+mental status after a fall. The exact details of what happened
+are a bit unclear as patient is not able to give a full history
+but on 2013-01-19 00:00:00 the patient was shoveling snow when he sustained
+a fall and struck his head. He managed to get inside and call
+his daughter who came to check on him and found him very
+confused but able to speak with blood visible outside and inside
+the house. She brought the patient to the ED where he had head
+CT revealing intraparenchymal and subdural hemorrhages and
+neurosurgery was consulted. They recommended no acute
+neurosurgical management at the time. Patient was extremely
+confused and becoming less responsive at that time so he was
+emergently intubated for airway protection and admitted to the
+neurosurgery ICU. Of night, he had a CT of his chest, abdomen,
+and pelvis that night, which was remarkable for signs of
+aspiration as well as some free air in his abdomen. His
+abdominal exam was benign and surgery evaluated him feeling
+there were no signs of an acute surgical abdomen or need for
+intervention.
+
+Past Medical History:
+-Diverticulosis
+-Melanoma R. Chest
+-Cataract
+-Pseudoexfoliation syndrome
+-HTN
+-Basal Cell CA
+
+
+Social History:
+Very independant, care taker for his wife who has dementia
+
+Family History:
+NC
+
+Physical Exam:
+PHYSICAL EXAM: in NICU
+O: T: af BP: 157/ 62  HR: 60 R :18  O2Sats99
+Gen: WD/WN, trying to sit up on the stretcher at times.
+HEENT: Pupils: 2013-01-19 00:00:00 bilaterally  EOMis / no hemotympanum
+noted / no csf rhinorrhea / no battles / no raccoons sign's
+Neck: in cervical collar.
+
+Neuro: gcs e= 3 / m=6 / v=4   = 13
+Mental status: lies with eyes closed. Opens them easily to
+voice.
+Attentive to the examiner/ slightly lethargic.  He is
+cooperative
+with exam, normal affect.
+Orientation: Oriented to person only. does not know location /
+date / season
+Recall: 0/3 objects at 5 minutes.
+Language: Speech fluent with good comprehension and poor
+repetition. Naming is not intact. + dysarthria and paraphasic
+errors intermittently.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light,2 to1
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+Jabarius Cristler: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power 2013-01-19 00:00:00 throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+
+Pertinent Results:
+Head CT 2013-01-19 00:00:00:
+IMPRESSION:
+1. Multi-compartment intracranial hemorrhage, including
+extensive left
+parafalcine and left convexity mixed density subdural hematoma,
+left inferior frontal hemorrhagic contusion, and scattered
+bifrontal subarachnoid blood.  There is mass effect upon the
+left cerebral hemisphere, with 1-cm rightward
+shift of midline structures, and some evidence of encroachment
+upon the left suprasellar cistern.
+2. Left frontal subgaleal hematoma, with underlying nondisplaced
+skull
+fracture.
+
+CT Cspine 2013-01-19 00:00:00:
+IMPRESSION: No apparent fracture or traumatic malalignment
+involving the
+cervical spine. Degenerative changes are noted, worse from C5
+through T1.
+Note that motion artifact somewhat limits evaluation of the
+lower cervical
+spine, and if there is high clinical suspicion for injury,
+repeat CT or MR
+could be considered for further evaluation.
+
+CT Chest/Abd/Pelvis 2013-01-19 00:00:00:
+IMPRESSION:
+1. Bilateral dependent pulmonary opacities, most compatible with
+aspiration.
+2. Low positioning of the endotracheal tube, which is positioned
+2 cm above the carina, and could be withdrawn for optimal
+positioning.
+3. Free intraperitoneal air, located anterior to the liver, in
+the s123 Any St.
+hilum, and tracking through the hiatal hernia defect into the
+hiatal hernia sac. While highly worrisome for bowel perforation,
+the source is unclear. If further evaluation is desired, CT with
+enteric contrast could be considered.
+4. Indeterminate 2.1 cm right adrenal mass. If clinically
+indicated, when
+patient is stable, dedicated adrenal MRI or CT could be
+performed.
+5. Small amount of free fluid tracking into the right inguinal
+hernia.
+6. Extensive aortic atherosclerosis.
+7. Degenerative changes throughout the spine, with no evidence
+of fracture.
+
+Head CT 2013-01-19 00:00:00:
+IMPRESSION:
+1. Minimally changed multi-compartment intracranial hemorrhage,
+as detailed above. Blood is now seen layering in the right
+lateral ventricle. Mass effect upon the left cerebral hemisphere
+is stable, with persistent sulcal effacement, 1 cm rightward
+shift of midline structures, and minimal
+encroachment upon the left suprasellar cistern without Dynisha
+Kanner herniation. This is unchanged from prior study.
+2. Nondisplaced skull fracture, as 123 Any St.usly demonstrated.
+
+Head CT 2013-01-19 00:00:00:
+IMPRESSION:
+1. Compared to the study from 1820H and, in particular, the
+study from 1355H (both 2013-01-19 00:00:00), there has been mild interval
+increase in the subdural hematoma layering along the left
+cerebral convexity and that leaflet of the tentorium cerebelli,
+as well as the intraventricular and left more than right
+subarachnoid hemorrhage.
+2. Evolving large left frontal hemorrhagic contusion.
+3. Unchanged mass effect with stable 10mm rightward shift of
+midline
+structures.
+4. No evidence of 2013-01-19 00:00:00 herniation or acute infarction.
+
+
+Head CT 2013-01-19 00:00:00:
+IMPRESSION:
+1. Interval decrease in density of left subdural hemorrhage.
+Interval mild
+prominence of the right extra-axial space concerning for
+post-traumatic
+hygroma.
+2. Subdural hematoma layering along the tentorium cerebelli,
+similar to
+prior. Similar intraventricular hemorrhage layering in the
+occipital Jabarius Cristler of bilateral lateral ventricles.
+3. Similar bilateral foci of subarachnoid hemorrhage.
+4. Evolving large left frontal hemorrhagic contusion.
+5. Evolving areas of hypodensities in bilateral frontal lobes;
+evolving
+contusions.
+6. Similar mass effect with a similar approximately 7 mm
+rightward shift of midline structures.
+7. No evidence of hydrocephalus.
+
+CXR 2013-01-19 00:00:00:
+FINDINGS: In comparison with the study of 2013-01-19 00:00:00, there is
+diffusely increased prominence of pulmonary vessels consistent
+with vascular congestion. In the appropriate clinical setting,
+the possibility of superimposed pneumonia, especially on the
+left, must be considered. Large hiatal hernia is again seen.
+
+CXR 2013-01-19 00:00:00:
+FINDINGS: AP single view of the chest has been obtained with
+patient in
+sitting semi-upright position. Analysis is performed in direct
+comparison
+with the next preceding similar study of 2013-01-19 00:00:00. Again
+there is
+perivascular haze indicative of pulmonary vascular congestion.
+Basal
+densities exist more marked on the left than on the right. Again
+as mentioned on preceding study, consideration for superimposed
+pneumonic infiltrates in this patient with CHF must be
+considered. There is no significant interval change during the
+latest 24 hours examination interval.
+
+ECHO 2013-01-19 00:00:00:
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is small.
+Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Left ventricular systolic
+function is hyperdynamic (EF>75%). There is a severe resting
+left ventricular outflow tract obstruction. Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+IMPRESSION: small, hyperdynamic left ventricle with severe
+outflow tract obstruction.
+
+CT Chest/abd 2013-01-19 00:00:00:
+IMPRESSION:
+1. Resolution of free intraperitoneal air.
+2. Very large hiatal hernia containing stomach and transverse
+bowel loop.
+3. New bilateral pleural effusions. Nearly resolved bibasillar
+opacities
+most likely represented aspiration.
+4. Extensive aortic atherosclerosis.
+5. Indeterminate 2.1 cm right adrenal mass. Again, if no
+comparison
+available and clinically indicated, when patient is stable,
+dedicated renal MR could be performed.
+
+2013-01-19 00:00:00 CXR:
+FINDINGS: There is a new ET tube with tip 4 cm above the carina.
+The NG tube tip is in the stomach and is coiled in the lower
+thorax in the hiatal hernia.  The heart is mildly enlarged.
+There continues to be vascular plethora. There are small
+bilateral effusions but these are less apparent than on the
+study from one hour prior. Overall the aeration is slightly
+improved.
+
+2013-01-19 00:00:00 CT Head:
+1. Little change in bilateral chronic subdural, left
+subarachnoid and left
+occipital Jabarius Cristler hemorrhage. Slight increase in subdural
+hemorrhage along the falx.
+
+2013-01-19 00:00:00 CT Head:
+IMPRESSION:
+1. In comparison to an exam obtained the day prior, there are
+new
+hypodensities involving bilateral anterior cerebral artery and
+left middle
+cerebral artery territories, with significant cerebral edema and
+mass effect as demonstrated by increased rightward shift of
+normally midline structures. These findings are concerning for
+acute ischemia possibly secondary to vasospasm.
+2. Evolving right frontal hematoma. Stable appearance of
+ventricular
+hemorrhage as demonstrated by layering of blood products in the
+occipital Jabarius Cristler of the right lateral ventricle.
+3. Small bilateral chronic subdural hematomas.
+
+PERTINENT LABS:
+2013-01-19 00:00:00 01:30PM BLOOD WBC-12.5* RBC-4.29* Hgb-11.3* Hct-33.8*
+MCV-79* MCH-26.3* MCHC-33.4 RDW-14.1 Plt Ct-305
+2013-01-19 00:00:00 02:57AM BLOOD WBC-13.9*# RBC-3.22* Hgb-8.4* Hct-25.9*
+MCV-81* MCH-26.2* MCHC-32.5 RDW-14.4 Plt Ct-175
+2013-01-19 00:00:00 03:15AM BLOOD WBC-12.6* RBC-2.90* Hgb-7.5* Hct-23.3*
+MCV-80* MCH-25.8* MCHC-32.1 RDW-14.7 Plt Ct-390
+2013-01-19 00:00:00 01:30PM BLOOD PT-12.5 PTT-22.5 INR(PT)-1.1
+2013-01-19 00:00:00 01:30PM BLOOD Glucose-197* UreaN-39* Creat-1.2 Na-137
+K-4.9 Cl-103 HCO3-22 AnGap-17
+2013-01-19 00:00:00 03:15AM BLOOD Glucose-156* UreaN-32* Creat-1.7* Na-141
+K-3.9 Cl-114* HCO3-19* AnGap-12
+2013-01-19 00:00:00 01:05PM BLOOD ALT-48* AST-56* LD(LDH)-372* CK(CPK)-295
+AlkPhos-97 Amylase-90 TotBili-0.6
+2013-01-19 00:00:00 03:15AM BLOOD ALT-39 AST-59* LD(LDH)-386* AlkPhos-82
+TotBili-0.4
+2013-01-19 00:00:00 05:59AM BLOOD CK-MB-10 MB Indx-3.5 cTropnT-0.03*
+2013-01-19 00:00:00 03:15AM BLOOD Albumin-2.3* Calcium-7.5* Phos-2.5*
+Mg-2.2
+
+Brief Hospital Course:
+This is an 89 year old male with past medical history of
+melanoma, HTN, and diverticulosis, who presented from home on
+2013-01-19 00:00:00 s/p fall. Per review of OMR, the patient was shoveling
+snow on 2013-01-19 00:00:00 when he fell and hit his head. He managed to get
+inside and call his daughter who came to check on him and found
+him very confused but able to speak with blood visible outside
+and inside the house. She brought the patient to the ED where he
+had head CT revealing intraparenchymal and subdural hemorrhages
+and neurosurgery was consulted. They recommended no acute
+neurosurgical management at the time. Patient was extremely
+confused and becoming less responsive at that time so he was
+emergently intubated for airway protection and admitted to the
+neurosurgery ICU. Of note, he had a CT of his chest, abdomen,
+and pelvis that night, which was remarkable for signs of
+aspiration as well as some free air in his abdomen. His
+abdominal exam was benign and surgery evaluated him feeling
+there were no signs of an acute surgical abdomen or need for
+intervention.
+.
+In the SICU, he was intubated for one night and was extubated
+and sent to the neuro step-down unit. He had sputum cultures
+sent while intubated, which grew klebsiella. Therefore, when he
+had fevers on 2013-01-19 00:00:00 and increased respiratory distress he was
+started on cefepime/vancomycin for concern of pneumonia. On the
+day prior to transfer he developed tachypnea and increased O2
+requirments. Therefore he was given IV furosemide for a total
+diuresis of about 1L negative. A medicine C/S was called and he
+was transferred to Medicine for further evaluation.
+.
+On the floor, the patient was somnolent but arousable to sternal
+rub. He was started on Flagyl empirically for aspiration
+pneumonia, and the respiratory therapist noted that he was
+having difficulty handling his secretions. He was given one dose
+of Hydralazine IV for SBP > 160. At approximately 4 am, routine
+VS demonstrated hypoxia to 60% on RA. He was placed on a NRB, to
+which his sats increased to 100%, and ABG and CXR were ordered.
+The MICU was called regarding likely transfer, and as the
+patient developed increasing respiratory distress, a code blue
+was called for emergent intubation. He transiently dropped his
+SBP to the 60s after intubation, which increased to the 100s
+with IVFs. He was then transferred to the MICU.
+.
+In the MICU, we he was taken off sedation, but did not have any
+purposeful movements.  A head CT right after the event showed no
+major changed from initial scan.  Neuro was consulted and a
+second CT was obtained 24 hrs after intubation.  This CT showed
+severe bilateral ischemic strokes, likely related to vasospasm
+from the initial bleed.  Given his poor prognosis, the family
+decide to pursue only comfort care and he was terminally
+extubated on 2013-01-19 00:00:00.  His time of death was 13:40 approximately
+1-2 hrs after extubation.  His family was informed and declined
+autopsy.
+
+Medications on Admission:
+unknown
+
+Discharge Medications:
+n/a, expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Left Subdural Hematoma
+Left frontal contusion
+PNA
+Left and right ischemic strokes
+
+
+Discharge Condition:
+n/a, expired
+
+
+Discharge Instructions:
+You came to the hospital after a fall.  It showed you had
+bleeding inside of your brain.  While recovering this bleeding
+led to some spasms in your brain arteries, leading to a stroke.
+This caused permanent neurological damage that was terminal.
+
+Followup Instructions:
+n/a, expired
+
+
+
+Completed by:2013-01-19 00:00:00

@@ -1,0 +1,198 @@
+Admission Date:  2008-11-25 00:00:00              Discharge Date:   2008-11-25 00:00:00
+
+Date of Birth: 1958-11-25 00:00:00 00:00:00             Sex:   M
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Janalise Discuillo
+Chief Complaint:
+Fevers, cough
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Patient is a 36 yo male with a history of cerebral palsy,
+epilepsy, aspiration, aphasia who was 123 Any St.usly diagnosed with
+right lower lobe pneumonia on 2008-11-25 00:00:00 and completed a 10 day
+course of levofloxacin. However, he was brought to ED by group
+home staff on 2008-11-25 00:00:00 with fevers to 101 and productive cough -
+unclear if white or yellow phlegm. The patient was febrile in
+the ED with a WBC of 18.8 and placed on Levo/Flagyl for
+aspiration pneumonia with CXR showing persistent cavitary RLL
+pneumonia with effusion. He was found to have a lung abscess and
+treated with IV Levo/Clinda.
+
+Past Medical History:
+cerebral palsy
+mental retardation
+seizures
+
+Social History:
+denies drugs, EtOH, tobacco
+Lives in group home
+
+Family History:
+noncontributory
+
+
+Physical Exam:
+Tc=96.1  P=114  BP=130/78  RR=23 100% O2 I/O = 2075/1630
+
+Gen - aphasic, very thin male, may at times respond to command,
+alert
+HEENT - PERLA, EOMI
+Heart - increased rate, RRR, no M/R/G, clear S1, S2
+Lungs - decreased BS at right base with crackles in mid-right
+lung and bibasilar
+Abd - NT, ND + BS
+Ext - no cyanosis/positive clubbing/no edema, moves all four
+extremities spontaneously
+
+
+Pertinent Results:
+CXR 2008-11-25 00:00:00 AP: Peristent right lung opacification - pleural
+effusion with rounded lucency suggesting cavitation.
+
+Brief Hospital Course:
+36 yo M w/cerebral palsy, epilepsy, history of recurrent
+aspiration pneumonias, aphasia now with right lower lobe lung
+asbcess.
+
+CT Chest 2008-11-25 00:00:00: Necrotizing pneumonia in RML and RLL, lung
+abscess. Cannot tell if effusions given limited study secondary
+to scoliosis. Of note, bright contrast in gallbladder - sludge
+vs. stone vs. contrast reaction vs. prior study residual
+
+1. RLL pneumonia - CT notable for lung abscess. Pulmonology was
+consulted and recommended Levofloxacin/Clindamycin. The patient
+will need a course of 4 weeks of Levofloxacin/Clindamycin and
+then clinda for as long as needed. Last day of levofloxacin is
+2008-11-25 00:00:00. Once the four week course is concluded, a repeat
+chest xray should be taken to evaluate for resolution of the
+lung abscess. If the abscess persists or the patient's
+fevers/cough persist, clindamycin should be continued until
+these resolve. An active issue in-house was the patient's
+ability to take oral antibiotics as he intermittently spit the
+antibiotics out.  Therefore, a PICC was placed on 2008-11-25 00:00:00 for IV
+antibiotics. Near the date of discharge, the patient was
+tolerating his oral antibiotics. However, if he does not take
+these antibiotics, he should be administered the IV form through
+the PICC in his right arm. The PICC may then be removed after
+antibiotics use has been completed.
+
+2. Fevers -  Patient's temp down to 100s with antibiotics. He
+remained afebrile while on antibiotics.
+
+3. Epilepsy - The patient's dilantin dose was adjusted secondary
+to a subtherapeutic level. He was maintained on Dilantin 100 mg
+PO Q8 hours. Plan to continue dilantin at current dose and check
+dilantin level on Monday, 2008-11-25 00:00:00 and adjust dilantin level
+as needed.
+
+4. Recurrent aspirations - The patient's family was concerned
+that the patient had lost at lost a great deal of weight at the
+group home where he staying. He had tolerated ground feeds while
+at home with his mother one year ago. As a result, a video
+speech and swallow evaluation was performed and showed that the
+patient was aspirating all consistencies of food and had a
+suppressed cough reflex most of the time. While eating on the
+floor with aspiration precautions, the patient aspirated and
+became hypoxic to 40% and went up to 90% with aggressive
+suctioning. He was therefore transferred to the UPMCE for
+aggressive respiratory management where he was maintained on a
+shovel face mask of 9 L O2, kept NPO and continued on IV
+antibiotics. Intubation was not required and he was subsequently
+transferred to the floor.
+
+Neurology was consulted to evaluate the patient (known to Dr.
+Bourque to evaluate if the patient's dysphagia was related to
+his known cerebral palsy or represented a new neurologic event.
+The family was also concerned because they stated that the
+patient was able to walk with assistance one year ago. A CT of
+the head showed no acute change that would explain the patient's
+decline and inabilities to swallow or walk. Neurology
+recommended the patient follow up with Dr. Bourque. In terms of
+the patient's dysphagia, the family indicated that they felt the
+patient most enjoyed eating and in order to maintain his quality
+of life, we should continue to feed him ground food knowing that
+he will ultimately aspirate. Thus, the patient was continued on
+a ground diet with thickened liquids which he tolerated.
+
+5. Tachycardia - Of note patient with noted resting tachycardia
+in 110-120 level. It is believed this is related to dehydration
+as the patient responded to IV fluids.
+
+6. Depression - The patient was noticed to be withdrawn during
+most of his hospital course. However, he interacts more when his
+family is present. As a result, Remeron 7.5 mg was started to
+treat his depression.
+
+
+Medications on Admission:
+Outpatient:
+
+Dilantin 300 mg PO daily
+Tums
+Vitamin D
+
+
+Discharge Medications:
+1. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO QD (once a day).
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO BID (2 times a day).
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+4. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 4 weeks.
+Disp:*28 Tablet(s)* Refills:*0*
+5. Clindamycin Palmitate 75 mg/5 mL Recon Soln Sig: Twenty (20)
+ml PO Q6H (every 6 hours) for 6 weeks.
+Disp:*3360 ml* Refills:*0*
+6. Phenytoin 100 mg/4 mL Suspension Sig: Six (6) ml PO Q12H
+(every 12 hours).
+7. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+9. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)
+injection
+injection Injection TID (3 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Lung abscess
+Epilepsy
+Aspiration
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please call your primary care physician or return to the ER if
+you experience any shortness of breath or persistent fevers
+despite antibiotics.
+
+Followup Instructions:
+The patient should follow up with his primary care physician,
+Bourque. Bourque, in 2 weeks by calling 1-test@mail.com to schedule an
+appointment.
+
+Provider Janalise Discuillo, M.D. Where: UPMCE
+NEUROLOGY Phone:test@mail.com Date/Time:2008-11-25 00:00:00 11:30
+
+
+

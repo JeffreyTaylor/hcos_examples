@@ -1,0 +1,151 @@
+Admission Date:  2010-01-10 00:00:00       Discharge Date:  2010-01-10 00:00:00
+
+Date of Birth: 1989-01-07 00:00:00 00:00:00       Sex:  F
+
+Service:
+
+ADMISSION DIAGNOSES:
+1.  Rheumatic heart disease.
+2.  Aortic and mitral valve disease.
+
+DISCHARGE DIAGNOSES:
+1.  Aortic valve stenosis.
+2.  Mitral valve regurgitation.
+3.  Status post aortic valve replacement with 21 mm
+pericardial valve, mitral valve repair with 28 mm Joran Penyak
+annuloplasty band.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 63 year old
+woman with a history of rheumatic heart disease.  She has
+known aortic and mitral valve disease.  Her last
+echocardiogram was done on 2010-01-10 00:00:00 which revealed an ejection
+fraction of 60%.  Moderately severe MR Eldon Bleakley enlarged
+LA were demonstrated as well as moderate to severe aortic
+stenosis with an estimated valve area of 0.9 cm squared.
+There was also significant pulmonary hypertension with PA
+pressures estimated at 64 mmHg.  Most recent ETT was negative
+in 2010-01-10 00:00:00 and performed for brief complaints of chest
+discomfort.  Clinically patient reports that she is very
+active.  She walks several miles a day, cross country skiis
+and is able to cut and stack wood for her fireplace.  Over
+the past three weeks, however, she has noticed decrease in
+activity tolerance along with chest pain and mild shortness
+of breath that occurs with vigorous exertion.  She reports
+that this discomfort can take up to several hours to resolve.
+She has never taken nitroglycerin.  She is now referred for
+cardiac catheterization.  Patient denies claudication,
+orthopnea, edema, PND, lightheadedness.
+
+PAST MEDICAL HISTORY:  Hypertension.  Hypercholesterolemia.
+Smoking history, quit 20 years ago.  Insulin dependent
+diabetes mellitus.  Rheumatic heart disease.  Autoimmune iron
+disease.  Hypothyroidism.  Osteoporosis.  Bilateral carotid
+bruit without significant carotid disease.  Breast cancer
+status post chemotherapy and surgery.
+
+PAST SURGICAL HISTORY:  Status post left mastectomy in 2010-01-10 00:00:00.
+Cholecystectomy in 2010-01-10 00:00:00.
+
+MEDICATIONS ON ADMISSION:  Miacalcin nasal spray, Levoxyl 200
+mcg q.d., Lipitor 10 mg q.d., enalapril 5 mg q.d., Celebrex
+200 mg b.i.d., Protonix 40 mg q.d., folate 1 mg q.d., NPH 15
+units q.h.s., regular and Humalog insulin sliding scale.
+
+PHYSICAL EXAMINATION:  In general, the patient was an elderly
+woman who appeared younger than her stated age and was in no
+acute distress.  Vital signs were stable, afebrile.  Height
+was 5'2", weight 122 pounds.  HEENT was normocephalic,
+atraumatic, EOMI, PERRL, anicteric.  Throat was clear.  Neck
+was supple, midline, without masses or lymphadenopathy.
+Chest was clear to auscultation bilaterally.  Cardiovascular
+was regular rate and rhythm with a 2010-01-10 00:00:00 to 3/6 systolic
+ejection murmur.  Abdomen was soft, nondistended, nontender
+without masses or organomegaly.  Extremities were warm, not
+cyanotic, not edematous times four.  Neuro was grossly
+intact.
+
+LABORATORY DATA:  On admission CBC was 12/11.6/35.4/336.
+Chemistries 138/4.1/104/27/13/0.7.  INR was 1.1.
+
+HOSPITAL COURSE:  The patient had cardiac catheterization
+performed on 2010-01-10 00:00:00 which revealed 3+ mitral valve
+regurgitation, calcification of the aortic valve, ejection
+fraction of 61%, severe aortic stenosis, normal coronary
+arteries.  Patient now presents for elective valve repair.
+On 2010-01-10 00:00:00 patient was taken to the operating room and had
+aortic valve placement with a 21 mm pericardial valve and
+mitral valve repair with a 28 mm Joran Penyak annuloplasty band.
+Patient was subsequently taken to the CSRU for close
+monitoring.  Patient did well and was initially A-paced for
+blood pressure support.  Drips, chest tubes and pacing wires
+were discontinued as her clinical condition allowed.
+
+The patient had a largely unremarkable postoperative course
+and was subsequently transferred to the floor on
+postoperative day two.  On the floor her status was again
+unremarkable and patient was ambulating well on her own
+without physical therapy.  Patient did test her own blood
+sugar glucoses and maintained her own blood sugars with her
+own sliding scale.  She is very aggressive about this and
+took her finger sticks at least eight times a day.
+Ultimately, patient was discharged on postoperative day four,
+tolerating a regular diet, had adequate pain control on p.o.
+pain meds and had been cleared for home by physical therapy.
+
+The patient was placed on a 10 day course of Levaquin for an
+elevated white count of 50 and x-ray finding of some right
+lower lobe atelectasis as well as increased clinical sputum
+production.  Patient remained afebrile.
+
+Physical examination on discharge, in general, in no acute
+distress.  Vital signs temperature 98.0, heart rate 68, blood
+pressure 119/57, respirations 18, 95% in room air.  Chest was
+clear to auscultation bilaterally.  Cardiovascular regular
+rate and rhythm.  There was no sternal click or sternal wound
+drainage.  Patient did have 1+ peripheral edema.
+
+Labs on discharge included CBC with white count of 25.4 down
+from 26.2, hematocrit 24.1, platelets 235.  Chemistries
+131/4.9/99/25/30/1.1/65.  Magnesium 1.7.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISPOSITION:  To home.
+
+DISCHARGE DIET:  Diabetic.
+
+DISCHARGE MEDICATIONS:
+1.  Lasix 20 mg b.i.d. times seven days.
+2.  Potassium chloride 20 mEq b.i.d. times seven days.
+3.  Aspirin 325 mg q.d.
+4.  Lopressor 12.5 b.i.d.
+5.  Levaquin 500 mg q.d. times eight days for a 10 day
+course.
+6.  Lipitor 10 mg q.d.
+7.  Levothyroxine 200 mcg q.d.
+8.  NPH 15 units q.p.m.
+9.  Percocet 5/325 one to two q.four hours p.r.n.
+10. Colace 100 mg b.i.d.
+
+DIBleakleyE INSTRUCTIONS:  The patient is to continue her tight
+blood sugar control as well as a diabetic diet.  She should
+follow up with her cardiologist in one to two weeks to
+address the need for continued diuresis as well as adjustment
+of cardiac medications at that time.  Patient should follow
+up with Dr. 123 Any St.es) **] in four weeks' time.  Patient was
+instructed to continue Levaquin as well as encourage
+incentive spirometry for possible mild respiratory infection.
+
+
+
+
+
+
+                            123 Any St.es) 408**], M.D.  15008
+
+Dictated By:Joran Penyak
+MEDQUIST36
+
+D:  2010-01-10 00:00:00  04:02
+T:  2010-01-10 00:00:00  16:08
+JOB#:  15008

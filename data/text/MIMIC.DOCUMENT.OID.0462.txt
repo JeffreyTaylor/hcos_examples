@@ -1,0 +1,335 @@
+Admission Date:  2010-12-23 00:00:00              Discharge Date:   2010-12-23 00:00:00
+
+Date of Birth: 1980-12-23 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim
+
+Attending:Chibuike Delasantos
+Chief Complaint:
+post ablation complication
+
+Major Surgical or Invasive Procedure:
+Pulmonary Vein Isolation, unsuccessful
+Pericardial Drain
+
+
+History of Present Illness:
+Ms. Study is a 66 y/o F with a history of pAtrial Fibrillation
+(not controlled on Flecanide/Digoxin; failed Drondedarone) and
+h/o AFlutter ablation (2010-12-23 00:00:00) who was admitted for elective PVI.
+Patient has been followed by Dr. Chibuike Delasantos and had been on
+Flecanide for the past two years, with intermittant palpitation
+and RVR on Ambulatory rhythm monitoring.  The patient was also
+trialed on Dronedarone and failed treatment in 2010-12-23 00:00:00.
+.
+Patient was admitted for elective PVI.  During the procedure, it
+was difficult to cross patient's intra-atrial septum.  She was
+subsequently noted to be hypotensive and was in tamponade.  She
+had 300cc of frank blood removed from her pericardium and had
+pericardial drain placed.  Patient was given protamine and
+procedure was aborted.  Pt received 3.5L IVF and remained
+hemodynamically stable post procedurally.
+.
+In the PACU, patient was intubated and VS are stable.  Patient's
+pericardial drain had 125cc blood in it on arrival to the PACU.
+On evaluation 45 minutes after arrival to PACU, patient did not
+have any further drainage into pericardial drain.
+.
+On arrival to CCU, patient complains of sharp chest pain,
+increased with inspiration to 2010-12-23 00:00:00.  Denies shortness of breath,
+nausea. Stated that she has only had lightheadedness and
+palplitations associated with atrial fibrillation. Also
+complains of shoulder spasms on left side occasionally.  Denied
+orthopnea, though she stated that she has difficulty lying flat
+at night due to anxiety.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: None
+2. CARDIAC HISTORY:
+-CABG:  None
+-PERCUTANEOUS CORONARY INTERVENTIONS:  None
+-PACING/ICD:  None
+-h/o AFlutter Ablation 2010-12-23 00:00:00
+-h/o Atrial Fibrillation, on Flecanide
+3. OTHER PAST MEDICAL HISTORY:
+Depression
+h/o Migranes
+Arthritis
+
+Social History:
+-Tobacco history:  Quit 20 yrs ago
+-ETOH:  2010-12-23 00:00:00 glasses of wine/day
+-Illicit drugs:
+
+Family History:
+She has a sister with palpitations of unknown etiology. There is
+no family history of sudden cardiac death.
+
+Physical Exam:
+VS: T= 98.4  BP= 105/83 HR= 98 RR= 17 O2 sat= 98% on RA
+GENERAL: WDWN in NAD, mildly anxious. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. mucus membranes mildly dry.
+NECK: Supple with JVP of 8 cm.
+CARDIAC:  Regular Rhythm, Rate 100, normal S1, S2. No
+murmurs/rubs/gallops ap123 Any St.ted. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi, but exam somewhat limited due to supine
+positioning.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. Right sided bandage soaked with blood.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ DP 2+
+Left: Carotid 2+ DP 2+
+
+Pertinent Results:
+2010-12-23 00:00:00 10:20AM BLOOD WBC-5.2 RBC-3.86* Hgb-10.9* Hct-33.6*
+MCV-87 MCH-28.3 MCHC-32.5 RDW-13.7 Plt Ct-269
+2010-12-23 00:00:00 05:15AM BLOOD WBC-5.2 RBC-3.93* Hgb-11.4* Hct-33.9*
+MCV-86 MCH-29.1 MCHC-33.7 RDW-13.5 Plt Ct-271
+2010-12-23 00:00:00 10:20AM BLOOD PT-35.8* INR(PT)-3.7*
+2010-12-23 00:00:00 05:15AM BLOOD PT-21.9* PTT-30.2 INR(PT)-2.1*
+2010-12-23 00:00:00 07:00AM BLOOD Glucose-96 UreaN-17 Creat-0.8 Na-141
+K-4.9 Cl-107 HCO3-28 AnGap-11
+2010-12-23 00:00:00 05:15AM BLOOD Glucose-98 UreaN-11 Creat-0.7 Na-142
+K-4.3 Cl-110* HCO3-26 AnGap-10
+2010-12-23 00:00:00 05:15AM BLOOD Calcium-8.3* Phos-2.7 Mg-2.0
+2010-12-23 00:00:00 10:12AM BLOOD pO2-388* pCO2-41 pH-7.35 calTCO2-24 Base
+XS--2
+2010-12-23 00:00:00 10:12AM BLOOD Glucose-119* Lactate-1.2 Na-139 K-3.9
+Cl-110
+2010-12-23 00:00:00 10:12AM BLOOD Hgb-11.8* calcHCT-35
+2010-12-23 00:00:00 10:12AM BLOOD freeCa-1.08*
+
+Portable TTE (Focused views) Done 2010-12-23 00:00:00 at 10:00:00 AM
+FINAL
+
+Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Overall left ventricular
+systolic function is normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The mitral valve
+leaflets are structurally normal. There is a very small
+pericardial effusion without echocardiographic signs of
+tamponade. A catheter is seen in the pericardial space.
+
+IMPRESSION: Very small pericardial effusion without signs of
+tamponade. Grossly normal biventricular function. Focused study.
+
+Compared with the report of the prior study (images unavailable
+for review) of 2010-12-23 00:00:00, pericardial effusion is new.
+
+Portable TTE (Focused views) Done 2010-12-23 00:00:00 at 3:00:00 PM
+FINAL
+
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is mildly depressed (LVEF= 45%).
+Right ventricular chamber size and free wall motion are normal.
+There is no pericardial effusion.
+
+IMPRESSION: No residual pericardial effusion. Mild global left
+ventricular systolic dysfunction.
+
+Compared with the prior study (images reviewed) of 2010-12-23 00:00:00,
+there is less pericardial fluid. Off inotropic therapy, LV
+systolic function is not as vigorous.
+
+Portable TTE (Focused views) Done 2010-12-23 00:00:00 at 11:58:32 AM
+FINAL
+
+Very small pericardial effusion.
+
+Compared with the latest prior study (images reviewed) of
+2010-12-23 00:00:00, there is a very small/trivial pericardial effusion.
+
+Cardiology Report ECG Study Date of 2010-12-23 00:00:00  8:08:30 AM
+
+
+Atrial fibrillation with a ventricular response of 124 beats per
+minute.
+Tendency toward low voltage in the standard leads. Poor R wave
+progression
+in leads V1-V3. ST-T wave changes in leads II, III, aVF and
+V4-V6. Compared
+to the 123 Any St.us tracing of 2010-12-23 00:00:00 the rate has increased
+markedly with
+similar unchanged ST-T wave changes in leads II, III and aVF
+with new mild
+T wave inversions in leads V4-V6. These changes may be due to
+rate-related
+ischemia.
+
+
+Read by: Study,[**First Name3 (LF) 124**] M.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+120 0 80 300/405 0 76 -74
+
+
+
+Brief Hospital Course:
+66 y/o F with a histroy of pAtrial Fibrillation and h/o AFlutter
+ablation (2010-12-23 00:00:00) who was admitted for elective PVI, procedure
+complicated by pericardial tamponade, now hemodynamically stable
+after drainage.
+
+# Cardiac Tamponade / Pericardial Effusion:
+The patient underwent an elective procedure for Pulmonary Vein
+Isolation for her atrial fibrillation; the procedure was
+unsuccessful and was complicated by pericardial effusion and
+cardiac tamonade.  A pericardial drain was placed, and the
+patient drained 300cc of frank blood.  In the PACU, the patient
+had minimal further drain output, and a bedside Echo showed no
+further reaccumulation.  The patient was admitted to the CCU for
+overnight monitoring, and the drain was removed 4-8hours after
+the drain was noted to have no further output.  She remained
+hemodynamically stable for the remainder of her hospitalization.
+ A repeat Echocardiogram the next morning showed trivial
+pericardial effusion.
+
+The patient complained of some pleuritic chest pain after the
+drain was placed, for which she was treated with 7 days of
+indomethacin 25mg TID.  She also had some soreness in her lower
+mid chest from the drain placement which resolved within 24
+hours after the drain was removed.  She did not complain of any
+chest pressure or shortness of breath.
+
+# Paroxysmal Atrial Fibrillation.
+Patient has been on digoxin and flecanide as an outpatient and
+had failed dronedarone.  Patient's PVI was terminated secondary
+to procedural complication fo tamponade.  She presented with an
+INR of 3.7, so her coumadin was held in the setting of
+pericardial effusion and tamponade.  Her coumadin was restarted
+the next afternoon after she was confirmed to have no
+significant further pericardial accumulation, and her INR was 2.
+ She was continued on her home doses of digoxin and flecanide.
+
+Patient was in normal sinus rhythm on presentation and flipped
+into atrial fibrillation the following day while being monitored
+in the CCU.  While in atrial fibrillation, she reported symptoms
+of palpitations and significant anxiety, making it difficult for
+her to sleep.  She remained hemodynamically stable in atrial
+fibrillation with rapid ventricular response.  Her ventricular
+rate responded well to IV diltiazem without dropping her blood
+pressures, so she was started on po diltiazem.  Her dose of
+flecanide was increased from 75mg UPMCE to 100mg UPMCE.  She was
+scheduled for a cardioversion on the morning of discharge, but
+her rhythm converted back to normal sinus rhythm on its own, so
+no cardioversion was done. She was discharged on the prior dose
+of digoxin, the increased dose of flecanide, in addition to
+120mg daily of extended release diltiazem.
+
+The patient was discharged on a regimen of coumadin 7.5mg three
+times/week and 10mg four days/week.  She will get her INR drawn
+on Monday 2010-12-23 00:00:00 at her primary care doctor's office and have
+her doses adjusted accordingly. She has a followup appointment
+with Dr. Chibuike Delasantos in the UPMCE Electrophysiology Department
+scheduled in the next couple of weeks.
+
+
+#  Depression/Anxiety:
+Patient was initially continued on her home dose of clonazepam
+at bedtime, then switched to small doses of lorazepam as needed
+at bedtime with better effect.  She was discharged on her home
+regimen.  She noted that she had been particularly anxious in a
+room without good windows in the CCU and was much more satisfied
+and calmed once transferred to a room with big windows on the
+floor.
+
+
+# Code Status: Patient was Full Code during this
+hospitalization.
+
+Medications on Admission:
+Flecanide 75mg UPMCE
+Digoxin 125mcg daily
+Clonazepam 0.5mg qPM
+Ibuprofen 800mh TID prn
+Maxalt 10mg prn HA
+Warfarin 5mg daily
+Zolpidem 10mg qHS
+
+Discharge Medications:
+1. Flecainide 50 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12
+hours).
+Disp:*120 Tablet(s)* Refills:*2*
+2. Maxalt 10 mg Tablet Sig: One (1) Tablet PO every eight (8)
+hours as needed for headache: as needed for migraine headache.
+3. Indomethacin 25 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) for 10 doses.
+Disp:*10 Capsule(s)* Refills:*0*
+4. Diltiazem HCl 120 mg Capsule, Sust. Release 24 hr Sig: One
+(1) Capsule, Sust. Release 24 hr PO once a day.
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+5. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime)
+as needed for insomnia.
+7. Ibuprofen 800 mg Tablet Sig: One (1) Tablet PO three times a
+day as needed for pain.
+8. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+9. Warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO every other
+day: Every MON, WED, FRI.
+Disp:*90 Tablet(s)* Refills:*2*
+10. Warfarin 5 mg Tablet Sig: Two (2) Tablet PO 4X/WEEK
+(Chibuike Delasantos,TU,TH,SA).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Cardiac Tamponade/ Pericardial Effusion
+
+Secondary Diagnoses:
+Atrial Fibrillation
+
+
+Discharge Condition:
+Stable.
+Alert, Oriented x3.
+Ambulatory.
+
+
+Discharge Instructions:
+Dear Ms. Study,
+You were admitted to the hospital after your procedure to
+attempt to ablate the part of your heart muscle that causes your
+atrial fibrillation.  As you know, the procedure was not
+successful, and you experienced a complication of having blood
+drain into the sac surrounding your heart.  You had a drain
+placed to remove that blood, and you were monitored to make sure
+you did not have any further complications.  You were sent home
+in stable condition and should follow up with Dr. Chibuike Delasantos as
+123 Any St.usly scheduled.
+
+Please have your INR drawn on Monday, 2010-12-23 00:00:00 at your primary
+care doctor's office.
+
+The following changes were made to your medications:
+- Please increase your dose of Flecanide to 100mg twice daily
+- Please take indomethacin 25mg three times daily for 3 more
+days
+- Please START taking Diltiazem ER 120mg daily
+
+Please be sure to keep all of your followup appointments.
+
+Please seek medical attention if you experience any symptoms
+concerning to you.
+
+Followup Instructions:
+Please be sure to keep all of your followup appointments.
+
+Provider: Chibuike Delasantos, M.D. Phone:test@mail.com
+Date/Time:2010-12-23 00:00:00 3:40
+
+
+

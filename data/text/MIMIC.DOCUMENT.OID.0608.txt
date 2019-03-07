@@ -1,0 +1,157 @@
+Admission Date:  2005-09-08 00:00:00              Discharge Date:   2005-09-08 00:00:00
+
+Date of Birth: 1953-09-05 00:00:00 00:00:00             Sex:   F
+
+Service: MED
+
+Allergies:
+Penicillins
+
+Attending:Lanxton Fecke
+Chief Complaint:
+S/p L mainstem bronchus stent removal
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy with stent removal
+Intubation and extubation
+
+
+History of Present Illness:
+71yo F with a history of stage IIIa non-small lung CA,
+transferred to the MICU after rigid bronch for observation. The
+patient was diagnosed with lung cancer in 4/00 and is now s/p
+RUL lobectomy, carboplatin tx, and radiation tx. Since then, she
+has had multiple bronchoscopies, including placement of a stent
+into the L main bronchus in 2005-09-08 00:00:00. On 2005-09-08 00:00:00, she had a
+bronchoscopy which revealed significant narrowing of L main
+bronchus with formation of granulation tissue. She underwent
+rigid bronchoscopy on the day of admission (2005-09-08 00:00:00) showing
+almost 95 percent obstruction of the left mainstem bronchus. She
+was treated with stent removal, debridement of a large amount of
+granulation tissue, and argon laser coagulation.
+The patient was felt to be at risk for airway collapse and
+bleeding after the procedure, and was not extubated. She was
+transferred to the MICU from the PACU for further monitoring and
+evaluation.
+
+Past Medical History:
+1. Right upper lobe lung cancer (adenocarcinoma, stage III). In
+2005-09-08 00:00:00, right wedge biopsy - adenocarcinoma. In 04/00, right
+upper lobe lobectomy. Positive hilar/paratracheal node
+involvement.
+2. Hypothyroid.
+3. Hyperlipidemia
+4. Right arm surgery (? years ago, broken arm, unable to set,
+metal plates and screws, patient states that she has had
+numerous MRIs since the surgery)
+
+
+Social History:
+The patient is married, graduated from UPMCE. No
+ethanol use, denies any tobacco use. She has three children,
+former bookkeeper/accountant.
+Supportive and involved husband.
+
+
+Physical Exam:
+HR 85 BP 145/90 O2 99% ventilated
+Intubated, sedated, withdraws x4 to pain
+PERRL, neck supple
+RRR, no murmurs, s1s2 nl
+Bronchial BS, R>L, with BS greatly reduced throughout on L
+Abd soft, ND, +BS
+Extr with no edema and 2+ DP pulses
+No rashes
+No extremity edema
+
+Pertinent Results:
+2005-09-08 00:00:00 07:01PM   WBC-11.1*# RBC-3.91* HGB-11.4* HCT-33.7*
+MCV-86 MCH-29.3 MCHC-34.0 RDW-13.2
+2005-09-08 00:00:00 07:01PM   WBC-11.1*# RBC-3.91* HGB-11.4* HCT-33.7*
+MCV-86 MCH-29.3 MCHC-34.0 RDW-13.2
+2005-09-08 00:00:00 07:01PM   PT-12.2 PTT-22.6 INR(PT)-1.0
+2005-09-08 00:00:00 07:01PM   GLUCOSE-108* UREA N-15 CREAT-0.7 SODIUM-143
+POTASSIUM-4.0 CHLORIDE-107 TOTAL CO2-25 ANION GAP-15
+
+Brief Hospital Course:
+Plan:
+*
+1. Respiratory. The patient was maintained on a ventilator after
+the procedure for airway protection. The patient was kept
+sedated for comfort but was A+Ox3 and communicative througout.
+On 2005-09-08 00:00:00, the patient had a repeated flexible bronchoscopy
+showing L airway patency, at which time she was extubated
+without complication.
+*
+2. ID. Sputum culture from +GPC in pairs and the patient
+received 1 dose of vancomycin.
+*
+2. FEN. An NGT was placed and TF's started while pt was
+intubated.
+*
+4. Hyperlipidemia. The patient was kept on Lipitor.
+*
+5. Hypothyroidism. The patient was kept on Synthroid.
+*
+6. Prophylaxis:
+- Lanzoprazole
+- Pneumoboots
+- Heparin SC
+*
+7. Precautions - MRSA + from 123 Any St.us bronchial washings (2005-09-08 00:00:00)
+*
+7. Access: Peripheral IV R, radial left A-line
+*
+8. FC
+*
+9. Communication: Son at test@mail.com (Balil KeowntBalil Keown) and husband.
+*
+10. Discharge. The patient was discharged to home in good
+condition.
+
+
+Medications on Admission:
+Lipitor 20qd
+Synthroid 125qd
+Protonix 40qd
+Mytussin
+Tessalon pearls
+Ambien prn
+
+
+Discharge Medications:
+1. Levothyroxine Sodium 125 mcg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+2. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+3. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+4. Tessalon Perles 100 mg Capsule Sig: One (1) Capsule PO every
+four (4) hours as needed for cough.
+5. Ambien 5 mg Tablet Sig: 1-2 Tablets PO at bedtime as needed
+for insomnia.
+6. Mytussin DM  Oral
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+S/p left main bronchus stent removal
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please return to the ER if you have difficulty breathing, chest
+pain, feel lightheaded or dizzy, or have bloody sputum or cough.
+Please take all your medications as directed.
+
+Followup Instructions:
+Please follow up with your PCP and pulmonary doctors as
+arranged.
+
+
+                             Balil Keown Balil Keown MD 170
+

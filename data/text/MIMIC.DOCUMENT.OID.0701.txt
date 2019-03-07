@@ -1,0 +1,124 @@
+Admission Date:  2013-11-05 00:00:00     Discharge Date:  2013-11-05 00:00:00
+
+Date of Birth:                  Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Respiratory failure.
+
+HISTORY OF PRESENT ILLNESS:  This is a 75 year old man with
+history of advanced dementia (Alzheimer's type) and type 2
+diabetes mellitus, presenting to the Emergency Department
+with fever, cough, hypoxemia.  The patient was noted by
+caregivers to be more lethargic than usual and with nasal
+congestion on the night prior to admission.  On the day of
+admission, the patient was more lethargic, "gurgling", with
+cough nonproductive.  No witnessed aspiration or choking
+episode.  The patient was unable to localize his complaints
+(he is nonverbal at baseline).  Due to increased gurgling,
+the caregivers brought the patient to the Emergency
+Department, where he was found to be in respiratory failure.
+Specifically, his temperature was 102.3, his heart rate 112,
+his blood pressure 142/80, respiratory rate 20 and his oxygen
+saturation was 82% in room air and 90% on six liters of
+oxygen nasal cannula and 94% on 100% face mask.
+
+In the Emergency Department, suction of secretions was
+affected and the chest x-ray showed right middle lobe and
+right lower lobe process.  The patient was treated with
+Clindamycin and Ceftriaxone in the Emergency Department and
+reattempts to suction his airways gave very little yield.
+
+PAST MEDICAL HISTORY:
+1.  Dementia (Alzheimer's type) for the past ten years).  The
+patient is essentially nonverbal and he requires 24 hour care
+by his caregivers.
+2.  Type 2 diabetes mellitus.
+3.  Diverticulitis, status post colectomy in 2013-11-05 00:00:00.
+4.  History of hypertension.
+5.  History of coronary artery disease.
+
+MEDICATIONS ON ADMISSION:  Amaryl.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient quit tobacco use fifteen years
+ago after twenty to thirty year tobacco use history.
+Negative for alcohol use.  The patient lives at home with his
+caregivers who provide full support for his activities of
+daily living.
+
+PHYSICAL EXAMINATION:  Temperature is 102.3, pulse 112, blood
+pressure 142/80, respiratory rate 20, oxygen saturation 82%
+in room air, and 90% at six liters nasal cannula oxygen and
+94% on 100% face mask.  In general, the patient is awake,
+alert, nonverbal with occasional words, making eye contact
+with his caregivers.  Brekin Alldredge accessory muscle use.  Head, eyes,
+ears, nose and throat is notable for dry mucous membranes and
+visible thick sputum in the posterior oropharynx.
+Cardiovascular is regular rate and rhythm, no murmurs, rubs
+or gallops.  Lungs - auscultation difficult because of poor
+respiratory effort secondary to patient not following
+commands. Trace rhonchi.  No wheezes.  The abdomen is soft
+with mild diffuse tenderness, manifested by withdrawal and
+grunts from the patient.  Positive bowel sounds.  Guaiac
+negative per Emergency Department note.
+
+LABORATORY DATA:  White blood cell count 12.0, hematocrit
+46.0, platelet count 163,000.  Sodium 138, potassium 5.1,
+blood urea nitrogen 22, creatinine 1.0, glucose 189.
+
+Chest x-ray revealed a density at the right middle lobe and
+right lower lobe.  No congestive heart failure and no
+effusion.
+
+HOSPITAL COURSE:  The patient was admitted to the UPMCE, in particular, to the Intensive
+Care Unit, for treatment of his respiratory failure, which
+was attributed to pneumonia and sepsis secondary to
+aspiration.  The patient was treated with Levofloxacin and
+Flagyl and was weaned from 100% face mask to 60% face mask.
+After one day stay in the Intensive Care Unit, the patient
+was transferred to the medical floor on face mask 60%.  There
+he was treated with Ceftriaxone and Clindamycin.  A bedside
+swallow evaluation demonstrated delayed wet cough and delayed
+initiation of swallow at least for liquids.  Oropharyngeal
+video fluoroscopic swallowing evaluation demonstrated
+intermittent mild delay in initiation of pharyngeal swallow,
+mildly reduced laryngeal elevation, mildly reduced epiglottic
+deflection and trace penetration of thin liquids twice.  The
+patient was discharged back to home with services.
+
+MEDICATIONS ON DISCHARGE:
+1.  Glimepiride 1 mg once daily.
+2.  Subcutaneous Heparin 5,000 units q12hours.
+3.  Senna one tablet twice a day.
+4.  Protonix 40 mg p.o. once daily.
+5.  Clindamycin 600 mg q6hours for ten days.
+6.  Cefpodoxime Proxetil 200 mg q12hours for ten days.
+7.  Colace 100 mg p.o. twice a day.
+
+FOLLOW-UP PLANS:  The patient's caregivers were advised to
+provide him with a diabetic diet and to follow aspiration
+precautions.  They were advised to feed the patient thin
+liquids and soft solids and to avoid mixing consistencies
+because that would increase the risk of aspiration.  Feeding
+the patient should always be performed in the upright
+position and with monitoring for signs and symptoms of
+aspiration.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To home with services.
+
+
+
+
+                          Greysun Richtmyer, M.D.  23848
+
+Dictated By:Greysun Richtmyer
+
+MEDQUIST36
+
+D:  2013-11-05 00:00:00  17:15
+T:  2013-11-05 00:00:00  19:37
+JOB#:  23848

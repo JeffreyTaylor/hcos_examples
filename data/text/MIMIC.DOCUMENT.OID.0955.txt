@@ -1,0 +1,451 @@
+Admission Date:  2014-08-20 00:00:00              Discharge Date:   2014-08-20 00:00:00
+
+Date of Birth: 1970-06-23 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Cherylynn Giorgini
+Chief Complaint:
+Hypotension, tachycardia
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+59 year old male with stage III (Tx N2 M0) GE junction
+adenocarcinoma s/p 2 cycles of cisplatin and flurouracil (2014-08-20 00:00:00
+and 2014-08-20 00:00:00) and recent PE (2014-08-20 00:00:00 on lovenox) who presents with poor
+PO intake, nausea, vomiting x 2 weeks, now with hypotension to
+the 80s and a-fib with RVR 130s-150s. He has been being seen by
+a visiting nurse Aruna Holston him today and found him to be
+tachycardic and hypotensive and referred him to the ED. He has
+been asymptomatic with the exception of nausea and vomiting and
+right elbow tenderness and erythema. He denies fever and chills.
+He denies SOB, CP, palps, myalgias, cough, dysuria, sore throat
+or diarrhea.  He denies feeling dehydrated, and he says that
+he's been urinating a few times a day without difficulty.
+
+In the ED, initial vitals were 97.8 72 (not real) 94/65 16 100%
+RA. He was given 5L of NS.  Chest X-Ray was unremarkable. Pt was
+in a-fib with RVR and a rate of 130s-150s. Due to hypotension,
+no medications were given for rate control. Due to recent PE, CT
+was obtained and showed decreased clot burden and stable
+infarct. Out of concern for possible infectious etiology,
+vancomycin 1g and 2g cefepime were given. Due to refractory
+hypotension, peripheral neosynephrine was started.
+
+On the floor, he's lying in bed comfortable. without complaint.
+
+
+
+Past Medical History:
+Past Oncologic History:
+Stage III (Tx N2 M0) GE junction adenocarcinoma, s/p 2 cycles of
+Fluorouracil - Cisplatin.  Also actively receiving XRT with
+plans for surgery in the fall.
+
+Other Past Medical History:
+Severe rheumatoid arthritis, 123 Any St.usly on enbrel. History of
+multiple joint surgeries related to RA as well. History of
+pericarditis, thought secondary to RA.
+Pulmonary Embolism
+
+
+Social History:
+He lives with his wife of 34 years. He has been on disability
+for the past ten years, formerly was a manager at a bottling
+plant and 123 Any St. 123 Any St.. He has four children.
+- Tobacco: He quit smoking in 2014-08-20 00:00:00, 123 Any St.usly smoked 30-35
+years, 1-1.5 PPD
+- Alcohol:  He has 2014-08-20 00:00:00 drinks per week 123 Any St.usly.
+- Illicits:  Denies
+
+
+Family History:
+His mother and Aruna Holston sister have Aruna Holston. There is no family
+history of cancers. No family history of dvt or pulmonary
+embolism.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, dry MM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally scan basilar crackles,
+no wheezes, rales, ronchi
+CV: Irregularly irregular, tachycardic, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema; ulnar deviation of his fingers bilaterally; warm raised
+erythematous alecranon bursa on right forearm. Mild TTP
+Neuro: CN2-12 grossly in tact, no focal deficits
+
+DISCHARGE PHYSICAL EXAM
+Vitals: T: 96.4  102/62  79  20  94%RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, ronchi
+CV: RRR, no murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema; ulnar deviation of his fingers bilaterally; R arm > L
+arm, with loose edema.  No pain. No swelling, erythema around
+port site.
+Neuro: CN2-12 grossly in tact, no focal deficits
+
+Pertinent Results:
+Admission Labs:
+2014-08-20 00:00:00 07:55PM BLOOD WBC-9.1# RBC-4.04* Hgb-13.0* Hct-36.9*
+MCV-91 MCH-32.2* MCHC-35.2* RDW-15.9* Plt Ct-315#
+2014-08-20 00:00:00 07:55PM BLOOD PT-13.5* PTT-35.3* INR(PT)-1.2*
+2014-08-20 00:00:00 07:55PM BLOOD Glucose-101* UreaN-10 Creat-0.8 Na-131*
+K-3.7 Cl-94* HCO3-23 AnGap-18
+2014-08-20 00:00:00 07:55PM BLOOD CK(CPK)-21*
+2014-08-20 00:00:00 04:30AM BLOOD Calcium-7.8* Phos-3.0 Mg-1.8
+
+PERTINENT INTERVAL LABS:
+2014-08-20 00:00:00 01:47PM BLOOD Thrombn-13.6*
+2014-08-20 00:00:00 01:47PM BLOOD LMWH-0.81
+2014-08-20 00:00:00 05:32PM BLOOD LMWH-0.75
+2014-08-20 00:00:00 01:47PM BLOOD Inh Scr-PND
+2014-08-20 00:00:00 07:55PM BLOOD CK-MB-2 cTropnT-<0.01
+2014-08-20 00:00:00 04:30AM BLOOD CK-MB-2 cTropnT-<0.01
+2014-08-20 00:00:00 05:23AM BLOOD CK-MB-1 cTropnT-<0.01
+2014-08-20 00:00:00 05:42AM BLOOD Albumin-2.7* Calcium-7.9* Phos-3.1 Mg-1.9
+2014-08-20 00:00:00 07:55PM BLOOD TSH-6.9*
+2014-08-20 00:00:00 05:23AM BLOOD TSH-5.4*
+2014-08-20 00:00:00 05:23AM BLOOD T4-6.8 Free T4-1.1
+2014-08-20 00:00:00 07:56PM BLOOD Lactate-1.1
+2014-08-20 00:00:00 07:47AM BLOOD PREALBUMIN-PND
+
+DISCHARGE LABS:
+2014-08-20 00:00:00 05:16AM BLOOD WBC-5.9 RBC-3.44* Hgb-11.2* Hct-31.5*
+MCV-92 MCH-32.4* MCHC-35.4* RDW-15.4 Plt Ct-292
+2014-08-20 00:00:00 05:16AM BLOOD Glucose-90 UreaN-4* Creat-0.6 Na-137
+K-3.6 Cl-103 HCO3-24 AnGap-14
+2014-08-20 00:00:00 05:16AM BLOOD Calcium-7.8* Phos-3.0 Mg-1.7
+
+URINE:
+2014-08-20 00:00:00 09:15PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+2014-08-20 00:00:00 09:15PM URINE Color-Straw Appear-Clear Sp Holston-1.002
+
+MICRO:
+BLOOD CULTURE X2 (2014-08-20 00:00:00): NO GROWTH
+
+ECG (2014-08-20 00:00:00): RATE 154, Atrial fibrillation with rapid ventricular
+response. Compared to the [** Location **]us
+tracing of 2014-08-20 00:00:00 atrial fibrillation is new.
+
+CHEST PORTABLE (2014-08-20 00:00:00):
+IMPRESSION: No acute intrathoracic process.
+
+CTA (2014-08-20 00:00:00):
+1. Interval decrease in clot burden involving subsegmental
+branches of
+posterior basal segment of right lower lobe since 2014-08-20 00:00:00.
+2. 2.3 x 1.3 cm enlarging subpleural perifissural right lower
+lobe nodule,
+concerning for metastatic pleural disease. Additional scattered
+sub 4 mm
+bilateral pulmonary nodules appear stable since at least 2014-08-20 00:00:00.
+3. Minimal upper zone interlobular septal thickening may reflect
+volume
+status.
+4. Stable distal esophageal thickening, compatible with
+esophageal carcinoma.
+5. New perifissural hepatic hypodensity, incompletely assessed
+on current
+examination. Although this may represent focal fatty
+infiltration, given
+history of malignancy, dedicated hepatic imaging is recommended
+to exclude
+metastasis.
+6. Likely right axillary vein thrombosis. Recommend DVT study
+for
+confirmation
+
+ECHO (2014-08-20 00:00:00):
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Left ventricular regional function is probably
+normal though views are technically suboptimal. Tissue Doppler
+imaging suggests a normal left ventricular filling pressure
+(PCWP<12mmHg). Right ventricular chamber size and free wall
+motion are normal. The aortic root is mildly dilated at the
+sinus level. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. The estimated
+pulmonary artery systolic pressure is normal. There is no
+pericardial effusion.
+
+US ELBOW R (2014-08-20 00:00:00):
+IMPRESSION:
+1. No fluid collection seen at the right elbow within the
+superficial
+tissues.
+2. Indeterminate soft tissue density adjacent to the right
+humerus. If there
+is clinical concern an MRI could further characterize this area
+
+UE DOPPLER (2014-08-20 00:00:00):
+IMPRESSION: Acute right axillary vein thrombosis
+
+XR R ELBOW (2014-08-20 00:00:00):
+IMPRESSION:
+1. No fluid collection seen at the right elbow within the
+superficial
+tissues.
+2. Indeterminate soft tissue density adjacent to the right
+humerus. If there
+is clinical concern an MRI could further characterize this area.
+
+
+CXR (2014-08-20 00:00:00):
+FINDINGS: There is new faint opacity in the left lower lobe
+which could
+represent early pneumonia. There are trace bilateral pleural
+effusions.
+Emphysematous changes including increased AP diameter and
+flattening of the
+diaphragms are seen. No pneumothorax is identified. A
+right-sided central
+line is in place with tip near the cavoatrial junction. The
+heart size is
+normal.
+
+IMPRESSION: Faint left lower lobe opacity could represent early
+pneumonia
+
+
+Brief Hospital Course:
+====
+BRIEF HOSPITALIZATION SUMMARY
+====
+
+59 year old male with esophageal cancer presenting with FTT and
+hypotension and a-fib with RVR, given 5L of IVF now on
+neosynephrine, pt already anticoagulated without interruption on
+lovenox, transferred to ICU for cardioversion.
+
+ICU Course: Patient was transferred with persistent afib with
+RVR to 150s for cardioversion.  Continued digoxin which was
+started on the floor.  HR did not increase above 120s and
+patient was not started on a Diliazem ggt.  Patient was
+successfully cardioverted on 2014-08-20 00:00:00 in normal sinus rhythm.  Per
+cardiology recs, he was started on Metoprolol 25mg PO q8h and
+digoxin was continued.  Patient remained in normal sinus rhythm
+and was transferred to the floor.
+
+Imaging notable for potential lung and liver involvement of
+primary tumor.  Primary oncologist notified and will f/u as
+outpt. Will likely change trajectory of care plan.
+
+===
+ACTIVE ISSUES
+====
+Hypotension: Likely multifactorial with dehydration from
+vomiting and poor PO intake contributing, as well as his new
+a-fib with RVR causing decreased atrial kick. Infection given
+his abnormal substrate (esophageal cancer) was of concern. He
+was resuscitated with 5L NS prior to coming to the ICU and was
+started on neosynephrine. He was treated with vancomycin and
+cipro for potential infectious causes while awaiting culture
+data. He did have a red, warm elbow that he thought was
+consistent with an RA flare, though it warrants monitoring. He
+was afebrile without a leukocytosis. His pressors were weaned
+off and his blood pressure was stable in the 90s-100s prior to
+transfer to the floor.   Hypotension resolved with
+cardioversion.
+
+A-fib with RVR: New a-fib. He has had a history of PAF in the
+setting of pericarditis related to his RA in his 20s. He was
+volume resuscitated in the ED with 5L. He remained in a-fib,
+though his rate was controlled in the 100s. He was dig loaded,
+and a potential infectious [** Location **]itant was treated as above. A
+CT was done given his recent PE, and it showed a decreased clot
+burden. Echo was normal with a non-dilated LA. Cardiac enzymes
+were negative, and a TSH was elevated (free T4 nl). Pt was
+cardioverted with sedation in the MICU, and returned to NSR.
+Continued lovenox and metoprolol 25mg tid.  Transitioned to
+outpt toprol xl                75mg qd. Pt was monitored on tele
+for24    hrs before d/c to Holston.
+
+PNA:  Pt w/ e/o PNA on CXR, w/ cough for one week.  Treating for
+CAP considering hx of productive cough one week. levofloxacin
+initiated 2014-08-20 00:00:00 (through 2014-08-20 00:00:00)
+
+Esophageal CA: Had 2 cycles of flurouracil and cisplatin. Nausea
+has been improved, no vomiting during this hospitalization.
+Continue calorie count.  Will continue to w/u as outpt.  Likely
+metastatic progression, which would make him a non-surgical
+candidate.  pt had calorie count. outpatient appointment on
+2014-08-20 00:00:00 w/ oncologist and surgeon
+
+Esophageal CA: Had 2 cycles of flurouracil and cisplatin. He has
+had nausea and vomiting multiple times a day without relief with
+compazine and zofran. Denies feeling dehydrated, though he has
+been receiving intermittent infusions of NS in the outpatient
+clinic.
+
+RA: Possible involvement of his right elbow, however, edema in
+that arm is most likely 2014-08-20 00:00:00 axillary vein thrombosis. us and
+xray unrevealing
+
+===
+TRANSITIONAL ISSUES
+===
+1. f/u on 2014-08-20 00:00:00 w/surgeron and onc to discuss treatment plan
+2 Pt to arrange for cardiology f/u in 2014-08-20 00:00:00 weeks. if onc appt
+first, should draw dig level
+3 MEDICATION CHANGES:
+STOP taking relafen 2 tabs twice per day (500mg), as you have
+noted that you have not been taking
+
+START taking digoxin 250 mcg. One (1) Tablet by mouth DAILY
+(Daily).
+
+START taking metoprolol succinate extended release 75 mg by
+mouth every day (one 50 mg tablet and one 25mg Tablet per day)
+
+START taking levofloxacin 750 mg Tablet. Take One Tablet by
+mouth once a day for 5 days: Take through 2014-08-20 00:00:00
+
+
+Medications on Admission:
+albuterol sulfate 90 mcg Two puffs inh Q6H prn
+enoxaparin 80 mg/0.8 mL Syringe Subq UPMCE
+lorazepam 1 mg Q4-6h prn nausea, vomiting
+ondansetron HCl 8 mg PO Q8H prn nausea/vomiting
+prochlorperazine maleate 10 mg PO Q6 hours prn nausea/vomiting
+relafen 2 tabs UPMCE (500mg), not taking, has not needed
+acetaminophen 500 mg by mouth every four hours as needed
+omeprazole 20 mg PO once a day
+
+
+Discharge Medications:
+1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) Puff Inhalation Q6H (every 6 hours) as needed for sob
+wheeze.
+2. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for nausea, anxiety.
+3. enoxaparin 80 mg/0.8 mL Syringe Sig: One (1)  Subcutaneous
+Q12H (every 12 hours).
+4. digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig:
+One (1) Tablet Extended Release 24 hr PO once a day.
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*0*
+6. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig:
+One (1) Tablet Extended Release 24 hr PO once a day: Take a
+total of 75mg per day in the morning (one 50mg and one 25mg
+tablet).
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*0*
+7. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day
+for 5 days: Take through 2014-08-20 00:00:00.
+Disp:*5 Tablet(s)* Refills:*0*
+8. ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO every eight (8) hours as needed for nausea.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*0*
+9. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+10. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO
+every eight (8) hours as needed for nausea.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Angels at home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+atrial fibrillation with rapid ventricular response
+
+Secondary Diagnosis:
+hypotension
+GE junction adenocarcinoma
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. Holston,
+
+It was a pleasure taking care of you.
+
+You were admitted to the hospital because you had an abnormal
+heart rhythm (atrial fibrillation) with a rapid heart rate.
+Also, you had a low blood pressure.  Your low blood pressure was
+most likely from a combination of dehydration and the abnormal
+heart rhythm.
+
+While in the Intensive Care Unit, we gave your heart an
+electrical impulse to return it to a normal rhythm.
+Fortunately, your heart returned to a normal rate and a normal
+rhythm.  You should follow-up with the division of cardiology so
+that they can follow your heart rhythm. Also, you had a
+pneumonia when you were admitted. You should continue the
+antibiotic (levofloxacin) through 2014-08-20 00:00:00.
+
+You also have close follow-up with your primary oncologist, on
+2014-08-20 00:00:00, to discuss your oncological issues.  At this time he
+will also evaluate the swelling in your right arm.  You should
+continue taking the lovenox as directed.
+
+Also, you should be sure to drink plenty of fluids to keep from
+becoming dehydrated.
+
+MEDICATION CHANGES:
+STOP taking relafen 2 tabs twice per day (500mg), as you have
+noted that you have not been taking
+
+START taking digoxin 250 mcg. One (1) Tablet by mouth DAILY
+(Daily).
+
+START taking metoprolol succinate extended release 75 mg by
+mouth every day (one 50 mg tablet and one 25mg Tablet per day)
+
+START taking levofloxacin 750 mg Tablet. Take One Tablet by
+mouth once a day for 5 days: Take through 2014-08-20 00:00:00.
+
+Followup Instructions:
+It is important for you to call the UPMCE, Division of Cardiology to schedule an
+appointment within the next two weeks with Dr. Cherylynn Giorgini :
+test@mail.com.  They will follow up your heart rate and rhythm.
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY 2014-08-20 00:00:00 at 9:00 AM
+With: Aruna Holston, MD 2014-08-20 00:00:00
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY 2014-08-20 00:00:00 at 9:30 AM
+With: Aruna Holston, LPN test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY 2014-08-20 00:00:00 at 10:00 AM
+With: Aruna Holston, MD 2014-08-20 00:00:00
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+

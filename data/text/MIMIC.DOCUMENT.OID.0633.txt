@@ -1,0 +1,484 @@
+Admission Date:  2013-08-12 00:00:00              Discharge Date:   2013-08-12 00:00:00
+
+Date of Birth: 1984-06-08 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Tetracycline
+
+Attending:Evelinda Lecloux
+Chief Complaint:
+Epigastric Pain
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is a 59 year old woman with history of HTN, DM, s/p renal
+transplant in 2013-08-12 00:00:00, currently on cellcept and cyclosporine
+presents with one week of nausea and vomiting.
+
+One week prior to presentation she has acute onset of nausea,
+vomiting and abd pain. She did not notice any blood in the
+vomitus. Her pain was 2013-08-12 00:00:00, epigastric and radiated to the back.
+She has not had pain like this before. She denies drinking
+alcohol. No recent spider bites. No change in her weight
+recently. No personal or family history of cancer.
+
+She was recently admitted at UPMCE for dyspnea attributed to
+pulmonary edema/fluid overload. ECHO 2013-08-12 00:00:00 shows mild LVH and EF
+55%. Prior to this she was admited for E. coli pyelonephritis
+and was treated with Zosyn and ciprofloxacin.
+
+She has history of ESRD s/p cadaveric renal transplant in 2013-08-12 00:00:00.
+She has a baseline cre of 2.5 (near her baseline). She has been
+mantained on immunosupression with prednisone, cellcept and
+cyclosporin (all of these were started more than one year ago
+without recent changes). She also takes EPO for anemia.
+.
+In the ED, initial vs were: 97.4 63 160/63 18 99. Patient was
+placed NPO and given morphine for pain and ondasentron. RUQ US
+showed a distened GB but without stones. No CBD dilatation. CXR
+without acute changes. While in the ED her urine output was 150
+cc over a period of 5 hrs. She received 1 lt NS. Prior to
+transfer her vitals were 97.6 60 149/44 18 99RA.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of [**Year (4 digits) 1422**]. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias
+
+Past Medical History:
+1. Hypertension
+2. Diabetes-45+ years, type I
+3. Status post renal transplant in 2013-08-12 00:00:00 crt 1.3-1.6
+4. Sciatica
+5. Multinodular goiter
+6. Cataract surgery.
+7. Hyperlipidemia.
+8. Depression.
+9. History of vertigo.
+10. History of nephrolithiasis.
+11. s/p left eye vitreous hemorrhage
+
+Social History:
+The patient is divorced with two adult children.  She lives
+alone in a one family house with stairs.  Her two daughters and
+ex-husband see her regularly and lve near by.  No tobacco, ETOH,
+illicit drug use. From 123 Any St..
+
+
+Family History:
+Father with CAD, died age 55yo
+
+Physical Exam:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, systolic murmur
+left sternal border 2013-08-12 00:00:00, rubs, gallops
+Abdomen:  diffusely ttp, more pronounced on epigastrium, no
+rebound tenderness or guarding, no organomegaly, no Evelinda Lecloux or
+Sanon signs.
+GU: foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+.
+ADMISSION LABS:
+2013-08-12 00:00:00 01:40PM BLOOD WBC-15.5* RBC-5.16 Hgb-12.4 Hct-41.3
+MCV-80* MCH-24.0* MCHC-30.0* RDW-16.9* Plt Ct-272
+2013-08-12 00:00:00 01:40PM BLOOD Neuts-83.3* Lymphs-12.0* Monos-3.5
+Eos-1.0 Baso-0.1
+2013-08-12 00:00:00 01:40PM BLOOD PT-12.2 PTT-27.1 INR(PT)-1.0
+2013-08-12 00:00:00 01:40PM BLOOD Glucose-185* UreaN-113* Creat-2.5* Na-133
+K-4.6 Cl-101 HCO3-17* AnGap-20
+2013-08-12 00:00:00 01:40PM BLOOD ALT-8 AST-15 AlkPhos-163* TotBili-0.4
+2013-08-12 00:00:00 09:15PM BLOOD LD(LDH)-828* TotBili-0.4
+2013-08-12 00:00:00 10:57PM BLOOD LD(LDH)-260* TotBili-0.3
+2013-08-12 00:00:00 01:40PM BLOOD Lipase-2812*
+2013-08-12 00:00:00 10:57PM BLOOD Lipase-1451* GGT-10
+2013-08-12 00:00:00 09:15PM BLOOD TotProt-5.6* Albumin-3.1* Globuln-2.5
+Calcium-8.2* Phos-6.8* Mg-2.0
+2013-08-12 00:00:00 10:57PM BLOOD TotProt-4.8* Albumin-2.8* Globuln-2.0
+Calcium-7.8* Phos-6.0* Mg-1.7
+2013-08-12 00:00:00 09:15PM BLOOD Cyclspr-63*
+2013-08-12 00:00:00 10:57PM BLOOD Cyclspr-60*
+2013-08-12 00:00:00 09:21PM BLOOD Type-ART Temp-36.7 pO2-35* pCO2-46*
+pH-7.24* calTCO2-21 Base XS--8
+2013-08-12 00:00:00 01:46PM BLOOD Lactate-1.7
+2013-08-12 00:00:00 09:21PM BLOOD Glucose-134* Lactate-0.8 Na-132* K-4.7
+Cl-103
+2013-08-12 00:00:00 09:21PM BLOOD freeCa-1.21
+.
+MICROBIOLOGY:
+MRSA SCREENING: NEG
+
+BLOOD CULTURE ON 2013-08-12 00:00:00 X 2: NO GROWTH
+
+URINE CULTURE ON 2013-08-12 00:00:00: NO GROWTH
+
+URINE CULTURE ON 2013-08-12 00:00:00:
+2013-08-12 00:00:00 4:32 am URINE      Source: Catheter.
+
+                            **FINAL REPORT 2013-08-12 00:00:00**
+
+   URINE CULTURE (Final 2013-08-12 00:00:00):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------    32 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     4 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+DISCHARGE LABS:
+2013-08-12 00:00:00 04:55AM BLOOD WBC-8.8 RBC-3.94* Hgb-9.4* Hct-32.5*
+MCV-83 MCH-23.9* MCHC-29.0* RDW-16.2* Plt Ct-198
+2013-08-12 00:00:00 05:15AM BLOOD PT-13.1 PTT-32.5 INR(PT)-1.1
+2013-08-12 00:00:00 04:55AM BLOOD Glucose-140* UreaN-89* Creat-2.2* Na-136
+K-4.6 Cl-105 HCO3-20* AnGap-16
+2013-08-12 00:00:00 05:40AM BLOOD ALT-7 AST-11 LD(LDH)-180 AlkPhos-142*
+TotBili-0.3
+2013-08-12 00:00:00 04:55AM BLOOD Lipase-276*
+2013-08-12 00:00:00 04:55AM BLOOD Calcium-8.4 Phos-4.8* Mg-2.4
+
+IMAGING:
+CXRAY ON 2013-08-12 00:00:00:
+CHEST, AP AND LATERAL: There has been interval removal of a
+right PICC. The
+lung volumes are low, with accentuation of the cardiomediastinal
+contours. The heart is stable in size. Atherosclerotic
+calcifications of the aortic arch are noted. Aside from minimal
+discoid atelectasis in the left lower lung, the lungs are clear
+without consolidation or edema. There is no pleural effusion or
+pneumothorax.
+
+IMPRESSION: Low lung volumes and minimal left lower lung
+atelectasis.
+
+LIVER AND GALLBLADDER US ON 2013-08-12 00:00:00:
+FINDINGS: No focal hepatic lesion is identified. The portal vein
+is patent
+with hepatopetal flow. There is no evidence of gallstones,
+gallbladder wall
+thickening, or pericholecystic fluid. There is no intra- or
+extra- hepatic
+biliary ductal dilatation with the CBD measuring 6 mm. Limited
+views of the
+pancreatic head and body are unremarkable, without a focal
+lesion. Limited
+views of the right kidney reveal an atrophic native right
+kidney.
+
+IMPRESSION: No evidence of gallstones or acute cholecystitis.
+
+
+ECHO 2013-08-12 00:00:00
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion
+.
+EKG ON 2013-08-12 00:00:00:
+Sinus bradycardia. Possible left atrial abnormality. Left
+bundle-branch block.
+Compared to the 123 Any St.us tracing of 2013-08-12 00:00:00 the heart rate is
+slower.
+
+ 	Intervals	Axes
+Rate	PR	QRS	QT/QTc	P	QRS	T
+56	178	146	470/463	53	-23	122
+
+
+Brief Hospital Course:
+59 year old woman with history of HTN, DM, s/p renal transplant
+in 2013-08-12 00:00:00, currently on cellcept and cyclosporine presents with
+one week of nausea and vomiting, who was found to have an
+elevated lipase, AP and leukocytosis consistent with
+pancreatitis.
+.
+# Abdominal pain/Nausea and vomiting: Pt presented with one wk
+of nausea/vomiting and was found to have elevated lipase (2812
+at admission) and Alk Phos (160) with leukocytosis (WBC at 15).
+She also complained of epigastric pain radiating to her back
+level 2013-08-12 00:00:00. These findings were consistent with pancreatitis.
+The etiologies of her acute pancreatitis was not clear. The
+differential diagnosis included biliary causes including gall
+stones, however this is less likely given that US of RUQ did not
+show gall stones. This still not completely excluded given that
+she could have passed the stone. This could also be due to gall
+bladder sludge. Another common cause is alcohol which the
+patient denies having any alcohol intake. She has a history of
+hyperlipilipidemia but this is well controlled as of 2013-08-12 00:00:00
+(total chol 158, HDL60, LDL 82, TG 80). She was on Immuno
+suppressant meds, so opportunist infections that can cause
+pancreatitis were also in the differential. These include
+cytomegalovirus, varicella-zoster virus, herpes simplex virus,
+and parasites (Toxoplasma, Cryptosporidium). This is however
+less likely and pt had negative blood cultures. Medications can
+also cause acute pancreatitis. Patient has been on tetracyclin
+for recurrent UTIs and on meridia which are likely culprits. GI
+was consulted and these meds were stopped. She was also started
+on ursodiol 600 mg UPMCE for gallbladder sludge. There was also
+recommendation for MRCP if pt continued to be symptomatic. She
+was initially treated with supportive therapy with NPO, IV
+fluids and pain management. She was initially admitted to the
+ICU for close observation of SIRS and sent to the floor once
+stable. After stopping the tetracyclin and meridia her symptoms
+started to improved and pt had her diet advanced as tolerated.
+Her labs had also trended down with lipase quickly dropping to
+246 and Alk phos to 140. Her epigastric and right upper quad
+pain had subsided and pt was able to tolerate small-mod amounts
+of solid food and appropriate amounts of fluids.
+.
+# CKI: Pt has a history of ESRD s/p cadaveric renal transplant
+in 2013-08-12 00:00:00.
+She has a baseline cre of 2.5 (near her baseline). Her creatine
+trended down to the 2.2 by time of discharge. She has been
+maintained on immunosuppression with prednisone, cellcept and
+cyclosporin (all of these were started more than one year ago
+without recent changes). She initially had low UO in the ED and
+was given IV fluids which she responded to with appropriate UO.
+Her Cyclosporin levels were WNL at low 60s. She also takes EPO
+for anemia. She had prior admission for fluid overload which
+seen to be stable during this hospitalization. She was continued
+on her home meds.
+.
+# Recurrent UTIs: Pt had recurrent episodes of E.coli UTI for
+which she was taking tetracyclin for it. Tetracyclin was stopped
+since it was thought to be likely to be the cause of her
+pancreatitis. Her Urine culture grew E.coli resistant to:
+Ampicillin, cipro, gent, Bactrim, and zozyn. Pt was asymptomatic
+so no antibiotics were started. She had recent cystoscopy for
+evaluation of recurrent UTIs which showed apparently normal
+bladder by  and normal bladder emptying. Pt will have close
+follow-up with ID to further decide antibiotic options for
+prophylaxis therapy.
+.
+# DM1 - She was diagnosed more than 45 years ago.  Her last
+A1C=6.5% in 2013-08-12 00:00:00 of 09.  She was continued on her home Lantus and
+
+Humalog insulin sliding scale. Her glucose in the evening have
+been difficult to control and I attempted to get pt an
+appointment with Sanon post discharge. UPMCE clinic will call
+once they are able to arrange for appointment.
+.
+# HTN/diastolic CHF - Pt had recent admission for fluid
+overload. She has been stable during this admission. Continued
+her home dose of Losartan 100 mg Qday, Metoprolol 200 mg twice a
+day and lasix 80mg UPMCE.
+.
+# Anemia: Pt on iron supplementation and on Epo injections
+weekly her Hct remained stable in the low 30s%.
+.
+# Hyperlipidemia - Continued home simvastatin
+.
+# Constipation - continue on colace and lactulose
+.
+# Gout - Her home renally dosed allopurinol was continued.
+.
+# Code - full code
+
+
+Medications on Admission:
+ACETAMINOPHEN-CODEINE [TYLENOL-CODEINE #3] - 300 mg-30 mg Tablet
+- one to two Tablet(s) by mouth twice a day
+ALBUTEROL - 90 mcg Aerosol - 2 puffs inh four times a day as
+needed for shortness of UPMCE
+ALLOPURINOL - 100 mg Tablet - 1 Tablet(s) by mouth every other
+day
+CALCITRIOL - 0.25 mcg Capsule - one Capsule(s) by mouth daily
+CYCLOSPORINE - 25 mg Capsule - 1 Capsule(s) by mouth twice a day
+to be taken with 50mg tablet, for total 75mg twice daily
+CYCLOSPORINE MODIFIED - 50 mg Capsule - 1 Capsule(s) by mouth
+twice a day to be taken with 50mg tablet, for total 75mg twice
+daily
+E123 Any St. ALFA [PROCRIT] - 20,000 unit/mL Solution - [**Numeric Identifier 385**] units
+weekly
+FLUTICASONE - 50 mcg/Actuation Spray, Suspension - one spray
+each  nostril qd
+FUROSEMIDE - 40 mg Tablet - three Tablet(s) by mouth in the am,
+two  tablets at night
+INSULIN ASPART [NOVOLOG] - 100 unit/mL Solution - 70 units 2-3
+times a day
+INSULIN GLARGINE [LANTUS] - 100 unit/mL Solution - 25-30 units
+in
+am 25 u in the evening
+LACTULOSE - 10 gram/15 mL Solution - 30ml Solution(s) by mouth
+every 8 hours as needed
+LANCETS,THIN -   - AS DIRECTED
+LOSARTAN [COZAAR] - 100 mg Tablet - 1 Tablet(s) by mouth once a
+day
+METOPROLOL TARTRATE - 100 mg Tablet - Two Tablet(s) by mouth
+twice a day
+MYCOPHENOLATE MOFETIL [CELLCEPT] - 500 mg Tablet - one Tablet(s)
+by mouth twice a day
+NIFEDIPINE - 60 mg Tablet Sustained Release - one Tablet(s) by
+mouth daily
+NYSTATIN - [**Numeric Identifier 4790**] U/G Cream - APPLY TO AFFECTED AREA TWICE A DAY
+OXYCODONE-ACETAMINOPHEN [ROXICET] - 5 mg-325 mg Tablet - 2013-08-12 00:00:00
+Tablet(s) by mouth q4-6 hrs as needed for as needed for pain
+PREDNISONE -  (Prescribed by Other Provider) - 5 mg Tablet - 1
+Tablet(s) by mouth once a day
+SEVELAMER CARBONATE [RENVELA] - 800 mg Tablet - 1 Tablet(s) by
+mouth three times a day
+SIBUTRAMINE [MERIDIA] - 10 mg Capsule - 1 Capsule(s) by mouth
+daily
+SIMVASTATIN - 5 mg Tablet - 1 (One) Tablet(s) by mouth once a
+day
+SYRINGE 1ML (INSULIN) - 1 ML SYRINGE - USE AS DIRECTED
+BLOOD SUGAR DIAGNOSTIC [ONE TOUCH ULTRA TEST] -   Strip - as
+directed 3-4 times a day
+CALCIUM CARBONATE -  (OTC) - 500 mg Tablet, Chewable - 2
+Tablet(s) by mouth three times per day with meals
+CALCIUM CARBONATE [EXTRA-STRENGTH CHEW ANTACID] - 300 mg (750
+mg)
+Tablet, Chewable - 2 Tablet(s) by mouth three times a day with
+meals
+FERROUS SULFATE -  (Prescribed by Other Provider) - 325 mg (65
+mg
+Iron) Tablet - 1 Tablet(s) by mouth per day
+
+
+Discharge Medications:
+1. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Cyclosporine Modified 25 mg Capsule Sig: Three (3) Capsule PO
+Q12H (every 12 hours).
+3. Mycophenolate Mofetil 250 mg Capsule Sig: One (1) Capsule PO
+BID (2 times a day).
+4. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every six (6) hours as needed for shortness
+of 2013-08-12 00:00:00 or wheezing.
+5. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. Epogen 20,000 unit/mL Solution Sig: One (1)  Injection once a
+week.
+7. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Nasal once a day.
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Sevelamer Carbonate 800 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS). Tablet(s)
+10. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+Disp:*60 Capsule(s)* Refills:*2*
+11. Insulin Glargine 100 unit/mL Solution Sig: Five (5) units
+Subcutaneous twice a day.
+12. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO every other
+day.
+13. Lasix 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+14. Simvastatin 5 mg Tablet Sig: One (1) Tablet PO once a day.
+15. Losartan 100 mg Tablet Sig: One (1) Tablet PO once a day.
+16. Metoprolol Tartrate 100 mg Tablet Sig: Two (2) Tablet PO
+twice a day.
+17. Novolog 100 unit/mL Solution Sig: 1-10 units Subcutaneous
+four times a day: per sliding scale.
+18. Lactulose  Oral
+19. Calcium 500 500 mg (1,250 mg) Tablet, Chewable Sig: 2013-08-12 00:00:00
+Tablet, Chewables PO once a day.
+20. Ferrous Sulfate 325 mg (65 mg Iron) Tablet, Delayed Release
+(E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a
+day.
+21. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every 4-6 hours
+as needed for pain for 7 days.
+Disp:*20 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Primary:
+Abdominal pain
+Pancreatitis
+.
+Secondary:
+ESRD s/p renal transplant in 98
+Hypertension
+Hyperlipidemia
+Diabetes
+
+
+Discharge Condition:
+Stable, tolerating po, renal function at baseline
+
+
+Discharge Instructions:
+You were admitted with abdominal pain and found to have acute
+pancreatitis.  This has been evaluated by the gastroenterologist
+the underlying cause is not entirely clear, though it may have
+been 123 Any St.itated by the Tetracycline or Meridia.  It is
+important that you avoid these medications and you will need
+follow up with ID with regards to alternative antibiotics for
+prophylaxis of UTIs.  It is also important that you maintain
+adequate hydration while at home.
+
+Please note the following changes to your medications:
+- stop tetracycline
+- avoid Meridia
+- start Ursodiol
+you can discuss whether this will need to be restarted)
+
+If you develop any recurrent abdominal pain, nausea, vomiting,
+inability to take oral fluids, decrease urine output or any
+other general worsening of condition, please call your PCP or
+come directly to the ER.
+
+Weigh yourself every morning, Charmella Sanon MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1-2L per day
+
+Followup Instructions:
+Provider: Sanon. Sanon Tuesday 2013-08-12 00:00:00 at 10 am transplant clinic
+
+Provider: Evelinda Lecloux, M.D. Phone:test@mail.com
+Date/Time:2013-08-12 00:00:00 10:00
+Provider: Charmella Sanon Charmella Sanon, RNC Phone:test@mail.com
+Date/Time:2013-08-12 00:00:00 11:40 (Dr.Charmella Sanon nurse)
+Provider: Evelinda Lecloux, M.D. Phone:test@mail.com
+Date/Time:2013-08-12 00:00:00 9:15
+
+It is important for you to call the Sanon at test@mail.com as
+they are trying to fit you in for a follow up in the next few
+weeks
+
+
+                             [**First Name4 (NamePattern1) 959**] Sanon MD 18187
+

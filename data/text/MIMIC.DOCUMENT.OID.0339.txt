@@ -1,0 +1,311 @@
+Admission Date:  2010-04-30 00:00:00              Discharge Date:   2010-04-30 00:00:00
+
+Date of Birth: 1931-04-26 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Bactrim
+
+Attending:Calianna Dinarte
+Chief Complaint:
+etoh withdrawl, rhabdomyolysis
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Patient is a 39 yo male with pmhx HIV (unknown cd4, viral
+load)on HAART brought in by police after being found down behind
+a dumpster. No records available in computer and ED thinks that
+pt gets most of his care at UPMCE. Neurology was initially
+consulted for altered mental status which they attributed to
+toxic/metabolic issues, etoh intoxication, UTI but recommended
+that if he continued to have altered sensorium and not clear
+appropriately to consider LP for CNS infection and MRI to r/o
+toxo, PML, etc. Head CT was negative. Serum etoh was 229 and he
+had an anion gap of 39 on presentation to the ED. He was going
+to be admitted to the floor, but the floor team asked for
+additional studies to work up his anion gap and he was found to
+have a lactate of 8. He was given broad spectrum abx including
+vancomycin, levaquin and ceftriaxone. Toxicology was consulted
+and recommended checking an osm gap which was 79 by my
+calculation. Toxicology recommended giving IVF and if the
+lactate  and osmolar gap improved with fluid, then it was
+unlikely to be due to ethylene glycol or methanol intoxication.
+After 5 liters of IV NS, lactate decreased from 8-->5. Repeat
+osm pending currently.  During his ED course, patient was noted
+to become tremulous and taccycardic and was thought to be
+undergoing withdrawl. He was given a total of 20 mg valium and 2
+mg ativan. His cks were also checked and found to be
+significantly elevated > 6000 and he was given approx 5 liters
+ns (one of the liters was bannana bag). He was then transferred
+to the ICU for further management.
+.
+In the ED, his initial vs were: T 97.8 P 88 BP 148/90 RR 18 O2
+sat 100% RA. He was given acyclovir, ceftriaxone, levaquin,
+vancomycin. Blood and urine cx were not drawn prior to these
+antibiotics. He also received valium po 20 mg and 2 mg IM ativan
+as well as 5 liters IV NS and bananna bag.
+
+On presentation to the ICU, his initial vs were: T 97.2 P 124 BP
+124/66 RR 17 O2 sat 99% RA. He reported feeling dehydrated,
+dizzy, mild headache, whole body feels stiff including neck,
+pain in legs from sunburn. Denies cp, sob, abd pain.
+
+
+Past Medical History:
+HIV on HAART
+ETOH abuse
+
+Social History:
+Works as an accountant.  Homosexual, lives with his male
+partner.  Drinks, but no drugs or tob. Recently got into fight
+with parnter.
+
+
+Family History:
+NC
+
+Physical Exam:
+VS:  T 97.2 P 124 BP 124/66 R 17 O2 sat 99% RA.
+GEN: agitated
+HEENT: AT, NC, PERRLA, EOMI, no conjuctival injection,
+anicteric, OP clear, MM extremely dry, Neck supple, moves in all
+directions without pain, no LAD, no carotid bruits
+CV: RRR, nl s1, s2, no m/r/g
+PULM: CTAB, no w/r/r, decreased at bases b/l
+ABD: soft, NT, ND, + BS, no HSM
+EXT: warm, dry, +2 distal pulses BL
+NEURO: alert & oriented x 2, CN II-XII grossly intact, 4-/5
+strength throughout. No sensory deficits to light touch
+ap123 Any St.ted. No asterixis
+SKIN: sunburn
+PSYCH: agitated, oriented to person and date, thinks he is at
+UPMCE
+
+
+Pertinent Results:
+Labs:
+144  94  27               AGap=43
+-------------< 86
+3.5  11  1.4
+.
+most recent chem-7 3:30 am
+135  98  26
+--------------< 81   AGap=30
+3.9  11  1.1
+.
+Lactate 8.0  --> 5.7
+ .
+estGFR: 56/68 (click for details)
+CK: 6061  --> 4580
+  .
+Serum EtOH 229
+Serum ASA, Acetmnphn, Hanson, [**First Name3 (LF) **], Tricyc Negative
+urine tox negative
+Osms:378 --> currently pending
+
+
+     15.9            MCV101
+3.7   ><  103
+     47.0
+ N:89.7 Band:0 L:6.2 M:3.7 E:0.3 Bas:0.1
+.
+
+PT: 16.7  PTT: 27.6  INR: 1.5
+.
+UA: Color Yellow  Appear Clear  SpecGr 1.014  pH 5.0  Urobil Neg
+
+Bili Neg Leuk Neg  Bld Tr  Nitr Neg  Prot 30  Glu Neg  Ket 50
+RBC 0-2  WBC 2010-04-30 00:00:00  Bact Mod  Yeast None  Epi 0-2 Other Urine
+Counts
+CastGr: 0-2 Fine Granular Casts
+.
+Imaging:  No evidence of acute intracranial hemorrhage.
+.
+ekg: 104, nl asix, sinus, nl intervals.
+.
+L Thigh Ultrasound: 2010-04-30 00:00:00: Grayscale and color flow images of
+the left upper thigh was performed. The area was completely
+interrogated. No hematoma, abscess was noted. There is diffuse
+soft tissue swelling at the site of visualized abrasions.
+
+IMPRESSION: No hematoma or abscess in the left upper thigh.
+.
+CT head 2010-04-30 00:00:00:
+FINDINGS: There is no evidence of acute intracranial hemorrhage,
+shift of midline structures or hydrocephalus. Calianna Dinarte and white
+matter differentiation appears preserved. Visualized paranasal
+sinuses are normally aerated. Mild opacification of left mastoid
+air cells noted.
+
+IMPRESSION: No evidence of acute intracranial hemorrhage.
+.
+
+
+Brief Hospital Course:
+A/P:  Pt is a 39 yo man with pmhx HIV with unknown cd4 count
+admitted here with etoh intoxication, now withdrawl,
+rhabdomyolysis, hepatitis, elevated anion and osmolar gap. He
+was initially admitted to the MICU given his altered mental
+status, and was transferred to the floor after his mentation
+improved.
+.
+# ETOH withdrawl- Patient received total of 30mg Valium and 2mg
+Ativan. On CIWA protocol. Continued on multivitamin, thiamine,
+and folate. Patient was seen by social work. He did not require
+any further diazepam on his last 3 days in house as his CIWAs
+were 2010-04-30 00:00:00. At times, it was felt that the patient was
+confabulating.
+
+# Altered mental status- On admission, the differential included
+toxic/metabolic causes including acidosis, urinary tract
+infection, etoh withdrawl. Head ct was negative. Neurology was
+consulted in the ED and recommended LP and MRI. LP was hled as
+he was agitated and he was treated empirically for meningitis
+with ceftriaxone, acyclovir and vanco. His mentation improved
+quickly and it was eventually felt that his AMS was primarily
+from EtOH intoxication. Cxr, bld/urine cx were negative
+infectious source
+.
+# Tacchycardia- This was likely multifactorial with multiple
+possible causes such as etoh withdrawl, pain, volume de123 Any St.n
+and anxiety although he has received 5 liters in ED.
+-ekg -> sinus tachy
+-treated ? UTI -> urine cx negative
+- continued to be slighlty tachycardic to the 90s on discharge.
+He reported that he was anxious about confronting his partner.
+.
+# Anion gap metabolic acidosis with osmolar gap- On admission,
+his anion gap was felt likely due to etoh ketoacidosis, lactic
+acidosis (? 2010-04-30 00:00:00 Calianna Dinarte) but he has osmolar gap concerning for
+other toxic ingestions.
+- his lactate improve, his anion and osmolal gaps returned to
+123 Any St. with IVFs
+.
+# HIV- the patient citing confidentiality refused to allow me to
+contact his ID specialist or PCP regarding his Aarnavi Hanson regimen or
+other medications.
+- as such he was asked to make a follow up appointment and
+restart his medications.
+- started on daptomycin and azithromycin for PPX
+.
+# UTI- Patient has positive UA.
+-f/u urine culture and UA were negative
+.
+# Aarnavi Hanson pt found down by police which is the likely
+cause of his rhabdo. Tox screen otherwise negative. No evidence
+of seizure activity that was witnessed.
+-his CK was in the 6000 range on admission and continued to
+trend down on discharge with IVFs. His Cr was 1.4 on admission
+and 0.6 on discharge.
+.
+# Acute renal failure- thought to be prerenal - improved with
+IVFs
+.
+# Thrombocytopenia- likey due to combination of etoh abuse and
+HAART therapy and HIV infection. In addition, he was treated
+with chemotherapy
+- We did not know his baseline platelet count, and he refused to
+give permission to me to contact his PCP/ID specialist.
+- he did not require plt transfusions and his plt was in the low
+30s on discharge.
+.
+# Transaminitis: His ALT was 279 and his AST was 376 on
+admission and trended down to 95/100, respectively, on
+discharge. This was felt to be from EtOH, ? underlying liver
+disease and/or medication induced. Bilirubin was not elevated;
+1.8 on admission -> 1.1 on discharge. He was asked to follow
+this up with his PCP.
+.
+# L thigh contusion: He was found to have a raised L thigh
+contusion/bruise. Given its raised nature, and low hematocrit,
+an ultrasound was done to rule out underlying hematoma/abscess.
+He did not have fevers, warmth or erythema beyond the area of
+desquamation c/w cellulitis. Given his immunocompromised state,
+he was given 7 days of clindamycin to prevent infection and
+asked to change dressings on this area daily. Surgery was
+consulted and did not feel that this was antyhing more than a
+contusion/deep bruise.
+.
+# Discharged : to a friend's house. He did not want to go to a
+shelter in lieu of going home.
+
+Medications on Admission:
+per my discussion with patient on the UPMCE:
+- 4 HAART drugs
+- Dapsone
+
+Discharge Medications:
+1. Clindamycin HCl 150 mg Capsule Sig: One (1) Capsule PO three
+times a day for 7 days.
+Disp:*21 Capsule(s)* Refills:*0*
+2. Dapsone 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*21 Tablet(s)* Refills:*0*
+3. Azithromycin 600 mg Tablet Sig: Two (2) Tablet PO QMON (every
+Monday) for 6 doses.
+Disp:*6 Tablet(s)* Refills:*0*
+4. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+5. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 21 days.
+6. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed.
+Disp:*10 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Alcohol intoxication
+.
+Secondary Diagnosis:
+Rhabdomyolysis
+AIDS
+thrombocytopenia
+Elevated LFTs
+Anemia
+
+
+Discharge Condition:
+AAO x 3
+Afebrile
+
+
+Discharge Instructions:
+You were admitted for alcohol intoxication, rhabdomyolysis
+(muscle breakdown) and altered mental status. These problems
+have resolved.
+.
+We also found that your liver enzymes were elevated, that your
+platelets are low. These could be from your disease, your
+alcohol intake or your HAART medications. Since you did not give
+us permission to contact your primary care physician or your ID
+physician, Aarnavi Hanson could not corroborate how changed these were from
+your baseline levels. As such, I recommend that you make an
+appointment in the next week with your primary care doctor to
+follow up these tests.
+.
+You were also found to have a L thigh contusion. Please change
+the dressings daily on this and use the antibiotic provided so
+that the area does not become infected.
+.
+Please stop drinking alcohol.
+.
+If you develop any headaches, cp, sob, fevers, or other
+concerning symptoms, please call your primary care doctor or go
+to the nearest emergency room.
+
+Followup Instructions:
+Please call your PCP Hanson test@mail.com to arrange for a follow up
+appointment regarding your recent hospitalization. Since you did
+not give us permission to contact your PCP, Aarnavi Hanson will have to do
+this.
+
+
+
+Completed by:2010-04-30 00:00:00

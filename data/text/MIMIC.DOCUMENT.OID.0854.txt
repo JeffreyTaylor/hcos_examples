@@ -1,0 +1,231 @@
+Admission Date:  2010-04-03 00:00:00              Discharge Date:   2010-04-03 00:00:00
+
+Date of Birth: 1994-03-30 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Yittel Stoddard
+Chief Complaint:
+Lower GIB
+
+Major Surgical or Invasive Procedure:
+4 units of packed red blood cells
+
+History of Present Illness:
+79 year old female with a past history of hypertension, type 2
+diabetes, CAD s/p CABG x 4 and history of lower gastrointestinal
+bleeding of unclear source who presents to the emergency room
+with 4 days of "vaginal bleeding." Patient reports that she
+first noted that she was bleeding on Saturday. It was primarily
+bright red blood in the toilet bowel with stool with associated
+fecal urgency. She denies abdominal pain. This is similar to her
+episode of gastrointestal bleeding in 2010-04-03 00:00:00 but not as
+profuse. The bleeding has continued over the past three days. It
+is associated with mild left sided chest pressure which is not
+worse with exertion, dyspnea on exertion, lightheadedness and
+dizziness. She has not had any nausea, vomiting or hematemasis.
+She denies melena. She has been eating well until the day of
+presentation. Her urine output has been normal. Otherwise she
+has been in her regular state of health.
+.
+In the emergency room her initial vitals were T: 98.1 BP: 169/67
+HR: 87 RR: 16 O2: 98% on RA. She received one liter of normal
+saline. She had a CXR which showed no acute process. She had a
+normal EKG. She had two 20 g IVs placed and one liter of PRBCs
+was hung. Vaginal exam was within normal limits. Rectal exam
+showed no external hemorroids and gross blood at the anus. She
+was hemodynamically stable throughout her time in the ER. She
+was admitted to the MICU for further management.
+.
+Upon arrival to the MICU she denied any complaints. Her
+lightheadedness, dizziness, chest pain and dyspnea have
+resolved. Her last bowel movement was morning of admission. She
+denies nausea, vomiting or abdominal pain. No dysuria or
+hematuria or decreased urine output. No leg pain or swelling.
+All other review of systems negative in detail.
+
+Past Medical History:
+Past Medical History:
+- Coronary Artery s/p CABG 2010-04-03 00:00:00
+- Peripheral Vascular Disease
+- Stage III chronic kidney disease (baseline creatine 1.3)
+- Hypertension
+- Type II Diabetes complicated by retinopathy, nephropathy
+- Diverticulosis seen on colonoscopy 2010-04-03 00:00:00
+- s/p toe amputation
+
+Social History:
+She is a retired administrator at 123 Any St. Inn. She works
+out at a senior gym three times a week. She does not smoke
+cigarettes, drink alcohol, or use any recreational drugs. She
+lives by herself but has family in the area.
+
+Family History:
+Diabetes mellitus-- mother, brother, and sister
+Jaimeson Topor mother, father.
+There is no history of kidney disease.
+No family history of gastrointestinal bleeding.
+
+Physical Exam:
+On admissions -
+Vitals: T: 98.4 BP: 136/72 HR: 73 RR: 14 O2: 99% on RA
+Orthostatics: 122/59 (73); 119/67 (78); 112/55 (69)
+General: Well appearing elderly female, no acute distress
+Jaimeson Topor: Sclera anicteric, moist mucous mebranes, oropharynx clear
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Heart: RRR, s1 + s2, no murmurs, rubs, gallops
+Abd: soft, non-tender, non-distended, +BS
+Ext: Warm and well perfused, 1+ pulses, no clubbing, cyanosis or
+edema
+Neuro: grossly intact
+Skin: no rashes or jaundice
+
+Pertinent Results:
+CHEST (PORTABLE AP)	Study Date of 2010-04-03 00:00:00:
+IMPRESSION: No acute pulmonary process.
+
+HEMATOLOGY:
+2010-04-03 00:00:00 12:55PM BLOOD WBC-9.2 RBC-2.43*# Hgb-7.2*# Hct-21.3*#
+MCV-88 MCH-30.7 MCHC-34.9 RDW-15.1 Plt Ct-283
+2010-04-03 00:00:00 07:34PM BLOOD Hct-26.6*
+2010-04-03 00:00:00 04:10AM BLOOD WBC-8.9 RBC-3.77*# Hgb-11.1*# Hct-31.6*
+MCV-84 MCH-29.5 MCHC-35.2* RDW-16.2* Plt Ct-207
+2010-04-03 00:00:00 06:44PM BLOOD Hct-30.2*
+
+COAGS:
+2010-04-03 00:00:00 12:55PM BLOOD PT-13.6* PTT-29.0 INR(PT)-1.2*
+2010-04-03 00:00:00 04:10AM BLOOD PT-13.2 PTT-29.3 INR(PT)-1.1
+
+CHEMISTRY:
+2010-04-03 00:00:00 12:55PM BLOOD Glucose-298* UreaN-43* Creat-1.4* Na-138
+K-4.8 Cl-107 HCO3-23 AnGap-13
+2010-04-03 00:00:00 04:10AM BLOOD Glucose-157* UreaN-33* Creat-1.1 Na-141
+K-4.1 Cl-111* HCO3-22 AnGap-12
+
+CARDIAC ENZYMES:
+2010-04-03 00:00:00 12:55PM BLOOD CK(CPK)-224*
+2010-04-03 00:00:00 12:55PM BLOOD CK-MB-7
+2010-04-03 00:00:00 12:55PM BLOOD cTropnT-0.02*
+2010-04-03 00:00:00 07:34PM BLOOD CK(CPK)-208*
+2010-04-03 00:00:00 07:34PM BLOOD CK-MB-6 cTropnT-0.01
+2010-04-03 00:00:00 04:10AM BLOOD CK(CPK)-172*
+2010-04-03 00:00:00 04:10AM BLOOD CK-MB-5 cTropnT-0.02*
+
+Brief Hospital Course:
+MICU COURSE:
+Patient presented with a hematocrit of 21 down from her baseline
+of ~35. Gastroenterology was consulted and reported that this
+was a likely diverticular bleed given her history of
+diverticulosis on colonoscopies in the past. She was to be
+treated conservatively with transfusions and monitoring. She
+received a total of 4 units of packed red blood cells following
+admission and had an appropriate HCT bump to 31.6. Serial HCTs
+on 2010-04-03 00:00:00 revealed stabilized of her HCT at ~30 prior to
+transfer to the floor.  Her initial episode of chest pain in the
+ED was not repeated following resuscitation with PRBCs. She had
+a rule out for MI with three serial sets of cardiac enzymes with
+downtrending CKs and normal troponins throughout. Concerning her
+chronic kidney disease, at presentation she was at her baseline
+Cr of approximately 1.3 and this fell to 1.1 on morning prior to
+transfer out of MICU. Given her unknown volume status, her home
+antihypertensives were initially held and after assurance of
+stable hemodynamics, she was restarted on lisinopril. Concerning
+her diabetes, she was managed with a lower dose of lantus given
+that she was NPO when presenting to the unit. After
+stabilization of her HCT, she began a diet of clears that was to
+be advanced as tolerated. In the MICU the patient had no bowel
+movements and was hemodynamically stable throughout her stay in
+the MICU. She was feeling well when transferred out of the MICU.
+.
+MEDICINE FLOOR COURSE:
+Patient had several red, guaiac positive BMs on the floor but
+remained Hd stable and did not receive any further transfusions.
+On the day of discharge, patient had guaiac postive stools that
+was brown. Her lisinopril and metoprolol were continued but HCTZ
+was held. Patient also had her ASA held given GIB with plan to
+restart when she follows up with her PCP Topor. Topor next week. She
+was restarted on her home dose of Lantus on the floor and was
+managed on an insulin sliding scale.
+
+
+Medications on Admission:
+1. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+3. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO
+daily
+4. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic TID
+5. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+daily
+7. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+8. CALCIUM 500+D 500 (1,250)-200 mg-unit daily
+9. Lantus 100 unit/mL Solution Sig: Forty Five (45) units SC at
+HS.
+10. Insulin Sliding Scale
+
+Discharge Medications:
+1. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+2. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2)
+Tablet, Chewable PO BID (2 times a day).
+4. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+5. Insulin Glargine 100 unit/mL Solution Sig: Forty Five (45)
+Units Subcutaneous at bedtime.
+6. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic TID (3 times a day).
+7. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO twice
+a day.
+9. Insulin Aspart  Subcutaneous
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+Primary: GI bleed requiring blood transfusion
+Secondary: Diabates, Chronic kidney disease, Coronary artery
+disease
+
+
+Discharge Condition:
+stable, afebrile
+
+
+Discharge Instructions:
+You presented to the hospital with a gastroentestinal bleed.
+This was felt to be secondary to diverticula (or outpouchings)
+in your colon. You were initially admitted to the ICU for
+monitoring and received 4 units of blood. Your blood counts
+stablaized prior to discharge and you were tolerating a regular
+diet.
+.
+All of your medications were continued except aspirin and
+hydrochlorothiazide which you should continue to hold until you
+see Dr. Topor next week. Please keep your appointment with Dr.
+Topor this Topor.
+.
+Please seek immediate medical attention if you note blood in the
+stool, dizziness, shortness of breath, chest pain, abdominal
+pain, vomitting, fevers, chills or any change from your baseline
+health status.
+
+Followup Instructions:
+Please follow up with Dr. 123 Any St.usly scheduled
+appointment on 2010-04-03 00:00:00. Call test@mail.com if you need to
+reschedule.
+
+
+
+Completed by:2010-04-03 00:00:00

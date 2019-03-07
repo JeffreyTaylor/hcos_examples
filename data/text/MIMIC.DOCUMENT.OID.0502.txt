@@ -1,0 +1,373 @@
+Admission Date:  2009-01-06 00:00:00              Discharge Date:   2009-01-06 00:00:00
+
+Date of Birth: 1950-12-09 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Losartan / Aspirin / Lisinopril-Hctz
+
+Attending:Akeila Yznaga
+Chief Complaint:
+fever, hypotension
+
+Major Surgical or Invasive Procedure:
+trans-esophageal echocardiogram
+
+
+History of Present Illness:
+69F with h/o ESRD on HD, PE (PEA arrest), recent admit for
+sepsis of unclear etiology from 2009-01-06 00:00:00, presenting to
+ED with fever Tm 102, hypotension, decreased a123 Any St.e and
+lethargy per son. Pt has had loose stools x 2 in the past few
+days with hypomagnesemia and hypophosphatemia receiving PO
+re123 Any St.n w/o benefit. Pt received empiric Abx coverage of
+Vanc/Cefepime/Levaquin/Flagyl at UPMCE Rehab prior to transfer.
+.
+Recent hospitalization notable for intubation for airway
+protection in setting of obtundation, no clear source of
+infection. Micro data remarkable for yeast and VRE in urine for
+which pt received 7d Fluconazole and 14d course of Linezolid (LD
+2009-01-06 00:00:00). Pt intermittently on Flagly, Cefepime until culture
+data remained negative. Also failed Lafon stim and was on stress
+dosed steroids. No evidence of infection in sputum, blood, or
+CSF. CT Abd/Pel unremarkable. PICC removed and tunneled HD
+catheter changed over wire on 2009-01-06 00:00:00 (from 2009-01-06 00:00:00). A new PICC
+was inserted prior to discharge on 2009-01-06 00:00:00.
+.
+In ED, Tm 102, tachy 110-120, BP dropped to 82/17 intermittently
+then improved to normal, tachypneic 22-28, 99% RA. Received Gent
+x 1, Fluconazole 400mg IV x1. ROS: denies any pain or
+localizable symptoms at this time. Per sons' report pt;s mental
+status has improved greatly from this morning.
+
+
+Past Medical History:
+1. Type 2 diabetes mellitus
+2. Diabetic nephropathy resulting in ESRD for which she is on
+HD Mon, Wed, and Fri.
+3. Status post left femur fracture
+4. Hyponatremia
+5. Hypercholesterolemia
+6. Unsteady gait
+7. Cataracts
+8. Back pain
+9. Hypertension
+10.Anemia of chronic disease
+11. S/P L shoulder hemiarthroplasty following a left humeral
+fracuture in 2009-01-06 00:00:00- Course was complicated by a PEA arrest
+secondary to PE. 2009-01-06 00:00:00 new humerus fracture
+12. PE 2009-01-06 00:00:00 leading to PEA arrest
+13. Hospitalization 2009-01-06 00:00:00 for Sepsis (negative work-up) treated
+empricially with Vanc
+14. h/o C-diff 2009-01-06 00:00:00, Urine citrobacter (tx w/Cipro)
+
+
+Social History:
+Lives with son who is very involved and well informed regarding
+her care needs. Non smoker. No EtOH
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+PE: Tm 102, 119/60, 2009-01-06 00:00:00, 80, 93-100% 3LNC
+GEN: A&O x 2 (person and place), sleepy but arousable
+HEENT: anicteric bilateral cataracts, EOMI, OP clear, no teeth
+CV: reg rate, distant S1, S2, no MRG
+PULM: clear with decreased BS at bases.
+ABD: obese, NT/ND, NABS
+EXT: anisarca, DP pulses dopplerable, thick white discharge from
+vagina. LLE lateral ankle ulcerations dressed without evidence
+of purulent drainage. Dry gangrene of toes B. Able to dorsi-flex
+feet, LUE swollen with surgical scar over shoulder. RUE good
+ROM.
+NEURO: CN II-XII intact, able to follow simple commands. Toes
+down-going
+BACK:minimal skin breakdown new buttocks. No ulcers.
+
+
+Pertinent Results:
+Admission Labs:
+2009-01-06 00:00:00 03:13PM BLOOD WBC-14.1*# RBC-3.15* Hgb-9.7* Hct-30.5*
+MCV-97 MCH-30.8 MCHC-31.8 RDW-21.4* Plt Ct-166
+2009-01-06 00:00:00 03:13PM BLOOD Neuts-67.2 Lymphs-22.8 Monos-6.7 Eos-2.8
+Baso-0.6
+2009-01-06 00:00:00 03:13PM BLOOD Hypochr-2+ Anisocy-2+ Poiklo-1+
+Macrocy-3+
+2009-01-06 00:00:00 03:13PM BLOOD PT-13.9* PTT-21.7* INR(PT)-1.3
+2009-01-06 00:00:00 03:13PM BLOOD Plt Ct-166
+2009-01-06 00:00:00 03:13PM BLOOD Glucose-216* UreaN-16 Creat-2.5*# Na-144
+K-4.7 Cl-107 HCO3-24 AnGap-18
+2009-01-06 00:00:00 03:13PM BLOOD ALT-13 AST-36 LD(LDH)-519* AlkPhos-108
+Amylase-22 TotBili-0.4
+2009-01-06 00:00:00 03:13PM BLOOD Albumin-2.9* Calcium-8.3* Phos-1.5*#
+Mg-1.3*
+2009-01-06 00:00:00 04:58AM BLOOD CRP-163.7*
+2009-01-06 00:00:00 07:42PM BLOOD PTH-268*
+.
+2009-01-06 00:00:00 12:17 am URINE     Site: CATHETER
+
+                            **FINAL REPORT 2009-01-06 00:00:00**
+
+   URINE CULTURE (Final 2009-01-06 00:00:00):
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+         Trimethoprim/Sulfa sensitivity testing confirmed by
+[**First Name8 (NamePattern2) 3029**] Lafon.
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing E. coli and Klebsiella species.
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R        8 S
+CEFTAZIDIME-----------  =>64 R        4 S
+CEFTRIAXONE-----------       R
+CEFUROXIME------------    32 R
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------   <=1 S     =>16 R
+IMIPENEM--------------   <=1 S        4 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------    64 I
+PIPERACILLIN----------                8 S
+PIPERACILLIN/TAZO-----     8 S      <=4 S
+TOBRAMYCIN------------  =>16 R     =>16 R
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+2009-01-06 00:00:00 CT Head: FINDINGS: There is no acute intracranial
+hemorrhage, shift of normally midline structures, or
+hydrocephalus. Mild degree of cerebral atrophy, stable in
+appearance. Hypodensities are seen in the periventricular white
+matter surrounding both right and left frontal horns, within the
+left thalamus, and in the right basal ganglia. These are all
+stable in appearance. Osseous structures and soft tissues are
+normal. Mucosal thickening within the ethmoid air cells and
+right maxillary sinus is unchanged.
+IMPRESSION:
+No acute intracranial hemorrhage.
+.
+2009-01-06 00:00:00 CXR: FINDINGS: There is no interval change when compared
+to the prior study. There is no evidence of pneumothorax. The
+lines are in stable position. The cardiac and mediastinal
+contours are stable. There is apparent widening of the
+mediastinal contour, which is secondary to vascular structures
+and fat based on prior CT from 2009-01-06 00:00:00.
+IMPRESSION: No evidence of pneumothorax.
+.
+2009-01-06 00:00:00 TEE: Conclusions:
+1. The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler.
+2.Left ventricular wall thickness, cavity size, and systolic
+function are
+normal (LVEF>55%). Regional left ventricular wall motion is
+normal.
+3.Right ventricular chamber size and free wall motion are
+normal.
+4.There are simple atheroma in the aortic arch and the
+descending thoracic aorta.
+5.The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No masses or vegetations are seen on
+the aortic valve. Mild to moderate (2009-01-06 00:00:00+) central aortic
+regurgitation is seen.
+6.The mitral valve leaflets are structurally normal. No mass or
+vegetation is seen on the mitral valve. Mild (1+) mitral
+regurgitation is seen.
+7.No vegetation/mass is seen on the pulmonic valve.
+IMPRESSION: No evidence of endocarditis. Mild-moderate aortic
+regurgitation.
+.
+2009-01-06 00:00:00 CXR: IMPRESSION: Stable chest radiograph with no evidence
+of infiltrates or effusions.
+.
+2009-01-06 00:00:00 Humerus/Femur Plain Films:
+LEFT HUMERUS: There is a displaced and mildly comminuted distal
+periprosthetic fracture of the humerus. A 123 Any St.us a left
+proximal humerus arthroplasty is well positioned. There is
+diffuse osteopenia.
+LEFT FEMUR: There is little change from 2009-01-06 00:00:00 of the
+supracondylar distal femur fracture with associated callus
+formation. In addition, three displaced femoral neck fracture
+appears unchanged though is incompletely evaluated on this femur
+study and is limited by osteopenia and body habitus.
+IMPRESSION: New periprosthetic humerus fracture. I confirmed
+that the housestaff were aware of these findings.
+
+
+Brief Hospital Course:
+69F w/ESRD, recent sepsis of UNK source, presenting with fever
+and sepsis.
+.
+1. Sepsis: This is a patient who has had multiple past
+admissions for sepsis.  Possible etiology included lines, urine,
+wounds, pneumonia, etc.  This was considered most likely to be
+urosepsis, likely secondary to poor hygeine given that the
+patient is incontinent of stool and likely her infection
+resulted from GI pathogens entering the urine.  Wounds and
+osteomyelitis were also considered as possibilities, but her
+surgical wound from past ortho procedure was clean and did not
+appear infected.  A new PICC line was placed and her initial
+femoral line was removed.  Blood cultures from an outside
+facility grew enterobacter and klebsiella.  Urine culture here
+at UPMCE grew klebsiella and pseudomonas.  Initially, the
+patient was covered broadly with cefipime, linezolid, and
+flagyl.  Once sensitivities became available, antibiotics were
+changed to cefipime/gent.  A TEE was negative for vegetations.
+Subsequent blood cultures were all negative, and repeat urine
+cultures were also negative.  Antihypertensives were held in the
+setting of sepsis and were not resumed due to low-normal BP.
+Stress dose steroids were started on admission and stopped on
+2009-01-06 00:00:00.  The possibility of Akeila Yznaga Lafon-vesicular fistula was raised
+as a possible explanation of recurrent urosepsis.  The patient
+had a CT abdomen on a recent 123 Any St.us admission that showed no
+evidence of such a fistula, so repeat imaging was not done.
+Plan is for cefipime and gentamicin to be continued for 10 more
+days to complete a 2 week course of both.
+.
+2. ESRD: Renal followed throughout hospital course.  Patient had
+HD M-W-F.  Phos binders were held due to low phos.  Can consider
+restarting if phos increases.  Patient received epogen with
+dialysis.
+.
+3. Altered Mental Status: Likely this was due to sepsis.  Mental
+status returned to baseline.
+.
+4. Fractures: Orthopedics evaluated the patient while
+hospitalized, and repeat films of the humerus and femur were
+obtained.  The patient is not an operative candidate at this
+time, so fractures have been managed non-operatively with pain
+control. LUE was kept in a sling, non-weight bearing.  Patient
+is bed-bound.
+.
+5. h/o RLL PE (resulting in PEA arrest): Patient is on coumadin
+at home.  Coumadin was held for procedures (TEE, etc.) and was
+restarted prior to discharge.  She was on a heparin drip while
+off her coumadin.  Goal INR is 2009-01-06 00:00:00.  Patient slightly below goal
+on day of discharge.  INR should be checked after discharge and
+coumadin dose adjusted as needed.
+.
+6. Htn: Home metoprolol dose was held in the setting of sepsis.
+It was not restarted prior to discharge as her BP remained
+low-normal without medication.  BP should be checked after
+discharge and BB restarted as needed.
+.
+7. CHF: EF 55% with MR. HD was continued M-W-F to regulate
+volume status.  I/O followed closely.
+.
+8. DM: FS QID, ISS continued.  Glargine 8U hs continued.
+.
+9. Skin Breakdown: Secondary to prolonged bed rest, DM2, PVD.
+The patient had consistently dopplerable pulses. Wound care and
+nutrition were consulted to make recommendations as well.
+.
+10. Anemia: BL 29-33. No evidence of acute blood loss.  Epogen
+given at HD.
+
+Medications on Admission:
+1. Ascorbic Acid 500 mg PO BID
+ 2. Folic Acid 1 mg
+ 3. Zinc Sulfate 220 mg qd
+ 4. Acetaminophen 325 mg PO Q4-6H prn
+ 5. Papain-Urea test@mail.com unit-mg/g Ointment Sig: One (1) Appl
+ Topical  DAILY (Daily).
+ 6. Ipratropium Bromide q4hrs
+ 7. Calcium Acetate 667 mg TIDWM
+ 8. Metoprolol 25 TID
+ 10. Insulin, GLargine 8U at HS
+ 11. Warfarin 2 mg qHS
+ 12. Linezolid 600 mg IV Q12H LD 2009-01-06 00:00:00 (PICC)
+
+
+Discharge Medications:
+1. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+4. Papain-Urea test@mail.com unit-mg/g Ointment Sig: One (1) Appl
+Topical  DAILY (Daily).
+5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed for fever or pain.
+6. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+7. Warfarin 2 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+9. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+10. Insulin Glargine 100 unit/mL Solution Sig: Fifteen (15)
+units Subcutaneous at bedtime.
+11. Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: as
+directed  Subcutaneous four times a day: Please resume insulin
+sliding scale.
+12. Gentamicin 40 mg/mL Solution Sig: Eighty (80) mg Injection
+dosed by level for 10 days: Please check a gentamicin level
+after each HD treatment and dose gentamicin for levels <2.
+Thanks.
+13. Cefepime 1 g Recon Soln Sig: One (1) gram Injection once a
+day for 10 days: Please give dose after HD on HD days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - LTC
+
+Discharge Diagnosis:
+Primary Diagnoses:
+urosepsis with enterobacter and klebsiella in blood cultures,
+klebsiella and pseudomonas in urine
+end stage renal disease, on hemodialysis
+Secondary Diagnoses:
+history of PE
+hypertension
+CHF
+diabetes type II
+anemia, secondary to ESRD
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+1. If you experience fever, chills, confusion or change in
+mental status, abdominal pain, shortness of breath, or other
+concerning symptoms, please contact your doctor or return to the
+emergency room for evaluation.
+
+2. Please take all medications as prescribed.
+- antibiotics cefipime and gentamicin are to be continued fro 10
+more days to complete a course of 2 weeks.
+- we have held the calcium acetate because the UPMCE level
+was low on admission.  Please have your doctor Chynia Lafon
+levels and consider restarting.
+- We have held the metoprolol because of low blood pressure.
+Discuss with your doctor whether this should be restarted.
+
+3. Please attend all followup appointments.
+- Please make an appointment to followup in Infectious Disease
+clinic within 2 weeks.  Please call (test@mail.com.
+
+Followup Instructions:
+Please make an appointment to followup in Infectious Disease
+clinic within 2 weeks.  Please call (test@mail.com.
+
+
+

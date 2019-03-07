@@ -1,0 +1,305 @@
+Admission Date:  2012-09-22 00:00:00              Discharge Date:   2012-09-22 00:00:00
+
+Date of Birth: 1960-09-16 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Penicillins
+
+Attending:Loreyna Quock
+Chief Complaint:
+Altered consciousness, right arm shaking.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+The pt. is an 80 year-old right-handed gentleman who presented
+on 2012-09-22 00:00:00 with several hours of decreased responsiveness. Per
+the pt's wife, the patient awoke around 6:00 on the morning of
+admission and was mumbling, seemed to have trembling of lips. He
+sat at the side of the bed and at 6:30 wife asked him to take
+his medications and he has not responsive to her. He kept
+repeating "chip and chip and chip..." At that time the pt's wife
+noted that the pt had trembling of his right arm and he seemed
+to be elevating the right arm. He was not responding to her
+questions.  His wife thinks that the whole episode lasted
+approximately 30 minutes. She became concerned and called EMS.
+On their arrival he was unresponsive to stimuli, his SBP was as
+high as 220mmHg systolic and fingerstick was 222. His pupils
+were noted to be unreactive and he seemed to have a right gaze
+preference. He was brought to UPMCE.  En route he developed
+tonic-clonic activity of his right upper and lower extremities.
+This activity continued upon his arrival to the ED.  He was
+subsequently intubated for airway protection.  He was admitted
+to the intensive care unit overnight.  He was loaded with
+phenytoin.  He was successfully weaned off of sedation and
+extubated this morning, the second hospital day.
+
+There is no history of antecedant illness.  He has been
+compliant with his medication (keppra) and has not missed any
+doses per his wife.  Jaxston Abruzzese did admit to alcohol consumption on the
+night prior to presentation but not in excess.
+
+
+Past Medical History:
+-HTN
+-type 2 diabetes mellitus
+-Hyperlipidemia
+-coronary artery disease
+-hx of L MCA territory stroke, per the pt's wife, he has no
+residua in terms of weakness, vision, language as a result of
+stroke
+-L ICA stenosis 80-99%, pt has refused intervention
+-seizure in setting of urosepsis in 2012-09-22 00:00:00, had been on dilantin
+and then switched to keppra earlier this year due to concern
+over medicine noncompliance (phenytoin levels of < 0.6)
+
+Social History:
+His a retired laborer who used to work in a shipyard.  He lives
+at home with his wife in Jaxston Abruzzese. He quit smoking roughly 20
+years ago after roughly 40 years of use (1ppd).  He uses alcohol
+occasionally, but he does have a history of significant use in
+the past.  There is no history of illicit drug use.
+
+
+Family History:
+There are no other family members with seizures.
+
+Physical Exam:
+Vitals: T: 100.7F P: 82 R: 14 BP: 119/54 SaO2: 100% 4L
+General: Awake, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM
+Neck: supple, no JVD or carotid bruits ap123 Any St.ted
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses
+b/l.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-mental status: Lethargic, intermittently fell asleep but easily
+arousable to voice. He is able to state his name and birthdate.
+He stated that he was in 123 Any St. but also thought that he was
+"home."  He denied being in a hospital.  He did not know the
+date and stated that the year was "1880."  He was not able to
+register that the year was actually 2012-09-22 00:00:00, despite multiple
+attempts.  Able to name days of week forward, but only got as
+far as Friday going backward before he stopped.  Language is
+fluent with intact repitition and comprehension.  There were no
+paraphasic errors.  Pt. was only able to name both high
+frequency objects, and demonstrated perseveration when naming.
+Speech was not dysarthric. He intermittently followed commands.
+He recognized his wife.  Jaxston Abruzzese was unable to tell us how many
+children he had or their names.  This is not his baseline per
+his wife.
+
+-cranial nerves: Pupils irregularly shaped and surgical; were
+minimally reactive to light bilaterally.  He attended to all
+visual fields bilaterally. EOMI without nystagmus. No facial
+droop, facial musculature symmetric. Palate elevates
+symmetrically in midline.  5/5 strength in trapezii and SCM
+bilaterally. Tongue protrudes in midline.
+
+-motor: Normal bulk throughout. Prominent paratonia in all four
+extremities. No adventitious movements noted. No asterixis
+noted. No myoclonus noted.
+The pt would not participate with formal strength testing.  He
+would raise his right arm up but was seemingly unable to raise
+his left arm against gravity.  He would grip the examiner's
+hands bilaterally.  He would raise both legs and wiggle his toes
+bilaterally.
+
+-sensory: Intact to light touch over all four extremities. He
+extinguished on the left arm and leg to DSS.
+
+-coordination: pt would not cooperate.
+
+-DTRs:
+  Jaxston Abruzzese Tri Abruzzese Pat Ach
+L  1   1   1    1   0
+R  1   1   1    1   0
+
+Plantar response was extemsor bilaterally.
+
+-gait: deferred.
+
+Pertinent Results:
+Laboratory Data:
+
+7.4 > 9.7 < 131
+     28.4
+
+PT: 14.1  PTT: 27.3  INR: 1.3
+
+139 | 106 | 19/161
+3.3 | 24  |1.2\
+
+Ca: 8.6 Mg: 1.2 P: 2.7
+Phenytoin: 9.6
+Alb: 3.4
+
+7.38 |42| 141
+
+Radiologic Data:
+
+CT head: Multiple chronic infarcts (left temporal and right
+frontal lobes, as well as the left cerebellar hemisphere)
+without definite evidence for intracranial hemorrhage.
+
+CXR: Extensive mediastinal and hilar lymphadenopathy (noted on
+CT torso in 2012-09-22 00:00:00), mild congestive heart failure.
+
+MRI: Allowing for this limitation, the well-defined wedge-shaped
+area of chronic encephalomalacia at the left parietal/occipital
+region, with dilatation of the ipsilateral lateral ventricle is
+stable in appearance since 2012-09-22 00:00:00, persistent with chronic
+cerebral infarct. No further focal T1 or T2 signal abnormality
+within the cerebrum, cerebellum, or brain stem. Ventricular size
+and configuration remains stable since 2012-09-22 00:00:00. No shifting of the
+normally midline structures. Basal cisterns are patent. No
+evidence of tonsillar herniation on the sagittal images.
+The DWI images demonstrate no focal signal abnormality to
+suggest new cerebral ischemia.
+CONCLUSION:
+1. Chronic infarct at the left parietal/occipital region,
+probably representing chronic MCA/PCA watershed infarct. This is
+stable since 2012-09-22 00:00:00.
+2. No MR features of acute cerebral infarcts.
+
+Brief Hospital Course:
+1. Seizure disorder: The pt is an 80 year-old gentleman with a
+history of seizures in the setting of urosepsis who presented
+after an episode of altered consciousness and right-sided
+seizure activity.  This episode is consistent with a complex
+partial seizure with a focus in the left frontal lobe.  By
+report, it lasted over 30 minutes and therefore is an episode of
+complex partial status epilepticus.  The 123 Any St.itant was unclear
+but may be due to medication noncompliance or antecedant alcohol
+use.  Keppra was titrated to a dose of 1500mg po bid.  He did
+have prolonged confusion and left upper extremity weakness
+following the seizure.  Both his mental status and the weakness
+returned to baseline per the pt's wife prior to discharge.  He
+had no further seizures during the hospital stay.  The pt was
+told that by law he should refrain from driving an automobile
+for 6 months.  Given his underlying concomitant underlying
+dementia, the pt should probably not drive notwithstanding.
+
+2. Multifactorial gait disorder:  Following intubation, the pt
+had great difficulty with ambulation which was much worse per
+the pt's wife from baseline.  He demonstrated marked instability
+in a standing position with almost immediate retropulsion.  An
+MRI with DWI was not suggestive for acute stroke as the etiology
+behind either the seizure, weakness or the gait disorder.  The
+physical therapy service followed the pt.  Over the course of
+the hospital stay, the pt's gait improved substantially.  At the
+time of discharge, he was able to initiate gait without
+difficulty.  It was wide-based, but with normal stride and was
+without veering.  Nonetheless, he will require physical therapy
+for gait training on discharge.  His chronic underlying gait
+disorder is likely multifactorial and related to cervical spine
+disease, peripheral neuropathy and frontal lobe dysfunction.
+The acute worsening was likely due to post-ictal weakness and
+encephalopathy.
+
+3. Iron deficiency and cyanocobalamin deficiency anemia: The pt
+was noted to have low hematocrit values on admission.  There was
+no evidence of blood loss anemia.  A workup revealed evidence of
+both iron deficiency and cyanocobalamin deficiency.  He was
+started on ferrous sulfate 325mg po daily.  He was also given
+vitamin B12 1000mcg subcutaneously qday for five days and will
+continue a reload upon discharge with plans for lifetime
+supplementation.
+
+4. Type 2 diabetes mellitus:  His fingersticks remained
+acceptable on rosiglitazone, metformin and a sliding scale of
+regular insulin.
+
+5. Hypertension: His blood pressure remained under acceptable
+control on metoprolol and lisinopril.
+
+
+Medications on Admission:
+-ASA 325 mg po daily
+-atorvastatin 40 mg qday
+-avandia 4 mg qday
+-Famotidine 20 mg UPMCE
+-Keppra 1000 mg UPMCE
+-Lisinopril 10 mg qday
+-Metformin 850 mg UPMCE
+-Metoprolol 25 mg UPMCE
+-Plavix 75 mg qday
+-Viagra 25 mg prn
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Atorvastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. Levetiracetam 500 mg Tablet Sig: Three (3) Tablet PO QPM
+(once a day (in the evening)).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+7. Rosiglitazone 4 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+9. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+11. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+12. Levetiracetam 500 mg Tablet Sig: Three (3) Tablet PO QAM
+(once a day (in the morning)).
+13. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+14. Cyanocobalamin 1,000 mcg/mL Solution Sig: One (1)  Injection
+DAILY (Daily) for 2 days: Give daily for the next two days, then
+weekly for one month, then monthly thereafter.
+15. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+-seizure disorder
+-multifactorial gait disorder
+-iron deficiency and vitamin B12 deficiency anemia
+-hypertension
+-type 2 diabetes mellitus
+
+Discharge Condition:
+Afebrile, stable.
+
+Discharge Instructions:
+Please continue all medications as prescribed.  Please attend
+all follow-up appointments.  You have had a seizure and by
+123 Any St. state law, you are required to forfeit your
+driver's license to the local RMV.  You cannot drive for 6
+months.
+
+Followup Instructions:
+Provider: Loreyna Quock, M.D. Phone:test@mail.com
+Date/Time:2012-09-22 00:00:00 3:00
+
+Please follow-up with your primary care doctor, Dr. Loreyna Quock
+Abruzzese within 7-10 days after discharge from rehab.
+
+Please call the Neurology Clinic at test@mail.com to schedule a
+follow-up appointment with Dr. Loreyna Quock within the 2012-09-22 00:00:00
+months after discharge.
+
+                             Jaxston Abruzzese MD, 11567
+

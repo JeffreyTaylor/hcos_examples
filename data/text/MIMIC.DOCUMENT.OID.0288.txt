@@ -1,0 +1,364 @@
+Admission Date:  2006-08-01 00:00:00              Discharge Date:   2006-08-01 00:00:00
+
+Date of Birth: 1986-07-31 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Hebert Schmeider
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+2006-08-01 00:00:00 pericardiocentesis
+
+History of Present Illness:
+This is a 52 year old female with PMHx of hyperlipidemia who
+presents to the CCU tonight after her PCP sent her to UPMCE
+Emergency department for an enlarged heart on CXR.
+
+The patient's history begins about 5 weeks ago when she
+experienced left anterior chaest pain which woke her around 0500
+that mornig.  Pain is worse with breathing and radiated into her
+left arm and left side of the neck.  She went to UPMCE
+(which records were obtained) and had an MI workup including 2
+sets of negative cardiac enzymes, a negative stress test, and an
+unremarkable echo.  She also with CT scan for r/o PE which found
+a 5 mm nodule in the RUL but not other findings.  Patient was
+discharged from the hospital with no clear diagnosis.  Prior to
+onset of symptoms, she denied any recent local or foreign travel
+or cough/cold symptoms.
+
+Patient continued to have chest pain over the next month.
+Earlier this week she started having fevers, chills, and night
+sweats.  Temperature taken at home was max 100.8.  She did
+experience some SOB and nausea, but no vomiting.  She presented
+to an OSH where she refused labs as she had already undergone
+workup and was discharged with a Zpack.  She noted continued
+symptoms and decided to see her PCP today who ordered a CXR and
+saw cardiomegaly, pleural and pericardial effusion and sent her
+to the ED.
+
+In the ED, initial vitals were 18:04 8 99.2 106 116/72 20 97%.
+She was having 2006-08-01 00:00:00 pain worse while lying supine and relieved
+sitting upright.  Pt states pain in chest, neck, upper abdomen
+and upper back. Pt with some sob with exersion.  Patient given
+toradol IV and Zosyn, 1L NS, fentanyl.  Pulses done at bedside
+by cardiology fellow which revealed only 10 mmHg.  Bedside echo
+showed moderate to large pericardial effusion with right atrial
+diastolic collapse and impaired R ventricular filling upon
+inspiration.
+.
+On arrival to the CCU patient has an aching pain 2006-08-01 00:00:00 with
+family at the bedside.
+.
+REVIEW OF SYSTEMS
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. S/he denies exertional buttock or calf
+pain. All of the other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+-CABG:
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+-PACING/ICD:
+3. OTHER PAST MEDICAL HISTORY:
+-Intimal thickening in R carotid artery
+Hystectomy for fibroids
+Hemorrhoids, recent negative colonoscopy 5 years ago
+Mammogram one month prior- normal
+.
+MEDICATIONS:
+Pravastatin 40mg daily
+Docusate sodium 100 mg daily
+Lactobacillus Rhamnosus Gg 1 capsule daily
+
+ALLERGIES: NKDA
+
+
+Social History:
+-Tobacco history: none
+-ETOH:  occasional
+-Illicit drugs:  none
+-Works for shoe store in inventory moving boxes
+
+Family History:
+FAMILY HISTORY:
+Family history of CAD in grandparents at older age.  Breast
+cancer in grandmother and pancreatic cancer in another relative
+.
+
+Physical Exam:
+PHYSICAL EXAMINATION:
+VS: T=99.8 BP=113/70 HR=102 RR=25 O2 sat= 98%
+GENERAL: NAD, appears somewhat tired
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 6 cm
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2, no pericardial rub heard
+LUNGS: No chest wall deformities, scoliosis or kyphosis.  Mild
+crackles auscultated bilaterally but L>R
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+On Admission: 2006-08-01 00:00:00
+CBC: 13.1/9.2/28.3/322
+Differential: 82%N, 13%L, 4%mono, 0.1%E, 0.2%B
+139  100  14  105   AGap=16
+4.4  27  0.6
+Lactate: 1.6
+
+LFTS: 2006-08-01 00:00:00
+ ALT AST LD(LDH) CK(CPK) AlkPhos Amylase TotBili DirBili
+ 37  22    160             153*             0.4
+Lipase: 18
+
+Iron Studies:
+calTIBC Ferritn TRF
+ 195*    418*   150*
+
+Complement Levels:
+C3: 124   C4: 28
+
+HIV: negative
+
+TSH: 0.95
+
+On Discharge: 2006-08-01 00:00:00
+  WBC  RBC  Hgb  Hct   MCV MCH MCHC  RDW Plt Ct
+  7.6 2.99* 8.2* 26.1*  87 27.6 31.6 12.3 459*
+ Glucose UreaN Creat Na   K  Cl  HCO3 AnGap
+   87     9     0.4  143 4.0 106  29    12
+
+UA:
+Color
+Yellow  Appear
+Clear  SpecGr
+1.011  pH
+6.0  Urobil
+Neg  Bili
+Neg
+Leuk
+Neg  Bld
+Tr  Nitr
+Neg  Prot
+Tr  Glu
+Neg  Ket
+Neg
+RBC
+1  WBC
+1  Bact
+None  Yeast
+None  Epi
+<1
+Other Urine Counts
+CastHy: 4
+Mucous: Rare
+
+EKG:  Sinus Tachy, rate 103, normal Axis and intervals, no ST
+changes, low voltage
+
+2D-ECHOCARDIOGRAM:
+2006-08-01 00:00:00
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The mitral valve appears structurally normal with trivial mitral
+regurgitation. There is a moderate to large sized pericardial
+effusion. There is brief right atrial diastolic collapse. There
+is significant, accentuated respiratory variation in
+mitral/tricuspid valve inflows, consistent with impaired
+ventricular filling.
+.
+TTE 2006-08-01 00:00:00
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There is a small pericardial effusion. The effusion is echo
+dense, consistent with blood, inflammation or other cellular
+elements. There are no echocardiographic signs of tamponade.
+Compared with the prior study (images reviewed) of 2006-08-01 00:00:00,
+the findings are similar.
+.
+CXR:
+IMPRESSION:
+Overall cardiac contour appears somewhat smaller than on
+123 Any St.us study in
+this patient status post pericardiocentesis for a pericardial
+effusion.  There continued to be layering bilateral effusions
+with associated bibasilar airspace opacities, which most likely
+represent partial lower lobe atelectasis, although pneumonia
+cannot be entirely excluded.  There is cephalization of the
+pulmonary vasculature consistent with pulmonary venous
+hypertension but no overt pulmonary edema.  No pneumothorax is
+seen, although the sensitivity to detect pneumothorax is
+diminished given supine technique.  Overall mediastinal contours
+are stable.
+.
+Pericardial Fluid Cytology: NEGATIVE FOR MALIGNANT CELLS.
+.
+Micro:
+URINE CULTURE (Final 2006-08-01 00:00:00):    NO GROWTH.
+PERICARLIAL FLUID. Fluid Culture in Bottles (123 Any St.inary):    NO
+GROWTH.
+
+PERICARLIAL FLUID.
+GRAM STAIN (Final 2006-08-01 00:00:00):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+FLUID CULTURE (Final 2006-08-01 00:00:00):    NO GROWTH
+ANAEROBIC CULTURE (123 Any St.inary):    NO GROWTH.
+ACID FAST SMEAR (Final 2006-08-01 00:00:00):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+ACID FAST CULTURE (123 Any St.inary):
+FUNGAL CULTURE (123 Any St.inary):    NO FUNGUS ISOLATED.
+.
+BLOOD CULTURE: 2006-08-01 00:00:00: NGTD
+
+
+Brief Hospital Course:
+ASSESSMENT AND PLAN
+Ms Jan is a 52 y/o female with no significant past medical
+history who initially presented with constitutional symptoms for
+1 week found to have pericardial effusion transferred to CCU for
+pericardial drainage.
+
+# Pericardial effusion:  Ddx was infectious vs. neoplastic vs.
+autoimmune. Symptoms likey represent viral pericarditis with
+effusion development however in the setting of systemic
+complaints a broad ddx was entertained. She underwent an
+uncomplicated pericardicentesis on 2006-08-01 00:00:00 with drain placed. 400
+cc serosanginous fluid was initially drained; additional 200cc
+drained thereafter. Once fluid slowed drain was pulled. Fluid
+analysis: WBCs 275, 69% lymphs; cytology returned negative and
+cultures without growth. Additional work-up notable for TSH:
+0.95, Hebert Schmeider: 1:40, complement levels wnl, cardiac enzymes negative
+x3. Quantiferon gold (ordered on 2006-08-01 00:00:00) was pending at time of
+discharge. Of note, patient reports cancer screening uptodate
+with nl mammography in 2006-08-01 00:00:00 and c-scope ~7years prior.
+Due to concern for underlying pericarditis patient was started
+on ibuprofen and colchicine and patient symptomatically
+improved. Discharged with plan to continue ibuprofen UPMCE and
+colchicine for 2 weeks. Patient instructed to take NSAIDS with
+food to avoid gastritis
+FOLLOW-UP:
+[] Obtain repeat TTE in 1 week to ensure resolution of effusion
+[] Follow-up quantiferon gold
+[] Continue treatment of presumed pericarditis x2weeks.
+.
+# Bilateral pleural effusions. On admission CXR with enlarged
+cardiac siluette and clear lung fields. On 2006-08-01 00:00:00 patient
+developed fever to 101 and CXR was obtained in broad fever
+work-up. Imaging revealed interval development of small
+bilateral pleural effusions and mild interstitial markings. DDx:
+cardiac congestion/pulmonary edema vs serositis. Repeat CXR
+confirmed findings of fluid overload. Remainder of exam was
+without signs of heart failure (elevated JVP, LE edema) or signs
+of reaccumulation of pericardial effusion leading to heart
+failure. Patient was completely asymptomatic with O2 saturation
+wnl. At time of discharge patient was saturating >95%RA with
+respiratory rates 2006-08-01 00:00:00.
+OUTPATIENT ISSUES:
+[] Repeat CXR in 1 week to assess effusions
+
+# Hyperlipidemia:  Patient continued on Pravastatin 40 mg daily
+
+# Normocytic Anemia: Patient with baseline normocytic anemia.
+123 Any St.us etiology thought to be fibroid uterus (she is now s/p
+hysterectomy) as well as potential GI bleed (c-scope ~7yrs ago
+without overt pathology per patient) On admission no signs of
+blood loss - denying melena, hematchezia, hematemesis. Iron
+studies were suggestive of anemia of chronic disease.
+OUTPATIENT ISSUES:
+[] Trend hematocrit
+[] Consider further GI work-up
+
+# Hypoalbumenia. On admission albumin 2.9. INR on discharge 1.2.
+Remaining LFTs wnl. No preceding hx of liver disease; no
+stigmata of concern liver disease on exam
+OUTPATIENT ISSUE:
+[] Repeat albumin and LFTs as outpatient
+
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from Patient.
+1. Pravastatin 40 mg PO DAILY
+2. Docusate Sodium 100 mg PO BID
+3. lactobacillus acidoph & bulgar *NF* 1 million cell Oral daily
+
+
+
+Discharge Medications:
+1. Colchicine 0.6 mg PO BID
+RX *Colcrys 0.6 mg one tablet(s) by mouth twice a day Disp #*60
+Tablet Refills:*1
+2. Ibuprofen 400 mg PO BID
+Please take with food to avoid gastritis
+3. Docusate Sodium 100 mg PO BID
+4. Pravastatin 40 mg PO DAILY
+5. lactobacillus acidoph & bulgar *NF* 1 million cell Oral daily
+
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Pericardial Effusion
+Pleural Effusions
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you at UPMCE. You were found to
+have an effusion or collection of fluid in your lungs and
+surrounding your heart. We think this is because of a virus but
+we have sent tests to look for other causes. These test results
+will be communicated to you by Dr. Jan next monday. We drained
+the fluid around your heart it does not seem to have
+reaccumulated. You will need to have an echocardiogram and a
+chest Xray done on Friday.
+Please take colchicine and ibuprofen twice daily for two weeks
+to decrease the pain and inflammation.
+
+Followup Instructions:
+Name: Hebert Schmeider
+Specialty: Primary Care
+When: Monday 2006-08-01 00:00:00 at 11:30am
+Address: 123 Any St.,[**Numeric Identifier 802**]
+Phone: test@mail.com
+.
+Echocardiogram and chest Xray 2006-08-01 00:00:00. This will be done
+at UPMCE. Please call test@mail.com if you have not heard about
+this test in the next 1-2 days.
+
+
+

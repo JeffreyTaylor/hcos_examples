@@ -1,0 +1,293 @@
+Admission Date:  2014-04-13 00:00:00              Discharge Date:   2014-04-13 00:00:00
+
+Date of Birth: 1928-04-08 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Calieb Denell
+Chief Complaint:
+Acute Paralysis
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+75yo Korean gentleman awoke this morning, talked to the bathroom
+and felt sudden onset back and abdominal pain after which he
+lost functioning of bilateral lower extremeties.  Taken to OSH
+where abdominal CT scan thought to show dissection of thoracic
+AAA, Pt xferred to UPMCE for possible surgical
+intervention but on review of outside CT, no aneurismal rupture
+noted.
+
+Past Medical History:
+GERD
+HTN
+
+Social History:
+123 Any St.usly heavy smoker, quit 1.5 yrs ago.
+no alcohol
+
+
+Family History:
+non contributary
+
+Physical Exam:
+VS: afeb 130/60 72
+General: WNWD, NAD
+HEENT: Anicteric, MMM without lesions, OP clear
+Neck: Supple, no LAD, no carotid bruits, no thyromegaly
+CV: RRR s1s2 no m/r/g
+Resp: CTAB no r/w/r
+Abd: Soft/distended
+Ext: No c/c/e, distal pulses intact
+Skin: No rashes, petechiae
+
+MS: A&O x 3, interactive, appropriate, following all commands
+Speech fluent w/o paraphasic errors, +naming of wholes & parts,
++repetition, +comprehension
+No evidence of neglect with visual or tactile stimulation
+No apraxia: able to comb hair, screw in light bulb
+CN: I - not tested, II,III - PERRL, VFF by confrontation, optic
+discs sharp, visual acuity OD, OS; III,IV,VI - EOMI, no ptosis,
+no nystagmus; V- sensation intact to LT/PP, responds to nasal
+tickle, masseters strong symmetrically; VII - no facial
+weakness/asymmetry; VIII - hears finger rub B; IX,X - voice
+normal, palate elevates symmetrically, gag intact; Calieb Denell -
+SCM/Trapezii 2014-04-13 00:00:00 B; XII - tongue protrudes midline, no atrophy
+or
+fasciculations
+
+Motor: nl bulk and tone, no tremor, rigidity or bradykinesia. No
+pronatordrift. No asterixis.
+
+  Deltd Bicep Tricp ECR/U ExDig FlDig DorsI OppPB
+  C5    C5-6  C7    C6-7  C7    C8    T1    C8-T1
+L  5     5     5     5     5     5      5     5
+R  5     5     5     5     5     5      5     5
+
+  Ilpso Qufem Hamst  TibAn [**First Name9 (NamePattern2) 2734**] Dagenais
+   L1-2  L3-4  L5-S2 L4-5  S1-2  L5
+
+DTRs: Emonnie Dagenais (C56) BR (C6) Tri (C7) Pa (L34) Ac (S12) Plantar
+
+L     2        2        2       0         0        mute
+R     2        2        2       0         0        mute
+
+Sensory: LT intact throughout; temperature, vibration, pin
+decreased from T10 level down.
+
+Coord: FNF intact.
+
+Gait: unable to perform.
+
+
+Pertinent Results:
+2014-04-13 00:00:00
+
+WBC-7.4 RBC-4.79 Hgb-15.2 Hct-44.7 MCV-93 MCH-31.7 MCHC-34.0
+RDW-13.7 Plt Ct-103*
+
+2014-04-13 00:00:00
+
+PT-14.1* PTT-26.2 INR(PT)-1.2*
+
+2014-04-13 00:00:00
+
+Glucose-139* UreaN-46* Creat-1.1 Na-139 K-4.3 Cl-107 HCO3-24
+AnGap-12
+2014-04-13 00:00:00
+
+ALT-62* AST-20 CK(CPK)-95 AlkPhos-62 TotBili-2.1*
+
+2014-04-13 00:00:00
+
+Calcium-8.1* Phos-3.2 Mg-2.3
+
+URINE Color-Yellow Appear-Clear Sp Dagenais-1.011
+URINE Blood-TR Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-1 pH-5.0 Leuks-NEG
+URINE RBC-2014-04-13 00:00:00* WBC-0-2 Bacteri-FEW Yeast-NONE Epi-0-2
+URINE Hours-RANDOM Creat-43 Na-LESS THAN  TotProt-13
+Prot/Cr-0.3*
+
+2014-04-13 00:00:00 11:13 AM
+
+RENAL U.S. PORT
+
+TECHNIQUE: Portable renal ultrasound with Doppler studies.
+
+FINDINGS: The right kidney measures 10.9 cm in length, the left
+11.6 cm. Within the upper pole of the right kidney, two simple
+cysts, each measuring 2.7 cm in diameter, are visualized, as
+well as a 2.1 cm simple cyst in the lower pole of the left
+kidney. These correspond to a hypoattenuating foci seen on the
+recent CT. In the lateral mid pole of the right kidney, there is
+a region of cortical echogenicity, which likely corresponds to
+an area of relative perfusion defect on the recent CT. The
+appearance may represent a small evolving renal infarct.
+
+Doppler studies show normal flow in the right main renal artery
+and vein, as well as normal arterial flow in interlobar arteries
+among the upper, middle, and lower poles. The resistive indices
+range from 0.63-0.70 on the right.
+
+On the left, the main renal artery and vein are also patent, but
+interlobar arteries show slight parvus et tardus waveforms,
+particularly when compared to the opposite side. The resistive
+indices among the interlobar arteries range from 0.63-0.86. In
+the setting of portable technique, the Doppler studies of the
+left kidney are somewhat suboptimal, but the findings suggest
+that there is likely somewhat decreased perfusion to the left
+kidney compared to the right.
+
+IMPRESSION:
+1. Small echogenic region involving the cortex in the right mid
+pole, which correlates with a region of relative decreased
+perfusion on the recent CT. This appearance may represent an
+evolving infarct within a portion of the right mid pole.
+2. Patency of flow to both kidneys. However, Doppler studies are
+suggestive of somewhat decreased perfusion to the left compared
+to the right
+
+2014-04-13 00:00:00 2:01 PM
+
+CHEST (PORTABLE AP)
+
+Single portable chest radiograph demonstrates no interval change
+in the cardiomediastinal silhouette. There is increased
+perihilar opacity involving the bilateral hila and mild diffuse
+increased airspace opacity representing mild-to-moderate
+pulmonary edema. There is blunting of the left costophrenic
+angle representing a small effusion. The right costophrenic
+angle is sharp. The trachea remains in the midline. Cardiomegaly
+is unchanged.
+
+IMPRESSION:
+
+Cardiomegaly, unchanged.
+
+Worsening CHF.
+
+
+Brief Hospital Course:
+Pt admitted 2014-04-13 00:00:00
+
+Stat lumbar drain placed - to decrease csf pressure less then 10
+/ pt transfered to the SICU
+
+A-line placed
+
+Stroke service consulted / CT - reveals aortic dissection no
+acute compression or infarct noted / the diseection and low BP
+is thought to be responsible by decreasing the blood flow to the
+spinal cord.
+
+It is noticed if pts BP elevated, paralysis improves
+
+Pt BP is kept elevated ( Pt also has ARF on admission ) / The
+increase BP is probably due to decreasse blood flow to the
+kidneys. / steroids started for ? acute cord infarction.
+
+2014-04-13 00:00:00
+
+Lumber drain stops working / replaced
+
+troponin is increasing / pt started on beta blockers. The
+increase troponin is thought to be due to hypoperfusion
+syndrome.
+
+2014-04-13 00:00:00
+
+echo done
+
+2014-04-13 00:00:00
+
+Increase creat / BUN - renal consulted
+
+2014-04-13 00:00:00
+
+stable
+
+2014-04-13 00:00:00
+
+Diovan added for BP control
+
+creat improves
+
+Pt symptoms gradually improve with BP control
+
+2014-04-13 00:00:00
+
+Pt consult / fails voiding trial
+
+Foley replaced
+
+2014-04-13 00:00:00
+
+Pt stable for DC
+
+Medications on Admission:
+Protonix
+BP med
+
+Discharge Medications:
+1. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed.
+2. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+4. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed.
+5. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO HS (at bedtime).
+7. Hydralazine 20 mg/mL Solution Sig: One (1)  Injection Q6H
+(every 6 hours) as needed for SBP>160: prn.
+8. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+9. Labetalol 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+10. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection UPMCE (2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+paralysis with decrease bp
+AA dissection
+ARF
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+BP control 140-180
+
+Moniter BUN creat
+
+
+Followup Instructions:
+Please follow-up with Neurology (Dr. Dagenais
+Provider: Dagenais. Calieb Denell Phone:test@mail.com Date/Time:2014-04-13 00:00:00
+3:30
+**This appointment is on the 123 Any St. of the UPMCE building.
+You will need to call ahead of time to update your registration.
+Please call test@mail.com. Thank you.
+
+Please call Dr Dagenais office at test@mail.com
+
+
+
+Completed by:2014-04-13 00:00:00

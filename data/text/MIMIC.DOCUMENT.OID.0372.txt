@@ -1,0 +1,278 @@
+Admission Date:  2007-05-23 00:00:00              Discharge Date:   2007-05-23 00:00:00
+
+Date of Birth: 1955-05-23 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Avilynn Murchland
+Chief Complaint:
+Lightheadedness, slow pulse
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Dr. Treanor is a 60 yoM with a history of myxomatous mitral
+valve disease s/p annuloplasty '2007-05-23 00:00:00, paroxysmal atrial
+fibrillation currently on Dronedarone and Coumadin, h/o
+postoperative NSVT s/p ICD placement, and h/o nondilated
+cardiomyopathy with EF  who presents with lightheadedness and
+near-syncope in the context of recent undefined illness and
+weight loss.
+.
+Pt reports history of 25lb weight loss in the past 6 weeks that
+he attributes to losing his sense of taste due to his
+Parkinson's meds. He denies any further focal symptoms during
+this time frame. Then, today he was not feeling well while at
+work in the ED here at UPMCE. He had been feeling lightheaded
+all day. He went home then relates that he was laying on the
+couch watching TV with his daughter and may have passed out for
+some time, the only thing he remembers is his daughter waking
+him up. He is unsure if he actually lost consciousness or not. A
+family member took his pulse and found him to be in the 20's, so
+brought him to the ED.
+.
+There his vitals were hr 31, 110/68, 18, 100% RA. He was found
+to have elevated INR, hypokalemic and repleted. EKG showing
+sinus bradycardia with intermittent ventricular escape beats and
+Vpaced beats. He is admitted to CCU for pacer interrogation and
+monitoring.
+.
+ROS is positive as above and also with worsening postural
+hypoTN, which he ascribes to the Parkinson's meds, and lost of
+taste, also attributed to Parkinson's meds
+.
+ROS is negative for f/c/ns, CP, SOB, diaphoresis, cough, PND,
+orthopnea, syncope
+
+
+Past Medical History:
+1.  Myxomatous mitral valve disease status post mitral valve
+repair with an annuloplasty ring at the UPMCE Clinic in
+2007-05-23 00:00:00.
+2.  Postoperative nonsustained VT status post single chamber
+UPMCE ICD generator, changed in 2007-05-23 00:00:00.
+3.  Atrial fibrillation, was 123 Any St.usly on Amiodarone but now on
+Dronedarone and also Coumadin
+4.  Nonischemic dilated cardiomyopathy with an ejection fraction
+of 30-40%
+5. Parkinson disease, recently initiated on Aricept and
+carbidopa
+6. Progressive orthostasis with dizziness upon standing.
+7. Small ASD or PFO not felt to be clinically significant
+
+Social History:
+Lives at home with wife and two daughters
+Chumani Treanor Use: Never smoker
+Alcohol Abuse: No history of alcohol abuse.
+No drugs
+
+Family History:
+FH:
+h/o colon CA
+
+
+Physical Exam:
+96.5   72   116/74   15   99% RA
+Pleasant middle aged male in no distress, good historian.
+JVD not elevated, no hepatojugular reflux noted
+Lungs CTAB no w/c/r/r, good air movement, no accessory muscle
+use, breathing comfortably on room air
+RRR, no murmurs ap123 Any St.ted, heart sounds soft S1 S2, no S3 S4
+Abd obese NT ND
+No BLE edema noted but hyperpigmented macules noted
+2+ bilateral radial pulses noted
+CN 2-12 intact, no facial droop or dysarthria, spontaneously
+moving all four extremities, no focal lesions noted.
+
+
+Pertinent Results:
+CHEST (PORTABLE AP) Study Date of 2007-05-23 00:00:00 10:47 PM
+IMPRESSION: No acute intrathoracic process.
+
+CBC
+2007-05-23 00:00:00 06:45AM BLOOD WBC-4.1 RBC-4.09* Hgb-11.9* Hct-35.0*
+MCV-86 MCH-29.2 MCHC-34.1 RDW-13.7 Plt Ct-180
+2007-05-23 00:00:00 04:21AM BLOOD WBC-3.4* RBC-3.90* Hgb-11.7* Hct-33.2*
+MCV-85 MCH-29.9 MCHC-35.2* RDW-13.8 Plt Ct-145*
+2007-05-23 00:00:00 10:22PM BLOOD WBC-4.3 RBC-4.22* Hgb-12.3* Hct-35.9*
+MCV-85 MCH-29.0 MCHC-34.1 RDW-13.7 Plt Ct-201
+
+Coags
+2007-05-23 00:00:00 06:45AM BLOOD PT-29.5* PTT-32.6 INR(PT)-2.9*
+2007-05-23 00:00:00 04:21AM BLOOD PT-38.3* PTT-37.2* INR(PT)-4.0*
+2007-05-23 00:00:00 10:22PM BLOOD PT-39.3* PTT-33.2 INR(PT)-4.1*
+
+Chemistry
+2007-05-23 00:00:00 01:28PM BLOOD K-4.2
+2007-05-23 00:00:00 06:45AM BLOOD Glucose-90 UreaN-9 Creat-1.0 Na-142 K-4.0
+Cl-107 HCO3-29 AnGap-10
+2007-05-23 00:00:00 01:33PM BLOOD Glucose-93 UreaN-9 Creat-1.1 Na-140 K-4.7
+Cl-106 HCO3-28 AnGap-11
+2007-05-23 00:00:00 04:21AM BLOOD Glucose-83 UreaN-13 Creat-1.2 Na-142
+K-3.1* Cl-106 HCO3-28 AnGap-11
+2007-05-23 00:00:00 10:22PM BLOOD Glucose-98 UreaN-14 Creat-1.3* Na-142
+K-3.1* Cl-102 HCO3-30 AnGap-13
+2007-05-23 00:00:00 06:45AM BLOOD Calcium-8.5 Phos-2.8 Mg-2.0
+2007-05-23 00:00:00 01:33PM BLOOD Calcium-8.7 Phos-2.2* Mg-2.1
+2007-05-23 00:00:00 04:21AM BLOOD Calcium-8.5 Phos-2.5* Mg-2.4 Iron-64
+2007-05-23 00:00:00 10:22PM BLOOD Calcium-8.9 Phos-2.8 Mg-1.7
+
+Cardiac Enzymes
+2007-05-23 00:00:00 04:21AM BLOOD CK-MB-NotDone cTropnT-<0.01
+2007-05-23 00:00:00 10:22PM BLOOD cTropnT-<0.01
+
+Brief Hospital Course:
+60 y/o M with a history of myxomatous mitral valve disease s/p
+annuloplasty '2007-05-23 00:00:00, paroxysmal atrial fibrillation, h/o
+postoperative NSVT s/p ICD placement, and h/o nondilated
+cardiomyopathy who presents with lightheadedness and
+near-syncope in the context of recent undefined illness and
+weight loss, found to be bradycardic and admitted to CCU for
+further management.
+.
+#. Presyncope/NSVT:  Pt had pacer evaluated by EP, which showed
+a few episodes of NSVT which seem to correlate temporally with
+his symptoms.  Also with runs of ventricular bigeminy with 1st
+QRS complex paced and second complex a wide complex PVC, other
+strips show bigeminy without pacing.  Runs of sinus rhythm with
+junctional vs ventricular escape beats are also seen.  Patient
+was followed closely by the EP service.  Possible etiology of
+NSVT could be due to hypokalemia.  Patient had potassium
+aggressively repleted.  Prior to discharge, his potassium level
+was 4.2, for which he was repleted with an extra 40 mEq of
+potassium for goal of 4.5.  Patient was continued on
+dronedarone.  Metoprolol was stopped.  Lisinopril decreased to 5
+mg daily.  Patient will also start daily potassium
+supplementation.  He will follow up closely in device clinic
+where he will have repeat CBC, lytes, and INR checked.
+.
+#. Failure to thrive: patient has had recent weight loss,
+decrease in a123 Any St.e, overall fatigue and malaise.  Sinamet is
+the most recent addition to his outpatient medications.  His
+neurologist did not think that these symptoms are due to
+sinamet, although sinamet may cause some nausea, the treatment
+of which would be to take an extra 25mg of carbidopa along with
+his sinamet.  This was discussed with patient and a prescription
+for carbidopa was provided to be taken as needed for nausea.
+.
+#. Pancytopenia: the etiology of this is unclear.  His
+medications were reviewed with no offending medications found.
+His neurologist did not think that this was being caused by any
+of his parkinson's meds.  He will have a repeat CBC drawn on his
+next visit at device clinic to follow up.
+.
+#. Acute renal failure - patient on admission had creatinine of
+1.3 which trended down to baseline of 1.0 with gentle IV fluids.
+.
+#. Supratherapeutic INR - patient's albumin was normal which
+suggests not a synthetic problem.  LFT's also normal.  Patient
+had warfarin held during this admission, but on discharge his
+INR was back within therapeutic range of 2.0-3.0 at 2.9.  He
+will be restarted on warfarin as an outpatient, and will have
+INR checked on his next visit to device clinic for further
+management of his warfarin dosing.
+.
+#. Parkinson's - patient was continued on sinamet and azilect
+
+Medications on Admission:
+Warfarin 1 mg or 5 mg daily (? med list unclear)
+Metoprolol tartrate 50mg PO bid
+Lisinopril 5mg po daily  (vs 20mg daily by medication list)
+Dronedarone 400mg po BID
+Azilect (Rasagiline) 1mg daily
+Carbidopa/Levodopa 25/100 tid
+Flomax 0.4mg qhs
+Ambien 10 mg qhs prn
+
+Discharge Medications:
+1. Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Dronedarone 400 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+4. AZILECT 1 mg Tablet Sig: One (1) Tablet PO daily ().
+5. Carbidopa-Levodopa 25-100 mg Tablet Sig: One (1) Tablet PO
+TID (3 times a day).
+6. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+7. Zolpidem 5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as
+needed for insomnia.
+8. Carbidopa 25 mg Tablet Sig: One (1) Tablet PO three times a
+day as needed for nausea.
+Disp:*90 Tablet(s)* Refills:*0*
+9. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+10. Outpatient Lab Work
+Please draw a CBC, Chemistry 10, PT, PTT, and INR drawn on
+2007-05-23 00:00:00 and have results faxed to Dr. Avilynn Murchland at
+test@mail.com
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Presyncope/NSVT
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to UPMCE for
+lightheadedness.  You were admitted to the cardiac intensive
+care unit for close monitoring.  The electrophysiology service
+evaluated you on this admission and changed some of the setting
+on your pacemaker.  They found brief episodes of abnormal rhythm
+when they interrogated your pacemaker.  You will need to
+continue taking dronedarone.
+
+We contactChumani Treanor your neurologist in regards to your parkinson's
+medications: sinemet and resegaline.  It does not appear that
+they are the causes of your a123 Any St.e or weight loss.  Sinemet
+can cause nausea, and the treatment to that is to take an
+additional 25mg of carbidopa along with the sinemet
+
+You will also need to continue warfarin.  Your INR on discharge
+is 2.9.  Please continue to have your INR checked periodically
+in order to manage your warfarin dosage.
+
+You will need to have your labs checked again.  Please have a
+CBC, Chem 10, and an INR checked on 2007-05-23 00:00:00.
+
+Your medications have changed.  Please make note of the
+following changes:
+- please STOP taking metoprolol
+- please DECREASE your lisinopril dosage to 5 mg daily
+- new: Potassium chloride 20 mEq daily
+- you are being given a prescription for carbidopa.  You can
+take one tablet along with your sinamet, three times a day, as
+needed if you are experiencing nausea that you think may be due
+to the sinamet.
+
+Weigh yourself every morning, Chumani Treanor MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Provider:  Chumani Treanor CLINIC Phone:test@mail.com Date/Time:2007-05-23 00:00:00
+9:00
+
+Dr.Chumani Treanor office will contact you for an additional follow
+up appointment in approximately 6 weeks' time.  If you do not
+hear back from them soon, please call test@mail.com to make the
+appointment.
+
+Please continue to follow up with your neurologist Dr. Avilynn Murchland
+Treanor
+
+
+

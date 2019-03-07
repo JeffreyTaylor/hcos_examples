@@ -1,0 +1,273 @@
+Admission Date:  2010-10-04 00:00:00              Discharge Date:   2010-10-04 00:00:00
+
+Date of Birth: 1970-06-23 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+bupropion
+
+Attending:Adalen Gariss
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+2010-10-04 00:00:00 endotracheal intubation, placement of right internal
+jugular central line
+
+History of Present Illness:
+60 y/o Male with history of metastatic esophageal cancer s/p
+esophagectomy w/ recurrence as well as brain mets, multiple
+recurrent PNAs, recurrent VTE on lovenox, afib, presents with
+weakness, fatigue, cough, SOB, total body pain starting today.
+Patient was most recently hospitalized in mid 2010-10-04 00:00:00 for
+pneumonia. Patient was in his usual health until earlier this
+morning when he complained of increased weakness and fatiuge,
+cough, SOB and chest pain with decreased a123 Any St.e and total body
+pain. Triggered on arrival for HR of 180.
+.
+ED Course (labs, imaging, interventions, consults):
+- Initial Vitals/Trigger: 98.0 162 78/58 16 100% ra
+- EKG: afib at 171 with uncontrolled ventricular response
+[x] portalbe CXR - right sided PNA and pleural effusion -
+treated with cefepime/vanc/flagyl/levo
+[x] CBC - WBC of 31 with left shift
+[x] lactate 6.7
+[x] CT head - no worsening process. stable l frontal craniotomy
+with persistent thoguh improved adjacent frontal lobe edema.
+known left cerebellar lesion not well seen. stable ventricles
+and sulci
+[x] CT torso - Migration of the esophageal stent cephalad,
+posterior, and to the right,likely eroded through the gastric
+pull through and freely communicating with the right pleural
+space/lung with resultant necrotic pneumonia of the right  >
+added on micafungin
+lower lobe and hydropneumothorax > NO EVIDENCE OF Pulm Emb
+[x] chem 7 - K 5.6, gap of 21 (likely lactic acid), sugar 272
+- stress dose steroids
+- patient was full code for now
+- baseline BP 80-90 per patient and wife
+- 4L IV fluids
+- bedside ultrasound - no evidence of pericardial effusion
+- 6U insulin IV for K 5.4 and gap with sugar of 272 (though gap
+is likely related to lactic acid)
+- R IJ placed 2010-10-04 00:00:00 ?hypotensions > neosynephrine
+- intubated for unclear reasons perichest-tube placement
+[x] ONC - sent FYI page
+[x] thoracic surgery - placed chest tube, no surgical
+intervention at this time
+
+
+Past Medical History:
+ONCOLOGIC HISTORY:
+2010-10-04 00:00:00, s/p cisplatin/5FU/XRT, esophagectomy; brain mets 2010-10-04 00:00:00,
+
+s/p cyberknife 2010-10-04 00:00:00 and 2010-10-04 00:00:00.
+2010-10-04 00:00:00: EGD with large circumferential mass at GE junction.
+Biopsy showed adenocarcinoma.
+2010-10-04 00:00:00: CT abd/pelvis with distal esophageal mass and a 3cm
+partially necrotic lymph node in the hepatogastric ligament.
+2010-10-04 00:00:00: EUS staging Tx, N2, Mx. FNA of gastrohepatic node
+positive for adenocarcinoma.
+2010-10-04 00:00:00: PET with FDG avid left paratracheal lymph node
+immediately anterior to esophagus at level of aortic arch, 7 mm,
+
+SUV max 4.5, multiple small (2-6 mm) pulmonary nodules too small
+
+to fully characterize, and a large 2.9 cm lymph node in the
+gastrohepatic ligament with SUV max 11.4. The primary distal
+esophageal mass was also highly FDG avid.
+2010-10-04 00:00:00: Chemoradiation with cisplatin (75 mg/m2, D1 and
+D29) and 5-FU (1000 mg/m2/day D1-4, D29-32).
+2010-10-04 00:00:00/11: Admission for PE (RLL segmental) causing pleuritic
+chest pain; therapeutic enoxaparin initiated.
+2010-10-04 00:00:00: Admission with new atrial fibrillation and
+acute right axillary DVT. CT showed improving PE. Cardioverted.
+Therapeutic enoxaparin continued.
+2010-10-04 00:00:00 PET/CT: Gastrohepatic and left paratracheal lymph nodes
+now without FDG-avidity.
+2010-10-04 00:00:00: Dr. Adalen Gariss performed minimally invasive esophagectomy
+showing pathologic complete response including 15 negative
+nodes.
+2010-10-04 00:00:00, 2010-10-04 00:00:00, 2010-10-04 00:00:00: Esophageal stricture dilation. Port
+removed on 2010-10-04 00:00:00 and J-tube removed on 2010-10-04 00:00:00.
+2010-10-04 00:00:00: Admission with aphasia. Brain MRI showed
+solitary 1.9 cm left frontal lobe mass. CT torso with segmental
+LUL PE (new since 2010-10-04 00:00:00), stable 9 mm right hilar lymph nodes
+and right upper lobe pulmonary nodules, no clear metastatic
+disease. Resection of brain mass on 2010-10-04 00:00:00 (Adalen Gariss) showed
+metastatic adenocarcinoma, CK7/CK20 positive, TTF-1 negative,
+consistent with upper GI origin. HER-2 positive by FISH.
+2010-10-04 00:00:00: Cyberknife to resection cavity.
+2010-10-04 00:00:00: Dilation of anastomotic stricture.
+2010-10-04 00:00:00: CT chest with 7 mm RUL subpleural nodule (123 Any St.usly
+5mm) and new 7 mm LUL nodule, and increased right hilar and
+mediastinal adenopathy (may be reactive).
+2010-10-04 00:00:00: J-tube placement, dilation of stricture, biopsy of
+gastric conduit revealed adenocarcinoma.
+2010-10-04 00:00:00: Esophageal stent placed for possible fistula (fluid
+draining from esophagus seen on EGD 2010-10-04 00:00:00, but no tract found
+on EGD or bronchoscopy).
+2010-10-04 00:00:00 MRI brain: Marked decrease in enhancement at left
+frontal
+resection site. No new lesion.
+2010-10-04 00:00:00: CT abd/pelvis: No metastatic disease seen.
+2010-10-04 00:00:00: CT chest: Improvement of bilateral lower lobe
+consolidations suggests resolving infectious/inflammatory
+process. New GGO in right upper lobe likely represents
+aspiration pneumonia. Stable 6 mm right upper lobe and 7 mm left
+
+upper lobe nodules.
+2010-10-04 00:00:00: MRI head with new 25 x 21 mm left cerebellar metastasis.
+2010-10-04 00:00:00: Cyberknife to left cerebellar lesion.
+.
+PAST MEDICAL HISTORY:
+1) Severe rheumatoid arthritis, [** Location **]usly on enbrel and now on
+prednisone alone. History of multiple joint surgeries related to
+
+RA.
+2) Atrial fibrillation s/p cardioversion 2010-10-04 00:00:00.
+3) RLL Pulm Emb in 2010-10-04 00:00:00.
+4) Right axillary DVT 2010-10-04 00:00:00.
+5) LUL Pulm Emb in 2010-10-04 00:00:00 while on warfarin. Now on enoxaparin.
+
+Social History:
+- Tobacco: Quit in 2010-10-04 00:00:00, 30-35 years 1ppd.
+- Alcohol: 2010-10-04 00:00:00 cocktails every few weeks.
+- Illicits: Negative.
+- Housing: lives with wife.
+- Employment: on disability for past 10 years related to RA,
+former manager of bottling plant and 123 Any St. 123 Any St..
+- Family: wife, four children.
+
+
+Family History:
+His mother and Aruna Holston sister have Aruna Holston. There is no family
+history of cancer. No clotting disorders in the family.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS:  98.7  135   80/60   19  99%   see resp setting CMV
+GENERAL: intubated, sedated
+HEENT: MMM. no LAD. no JVD. neck supple.
+HEART: RRR S1/S2 heard. no murmurs/gallops/rubs.
+LUNGS: rhonchorus breath sounds anteriorly on the right
+ABDOMEN: soft, no involuntary guarding
+EXT: warm, trace edema
+SKIN: dry, no rash
+
+DISCHARGE PHYSICAL EXAM: Expired.
+
+Pertinent Results:
+ADMISSION LABS
+2010-10-04 00:00:00 05:50PM 2010-10-04 00:00:00 WBC-31.5*# RBC-4.55* Hgb-11.5* Hct-36.8*
+MCV-81* MCH-25.2* MCHC-31.1 RDW-17.2* Plt Ct-554*#
+2010-10-04 00:00:00 05:50PM 2010-10-04 00:00:00 Neuts-86* Bands-10* Lymphs-1* Monos-2
+Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-0
+2010-10-04 00:00:00 06:57PM 2010-10-04 00:00:00 PT-13.7* PTT-28.7 INR(PT)-1.3*
+2010-10-04 00:00:00 05:00PM 2010-10-04 00:00:00 Glucose-272* UreaN-30* Creat-0.9 Na-131*
+K-5.6* Cl-92* HCO3-21* AnGap-24*
+2010-10-04 00:00:00 05:00PM 2010-10-04 00:00:00 ALT-13 AST-13 AlkPhos-131* TotBili-0.3
+2010-10-04 00:00:00 05:00PM 2010-10-04 00:00:00 Lipase-9
+2010-10-04 00:00:00 05:00PM 2010-10-04 00:00:00 cTropnT-<0.01
+2010-10-04 00:00:00 05:00PM 2010-10-04 00:00:00 Albumin-2.9*
+2010-10-04 00:00:00 02:32AM 2010-10-04 00:00:00 Albumin-2.2* Calcium-7.9* Phos-4.4 Mg-1.6
+2010-10-04 00:00:00 05:06PM 2010-10-04 00:00:00 Type-Holston pO2-40* pCO2-40 pH-7.37
+calTCO2-24 Base XS--1
+2010-10-04 00:00:00 05:06PM 2010-10-04 00:00:00 Lactate-6.7*
+2010-10-04 00:00:00 09:32PM 2010-10-04 00:00:00 O2 Sat-99
+2010-10-04 00:00:00 04:07AM 2010-10-04 00:00:00 freeCa-1.13
+2010-10-04 00:00:00 07:15PM URINE Color-Yellow Appear-Hazy Sp Holston-1.022
+2010-10-04 00:00:00 07:15PM URINE 2010-10-04 00:00:00-NEG Nitrite-NEG Protein-30
+Glucose-70 Ketone-NEG Bilirub-NEG Urobiln-2* pH-5.5 Leuks-NEG
+2010-10-04 00:00:00 07:15PM URINE RBC-3* WBC-8* Bacteri-FEW Yeast-NONE
+Epi-0 TransE-1
+2010-10-04 00:00:00 07:15PM URINE CastHy-59*
+
+IMAGING:
+2010-10-04 00:00:00 CT CHEST/ABD/PELVIS: IMPRESSION:  Migration of the
+esophageal stent cephalad, posteriorly, and to the right within
+the gastric pull-through, which has likely eroded through the
+posterior wall and is now freely communicating with the pleural
+space and lung with resultant large area of fluid and
+consolidation in the right lower lobe and hydropneumothorax.
+
+
+Brief Hospital Course:
+Mr. Holston is a 60 yo male with history of metastatic esophageal
+cancer status post esophagectomy but with recurrence as well as
+brain metastasis, recurrent pneumonias and thromboemboli on
+lovenox who presented with esophageal stent migration into right
+lung and septic shock with afib RVR.
+
+His initial presentation of hypotension with elevated lactate
+and relative increased work of breathing was due to sepsis from
+the stent migration.  His esophageal stent had likely eroded
+through the cancer since it had been seen to be quite necrotic
+on prior EGDs.  Unfortunately, it eroded into his right lung and
+pleural space creating collapse of lung parenchyma on that side
+and hypoxemic respiratory distress.  He was initially intubated
+for this and a chest tube was placed on the right side to
+suction.  There was significant air leak (4+) on the chest tube,
+thought to be due to the open esophagus.  He required
+vasopressors as well to maintain his Holston pressure and an
+esmolol drip for afib with RVR.
+
+Thoracic surgery was consulted about possible operative
+management of his stent and hydropneumothorax on the right.
+They did not feel that there would be any worthwhile outcome
+from surgery given the scope of the procedure it would require
+and the baseline metastatic cancer.
+
+A family meeting was held with members from thoracic surgery,
+ICU team, and the patient's primary oncology fellow.  The family
+decided to make the patient CMO, understanding that he would
+pass away from hypoxia and sepsis.  His antibiotics,
+vasopressors, esmolol, and mechanical ventilation were
+discontinued. Patient was transferred to the general medicine
+floor, where his care was focused on comfort. The patient
+expired peacefully on 2010-10-04 00:00:00 with his family at the
+bedside.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from Family/Caregiver.
+1. Amiodarone 200 mg PO DAILY
+2. Codeine Sulfate 30 mg PO Q4H:PRN cough
+3. Enoxaparin Sodium 90 mg SC DAILY
+4. Levothyroxine Sodium 100 mcg PO DAILY
+5. Lorazepam 0.5 mg PO HS:PRN anxiety, insomnia
+6. Metoprolol Tartrate 12.5 mg PO BID
+hold SBP < 85, HR < 50
+7. Omeprazole 40 mg PO BID
+8. PredniSONE 10 mg PO DAILY
+9. Dexamethasone 4 mg PO BID
+Give at 8:00AM and 4:00PM.
+10. Docusate Sodium 100 mg PO BID:PRN Constipation
+11. Senna 1 TAB PO BID:PRN Constipation
+12. Albuterol-Ipratropium 2010-10-04 00:00:00 PUFF IH Q4H:PRN dyspnea
+13. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN Pain
+14. Sulfameth/Trimethoprim SS 1 TAB PO DAILY
+Continue to take as long as you are taking decadron or
+prednisone
+
+
+Discharge Medications:
+Expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Expired
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+

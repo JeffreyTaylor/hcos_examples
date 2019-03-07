@@ -1,0 +1,316 @@
+Admission Date:  2009-09-14 00:00:00              Discharge Date:   2009-09-14 00:00:00
+
+Date of Birth: 1999-09-14 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+aspirin / amlodipine / Benadryl
+
+Attending:Dinasti Redrow
+Chief Complaint:
+Hypotension requiring ICU admission
+
+Major Surgical or Invasive Procedure:
+Endoscopy
+
+
+History of Present Illness:
+67yo F w/ Uterine carcinosarcoma s/p XRT/surgery sent to the ED
+from Oncology clinic because of low BPs. Acute onset of
+nausea/vomiting. No fevers/chills/abdominal pain/neck stiffness.
+Hypotensive to 64/22 in the ED. No pericardial effusion. ?
+Dilated RV. Lactate 5.1, and sCr 4.5 (from 1.0). Uric acid 12.
+LDH NML. Lots of saline and given stress dose steroids in ED.
+50mg of hydrocortisone with improvement in her blood pressure to
+135/62. She was also given empiric vancomycin and zosyn and a
+right IJ CVL was placed. Immediately prior to transfer she began
+to have coffee ground emesis and a NG tube was placed. She was
+then admitted to the MICU for further management. s/p 6L 135
+SBP.
+in ICU: BP have stable. No more episodes coffee ground emesis.
+on Vanc/Zosyn for possible aspiration PNA. CXR showing new LLL
+PNA. TTE hyperdyanmic, nothing specific on the right. 1 unit
+blood. Lacate resolved with fluids. 6L up across. Afebrile. UOP:
+sufficient. Tmax 99 at MN. no VOmiting. eating full diet.
+Mandarin speaking only. Son translates. CVPs suggest that she is
+resuscitated.
+
+Review of Systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies blurry vision, diplopia, loss of vision,
+photophobia. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies chest pain or tightness, palpitations, lower
+extremity edema. Denies cough, shortness of breath, or wheezes.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+melena, hematemesis, hematochezia. Denies dysuria, stool or
+urine incontinence. Denies arthralgias or myalgias. Denies
+rashes or skin breakdown. No numbness/tingling in extremities.
+All other systems negative.
+
+
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- 2009-09-14 00:00:00: diagnosis of endometrial carcinosarcoma, the primary
+treatment was delayed due to stroke, uncontrolled hypertension
+and diabetes while preparing for surgery.
+- spring 2009-09-14 00:00:00 XRT(UPMCE)
+- 2009-09-14 00:00:00 total abdominal hysterectomy with bilateral
+salpingo-oophorectomy. The pathology examination showed
+endometrial carcinosarcoma with 10% myometrial invasion.
+- 2009-09-14 00:00:00 laparoscopic cholecystectomy with incidental finding
+of a peritoneal nodule on the anterior abdominal wall in the
+left lower quadrant. The pathologic examination of this nodule
+showed a poorly differentiated epithelioid neoplasm consistent
+with the prior endometrial carcinosarcoma.
+- 2009-09-14 00:00:00 CT torso: no obvious evidence of additional
+metastatic
+disease.
+- 2009-09-14 00:00:00 C1 Carboplatin AUC 4 and Taxol 135 mg/m2 q21d
+- 2009-09-14 00:00:00 C2 Carboplatin AUC 5 and Taxol 135 mg/m2 q21d
+- 2009-09-14 00:00:00 C3 Carboplatin AUC 5 and Taxol 135 mg/m2 q21d
+- 2009-09-14 00:00:00 C4 Carboplatin AUC 5 and Taxol 135 mg/m2 q21d
+- 2009-09-14 00:00:00 C5 Carboplatin AUC 5 and Taxol 135 mg/m2 q21d
+- 2009-09-14 00:00:00 C6 Carboplatin AUC 5 and Taxol 135 mg/m2 q21d
+PAST MEDICAL HISTORY:
+-Stroke in 2009-09-14 00:00:00 without residual deficit (bilateral cerebellar
+and right occipital infarcts secondary to artery to artery
+embolism due to vertebral artery atherosclerotic occlusive
+disease)
+-HTN
+-DM type II
+-uterine carcinosarcoma (as above)
+
+
+Social History:
+Moved from 123 Any St. to the US in 2009-09-14 00:00:00. Mandarin speaking. Lives
+with her husband and one of her sons. Independent in ADL's and
+IADLs. Ambulates independently without any assistive device. No
+recent falls. Denies tobacco or ETOH.
+
+Family History:
+Father died of heart problems, mother died of complication of
+DM. Has 3 grown up children.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+GENERAL: NAD
+HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva,
+patent nares, MMM, good dentition, nontender supple neck, no
+LAD, no JVD
+CARDIAC: RRR, S1/S2, no murmers, gallops, or rubs
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: moving all extremities well, no cyanosis, clubbing
+or edema, no obvious deformities
+PULSES: 2+ DP pulses bilaterally
+NEURO: CN II-XII intact
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAM
+VS: Tm 98.8, Tc98.3, 140-160/88-100, 77-140, 77, 16, 97% RA
+GENERAL - Alert, interactive, well-appearing in NAD
+HEENT - PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+HEART - RRR, nl S1-S2, no MRG
+LUNGS ?????? CTAB, no crackles, wheezes, rhonchi, rales
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses
+NEURO - awake, A&Ox3, CNs II-XII grossly intact
+
+Pertinent Results:
+COMPLETE BLOOD COUNT
+2009-09-14 00:00:00 11:18AM BLOOD WBC-5.0 RBC-3.03* Hgb-10.2* Hct-27.9*
+MCV-92 MCH-33.7* MCHC-36.7* RDW-16.6* Plt Ct-311
+2009-09-14 00:00:00 12:10PM BLOOD WBC-5.3 RBC-2.79* Hgb-8.8* Hct-26.0*
+MCV-93 MCH-31.6 MCHC-33.8 RDW-16.7* Plt Ct-279
+2009-09-14 00:00:00 06:36PM BLOOD WBC-5.2 RBC-2.21* Hgb-7.0* Hct-20.4*
+MCV-92 MCH-31.7 MCHC-34.4 RDW-17.0* Plt Ct-192
+2009-09-14 00:00:00 12:54AM BLOOD WBC-8.1# RBC-2.72* Hgb-8.6* Hct-24.7*
+MCV-91 MCH-31.6 MCHC-34.7 RDW-16.4* Plt Ct-192
+2009-09-14 00:00:00 07:30AM BLOOD WBC-13.7* RBC-2.69* Hgb-8.7* Hct-25.3*
+MCV-94 MCH-32.2* MCHC-34.3 RDW-16.8* Plt Ct-190
+
+CHEMISTRIES:
+2009-09-14 00:00:00 11:18AM BLOOD UreaN-61* Creat-4.5*# Na-134 K-3.6 Cl-87*
+HCO3-22 AnGap-29*
+2009-09-14 00:00:00 06:36PM BLOOD Glucose-155* UreaN-45* Creat-2.7*# Na-140
+K-3.0* Cl-108 HCO3-21* AnGap-14
+2009-09-14 00:00:00 05:49AM BLOOD Glucose-103* UreaN-33* Creat-1.8* Na-141
+K-3.7 Cl-109* HCO3-24 AnGap-12
+2009-09-14 00:00:00 06:06AM BLOOD Glucose-95 UreaN-14 Creat-1.2* Na-140
+K-3.9 Cl-108 HCO3-26 AnGap-10
+2009-09-14 00:00:00 07:30AM BLOOD Glucose-137* UreaN-5* Creat-0.9 Na-138
+K-4.0 Cl-106 HCO3-24 AnGap-12
+
+LACTATE TREND
+2009-09-14 00:00:00 12:17PM BLOOD Lactate-5.1*
+2009-09-14 00:00:00 03:56PM BLOOD Lactate-2.8*
+2009-09-14 00:00:00 06:54PM BLOOD Lactate-1.5
+2009-09-14 00:00:00 01:04AM BLOOD Lactate-0.9
+
+ENDOSCOPY 2009-09-14 00:00:00
+Erythema with diffuse exudate in the lower third of the
+esophagus compatible with esophagitis
+Erythema with exudate in the gastroesophageal junction
+compatible with esophagitis (biopsy)
+Antral gastritis
+Erythema in the first and second parts of the duodenum
+compatible with duodenitis
+Otherwise normal EGD to third part of the duodenum
+
+CXR 2009-09-14 00:00:00
+comparison with the study of 2009-09-14 00:00:00, the nasogastric tube has been
+
+removed.  Continued enlargement of the cardiac silhouette with
+some
+indistinctness of pulmonary vessels suggestive of elevated
+pulmonary venous pressure.  Increased opacification at the left
+base with poor definition of the hemidiaphragms may be related
+to pleural effusion and atelectasis.  However, in the
+appropriate clinical setting, supervening pneumonia would have
+to be considered.
+
+Brief Hospital Course:
+67 year old woman with history of uterine carcinosarcoma
+(diagnosed in 2009-09-14 00:00:00; s/p XRT and hysterectomy in 2009-09-14 00:00:00, relapsed
+2009-09-14 00:00:00 now s/p 6 cycles of [**Doctor Last Name **]/taxol, last 2009-09-14 00:00:00) who
+presented with hypotension.
+
+#) Hypotension: Most likely was from hypovolemia. Pt had been
+vomiting and had one episode of hematemesis in the ED after
+being sent over from clinic visit. Also on the differential was
+infection potentially from a GI or pulmonary source. Patient was
+treated with empiric vanc/zosyn which was continued for 5 days
+for treatment of pneumonia seen on CXR. She was transitioned to
+po levofloxacin and received 6 days total of antibiotics.
+
+#) Coffee Ground Emesis: Endoscopy showed severe esophagitis.
+She required 1 unit of blood in the ICU but her hematocrit
+responded appropriately and remained stable. She was given iv
+pantoprazole which was transitioned to omeprazole 40 mg po BID.
+The patient had no further episodes of coffee ground emesis
+while on the floor. EGD showing severe esophagitis, no active
+bleeding, with mild gastritis/duodenitis. There was a question
+on whether or not to treat for Augustina Holmquist esophagitis but EGD did
+not reveal classic white plaques. Also pt denied odynophagia.
+Therefore pt not started on fluconazole. GI recs included to
+continue PPI PO BID x8 weeks. Pt will need a repeat EGD in 6
+weeks which GI will schedule. HCT remained stable s/p 1 unit of
+PRBCs (23->26). BP stable. Active T&S. HOLDing Plavix
+
+#) Anemia: 2009-09-14 00:00:00 be active bleeding given report of coffee ground
+emesis in ED. Likely also component of hemodilution after
+aggressive volume resuscitation. Patient also chronically anemic
+which has been slowly worsening over past few months.
+
+#) T2DM: Held home metformin given Holmquist and covered with a
+humalog sliding scale.
+
+#) CODE: While in the hospital pt remained DNR, OK to intubate
+EXCEPT for when she went for EGD for which the code status was
+changed to Full Code.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientFamily/CaregiverAugustina Holmquist.
+1. Ondansetron 8 mg PO Q12H:PRN nausea
+2. Lisinopril 40 mg PO DAILY
+3. Prochlorperazine 5 mg PO Q12H:PRN nausea
+4. Metoprolol Tartrate 25 mg PO BID
+5. MetFORMIN (Glucophage) 500 mg PO BID
+6. Simvastatin 20 mg PO DAILY
+7. Clopidogrel 75 mg PO DAILY
+8. Hydrochlorothiazide 12.5 mg PO DAILY
+
+
+Discharge Medications:
+1. Prochlorperazine 5 mg PO Q12H:PRN nausea
+2. Omeprazole 40 mg PO BID
+RX *omeprazole 40 mg 1 capsule(s) by mouth twice a day Disp #*60
+Capsule Refills:*2
+3. MetFORMIN (Glucophage) 500 mg PO BID
+4. Simvastatin 20 mg PO DAILY
+5. Ondansetron 8 mg PO Q12H:PRN nausea
+6. Lisinopril 40 mg PO DAILY
+7. Metoprolol Tartrate 25 mg PO BID
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Pneumonia
+Esophagitis
+Gastritis
+Duodenitis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Ms. Holmquist,
+
+It has been a pleasure taking care of you here at UPMCE. You
+were admitted because of very low blood pressure. You were found
+to have a pneumonia and started on antibiotics.  You were also
+given IV fluids and your blood pressure improved. Because you
+had an episode of vomitting with blood in the emergency
+department the gastroenterology doctors saw Augustina Holmquist and did an
+endoscopy (EGD) to look at your esophagus, stomach and small
+intestine. There was severe inflammation in your esophagus and
+some inflammation in your stomach and small intestine as well.
+It is recommended that you take a new medicine, Omeprazole, for
+this inflammation. Also you should follow up and have a repeat
+endoscopy (EGD) in 6 weeks time. The gastroenterolgy team will
+schedule this appointment. Please see below for follow up
+appointments that you have.
+
+Followup Instructions:
+Department: UPMCE
+When: TUESDAY 2009-09-14 00:00:00 at 1:45 PM
+With: [**Doctor Last Name **] TOME Augustina Holmquist, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+This appointment is with a hospital-based doctor as part of your
+transition from the hospital back to your primary care provider.
+ Augustina Holmquist this visit, you will be set up to see an new physician in
+Augustina Holmquist since Dr. Holmquist has left.
+
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY 2009-09-14 00:00:00 at 9:45 AM
+With: CHECKIN HEM ONC CC9 test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY 2009-09-14 00:00:00 at 10:30 AM
+With: Dinasti Redrow Holmquist, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY 2009-09-14 00:00:00 at 10:30 AM
+With: Augustina Holmquist Augustina Holmquist, MD, PHD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: GERONTOLOGY
+When: TUESDAY 2009-09-14 00:00:00 at 1:30 PM
+With: [**Doctor First Name 5081**] Augustina Holmquist Augustina Holmquist, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+

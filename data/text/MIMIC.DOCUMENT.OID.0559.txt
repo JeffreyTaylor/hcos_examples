@@ -1,0 +1,130 @@
+Admission Date:  2007-07-13 00:00:00              Discharge Date:   2007-07-13 00:00:00
+
+
+Service: MED
+
+Allergies:
+Amoxicillin / Aspirin / Clindamycin / Erythromycin Base /
+Bactrim
+
+Attending:Chew Eshete
+Chief Complaint:
+confusion
+
+Major Surgical or Invasive Procedure:
+EGD
+
+Brief Hospital Course:
+Respiratory failure:  The patient was
+intubated and maintained on pressure support ventilation from
+the time of admission due to respiratory failure with blood
+gas consistent with hypoxia.  Respiratory failure in this
+patient was presumably due to impending hemodynamic collapse.
+There was no clear evidence of pneumonia or other primary
+pulmonary process on chest x-ray or on examination.  The
+patient had small right pleural effusion on admission and
+developed left pleural effusion during her hospital stay, but
+these effusions were small and unlikely to contribute to
+respiratory distress.  The patient was maintained on pressure
+support ventilation during her admission and oxygenation was
+maintained with acceptable parameters.
+
+Hypotension:  The patient was hypotensive on admission with
+blood pressure as low as 60 over palpation in the emergency
+department.  This was most likely secondary to GI bleed;
+although, the patient's elevated white count on admission and
+continuous hemodynamic instability during her hospital stay
+despite stable hematocrit indicated that there were likely
+other contributing factors.  The patient was initially
+suspected of having sepsis, and was begun on empiric therapy
+with levofloxacin and Flagyl.  In addition, cosyntropin
+stimulation test was performed to evaluate for adrenal
+insufficiency.  This test was normal indicating that
+hypoadrenalism was likely not contributing to her
+hypotension.  The patient was treated with levofloxacin and
+Flagyl during her entire hospital admission as empiric
+therapy for possible sepsis.  She displayed labile blood
+pressure during her entire admission and required occasional
+fluid boluses to maintain her mean arterial pressure greater
+than 60.  She required intermittent use of pressure
+medications during her admission with Dopamine being the
+principle Chew Eshete.
+
+Upper GI bleed:  The patient was admitted with hematocrit of
+22 and signs of GI bleed including bright red blood per
+rectum.  EGD on 2007-07-13 00:00:00 demonstrated a bleeding mass in the
+stomach suspicious for malignancy of the linitis plastica
+type.  Biopsies were taken and showed adenocarcinoma of the
+stomach and also diffuse gastritis.  This gastritis was
+likely the cause of the patient's GI bleed.  On admission,
+the patient was transfused with 2 units of packed red blood
+cells raising her hematocrit to 27.  Hematocrit was monitored
+closely during her hospital stay and the patient was
+transfused an additional time to raise her hematocrit to
+greater than 30.  Her hematocrit remained stable at 30 during
+the majority of her hospitalization, indicating that GI bleed
+had stabilized after her admission.  The patient was also
+treated with Protonix IV b.i.d., sucralfate 1 gram by NG tube
+q.i.d., and fluid resuscitation.  No treatment was available
+for her diffuse gastric carcinoma and gastritis other  than
+the above mentioned medications.
+
+Thrombocytopenia:  The patient was admitted with normal
+platelet count, and platelets decreased suddenly to 87,000
+early in her hospital admission.  Given the stability of her
+white blood cell count and hematocrit, it was unlikely that
+this was a dilutional phenomenon.  The possibility of
+consumptive coagulopathy was most concerning in this patient
+with gastric carcinoma.  Fibrinogen and FDP were checked to
+evaluate for DIC, and were found to be within normal limits.
+Platelets were followed and were observed to raise to normal
+levels.  The patient demonstrated no sequelae of
+thrombocytopenia during her admission.
+
+Pain:  The patient was treated with Fentanyl drip in order to
+provide adequate analgesia.  She was observed to be
+comfortable initially on Fentanyl drip with no signs of pain.
+There was no hypertension, tachycardia, or physical sign of
+pain.  Eventually, the patient demonstrated physical signs of
+discomfort, and required Fentanyl boluses in addition to her
+Fentanyl drip.  Fentanyl boluses were administered as
+required to maintain strong level of analgesia in the
+patient.
+
+Communication:  The intensive care unit team was in frequent
+communication with the patient's family, especially the
+patient's daughter who was her healthcare proxy.  The
+patient's family initially was hopeful of achieving cure in
+this patient, such that the patient would be able to
+convalesce at home and to recover among her family.  However,
+during the hospital course, it became apparent to the
+intensive care unit team and to the family that the patient's
+disease was not amenable to cure, and that the patient would
+likely die of her disease during this admission.  The family
+asked appropriate questions about end of life issues and end
+of life care and the family meeting was held to discuss the
+patient's code status and goal of care.  On 2007-07-13 00:00:00, the
+family embraced comfort care as a goal of treatment.  They
+directed that the intensive care unit team should withhold
+laboratory tests and medications except for medications that
+would maintain the patient's comfort.  The patient was
+treated with Fentanyl drip and Fentanyl boluses to maintain
+analgesia and was observed to be comfortable during her
+hospital stay.  After this decision was made, the patient's
+blood pressure was observed to trend down slowly and the
+patient's respiratory status was maintained with ventilation.
+On 2007-07-13 00:00:00, the patient died of cardiovascular collapse,
+secondary to her diffuse hemorrhagic gastric carcinoma.
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+deceased
+
+Discharge Condition:
+deceased
+
+                             Chew Eshete Chalfant Brenon Chalfant MD 12762
+

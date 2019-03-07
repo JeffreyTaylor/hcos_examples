@@ -1,0 +1,147 @@
+Admission Date:  2011-10-24 00:00:00              Discharge Date:   2011-10-24 00:00:00
+
+Date of Birth: 1989-10-24 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Penicillins
+
+Attending:Cailon Hasstedt
+Chief Complaint:
+Hypotension, sepsis
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+47M with chronic hepatitis B virus associated cirrhosis and
+delta hepatitis suprainfection on the liver transplant list
+(baseline MELD 27).  EMS was called this morning at 4am for 3
+days of worsening abdominal pain, double vision and weakness.
+Upon arrival to his home: HR 100, BP 60/30's, O2 sats
+84%, FS 46. Oriented x 4. Taken to UPMCE Hospital for
+stabilization, and the transplant center was notified.
+
+At UPMCE, he was started on lactulose, Neo-Synephrine,
+octreotide, and midodrine, he was intubated, started on a D10W
+gtt.  Once a bed was available, he was transferred to the UPMCE
+SICU.
+
+
+Past Medical History:
+- congenital Hepatitis B
+- Hep D positivity
+- Cirrhosis, decompensated by ascites and jaundice
+- Anemia
+- Psoriasis
+- Internal hemorrhoids
+.
+
+Social History:
+Married, 2 children 4,9, worked as social case manager in the
+past, now works as PCA 8h per week. Has not smoked or drank EtOH
+since age of 15. No IVDU.
+.
+ .
+
+
+Family History:
+Mother: HBV, DM
+
+Physical Exam:
+PE:  Neo 0.35, Vaso 2.4, Phenylephrine 1.5 112 91/44 CVP 17 27
+96% CMV 100% +12 PEEP
+NAD, unresponsive.  On no sedation, but received IV Ativan for
+transfer
+Jaundiced and icteric
+Diminished breath sounds on the Right
+Tachy
+Abd distended, dull to percussion, +fluid shift. No response to
+deep palpation
+1+ LE edema
+
+
+Pertinent Results:
+2011-10-24 00:00:00 05:24PM   WBC-1.7* RBC-2.29* HGB-9.1* HCT-27.4*
+MCV-120* MCH-39.6* MCHC-33.1 RDW-14.6
+2011-10-24 00:00:00 05:24PM   GLUCOSE-85 UREA N-40* CREAT-2.8*# SODIUM-122*
+POTASSIUM-4.3 CHLORIDE-95* TOTAL CO2-11* ANION GAP-20
+2011-10-24 00:00:00 05:24PM   NEUTS-18* BANDS-14* LYMPHS-30 MONOS-3 EOS-18*
+BASOS-0 ATYPS-0 METAS-10* MYELOS-6* PROMYELO-1* NUC RBCS-10*
+2011-10-24 00:00:00 05:24PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-1+
+MACROCYT-3+ MICROCYT-NORMAL POLYCHROM-2+ BURR-2+ STIPPLED-1+
+2011-10-24 00:00:00 05:24PM   PLT SMR-VERY LOW PLT COUNT-49*
+2011-10-24 00:00:00 05:24PM   PT-38.7* PTT-54.8* INR(PT)-4.0*
+2011-10-24 00:00:00 05:24PM   ALT(SGPT)-52* AST(SGOT)-78* LD(LDH)-191 ALK
+PHOS-68 TOT BILI-17.7*
+2011-10-24 00:00:00 05:44PM   TYPE-ART PO2-87 PCO2-32* PH-7.19* TOTAL
+CO2-13* BASE XS--14
+
+Brief Hospital Course:
+Patient was transferred from UPMCE Hospital after 3 days of
+worsening abdominal pain, severe hypotension and lactic
+acidosis. He was admitted to UPMCE hospital on 2011-10-24 00:00:00
+morning, was intubated, started on pressors and antibiotics and
+after notifying the transplant center, he was transferred in the
+afternoon and admitted to the surgical ICU of UPMCE. Patient was
+started on neo-synephrine, norepinephrine and vasopressin,
+continued of broad spectrum antibiotics and attempted to correct
+his coagulopathy with blood products prior to perform a
+diagnostic paracentesis with hepatology. This showed 500 WBC and
+25,500 RBC, but no microorganisms on the gram stain. A right
+chest thoracentesis for a large right pleural was also performed
+by the SICU to improve his ventilatory settings and improve his
+oxygenation, which drained 1,5 L of fluid. Patient tolerated
+both procedures well initially, but was never stable enough to
+bring him to CT scan. At midnight he started with increasing
+pressure requirement and was maximized on neo-synephrine,
+levophed and vasopressin.
+His profound lactic acidosis with a worsening lactate up to 11.3
+was attempted to be corrected with sodium bicarb, with no
+improvement on his pH of 7.10. His wife was Jadyne Lowdermilk, who
+decided to continue measures and after giving 5L of fluids
+including crystalloids, colloids, blood and at a maximum dose of
+3 pressures, he was not able to hold his BP. Patient expired on
+2011-10-24 00:00:00 at 01:40 am, after his the pastor of his church arrived
+to the SICU. His wife Cailon Hasstedt while she was on
+her way. The admitting office was notified and the Medical
+Examiner waived the case. His family consented for an autopsy
+which will be done at UPMCE.
+
+
+Medications on Admission:
+Lowdermilk:
+clobetasol
+clotrimazole 10mg 5x/day
+Vit D 50,000 units weeks
+lactulose 15mg q4hrs
+Viread 300mg daily
+Mag oxide 400mg UPMCE
+Lasix 80mg UPMCE
+rifaxamin 550mg UPMCE
+spironolactome 200mg UPMCE
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiopulmonary Arrest
+Septic Shock
+Multiorgan failure (Renal, Liver, Neurologic, Cardiac)
+End-Stage Liver Disease
+Congenital Hepatitis B
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+autopsy to be performed
+
+                             Jadyne Lowdermilk MD, 98944
+
+Completed by:2011-10-24 00:00:00

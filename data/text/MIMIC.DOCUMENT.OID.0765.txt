@@ -1,0 +1,338 @@
+Admission Date:  2008-08-11 00:00:00              Discharge Date:   2008-08-11 00:00:00
+
+Date of Birth: 1963-08-11 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Cassandera Dangar
+Chief Complaint:
+Vomiting and abdominal pain/distention
+
+Major Surgical or Invasive Procedure:
+2008-08-11 00:00:00- Sigmoid colectomy
+2008-08-11 00:00:00- Exploratory Laparotomy, Resection of Anastamosis,
+Hartmann's Closure with descending end colostomy
+2008-08-11 00:00:00- Right upper extremity PICC line placement
+
+
+History of Present Illness:
+Mr. Wolk is a 76 year old male with a history of CHF, HTN
+and GERD transferred to UPMCE from UPMCE Rehab on 2008-08-11 00:00:00 with
+4 days of worsening abdominal distention and feculent vomiting.
+He reportedly had not had a bowel movement or passed gas since
+2008-08-11 00:00:00.  While being transported to the hospital, he reportedly
+had a low oxygen saturation to 80%.  He denied fever, chills,
+SOB, or CP.  In the ED, imaging was concerning for large bowel
+volvulus, and the patient was admitted to the CSICU under the
+acute care service for episodes of desaturation and further
+workup of his abdominal symptoms.
+
+Past Medical History:
+-Congestive Heart Failure
+-Hypertension
+-Migraines
+-s/p right hip replacement
+-Chronic constipation
+-Cataracts
+-BPH
+-Depression/Anxiety
+-s/p hernia repair
+
+Social History:
+Resident at UPMCE Rehab
+
+Family History:
+noncontributory
+
+Physical Exam:
+Vitals: HR95 BP158/103 RR16 93% on 5L
+GEN: A&Ox3, NAD
+HEENT: No scleral icterus, oral mucous membranes dry
+CV: RR, nl S1/S2, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Grossly distended, tympanic, nontender, no rebound or
+guarding, +BS, no palpable hernias ap123 Any St.ted
+Ext: 2+ LE edema, LE warm and well perfused
+
+
+Pertinent Results:
+2008-08-11 00:00:00- CT ABD & PELVIS WITH CONTRAST:
+1. Severe colonic distention with a transition point in distal
+sigmoid colon
+concerning for colonic obstruction possibly due to a small
+segment of
+volvulus. No perforation.
+2. Severe bladder distention. Foley placement would be
+recommended.
+3. NG tube above the GE junction and should be further advanced
+for optimal positioning.
+4. Chronic changes at the right base may be due to aspiration.
+
+2008-08-11 00:00:00- PATHOLOGY EXAM OF SIGMOID COLON SPECIMEN:
+Colonic segment with submucosal edema and vascular congestion;
+otherwise within normal limits.
+No mucosal ischemic change identified.
+
+2008-08-11 00:00:00- CT ABD & PELVIS WITH CONTRAST
+1. Massive pneumoperitoneum. Rectal contrast traverses the
+sigmoid
+anastomotic sutures without evidence of leak, however, the
+sutures demonstrate an abnormal, non-circular configuration.
+Scattered foci of air are seen surrounding the anastomotic
+sutures as well as throughout the small bowel mesentery and in
+the paracolic gutters. In the setting of recent anastomosis,
+this is concerning for anastomotic leak
+2. Dilation of small bowel up to 3.2 cm. There is no clear
+transition point, this likely represents ileus.
+3. Right basilar consolidation, slightly worse than on the prior
+examination with small right pleural effusion. Given location,
+aspiration must be considered.
+4. The gastric tube loops in the stomach and terminates near the
+gastric
+cardia. Recommend repositioning before administering tube feeds
+or medication via the NG tube given possibility of aspiration.
+
+2008-08-11 00:00:00 09:45PM   PT-13.6* PTT-25.3 INR(PT)-1.2*
+2008-08-11 00:00:00 09:45PM   PLT COUNT-262
+2008-08-11 00:00:00 09:45PM   NEUTS-85.4* LYMPHS-11.2* MONOS-3.4 EOS-0.1
+BASOS-0
+2008-08-11 00:00:00 09:45PM   WBC-9.7 RBC-4.08* HGB-13.5* HCT-36.7* MCV-90
+MCH-33.1* MCHC-36.8* RDW-13.2
+2008-08-11 00:00:00 09:45PM   ALBUMIN-4.7
+2008-08-11 00:00:00 09:45PM   LIPASE-35
+2008-08-11 00:00:00 09:45PM   ALT(SGPT)-43* AST(SGOT)-53* ALK PHOS-84 TOT
+BILI-1.3
+2008-08-11 00:00:00 09:45PM   GLUCOSE-153* UREA N-16 CREAT-1.0 SODIUM-131*
+POTASSIUM-2.6* CHLORIDE-93* TOTAL CO2-26 ANION GAP-15
+2008-08-11 00:00:00 09:45PM   estGFR-Using this
+2008-08-11 00:00:00 10:01PM   LACTATE-1.5
+2008-08-11 00:00:00 01:00PM   GLUCOSE-130* UREA N-14 CREAT-0.9 SODIUM-136
+POTASSIUM-3.8 CHLORIDE-99 TOTAL CO2-26 ANION GAP-15
+2008-08-11 00:00:00 01:00PM   CALCIUM-8.8 PHOSPHATE-3.6 MAGNESIUM-2.1
+
+Brief Hospital Course:
+The patient was admitted to the acute care surgery service on
+2008-08-11 00:00:00 in the setting of four days of increasing abdominal
+distention, abdominal pain and emesis.  KUB obtained in the
+emergency dept was highly suspicious for sigmoid volvulus.  GI
+consult was obtained by ED and sigmoid was detorsed via
+decompression by flexible sigmoidoscopy.  Patient was then
+admitted to the SICU for observation as he had desaturated to
+the 80s while in the ED.  Patient did well overnight in the SICU
+and was deemed fit for transfer to the floor on hospital day#2.
+Following detorsion, the surgical team had a frank discussion
+with the patient indicating the high likelihood of recurrence
+for him given the megacolon demonstrated on KUB.  Understanding
+this the patient was taken to the operating room on hospital day
+3 (2008-08-11 00:00:00) for sigmoid colectomy. Patient tolerated the procedure
+well and was admitted to the floor (CC6).
+
+Neuro: Prior to surgery on 2008-08-11 00:00:00 an epidural was placed with good
+effect.  Epidural was removed on 2008-08-11 00:00:00.  Following this, the
+patient received Morphine IV with good effect and adequate pain
+control. When tolerating oral intake, the patient was
+transitioned to oral pain medications.  Following second
+procedure 2008-08-11 00:00:00 patient was discharged the SICU intubated/sedated.
+ As sedation was lightened, he was given intermittent dilaudid
+IV and tylenol IV with adequate pain control.  Analgesia
+transitioned to po when tolerating oral intake.
+
+Extrapyramidal symptoms secondary to psychiatric medications
+were treated with zyprexa with good effect.
+
+CV: On admission to SICU 2008-08-11 00:00:00 patient required prn doses of
+lopressor/hydralazine for BP control.  These were continued on
+the floor postoperatively.  Lasix was initially held then
+resumed when patient had achieved adequate fluid balance.
+Following second surgery 2008-08-11 00:00:00, the patient transiently required
+pressors to maintain adequate BP.  Pressors were weaned 2008-08-11 00:00:00 and
+patient was transferred back to CC6.  Vital signs were routinely
+monitored.
+
+RUE swelling noted 2008-08-11 00:00:00 prompted U/S RUE 2008-08-11 00:00:00 that showed
+basilic v thrombosis extending to axillary vein.  RUE PICC
+removed with plan to replace on contralateral side at
+rehabilitation facility. The patient was started on SC
+therapeutic lovenox on 2008-08-11 00:00:00, to bridge until therapeutic on
+coumadin, with a goal INR of 2.0-3.0.
+
+Pulmonary: Patient was appropriately extubated following surgery
+2008-08-11 00:00:00.  Pulmonary toilet including incentive spirometry and early
+ambulation were encouraged.  Remained intubated/sedated
+initially following procedure 2008-08-11 00:00:00.  Successfully extubated 2008-08-11 00:00:00
+and transferred to floor 2008-08-11 00:00:00.  Patient maintained adequate
+pulmonary function following this.  The patient was stable from
+a pulmonary standpoint; vital signs were routinely monitored.
+
+GI/GU: Patient presented as above and was made NPO/IVF/NGT
+following surgery 2008-08-11 00:00:00.  NGT was self-d/c'd on POD0-1.  Patient
+tolerated sips on POD1.  Patient was slow to resume bowel
+function and was maintained on sips.  On POD5 patient complained
+of significant abdominal distention/pain.  CT scan showed
+copious intra-abdominal free air and patient was taken back to
+operating room for exploratory laparotomy 2008-08-11 00:00:00.  Small pinhole
+leak at anastomosis was taken down and Hartmann's procedure was
+performed.  Postoperatively, patient had ileus and colostomy was
+cannulated with a red rubber catheter to aid in decompression.
+KUB's obtained were consistent with ileus.  Given failure to
+resume bowel function, TPN was started 2008-08-11 00:00:00.  Bowel function
+then returned and patient then tolerated clears 2008-08-11 00:00:00.  Diet was
+advanced to regular 2008-08-11 00:00:00 and TPN was discontinued at this time.
+He was also started on a bowel regimen to encourage bowel
+movement.
+
+Foley was removed on POD#3 with removal of epidural and patient
+failed trial of void.  Foley was replaced and patient discharged
+with foley in place to attempt trial of void conducted by PCP vs
+rehabilitation facility.  Intake and output were closely
+monitored.
+
+ID: Patient was initially given appropriate surgical prophylaxis
+for procedure 2008-08-11 00:00:00.  On takeback to OR 2008-08-11 00:00:00, patient was started
+on cipro/flagyl for bowel perforation/anastomotic leak.
+Antibiotic course to be completed at rehabilitation facility per
+discharge instructions.  Of note, patient had minor wound
+discharge requiring removal of staples and placement of wound
+vac to aid in healing process.  The patient's temperature was
+closely watched for signs of infection.
+
+Prophylaxis: The patient received subcutaneous heparin during
+this stay, and was encouraged to get up and ambulate as early as
+possible.
+
+PSYCH: Psychiatric medications were held while patient NPO.
+Resumed full regimen 2008-08-11 00:00:00 which was tolerated well.
+
+At the time of discharge on 2008-08-11 00:00:00, the patient was doing well,
+afebrile with stable vital signs, tolerating a regular diet, at
+baseline mobility, with indwelling foley for failure to void,
+and pain was well controlled.
+
+
+Medications on Admission:
+-ASA 81 mg/day
+-Miralax 17 gm twice per day
+-Neosporin
+-Artificial tears
+-Pravachol 40 mg daily
+-Zyprexa 10 mg daily
+-Seroquel 25 mg daily
+-Lasix 40 mg daily
+-Xanax 0.5 mg prn
+-Citrocel twice daily
+-Ambien 7.5 mg daily
+-Remeron 30 mg daily
+-Celexa 40 mg daily
+-Fosamax weekly
+-Maxitrol eye ointment
+-Flomax 0.4 mg daily
+-Hydrocortisone cream
+-Lactulose 20 gm daily
+-neomycin/polymixin eye drops
+-Calcium carbonate
+-Proclorperazine
+
+
+Discharge Medications:
+1. neomycin-bacitracin-polymyxin     Ointment Sig: One (1) Appl
+Ophthalmic QID (4 times a day): OU.
+2. neomycin-polymyxin-dexameth 3.5-10,000-0.1 mg/mL-unit/mL-%
+Drops, Suspension Sig: One (1) Drop Ophthalmic Q4H (every 4
+hours): OU.
+3. zolpidem 5 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).
+4. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+5. quetiapine 25 mg Tablet Sig: One (1) Tablet PO Once Daily at
+6 PM.
+6. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)
+as needed for Pain.
+7. citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+8. mirtazapine 15 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+9. olanzapine 2.5 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+10. metronidazole in NaCl (iso-os) 500 mg/100 mL Piggyback Sig:
+One (1) 500 mg Intravenous every eight (8) hours for 3 days.
+11. Cipro I.V. 200 mg/20 mL Solution Sig: 500 mg  Intravenous
+twice a day for 3 days.
+12. Lovenox 60 mg/0.6 mL Syringe Sig: One (1) 50 mg Subcutaneous
+twice a day: Until therapeutic on coumadin, goal INR 2.0-3.0.
+13. Coumadin 3 mg Tablet Sig: 1-2 Tablets PO once a day: Adjust
+dose daily based on INR goal 2.0-3.0.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - LTC
+
+Discharge Diagnosis:
+Sigmoid volvulus, megacolon
+Anastomotic leak from prior colon resection
+
+
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+Mental Status: Clear and coherent.
+
+
+Discharge Instructions:
+ACTIVITY:
+Do not do any heavy lifting (more than 20-25 lbs) for 6 weeks.
+Do not drive while taking pain medicine.
+You may start some light exercise when you feel comfortable.
+You will need to stay out of bathtubs or swimming pools for a
+time while your incision is healing. Ask your Born Wolk you
+can resume tub baths and swimming.
+
+HOW YOU 2008-08-11 00:00:00 FEEL:
+You may feel weak or "washed out" for 6 weeks. You might want to
+nap often. Simple tasks may exhaust you.
+You may have a sore throat becasue of a tube that was in your
+throat during surgery.
+You might have trouble concentrating or difficulty sleeping. You
+might feel somewhat depressed.
+You could have a poor a123 Any St.e for a while. Food may seem
+unappealing.
+All these feelings and reactions are normal and should go away
+in a short time. If they do not, tell your 2008-08-11 00:00:00.
+
+YOUR INCISION:
+You have a wound vacuum on your surgical incision. The
+healthcare providers at the rehab facility will take care of
+this for you.
+
+PAIN MANAGEMENT:
+It is normal to feel some discomfort/pain following abdominal
+surgery. Your pain should get better day by day. If you find the
+pain is getting worse instead of better, please contact your
+Born Wolk.
+
+DANGER SIGNS:
+Please call your Born Wolk if you develop:
+Worsening abdominal Wolk
+Sharp or severe pain that lasts several hours
+Temperature of 101 or greater
+Vomiting
+Redness around the incision that is spreading
+Increased swelling around the incision
+Excessive bruising around the incision
+Cloudy fluid coming from the wound
+Bright red blood or foul smelling discharge coming from the
+wound
+An increase in drainage from the wound
+
+Followup Instructions:
+Please follow up in the Acute Care Service clinic in 2008-08-11 00:00:00 weeks.
+Call test@mail.com upon discharge to schedule an appointment.
+
+
+
+Completed by:2008-08-11 00:00:00

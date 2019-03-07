@@ -1,0 +1,232 @@
+Admission Date:  2008-08-09 00:00:00              Discharge Date:   2008-08-09 00:00:00
+
+Date of Birth: 1943-08-08 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Iodine; Iodine Containing
+
+Attending:Jyshawn Podlesny
+Chief Complaint:
+Atrial fibrillation
+
+Major Surgical or Invasive Procedure:
+Pulmonary vein isolation
+Pericardiocentesis
+S/p pericardial drain placement.
+
+
+History of Present Illness:
+Mr. Sumida is a pleasant 54 yo gentleman with h/o longstanding
+atrial fibrillation and single kidney who presents to the CCU
+after becoming hypotensive during pulmonary vein isolation
+procedure.
+.
+Mr. Sumida atrial fibrillation had been well-controlled on
+flecainide until recently, when he began experiencing episodes
+of symptomatic tachycardia despite taking his medication
+faithfully.  During his pulmonary vein isolation procedure
+today, his blood pressure dropped to 68/55.  He was given IV
+fluids with increase in BP to 94/71, and his heparin gtt was
+reversed with protamine 25mg.  Stat echocardiogram revealed
+pericardial effusion, and patient underwent urgent
+pericardiocentesis with removal of 400cc of serous fluid from
+the pericardial space.  BP at end of procedure was 111/64, and
+he was transferred to the ICU intubated and with his pericardial
+drain in place.  He continued to have good urine output
+throughout the event.
+.
+Shortly after his transfer to the ICU, he was successfully
+extubated.  He reports some discomfort in his chest where the
+drain is in place, worse with taking a deep breath.  He is
+otherwise comfortable.
+.
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is notable for absence of dyspnea on
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+syncope or presyncope.
+
+Past Medical History:
+Atrial fibrillation not on coumadin
+Borderline HTN
+Solitary left kidney due to surgical complication as a child
+Atonic bladder--performs self-cath QID; on cefuroxime for PPx
+h/o bladder surgery in 2008-08-09 00:00:00
+s/p TURP 2008-08-09 00:00:00
+s/p inguinal hernia repair
+
+
+Social History:
+Social history is significant for the absence of current tobacco
+use. There is no history of alcohol abuse; he drinks 2-3 glasses
+of wine weekly.  He lives with his wife and 2 children and works
+as a writer.
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.  Mother had Elisaul Sumida sinus syndrome; father had
+Elisaul Sumida.
+
+Physical Exam:
+VS: T 97.8, BP 99/57, HR 64, RR 13, O2 99% on 2L (s/p
+extubation)
+Gen: Middle aged male in NAD, resp or otherwise. Oriented x3.
+Mood, affect appropriate. Pleasant but somewhat anxious.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with JVP of 5 cm.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No S4, no S3.
+Chest: Pericardial drain in place; no discharge or erythema.
+Draining small amount of serosanguinous fluid.  No chest wall
+deformities, scoliosis or kyphosis. Resp were unlabored, no
+accessory muscle use. No crackles, wheeze, rhonchi.
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+
+Pertinent Results:
+2008-08-09 00:00:00 11:15AM
+WBC-6.8 RBC-4.13* HGB-12.6*# HCT-36.2*# MCV-88 MCH-30.5
+MCHC-34.7 RDW-12.8
+GLUCOSE-109* UREA N-21* CREAT-1.5* SODIUM-143 POTASSIUM-4.4
+CHLORIDE-110* TOTAL CO2-26 ANION GAP-11
+
+2008-08-09 00:00:00 11:30AM PERICARDIAL FLUID
+WBC-667* RBC-[**Numeric Identifier 5821**]* POLYS-50* LYMPHS-17* MONOS-0 MACROPHAG-33*
+TOT PROT-0.3 GLUCOSE-160 LD(LDH)-85 AMYLASE-LESS THAN
+Albumin-LESS THAN
+Pericardial fluid cytology: NEGATIVE FOR MALIGNANT CELLS.
+Mesothelial cells, histiocytes and inflammatory cells.
+
+2008-08-09 00:00:00   Cardiology ECHO
+Overall left ventricular systolic function is normal (LVEF>55%).
+with normal free wall contractility. There is no pericardial
+effusion.  Compared with the prior study (images reviewed) of
+2008-08-09 00:00:00, there is no significant change.
+
+Brief Hospital Course:
+This is a 54 year old gentleman with atrial fibrillation who
+presented for a pulmonary vein isolation procedure, became
+hypotensive during the procedure and was noted to have a
+pericardial effusion, prompting pericardial tap & placement of a
+pigtail catheter for drainage of the effusion.  Pt was
+transferred to the CCU for further monitoring and was
+normotensive on arrival.
+.
+Pericardial Effusion: Etiology of the effussion is unclear,
+possibly related to a recent viral illness/pericarditis.  The
+initial drainage was sent for cytology, which demonstrated no
+malignant cells.  Effusion was serous and found to have a low
+HCT of 1.3, suggesting this was not due to perforation.
+Overnight, in the ICU, patient produced approximately 250cc
+serosanguinous drainage.  TTE the morning after admission showed
+no pericardial effusion.  Once resolution of pericardial
+effusion was verified, pigtail catheter was removed for
+discharge.  Pt was hemodynamically stable and was felt to be
+stable for discharge.  Pt was scheduled for follow up ECHO 2
+days following discharge and cardiology follow up with Dr.
+Sumida.
+.
+Atrial fibrillation: Pt remained in sinus rhythm after the
+pulmonary vein isolation procedure and there were no episodes of
+Afib noted on telemetry. Flecainide dosage was increased to
+100mg UPMCE and pt was continued on Aspirin 325mg and Verapamil
+80mg UPMCE per outpt regimen.
+.
+Hypotension: Hypotension was likely multifactorial, including
+anesthesia, vagal nerve stimulation & pericardial effusion.  Pt
+was not tachycardic & did not require pressors.  Blood pressure
+normalized after pericardial tap & pt remained normo to
+hypertensive through the rest of his hospital course.  Verapamil
+was initially held because of hypotension during the pulmonary
+vein isolation, but as his blood pressure remained stable on the
+floor, verapamil 80mg UPMCE was restarted on discharge.
+
+Medications on Admission:
+1. Aspirin 325mg QD
+2. Pantoprazole 40mg QD
+3. Cefuroxime 250mg QD
+4. Flecainide 75mg UPMCE
+5. Verapamil 80mg UPMCE
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. Cefuroxime Axetil 250 mg Tablet Sig: One (1) tab PO at
+bedtime.
+4. Flecainide 100 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+5. Verapamil 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+1. Pericardial effusion
+2. Atrial fibrillation
+
+Secondary
+1. Borderline hypertension
+2. Solitary kidney secondary to childhood surgical complication
+3. Atonic bladder
+4. S/p bladder surgery (2008-08-09 00:00:00)
+5. S/p TURP 2008-08-09 00:00:00
+6. S/p inguinal hernia repair
+7. Trigger finger
+
+
+Discharge Condition:
+Hemodynamically stable for discharge with appropriate follow-up.
+
+
+
+Discharge Instructions:
+You presented to UPMCE for elective pulmonary vein isolation to
+treat your atrial fibrillation.  The procedure was complicated
+by a drop in your blood pressure, for which you were treated.
+An echocardiogram done at the time showed fluid around your
+heart, which was drained.  You were admitted to the CCU for
+observation and further draining.  The fluid has been sent off
+for further evaluation, and you are stable for discharge with
+appropriate follow-up.
+
+The following medication was changed:
+Flecainide was increased to 100 mg 2x/day for atrial
+fibrillation.
+Please take all other home medications as prescribed.
+
+If you experience any chest pain, chest pressure with jaw or arm
+pain, shortness of breath, dizziness, weakness, or any other
+concerning symptoms, please call 911 or come to the ED.
+
+Followup Instructions:
+Please schedule a follow-up appointment with your primary care
+physician in the next 1-2 weeks.
+
+The following appointments have already been scheduled:
+- Echocardiogram: on 2008-08-09 00:00:00 at 9am. UPMCE 3 (UPMCE).
+Please call test@mail.com with questions.
+- Cardiology: Dr. Jyshawn Podlesny on 2008-08-09 00:00:00 at 1pm.  Please call
+test@mail.com with questions.  Please follow up on the lab
+results from your pericardial effusion.
+
+
+

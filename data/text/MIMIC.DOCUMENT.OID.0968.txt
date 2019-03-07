@@ -1,0 +1,445 @@
+Admission Date:  2007-04-02 00:00:00              Discharge Date:   2007-04-02 00:00:00
+
+Date of Birth: 1995-03-27 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lipitor
+
+Attending:Kassee Gooderham
+Chief Complaint:
+transferred from OSH after ventricular fibrillation cardiac
+arrest
+
+Major Surgical or Invasive Procedure:
+Biventricular Implantable Cardioverter Defibrilator placement
+Electrophysiology Study
+Trans-esophageal Echocardiogram
+
+
+History of Present Illness:
+Mr. Davignon is a 56 y/o AA M w/h/o NICMP (EF 30-35%), HTN,
+dyslipidemia, old LBBB who was initially admitted to UPMCE hospital 2007-04-02 00:00:00 for acute bacterial meningitis.
+Blood cultures showed Streptococcus aglacticae, CSF cultures
+were negative, though protein and glucose levels were c/w
+meningitis. He was initially started ABx w/
+vanc/CTX/Amp/Acyclovir was eventually changed to Ampicillin with
+a tentative goal of 2 weeks of therapy.
+.
+He was clinically improving on Rx. However, on 2007-04-02 00:00:00 at
+about 9:05 am he had a VF arrest for 3-5min (?) while sitting in
+bed, for which he was quickly defibrillated back to SR, received
+amiodarone 300mg bolus followed by amiodarone drip. A triple
+lumen catheter placed in the right femoral artery and he was
+transferred to the ICU for further management. His blood
+pressure stabilized with IV fluids. He was otherwise awake,
+alert with no further symptoms.
+.
+He was transferred to UPMCE for futhter management of his VF
+arrest. On arrival to CCU at UPMCE, the patient was fully awake,
+alert and oriented, afebrile w/ stable vital signs. He denies
+any complaints and does not recall the event. Pt confirms above
+described history. He denies any history of PND, orthopnea,
+exertional dyspnea, cough, edema. He has not been symptomatic
+with regards to his heart failure.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, joint pains, cough, hemoptysis, black stools or
+red stools. All of the other review of systems were negative.
+
+Past Medical History:
+- HTN
+- Hyperlipidemia
+- Anemia
+- Idopathic dilated cardiomyopathy
+- Left bundle branch block
+
+Social History:
+Mr. Davignon is an athletics director. No alcohol, tobacco or
+illicit drug use in the past.
+
+
+Family History:
+Mother and Father died in their 40s by some sort of cardiac
+death.
+
+
+Physical Exam:
+Admission-
+VS: T=98.7 BP=149/67 HR=79 RR=20 O2 sat=99% RA
+GENERAL: NAD. A+Ox3. Comfortable, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERLA, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. MMM. No
+xanthalesma.
+NECK: Supple with JVP of 6cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. bibasilar crackels
+ap123 Any St.ted. ABDOMEN: Soft, NTND. No HSM or tenderness. Abd
+aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+NEURO: AAOx3, CNII-XII intact, 5/5 strength biceps, triceps,
+wrist, knee/hip flexors/extensors, 2+ reflexes biceps,
+brachioradialis, patellar, ankle.
+PULSES:
+Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+.
+Discharge:
+Vitals: 99.9, 98.5 HR 68-75 RR 16-18 Sats 100% on RA BP
+110-135/60-80
+I/O;
+24 hours: 1880/2175
+8 Hours: 100/750
+FS: 185/190/138
+GENERAL: NAD, sitting at the side of bed.
+HEENT: Sclera anicteric, moist mucus membranes
+NECK: Supple with no JVD
+CARDIAC: RRR S1 S2, no S3 or S4, no murmur
+LUNGS: Unlabored work of breathing, no accessory muscle use, no
+cough, lungs CTAB, no wheezes, rhonchi, or crackles
+ABDOMEN: Soft, NTND, +BS x 4 quadrants, no HSM, no CVA
+tenderness
+EXTREMITIES: Warm, no edema, radial, DP, and PT pulses 2+
+bilaterally
+SKIN: ICD dressing to left anterior chest C/D/I. Right brachial
+PICC and left hand PIV without erythema or inflammation.
+
+
+Pertinent Results:
+Admission-
+2007-04-02 00:00:00 12:15PM BLOOD WBC-11.8* RBC-2.90* Hgb-8.4* Hct-27.7*
+MCV-95 MCH-29.0 MCHC-30.4* RDW-13.2 Plt Ct-337
+2007-04-02 00:00:00 12:15PM BLOOD Neuts-84.5* Lymphs-12.2* Monos-2.7
+Eos-0.5 Baso-0.2
+2007-04-02 00:00:00 12:15PM BLOOD PT-13.3* PTT-35.1 INR(PT)-1.2*
+2007-04-02 00:00:00 05:45AM BLOOD Ret Aut-3.0
+2007-04-02 00:00:00 12:15PM BLOOD Glucose-123* UreaN-17 Creat-1.0 Na-136
+K-4.1 Cl-103 HCO3-24 AnGap-13
+2007-04-02 00:00:00 12:15PM BLOOD ALT-220* AST-102* AlkPhos-249*
+TotBili-0.6
+2007-04-02 00:00:00 06:34PM BLOOD CK-MB-2 cTropnT-<0.01
+2007-04-02 00:00:00 12:15PM BLOOD Albumin-2.9* Calcium-8.2* Phos-2.9 Mg-2.1
+Iron-29*
+2007-04-02 00:00:00 12:15PM BLOOD calTIBC-173* Ferritn-1350* TRF-133*
+2007-04-02 00:00:00 05:45AM BLOOD Hapto-519*
+2007-04-02 00:00:00 05:38AM BLOOD Ferritn-711*
+2007-04-02 00:00:00 04:21AM BLOOD IgG-1567 IgA-227 IgM-71
+2007-04-02 00:00:00 03:40PM BLOOD HIV Ab-NEGATIVE
+.
+Studies-
+-Portable TTE (2007-04-02 00:00:00)
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is
+moderately dilated. Overall left ventricular systolic function
+is moderately depressed (LVEF= 30 %) with inferior, septal,
+anterior and apical hypokinesis. Basal to mid lateral systolic
+function appears preserved. No masses or thrombi are seen in the
+left ventricle. There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic root is mildly dilated at the sinus level. The ascending
+aorta is mildly dilated. The aortic arch is mildly dilated. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic stenosis or aortic
+regurgitation. The mitral valve appears structurally normal with
+trivial mitral regurgitation. There is no mitral valve prolapse.
+The pulmonary artery systolic pressure could not be determined.
+There is a very small pericardial effusion. There are no
+echocardiographic signs of tamponade.
+
+-Portable TEE (2007-04-02 00:00:00)
+No atrial septal defect is seen by 2D or color Doppler. There is
+moderate regional left ventricular systolic dysfunction with
+hypo to akinesis of the anterior, septal, and inferior walls.
+Right ventricular chamber size and free wall motion are normal.
+The ascending, transverse and descending thoracic aorta are
+normal in diameter and free of atherosclerotic plaque to 35 cm
+from the incisors. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion. No masses or
+vegetations are seen on the aortic valve. No aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. No mass or vegetation
+is seen on the mitral valve. No vegetation/mass is seen on the
+pulmonic valve. There is a thin, mobile echodensity within the
+right ventricle which may represent a torn tricuspid chord and
+is much less concerning for a vegetation [clip [**Clip Number (Radiology) **]]. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: No pathologic valvular regurgitation or vegetations.
+Regional left ventricular systolic dysfunction as described
+above.
+
+-MR Donelda Davignon W & W/O CONTRAST (2007-04-02 00:00:00)
+1. Subtle signal changes at the endplate of L4-5 and enhancement
+along the posterior margin of L4-5 disc as well as in the
+paraspinal region are suspicious for early changes of discitis.
+There is no epidural abscess seen.  Small protrusion in the left
+neural foramen at L4-5 is identified, which could be also
+secondary to inflammatory changes. This area demonstrates
+enhancement.
+2. Heterogeneous bone marrow could be related to marrow
+hyperplasia from anemia, but clinical correlation is also
+recommended to exclude marrow infiltrative process.
+
+-Cardiac MR (2007-04-02 00:00:00):  1. Severely increased left ventricular
+cavity size with severe hypokinesis to akinesis of the left
+ventricular walls except for the lateral wall. The LVEF was
+mildly decreased at 40%. No CMR evidence of prior myocardial
+scarring/infarction.
+2. Normal right ventricular cavity size with normal global and
+regional systolic function. The RVEF was normal at 54%.
+3. Severely increased left ventricular mass index with maximal
+basal anteroseptal wall thickness of 21 mm.
+4. Mild aortic regurgitation. Trace mitral regurgitation. Mild
+pulmonic regurgitation. No significant tricuspid regurgitation.
+5. The indexed diameters of the ascending and descending
+thoracic aorta were normal. The indexed diameter of the main
+pulmonary artery was normal.
+6. Normal biatrial size.
+7. Small pericardial effusion.
+8. A note is made of bilateral pleural effusions,
+small-to-moderate on the left and small on the right. There is a
+probable cyst in the interpolar region of the right kidney,
+incompletely visualized. Prior outside imaging results may be
+useful for further elucidation if available. If prior imaging
+results not available, a renal ultrasound is suggested, if
+clinically indicated.
+9. Unusual appearance of the stomach in the provided images,
+which might be artifactual and is unlikely to be of clinical
+consequence (as described
+above). Correlate with prior abdominal imaging if available.
+.
+2007-04-02 00:00:00 CXR:
+PA and lateral upright chest radiographs were reviewed in
+comparison to prior study obtained on 2007-04-02 00:00:00. The
+position of the pacemaker is unremarkable within the limitations
+of this study technique. The left PICC line tip is at the
+cavoatrial junction. There is a small-to-moderate amount of
+pleural effusion, most likely on the left, corresponding to the
+fluid seen on the MRI of the chest obtained on 2007-04-02 00:00:00.
+Minimalm amount of pleural fluid seen on MRI on the right is
+most likely below the resolution of the chest radiograph.
+.
+Discharge labs:
+2007-04-02 00:00:00 05:05AM BLOOD WBC-8.3 RBC-2.73* Hgb-7.9* Hct-26.1*
+MCV-96 MCH-28.7 MCHC-30.1* RDW-14.3 Plt Ct-245
+2007-04-02 00:00:00 05:20AM BLOOD PT-13.7* PTT-33.6 INR(PT)-1.3*
+2007-04-02 00:00:00 05:05AM BLOOD Glucose-121* UreaN-16 Creat-0.9 Na-134
+K-4.1 Cl-102 HCO3-27 AnGap-9
+2007-04-02 00:00:00 05:05AM BLOOD ALT-61* AST-32 LD(LDH)-248 AlkPhos-163*
+2007-04-02 00:00:00 05:20AM BLOOD Calcium-8.9 Phos-3.1 Mg-2.0
+2007-04-02 00:00:00 06:00AM BLOOD VitB12-944* Folate-14.1
+2007-04-02 00:00:00 06:00AM BLOOD TSH-2.7
+2007-04-02 00:00:00 06:10AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE
+2007-04-02 00:00:00 08:30AM BLOOD Kassee Gooderham-NEGATIVE
+2007-04-02 00:00:00 06:00AM BLOOD CRP-44.6*
+2007-04-02 00:00:00 04:21AM BLOOD IgG-1567 IgA-227 IgM-71
+2007-04-02 00:00:00 03:40PM BLOOD HIV Ab-NEGATIVE
+2007-04-02 00:00:00 06:10AM BLOOD HCV Ab-NEGATIVE
+
+Brief Hospital Course:
+SUMMARY:  56 year old man with non-ischemic cardiomyopathy,
+LBBB, initially admitted to UPMCE hospital 2007-04-02 00:00:00 for
+acute bacterial meningitis, transferred to UPMCE after VFib
+arrest, s/p ICD placement on 2007-04-02 00:00:00.
+.
+# Ventricular fibrillation:
+The patient was transferred to UPMCE following an OSH Vfib
+arrest while being treated for GBS meningitis.  He was initially
+loaded on amiodarone, and this medication was subsequently
+discontinued.  It was felt that the most likely etiology of his
+arrythmia was LBB re-entrant tachycardia, though no arrythmia
+was induced while in the electrophysiology lab on 2007-04-02 00:00:00.
+Overnight on 2007-04-02 00:00:00, the patient developed hemodynamically
+stable supraventricular tachycardia in the setting of acute
+urinary retention.  The patient underwent a cardiac MRI and ICD
+placement on 2007-04-02 00:00:00.
+.
+# Bacteremia:
+Blood culture from OSH was positive for Streptococcus aglacticae
+which was sensitive to Ampicillin and ceftriaxone.  Suspected
+source was bacterial meningitis given results of a lumbar
+puncture.  ID was consulted and felt that there was no
+contraindication to ICD placement given that blood cultures had
+been negative for several days.  An MRI of the spine revealed
+the possibiliy of discitis, and ID recommended a 6 week course
+of ceftriaxone, to complete on 2007-04-02 00:00:00 (2g q12 until 2007-04-02 00:00:00,
+then 1g q24 until 2007-04-02 00:00:00).
+.
+# Nonischemic Cardiomyopathy/Chronic systolic congestive heart
+failure.
+The etiology of his cardiomyopathy remains unclear.  The
+patient's CHF was felt to be stable during his hospital course.
+He did require some gentle diuresis but was otherwise euvolemic.
+ He was continued on his ACE-I and beta-blocker.  Given his
+depressed LVEF, Spironolactone should be considered as an
+otpatient.
+.
+# HTN:   Continued on carvedilol and lisinopril. The patient did
+have some orthostatic hypotension, that was felt secondary to
+deconditioning.
+.
+# HLD:  The patient's simvastatin was initially held given
+transaminitis. This medication was restarted, and his LFTs
+continued to normalize.
+.
+# Anemia: Unclear etiology at this time.  HIV negative, TSH was
+within normal limits.  His hematocrit remained stable and there
+was no suggestion of acute blood loss.  Will need continued
+work-up/follow-up as an outpatient.  And age-appropriate
+malignancy screening should be considered.
+.
+# Transaminitis:  Most likely secondary to hypotension (shock
+liver) during cardiac arrest.  Resolved over time without
+intervention.  Simvastatin was initially held, and LFTs
+continued to normalize after this medication was restarted.
+Other potential etioliges included drug induced transaminitis
+from amiodarone.  Kassee Gooderham and HBV, HCV serologies were negative.
+.
+# Hyperglycemia:  The patient did have some hyperglycemia early
+in the hospital course. Hb A1c was 5.6% suggesting this was most
+likely secondary to his acute illness
+.
+# Lower-back pain:  Ongoing since pre-hospitalization, possibly
+exacerbated by discitis, well-controlled with prn Oxycodone and
+Acetaminophen
+.
+# Buttock ulcerations:  At home, the patient was treated with
+hot packs, and developed several ulcerations on his buttock.
+Subsequent to transfer, the patient developed 2007-04-02 00:00:00 additional
+small ulcerations.  Wound care was consulted, and recommended
+routine wound care. These were not felt to be pressure ulcers,
+and the exact etiology is unclear.  These need to be followed as
+an outpatient, and if he continues to develop new lesions,
+further work-up may be indicated.
+.
+==================================
+Transitional issues-
+-Consider Spironolactone initiation given depressed LVEF.
+-LFTs, CBC with diff, Chem-7 and ESR and fax to UPMCE clinic noted
+on page 1.
+-Pull PICC line after com123 Any St.n of antibiotic course on
+2007-04-02 00:00:00
+-Continue work-up / follow-up of stable anemia, consider
+age-appropriate malignancy screening.
+-Renal cyst noted on cardiac MRI, further work-up may be
+indicated
+-Monitor buttock ulcerations for improvement, consider work-up
+if more lesions develop
+
+Medications on Admission:
+Home medications:
+- Lisinopril 5mg QD PO
+- Carvedilol 6.25mg UPMCE PO
+- Simvastatin 20mg QD PO
+
+Discharge Medications:
+1. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+4. ceftriaxone in dextrose,iso-os 2 gram/50 mL Piggyback Sig:
+One (1) 2 grams Intravenous once a day for 5 weeks: last day is
+2007-04-02 00:00:00. .
+5. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+6. ceftriaxone in dextrose,iso-os 2 gram/50 mL Piggyback Sig:
+One (1) bag Intravenous Q24H (every 24 hours) for 5 weeks: Last
+Day 2007-04-02 00:00:00.
+7. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE
+
+Discharge Diagnosis:
+Bacterial Meningitis (culture positive for Strep agalacticae)
+Ventricular Fibrillation
+Non-ischemic Cardiac Myopathy
+Hypertension
+Dyslipidemia
+Anemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you at UPMCE. You originally went to UPMCE Hospital
+on 2007-04-02 00:00:00 with a high fever and diagnosed with bacterial
+meningitis. You were slowly getting better when you experienced
+an episode of cardiac arrest on 2007-04-02 00:00:00 due to an irregular heart
+rhythm called ventricular fibrilation. You were stablized and
+then transferred to UPMCE on
+2007-04-02 00:00:00 for further management of this irregular heart rhythm.
+Several different studies were done on your heart here at the
+hospital, and it was decided that a pacemaker with a
+defibrilator should be placed to help keep your heart beating at
+a normal rate and rhythm. This device was placed on 2007-04-02 00:00:00 and
+has been functioning appropriately. Your heart is a bit weaker
+than before your admission, but the medications will help. You
+are now doing much better and you are ready to transfer to
+rehab. You will go to a UPMCE rehab facility for more
+physical therapy so that you are feeling stronger when you get
+home. Some of your home medications were changed to better help
+your heart and control your blood pressure. The Carvedilol has
+been increased to 25mg twice a day and the Lisinopril was also
+increased to 10 mg once a day. Finally, you will need to
+continue your IV antibiotic, Ceftriaxone, so that you receive a
+total of six weeks of treatment for the meningitis.
+Please weigh yourself at the same time each morning and call Dr.
+Davignon if your weight increases by 3 pounds in one day or increases
+by 5 pounds in three days.
+
+
+Followup Instructions:
+.
+Dr Davignon Donelda Davignon
+Department: Cardiology
+Specialty: Genetics
+Address:
+UPMCE Clinical Center
+UPMCE
+123 Any St. 123 Any St.
+UPMCE
+Phone: test@mail.com
+Please make an appt with your brother after you are home.
+.
+Department: CARDIAC SERVICES
+When: TUESDAY 2007-04-02 00:00:00 at 2:30 PM
+With:  DEVICE CLINIC test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: INFECTIOUS DISEASE
+When: TUESDAY 2007-04-02 00:00:00 at 11:15 AM
+With: Donelda Davignon, MD test@mail.com
+Building: LM UPMCE Bldg (Davignon) Basement
+Campus: WEST     Best Parking: UPMCE Garage
+
+Department: INFECTIOUS DISEASE
+When: TUESDAY 2007-04-02 00:00:00 at 10:30 AM
+With: Donelda Davignon, MD test@mail.com
+Building: LM UPMCE Bldg (Davignon) Basement
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+
+Completed by:2007-04-02 00:00:00

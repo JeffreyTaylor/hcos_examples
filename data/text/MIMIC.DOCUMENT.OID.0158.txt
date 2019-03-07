@@ -1,0 +1,193 @@
+Admission Date:  2010-08-07 00:00:00              Discharge Date:   2010-08-07 00:00:00
+
+Date of Birth: 1963-08-07 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Codeine / Compazine / Vicodin
+
+Attending:Emarri Komada
+Chief Complaint:
+s/p fall
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+50 y.o. F w/ h/o sucharachnoid cyst & psychiatric history who
+presented s/p fall down a flight of stairs. She has a
+questionable seizure history and she is also on multiple
+psychiatric medications at home. In the ED, she had altered
+mental status and was intubated for airway protection.
+
+Past Medical History:
+Chronic hemorrhoids, Hematuria, Anemia of chronic disease, GERD,
+Arachnoid cyst fenestration w/ right craniotomy  2010-08-07 00:00:00,
+Seizures secondary to above, Glaucoma, Asthma
+
+PSHx: subarachnoid cyst excision (2010-08-07 00:00:00), right cystoperitoneal
+shunt (2010-08-07 00:00:00)
+
+
+Social History:
+negative for tobacco or EtOH
+
+Family History:
+NC
+
+Physical Exam:
+ICU physical exam:
+
+Gen: somnolent, minimally responsive
+CV: tachycardic, regular rhythm
+Pulm: CTAB
+Abd: soft, nontender, nondistended
+Ext: WWP, no edema
+
+Exam on discharge:
+
+VS: 98.3 73 126/65 20 94%RA
+GEN: A&OX3, NAD
+CHEST: CTAB, RRR
+ABD: Soft, nontender, nondistended
+EXTR: L thigh with lg echymosis, soft. LE warm, pink and well
+perfused. No edema. +distal pulses.
+
+Pertinent Results:
+2010-08-07 00:00:00 12:45AM BLOOD WBC-11.1* RBC-4.17* Hgb-12.3 Hct-36.7
+MCV-88 MCH-29.6 MCHC-33.6 RDW-13.1 Plt Ct-251
+2010-08-07 00:00:00 06:21AM BLOOD WBC-7.9 RBC-4.01* Hgb-12.0 Hct-35.9*
+MCV-90 MCH-29.9 MCHC-33.3 RDW-13.2 Plt Ct-221
+2010-08-07 00:00:00 12:45AM BLOOD Glucose-117* UreaN-11 Creat-0.7 Na-138
+K-3.3 Cl-99 HCO3-27 AnGap-15
+2010-08-07 00:00:00 06:21AM BLOOD Glucose-108* UreaN-8 Creat-0.7 Na-141
+K-4.3 Cl-103 HCO3-28 AnGap-14
+2010-08-07 00:00:00 02:51AM BLOOD ALT-37 AST-32 AlkPhos-65 TotBili-0.3
+2010-08-07 00:00:00 12:45AM BLOOD Valproa-30*
+2010-08-07 00:00:00 06:21AM BLOOD Valproa-41*
+
+CT Torso 2010-08-07 00:00:00:
+Impression: 1.  Endotracheal tube terminates in the bronchus
+intermedius, leading to left right upper lobe atelectasis. Left
+lower lobe atelectasis is also present. 2.  Fatty infiltration
+of the liver
+
+CT C-spine 2010-08-07 00:00:00:
+1.  No fracture or malalignment. 2.  Multilevel degenerative
+disease. 3.  Small right upper lobe consolidation and
+ground-glass opacities in the
+imaged left lung are better assessed on the concurrent CT torso.
+
+
+CT Head 2010-08-07 00:00:00: Stable appearance of the intracranial
+structures compared to 2010-08-07 00:00:00, without evidence of acute
+intracranial injuries.
+
+
+Brief Hospital Course:
+Ms. Bano was admitted to the TSICU after her fall. She was
+intubated overnight and successfully extubated on HD 1. Her O2
+sats remained stable and she was breathing on her own without
+difficulty. She was very somnolent and remained obtunded on HD
+1. Neurology was consulted due to her history of questional
+seizures but they did not feel that her fall was related to her
+seizures. Psychiatry was consulted given her multiple
+psychiatric medications and the possibility of an overdose prior
+to the fall. The patient denied current suicidal ideation and
+psych determined there to be no contraindication to discharge
+home once medically cleared. Her mental status improved slightly
+throughout the day and when awakened, she would respond
+appropriately. She was put back to a regular diet. She was
+transferred to the floor on HD 2 in stable condition. She
+remained slightly lethargic and her depakote dosing was changed
+to 500 mg UPMCE from 250mg am 1000mg qhs. She become more alert as
+time progressed and by HD 4 she was alert and oriented X 3 to
+her baseline mental status.
+
+Occupational therapy was consulted for cognitive evaluation who
+recommended outpatient cogntive neurology follow up after
+discharge. The patient was given this information.
+
+On 2010-08-07 00:00:00 (HD 4) she is alert and oriented at her baseline mental
+status. She denies suicidal ideation and has been cleared by
+psych with plans for outpatient follow up with her primary
+psychiatrist. Her vital signs and respiratory status are stable.
+She is tolerating a regular diet. She is out of bed ambulating
+independently. She is being discharged home with PCP and
+Jaqlyn Bano neurology follow up.
+
+Medications on Admission:
+olanzapine 5mg qam, 15mg qpm
+divalproex 250mg am 1000mg qhs
+aripiprazole 10 mg daily
+ativan 0.5mg daily prn
+trazodone 100mg qhs
+omeprazole 20mg before first meal
+clobetasol 0.05% cream prn eczema flare
+vit D 50, 000unit cap- 1cab weekly
+
+
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain, fever
+2. Divalproex (DELayed Release) 500 mg PO BID
+RX *divalproex 500 mg 1 Tablet(s) by mouth twice a day Disp #*60
+Tablet Refills:*1
+3. Fluoxetine 40 mg PO DAILY
+4. Omeprazole 20 mg PO DAILY
+5. Ferrous Sulfate 325 mg PO DAILY
+6. Multivitamins 1 TAB PO DAILY
+7. Vitamin D 800 UNIT PO DAILY
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+s/p Fall
+Concussion
+
+
+Discharge Condition:
+Alert with intermittent drowsiness
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to the hospital after a fall. You underwent CT
+scan imaging and no acute injuries were identified. You were
+seen by Psychiatry and Neurology during your hospital stay and
+some adjustments to your Depakote were made.
+
+You were also evaluated by the Occupational therapists for
+assessing your mental status and you have symptoms consistent
+with a mild concussion. It is being recommended that you follow
+up with the Cognitive Neurologist (Dr. Emarri Komada) in the
+next couple of weeks for ongoing evaluation of your memory and
+over all mental status.
+
+If you expereince any increased headaches, dizziness, changes in
+your vision, nausea, vomiting and/or any other concerning
+symptoms please return to the Emergency room for further
+evaluation.
+
+Followup Instructions:
+Department: Primary Care
+Name: Dr. Emarri Komada
+When: Wednesday 2010-08-07 00:00:00 at 11:40 AM
+Location: UPMCE
+Address: 291 INDEPENDENCE DR, 123 Any St.,[**Numeric Identifier 1681**]
+Phone: test@mail.com
+
+Department: UPMCE - Cognitive Neurology Unit
+Name: Dr. Emarri Komada
+When: Dr. Bano office is working on a follow up
+appointment within a month to follow up on your head injury. You
+will be called with the appointment date and time. If you have
+not heard from the office or have questions please call the
+office number listed below.
+Phone: (test@mail.com
+
+
+
+Completed by:2010-08-07 00:00:00

@@ -1,0 +1,209 @@
+Admission Date:  2009-05-03 00:00:00              Discharge Date:   2009-05-03 00:00:00
+
+Date of Birth: 1992-09-08 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:Jabreena Butash
+Chief Complaint:
+post infarction angina
+
+Major Surgical or Invasive Procedure:
+coronary artery bypass grafts x
+4(LIMA-LAD,SVG-Diag,SVG-OM,SVG-PDA)
+
+
+History of Present Illness:
+This 60 year old white male developed chest pain on 2009-05-03 00:00:00
+while driving.  He was found to be bradycardic in the 40s and
+was admitted to UPMCE Hospital and ruled in for
+infarction with a Troponin of 11. Angioplasty and DES were
+performed to the mid right coronary.  A stress test was
+performed prior to discharge and was positive with ECG changes
+and pain.  He was transferred here after recatheterization
+revealed triple vessel disease.
+
+Past Medical History:
+Coronary artery disease
+s/p stents x 2 to left anterior descending
+hypertension
+HIV positive
+s/p right carotid endarterectomy
+peripheral vascular disease
+h/o deep vein thrombophlebitis
+
+
+Social History:
+He denies any use of alcohol or IV drugs. He has smoked 2009-05-03 00:00:00
+packs of cigarettes per day for the last 30 years.
+
+
+Family History:
+non contributary
+
+Physical Exam:
+Admsiision:
+Pulse: 72 Resp:17  O2 sat: 98% on RA
+B/P  Right:    Left:
+Height:5'2009-05-03 00:00:00"     Weight:152 LBS
+
+General:
+Skin: Dry [xx] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x] R CEA incision
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema 0 Varicosities
++1
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: Dressing in place  Left: +2
+DP           Right: +1  Left: +1
+PT           Bijal Schultheis: +1  Left: +1
+Radial       Right: +2  Left: +2
+
+Carotid Bruit        Right: 0   Left: 0
+
+
+Pertinent Results:
+2009-05-03 00:00:00 05:00AM BLOOD WBC-10.1 RBC-2.87* Hgb-10.3* Hct-29.5*
+MCV-103* MCH-35.8* MCHC-34.7 RDW-12.3 Plt Ct-124*
+2009-05-03 00:00:00 05:00AM BLOOD Glucose-122* UreaN-27* Creat-1.2 Na-136
+K-4.3 Cl-103 HCO3-28 AnGap-9
+
+Brief Hospital Course:
+Cardiac catheterization after stenting  demonstrated triple
+vessel disease with an EF by echocardiogram of 45%.  He was
+prepared for surgery.
+
+On 2009-05-03 00:00:00 he was taken to the Operating Room where
+revascularization was performed.  See operative note for
+details.  He weaned from bypass on Propofol  infusions.  He
+awoke, was weaned from the ventilator and extubated.  He
+remained stable. CTs were removed according to protocol.  He was
+transferred to the floor being atrially paced with a slow sinus
+underlying.  He developed rapid atrial fibrillation which was
+treated with Amiodaone and lopressor with conversion to sinus
+bradycardia in the 50s.  Amiodarone was stopped and the
+Lopressor dose dropped.
+
+He remained in sinus for 48 hours and felt well. He was
+preparing to go home on POD 4 when he developed atrial
+fibrillation again with a ventricular rate of 120s.  He
+tolerated this well and Amiodarone was begun. He quickly
+converted to sinus rhythm and Coumadin was begun.  Arrangements
+were made for his primary carer physician to regulate this with
+as target INR of 2009-05-03 00:00:00.5.  Amiodarone was prescribed for 4 weeks
+and it will be discontinued, along with the Coumadin, at that
+time if sinus rhythm persists.
+ Physical Therapy worked with him for strength and mobility
+prior to discharge. The lasix was stopped when his BUN elevated
+to 38 but fell to 28 the next day. Even though his weight was
+slightly above preop he had minimal edema and was doing well.
+Follow up, medications and precautions were discussed with the
+patient before discharge.
+
+Medications on Admission:
+Medications at home:
+ASA 325mg po daily
+Pravastatin 80mg po daily
+Lisinopril
+Truvada
+Nevirapine
+Metoprolol (dose unknown)
+
+Meds on Transfer:
+Prasugrel 10mg po daily
+Percocet PRN
+Nitrostat PRN
+Lipitor 80mg po daily
+ASA 325mg po daily
+Zestril 2.5mg po daily
+
+
+Discharge Medications:
+1. Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet
+PO DAILY (Daily). Tablet(s)
+2. Nevirapine 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+3. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 4 weeks.
+Disp:*56 Tablet(s)* Refills:*0*
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain.
+6. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+7. Prasugrel 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain for 4 weeks.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Pravastatin 80 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+11. Amiodarone 200 mg Tablet Sig: as directed Tablet PO BID (2
+times a day) for 4 weeks: two tablets twice daily for 2 weeks,
+then one tablet twice daily for two weeks, then discontinue.
+Disp:*92 Tablet(s)* Refills:*0*
+12. Outpatient 2009-05-03 00:00:00 Work
+Please draw a PT/INR on 2009-05-03 00:00:00 and then prn. Report results to Dr.
+Bijal Schultheis at test@mail.com.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE VNA
+
+Discharge Diagnosis:
+coronary artery disease
+s/p coronary artery bypass grafts
+s/p coronary artery stents
+peripheral vascular disease
+HIV positive
+s/p right carotid endarterectomy
+h/o deep vein thrombophlebitis left
+s/p femoral embolectomy
+h/o pulmonary tuberculosis
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating, gait steady
+Sternal pain managed with Percocet prn
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+
+
+Followup Instructions:
+Dr. Schultheis on Tuesday, 2009-05-03 00:00:00 at 1PM (test@mail.com)
+Please test@mail.com appointments with:
+Primary Care: Dr.Bijal Jabreena Butash Schultheis in 2009-05-03 00:00:00 weeks (test@mail.com)
+Cardiology: Dr. Jabreena Butash in 2 weeks
+UPMCE 6 wound clinic in 2 weeks. Your nurse Bijal Schultheis an
+appointment.
+
+
+
+Completed by:2009-05-03 00:00:00

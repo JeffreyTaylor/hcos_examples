@@ -1,0 +1,560 @@
+Admission Date:  2012-12-16 00:00:00              Discharge Date:   2012-12-16 00:00:00
+
+Date of Birth: 1989-08-20 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+Codeine / Streptokinase / Iodine / Bee Pollens / Narcan
+
+Attending:Geza Worgull
+Chief Complaint:
+Altered mental status
+
+
+Major Surgical or Invasive Procedure:
+VP shunt removal 2012-12-16 00:00:00
+VP shunt placement 2012-12-16 00:00:00
+removal of Kwires R arm 2012-12-16 00:00:00
+
+
+History of Present Illness:
+Mr. Kochanowski is a 60y/o gentleman with HTN, HLD, CAD s/p MI, AFib,
+TIA, colon cancer s/p resection, s/p abdominal trauma with
+splenectomy and left hand digit amputations, right forearm
+fracture with plan for hardware removal 2012-12-16 00:00:00, as well as
+complicated hospital course last month for spontaneous SAH and
+pneumonia now s/p trach/PEG/VP shunt who was sent from rehab to
+an OSH for altered mental status and was transferred to UPMCE
+due to concern for VP shunt complication vs infection.
+
+He was admitted to Neurosurgery 2012-12-16 00:00:00 after presenting to an
+OSH with the "worst headache of his life" and being found to
+have a spontaneous SAH in the setting of Coumadin use (no trauma
+and no known cerebral artery malformations).  He was intubated
+in the ED, and was treated by an external ventricular drain.
+His course was complicated by AFlutter requiring Dilt drip, VAP
+(treated with Vanc/Cefepime, d/c'd to rehab on Vanc), brief
+hypotension and pressors, and DVT (was restarted on Warfarin).
+He underwent trach, PEG, and V-P shunt placement and was
+discharged to rehab at UPMCE.  His recent
+baseline is that he is normally alert and responsive, able to
+sit at edge of bed but not walking yet, and has no focal neuro
+deficit.
+
+Per transfer records, at rehab this morning at 1:30AM he was
+confused, only A+O x1, slow to respond, and only verbalizing the
+word "yes."  Per report he had some new right-sided weakness.
+Had temp 102.9 and was noted to have cloudy foul-smelling urine
+in condom cath.  EMS was called and he received 800cc NS en
+route to the OSH.
+
+At the OSH, his VS were T 101.5, BP 167/118, HR 90, RR 16.  He
+had WBC 13.3.  CXR with question of consolidation, and CT head
+w/o contrast with no acute process.  Received Acetaminophen,
+Ceftriaxone 1g IV, Azithromycin 250mg IV as well as Cefepime 2g
+IV and was transferred to UPMCE.
+
+In the UPMCE ED, initial VS were T 97.6, HR 75, BP 110/70, RR
+18, POx 98% 3L TM.  Labs were notable for WBC 15.8 (74% PMNs, no
+bands), UA with 0 epis, 35 WBC, few bacteria, moderate leuks,
+>182 RBCs (foley had been placed).  CXR showed R>L bibasilar
+opacities.  He was evaluated by Neurosurgery and underwent VP
+shunt study which was normal.  VP shunt was tapped and CSF
+revealed WBC 425 (87% polys), protein 57, glucose 63.  Gram
+stain showed 4+ PMN, 4+ GPCs in pairs/clusters.  He received 1L
+NS and Vancomycin 1g IV and was admitted to Medicine for further
+management.  VS prior to transfer were 97.6, 67, 10, 170/83,
+100%.
+
+On arrival to the floor, patient was A&O x3, he denied fever,
+chills, chest pain, SOB, abdominal pain, N/V, dysuria or
+diarrhea. He reports headache with hip and knee pain that is
+chronic. He wants to eat, but his daughter emphasize that he is
+chronically NPO because he aspirated.
+
+Past Medical History:
+Type II Diabetes on oral agents
+Systemic Lupus Erythematosus
+Coronary Artery Disease s/p MI in 2012-12-16 00:00:00
+Hepatitis C
+COPD with emphysema and asthmatic component (FEV1 60% 123 Any St.ted
+2012-12-16 00:00:00)
+Diastolic Congestive Heart Failure EF 55% in 2012-12-16 00:00:00
+Seizure disorder
+TIA 199
+Colon Cancer s/p resection in 2012-12-16 00:00:00 without chemotherapy
+s/p abdominal trauma with subsequent splenectomy and amputation
+of digits of his left hand
+Hyperlipidemia
+Hypertension
+h/o cocaine abuse
+Neuropathy and chronic pain on methadone
+Chronic Atrial Fibrillation on Coumadin
+Obstructive Sleep Apnea on home CPAP
+Left Total Knee Replacement 2012-12-16 00:00:00
+
+
+Social History:
+On disability, former mechanic. Quit smoking 2012-12-16 00:00:00. Denies EtOH,
+h/o cocain abuse, none since 2012-12-16 00:00:00.
+
+
+Family History:
+Adopted - Unknown birth family hx
+
+Physical Exam:
+Admission:
+VS  98.4, 150/100, 69, 18, 98 on 2L NC, FS 98, 144.2 lbs
+GEN Alert, oriented, no acute distress
+HEENT NCAT MMM EOMI sclera anicteric, OP clear, PERRL
+NECK supple, no JVD, no LAD, trach in place
+PULM Scattered crackles at right lung base, no wheezes
+CV irregularly irregular, normal S1/S2, no mrg
+ABD soft NT ND normoactive bowel sounds, no r/g, g-tube in place
+
+EXT Right forearm splinted, WWP 2+ pulses palpable bilaterally,
+no c/c/e
+GU Foley draining clear yellow urine
+NEURO CNs2-12 intact, motor function grossly normal
+SKIN no ulcers or lesions
+
+Exam on Discharge:
+Alert, pleasant, occasionally confused
+Discongigate gaze
+Oriented to location and self, PERRL 3-2mm, left nasolabial
+droop
+Moves all extremities to command, antigravity
+Gait - not tested
+incision is c/d/i and well approximated, sutures have been
+removed
+abd: soft, steris in place, g-tube in place and intact
+extr: no c/c/e
+
+Pertinent Results:
+Admission:
+2012-12-16 00:00:00 11:40AM BLOOD WBC-15.8* RBC-3.74* Hgb-10.9* Hct-34.8*
+MCV-93 MCH-29.1 MCHC-31.3 RDW-17.4* Plt Ct-399#
+2012-12-16 00:00:00 11:40AM BLOOD Neuts-74.0* Lymphs-18.3 Monos-7.2 Eos-0.1
+Baso-0.5
+2012-12-16 00:00:00 11:40AM BLOOD PT-12.0 PTT-31.0 INR(PT)-1.1
+2012-12-16 00:00:00 11:40AM BLOOD Glucose-93 UreaN-21* Creat-0.6 Na-140
+K-3.6 Cl-99 HCO3-34* AnGap-11
+2012-12-16 00:00:00 11:40AM BLOOD Calcium-8.6 Phos-3.9 Mg-2.0
+
+Microbiology:
+2012-12-16 00:00:00 1:12 pm CSF;SPINAL FLUID      Source: Shunt.
+
+   GRAM STAIN (Final 2012-12-16 00:00:00):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+
+
+   FLUID CULTURE (123 Any St.inary):
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other Oxacillin RESISTANT Staphylococci
+MUST be
+         reported as also RESISTANT to other.
+         Rifampin should not be used alone for therapy.
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+GENTAMICIN------------ <=0.5 S
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+2012-12-16 00:00:00 5:45 pm CATHETER TIP-IV     Site: CATHETER
+      RIGHT SHUNT CATH TIP.
+
+   WOUND CULTURE (123 Any St.inary):
+      STAPH AUREUS COAG +.    >15 colonies.
+
+Imaging:
+2012-12-16 00:00:00 CXR:
+IMPRESSION:  Slight worsening of dependent bibasilar opacities,
+which may
+reflect an evolving aspiration pneumonia in the setting of
+fever.
+
+2012-12-16 00:00:00 Wrist XR - In comparison with study of 2012-12-16 00:00:00, there is
+little overall change in the extensive fixation device about
+123 Any St.us fracture of the distal radius. Widening of the
+scapholunate interval is not definitely ap123 Any St.ted on this
+study.  Overlying cast greatly obscures bony detail.
+
+2012-12-16 00:00:00 CT head - Stable appearance of ventricular catheter and
+ventricular size
+
+2012-12-16 00:00:00 CXR - stable b/l lower base opacities suspicious for
+pneumonia
+
+2012-12-16 00:00:00 CSF culture, source shunt. GRAM STAIN: no
+polymorphonuclear leukocytes seen, no microorganism seen;
+123 Any St.inary fluid culture is no growth.  WBC: 240(lymph 14%,
+Mono 23%, Polys 63%, RBS 0), Tprot: 28, Glucose: 76.
+2012-12-16 00:00:00 ECHO:
+Conclusions
+The left atrium is moderately dilated. The right atrium is
+markedly dilated. There is mild symmetric left ventricular
+hypertrophy with normal cavity size. Overall left ventricular
+systolic function is mildly depressed (LVEF= 40-45%). There is
+no ventricular septal defect. The right ventricular cavity is
+mildly dilated with borderline normal free wall function. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No masses or vegetations are seen on
+the aortic valve. No aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. No masses or vegetations are seen on the mitral valve,
+but cannot be fully excluded due to suboptimal image quality.
+Mild to moderate (2012-12-16 00:00:00+) mitral regurgitation is seen. The
+estimated pulmonary artery systolic pressure is normal. There is
+no pericardial effusion.
+
+IMPRESSION: Mild symmetric LVH with mild to moderate global
+hypokinesis. Dilated and hypokinetic right ventricle. Mild to
+moderate mitral regurgitation.
+
+Compared with the prior study (images reviewed) of 2012-12-16 00:00:00,
+overall systolic function is slightly worse and hypokinesis
+appears global. Severity of mitral regurgitation has increased.
+Estimated pulmonary pressures are lower.
+
+2012-12-16 00:00:00 Chest x-ray
+FINDINGS:
+  Right lung opacities have slightly worsened since 123 Any St.us
+exam and are
+slightly more confluent, suspicious for an infectious process or
+aspiration. There is no pleural effusion or pneumothorax. Stable
+cardiac contour is moderately enlarged.
+
+CHEST 4:35 A.M., 2012-12-16 00:00:00
+IMPRESSION:  AP chest compared to 2012-12-16 00:00:00 through 2012-12-16 00:00:00.
+
+Right lower lobe consolidation and small accompanying pleural
+effusion have improved since 2012-12-16 00:00:00.  Mild-to-moderate
+enlargement of the cardiac silhouette has improved since
+2012-12-16 00:00:00, whether due to decreased
+cardiomegaly and/or pericardial effusion.  Left lung grossly
+clear.  ET tube and right internal jugular line are in standard
+placements and an upper enteric tube passes into the stomach and
+out of view.  No pneumothorax.
+
+2012-12-16 00:00:00 8:22 AM
+PORTABLE HEAD CT
+
+COMPARISON:  Prior head CTs without contrast from 2012-12-16 00:00:00, 2012-12-16 00:00:00 and dating back to 2012-12-16 00:00:00.
+
+FINDINGS:  Study is limited due to the presence of artifact
+produced by EEG electrodes and wires.  Again seen is a right
+frontal approach ventricular shunt terminating in the right
+lateral ventricle. There is persistent enlargement of the
+visualized lateral ventricles which are significantly unchanged
+when compared to prior examination.  There is opacification of
+mastoid air cells, likely related to patient's supine position.
+Many of the 123 Any St.usly described findings are obscured due to
+the artifact generated by the EEG electrodes, limiting an
+adequate comparison.
+
+RESPIRATORY CULTURE (Final 2012-12-16 00:00:00):
+      Commensal Respiratory Flora Absent.
+      STAPH AUREUS COAG +.
+
+CXR 2012-12-16 00:00:00
+FINDINGS:  As compared to the 123 Any St.us radiograph, the
+pre-existing right
+opacity is minimally more extensive than on the 123 Any St.us image.
+Otherwise,
+there is no relevant change.  Moderate cardiomegaly,
+normal-appearing left
+lung, the monitoring and support devices are constant.
+
+Video Swallow 2012-12-16 00:00:00 - pending
+
+Brief Hospital Course:
+Brief Course:
+Mr. Kochanowski is a 60y/o gentleman with HTN, HLD, CAD s/p MI, AFib,
+TIA, colon cancer s/p resection, s/p splenectomy, right forearm
+fracture s/p ORIF with pins, and recent SAH and pneumonia now
+s/p trach/PEG/VP shunt who presented with delirium that is
+likely due to shunt infection. CSF cultures grew coag positive
+staph aureus. Patient underwent VP shunt removal and received IV
+antibiotics.
+
+#. Altered mental status: Likely 2012-12-16 00:00:00 infection (UTI vs PNA vs
+shunt infxn).
+He is currently back at his reported neurologic baseline but the
+morning of presentation he had transient change in speech and
+level of interactiveness.  He had fever and leukocytosis.
+Post-splenectomy status puts him at risk of serious infection
+with encapsulated organisms.  UA suggestive of UTI.  CXR also
+suggests possible PNA.  More concerning is CSF with coag
+positive staph. Patient underwent VP shunt removal and received
+IV vancomycin and ceftazidime. Note that he does have hardware
+in his arm but with no arm pain, not concerning for infection.
+He is mentating fine, with good urine output and no elevation in
+lactate so suspicion for shock is low but he certainly is
+septic.
+
+#. SAH in 2012-12-16 00:00:00 s/p trach, PEG, VP shunt.
+His recent baseline is that he is normally alert and responsive,
+able to sit at edge of bed but not walking yet, has some
+left-sided weakness. He is continued on Tizanidine, Gabapentin.
+
+#. h/o AFib: currently in AFib by exam.
+Normally on Warfarin but has been off in anticipation of
+returning to OR for Ortho surgery and has been bridged with
+Dalteparin. Continued on metoprolol.
+
+#. CAD s/p MI in the past: stable.
+TTE with LVEF= 45-50% secondary to hypokinesis of the basal-mid
+inferior wall, and inferior/anterior septum. He is on a statin
+and BB.
+
+#. HTN: BP currently elevated.
+BP elevated but will permit in the setting of infection.
+Lisinopril was recently uptitrated at rehab. Continue
+Lisinopril, Metoprolol.
+
+#. s/p MVA with Rt forearm fracture: s/p ORIF with hardware in
+place.
+Plans for removal of hardware soon but this will likely be put
+off in the setting of infection. Dr. Geza Worgull is his Orthopedic
+surgeon.
+
+#. Neuropathy and chronic pain: stable. Continue Methadone,
+Gabapentin and Dilaudid, Fluoxetine
+
+#. h/o DM2 in the past: not on insulin currently.
+
+FEN: NPO with tube feeds (NPO after MN), replete electrolytes
+PRN
+PPX: Heparin gtt, colace/senna, Methadone/Dilaudid
+ACCESS: PIV
+CODE: Full Code (confirmed)
+COMMUNICATION: Patient
+EMERGENCY CONTACT: Jrew Kochanowski Jrew Kochanowski (wife) test@mail.com
+DISPO: Medicine floor for now
+2012-12-16 00:00:00 transferred from UPMCE for fevers, transient
+neuro symptoms
+2012-12-16 00:00:00 VP shunt removed, EVD placed, ICP 7 post-op with drain
+clamped as of 1820oriented, moves all 4 to command readily
+ 2012-12-16 00:00:00: EVD- open at 20,  exam he is awake, alert  pupils 2012-12-16 00:00:00
+sluggish bilaterally, gave thumbs up on LUE, right arm casted
+and moved fingers slightly to command, wiggles toes to command.
+Started on sub q Heparin, as ICP was high, EVD unclamped, head
+CT performed which showed
+Ortho consult was done regarding his R arm fx : On schedule for
+OR with Dr. Geza Worgull 2012-12-16 00:00:00 for removal fo Kwires
+
+On 2012-12-16 00:00:00, pt remained stable in the ICU and was transferred to
+Step Down Unit.  ID was consulted and they recommended CSF
+cultures, Legionella test, blood cultures and treatment with
+Vancomycin and Ceftriaxone.  His vanco trough was 25.5 and thus
+his dose was held.  Video swallow evaluated him and recommended
+he be NPO for a repeat study.  On 2012-12-16 00:00:00, patient's repeat trough
+was 15.5 at target goal.  Video swallow was rescheduled for
+2012-12-16 00:00:00.  Urine analysis and for legionellar was negative. CSF was
+sent for analysis and culture. The CSF WBC was 75 and RBC 125.
+ID recommended continuing the current antiobiotic regimen. His
+neurologic status remained stable on 2012-12-16 00:00:00.  On 2012-12-16 00:00:00, CSF was
+sent for analysis and culture: WBC 19; RBC 5. He remained
+neurologically stable.
+2012-12-16 00:00:00 the patient remained afebrile and  neurologicly stable.
+2012-12-16 00:00:00 neurologic exam he became more lethargic and CT showed a
+slight increase in ventricles size. EVD was set on 15, his trach
+was decannulated.
+2012-12-16 00:00:00: his mental status improved , CSF study showed pr:15,
+glu:74 and no organism in smear.
+
+2012-12-16 00:00:00: Patient diaphoretic and got an ECG.  Cardiology was
+consulted at the request of Dr Geza Worgull regarding the evaluation
+and management of altered mental status, diaphoresis, abnormal
+ECG and positive cardiac troponin T. Cardiology recommended:
+-start unfractionated heparin IV infusion without a bolus, with
+a goal PTT 50-60 sec. Check PTT prior to infusion and adjust
+percardiac sliding scale.
+-Continue ASA 81mg daily after initial dose of 325mg tonight.
+-Switch dosing schedule of metoprolol from 75mg UPMCE to
+50mg q8h (daily dose of 150mg). Adjust dose and intervals (q8h,
+q6h) to achieve a target HR 55-65 bpm. Maintain SBP<140 mmHg if
+OK from a neurosurgical perspective. Therapeutic options include
+conversion of lisinopril to captopril with oral titration to
+achieve goal BP vs. initiation of NTG IV
+infusion with eventual transition to long-acting nitrates.
+-Switch simvastatin to atorvastatin 80mg daily starting tonight
+- Continue to cycle cardiac biomarkers (cTnT, CPK, MB q6h until
+peak) as well as serial ECGs.
+- Keep patient NPO in anticipation of possible cardiac
+catheterization. Please check coags (PTT, INR in AM).
+- Pt has a reported allergy to iodine. This needs to be further
+clarified by the primary team, as contrast for cardiac
+catheterization contains iodine and may cross-react. He has had
+prior catheterizations and CT with contrast with no
+documentation
+of pre-treatment.
+- He may require stenting which will mean at least 1 month of
+ASA and
+clopidogrel. He also has a recent DVT and chronic AF with a
+CHADS2 score of 4 that requires, ideally, warfarin indefinitely.
+
+2012-12-16 00:00:00: Patient went to the OR for a VP shunt placement.  Aspirin
+was held and 1 unit of platelets were given prior to the
+procedure.
+
+2012-12-16 00:00:00 : last night his o2 sat went down to 70s and after
+suctioning came back to 99. CXR which did not show any
+infiltration. Respiratory therapist got involved and found tube
+feeding fluid in the lung. He remained afebrile.
+
+2012-12-16 00:00:00: exam stable. vomited x1 s/p pills. Med rec increasing
+Metoprolol to 10mg IV Q4 hours until taking PO.
+
+2012-12-16 00:00:00:  HR 60-70 overnight. 2 doses of Lopressor held overnight.
+Re-started tube feeds. Changed IV Lopressor to PO. Continued
+Captopril 25mg TID. Vanc discontinued per ID recs.
+
+2012-12-16 00:00:00: Increased lethargy, hand tremors noted, desaturation,
+thick sputum.  Sputum was sent for analysis. He also underwent a
+CXR and non-contrast head CT. He became  diaphoretic-UA sent-
+foley d/ced and replaced. Blood cultures and electrolytes were
+sent.
+
+2012-12-16 00:00:00: EEG, CSF sent, desat overnight. He was intubated and tx
+to ICU- likley PNA.
+
+2012-12-16 00:00:00: The Sputum culture showed staph aureus coag +
+
+2012-12-16 00:00:00: Mr. Kochanowski was extubated.  Tube feedings were re-started
+and his neurologic status remained stable.
+
+2012-12-16 00:00:00: He remained neurologically stable. Hypertensive in PM.
+Required Hydralazine and additional doses of Metoprolol.
+
+2012-12-16 00:00:00: Patient had some questionable seizure activity
+charecterized by a hand tremor as visulized by his daughter. On
+2012-12-16 00:00:00 we started the patient on Keppra and restarted the patient
+on his Coumadin for his Atrial Fib.
+
+Now DOD, patient is afebrile, vital signs stable and
+neurologically stable.  He received his first dose of coumadin
+(5mg) today for a goal of 2.0-3.0 for AFIb.  His incision is
+clean, dry, intact without evidence of infection.  He is
+tolerating tubefeeds.  He is currently non-ambulatory but is
+working with PT/OT.  He is set for discharge to rehab in stable
+condition and will follow-up with Dr. Jrew accordingly.
+
+
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Bisacodyl 10 mg PO/PR DAILY
+2. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL UPMCE
+3. Docusate Sodium (Liquid) 100 mg PO BID
+4. esomeprazole magnesium *NF* 40 mg PO/TUBE daily
+5. Fluoxetine 60 mg PO/NG DAILY
+6. Gabapentin 600 mg PO/NG TID
+7. Petroleum Jelly, White *NF* (white petrolatum) instill under
+eyelid as directed Topical QID
+8. Senna 1 TAB PO/NG HS
+9. Simvastatin 20 mg PO/NG DAILY
+10. Tizanidine 4 mg PO/NG HS
+11. Fluticasone Propionate 110mcg 1 PUFF IH UPMCE
+12. Metoprolol Tartrate 75 mg PO BID
+13. Methadone 10 mg PO/NG TID
+14. Lisinopril 30 mg PO DAILY
+15. dalteparin (porcine) *NF* 12,500 unit/0.5 mL Subcutaneous
+daily
+16. Acetaminophen 650 mg PO/NG Q6H:PRN pain/fever
+17. Albuterol Inhaler 4 PUFF IH Q4H:PRN SOB/wheezing
+18. Polyethylene Glycol 17 g PO/NG DAILY:PRN constipation
+19. HYDROmorphone (Dilaudid) 2 mg PO/NG Q4H:PRN pain
+
+
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain/fever
+2. Bisacodyl 10 mg PO/PR DAILY
+3. Fluoxetine 60 mg PO DAILY
+4. Gabapentin 600 mg PO Q8H
+5. Methadone 10 mg PO TID
+6. Metoprolol Tartrate 50 mg PO TID
+7. Senna 1 TAB PO HS
+8. Tizanidine 4 mg PO HS
+9. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheeze
+10. Famotidine 20 mg PO Q12H
+11. LeVETiracetam 500 mg IV BID
+12. Atorvastatin 80 mg PO DAILY
+13. Multivitamins 1 TAB PO DAILY
+14. Vancomycin 750 mg IV Q 12H
+15. Warfarin 5 mg PO QMOWEFR
+16. Warfarin 7.5 mg PO QTUTHSASUN
+17. Docusate Sodium (Liquid) 100 mg PO BID
+18. Fluticasone Propionate 110mcg 1 PUFF IH UPMCE
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary:
+VP shunt infection
+VP shunt replacement
+dysphagia
+pneumonia
+confusion
+NSTEMI
+Atrial fibrillation
+lethargy
+seizures
+hypertension
+R arm radial fracture revision
+
+
+Discharge Condition:
+??????
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+??????Take your pain medicine as prescribed.
+??????Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????You may shower, please keep wound clean and dry
+-  steri strips will fall off on their own
+??????Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace)
+while taking narcotic pain medication.
+??????Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and
+Ibuprofen etc.
+
+
+Followup Instructions:
+Provider: Jrew Kochanowski, Jrew Kochanowski.D. Phone test@mail.com
+UPMCE UPMCE UPMCE 10
+Date/Time 2012-12-16 00:00:00 12:20
+Provider: Jrew Kochanowski FUNCTION LAB Phone:test@mail.com
+Date/Time:2012-12-16 00:00:00 1:10
+Provider: Jrew Kochanowski, Jrew Kochanowski.D. Phone:test@mail.com
+Date/Time:2012-12-16 00:00:00 1:30
+Provider: Jrew Kochanowski,INTERPRET W/LAB NO CHECK-IN Jrew Kochanowski INTEPRETATION
+BILLING Date/Time:2012-12-16 00:00:00 1:30
+Provider: Kochanowski. Jrew: please call test@mail.com to schedule a
+follow up within 4-6 weeks with a repeat head CT scan.
+
+
+
+Completed by:2012-12-16 00:00:00

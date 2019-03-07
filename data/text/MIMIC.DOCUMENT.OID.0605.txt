@@ -1,0 +1,218 @@
+Admission Date:  2007-02-17 00:00:00              Discharge Date:   2007-02-17 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Epinephrine
+
+Attending:Andonia Geserick
+Chief Complaint:
+Drug ingestion.
+Reason for MICU admission: Suspected overdose on verapamil,
+metformin.
+
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+(History obtained via daughter)
+This 83 year old woman with a history of dementia, hypertension,
+and diabetes was taken to ED after it was discovered that she
+may have taken three doses of all her morning medications.
+Dementia at baseline so unable to give details. Her son visited
+this AM at 10:30 and noticed his mother felt dizzy. He found an
+open pill box and noticed doses for medications over three days
+were missing. She usually takes these medications at 8:30 AM. On
+weekdays an aide helps her with this but on weekends, the
+patient takes the medications herself. Morning medications
+included: glucosamine, Verapamil XL (180 per daughter), tylenol
+(1000 mg), namenda, razadyne (an anticholinesterase inhibitor),
+and metformin 500 mg. They contactDeyvin Pho her PCP who advised to
+bring her to the ED. On arrival vital signs were: HR 95, BP
+173/87. FS 101. EKG unremarkable. She did have one episode of
+diarrhea and one episode of vomiting. She underwent charcoal
+therapy on recommendation of toxicology consult and was
+subsequently admitted to ICU for intensive monitoring.
+.
+THe patient has not been depressed and there is no history of
+her trying to harm herself.
+.
+ROS: Denies fevers, chest pain, dyspnea, abdominal pain. + N/V.
+
+
+
+Past Medical History:
+1) Hypertension
+2) Diabetes type II, on metformin, A1c 6.8 in 2007-02-17 00:00:00
+3) Dementia, on Namenda
+4) Squamous cell carcinoma, s/p excision
+5) Basal cell carcinoma s/p excision
+6) Arthritis
+
+
+Social History:
+Widower, lives alone, has home health aide. Has three children.
+Daughter and son are involved in her care. She is a former real
+estate broker.
+Former smoker, she quit 30 years ago. No alcohol or illicit drug
+use.
+
+Family History:
+Mother had diabetes, father passed away of stroke. One sister
+with breast cancer.
+
+Physical Exam:
+T 98.4 ; BP 148/77 ; P 57, sinus on telemetry ; RR 18 ; O2 97 on
+room air.
+Gen: Elderly female Caucasian, pleasant.
+Eyes: Sclerae anicteric. Pupils nl, reactive.
+Mouth: MM slightly dry
+Neck: Supple, no thyromegaly. Nl JVD.
+Chest: Lungs CTA bilaterally.
+Cor: RR, nl S1S2, no murmur, rub, or gallop.
+Abd: Soft, NT, ND, nl bowel sounds.
+Ext: No edema
+Neurol: Alert, oriented to person only (recognizes daughter). To
+place and time she says "I have no idea".
+CN 2,3,4,5,6,7,9,11,12 grossly intact
+LE and UE strength and sensation nl
+Brachioradialis, bicep and patellar reflexes nl
+Downgoing toes b/l.
+Psych: Good affect, pleasant and interactive. Appears euthymic
+.
+
+
+Pertinent Results:
+Na 146 Cl 107 BUN 17 Glu 129 AG=10
+K 3.8 HCO3 29 Cr 0.9
+Ca: 9.9 Mg: 2.0 P: 2.7
+.
+ALT: 30 AP: 64 Tbili: 0.3 Alb: 4.4
+AST: 26 Andonia Geserick: 95 Lip: 40
+.
+WBC 6.6 N:65.2 L:26.6 M:4.6 E:3.3 Bas:0.3
+Hgb 13.7/Hct 39.0 MCV 92
+Plts 215
+.
+PT: 12.4 PTT: 20.3 INR: 1.0
+.
+EKG:  NSR with nl axis and intervals.
+
+
+Brief Hospital Course:
+Assessment/Plan: 83 year old woman with dementia, hypertension,
+and diabetes who was admitted to the ICU after possible
+multidrug ingestion including verapamil, anticholinergic Andonia Geserick,
+tylenol, and metformin. Appeared hemodynamically stable upon
+admission. No overt signd of toxicities from any of the above
+medications. There was no evidence that this was an attempt at
+harming herself/committing suicide.
+
+1) Drug toxicities. 2007-02-17 00:00:00 have taken three times dosages this
+morning. Holding all AM medications listed below.
+   a) Verapamil. Estimated intake 540 mg. Checking for
+hypotension, bradycardia, hyperglycemia Monitoring BP and HR
+closely. Also FS every hour. FSG all appropriate.  No
+hypotension or arrhythmias.
+   b) Tylenol. Estimated intake 3 g. Tylenol level 12 at 1 PM.
+About 5 hours out from ingestion time. Given empiric nAC in ICU
+pending level.  Once verified that her level was well below line
+for toxicity per nomogram, the nAC was discontinued.
+   c) Metformin. Estimated intake 1500 mg. Monitored for
+hypoglycemia which was not observed while inpatient.
+   d) Razadyne. 24 mg estimated intake. No signs of
+anticholinergic syndrome observed while inpatient.
+   e) Namenda. 30 mg estimated intake. Case reports of psychosis
+and reversible coma with namenda overdose. Her sensorium upon
+admission was at baseline and remained so throughout her stay.
+   f) Calcium. Serum Ca nl.
+
+2) Diabetes.  Metformin held on admission. Once clearly past
+limit of resultant hypoglycemia, was restarted on diabetic diet
+and metformin was restarted prior to discharge.
+
+3) Hypertension. Following observed period for possible
+hypotension, home medications were restarted prior to discharge.
+
+
+4) Hyperlipidemia. Given normal LFTs and unlikely Tylenol
+toxicity, Lipitor was restarted prior to discharge.
+
+5) Dementia. At baseline, restarted home medications prior to
+discharge.
+
+6) Cardiac protection. ASA restarted upon discharge.
+
+7) Hypernatremia. Mild, monitored and resolved prior to
+discharge.
+
+Medications on Admission:
+1) Aspirin 81 mg every morning
+2) Verapamil, extended release 180 every morning
+3) Namenda 10 mg qAM, qPM
+4) Razadyne 8 mg qAM qPM
+5) Metformin 500 mg qAM
+6) Glucosamine qAM, qPM
+7) Ca/Vit D 600 qAM, qPM
+8) Multivitamin qAM
+9) Lisinopril 30 qPM
+10) Zocor 80 mg qPM
+11) Lidocaine patch
+
+Discharge Medications:
+1. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. Verapamil 180 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO Q24H (every 24 hours).
+4. Memantine 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+5. Galantamine 4 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+6. Metformin 500 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO BID (2 times a day).
+8. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO BID (2 times a day).
+9. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+10. Lisinopril 20 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).
+
+11. Vitamin E 400 unit Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+12. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Medication overdose
+
+
+Discharge Condition:
+Good.  Hemodynamically stable and breathing normally.  No sign
+of drug toxicity.
+
+
+Discharge Instructions:
+You were admitted for monitoring in the ICU because you took too
+many of your medications. Please make sure to take correct
+dosages of medications.
+.
+She may continue to take all 123 Any St.us medications.
+.
+Please follow-up with your PCP in the next 2 weeks.
+
+Followup Instructions:
+Please follow up with your PCP as detailed below:
+Provider: Deyvin Pho,[**First Name8 (NamePattern2) 2318**] Andonia Geserick APG (SB)
+Phone:test@mail.com Date/Time:2007-02-17 00:00:00 11:30
+
+
+

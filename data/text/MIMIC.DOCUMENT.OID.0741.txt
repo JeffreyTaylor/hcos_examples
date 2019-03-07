@@ -1,0 +1,401 @@
+Admission Date:  2012-04-04 00:00:00              Discharge Date:   2012-04-04 00:00:00
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Amadeus Fremder
+Chief Complaint:
+chest pain radiating to back
+
+
+Major Surgical or Invasive Procedure:
+Emergency repair of acute type A aortic dissection with
+ascending aortic and hemiarch replacement with a size 26
+Gelweave graft.
+Aortic valve resuspension.
+
+
+History of Present Illness:
+92yo F BIBA from home c/o chest pain radiating to back.  In
+ED,pt acutely decompensated, becoming tachycardic,
+hypotensive,unresponsive.  She was intubated. Hemodynamics
+improved on dopamine.   Echo reveals pericardial effusion with
+tamponade, CXR reportedly reveals widened mediastinum.  Cardiac
+surgery is called for emergent evaluation.  She does have a h/o
+asc. aortic
+aneurysm of 4.2cm
+
+Past Medical History:
+- Diastolic CHF, last echo 2012-04-04 00:00:00 with (LVEF>55%)
+- Mitral regurgitation
+- Hypertension
+- Hypercholesterolemia
+- CVA w/ Right sided dysarthria and facial droop
+- GERD
+- Restrictive lung disease unknown etiology
+- Hx of GI bleeding
+- Morbid obesity
+- Obstructive sleep apnea
+- Right multinodular goiter, hx thyroid cyst removal
+- Osteoarthritis in the knee and DIP joints bilaterally
+- DJD of spine
+- Chronic venous insufficiency
+- Pancreatic cyst (refused workup)
+- Renal cyst (refused workup)
+- Lower extremity edema
+- Schatzki's ring
+
+Social History:
+Her husband died in Harveer Filipowicz, which was very hard on her. She now
+lives alone but goes to Russian "Second Home" adult day care.
+She worked as a nurse for 50 years in 123 Any St.. No tobacco for 40
+years. Denies alcohol, illicit drug history. Has son and
+daughter-in-law in Harveer Filipowicz who have come up to visit while she
+
+is in the hospital. Has a great grandson in Harveer Filipowicz who is a
+doctor. Harveer Filipowicz was a part-time interpreter at UPMCE and now
+works at 123 Any St. soon, but she wants to stay here.
+
+
+Family History:
+Her parents were both killed at Baba Yar in 123 Any St. at a young
+age, so she is not aware of any health problems they may have
+had.
+
+Physical Exam:
+Pulse: 141 Resp:  O2 sat: 97%
+B/P  Right:  128/68  Left:
+Height:     Weight:
+
+General: obese, intubated
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [] EOMI []
+Neck:  Supple [] Full ROM []
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x-tachy]  Irregular []  Murmur
+Abdomen: Soft  [] non-distended [] non-tender []  bowel sounds +
+[] obese
+Extremities: Warm [], well-perfused []  Edema Varicosities: None
+[]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:   Left:
+DP           Right:   Left:
+PT           Harveer Filipowicz:   Left:
+Radial       Right:   Left:
+
+Carotid Bruit        Right:    Left:
+
+
+Pertinent Results:
+UPMCE ECHOCARDIOGRAPHY REPORT
+
+GERMSNOVSKAYA, Harveer       UPMCE [**Numeric Identifier 5358**]       TEE
+(Complete) Done 2012-04-04 00:00:00 at 1:39:30 PM      FINAL
+Referring Physician     Harveer Filipowicz Information
+Harveer Filipowicz, [**First Name3 (LF) **]
+Division of Cardiothoracic Amadeus Fremder
+Harveer Filipowicz
+UPMCE
+123 Any St., [**Numeric Identifier 711**]
+
+Filipowicz, Harveer Amadeus Fremder
+Filipowicz - Department of Cardiac S
+Filipowicz, 2A
+123 Any St., [**Numeric Identifier 711**]  Status: Inpatient DOB: 1926-04-04 00:00:00 00:00:00
+Age (years): 91 F  Hgt (in): 66
+BP (mm Hg): 105/88  Wgt (lb): 227
+HR (bpm): 69  BSA (m2): 2.11 m2
+Indication: Aortic dissection.
+ICD-9 Codes: 441.00
+Test Information
+Date/Time: 2012-04-04 00:00:00 at 13:39    Interpret MD: Harveer Filipowicz, MD
+
+Test Type: TEE (Complete) SonHarveer Filipowicz: Amadeus Fremder Filipowicz, MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW001-0:00 Machine: AW2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Aorta - Annulus:  2.7 cm  <= 3.0 cm
+Aorta - Sinus Level:  *3.8 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  *3.1 cm  <= 3.0 cm
+Aorta - Ascending:  *4.2 cm  <= 3.4 cm
+Aorta - Arch:  *3.5 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *3.9 cm  <= 2.5 cm
+
+Findings
+LEFT ATRIUM: Normal LA and RA cavity sizes. No spontaneous echo
+contrast or thrombus in the body of the 123 Any St. (123 Any St.es) **] 123 Any St.es) **] LAA.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+global systolic function (LVEF>55%).
+
+RIGHT VENTRICLE: RV not well seen.
+
+AORTA: Mildly dilated aortic sinus. Moderately dilated ascending
+aorta. Mildly dilated aortic arch. Moderately dilated descending
+aorta Ascending aortic intimal flap/dissection.. Aortic arch
+intimal flap/dissection. Descending aorta intimal flap/aortic
+dissection. Thickened aortic wall c/w intramural hematoma.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR.
+
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: Small pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+Conclusions
+Pre-bypass: The left atrium and right atrium are normal in
+cavity size. No spontaneous echo contrast or thrombus is seen in
+the body of the left atrium or left atrial appendage. Left
+ventricular wall thickness, cavity size, and global systolic
+function are normal (LVEF>55%). The aortic root is mildly
+dilated at the sinus level. The ascending aorta is moderately
+dilated. The aortic arch is mildly dilated. The descending
+thoracic aorta is moderately dilated. A mobile density is seen
+in the ascending aorta consistent with an intimal flap/aortic
+dissection. A mobile density is seen in the aortic arch
+consistent with an intimal flap/aortic dissection. A mobile
+density is seen in the descending aorta consistent with an
+intimal flap/aortic dissection. The aortic wall is thickened
+consistent with an intramural hematoma. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion. There is no aortic valve stenosis. Trace aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is a small
+pericardial effusion.
+
+Post-bypass: The patient is receiving no inotropic support
+post-CPB. There is an ascending aorta tube graft seen distal to
+the sinotubular junction without any changes to the aortic
+valve. Biventricular systolic function is preserved and all
+other findings are consistent with pre-CPB findings. All
+findings were communicated to the surgeon intraoperatively.
+
+123 Any St.INARY REPORT developed by a Cardiology Fellow. Not
+reviewed/approved by the Attending Echo Physician.
+  Harveer Filipowicz certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by 123 Any St.g
+physician Filipowicz 2012-04-04 00:00:00 10:44
+
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+2012-04-04 00:00:00 04:45    7.8 3.67* 10.5* 33.1* 90 28.6 31.7 14.8 348
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+2012-04-04 00:00:00 04:45    117*1 34* 0.9 142 4.3 104 33* 9
+Filipowicz,Harveer [**PT ID Number 5360**] F  91  2012-04-04 00:00:00
+
+Radiology Report CHEST (PA & LAT) Study Date of 2012-04-04 00:00:00 6:03 PM
+
+
+
+Filipowicz,[**First Name3 (LF) **] CSURG FA6A 2012-04-04 00:00:00 6:03 PM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 5361**]
+Reason: eval for effusion
+
+
+
+UNDERLYING MEDICAL CONDITION:
+   92 year old woman s/p aortic dissection repair
+REASON FOR THIS EXAMINATION:
+   eval for effusion
+
+
+
+Wet Read: AGLc FRI 2012-04-04 00:00:00 1:10 AM
+slightly wider apperance to mediastinum may again be in part due
+to
+differences in pt rotation. else no change in moderate Lt, small
+Rt pleural
+effusion and bibasilar atelectasis.
+
+
+Final Report
+CHEST
+
+HISTORY: Status post aortic dissection. Re-evaluation of
+effusion.
+
+COMPARISON: 2012-04-04 00:00:00.
+
+Compared to the prior study the diameter of the mediastinum has
+increased
+slightly from 130 mm to 137 mm. This may be due to differences
+in technique.
+The right IJ line has been removed. There are bilateral pleural
+effusions,
+left greater than right, which are stable. The visualized lungs
+are stable as
+well.
+
+IMPRESSION: Slight increase in the size of the diameter of the
+mediastinum.
+This may be positional.
+
+Otherwise stable pleural effusions.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. Amadeus Fremder
+DR. Amadeus Fremder
+Approved: FRI 2012-04-04 00:00:00 10:58 AM
+
+
+
+
+
+Brief Hospital Course:
+This 92-year-old Russian speaking patient with sudden onset
+chest pain radiating to the back presented to the emergency room
+where CT angiogram demonstrated a type A acute dissection
+involving the ascending aorta without involvement of the arch or
+the descending. She has a known history of ascending aortic
+aneurysm. She was hemodynamically stable and was taken
+emergently to the operating room for surgery with Dr.Amadeus Fremder.
+ She underwent repair of acute type A aortic dissection with
+ascending aortic and hemiarch replacement with a size 26
+Gelweave graft/Aortic valve resuspension. Please see operative
+report for further details. She tolerated the procedure well and
+was transferred to the CVICU for further invasive monitoring.
+Hemodynamic support with Inotropes/pressors were initially
+required. She was grossly volume overloaded and a Lasix drip was
+initiated. Over the next few days she slowly improved and drips
+were weaned off. She was extubated on 2012-04-04 00:00:00 and remained in the
+CVICU for altered mental status-confusion, hiflo oxygen for
+hypoxemia, and decompression of gastric dilitation.
+Beta-blocker/Statin/Aspirin and diuresis continued. She
+continued to improve and on POD# 10 Ms.Filipowicz was
+transferred to the step unit for further monitoring. Physical
+therapy was consulted for evaluation of strength and mobility.
+On POD# 14 Dr.Harveer cleared her for discharge to UPMCE
+for rehabilitation.  She will be seen by Dr. Harveer in follow up
+on 2012-04-04 00:00:00 @ 1:30PM. All appointments were advised.
+
+
+
+Medications on Admission:
+unknown
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day). Capsule(s)
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily).
+7. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for wheezing.
+8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever.
+9. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 4 days: Decrease dose to 400 mg PO daily after UPMCE
+dose completed, then after 7 days decrease to 200 mg PO daily.
+10. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+11. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 10 days.
+14. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily) for
+10 days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+type A acute dissection involving the ascending aorta without
+involvement of the arch of the descending. She has a known
+history of
+ascending aortic aneurysm.
+htn, hypercholesterolemia, GERD, bronchomalacia, ascending
+thoracic aortic aneurysm 4.2cm, obesity
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal.
+Ambulating with  steady gait.
+
+Incisional pain managed with Tylenol only
+
+Incisions:
+Sternal - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Shower daily including washing incisions gently with mild soap,
+no baths or swimming until cleared by surgeon. Look at your
+incisions daily for redness or drainage.
+
+No lotions, cream, powder, or ointments to incisions.
+Each morning you should weigh yourself and then in the evening
+take your temperature, These should be written down on the chart
+.
+No driving for approximately one month, until follow up with
+surgeon.
+No lifting more than 10 pounds for 10 weeks.
+Please call with any questions or concerns (test@mail.com).
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge of sternal wound.
+
+
+
+**Please call cardiac surgery office with any questions or
+concerns (test@mail.com). Answering service will contact on call
+person during off hours.**
+
+
+
+
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon:  Dr.Harveer #test@mail.com your appointment was arranged
+for 2012-04-04 00:00:00 @ 1:30 PM.
+Please call to schedule appointments with your Primary
+Care/Cardiologist in 2012-04-04 00:00:00 weeks:
+PCP: Filipowicz.Filipowicz,[**First Name3 (LF) **] M. #test@mail.com in 2012-04-04 00:00:00 weeks
+Cardiologist: As referred by Dr.Filipowicz in 2012-04-04 00:00:00 weeks
+*Please call cardiac surgery office with any questions or
+concerns (test@mail.com). Answering service will contact on call
+person during off hours.**
+
+
+
+
+                             Harveer Filipowicz Harveer Filipowicz MD 84292
+
+Completed by:2012-04-04 00:00:00

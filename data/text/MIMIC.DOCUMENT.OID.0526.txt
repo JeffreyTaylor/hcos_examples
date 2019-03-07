@@ -1,0 +1,398 @@
+Admission Date:  2014-10-15 00:00:00              Discharge Date:   2014-10-15 00:00:00
+
+Date of Birth: 1971-10-15 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Brekkyn Rebik
+Chief Complaint:
+difficulty walking, abdominal fullness
+
+Major Surgical or Invasive Procedure:
+Placement of femoral central line with subsequent removal
+One episode of hemodialysis
+foley catheter placement
+
+
+History of Present Illness:
+This is a 58yoM with history of DM, HTN, HLD, obesity who
+presents from urgent care clinic with grossly abnormal labs.
+.
+Patient was in USOH until beginning of 2014-10-15 00:00:00 when he developed
+lower back pain. After seeing his PCP, Jehoshua Brearley was started on
+Tylenol#3 and flexeril. He then represented on 2014-10-15 00:00:00 for severe
+constipation x 3 days. He was started on MOM with good results.
+At this appt, he also complained of dysuria for which urine
+culture was obtained and was negative. He represented again on
+2014-10-15 00:00:00 for severe constipation. Plan was to try OTC drugs and
+follow up on 2014-10-15 00:00:00. Per office note, patient appeared weak and
+had protuberant abdomen. KUB from office note showed evidence of
+"paralytic ileus." Labs drawn showed a leukocytosis to 19 and
+potassium reportedly of 8.9. Pt was asked then to come to ED for
+further evaluation.
+.
+Per wife, pt was doing well up until this AM when she noted that
+he appeared weaker than normal and was unable to stand on his
+own. Prior to today however he was walking without difficulty
+although was unable to go to work because of feeling tired and
+weak. No fevers, chills, URI symptoms, nausea, vomiting,
+dysuria, SOB, CP or LE swelling. Per wife he was voiding without
+difficulty.
+.
+In ED, initial VS 98 93 143/56 15 100%. Initial Labs reveal
+gross metabolic abnormalities including Bicarb 6, K 8.9. CT
+abdomen/pelvis showed massively distended bladder and b/l
+hydronephrosis. EKG reported showed "peaked T waves." Received
+kayexalate, dextrose, insulin and calcium. Renal was consulted
+for urgent dialysis. Foley was placed drained over 1L of bloody
+urine. Pt was admitted to ICU for emergent dialysis. Prior to
+transfer, VS were 87 127/54 16 98%RA.
+.
+In MICU, pt was resting without any complaints. Stated that
+abdominal distension was better after foley insertion.
+
+
+Past Medical History:
+- Diabetes mellitus, type 2 - last A1c 7.7 in 2014-10-15 00:00:00
+- Obesity
+- Hypertension
+- Hypercholesteremia
+- Colonic Adenoma and h/o colonic polyps
+- H/o elevated PSA
+
+
+Social History:
+Works as environmental engineer.
+- Tobacco: never
+- Alcohol: never
+- Illicits: denies
+
+
+Family History:
+No history of kidney disease
+- F: deceased
+- M: deceased
+- Several sisters/brother alive
+
+
+Physical Exam:
+PHYSICAL EXAM:
+VS - TMax: 100.1 T 99.7 BP 140/78 (124/74-170/84) P 85 (85-92)
+RR 18 FS 183 (167-328) 100%RA
+GENERAL - well-appearing male, supine and laying on right side,
+appropriately interactive A&O x 3
+HEENT - Mucous membranes moist. PERRL, EOMI, sclera anicteric
+NECK - supple, no JVD
+LUNGS - CTAB with good air movement bilaterially
+HEART - RRR, no MRG, nl S1-S2
+ABDOMEN - normal bowel sounds, soft, non-tender
+EXTREMITIES - warm, dry, 2+ peripheral pulses. capillary refill
+<2 seconds
+NEURO - CNs II-XII grossly intact, able to follow commands
+
+Physical Exam on Discharge:
+Neuro: fully ambulates, no asterixis
+Psych: A+Ox3, appropriate affect
+
+Pertinent Results:
+Lab results from admission:
+
+2014-10-15 00:00:00 08:31PM   GLUCOSE-395* UREA N-80* CREAT-4.8*#
+SODIUM-134 POTASSIUM-4.3 CHLORIDE-92* TOTAL CO2-29 ANION GAP-17
+2014-10-15 00:00:00 08:31PM   CALCIUM-8.0* PHOSPHATE-3.6 MAGNESIUM-2.4
+2014-10-15 00:00:00 08:31PM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG
+barbitrt-NEG tricyclic-NEG
+2014-10-15 00:00:00 02:41PM   GLUCOSE-444* UREA N-105* CREAT-7.1*#
+SODIUM-137 POTASSIUM-4.4 CHLORIDE-89* TOTAL CO2-30 ANION GAP-22*
+2014-10-15 00:00:00 02:41PM   CALCIUM-8.2* PHOSPHATE-4.1 MAGNESIUM-2.8*
+2014-10-15 00:00:00 10:46AM   GLUCOSE-290* UREA N-120* CREAT-10.3*#
+SODIUM-129* POTASSIUM-5.5* CHLORIDE-88* TOTAL CO2-21* ANION
+GAP-26*
+2014-10-15 00:00:00 10:46AM   CK(CPK)-739*
+2014-10-15 00:00:00 10:46AM   TOT PROT-6.5 CALCIUM-8.6 PHOSPHATE-4.6*
+MAGNESIUM-3.1*
+2014-10-15 00:00:00 10:46AM   PSA-8.4*
+2014-10-15 00:00:00 10:46AM   PEP-NO SPECIFI IgG-1263 IgA-238 IgM-49 IFE-NO
+MONOCLO
+2014-10-15 00:00:00 05:46AM   GLUCOSE-238* UREA N-120* CREAT-11.9*#
+SODIUM-132* POTASSIUM-5.0 CHLORIDE-83* TOTAL CO2-19* ANION
+GAP-35*
+2014-10-15 00:00:00 05:46AM   ALT(SGPT)-24 AST(SGOT)-21 CK(CPK)-905* ALK
+PHOS-65 TOT BILI-0.4
+2014-10-15 00:00:00 05:46AM   CK-MB-13* MB INDX-1.4 cTropnT-0.05*
+2014-10-15 00:00:00 05:46AM   CALCIUM-9.2 PHOSPHATE-5.7*# MAGNESIUM-3.4*
+2014-10-15 00:00:00 05:46AM   OSMOLAL-325*
+2014-10-15 00:00:00 05:46AM   WBC-17.5* RBC-4.45* HGB-14.0 HCT-40.7 MCV-91#
+MCH-31.4 MCHC-34.4 RDW-12.0
+2014-10-15 00:00:00 05:46AM   PLT COUNT-489*
+2014-10-15 00:00:00 05:46AM   PT-13.6* PTT-28.8 INR(PT)-1.2*
+2014-10-15 00:00:00 03:56AM   TYPE-ART PO2-118* PCO2-19* PH-7.20* TOTAL
+CO2-8* BASE XS--18
+2014-10-15 00:00:00 03:56AM   GLUCOSE-348* LACTATE-12.1* K+-7.3*
+2014-10-15 00:00:00 03:56AM   freeCa-1.14
+2014-10-15 00:00:00 03:33AM URINE  HOURS-RANDOM UREA N-519 CREAT-109
+SODIUM-42 POTASSIUM-37 CHLORIDE-22 TOT PROT-9 PROT/CREA-0.1
+2014-10-15 00:00:00 03:33AM URINE  U-PEP-NO PROTEIN OSMOLAL-370
+2014-10-15 00:00:00 03:33AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS
+cocaine-NEG amphetmn-NEG mthdone-NEG
+2014-10-15 00:00:00 02:43AM URINE  COLOR-Straw APPEAR-Clear SP Brearley-1.010
+2014-10-15 00:00:00 02:43AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-100 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.5
+LEUK-MOD
+2014-10-15 00:00:00 02:43AM URINE  RBC-18* WBC-11* BACTERIA-NONE YEAST-NONE
+EPI-<1
+2014-10-15 00:00:00 02:43AM URINE  MUCOUS-RARE
+2014-10-15 00:00:00 02:28AM   GLUCOSE-408* UREA N-229* CREAT-27.8*
+SODIUM-124* POTASSIUM-7.8* CHLORIDE-72* TOTAL CO2-5* ANION
+GAP-55*
+2014-10-15 00:00:00 02:28AM   ALT(SGPT)-25 AST(SGOT)-23 LD(LDH)-300*
+CK(CPK)-753* ALK PHOS-65 TOT BILI-0.2
+2014-10-15 00:00:00 02:28AM   CK-MB-11* MB INDX-1.5 cTropnT-0.07*
+2014-10-15 00:00:00 02:28AM   TOT PROT-7.1 ALBUMIN-4.2 GLOBULIN-2.9
+2014-10-15 00:00:00 02:28AM   OSMOLAL-376*
+2014-10-15 00:00:00 02:28AM   GLUCOSE-366* K+-7.1*
+2014-10-15 00:00:00 12:50AM   K+-8.0*
+2014-10-15 00:00:00 12:20AM   GLUCOSE-344* UREA N-224* CREAT-27.4*#
+SODIUM-125* POTASSIUM-8.9* CHLORIDE-72* TOTAL CO2-6* ANION
+GAP-56*
+2014-10-15 00:00:00 12:20AM   estGFR-Using this
+2014-10-15 00:00:00 12:20AM   CK(CPK)-751*
+2014-10-15 00:00:00 12:20AM   CK-MB-11* MB INDX-1.5 cTropnT-0.06*
+2014-10-15 00:00:00 12:20AM   CALCIUM-10.1 PHOSPHATE-17.6* MAGNESIUM-6.6*
+2014-10-15 00:00:00 12:20AM   WBC-22.2*# RBC-4.74 HGB-14.6 HCT-46.5 MCV-98
+MCH-30.8 MCHC-31.4 RDW-11.8
+2014-10-15 00:00:00 12:20AM   NEUTS-69 BANDS-4 LYMPHS-16* MONOS-7 EOS-0
+BASOS-0 ATYPS-0 METAS-2* MYELOS-2*
+2014-10-15 00:00:00 12:20AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+
+Imaging:
+
+2014-10-15 00:00:00 ECG 1244AM: Uncertain atrial mechanism which could be
+sinus with low amplitude P waves versus accelerated junctional
+or idioventricular rhythm or sino-ventricular rhythm.
+Intraventricular conduction delay. Peaked T waves. ST segment
+elevation in lead V1 with right ventricular conduction delay and
+left anterior fascicular block. Combination of findings is
+strongly suggestive of hyperkalemia. No 123 Any St.us tracing
+available for comparison. Clinical correlation is suggested.
+
+2014-10-15 00:00:00 ECG: Normal sinus rhythm. Non-specific ST-T wave
+abnormalities.
+
+2014-10-15 00:00:00 CXR: IMPRESSION: Possible mild vascular plethora. Mild
+bibasilar atelectasis. No frank consolidation seen.
+
+2014-10-15 00:00:00 CT Abdomen/Pelvis: IMPRESSION:
+1. Massively dilated bladder, with mild hydronephrosis and
+hydroureter
+bilaterally.
+2. Sub-2 mm left renal stone.
+
+Lab Results on Discharge:
+
+2014-10-15 00:00:00 06:25AM BLOOD WBC-10.2 RBC-4.04* Hgb-12.3* Hct-37.6*
+MCV-93 MCH-30.6 MCHC-32.9 RDW-11.8 Plt Ct-322
+2014-10-15 00:00:00 06:25AM BLOOD Glucose-167* UreaN-13 Creat-1.2 Na-139
+K-3.5 Cl-108 HCO3-24 AnGap-11
+2014-10-15 00:00:00 06:25AM BLOOD CK(CPK)-694*
+2014-10-15 00:00:00 11:15AM BLOOD ALT-17 AST-29 LD(LDH)-210 CK(CPK)-1477*
+AlkPhos-46 TotBili-0.6
+2014-10-15 00:00:00 11:15AM BLOOD CK-MB-3 cTropnT-<0.01
+2014-10-15 00:00:00 06:25AM BLOOD Calcium-7.7* Phos-2.5* Mg-1.4*
+
+Brief Hospital Course:
+Primary Reason for Hospitalization:
+58yo male with diabetes, HTN who developed constipation and
+urinary retention likely from BPH and opiate use for new back
+pain. Patient was transferred from PCP to the UPMCE ED, where
+significant electrolyte abnormalities were noted. CT
+abdomen/pelvis showed massively distended bladder and bilateral
+hydronephrosis. EKG reported showed "peaked T waves." The renal
+service was consulted for urgent dialysis, and patient was
+transferred to MICU for hemodialysis. Post hemodialysis, patient
+was transferred to the Medicine Service, where his lisinorpil,
+hydrochlorothiazide, UPMCE, and metformin were stopped, in lieu
+of kidney injury. During his time on the Medicine Service, he
+was given antibiotics for suspected urinary tract infection,
+provided electrolyte supplementation and fluids, provided a
+diabetic diet, and monitored for improvement of uremic symptoms,
+kidney function, and acid-base status. Per urology
+recommendations, the patient was continued with a foley catheter
+throughout the stay, with the plan of removing the foley 5 days
+after discharge and following up with urology.
+
+Acute Care:
+
+1. Acute Renal Failure from bladder outlet obstruction:
+Patient presented to the hospital with inability to walk at home
+and with abdominal distension and acute renal failure. CT showed
+massively distended bladder and bilateral hydronephrosis in the
+setting of likely BPH and recent use of opiates for back pain.
+Foley catheter was placed to relieve the obstruction and
+patient's creatinine trended down from 27.4 on presentation to
+1.2 on discharge. Following relief of the obstruction, patient's
+fluid balance was matched with 1/2NS given post-obstructive
+diuresis which slowed prior to discharge. Foley catheter was
+left in place to be removed as outpatient with PCP and urology
+followup.
+
+2. Hyperkalemia:
+In the setting of patient's acute renal failure his potassium on
+presentation was 8.9. ECG revealed peaked T-waves. He went to
+the ICU for emergent HD via a femoral line. The patient's
+potassium trended down to 3.5. A repeat EKG did not find any
+further abnormalities. Lisinopril and HCTZ were held until renal
+function improved.
+.
+3. Anion Gap Metabolic Acidosis: Patient presented with a lactic
+acidosis in the setting of renal failure and metformin use.
+Metformin was held and renal abnormalities were corrected. He
+underwent one episode of HD while his kidneys recovered. The
+anion gap ultimately resolved from 56 to 11, while the bicarb
+trended up from 6 to 24. He was discharged off metformin.
+.
+4. Uremic Encephalopathy:
+Patient remained oriented to time and person throughout his
+hospital stay but lost orientation to place for 2 days following
+correction of uremia. He also was slightly combative when asked
+questions related to his job, trying to avoid detailed
+questions. On exam he displayed asterixis and inattentiveness
+when asked to state the months of the year backwards. His wife
+endorsed confusion as well. Thiamine and folate supplementation
+were given if there was an aspect of unknown alcoholism, but
+ultimately correction of patient's renal abnormalities and
+monitoring led to patient's recovery of orientation and less
+less confusion. By discharge he was A+Ox3, with no asterixis,
+and able to hold the attention to state the months of the year
+backwards.
+.
+5. Leukocytosis:
+Given the results of the urine culture and the urinalysis with
+lack of pyuria, the patient remained at low suspicion of urinary
+tract infection, and was thus taken off ceftriaxone, which was
+initially given for concern of UTI. The patient did not have any
+adverse effects towards withdrawal of antibiotics. The
+leukocytosis ultimately resolved from 22.2 to 10.1.
+.
+6. Elevated CK/CPK/Trop:
+Patient developed elevated CPK during his hospitalization.
+Simvastatin had been on hold since two days prior, and CK-MB and
+troponin were negative. Ultimately the cause was supected to be
+mild rhabdomyolysis from hypophosphatemia, and CPK was
+downtrending on discharge with phosphate re123 Any St.n and fluids.
+Simvastatin decided to be re-started as an outpatient.
+.
+Chronic Care:
+
+1. Diabetes:
+The patient's glipizide and metformin were held thoroughout the
+stay, and the patient was continued on Lantus and sliding scale
+insulin. The patient's blood sugars gradually trended down from
+344 to 167 by the end of the stay.
+.
+2. Hypertension:
+The patient remained normotensive with some intermittent
+elevations of blood pressure throughout the stay. Lisinopril and
+HCTZ were held throughout the stay.
+Normotensive  with some intermittent elevations.
+.
+Transitions in Care:
+Patient is discharged with foley catheter in place and should
+have this removed with voiding trial by his PCP.
+Jehoshua Brearley should be re-started as an outpatient.
+Patient should keep his f/u appointment with urologist for
+evaluation of his prostate, and opiates and anticholinergic meds
+should be avoided until prostate health is managed.
+
+Medications on Admission:
+1. Insulin Glargine 20units qhs
+2. Lisinopril-HCTZ 10-12.5mg daily
+3. Simvastatin 20mg daily
+4. Glipizide 10mg UPMCE
+5. Metformin 1000mg UPMCE
+6. Lispro Insulin Sliding Scale
+7. Cyclobenzaprine 10mg QPM
+8. Aspirin 81mg daily
+
+
+Discharge Medications:
+1. Aspirin Low Dose 81 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO once a day.
+2. insulin glargine 100 unit/mL Solution Sig: Twenty (20) units
+Subcutaneous at bedtime.
+3. insulin lispro 100 unit/mL Solution Sig: One (1) injection
+Subcutaneous as directed: as directed by your PCP.
+4. glipizide 10 mg Tablet Sig: One (1) Tablet PO twice a day.
+5. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) as needed for cough.
+Disp:*45 Capsule(s)* Refills:*0*
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Primary: acute urinary obstruction
+acute kidney injury
+.
+Secondary: hypertension
+diabetes
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. Brearley,
+.
+It was a pleasure taking part in your care. You were admitted to
+the hospital because you were retaining urine in the bladder and
+your kidneys were injured. The obstruction seems to be a
+combination of enlarged prostate and use of pain medications
+with opiates. This caused abnormalities in your blood chemistry
+which required urgent dialysis. We relieved the obstruction in
+your bladder with a catheter and your kidneys recovered very
+well. You were discharged with the catheter in place which will
+be removed as an outpatient.
+.
+Please make the following changes to your medications:
+1. STOP taking tylenol with codeine
+2. STOP taking lisinopril/hydrochlorothiazide
+3. STOP taking cyclobenzaprine
+4. START taking Lisinopril 20mg once daily by mouth.
+.
+Please take all other medications as 123 Any St.usly prescribed to
+you. Please keep all follow-up appointments.
+
+
+Followup Instructions:
+Name: Brearley,[**First Name3 (LF) 4295**]
+Location: UPMCE
+Address: 123 Any St., 123 Any St.,[**Numeric Identifier 2226**]
+Phone: test@mail.com
+Appointment: Thursday 2014-10-15 00:00:00 2:20pm
+.
+Name: [**First Name9 (NamePattern2) 4296**] Brearley-Piose
+Location: UPMCE-Urology
+Address: 123 Any St., 123 Any St.,[**Numeric Identifier 2226**]
+Phone: test@mail.com
+Appointment: Monday 2014-10-15 00:00:00 8:15am
+
+
+                             Jehoshua Brearley MD, 96284
+

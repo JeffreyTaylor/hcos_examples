@@ -1,0 +1,26 @@
+Admission Date: 2008-02-28 00:00:00        Discharge Date: 2008-02-28 00:00:00
+
+Date of Birth:                    Sex:  F
+
+Service:
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 70-year-old
+female with a complex medical history who was admitted after
+a cardiac arrest on 2008-02-28 00:00:00.  She was initially taken to the
+CCU, thought to be in congestive heart failure.  Subsequently
+developed sepsis, acute ARDS, respiratory-cardiopulmonary
+failure.  On 2008-02-28 00:00:00, at 3:15 p.m., the patient was
+pronounced dead.  Family was at bedside.
+
+Date of death 2008-02-28 00:00:00.  Time of death 3:15 p.m.
+
+
+
+                        Averyana Mask, 710
+
+Dictated By:Karden Corsette
+MEDQUIST36
+D:  2008-02-28 00:00:00 16:12:18
+T:  2008-02-28 00:00:00 01:55:14
+Job#:  710

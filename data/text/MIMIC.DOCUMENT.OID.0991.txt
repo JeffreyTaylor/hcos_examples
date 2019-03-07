@@ -1,0 +1,345 @@
+Admission Date:  2011-12-03 00:00:00              Discharge Date:   2011-12-03 00:00:00
+
+Date of Birth: 1969-07-22 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Kadezia Kazmark
+Chief Complaint:
+Abdominal Pain, Diarrhea
+
+Major Surgical or Invasive Procedure:
+- Central Venous Line
+- PICC Line
+
+
+History of Present Illness:
+83 yom with severe AS s/p AVR and 2011-12-03 00:00:00+ AR on most recent ECHO
+from 2011-12-03 00:00:00, atrial flutter, and h/o urinary retention with
+chronic indwelling Foley who presents with fever. Per the
+family, pt has been having diarrhea and decreased po intake for
+the past week. He was not complaining of abdominal pain, nausea,
+or vomiting. His stool was black but he is on iron. His daughter
+took him to see his PCP where he had CBC, urine cx, and stool
+cxs, all of which were negative. His diarrhea has not improved.
+On Tuesday, VNA changed his Foley. The patient felt that it was
+not in correctly. No hematuria. Then today, the patient's
+grandson noted that the pt was warm to the touch. He had a
+temperature of 101. The pt was noted to appear fatigued, have
+malaise. No sick contacts.
+.
+In the ED, initial VS: 100 130 95/52 16 89RA. BP fell to 80s/40s
+and patient was started on levophed. Exam was sig. for tender
+lower abdomen. CT showed malpositioned foley catheter, may be in
+prostate, and markedly distended bladder with associated
+hydroureter and hydronephrosis. His Foley was advanced with
+release of 1200 cc of urine. He received 3 L NS and
+vanc/levaquin/flagyl. RIJ was placed and patient was started on
+levophed, which is currently at 0.1 mcg/kg/hr with BP of 93/44,
+HR 92. RR20. 95% RA. CVP 11.
+
+
+Past Medical History:
+- severe AS, s/p valvuloplasty 2011-12-03 00:00:00, then AVR 2011-12-03 00:00:00 (19 mm
+Tasch-Kalman bovine pericardial prosthesis), repair 2011-12-03 00:00:00,
+latest ECHO from 2011-12-03 00:00:00 reported 2011-12-03 00:00:00+ AR.
+- CHF 2011-12-03 00:00:00 AS (no CAD) EF 55-60%
+- atrial flutter/fib
+- colon adenoCA s/p R colectomy 2011-12-03 00:00:00
+- h/o urinary retention - chronic indwelling foley
+- h/o manic depression/anxiety
+- Iron deficiencyanemia--baseline 31-32%
+- Zenkers diverticulum s/p surgical repair 2011-12-03 00:00:00
+- h/o splenomegaly and thrombocytosis
+- b/l inguinal hernia repair 35y ago, right inguinal hernia 2011-12-03 00:00:00
+
+- h/o esophageal stenosis
+- pulmonary asbestosis diagnosed by CT scan in 2011-12-03 00:00:00
+- h/o jejunal microperforation diagnosed by barium swallow in
+2011-12-03 00:00:00
+- left rotator cuff partial tear
+- hard of hearing
+
+
+Social History:
+Pt lives at home w/ wife who also has dementia. His family
+brings him meals at night and his daughter Kalman Tasch Kalman Tasch, his
+healthcare proxy, is a nurse Kalman Kalman Tasch and brings medications for
+him. He has home VNA services helping him and his wife around
+the house as well.
+
+
+Family History:
+NC
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+- Tmax: 37.4 ??????C (99.3 ??????F)
+- Tcurrent: 37.4 ??????C (99.3 ??????F)
+- HR: 89 (89 - 90) bpm
+- BP: 96/65(71) {93/42(55) - 96/65(71)} mmHg
+- RR: 17 (13 - 22) insp/min
+- SpO2: 98%
+- General Appearance: No acute distress, Thin
+ -Eyes / Conjunctiva: No(t) PERRL, R pupil larger than L, both
+reactive
+- Head, Ears, Nose, Throat: Normocephalic, Edentulous
+- Lymphatic: Cervical WNL, Supraclavicular WNL
+- Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic,
+Diastolic)
+- Peripheral Vascular: (Right radial pulse: Present), (Left
+radial pulse: Present), (Right DP pulse: Present), (Left DP
+pulse: Present)
+- Respiratory / Chest: (Breath Sounds: Crackles : bibasilar)
+- Abdominal: Soft, Non-tender, Bowel sounds present,
+non-Distended
+- Extremities: Right lower extremity edema: Absent, Left lower
+extremity edema: Absent
+- Musculoskeletal: Muscle wasting
+- Skin:  Not assessed
+- Neurologic: Attentive, Follows simple commands, Responds to:
+Verbal stimuli, - Oriented (to): self, UPMCE, 2011-12-03 00:00:00,
+Movement: Purposeful, Tone: Not assessed
+
+
+
+Pertinent Results:
+Admission Labs:
+2011-12-03 00:00:00 03:00PM   WBC-11.1* RBC-3.88* HGB-11.8* HCT-34.5*
+MCV-89 MCH-30.3 MCHC-34.1 RDW-16.6* NEUTS-81* BANDS-13*
+LYMPHS-2* MONOS-3 EOS-0 BASOS-0 ATYPS-0 METAS-1* MYELOS-0
+HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+ MACROCYT-NORMAL
+MICROCYT-NORMAL POLYCHROM-1+ OVALOCYT-1+ SCHISTOCY-1+
+TEARDROP-1+ BITE-OCCASIONAL PLT SMR-NORMAL PLT COUNT-385
+
+2011-12-03 00:00:00 03:00PM   PT-15.5* PTT-31.4 INR(PT)-1.4*
+2011-12-03 00:00:00 03:00PM URINE  COLOR-Yellow APPEAR-Cloudy SP Tasch-1.009
+BLOOD-LG NITRITE-NEG PROTEIN-75 GLUCOSE-NEG KETONE-NEG
+BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-MOD
+
+2011-12-03 00:00:00 03:00PM   cTropnT-0.05*
+
+Imaging
+- CT Abdomen: Malpositioned Foley catheter, likely lying within
+the prostatic urethra, with the balloon possibly within the
+penile urethra. Associated marked distension of the bladder, and
+new mild-to-moderate hydronephrosis and hydroureters
+bilaterally. Parenchymal opacity within the left lower lobe in
+the lung, could reflect atelectasis. However, superimposed
+consolidation cannot be excluded. Cholelithiasis without
+secondary findings for cholecystitis. Diverticulosis.
+- CXR: No acute cardiopulmonary abnormality.
+
+Microbiology
+
+Blood Culture Results
+- KLEBSIELLA PNEUMONIAE.    FINAL SENSITIVITIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+- E.COLI.                  123 Any St.INARY SENSITIVITIES
+
+                             SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------       R
+CEFTRIAXONE-----------  =>64 R
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     2 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+
+Brief Hospital Course:
+A/P: 83 yom admitted with septic shock and GNR bacteremia, h/o
+AS s/p AVR, A.flutter with variable block, chronic urine
+retention (dynamic analysis showed bladder atony) w/ chronic
+foley.
+.
+# Septic shock: Patient was treated with IVF, levophed (from
+2011-12-03 00:00:00 to 2230 on 2011-12-03 00:00:00.), and empiric vanc/zosyn given a history
+of MDR pathogens. Blood cultures 10/29 grew 2 species of GNR,
+vancomycin discontinued. Urine was believed to be likely source
+given chronic indwelling foley and past urine Cx's. Other
+sources discussed included GI, hepatobilliary, peri-rectal.
+Prostate exam was unremarkable, demonstrating no tenderness and
+there was no evidence of colitis or hepatobilliary disease on CT
+scan and no evidence of abscess on rectal. Of note, UCx drawn at
+the time was contaminated with "fecal flora," so 1:1 correlation
+cannot be established as source. On 2011-12-03 00:00:00 antibiotics were
+switched to Meropenem and Ciprofloxacin for double
+anti-pseudomonal coverage. Antibiotics were then narrowed to
+Meropenem only on 2011-12-03 00:00:00 after sensitivities returned. Speciation
+of ED blood Cx + for E.Coli and K.Pneumo x 2 sets with
+sensitivities K.Pneumo (pan-sensitive) and E.Coli (sensitive to
+only genatmicin and meropenem). Patient remained afebrile on
+floor and his clinical picture drastically improved.  He was
+alert and oriented x 3 and was able to participate in regular
+physical therapy sessions.
+.
+# UTI: chronic retention at baseline req. indewelling foley with
+past urine Cx's showing same MDR E.Coli as current blood Cx.
+There was initial concern for prostatitis in setting of
+malpositioned foley catheter; however, rectal exam was
+unremarkable. Patient was continued on Meropenem as discussed
+above.  He was referred to urology for further evaluation.  Of
+note, patient may benefit from a urinary diversion (ex:
+appendicovescular shunt) to eliminate the issue of chronic
+indwelling foley. This may improve his quality of life,
+preventing recurrent UTI's and helping with ambulation.
+.
+# Anemia: HCT at admission 34.5 trended down to nidus of 25.4
+now 29.4 without intervention. Baseline in high 20's based on
+OMR and normal MCV. Believe large component may have been
+dilutional 2011-12-03 00:00:00 over resucitation, now resolving. With normal
+MCV, chronic blood loss seems less likely. RDW slightly elevated
+suggesting RBC production. Smear was not typical of any single
+process.  Patient had known diagnosis of Fe deficiency anemia
+and this is likely mixed with anemia of chronic disease. Stools
+were guiac'd and negative. His HCT remained stable.
+.
+# A. Flutter: patient initially presented with AFlutter with RVR
+and variable block. Patient with A.Flutter at baseline and may
+have had component of demand ischemia at initial presentation
+2011-12-03 00:00:00 RVR and hypotension, TN's slightly elevated at admission but
+stable. Patient was monitored for several days on telemtry and
+was stable.  Rate was well controlled without nodal agents.
+Patient was maintained on daily aspirin.
+.
+# Dementia: patient reports feeling confused while in hospital
+but remains A + O x 3. Component likely 2011-12-03 00:00:00 to illness, hospital
+stay. Objectively, patient was quite lucid inspite of his
+subjective complaints. Patient was maintained on his home
+donepezil dose. Nightly vitals were discontinued, visual cues
+were increased and SCD's were discontinued to help with possible
+delerium.
+.
+# Access: R. IJ was initialy placed in setting of septic shock
+for pressor requirement. R. IJ was dc'd after PICC line placed
+to complete 2 week course of IV antibiotics.
+.
+# Orthostasis: Patient was continued on home dose of
+fludrocortisone.
+.
+# Diarrhea: Patient intially presented with c/o diarrhea x 1
+week.  While on the medicine floor, patient's stools remained
+unremarkable. On the day prior to discharge, stool frequency
+increased and sample was sent for C.Diff toxin and culture. At
+the time of discharge C.Diff was neg. x 1.
+.
+# Dispo: patient was discharge to UPMCE Rehab MACU for further
+management.  Follow up appoint to urology was made.  PCP was
+Kalman Tasch and agreed to contact patient's daughter with
+appointment details.
+
+
+Medications on Admission:
+1. Aspirin 325 mg PO DAILY
+2. Omeprazole 20 mg PO DAILY
+3. Fludrocortisone 0.1 mg PO BID
+4. Ferrous Sulfate 325 mg PO DAILY
+5. Multivitamin PO DAILY
+6. Aricept daily
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for Fever, Pain.
+5. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+6. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: One (1) ML
+Intravenous PRN (as needed) as needed for line flush.
+7. Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous Q6H (every 6 hours) for 10 days: Complete 14 day
+course ending on 2011-12-03 00:00:00.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+Sepsis
+
+
+Discharge Condition:
+Good. Improved.
+
+
+Discharge Instructions:
+Mr Tasch,
+
+You were admitted to the hospital for a blood infection which
+likely came from your urine.  This infection requires 14 days of
+intravenous antibiotics.  You will be discharged to a rehab
+facility where you can regain your strength, improve your
+nutrition and receive the full course of antibiotics.
+
+Please call your primary care doctor or return to the emergency
+department for any of the following:
+
+- fevers, chills
+- chest pain, difficulty breathing, feeling dizzy, passing out
+- nausea with vomiting
+- abdominal pain, continued or worsening diarrhea
+- any other new or change in symptoms which concern you
+
+Please note the following appointments we have made for you:
+
+Urology:
+- Provider: Kalman Tasch, MD Phone:test@mail.com Date/Time:
+2011-12-03 00:00:00 2:00
+
+Primary care doctor's office will be calling your daughter
+(Kalman Tasch) test@mail.com to schedule follow-up appointment in 2
+weeks.
+
+Followup Instructions:
+Provider: Kalman Tasch, MD Phone:test@mail.com
+Date/Time:2011-12-03 00:00:00 2:00
+
+Primary care doctor's office will be calling daughter (health
+care proxy) test@mail.com to schedule follow-up appointment in 2
+weeks.
+
+
+                             Kalman Kalman Tasch Kalman Tasch MD, DMD 6497
+

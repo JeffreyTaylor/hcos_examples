@@ -1,0 +1,248 @@
+Admission Date:  2014-08-02 00:00:00              Discharge Date:   2014-08-02 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Valium
+
+Attending:Youlonda Navarrete
+Chief Complaint:
+Possible GIB
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. Youlonda Navarrete is a 24yo M from MACU at UPMCE Rehab baseline Alert
+and Orientedx3 , h/o Parkinson's s/p trach, multiple aspiration
+events, HTN, and recent admission s/p possible arrest with cpr
+complicated by PTX requiring chest tube, now presenting from
+rehab with dark output from his g-tube, concerning for GI bleed.
+Per rehab records and patient's wife, patient was in his USOH
+(sometimes confused but mostly oriented on vent at night with
+settings: AC 500X10 FiO2 30% PEEP 5) until about 3 weeks ago
+when he had some bleeding around his trach site thought 2014-08-02 00:00:00
+excessive suctioning. The bleeding persisted, however, so
+lovenox (on for DVT ppx) was discontinued. The bleeding then
+stopped but this am he was noted to have 200ML "guaic positive?"
+output from G Tube concerning for bleed so sent into our ED.
+In ED initial vs: 97 60 143/83 12 100. Patient placed on vent
+and is on vent at night at rehab. G tube output appearance was
+dark like charcoal not coffee grounds. Recent bleeding from
+trach, unclear if this would be the souce of the possible blood
+from G tube but no bleed currently seen around site. guiac
+negative stool in the ED. CT abd neg.
+
+.
+On arrival to the ICU, patient is trached and vented. His wife
+accompanied him and says he is at baseline except he missed some
+sinemet doses so he is a little more tremulous.
+.
+Review of systems: Pt unable to answer extensive ROS at this
+time.
+
+
+Past Medical History:
+1. h/o aspiration PNA - Tx with levo, unasyn, vanco/zosyn in the
+past
+2. h/o aspiration s/p swallow eval with swallowing difficulty,
+s/p 2014-08-02 00:00:00 placement on 2014-08-02 00:00:00 - pt continues to feed for pleasure
+at Heb Reb
+3. Parkinson's
+4. Osteoporosis
+5. T11/12 compression fx
+6. LLE osteomyelelitis as a child/Chronic osteomyelitis,
+quiescent.
+7. granulomatous liver disease
+8. LUE rotator cuff tear
+9. Prostate cancer s/p orchiectomy in 2014-08-02 00:00:00
+10. s/p laminectomy L4-5
+11. Cataracts s/p surgery
+2014-08-02 00:00:00. Glaucoma
+13. Hypertension
+14. Pt s/p recent tx for pseudomonas and aspiration PNA at heb
+reb
+15. s/p Trach with night ventilator support.
+16. s/p wrist fx
+17. chronic constipation
+18. Chronic abd pain- per Heb Reb notes
+19. Recent admission after likely vasovagal event at heb/reb s/p
+chest compressions complicated by PTX s/p chest tube
+
+
+Social History:
+The patient has a sixty-pack-year history of tobacco. He quit in
+2014-08-02 00:00:00. He lives at UPMCE rehab MACU for last 3 hrs. He is a
+retired history professor. Giacomin Bieler, no alcohol intake.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+GEN: ventilated, cachectic elderly M in NAD
+HEENT: Dry MM
+Neck: Flat JVP. Trach site clead and dry without exudates
+LUNGS: Ctab with upper airway sounds only
+HEART: RRR no m/r/g
+ABD: G tube site clean without exudates or erythema
+Extrem: No edema
+
+
+Pertinent Results:
+ADMISSION LAB VALUES
+2014-08-02 00:00:00 09:50AM BLOOD WBC-6.1 RBC-3.07* Hgb-8.4* Hct-26.8*
+MCV-87# MCH-27.3# MCHC-31.3 RDW-16.3* Plt Ct-267
+2014-08-02 00:00:00 09:50AM BLOOD Neuts-69.8 Lymphs-21.8 Monos-5.8 Eos-2.2
+Baso-0.6
+2014-08-02 00:00:00 09:50AM BLOOD PT-12.1 PTT-22.0 INR(PT)-1.0
+2014-08-02 00:00:00 09:50AM BLOOD Plt Ct-267
+2014-08-02 00:00:00 09:50AM BLOOD Glucose-94 UreaN-30* Creat-0.7 Na-141
+K-4.9 Cl-103 HCO3-31 AnGap-12
+2014-08-02 00:00:00 09:50AM BLOOD cTropnT-0.06*
+2014-08-02 00:00:00 09:50AM BLOOD Lipase-169*
+2014-08-02 00:00:00 09:50AM BLOOD ALT-0 AST-27 AlkPhos-88 TotBili-0.2
+2014-08-02 00:00:00 09:50AM BLOOD Albumin-3.7
+2014-08-02 00:00:00 10:04AM BLOOD Type-Bieler pH-7.34* Comment-GREEN TOP
+2014-08-02 00:00:00 10:17AM BLOOD Type-ART Rates-/10 Tidal V-500 FiO2-35
+pO2-113* pCO2-50* pH-7.42 calTCO2-34* Base XS-7 -ASSIST/CON
+2014-08-02 00:00:00 10:04AM BLOOD Glucose-91 Lactate-0.9 Na-140 K-4.5
+Cl-99* calHCO3-33*
+2014-08-02 00:00:00 10:04AM BLOOD freeCa-1.13
+
+DISCHARGE LAB VALUES
+
+2014-08-02 00:00:00 03:06AM BLOOD WBC-5.7 RBC-2.94* Hgb-8.1* Hct-25.1*
+MCV-85 MCH-27.5 MCHC-32.3 RDW-16.1* Plt Ct-209
+2014-08-02 00:00:00 03:06AM BLOOD PT-12.7 PTT-25.5 INR(PT)-1.1
+2014-08-02 00:00:00 03:06AM BLOOD Plt Ct-209
+2014-08-02 00:00:00 03:06AM BLOOD Glucose-77 UreaN-23* Creat-0.7 Na-139
+K-3.5 Cl-103 HCO3-29 AnGap-11
+2014-08-02 00:00:00 03:06AM BLOOD Calcium-8.5 Phos-2.7 Mg-2.1
+
+Brief Hospital Course:
+Mr. Bieler is a 24yo M from UPMCE Rehab baseline Alert and
+Orientedx3 , h/o Parkinson's s/p trach, multiple aspiration
+events, HTN, PTX admitted with bleeding around trach site and
+possible GIB.
+.
+# Trach site bleeding/GIB: Patient was admitted out for concern
+for GI bleed.  Hct was 25.6 at rehab on 2014-08-02 00:00:00 and stable on
+admission and throughout hospital course, so a large GI bleed
+was felt to be unlikely.  The situation was felt to be
+consistent with a trach site bleed with aspiration.  Dark fluid
+from 2014-08-02 00:00:00 to gravity was consistent with the color of medications
+(iron) the patient usually receives.  Pt was guaiac and
+gastroccult negative.  We maintained an active Type and Screen,
+and monitored his hematocrits regularly; he did not require any
+transfusions.  His tube feeds were restarted when we felt that
+the bleed was more from the trach site (which is now resolved).
+We continued him at first on a PPI IV BID, but then transitioned
+him to daily PPI.  Pt has been asymptomatic, and given low
+probability of GI bleed, a GI consult was not called for this
+patient. (Of note, his Hct was stable compared to a hct of 24.0
+in 2014-08-02 00:00:00).
+.
+# Respiratory failure: chronically trached.  The patient was
+continued on his home vent settings and we continued his home
+nebulizer treatments.  There was a noted cuff-[**Year (4 digits) 3515**] from his
+trach, and this was evaluated by respiratory therapy, who
+contactGiacomin Bieler respiratory therapy at UPMCE Rehab.  Essentially,
+this is a long standing issue, and further management has been
+deferred to the team at UPMCE Rehab.
+.
+# UTI: We held off on treating the patient for his positive UA
+as he is likely chronically colonized and was afebrile
+throughout.  Urine Cx was negative.  A foley was inserted for
+high volume on a bladder scan.  As per report, Mr. Bieler
+requires periodic straight cath to drain his bladder.
+.
+# Parkinson's disease: Pt with severe dysphagia, and
+tracheostomy.  On admission, patient was slightly more rigid
+than normal, which was attributed to missing a dose of
+medications.  He was continued on home PD medications, and his
+neurological exam returned to baseline as per conversation with
+the patient's wife.
+
+Medications on Admission:
+(per MACU med list)
+Carbidopa-Levodopa 50-500 PO 7 times daily at 5, 8, 11, 14, 17,
+20, 23.
+Acetaminophen 325-650 mg PO Q6H as needed for pain.
+Fluticasone 50 mcg 1 Spray Nasal UPMCE
+Latanoprost 0.005 % Drops 1 Drop HS both eyes.
+Ipratropium-Albuterol Four Puff Inhalation UPMCE
+Pramipexole 0.125 mg PO seven times daily
+Pramipexole 0.5mg PO Qpm
+Bisacodyl 10 mg DAILY as needed for constipation.
+Polyethylene Glycol PO DAILY (Daily).
+Chlorhexidine Gluconate QID
+Entacapone 200 mg PO seven times
+Dorzolamide-Timolol 2-0.5 % 1 Drop UPMCE both eyes.
+GEntamycin nebulizer 80mg UPMCE
+Lactulose 30 ML PO TID
+Iron 325mg daily
+ARitficial tears TID
+OMeprazole 20mg daily
+
+
+Discharge Medications:
+Carbidopa-Levodopa 50-500 PO 7 times daily at 5, 8, 11, 14, 17,
+20, 23.
+Acetaminophen 325-650 mg PO Q6H as needed for pain.
+Fluticasone 50 mcg 1 Spray Nasal UPMCE
+Latanoprost 0.005 % Drops 1 Drop HS both eyes.
+Ipratropium-Albuterol Four Puff Inhalation UPMCE
+Pramipexole 0.125 mg PO seven times daily
+Pramipexole 0.5mg PO Qpm
+Bisacodyl 10 mg DAILY as needed for constipation.
+Polyethylene Glycol PO DAILY (Daily).
+Chlorhexidine Gluconate QID
+Entacapone 200 mg PO seven times
+Dorzolamide-Timolol 2-0.5 % 1 Drop UPMCE both eyes.
+GEntamycin nebulizer 80mg UPMCE
+Lactulose 30 ML PO TID
+Iron 325mg daily
+ARitficial tears TID
+OMeprazole 20mg daily
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+Respiratory distress with bleeding at trach site
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+Dr. Bieler it was a pleasure caring for you at UPMCE.  You were
+admitted from UPMCE Rehab MACU with concern for a possible GI
+bleed.  During your work up here at UPMCE, we test the contents
+from your UPMCE tube and stool, and found that there was no blood
+present.  A CT scan of your abdomen/pelvis showed that you were
+very constipated but no other concerning findings.  Your blood
+counts were monitored closely and remained stable.  After an
+aggressive bowel regimen your constipation resolved and you were
+able to tolerate your tube feeds at your prior rate.
+.
+We did not make any changes to your medication regimen during
+your stay, please continue to take all medications as 123 Any St.usly
+prescribed.
+
+Followup Instructions:
+You will continue to be followed by the physicians at the UPMCE
+Rehab MACU after your discharge.
+
+
+                             Giacomin Bieler Giacomin Bieler MD 9253
+

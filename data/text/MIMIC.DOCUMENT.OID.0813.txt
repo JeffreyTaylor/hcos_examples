@@ -1,0 +1,377 @@
+Admission Date:  2011-09-26 00:00:00              Discharge Date:   2011-09-26 00:00:00
+
+Date of Birth: 1993-09-22 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Neomycin
+
+Attending:Hatsumi Bricher
+Chief Complaint:
+fever, altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+72yo F quadri123 Any St. with chronic indwelling foley, presented
+from UPMCE to UPMCE ED via EMS on 2011-09-26 00:00:00 w/ decreased mental
+status, cloudy urine, fever, and hypotension.
+.
+In the ER, her SBP dropped quickly from 100 to 60s and code
+sepsis called. She was noted to have milky white urine coming
+from her indwelling foley catheter. Her foley catheter was then
+changed and she was started on IV abx - zosyn (despite report of
+vague allergy) and linezolid. She initially required pressors
+for blood pressure control.
+.
+Early in the UPMCE course pt was weaned off pressors. Blood cx's
+returned with pan sensitive e. coli. Urine culture at present is
+grown two separate GNR's, and decision was made to continue with
+double GNR coverage (Zosyn and levofloxacin) out of concern for
+possible reistant pseudomonas. Other complication early in
+course of UPMCE stay included reanl failure which is responding
+well to re-hydration. Pt also complained of a headache in the
+UPMCE. CT of head was without acute findings, and headache
+responded fully to tylenol, therefore no further work up was
+pursued by the UPMCE team.
+.
+On arrival to floor pt denies any complaints.
+
+Past Medical History:
+# C4 quadri123 Any St. s/p fall 2011-09-26 00:00:00
+# hiatal hernia
+# HTN
+# h/o decubitus ulcers
+# diverticulitis
+# recurrent UTI from indwelling foley catheter -> + VRE in past
+
+# neurogenic bladder
+# muscle spasms - often precede development of UTI
+# ?DM - "diet controlled"
+# h/o seizures
+# h/o herpes zoster
+
+Social History:
+Lives in 123 Any St. (123 Any St. Manor). No tob, no EtOH. Married, husband
+is very involved in her care.
+
+Family History:
+NC
+
+Physical Exam:
+VS - T 98, BP 132/45, HR 72, RR 16, sats 95% on RA
+Gen: Thin, elderly female, in contorted positioning, NAD.
+HEENT: Neck supple. R IJ in place. Nontender, dsg c/d/i. PERRLA,
+OP clear, no exudates or erythema. MM moist
+CV: RR, normal S1, S2. No m/r/g.
+Lungs: CTA anteriorly and laterally, along her sides.
+Abd: Soft, NTND. Hypoactive BS. No HSM noted on exam. No
+suprapubic tenderness or CVAT.
+Ext: 2+ PT/DP pulses bilaterally. No c/c/e. Skin dry.
+Neuro: Oriented x 3.
+
+Pertinent Results:
+HCT 25-26
+folate 10.6, ferritin 258, B12 156, Fe 5, TIBC 159
+WBC 33 -> 7.8
+.
+Creatinine 2.3 -> 1.0
+FENa 0.46%
+.
+Sodium 147 -> 130's -> 146
+Lactate 3.9 -> 2.3
+.
+alb 2.8
+.
+INR 1.3 -> 1.1
+.
+Cortisol 33, TSH 2.2
+.
+MICRO:
+2011-09-26 00:00:00 - contaminated
+2011-09-26 00:00:00 - 2011-09-26 00:00:00 blood cx with pan sensitive e coli  (see below)
+2011-09-26 00:00:00 - blood cultures no growth to date
+C diff negative x 4
+2011-09-26 00:00:00 - bullous aspirate: gram stain negative, culture with no
+growth
+2011-09-26 00:00:00 - urine culture with no growth
+.
+AEROBIC BOTTLE (Final 2011-09-26 00:00:00):
+      ESCHERICHIA COLI.
+         IDENTIFICATION AND SENSITIVITIES PERFORMED FROM
+ANAEROBIC BOTTLE.
+
+ANAEROBIC BOTTLE (Final 2011-09-26 00:00:00):
+      REPORTED BY PHONE TO 123 Any St. [**Doctor Last Name 5682**] AT 1:58A 2011-09-26 00:00:00.
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------     2 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+PATHOLOGY:
+Skin, left forearm, superficial epidermis ('jelly roll')
+specimen (A):
+     Thin strips of epidermis with minimal necrosis, see note.
+Note: The vast majority of the epidermis present in this
+specimen is viable, arguing against a diagnosis of
+TENS/123 Any St.. While a few eosinophils are noted adjacent
+to the epidermis, in the context of such a superficial specimen,
+the finding is not specific. The separation of the epidermis
+appears to be at the dermal-epidermal junction. Dr. Amesquita
+notified of diagnosis on 2011-09-26 00:00:00.
+.
+IMAGING:
+CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST: The evaluation
+of the upper abdomen is severely limited due to beam hardening
+effect from patient's arms.
+There are small bilateral pleural effusions, right greater than
+left, with bilateral dependent atelectasis.
+In this limited evaluation of the upper abdomen, the liver,
+gallbladder, spleen, pancreas, and adrenals are unremarkable.
+There is no large stone in the kidneys, and both kidneys are
+excreting contrast symmetrically. The aorta and its major
+abdominal branches are patent. There is no evidence of bowel
+obstruction.
+CT OF THE PELVIS WITH AND WITHOUT IV CONTRAST: The 123 Any St.usly
+seen (2011-09-26 00:00:00 CT) right retroperitoneal/paracolic
+gutter fluid collection is no longer visualized. Large bowel
+diverticulosis is present without evidence of diverticulitis. A
+small amount of free fluid is present in the presacral area.
+Additionally, there is extensive subcutaneous edema consistent
+with anasarca.
+There are no suspicious lytic or blastic lesions in the osseous
+structures. Degenerative changes are noted.
+CT RECONSTRUCTIONS: Multiplanar reconstructions confirm the
+above findings.
+IMPRESSION: Limited study. Anasarca with bilateral small pleural
+effusions and small amount of fluid in the presacral area. Large
+bowel diverticulosis without evidence of diverticulitis. No
+evidence of renal stones but since the evaluation is limited an
+ultrasound can be helpful if there is a persistent concern for
+renal stones.
+.
+HEAD CT WITHOUT CONTRAST.
+CLINICAL INDICATION: Mental status changes. Assess for
+intracranial hemorrhage.
+Multiple axial images are obtained from base to vertex without
+intravenous contrast administration. Comparison is made to the
+prior head CT from 2011-09-26 00:00:00.
+There are no focal lesions seen within the brain parenchyma. The
+sensitivity of the examination is lower due to the lack of
+intravenous contrast administration. No midline shift, mass,
+mass effect, or hemorrhage is noted. A small low density is seen
+within the right frontal lobe on image 23, suggestive of an old
+infarct. This was present on the 123 Any St.us exam. The calvarium is
+intact. There is no subdural hemorrhage. Slightly decreased
+attenuation is noted involving the left frontal white matter,
+which probably represents volume averaging. The calvarium is
+intact.
+IMPRESSION: No acute intraparenchymal hemorrhage seen.
+.
+2011-09-26 00:00:00 CXR - The tip of a right internal jugular vein overlies
+the mid SVC. The radiograph is otherwise insignificantly
+changed. Numerous calcified granulomas scattered throughout both
+lungs with upper lobe predominance. No airspace consolidations
+are identified. The heart and mediastinal contours with a
+calcified aorta are unchanged. No pneumothorax is identified.
+IMPRESSION: Right IJ catheter overlying mid SVC without
+pneumothorax.
+
+Brief Hospital Course:
+# E coli Urosepsis:
+Patient was initially admitted to the ICU per the sepsis
+protocol.  She was managed with levophed and IVF to sustain her
+blood pressure and was covered broadly with linezolid (given h/o
+VRE) + zosyn.  Once GNR identified in blood, linezolid was d/c
+and patient was double covered with levofloxacin/zosyn pending
+sensitivities.  Blood cultures grew pan sensitive E coli and
+thus antibiotics were tailored to levofloxacin only with a plan
+for a total of 14 days to treat.  Her foley was replaced and
+repeat urinalysis and urine culture 2011-09-26 00:00:00 negative for evidence
+of persistent infection and surveillance blood cultures are
+negative.  Initial urine culture was contaminated. No other
+source of infection identified: CT abdomen for continued stomach
+spasms was negative for inflammatory pathology and CXR was
+without evidence of an infiltrate.  Of note, numerous calcified
+granulomas throughout both upper lung zones (seen on 123 Any St.us
+CXRs here at UPMCE) suggest history of remote tb or histo
+exposure.  No current cough to suggest active infection.
+.
+# Bullous rash:
+Patient developed superficial bullae on her left forearm at the
+site of an IV infiltration.  Dermatology was consulted for
+concern for SJS or TEN.  Patient refused punch biopsy but shave
+biopsy showed no evidence of epidermal necrosis to suggest TEN
+or SJS.  Possibility of bullous pemphigoid was considered, but
+punch bx would be needed to diagnose this.  Aspirate gram stain
+and culture were negative for underlying infection.  Treatment
+would likely be topical steroid given age and comorbidities.
+However, no further lesions have developed.  Plan to continue
+current wound care for now with PCP Amesquita.
+.
+# Acute renal failure:
+Admission creatinine 2.3.  FENa 0.46%, suggesting prerenal.
+Creatinine returned to baseline with IVF.
+.
+# Headache:
+Patient complained of pain behind her eyes while in the ICU.
+Ophthamology was consulted and found no evidence of acute
+issues.  Head CT showed no evidence of bleed.  Patient refused
+LP and headache responded to tylenol.  Patient continues to have
+occasional tension in the right temporal region, which improves
+with massage to the area.
+.
+# Anemia:
+Patient's hematocrit remained stable between 25-26.  B12 was low
+and is being repleted IM.  Folate and iron studies were normal.
+Elevated ferritin suggestive of possible AOCD.
+.
+# Muscle spasms:
+Patient has been having increased muscle spasms since her
+admission.  On the day of discharge, these have improved some.
+In addition, whe will be given an additional noontime dose of
+her tizanidine in hopes of improved symptom relief.
+.
+# Hypertension: Patient's atenolol and nifedipine have been
+held.  These can be slowly reintroduced if her blood pressure
+remains elevated.
+.
+# Psych: Continued on mirtazapine
+.
+# FEN: Nutrition was consulted given albumin 2.8.  Patient
+refused boost supplements.  Would recommend increase protein in
+diet.  Patient admitted with hypernatremia (148).  This improved
+in the ICU with D5W.  She again required D5W for correction on
+the day of discharge and will need her sodium rechecked in 2
+days.
+.
+# PPX: Heparin SC, PPI as per home
+.
+# COMM: with patient, her husband, and her son
+husband - Hasti Amesquita (husband) test@mail.com
+son - Hasti Amesquita Hasti Amesquita test@mail.com
+niece - Hasti Amesquita Hasti Amesquita 617-785-35xx
+.
+# CODE: FULL (per her UPMCE sheet)
+.
+# DISPO: Patient discharged back to UPMCE nursing home
+
+Medications on Admission:
+Juven 1 pkg UPMCE
+Atenolol 50mg QD
+azo-cranberry 300mg QD
+Fluticasone 50mcg 2 sprays in each nostril QD
+MVI QD
+Omeprazole 20mg QD
+Zinc sulfate 220mg caps 1 tab PO QD
+Nifedipine ER 60mg QD
+Docusate 100mg UPMCE
+Gabapentin 200mg UPMCE
+Vitamin c 500mg tab UPMCE
+Lyrica 25mg TID
+Pilocarpine 5mg TID
+Mirtazipine 7.5mg QHS
+Bisacodyl 10mg PR QAM prn
+Senna 2tabs PO QD prn
+Enulose 10gm/15mL -> give 30mL PO QD prn
+Clonazepam 0.5mg PO BID prn anxiety
+Tylenol prn
+MOM 30mL PO QHS prn
+Zanaflex 6mg PO BID
+
+Discharge Medications:
+1. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+2. azo-cranberry
+300 mg po qd
+3. Juven
+1 pkg UPMCE
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+5. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Gabapentin 100 mg Capsule Sig: Two (2) Capsule PO BID (2
+times a day).
+8. Vitamin C 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+9. Pregabalin 25 mg Capsule Sig: One (1) Capsule PO TID (3 times
+a day).
+10. Pilocarpine HCl 5 mg Tablet Sig: One (1) Tablet PO tid.
+11. Mirtazapine 15 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).
+
+12. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+QAM (once a day (in the morning)) as needed for constipation.
+13. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) as
+needed for constipation.
+14. Enulose 10 g/15 mL Solution Sig: Thirty (30) mL PO once a
+day as needed for constipation.
+15. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO twice a day
+as needed for anxiety.
+16. Tizanidine 2 mg Tablet Sig: 2-3 Tablets PO tid: Please take
+3 tablets qam, 2 tablets qnoon, 3 tablets qpm.
+17. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+injection Injection Q8H (every 8 hours).
+18. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 8 days: through 2011-09-26 00:00:00.
+19. Cyanocobalamin 1,000 mcg/mL Solution Sig: One Hundred (100)
+mcg Injection DAILY (Daily) for 3 days: through 2011-09-26 00:00:00.
+20. Mupirocin Calcium 2 % Cream Sig: One (1) Appl Topical  DAILY
+(Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. Manor
+
+Discharge Diagnosis:
+E coli septicemia secondary to urinary tract infection
+acute renal failure
+anemia
+B12 deficiency
+diarrhea
+headache
+muscle spasms
+bullous rash
+history of hypertension
+
+
+Discharge Condition:
+good: afebrile, taking good po, repeat urinalysis negative
+
+
+Discharge Instructions:
+Please monitor for temperature > 101, low blood pressure,
+worsening mental status, or other concerning symptoms.
+
+Followup Instructions:
+Please follow-up with Dr. Amesquita within 1-2 weeks.
+
+Please follow-up with your neurologist within 1-2 weeks.
+
+
+

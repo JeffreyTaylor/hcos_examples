@@ -1,0 +1,318 @@
+Admission Date:  2009-02-25 00:00:00              Discharge Date:   2009-02-25 00:00:00
+
+Date of Birth: 1953-05-13 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Unasyn
+
+Attending:Gaylin Sherertz
+Chief Complaint:
+Hypotension, AMS
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+ 61y/o M w/ DM2, CHF s/p ICD, CRI, and atrial fibrillation
+presenting today with altered mental status and hypotension. The
+patient was recently admitted to UPMCE in mid-2009-02-25 00:00:00 with a
+perirectal abscess complicated by hypotension and a MICU
+admission. His course was further complicated by renal failure
+and a transaminitis attributed to unasyn therapy. He was
+discharged to a rehab facility on 2009-02-25 00:00:00 and had recently left
+that facility and returned home last week. According to his
+wife, he has been more sedated since discharge from the hospital
+but otherwise has been doing relatively well at home. He
+endorses chronic knee and LE pain but denies any recent CP, SOB,
+abdominal pain, N/V, poor PO intake, progressive weakness,
+paresthesias, HA, melena, or BRBPR. He has noticed some
+intermittant painless shaking in his hands that has occasionally
+caused him to drop objects. He and his wife note good compliance
+with his medications though she had held his coreg until
+yesterday given slow HR at home. She feels that his altered
+mental status can be directly attributed to the doses of
+narcotics that he was discharge on as this was a new medication
+for him. He has been eating well at home but did not take good
+PO today despite receiving his regular dose of insulin.
+.
+Today he presented to a neurology appointment for further
+evaluation of his hand shaking and there was noted to be
+somnolent. His blood pressure was in the 80s systolic and he was
+sent to the ED for further evaluation. There he was seen to be
+bradycardic to the low 50s and somnolent. His glucose level was
+33 and he received D50 and promptly awoke and was appropriate
+per report. His bradycardia was treated with atropine to which
+his HR increased to the 70s and his relative hypotension
+(systolic ~90) improved. EP was contactChawn Grochowski and reportedly felt
+that no intervention was indicated at this time. He was admitted
+to the ICU because his HR dipped to the low 50s for ~25 seconds
+and it was felt that he merited intensive monitoring.
+
+
+Past Medical History:
+1. Diabetes mellitus type 2, insulin dependent
+2. Non-ischemic Cardiomyopathy, EF ~20%
+3. ICD placement (2009-02-25 00:00:00) primary prevention of SCD
+4. Elevated transaminases, unknown etiology
+5. Chronic atrial fibrillation
+6. Chronic renal insufficiency
+7. Umbilical hernia repair, 2009-02-25 00:00:00
+8. Gallstone pancreatitis s/p ERCP (2009-02-25 00:00:00)
+9. Internal hemorrhoids
+10. Hemoglobin C carrier
+
+
+Social History:
+Lives with his wife, has four grown children. Not currently
+working, on disability. Wife works at UPMCE. Used to work in
+contruction. No tobacco, alcohol, or illicits. originally from
+123 Any St.. had planned to head home early this coming week
+
+
+Family History:
+No family history of heart disease. father died at 93 from old
+age. one uncle lived to 103.
+
+Physical Exam:
+PE: 96.8, 100-110/65-85, 60-80, 20, 98%RA
+I/O 24hr: test@mail.com
+Gen: Eating, answers all questions appropriately; A+Ox3
+Heent: MMM, elevated JVP to ears
+CV: Irregular, no M/R/G ap123 Any St.ted
+Lungs: Mild basilar crackles, no wheezes, rhonchi
+Abd: S/NT/ND, +BS, midline infraumbilical surgical scar
+Ext: 2+ LE edema bilaterally, WWP
+Neuro: Responding appropriately to questions and moving all
+extremities spontaneously, AAO x 3
+Skin: No rash or skin breakdown noted
+
+
+Pertinent Results:
+2009-02-25 00:00:00 04:15PM   PT-25.8* PTT-50.0* INR(PT)-2.5*
+2009-02-25 00:00:00 04:15PM   PLT SMR-LOW PLT COUNT-147*
+2009-02-25 00:00:00 04:15PM   HYPOCHROM-NORMAL ANISOCYT-2+
+POIKILOCY-OCCASIONAL MACROCYT-1+ MICROCYT-1+ POLYCHROM-1+
+TARGET-OCCASIONAL
+2009-02-25 00:00:00 04:15PM   NEUTS-33* BANDS-0 LYMPHS-59* MONOS-3 EOS-5*
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+2009-02-25 00:00:00 04:15PM   WBC-5.1 RBC-3.89* HGB-11.9*# HCT-34.0* MCV-88
+MCH-30.6 MCHC-34.9 RDW-20.5*
+2009-02-25 00:00:00 04:15PM   ASA-NEG
+2009-02-25 00:00:00 04:15PM   PHENOBARB-<1.2* PHENYTOIN-<0.6* LITHIUM-0.2*
+VALPROATE-<3.0*
+2009-02-25 00:00:00 04:15PM   DIGOXIN-1.1 THEOPHYL-<0.8*
+2009-02-25 00:00:00 04:15PM   ALBUMIN-3.7 CALCIUM-9.1 PHOSPHATE-3.7
+MAGNESIUM-2.3
+2009-02-25 00:00:00 04:15PM   cTropnT-<0.01 proBNP-5727*
+2009-02-25 00:00:00 04:15PM   LIPASE-273*
+2009-02-25 00:00:00 04:15PM   ALT(SGPT)-41* AMYLASE-149* TOT BILI-2.2*
+2009-02-25 00:00:00 04:15PM   estGFR-Using this
+2009-02-25 00:00:00 04:15PM   GLUCOSE-27* UREA N-17 CREAT-1.2 SODIUM-135
+POTASSIUM-4.6 CHLORIDE-101 TOTAL CO2-24 ANION GAP-15
+2009-02-25 00:00:00 04:28PM   LACTATE-1.8 K+-4.6
+.
+CXR: 1. Cardiomegaly with mild pulmonary edema.  2. Ill-defined
+retrocardiac opacity, likely reflects atelectasis. However, if
+there is a clinical suspicion for pneumonia, recommend repeat PA
+and lateral views after diuresis.
+.
+RUQ u/s: 1. The liver demonstrates no focal or textural
+abnormality.
+2. The gallbladder contains sludge. No definite stones or
+evidence of acute cholecystitis.
+
+
+Brief Hospital Course:
+61 year old man with CHF (EF 20%) and Afib admitted for altered
+mental status and hypotension.
+.
+# HYPOTENSION: Found to have BP of 80/60 at Neurologist's office
+and then sent to the ED. In the ED, he got atropine with
+improvement of his heart rate and his BP. In the MICU, his BP
+ranged from 100-110/65-85. The thought is that he was
+bradycardic and had decreased cardiac output resulting in low
+BP.Not infected so not likely septic hypotension. Peripherals
+warm and well perfused so not likely cardiogenic hypotension.
+Patient was monitored on telemetry. Heart rate and BP remained
+within normal limits for duration of inpatient stay.  Patient
+was restarted on coreg and diovan prior to discharge with good
+blood pressure control and normal heart rate.
+.
+# BRADYCARDIA: Found to have heart rates in the 40's in the ED.
+Received atropine with improvement. In the MICU, coreg held and
+HR ranged from 60-80. Unclear why he became bradycardic when
+he's been taking coreg chronically. He has ICD with pacemaking
+capabilities; threshold set to 40. EP was consulted regarding
+threshold setting and felt no changes needed to be made. Patient
+was restarted on coreg without difficulty. Continued on digoxin.
+Monitored on telemetry with no events.
+
+.
+# ALTERED MENTAL STATUS: Likely from hypotensive episode, or
+from narcotics. Resolved.
+.
+# HYPOGLYCEMIA: Fingerstick was 33 at ED. Responded to D50.
+Unclear why hypoglycemia. Possibly from poor PO intake at home,
+although he denies. Possibly from incorrect insulin dosing,
+especially since he recently switched brands of novalog.
+Restarted on  NPH 5 units in AM decreased from prior regimen of
+NPH 15units QAM/8units QPM. Covered with Humalog sliding scale.
+FS monitored and had good control for duration of stay.
+
+.
+# CHF: Non ischemic cardiomyopathy with acute exacerbation of
+congestive heart failure and EF 20%. Currently volume overloaded
+with elevated JVP to jaws, peripheral edema and crackles in
+lungs. Initailly treated with IV lasix for diuresis and
+transitioned to PO regimen of 80 mg daily with improvement in
+peripheral edema and lung exam. Directed to maintain low salt
+diet, and check daily weights. Restarted on coreg and diovan
+.
+# Atrial fibrillation: in afib currently w/ rate ~ 80s.
+Continued coumadin, digoxin, restarted coreg with good effect.
+.
+# Chronic renal insufficiency: at baseline.
+.
+# LFT elevation: Elevated since 123 Any St.us admission in setting of
+both unasyn reaction and stones in the CBD. He is s/p pancreatic
+stenting and stent removal. LFTs trended downward. Possible
+contribution from liver congestion from CHF. RUQ obtained to
+evaluate for stone which was negative.
+.
+# Myoclous: Intermittently has shaking movements of his left
+arm. Arranged to have outpatient neurology follow up.
+
+.
+FULL CODE
+
+
+Medications on Admission:
+1. Lidoderm patch daily to knees
+2. Tylenol prn
+3. Lasix 80mg daily
+4. Oxycodone prn
+5. Oxycontin 20mg UPMCE
+6. Glucosamine/Chondroitin 500/400mg daily
+7. Senna/Docusate
+8. Multivitamin daily
+9. Coreg 3.125mg UPMCE
+10. Digoxin 0.125mg daily
+11. Diovan 80mg daily
+12. Coumadin 5.5mg (3x/wk) and 5mg (4x/wk)
+13. NPH 15u qAM, 8u qPM
+14. Humalog sliding scale
+15. Protonix 40mg daily
+
+
+Discharge Medications:
+1. Warfarin 2.5 mg Tablet Sig: Two (2) Tablet PO 4X/WEEK
+(Gaylin Sherertz,TU,TH,SA): Alternating with Coumadin 5.5mg PO daily 3x/week
+(MON,WED,FRI).
+2. Furosemide 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Glucosamine-Chondroitin 500-400 mg Tablet Sig: One (1) Tablet
+PO once a day.
+4. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+8. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+9. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Five (5)
+units Subcutaneous once a day: At breakfast.
+10. Insulin Aspart 100 unit/mL Solution Sig: Administer
+subcutaneously per home insulin sliding scale subcutaneous
+Subcutaneous four times a day.
+11. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours) as needed.
+12. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal UPMCE (2 times a day).
+Disp:*1 bottle* Refills:*0*
+13. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+14. Valsartan 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Final diagnosis
+Hypotension
+Bradycardia
+Hypoglycemia
+
+Secondary diagnosis
+Diabetes mellitus type II
+Chronic atrial fibrillation
+Cardiomyopathy
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+You were admitted for low blood pressure, low heart rate, and
+low blood sugar levels. You were initially admitted to the
+intensive care unit as your blood pressure and heart rate were
+very low and required extra monitoring. Some of your blood
+pressure medications were held, and your blood pressure and
+heart rate stabilized. Your insulin was also held and restarted
+at a lower level and your blood sugars were stable on discharge.
+
+Please continue your home medications with the following
+additions and changes.
+- Continue your diovan and coreg at the new dose directed.
+- you can continue to take your lasix and digoxin at home dosing
+- also, we changed your insulin dosing to a lower dose. Please
+continue this and measure your fingersticks 4 times a day with
+coverage with insulin sliding scale and readdess this with your
+primary care provider.
+
+Weigh yourself every morning, Chawn Grochowski MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction:
+2,000ml
+
+Please call your primary care provider or return to the hospital
+if you feel any symptoms of lightheadness, dizziness, nausea,
+vomiting, palpitations, chest pain, shortness of breath, or any
+new or worrisome symptoms.
+
+
+Followup Instructions:
+Please make an appointment with your primary care provider, Grochowski.
+Chawn, within 1-2 weeks of discharge from the hospital.
+test@mail.com
+
+Please keep your appointment with your cardiologist as below. It
+will be important to follow up on your blood pressure and heart
+rate control and whether to continue some of your blood pressure
+medications. Please call to change your appointment to an
+earlier date within 2 weeks of discharge. Provider Grochowski. Chawn
+[**Doctor Last Name **] Phone:test@mail.com Date/Time:2009-02-25 00:00:00 9:00
+.
+We have scheduled an appointment for you with Neurology.
+Provider: Grochowski. Gaylin Sherertz Phone:test@mail.com
+Date/Time:2009-02-25 00:00:00 9:30
+
+Other scheduled appointments include:
+Provider Chawn Gaylin Sherertz Grochowski, MD Phone:test@mail.com
+Date/Time:2009-02-25 00:00:00 1:00
+Provider Chawn Grochowski, DPM Phone:test@mail.com Date/Time:2009-02-25 00:00:00
+8:20
+
+
+

@@ -1,0 +1,265 @@
+Admission Date:  2009-07-17 00:00:00              Discharge Date:   2009-07-17 00:00:00
+
+Date of Birth: 1982-07-15 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Cresencio Wippich
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization with 3 BMS placed in RCA
+
+
+History of Present Illness:
+Mr Kamerer is a 62 year-old man with past medical history of
+HIV/AIDS, hyperlipidemia, former heavy tobacco use, and prostate
+cancer s/p brachytherapy, who was transferred from UPMCE for STEMI. He reports three hours of substernal chest
+pain that awoke him from sleep, with associated diaphoresis. At
+UPMCE, EKG showed inferior ST-elevations, new from prior in
+that system from 2009-07-17 00:00:00.  He was subsequently transferred to UPMCE
+for management of his STEMI.
+.
+In the cath lab he underwent a Right radial approach. Found
+proximal RCA occlusion. Passed wire and baloon inflation with
+vagal response requireing 1 dose of atrompine and transient hear
+block. Venous sheath placed but no transveous pacer placed. BP's
+hung around 100's and response to IVF. Placed 3 BMS in RCA from
+proximal to distal. Large vessel. Did not have complete
+resolution of STE with some residual 2009-07-17 00:00:00 CP that is steadily
+improviong. Has ASA, and PLavix on board and integrillin x18
+hours. Will leave venous sheath in for access. Otherwise stable.
+
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: -Diabetes, + Dyslipidemia,
+-Hypertension
+2. CARDIAC HISTORY:
+-CABG: -
+-PERCUTANEOUS CORONARY INTERVENTIONS:  -
+-PACING/ICD:  -
+3. OTHER PAST MEDICAL HISTORY
+HIV:  Diagnosed approximately six years ago when the patient
+presented with pneumocystis pneumonia.  He is on HAART.  The
+patient's most recent CD4 count (per patient report) was
+approximately 300 and his most recent viral load was
+undetectable.
+Skin cancer.
+Prostate cancer s/p brachytherapy in 2009-07-17 00:00:00.
+
+Social History:
+The patient is single and lives in 123 Any St..  He quit smoking in
+2009-07-17 00:00:00, after 15 to 20 years of intermittent smoking.  The
+patient does not drink alcohol.  He denies current recreational
+drug use.
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+On Admission
+GENERAL: Patient was comfortable and in NAD
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 7 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: obese abdomen, soft, NTND. No HSM or tenderness. Abd
+aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits. Right groin line in
+place
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+On Discharge
+VS: BP90's-100's/60's, P-61, RR-16, 96% on RA
+GENERAL: Patient was comfortable and in NAD
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 6 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. R radial site clean.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+2009-07-17 00:00:00 04:49PM   SODIUM-135 POTASSIUM-4.0 CHLORIDE-103
+2009-07-17 00:00:00 04:49PM   SODIUM-135 POTASSIUM-4.0 CHLORIDE-103
+2009-07-17 00:00:00 04:49PM   PLT COUNT-179
+2009-07-17 00:00:00 09:45AM   GLUCOSE-128* UREA N-20 CREAT-1.0 SODIUM-134
+POTASSIUM-4.1 CHLORIDE-101 TOTAL CO2-28 ANION GAP-9
+2009-07-17 00:00:00 09:45AM   WBC-6.5 RBC-4.09* HGB-13.1* HCT-38.2* MCV-93
+MCH-31.9 MCHC-34.2 RDW-12.7
+
+2009-07-17 00:00:00 06:56AM BLOOD WBC-5.5 RBC-3.79* Hgb-12.6* Hct-36.1*
+MCV-95 MCH-33.2* MCHC-34.8 RDW-13.1 Plt Ct-178
+2009-07-17 00:00:00 06:56AM BLOOD Glucose-96 UreaN-14 Creat-1.0 Na-140
+K-4.0 Cl-106 HCO3-27 AnGap-11
+2009-07-17 00:00:00 06:56AM BLOOD Calcium-8.4 Phos-2.8 Mg-1.9
+
+2009-07-17 00:00:00 05:04AM BLOOD %HbA1c-5.6 eAG-114
+2009-07-17 00:00:00 05:04AM BLOOD Triglyc-123 HDL-45 CHOL/HD-4.0
+LDLcalc-109
+
+
+Brief Hospital Course:
+In the cath lab he underwent a Right radial approach. Found
+proximal RCA occlusion. Passed wire and baloon inflation with
+vagal response requireing 1 dose of atrompine and transient hear
+block. Venous sheath placed but no transveous pacer placed. BP's
+hung around 100's and response to IVF. Placed 3 BMS in RCA from
+proximal to distal. Large vessel. Did not have complete
+resolution of STE with some residual 2009-07-17 00:00:00 CP that is steadily
+improviong. Has ASA, and PLavix on board and integrillin x18
+hours. Will leave venous sheath in for access. Otherwise stable.
+
+After patient received 3 BMS to RCA, he had an uneventful
+hospital course. He remained hemodynamically stable. ST
+elevations on his ECG began to resolve. He was successfullty
+started on ASA 325mg, atorvastatin 80mg, Plavix 75mg, Metoprolol
+12.5 Daily and Lisinopril 2.5. Integrellin was d/c'ed
+
+Patient had echo done after cardiac catheterization, which
+revealed:
+
+"The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is moderately
+depressed (LVEF= 35 %) secondary to inferior and posterior wall
+akinesis with focal posterior wall dyskinesis. The right
+ventricular free wall thickness is normal. Right ventricular
+chamber size is normal. with severe global free wall
+hypokinesis. The aortic root is mildly dilated at the sinus
+level. There are focal calcifications in the aortic arch. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion."
+
+Patient complained of no CP on discharge. PT evaluated the
+patient. He was able to walk briskly with no CP or SOB.
+
+While hospitalized, the patient's doxazosin and methy123 Any St.ate
+were held. He was instructed to hold these medications upon
+discharge.
+
+Patient was contactKanesha Kamerer after discharge and a message was left on
+his cell phone. He was informed that Outpatient Cardiology (test@mail.com will be contacting him with an appointment in the next
+1-2 weeks.
+
+During hospitalization, the patient's HIV medications were given
+at his normal home doses.
+
+As a follow-up, the patient will need a repeat echocardiogram to
+assess interval improvement of LV and RV function.
+
+His heart failure meds can be titrated up as tolerated and
+consider adding spironolactone to his regimen.
+
+Medications on Admission:
+Preadmissions medications listed are incomplete and require
+futher investigation.  Information was obtained from Patient.
+1. Atazanavir 300 mg PO DAILY
+2. Acyclovir 400 mg PO Q8H
+3. LaMIVudine 300 mg PO DAILY
+4. RiTONAvir 100 mg PO DAILY
+5. Ranitidine 150 mg PO BID
+6. Doxazosin 2 mg PO HS
+7. Sildenafil Dose is Unknown  PO PRN sexual intecourse
+8. Methyl123 Any St.ATE (Ritalin) 5 mg PO Frequency is Unknown
+9. Fish Oil (Omega 3) 1000 mg PO BID
+10. Abacavir Sulfate 600 mg PO DAILY
+
+
+Discharge Medications:
+1. Acyclovir 400 mg PO Q8H
+2. Atazanavir 300 mg PO DAILY
+3. LaMIVudine 300 mg PO DAILY
+4. Ranitidine 150 mg PO BID
+5. RiTONAvir 100 mg PO DAILY
+6. Abacavir Sulfate 600 mg PO DAILY
+7. Aspirin EC 325 mg PO DAILY
+RX *aspirin 325 mg 1 Tablet(s) by mouth daily Disp #*30 Tablet
+Refills:*3
+8. Atorvastatin 80 mg PO DAILY
+RX *atorvastatin 80 mg 1 Tablet(s) by mouth once a day before
+bedtime Disp #*30 Tablet Refills:*3
+9. Clopidogrel 75 mg PO DAILY Duration: 1 Months
+Your outpatient cardiologist will determine when to stop this
+medication.
+RX *Plavix 75 mg 1 Tablet(s) by mouth daily Disp #*30 Tablet
+Refills:*3
+10. Lisinopril 2.5 mg PO DAILY
+hold: BP<100
+RX *lisinopril 2.5 mg 1 Tablet(s) by mouth daily Disp #*30
+Tablet Refills:*3
+11. Metoprolol Succinate XL 12.5 mg PO DAILY
+Hold if SBP<90, HR<50
+RX *metoprolol succinate 25 mg 0.5 (One half) Tablet(s) by mouth
+daily Disp #*20 Tablet Refills:*3
+12. Fish Oil (Omega 3) 1000 mg PO BID
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+ST Elevation Myocardial Infarction
+
+
+Discharge Condition:
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+
+
+Discharge Instructions:
+You came to the hospital with chest pain and were found to have
+a severe heart attack. This was successfully treated by placing
+3 stents in your right coronary artery. Ultrasound of your heart
+revealed abnormal function.  You have been started on several
+new medications to treat your heart disease.
+
+These include:
+
+Aspirin 325mg Daily
+Atorvastatin 80mg Daily
+Clopidogrel 75mg Daily- you MUST take this medication every day
+Metoprolol Succinate XL 12.5 mg Daily
+Lisinopril 2.5 mg Daily
+
+
+Followup Instructions:
+You need to follow-up with an outpatient Cardiologist. We
+suggest you contact Dr. Cresencio Wippich (test@mail.com or Phone:
+test@mail.com. You should make an appointment to see him within
+the next 1-2 weeks. We will try to arrange this appointment for
+you. However, if you do not hear from us by tomorrow, please
+call the office to schedule it yourself.
+
+
+

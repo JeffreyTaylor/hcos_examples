@@ -1,0 +1,385 @@
+Admission Date:  2010-11-15 00:00:00              Discharge Date:   2010-11-15 00:00:00
+
+Date of Birth: 1990-11-10 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Quinine / Vicodin
+
+Attending:Elosie Schifino
+Chief Complaint:
+Sepsis/confusion
+
+Major Surgical or Invasive Procedure:
+R groin and L IJ central lines, R wrist and L groin arterial
+lines
+
+History of Present Illness:
+56 yo m transferred from UPMCE hospital w/ end stage liver dz
+2010-11-15 00:00:00 hepatitis, sclerosing cholangitis, UC, on the transplant
+list and normally followed at UPMCE (no beds available), who
+presented from OSH septic on peripheral pressors. He had been in
+rehab x 3 months, more recently had failure to thrive. Today
+presents to UPMCE ER with a BP 82/39, HR 45, WBC 18,
+creatinine 4.4, Bili 24. Given daptomycin and imipenem at OSH.
+.
+In the ED, vitals were t 90, hr 50, bp 82/40, sat 98% ra.  Noted
+to have a lactate of 12.2 and an ABG 7.04/19/122. Patient given
+daptomycin and imipenem for broad coverage. R IJ attempted but
+failed. L femoral line placed. Was intubated for airway
+protection, requiring minimal sedation given underlying
+encephalopathy. Was started on levophed for BP support. On
+placement of OGT noted to have ~500 cc bright red blood. Blood
+was ordered and liver service notified with plan to evaluate
+patient upon arrival to MICU. In the ED he received Vit K, FFP,
+PRBCs and protonix.
+.
+When patient came to floor was continuing to have bright red
+blood per OGT. Liver evaluated patient and felet that EGD would
+not be useful at this time as his INR was too high to intervene.
+
+
+
+Past Medical History:
+- spinal osteomyelitis
+- UC
+- primary sclerosing cholangitis
+- ESLD - hx of varices, s/p banding - followed by Dr. Paradee at
+UPMCE, off the transplant list
+- DM
+
+Social History:
+Unable to obtained
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Vitals: t 93.7 rectally, bp 98/48 on levophed, hr 60, rr 24, sat
+100%
+Vent: AC RR TV 600 RR 20 PEEP 5 FiO2 100%
+Gen: sedated, intubated
+HEENT: + scleral edema
+Resp: clear anteriorly
+Cards: bradycardia, no murmurs ap123 Any St.ted
+Abd: + bs, soft, non-distended
+Ext: 1+ lower ext edema
+Skin: + jaundice
+Neuro: not responding to painful stimuli
+
+Pertinent Results:
+2010-11-15 00:00:00 09:40PM BLOOD WBC-14.1* RBC-2.20* Hgb-8.4* Hct-25.4*
+MCV-116* MCH-38.3* MCHC-33.1 RDW-17.1* Plt Ct-118*
+2010-11-15 00:00:00 06:05AM BLOOD WBC-17.3* RBC-2.74* Hgb-9.5* Hct-27.8*
+MCV-102* MCH-34.7* MCHC-34.2 RDW-20.5* Plt Ct-84*
+2010-11-15 00:00:00 11:46PM BLOOD WBC-10.3 RBC-2.42* Hgb-8.4* Hct-23.3*
+MCV-96 MCH-34.7* MCHC-36.0* RDW-22.1* Plt Ct-35*
+2010-11-15 00:00:00 11:47AM BLOOD WBC-11.3* RBC-2.44* Hgb-8.6* Hct-22.9*
+MCV-96 MCH-35.4* MCHC-36.8* RDW-21.2* Plt Ct-39*
+2010-11-15 00:00:00 03:52AM BLOOD WBC-13.7* RBC-2.39* Hgb-8.5* Hct-23.3*
+MCV-98 MCH-35.7* MCHC-36.5* RDW-21.2* Plt Ct-28*
+2010-11-15 00:00:00 03:37AM BLOOD Neuts-90.2* Bands-0 Lymphs-5.3* Monos-4.2
+Eos-0.3 Baso-0.1
+2010-11-15 00:00:00 11:47AM BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-2+
+Macrocy-2+ Microcy-2+ Polychr-1+ Ovalocy-1+ Target-1+ Burr-2+
+Stipple-OCCASIONAL Acantho-1+
+2010-11-15 00:00:00 09:40PM BLOOD PT-50.7* PTT-150* INR(PT)-6.0*
+2010-11-15 00:00:00 11:46PM BLOOD PT-24.5* PTT-72.4* INR(PT)-2.5*
+2010-11-15 00:00:00 03:52AM BLOOD PT-34.2* PTT-65.1* INR(PT)-3.7*
+2010-11-15 00:00:00 09:23AM BLOOD Fibrino-78.3*
+2010-11-15 00:00:00 03:11AM BLOOD Fibrino-113*
+2010-11-15 00:00:00 09:40PM BLOOD Glucose-115* UreaN-97* Creat-3.3* Na-136
+K-4.8 Cl-106 HCO3-5* AnGap-30*
+2010-11-15 00:00:00 03:52AM BLOOD Glucose-106* UreaN-87* Creat-3.6* Na-137
+K-4.0 Cl-101 HCO3-18* AnGap-22
+2010-11-15 00:00:00 09:40PM BLOOD ALT-85* AST-503* CK(CPK)-45 AlkPhos-168*
+Amylase-64 TotBili-16.4*
+2010-11-15 00:00:00 06:05AM BLOOD ALT-262* AST-1864* LD(LDH)-1312*
+AlkPhos-160* TotBili-16.4*
+2010-11-15 00:00:00 11:24AM BLOOD ALT-639* AST-5061* LD(LDH)-3156*
+CK(CPK)-94 AlkPhos-266* Amylase-74 TotBili-18.0*
+2010-11-15 00:00:00 03:11AM BLOOD ALT-523* AST-4052* LD(LDH)-1661*
+AlkPhos-326* Amylase-80 TotBili-20.3* DirBili-15.9* IndBili-4.4
+2010-11-15 00:00:00 03:18PM BLOOD ALT-398* AST-3379* LD(LDH)-702*
+AlkPhos-351* TotBili-22.6*
+2010-11-15 00:00:00 03:52AM BLOOD ALT-294* AST-2406* LD(LDH)-436*
+AlkPhos-337* TotBili-22.0*
+2010-11-15 00:00:00 09:40PM BLOOD CK-MB-NotDone cTropnT-<0.01
+2010-11-15 00:00:00 03:37AM BLOOD CK-MB-NotDone cTropnT-<0.01
+2010-11-15 00:00:00 11:24AM BLOOD CK-MB-NotDone cTropnT-0.02*
+2010-11-15 00:00:00 09:40PM BLOOD Calcium-7.7* Phos-6.9* Mg-3.1*
+2010-11-15 00:00:00 03:52AM BLOOD Albumin-2.2* Calcium-9.4 Phos-5.3* Mg-2.3
+2010-11-15 00:00:00 09:23AM BLOOD calTIBC-103* VitB12-GREATER TH
+Folate-GREATER TH Hapto-<20* Ferritn-GREATER TH TRF-79*
+2010-11-15 00:00:00 09:40PM BLOOD Ammonia-95*
+2010-11-15 00:00:00 03:37AM BLOOD TSH-1.2
+2010-11-15 00:00:00 06:05AM BLOOD Cortsol-16.8
+2010-11-15 00:00:00 09:23AM BLOOD Cortsol-15.3
+2010-11-15 00:00:00 05:10AM BLOOD Type-ART Temp-37.7 pO2-99 pCO2-30*
+pH-7.43 calTCO2-21 Base XS--2 Comment-CPAP
+2010-11-15 00:00:00 09:49PM BLOOD Lactate-12.2*
+2010-11-15 00:00:00 03:30AM BLOOD Lactate-9.5* K-3.4*
+2010-11-15 00:00:00 05:10AM BLOOD Lactate-6.9* K-3.9
+2010-11-15 00:00:00 02:30AM BLOOD freeCa-0.99*
+2010-11-15 00:00:00 04:12AM BLOOD freeCa-0.82*
+2010-11-15 00:00:00 05:10AM BLOOD freeCa-1.14
+
+CT ABDOMEN W/O CONTRAST  2010-11-15 00:00:00 10:07 PM
+
+CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST
+
+Reason: eval for abscess
+Field of view: 38
+
+UNDERLYING MEDICAL CONDITION:
+56 year old man with sepsis, h/o liver ca. unclear source.
+REASON FOR THIS EXAMINATION:
+eval for abscess
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+CT ABDOMEN AND PELVIS WITHOUT CONTRAST
+
+INDICATION: 56-year-old man with sepsis, history of liver
+carcinoma, evaluate for source of sepsis.
+
+COMPARISON: Not available at this institution.
+
+TECHNIQUE: MDCT axial images of abdomen and pelvis were obtained
+without administration of oral contrast. Intravenous contrast
+was administered due to poor renal function.
+
+CT ABDOMEN WITHOUT CONTRAST: There are bilateral small
+effusions, with adjacent consolidations, which may represent
+atelectasis and/or pneumonia. There is a nodular component of
+the right basilar consolidation.
+
+The liver is shrunken and nodular, consistent with history of
+cirrhosis. There is branching hyperdensity in the liver which
+appears to follor the distribution of portal vein branches;
+findings are concerning for portal vein thrombosis. This
+abnormality does not extend into the main portal vein.
+
+Evaluation of the abdomen is extremely limited by lack of
+intravenous or oral contrast. Nasogastric tube terminates in the
+stomach. There are no renal calculi. There is no hydronephrosis.
+Spleen is non-enlarged. Multiple portosystemic collaterals are
+present in the upper abdomen with recanalized umbilical vein
+noted.
+
+Pancreas, spleen, adrenal glands are unremarkable given lack of
+contrast. There is a massive ascites. The definition of the
+bowel is extremely poor though large bowel thickening is
+suggested as is mesenteric congestion.
+CT PELVIS WITHOUT CONTRAST: Urinary bladder is collapsed around
+a Foley catheter. There is a rectal tube in place. A small
+locule of gas is seen on image 74 of series 2 in the anterior
+abdominal wall which may be related to medication injection.
+There is no definite evidence for free intraperitoneal air. A
+catheter is noted in the right femoral vein.
+
+There is generalized body wall edema.
+
+BONE WINDOWS: Demonstrate sclerosis and compression deformity of
+T8 vertebral body, incompletely evaluated.
+
+IMPRESSION: Limited study.
+1. Hepatic cirrhosis with stigmata of portal hypertension.
+2. Branching high-density material in the liver, concerning for
+portal vein thrombosis.
+3. Large volume of ascites, mesenteric congestion, large bowel
+thickening.
+4. Bilateral pleural effusions with lower lobe consolidations
+which may represent pneumonia.
+
+LIVER OR GALLBLADDER US (SINGL; DUPLEX DOP ABD/PEL LIMITED
+
+Reason: ? portal vein thrombosis, please use dopplers
+
+UNDERLYING MEDICAL CONDITION:
+56 year old man h/o liver disease, ascites, GIB
+REASON FOR THIS EXAMINATION:
+? portal vein thrombosis, please use dopplers
+INDICATION: 56-year-old man, history of liver disease, ascites,
+GI bleed. Question portal vein thrombosis.
+
+Comparison is made to a non-contrast abdomen CT performed
+earlier today.
+
+DUPLEX LIVER DOPPLER ULTRASOUND: There is a small right-sided
+pleural effusion. A moderate amount of ascites is seen in the
+right upper quadrant. There are large varices along the lesser
+curvature. The liver is small and nodular consistent with
+cirrhosis. There is marked gallbladder wall edema with a wall
+thickness up to 12 mm, likely due to third spacing. The
+gallbladder contains sludge but no stones. Within the liver
+parenchyma, there are hyperechoic bands radiating in the
+periphery following portal vein branches that correspond to
+similar structures seen on the CT consistent with periductal
+fibrosis in this patient with primary sclerosing cholangitis.
+
+DOPPLER ULTRASOUND: The s123 Any St. vein and SMV as well as hepatic
+veins and IVC are patent. There is an aneurysmal dilatation of
+the confluence of the portal vein measuring up to 2.5 cm. Within
+the right portal vein, there is a contracted non-occlusive
+thrombus. Hepatopetal flow is demonstrated within the residual
+lumen. The left portal vein is patent with outflow into a large
+recanalized umbilical vein. Minimal slow flow is detected in the
+right portal vein.
+
+IMPRESSION:
+1. Non-occlusive thrombus in the right portal vein with
+maintained hepatopetal flow.
+2. Patency of s123 Any St. vein, SMV, left portal vein with outflow
+via large umbilical vein, hepatic veins, and IVC.
+3. Minimal slow flow in the right portal vein.
+4. Aneurysmal dilatation at the confluence of the portal vein
+(2.5 cm).
+5. Cirrhotic liver with periductal fibrosis consistent with the
+history of PSC and stigmata of portal hypertension including
+large varices at the lesser curvature and moderate ascites.
+6. Sludge containing gallbladder with marked wall edema, likely
+due to third spacing.
+7. Small right pleural effusion.
+
+TTE 2010-11-15 00:00:00
+
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size appears borderline
+dilated. Right ventricular systolic function is normal. The
+aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. No mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. The pulmonary artery systolic pressure could not be
+determined. There is no pericardial effusion.
+
+   RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  2010-11-15 00:00:00 2:55 AM
+
+CHEST (PORTABLE AP)
+
+Reason: ? change
+
+UNDERLYING MEDICAL CONDITION:
+56 year old man h/o liver disease, post-intubation
+REASON FOR THIS EXAMINATION:
+? change
+INDICATION: 56-year-old man with history of liver disease,
+post-intubation; evaluate for change.
+
+COMPARISONS: Chest radiograph dated 2010-11-15 00:00:00.
+
+FINDINGS: A single AP portable supine radiograph reveals an
+endotracheal tube which terminates 6 cm above the carina. The
+left internal jugular catheter and nasogastric tube are stable.
+There is increased perihilar hazines and bilateral basilar
+opacity. There is no pneumothorax. The cardiac silhouette is
+stable.
+
+IMPRESSION:
+
+1. Increasing mild to moderate pulmonary edema and layering
+bilateral pleural effusions.
+
+Date   6  Specimen  Tests  Ordered By
+ All 2010-11-15 00:00:00 2010-11-15 00:00:00 2010-11-15 00:00:00  All BLOOD CULTURE
+CATHETER TIP-IV MRSA SCREEN STOOL SWAB URINE    All EMERGENCY
+UPMCE INPATIENT
+2010-11-15 00:00:00 CATHETER TIP-IV WOUND CULTURE-PENDING INPATIENT =
+NGTD
+2010-11-15 00:00:00 STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL
+INPATIENT =Negative
+2010-11-15 00:00:00 MRSA SCREEN MRSA SCREEN-PENDING INPATIENT
+2010-11-15 00:00:00 SWAB R/O VANCOMYCIN RESISTANT ENTEROCOCCUS-PENDING
+INPATIENT
+2010-11-15 00:00:00 MRSA SCREEN MRSA SCREEN-PENDING INPATIENT
+2010-11-15 00:00:00 CATHETER TIP-IV WOUND CULTURE-PENDING EMERGENCY UPMCE
+=NGTD
+2010-11-15 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING EMERGENCY UPMCE =NGTD
+2010-11-15 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING EMERGENCY UPMCE =NGTD
+2010-11-15 00:00:00 URINE URINE CULTURE-FINAL EMERGENCY =Negative
+
+
+Brief Hospital Course:
+Mr. Paradee was a 56 yo male with ESLD secondary primary
+sclerosing cholangitis who was admitted with sepsis of Kaleem Paradee
+source, with negative cultures but likely related to his
+123 Any St.usly diagnosed vertebral osteomyelitis. He initially
+required 2 vasopressor agents on arrival and was intubated for
+airway protection and to assist in correcting his severe
+acidosis. Upon insertion of the OGT, he started bleeding from
+his oropharynx. He required multiple units of PRBCs and the
+hepatology service did not desire to do an EGD as they felt they
+would not be able to intervene on anything given his
+coagulopathy (INR of 6) and his unstable hemodynamics.
+Eventually the bleeding stopped and his hematocrit stabilized
+with medical measure including a Protonix drip and an octreotide
+drip. He was weened off his vasopressor medications. He was also
+in acute renal failure and acute liver failure, both felt to be
+due to his hypotension. His liver failure was slowly improving
+but his renal failure continued to worsen. He had been taken off
+the liver transplant list at UPMCE in 2010-11-15 00:00:00 due to his vertebral
+osteomyelitis and his long term prognosis was bleak. In
+discussion with the family on HD 5, his code status was changed
+to DNR and the family decided that hemodialysis would not be
+acceptable to the patient given his living will.
+
+On HD 7, the patient had some hypotension in the morning again
+requiring one vasopressor medication. At approximately 7pm, he
+began to spontaneously bleed from his mouth and blood was
+suctioned out of his OGT in large amounts. He was initially
+stabilized with IVF and increased vasopressor medications.
+However, in discussion with his HCP it was decided that further
+treatment would be in violation of his living will and the
+decision was made to make him comfort measures only. The family
+also decided that they did not want to be present for his death.
+Supportive care was withdrawn and the patient was made
+comfortable via a fentanyl drip. He passed peacefully on
+2010-11-15 00:00:00 at 8:20pm with doctors, nurses, and respiratory
+technicians at his beadside
+
+Medications on Admission:
+vancomycin 750 mg daily
+actigall 600 mg tid
+pentasa [**Numeric Identifier 949**] mg tid
+vit k
+mvi
+protonix 40 mg po daily
+metformin 500 mg po bid
+xanax 0.5 mg po q8hr prn anxiety
+oxycodone 5 mg po q4hr prn pain
+MOM
+dulcolax prn
+tyelnol 650 mg po q4hr prn pain
+nadolol 40 mg qd
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Upper gastrointestinal bleed
+
+Endstage liver disease
+
+Ulcerative colitis and primary sclerosing cholangitis
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+

@@ -1,0 +1,621 @@
+Admission Date:  2011-11-20 00:00:00              Discharge Date:   2011-11-20 00:00:00
+
+Date of Birth: 1941-11-20 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Sulfa (Sulfonamides) / Flagyl
+
+Attending:Dreyson Dreer
+Chief Complaint:
+Mental decline
+Abnormal gait
+Slurred Speech
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+73F with programmable VP shunt for normal pressure hydrocephalus
+with noted decline in cognitive function since 2011-11-20 00:00:00 to
+include episodes of left arm weakness/numbness, slurred speech,
+and altered vision/hearing.
+
+Past Medical History:
+Crohn's disease
+Breast cancer (~31 years ago)
+Thyroid cancer (~3 years ago)
+Ileovesical fistula
+Cholelithiasis
+Incacerated hernia
+Hiatal hernia
+Schatzki's ring
+Chronic gastritis
+HTN
+Anxiety
+Osteoporosis
+Liver hemangioma
+
+S/p bilateral mastectomies with reconstruction
+S/p herniorrhaphy
+
+Social History:
+No tobacco, occasional alcohol, married
+
+
+Family History:
+Non-contributory
+
+Pertinent Results:
+Admission Labs
+----------------
+2011-11-20 00:00:00 07:35PM BLOOD WBC-13.4*# RBC-4.37 Hgb-12.8 Hct-35.8*
+MCV-82 MCH-29.4 MCHC-35.9* RDW-15.0 Plt Ct-303
+2011-11-20 00:00:00 07:35PM BLOOD PT-12.6 PTT-22.6 INR(PT)-1.1
+2011-11-20 00:00:00 07:35PM BLOOD D-Dimer-198
+2011-11-20 00:00:00 07:35PM BLOOD Lupus-NEG
+2011-11-20 00:00:00 07:35PM BLOOD ACA IgG-5.4 ACA IgM-12.8*
+2011-11-20 00:00:00 06:14PM BLOOD Fibrino-353 D-Dimer-756*
+2011-11-20 00:00:00 07:35PM BLOOD Glucose-136* UreaN-32* Creat-0.7 Na-139
+K-3.5 Cl-101 HCO3-24 AnGap-18
+2011-11-20 00:00:00 12:55PM BLOOD ALT-17 AST-14 LD(LDH)-151 AlkPhos-43
+Amylase-94 TotBili-0.5
+2011-11-20 00:00:00 12:55PM BLOOD Lipase-40
+2011-11-20 00:00:00 07:35PM BLOOD Calcium-8.4 Phos-2.7 Mg-2.1
+2011-11-20 00:00:00 12:55PM BLOOD VitB12-GREATER TH
+2011-11-20 00:00:00 12:26AM BLOOD calTIBC-137* Ferritn-GREATER TH TRF-105*
+2011-11-20 00:00:00 10:01AM BLOOD calTIBC-234* Ferritn-GREATER TH TRF-180*
+2011-11-20 00:00:00 12:55PM BLOOD Ammonia-26
+2011-11-20 00:00:00 12:55PM BLOOD TSH-0.023*
+2011-11-20 00:00:00 03:50AM BLOOD TSH-0.10*
+2011-11-20 00:00:00 02:38AM BLOOD TSH-0.75
+
+Discharge Labs
+----------------
+2011-11-20 00:00:00 05:14AM  WBC-10.0 RBC-3.01 Hgb-9.1 Hct-27.1 MCV-90
+Plt-158
+2011-11-20 00:00:00 05:14AM  INR 3.5
+
+2011-11-20 00:00:00 05:20AM BLOOD WBC-12.7* RBC-3.22* Hgb-9.7* Hct-28.7*
+MCV-89 MCH-30.1 MCHC-33.7 RDW-17.1* Plt Ct-176
+2011-11-20 00:00:00 05:20AM BLOOD Plt Ct-176
+2011-11-20 00:00:00 05:20AM BLOOD PT-24.2* PTT-34.8 INR(PT)-2.4*
+2011-11-20 00:00:00 05:20AM BLOOD Glucose-88 UreaN-28* Creat-0.6 Na-135
+K-4.1 Cl-103 HCO3-27 AnGap-9
+2011-11-20 00:00:00 05:20AM BLOOD Calcium-8.2* Phos-4.6* Mg-1.9
+
+MICRO
+------------
+   URINE CULTURE (Final 2011-11-20 00:00:00):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    >100,000
+ORGANISMS/ML..
+         COAG NEG STAPH does NOT require contact precautions,
+regardless of
+         resistance.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+      YEAST.    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+GENTAMICIN------------     4 S
+LEVOFLOXACIN----------   =>8 R
+NITROFURANTOIN--------  <=16 S
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------     2 S
+
+2011-11-20 00:00:00: MRSA Screen Negative
+2011-11-20 00:00:00: VRE Screen Negative
+
+MRI HEAD: There is a right-sided intraventricular drain, via a
+right parietal approach, in unchanged position since the prior
+exam. Encephalomalacia, and FLAIR signal hyperintensity within
+the right frontal, parietal, and temporal regions is consistent
+with patient's prior right-sided MCA territory infarct.
+
+In the left occipital region, there is increased T1 signal
+hyperintensity lining the Dreyson Dreer-white matter junction. The entire
+region demonstrates increased signal on FLAIR and
+diffusion-weighted imaging. The appearance is typical for
+hemorrhagic infarction. These findings are new since 2011-11-20 00:00:00.
+
+Periventricular FLAIR hyperintensity is likely related to small
+vessel ischemic disease. No mass lesion or hydrocephalus is
+detected. There is a small amount of fluid in the right
+posterior sphenoid air cell. There is mild mucosal thickening in
+the posterior left maxillary sinus.
+
+MRA CIRCLE OF 123 Any St.: The major tributaries of the Circle of
+123 Any St. are patent. There are no areas of significant stenosis or
+aneurysmal dilatation.
+Within the limits of coverage for this study, no arteriovenous
+malformation was identified.
+
+MRA CAROTID AND VERTEBRAL ARTERIES: No area of significant
+stenosis or ulceration is seen, particularly with reference to
+the common carotid bifurcations. The right vertebral artery is
+dominant.
+
+IMPRESSION:
+1. Left occipital hemorrhagic infarction new since 2011-11-20 00:00:00.
+2. Right-sided intraventricular drain in good position without
+evidence of hydrocephalus.
+3. Findings consistent with old right MCA territory infarct.
+
+ECHO
+----------
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: 2.7 cm (nl <= 4.0 cm)
+Right Atrium - Four Chamber Length: 4.0 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: 1.1 cm (nl 0.6 - 1.1 cm)
+
+Left Ventricle - Inferolateral Thickness: 1.0 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 3.5 cm (nl <= 5.6 cm)
+Left Ventricle - Ejection Fraction: 60% to 65% (nl >=55%)
+Aorta - Valve Level: 2.0 cm (nl <= 3.6 cm)
+Aorta - Ascending: 2.6 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: 1.2 m/sec (nl <= 2.0 m/sec)
+Mitral Valve - E Wave: 0.6 m/sec
+Mitral Valve - A Wave: 0.8 m/sec
+Mitral Valve - E/A Ratio: 0.75
+Mitral Valve - E Wave Deceleration Time: 275 msec
+TR Gradient (+ RA = PASP): <= 25 mm Hg (nl <= 25 mm Hg)
+
+INTERPRETATION:
+
+Findings:
+
+This study was compared to the report of the prior study (images
+not
+available) of 2011-11-20 00:00:00.
+
+
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal
+interatrial septum. No
+ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+systolic function
+(LVEF>55%). Suboptimal technical quality, a focal LV wall motion
+abnormality
+cannot be fully excluded. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic root diameter. Normal ascending aorta
+diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. No
+AS.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+Trivial MR. LV
+inflow pattern c/w impaired relaxation.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Normal PA
+systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+
+
+Conclusions:
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or
+color Doppler. Left ventricular wall thickness, cavity size, and
+systolic
+function are normal (LVEF>55%). Due to suboptimal technical
+quality, a focal
+wall motion abnormality cannot be fully excluded. Right
+ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+(3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation.
+There is no aortic valve stenosis. The mitral valve leaflets are
+mildly
+thickened. There is no mitral valve prolapse. Trivial mitral
+regurgitation is
+seen. The left ventricular inflow pattern suggests impaired
+relaxation. The
+estimated pulmonary artery systolic pressure is normal. There is
+no
+pericardial effusion.
+
+
+Compared with the report of the prior study (images unavailable
+for review) of
+2011-11-20 00:00:00, no change.
+
+CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS
+Reason: CTA aorta/great vessels/cerebral vasculature for
+possible em
+
+UNDERLYING MEDICAL CONDITION:
+73 year old woman with embolic strokes, hx normopressure
+hydrocephalus, VP shunt
+REASON FOR THIS EXAMINATION:
+CTA aorta/great vessels/cerebral vasculature for possible
+embolic source of stroke..source unknown
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+HISTORY: Embolic stroke, normal pressure hydrocephalus.
+
+123 Any St.inary report was provided by Dr. Dreyson Dreer on 2011-11-20 00:00:00 at 6:45
+p.m. stating no embolic source identified.
+
+TECHNIQUE: Axial contrast enhanced images through the neck
+following the CTA protocol with multiplanar reformats.
+
+FINDINGS: There is mild atherosclerosis of the aortic arch. The
+lung apices are clear.
+
+There is mild nonatherosclerotic plaque at the origin of the
+right internal carotid artery. There is a calcified plaque at
+the posterior genu of the left cavernous carotid artery. There
+is no significant stenosis within the carotid artery, or other
+vascular abnormalities. The vertebrobasilar arteries as well as
+the visualized circle of 123 Any St. are normal. Note is made of a
+right ventriculostomy catheter, with the tip in the frontal Dreyson Dreer
+of the right lateral ventricle.
+
+IMPRESSION: No significant carotid artery stenosis. Mild plaques
+as described above.
+
+NON-CONTRAST HEAD CT: There is no intracranial hemorrhage or new
+major territorial infarct identified.
+
+There is a ventricular drainage catheter traversing the right
+parietal lobe with the tip in the right frontal Dreyson Dreer. There is
+stable mild supratentorial ventricular dilation. Along the right
+parietal tract of the shunt catheter is a hypodensity,
+consistent with chronic infarction. There is also a hypodense
+area in the occipital lobe, better characterized on MR from
+2011-11-20 00:00:00, and consistent with chronic infarction.
+
+There is no shift of normally midline structures. The
+surrounding osseous and soft tissue structures are unremarkable.
+
+IMPRESSION:
+1. No intracranial hemorrhage.
+2. Right-sided ventricular drain in good position without
+evidence of hydrocephalus.
+3. Multiple areas of encephalomalacia due to Old infarcts better
+characterized on MR from 2011-11-20 00:00:00.
+
+
+CAROTID SERIES COMPLETE PORT
+Reason: need a portable bilateral carotid ultrasound
+
+UNDERLYING MEDICAL CONDITION:
+73 year old woman r/o embolic stroke. L>R weakness.
+REASON FOR THIS EXAMINATION:
+need a portable bilateral carotid ultrasound
+STUDY: Carotid series complete.
+
+REASON: Left-sided weakness.
+
+FINDINGS: Duplex evaluation was performed of bilateral carotid
+arteries. There is heterogeneous plaque in the proximal ICA
+bilaterally.
+
+On the right, peak velocities are 107, 67, and 97 cm per second
+in the ICA, CCA, and ECA respectively. This is consistent with
+less than 40% stenosis.
+
+On the left, peak velocities are 89, 95, and 101 cm per second
+in the ICA, CCA, and ECA respectively. This is consistent with
+less than 40% stenosis.
+
+There is antegrade vertebral flow bilaterally.
+
+IMPRESSION: Bilateral less than 40% carotid stenosis.
+
+EEG
+-----
+FINDINGS:
+ABNORMALITY #1: Intermittent sharp waves were seen in the left
+temporal
+region maximum at F8-T4 with rare sharps seen in the right
+temporal
+region somewhat more broadly over FP1-T5 that are independent.
+These
+discharges disappeared transiently after the administration of
+lorazepam.
+ABNORMALITY #2: Persistent delta frequency slowing was seen
+broadly over
+the right hemisphere throughout the recording with rare right
+temporal
+sharps, and this did not change after the administration of
+lorazepam.
+BACKGROUND: Consisted of an 8.5 Hz alpha frequency background
+seen
+posteriorly, although this was poorly modulated.
+HYPERVENTILATION: Contraindicated.
+INTERMITTENT PHOTIC STIMULATION: Could not be performed as this
+was a
+portable study.
+SLEEP: There was no clear sleep seen.
+CARDIAC MONITOR: Revealed a regular rhythm with an average heart
+rate of
+96 bpm.
+IMPRESSION: This was an abnormal EEG due to the presence of
+occasional
+left temporal sharp waves suggestive of cortical irritability in
+that
+region, with resolved after the administration of lorazepam. The
+right
+hemisphere slowing as well as rare sharps are consistent with
+cortical
+and subcortical dysfunction, and this pattern did not change
+after
+administration of lorazepam. No seizures were seen.
+
+BEDSIDE SWALLOWING EVALUATION
+HISTORY:
+73 year old woman admitted to UPMCE on 2011-11-20 00:00:00 w/VP shunt,
+programmable, placed in 2011-11-20 00:00:00 at UPMCE for Normal pressure
+hydrocephalus. Since shunt placement, she is s/p multiple falls
+s/p pelvic and sternal fractures.  This admission, she seems to
+be having embolic strokes and worsening neuro status. She has  L
+hemiparesis, Right visual field cut, she is perseverative,
+inattentive.  We were consulted to evaluate her oral and
+pharyngeal swallowing ability to r/o aspiration. She was on a
+regular diet after admission but was made NPO when she was
+transferred to ICU for BP management.  She is currently
+receiving
+TPN.
+
+PMH notable for multiple medical problems including Delali Ihrig
+disease, breast cancer s/p Bilat. mastectomy & re-construction,
+thyroid cancer,hiatal hernia, Schatzki's ring & chronic
+gastritis, anxiety and depression.
+
+EVALUATION:
+The examination was performed while the patient was seated
+upright in the bed in ICU.
+Cognition: Pt. was confused and inattentive. She kept asking who
+the Ihrig were that were rounding outside her room.  She kept
+asking for Dr. Dreyson Dreer and calling out for help.  Language: She
+was able to speak in full sentences. Speech was mildly
+dysarthric
+& voice was soft but audible w/clear vocal quality.
+Teeth: Full set
+Secretions: Normal amount in her mouth
+
+ORAL MOTOR EXAM:
+Lips with Left droop but adequate labial seal
+Tongue midline but mildly reduced tongue strength
+Palatla elevation was reduced but gag was hyper-sensitive.
+
+SWALLOWING ASSESSMENT:
+PO assessment was conducted with ice chips, water via tsp, cup
+and straw sip, nectar thick liquids, applesauce and one bite of
+Dreyson Dreer
+Ihrig cracker.  Swallows were slightly delayed.  Laryngeal
+elevation felt adequate to palpation. There was no cough, no
+throat clear and no change in voice quality after eating or
+drinking.  She denied food sticking in her throat or liquids
+going down the wrong way.  However, when swallowing water, the
+water appeared to go down faster than her swallow started,
+placing her at risk to aspirate.  Also, she seemed to do better
+when she alternated between bites of puree or soft solids and
+sips of thin liquid.
+
+SUMMARY / IMPRESSION:
+Ms. Ihrig seems to be able to safely swallow soft solids and
+nectar thick liquids without signs of aspiration at the bedside
+despite the fact that she has a delayed oropharyngeal swallow.
+However, "silent" aspiration or aspiration without coughing can
+not be ruled out at bedside.  She has been swallowing pills
+whole
+w/honey thick liquids without reported difficulty today, and she
+was eating a regular diet 123 Any St.usly during this admission.
+
+RECOMMENDATIONS:
+1.  Advance diet to soft solids with Nectar-Thick liquids
+    Alternate between bites and sips!
+
+2.  Pills whole w/nectar
+
+3.  If she has any difficulty with this diet, we would be happy
+    to perform a videoswallow
+
+4.  If her neuro status improves this admission, we could
+    repeat the bedside swallow to see if her diet could be
+    safely advanced to include thin liquids or regular solids.
+
+These recommendations were shared with the patient, nurse and
+medical team.
+
+
+Brief Hospital Course:
+Delali Ihrig was admitted to the surgery service on 2011-11-20 00:00:00
+under the care of Dr. Ihrig. She was evaluated by Neurology on
+admission .
+
+At HD 2 her blood pressure was elevated to the 190s systolic and
+this was controlled as per neuro recommendation.  Ophthalmology
+was consulted who saw no evidence of emboli or vasculitis,
+noting that her visual complaints were central in origin. She
+was placed on telemetry to evaluate for atrial fibrillation. An
+outside TEE report was obtained to rule out endocarditis. Blood
+cultures were sent and were negative for growth.
+
+ At HD 3 an MRI/MRA of the brain and neck was completed which
+showed a left occipital hemorrhagic infarction, new since
+2011-11-20 00:00:00; right-sided intraventricular drain in good position
+without evidence of hydrocephalus; and findings consistent with
+old right MCA territory infarct. TSH was 0.023. Ammonia level
+was 26. Vitamin B12 was >2011-11-20 00:00:00. An ECHO was completed and was
+negative for endocarditis or acute process. She was noted to
+have guaiac (+) stools. Despite this, anticoagulation was
+started due to  worsening of her left hemiparesis with a goal of
+PTT at 40-50. The programmable shunt was reprogrammed by
+neurosurgery post-MRI.
+
+At HD 4 she was transferred to the SICU. The levothyroxine dose
+was decreased per low TSH. A CTA of the neck was completed which
+showed no significant carotid artery stenosis. A urinalysis was
+performed which was positive most likely due to her
+enterovescicular fistula. Ciprofloxacin was started pending
+culture.  Heparin drip continued. A PICC line was placed for TPN
+as it was feared she may have difficulty swallowing given left
+facial droop.  An EEG was completed which was negative for
+seizure activity. A CTA of the aorta showed no embolic source.
+Factor VIII and D-dimer were elevated at 181 and 756. TPN was
+started.
+
+At HD 5 a CT of the head was completed which was negative for
+bleed.  A carotid ultrasound was completed which showed
+bilateral carotid stenosis less than 40%. A bedside swallow
+evaluation was completed which recommended soft solids and
+nectar-thick liquids.
+
+At HD 6 there was evidence of atrial fibrillation per telemetry.
+Diltiazem was provided. The left hemiparesis persisted. She
+received 2units PRBCs for a Hct of 26.7. She was advanced to a
+soft diet. TPN continued. Steroids were started for ?vasculitis.
+Physical therapy was consulted for evaluation and treatment.
+
+At HD 8 [**Year (4 digits) 4056**] was started. She continued on a soft diet and
+was transitioned to PO medications. Calorie counts were started.
+
+
+At HD 9 there seemed to be some mild improvement in strength on
+the left side.  Ciprofloxacin was restarted for urinary tract
+infection per (+) urinalysis.
+
+On HD 10 she was transferred to the floor.  Steroids were
+tapered.  Neuro-ophthalmology evaluated and diagnosed her with a
+right hemianopic visual field defect consistent with left
+occipital infarct. They recommended further evaluation for
+?Dreyson Dreer syndrome after acute process has resolved.
+
+At HD 12 Vancomycin was started for (+) MRSA urine culture.
+Calorie count showed 8g protein and 247kcal. TPN was continued.
+
+At HD 13 the steroid taper was complete.  Heparin drip was
+discontinued for INR at 2.1.  Hemiparesis remained. Dreyson Dreer
+dose was set at 5mg qd. Macrodantin replaced Ciprofloxacin per
+urine culture.
+
+At HD 15 she continued to take inadequate protein and calories;
+TPN was continued.  INR was 2.4.  4mg Dreyson Dreer was given.  She
+continued with left hemiparesis with minimal if any improvement.
+ PT/OT continued to work with her.  She was reevaluated by
+neurophthalmology, but was not able to participate fully in the
+exam. They, again, recommended further testing at a later date.
+Blood pressure was moderately stabilized on Diltiazem.
+Neurology recommended blood pressure goal of <140/90.  Atenolol
+25mg was added.  They also recommended testing a HgA1C and
+lipids for secondary stroke prevention.
+
+At HD 16 she was discharged to Christ UPMCE Rehabilitation
+Center via air ambulance at the husband's request.  Her care
+will be assumed by Dr. Ihrig. At discharge she was stable.  INR
+was 3.5.  Recommend holding Ihrig dose on 2011-11-20 00:00:00.
+
+
+Medications on Admission:
+Prevacid
+Lexapro
+Benicar
+Levothyroid
+Librium
+Fosamax
+Evista
+
+Discharge Medications:
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID
+(3 times a day) as needed.
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+4. Diltiazem HCl 30 mg Tablet Sig: 2.5 Tablets PO QID (4 times a
+day).
+5. Nitrofurantoin Macrocrystal 100 mg Capsule Sig: One (1)
+Capsule PO Q 12H (Every 12 Hours) for 2 days.
+6. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2)
+ML Intravenous  DAILY (Daily) as needed: 10 ml NS followed by 2
+ml of 100 Units/ml heparin (200 units heparin) each lumen Daily
+and PRN. Inspect site every shift.
+.
+7. Escitalopram 10 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+
+8. Chlordiazepoxide HCl 5 mg Capsule Sig: One (1) Capsule PO Q8H
+(every 8 hours) as needed for anxiety.
+9. Insulin Regular Human 100 unit/mL Solution Sig: Per Sliding
+Scale  Injection Per Sliding Scale: Breakfast; Lunch; Dinner;
+Bedtime: 0-70   mg/dL 2011-11-20 00:00:00 amp D50
+71-120   mg/dL 0   Units
+121-140   mg/dL 2   Units
+141-160   mg/dL 4   Units
+161-180   mg/dL 6   Units
+181-200   mg/dL 8   Units
+201-220   mg/dL 10   Units
+221-240   mg/dL 12   Units
+241-260   mg/dL 14   Units
+261-280   mg/dL 16   Units
+281-300   mg/dL 18   Units
+> 300   mg/dL Notify M.D.
+.
+10. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+11. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO every eight
+(8) hours as needed for pain.
+12. Warfarin 1 mg Tablet Sig: Delali Ihrig MD Delali Ihrigt PO Delali Ihrig MD
+order: Please page MD Delali Ihrig dose on 2011-11-20 00:00:00.  INR
+on 2011-11-20 00:00:00 = 3.5 .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Christ Hospital
+
+Discharge Diagnosis:
+CVA
+GI Bleeding
+UTI
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please contact MD for:
+* Fever (>101 F) or chills
+* Nause or vomiting
+* Altered Mental Status
+* Chest Pain
+* Shortness of Breath
+* Redness or Drainage at PICC site
+* Any other concerns
+
+Followup Instructions:
+Follow up with your doctor Delali Ihrig upon arrival.
+
+
+
+Completed by:2011-11-20 00:00:00

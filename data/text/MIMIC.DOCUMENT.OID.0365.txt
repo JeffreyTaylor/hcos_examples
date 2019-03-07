@@ -1,0 +1,241 @@
+Admission Date:  2013-03-08 00:00:00              Discharge Date:   2013-03-08 00:00:00
+
+Date of Birth: 1966-03-06 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Emaley Loggie
+Chief Complaint:
+nausea, vomiting
+
+Major Surgical or Invasive Procedure:
+s/p suboccipital craniotomy for tumor resection and biopsy
+
+
+History of Present Illness:
+71F with NSCLC, HTN, hypercholesterolemia, admitted with
+refractory nausea/vomitting since starting Tarceva. She denies
+abdominal/chest pain, SOB, diarrhea/constipation or problems
+w/bladder incontinence. She does have unsteadiness of gait as
+well as trouble using her right hand.
+
+Past Medical History:
+1. NSCLC: prior w/u at UPMCE/UPMCE (Dr. Emaley Loggie Lyden)- lung
+nodules found on preop CXR 2013-03-08 00:00:00, CT showed RLL nodule c/w
+primary lung cancer and multifocal bronchoalveolar carcinoma,
+PET/CT showed FDG-avid R lung nodule and mediastinal/pericardial
+LAD, s/p bronch/mediastinoscopy with mediastinal LN dissection
+with path showing NSCLC-adenoca; sought 2nd opinion at UPMCE
+(Emaley Loggie), s/p 2 cycles of Taxol and carboplatin from
+2013-03-08 00:00:00, s/p 4 cycles Navelbine on 2013-03-08 00:00:00, CT chest 2013-03-08 00:00:00
+showed interval worsening of lung metastases and LAD, started
+Tarceva ?2013-03-08 00:00:00
+2. Hypertension
+3. Hypercholesterolemia
+4. Degenerative joint disease
+
+Social History:
+She is a former smoker of half to one pack a day
+for 20 to 30 years, but she quit about 20 years ago.  She does
+not have significant amount of passive smoking exposure, no
+asbestos exposure, and rare social drinking.
+
+
+Family History:
+Positive for cardiac or vascular disease, but no
+cancer.  She has a possible history of amoxicillin allergy,
+although it is not clear whether this was poor tolerance, and
+she
+has taken penicillin in the past without difficulty.  She has a
+daughter who is a physician and who comes with her to the visit
+along with her son-in-law.  She worked as a bookkeeper in an
+electrical company in the past.
+
+Physical Exam:
+T:96.9  BP:140/78      HR:64    RR:20       O2Sats:95% RA
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: PERRL        EOMs-intact
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to 2 mm
+bilaterally.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+Emaley Loggie: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power 2013-03-08 00:00:00 throughout. No pronator drift.
+
+Sensation: Intact to light touch bilaterally.
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger, heel to shin
+
+(+) Romberg
+
+
+Pertinent Results:
+2013-03-08 00:00:00 09:10PM   WBC-11.9* RBC-5.25 HGB-15.3 HCT-44.5 MCV-85
+MCH-29.2 MCHC-34.4 RDW-16.7*
+2013-03-08 00:00:00 09:10PM   NEUTS-70.0 LYMPHS-24.3 MONOS-4.0 EOS-1.3
+BASOS-0.5
+2013-03-08 00:00:00 09:10PM   ANISOCYT-1+ MICROCYT-1+
+2013-03-08 00:00:00 09:10PM   PLT COUNT-406
+2013-03-08 00:00:00 09:10PM   GLUCOSE-97 UREA N-34* CREAT-0.8 SODIUM-133
+POTASSIUM-7.7* CHLORIDE-98 TOTAL CO2-26 ANION GAP-17
+2013-03-08 00:00:00 09:10PM   estGFR-Using this
+2013-03-08 00:00:00 09:10PM   ALT(SGPT)-33 AST(SGOT)-97* ALK PHOS-109
+AMYLASE-111* TOT BILI-0.6
+2013-03-08 00:00:00 09:10PM   LIPASE-81*
+2013-03-08 00:00:00 09:10PM   CALCIUM-9.6 PHOSPHATE-4.4 MAGNESIUM-2.4
+
+MRI head:
+1. Enhancing mass in the right cerebellar hemisphere, with mass
+effect as described above, most consistent with a metastatic
+lesion. No additional mass/abnormal enhancement.
+2. Old lacune in the left caudate nucleus and a nonspecific T2
+hyperintensity in the right frontal lobe, likely post-traumatic
+or chronic small vessel ischemic change.
+3. Mucosal changes in the right sphenoid sinus.
+
+CT abdomen/pelvis:
+1. No evidence of intra-abdominal metastatic disease.
+2. A 9-mm hypoattenuating liver lesion is likely a cyst but
+should be
+monitored closely on followup exams.
+3. New small bilateral pleural effusions with adjacent
+atelectasis.
+4. Large paraesophageal hernia.
+5. Stable pericardial lymph node.
+
+
+Brief Hospital Course:
+# Nausea and vomiting:  Concerning presentation for brain
+metastasis. Tarceva d/c'd on thursday of last week w/continued
+N/V as well as unsteadiness of gait
+
+# NSCLC: further treatment plans per Dr. Lyden and Emaley Loggie
+- hold Tarceva
+- CT head as above
+
+# Code status: DNR/DNI
+
+On 2013-03-08 00:00:00, the patient came from the UPMCE to the SICU on
+the west.  She underwent preop evaluation and surgery was
+scheduled for 2013-03-08 00:00:00 with Dr. Lyden.  She had a very successful
+surgery with no reported complications.  Please see the
+operative note for full details.  She went back to the ICU for
+24 hours and then came to the floor.  Physical therapy saw her
+and had no major issues with her progression.  She plans to say
+with her daughter for several days to recuperate.  The patient
+will see neuro oncology and Dr. Lyden next week and will be on a
+course of steroids for the unforeseeable future.
+
+Medications on Admission:
+[**Doctor First Name **] 60MG UPMCE
+FLONASE 50 mcg 2 sprays ou qd
+LIPITOR 10 MG qd
+PRILOSEC 40 mg qd
+
+Discharge Medications:
+1. Dexamethasone 1.5 mg Tablet Sig: Two (2) Tablet PO Q8H (every
+8 hours) for 2 days.
+Disp:*12 Tablet(s)* Refills:*0*
+2. Dexamethasone 1.5 mg Tablet Sig: Two (2) Tablet PO twice a
+day for 2 days: Start this dose after taking 3mg TID.
+Disp:*8 Tablet(s)* Refills:*0*
+3. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO twice a day:
+Once you have finished taking 3mg UPMCE, take 2mg UPMCE until
+directed by MD otherwise.
+Disp:*60 Tablet(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation: Please take this medication as long as
+you are taking percocet.  .
+Disp:*60 Capsule(s)* Refills:*1*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+cerebellar mass
+
+
+Discharge Condition:
+neurologically stable
+
+
+Discharge Instructions:
+??????	Have a family member check your incision daily for signs of
+infection
+??????	Take your pain medicine as prescribed
+??????	Exercise should be limited to walking; no lifting, straining,
+excessive bending
+* Please continue all of your preadmission medications that you
+were on before coming into the hospital.
+??????	You may wash your hair only after sutures and/or staples have
+been removed
+??????	You may shower before this time with assistance and use of a
+shower cap
+??????	Increase your intake of fluids and fiber as pain medicine
+(narcotics) can cause constipation
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, aspirin, Advil,
+Ibuprofen etc.
+??????	If you have been prescribed an anti-seizure medicine, take it
+as prescribed and follow up with laboratory blood drawing as
+ordered
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING:
+
+??????	New onset of tremors or seizures
+??????	Any confusion or change in mental status
+??????	Any numbness, tingling, weakness in your extremities
+??????	Pain or headache that is continually increasing or not
+relieved by pain medication
+??????	Any signs of infection at the wound site: redness, swelling,
+tenderness, drainage
+??????	Fever greater than or equal to 101?????? F
+
+
+Followup Instructions:
+Need to follow-up with oncologist for 9-mm hypoattenuating liver
+lesion which is likely a cyst but needs to be watched.
+
+PLEASE RETURN TO THE OFFICE IN 7 DAYS FOR REMOVAL OF YOUR
+STAPLES/SUTURES
+
+PLEASE CALL test@mail.com TO SCHEDULE AN APPOINTMENT WITH
+DR.Lyden TO BE SEEN IN 1 WEEK.
+YOU WILL NOT NEED A CAT SCAN OF THE BRAIN WITH OR WITHOUT
+CONTRAST
+
+
+
+Completed by:2013-03-08 00:00:00

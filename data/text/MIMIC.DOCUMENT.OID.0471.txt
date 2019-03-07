@@ -1,0 +1,495 @@
+Admission Date:  2007-02-17 00:00:00              Discharge Date:   2007-02-17 00:00:00
+
+Date of Birth: 1989-08-20 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Streptokinase / Iodine
+
+Attending:Candra Spoelhof
+Chief Complaint:
+Left Total Knee Replacement
+
+Major Surgical or Invasive Procedure:
+Left Total Knee Replacement
+
+
+History of Present Illness:
+57-year-old male with a past medical history significant for
+severe bilateral arthritis S/P R TKR in 2007-02-17 00:00:00; CAD S/P MI
+(remote); recurrent DVT and PE and atrial fibrillation, on
+Coumadin; hypertension; CHF, diastolic and systolic; obstructive
+sleep apnea, on BiPAP; severe COPD on 4L home O2; history of
+heavy tobacco abuse; systemic lupus now in remission; diabetes;
+hepatitis C; colon cancer (resected); and peripheral neuropathy.
+ He is being admitted for an elective left total knee
+replacement, but given his complex medical problems, it was felt
+he should be admitted to medicine pre-operatively.  When he had
+his right TKR in 2007-02-17 00:00:00 he was transferred to medicine post-op for
+management of fluid overload and anticoagulation.  He had a COPD
+exacerbation 2007-02-17 00:00:00 that was treated with Abx.  His current
+surgery was supposed to be done 2007-02-17 00:00:00, but when admitted pre-op
+was found to have PNA, treated with ceftriaxone and cefpodoxime.
+ Surgery was rescheduled to 2007-02-17 00:00:00.
+.
+On review of systems here he denies cough, fever, chills,
+vomiting, constipation, orthopnea, increased dyspnea on exertion
+or dysuria.  He does use 4L home O2, but has no change in his
+requirements.  He has chronic knee pain and neuropathy for which
+he takes methadone every 6 hours.
+
+Past Medical History:
+- Type II diabetes
+- SLE diagnosed 2007-02-17 00:00:00
+- CAD s/p MI in 2007-02-17 00:00:00
+- Chronic Afib on coumadin
+- Hep C s/p interferon
+- COPD w/ FEV1 60%
+- diastolic CHF w/ EF 50% in 2007-02-17 00:00:00
+- seizure d/o
+- s/p TIA in 2007-02-17 00:00:00
+- colon cancer s/p resection w/o chemo
+- s/p splenectomy
+- hyperlipidemia
+- hypertension
+- neuropathy on methadone
+- OSA on home CPAP
+
+Social History:
+123 Any St. vet, lives with wife, daughter, son and granddaughter.
+Quit smoking in 2007-02-17 00:00:00 after 80 pack-year history. History of drug
+abuse clean since 2007-02-17 00:00:00. Both patient and wife deny that he uses
+any EtOH; pt states it is because he has hx of Hepatitis C.
+
+
+Family History:
+No known family history because pt did not know his parents.
+
+Physical Exam:
+VS - Temp 97.1 F, BP 128/78, HR 112, R 24, O2-sat 96% RA
+GENERAL - obese man w/ mild dyspnea off O2, comfortable,
+appropriate
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, no cervical LAD.
+LUNGS - CTA bilat with occasional cough on deep inspiration,
+resp unlabored, no accessory muscle use
+HEART - irregularly irregular, no MRG, nl S1-S2
+ABDOMEN - obese, soft/NT/ND, no masses or HSM.
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+SKIN - no rashes or lesions
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength
+2007-02-17 00:00:00 throughout, sensation grossly intact throughout, cerebellar
+exam intact, steady gait with slight limp from left knee pain
+
+Pertinent Results:
+Labs during Hospital course:
+2007-02-17 00:00:00: BLOOD WBC-13.4* RBC-3.49* Hgb-9.9* Hct-30.6* MCV-88
+MCH-28.5 MCHC-32.5 RDW-14.8 Plt Ct-344
+2007-02-17 00:00:00 05:40AM BLOOD WBC-14.4* RBC-3.90* Hgb-11.1* Hct-34.2*
+MCV-88 MCH-28.5 MCHC-32.4 RDW-14.6 Plt Ct-347
+2007-02-17 00:00:00 05:47PM BLOOD WBC-17.7*# RBC-3.55* Hgb-10.4* Hct-32.0*
+MCV-90 MCH-29.1 MCHC-32.3 RDW-14.9 Plt Ct-276
+2007-02-17 00:00:00: BLOOD WBC-22.2* RBC-3.75* Hgb-10.5* Hct-32.2* MCV-86
+MCH-28.1 MCHC-32.7 RDW-15.0 Plt Ct-261
+2007-02-17 00:00:00: BLOOD WBC-21.2* RBC-3.14* Hgb-8.8* Hct-27.0* MCV-86
+MCH-28.1 MCHC-32.8 RDW-15.3 Plt Ct-219
+2007-02-17 00:00:00: BLOOD WBC-18.7* RBC-2.82* Hgb-8.4* Hct-24.9* MCV-88
+MCH-29.6 MCHC-33.5 RDW-15.1 Plt Ct-234
+2007-02-17 00:00:00 10:35AM BLOOD Hct-25.0*
+2007-02-17 00:00:00 05:35AM BLOOD WBC-16.1* RBC-2.76* Hgb-7.9* Hct-24.0*
+MCV-87 MCH-28.5 MCHC-32.9 RDW-15.2 Plt Ct-300
+2007-02-17 00:00:00 06:00AM BLOOD WBC-15.0* RBC-2.86* Hgb-8.3* Hct-25.2*
+MCV-88 MCH-28.9 MCHC-32.8 RDW-15.0 Plt Ct-377
+2007-02-17 00:00:00 05:50AM BLOOD PT-14.9* PTT-25.7 INR(PT)-1.3*
+2007-02-17 00:00:00 06:00AM BLOOD PT-17.3* PTT-25.4 INR(PT)-1.5*
+2007-02-17 00:00:00 05:50AM BLOOD Glucose-88 UreaN-24* Creat-1.3* Na-141
+K-3.8 Cl-97 HCO3-33* AnGap-15
+2007-02-17 00:00:00 05:40AM BLOOD Glucose-118* UreaN-19 Creat-1.0 Na-144
+K-3.5 Cl-98 HCO3-35* AnGap-15
+2007-02-17 00:00:00 10:22AM BLOOD Glucose-164* UreaN-18 Creat-1.1 Na-141
+K-3.4 Cl-98 HCO3-34* AnGap-12
+2007-02-17 00:00:00 04:49PM BLOOD Glucose-132* UreaN-19 Creat-1.3* Na-143
+K-3.6 Cl-100 HCO3-35* AnGap-12
+2007-02-17 00:00:00 05:35AM BLOOD Glucose-164* UreaN-14 Creat-1.1 Na-138
+K-3.5 Cl-96 HCO3-31 AnGap-15
+2007-02-17 00:00:00 06:00AM BLOOD Glucose-164* UreaN-11 Creat-1.0 Na-136
+K-3.5 Cl-97 HCO3-31 AnGap-12
+2007-02-17 00:00:00 05:55AM BLOOD Glucose-138* UreaN-14 Creat-1.1 Na-136
+K-3.6 Cl-95* HCO3-32 AnGap-13
+2007-02-17 00:00:00 05:35AM BLOOD Glucose-141* UreaN-21* Creat-1.2 Na-139
+K-3.5 Cl-97 HCO3-31 AnGap-15
+2007-02-17 00:00:00 06:00AM BLOOD Glucose-139* UreaN-19 Creat-1.1 Na-140
+K-3.8 Cl-97 HCO3-32 AnGap-15
+2007-02-17 00:00:00 04:49PM BLOOD ALT-16 AST-25 LD(LDH)-187 CK(CPK)-58
+TotBili-0.4
+2007-02-17 00:00:00 05:55AM BLOOD LD(LDH)-188 TotBili-0.9
+2007-02-17 00:00:00 04:49PM BLOOD Lipase-55
+2007-02-17 00:00:00 05:35AM BLOOD GGT-178*
+2007-02-17 00:00:00 05:50AM BLOOD Calcium-8.4 Phos-4.9* Mg-2.0
+2007-02-17 00:00:00 06:00AM BLOOD Calcium-8.3* Phos-3.1 Mg-2.0
+2007-02-17 00:00:00 05:55AM BLOOD Hapto-410*
+2007-02-17 00:00:00 04:49PM BLOOD TSH-1.8
+2007-02-17 00:00:00 04:49PM BLOOD Free T4-1.3
+2007-02-17 00:00:00 05:54PM BLOOD Type-ART Temp-39.4 Rates-/14 pO2-42*
+pCO2-54* pH-7.33* calTCO2-30 Base XS-0 Intubat-NOT INTUBA
+Comment-CPAP WITH
+2007-02-17 00:00:00 11:31PM URINE Color-Yellow Appear-Clear Sp Kochanowski-1.011
+2007-02-17 00:00:00 11:31PM URINE Blood-MOD Nitrite-NEG Protein-100
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+2007-02-17 00:00:00 11:31PM URINE RBC-18* WBC-3 Bacteri-NONE Yeast-NONE
+Epi-0
+2007-02-17 00:00:00 07:14PM URINE Color-Yellow Appear-Clear Sp Kochanowski-1.013
+2007-02-17 00:00:00 07:14PM URINE Blood-MOD Nitrite-NEG Protein-75
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+2007-02-17 00:00:00 07:14PM URINE RBC-2007-02-17 00:00:00* WBC-0-2 Bacteri-MOD Yeast-NONE
+Epi-<1
+2007-02-17 00:00:00 07:14PM URINE CastGr-2007-02-17 00:00:00*
+
+Micro:
+Blood Cultures (2007-02-17 00:00:00, 2007-02-17 00:00:00, 2007-02-17 00:00:00): Negative Till Date
+Urine Cultures (2007-02-17 00:00:00, 2007-02-17 00:00:00, 2007-02-17 00:00:00): No Growth
+
+Imaging:
+Pre-Op ECG (2007-02-17 00:00:00):
+Atrial fibrillation with single wide complex beat, possibly
+ventricular.
+ST-T wave abnormalities. Since the 123 Any St.us tracing of 2007-02-17 00:00:00
+the wide
+complex beat is new.
+
+Pre-Op CXR (2007-02-17 00:00:00):
+FINDINGS: Comparison made to 2007-02-17 00:00:00. Moderate cardiac
+enlargement
+is unchanged, without evidence of increased pulmonary
+vascularity, or
+pulmonary edema. Lungs are clear. There is no pleural effusion
+or
+pneumothorax.
+IMPRESSION: Unchanged cardiomegaly.
+.
+Knee film
+Final Report
+LEFT KNEE 2007-02-17 00:00:00
+CLINICAL INFORMATION: Total knee replacement.
+FINDINGS:
+Three views of the left knee are compared to the prior study
+from 2007-02-17 00:00:00.
+These demonstrate interval placement of total left knee
+arthroplasty in near
+anatomic alignment without hardware complication at this time.
+Surgical
+staples are present. There are post-surgical changes in the soft
+tissues.
+Small joint effusion is present.
+DR. Candra Spoelhof Kochanowski
+Approved: Jrew 2007-02-17 00:00:00 9:36 PM
+.
+2007-02-17 00:00:00: Lower extrem u/s: negative for DVT (123 Any St. report)
+.
+CXR (2007-02-17 00:00:00):
+There is interval improvement of pulmonary edema with still
+present right
+perihilar opacity as well as minimal left perihilar opacity,
+most likely
+representing residue of the infection. Attention on the
+subsequent study is recommended to exclude the possibility of
+developing infection. Cardiomegaly is unchanged. Mediastinal
+silhouette is stable. No ap[** Location **]ble pleural effusion is
+present, although note is made that the left costophrenic angle
+was excluded from the field of view. There is no pneumothorax.
+
+CXR (2007-02-17 00:00:00):
+FINDINGS: In comparison with the study of 2007-02-17 00:00:00, there is
+continued
+enlargement of the cardiac silhouette with minimal elevation of
+pulmonary
+venous pressure. The perihilar opacities persist, most likely
+representing
+residual of infection.
+Impression: No evidence of acute pneumonia or pleural effusion.
+
+
+
+
+Brief Hospital Course:
+57yo man with extensive past-medical history including CHF,
+COPD, Afib on Coumadin and history of difficult peri-operatively
+in the past, admitted pre-operatively in preparation for left
+TKR.
+
+#. Left Total Knee Replacement: Prior to the surgery, warfarin
+was discontinued and heparin gtt was started. The patient was
+sent to surgery on 2007-02-17 00:00:00 for Left Total Knee Replacement.
+There were no complications during the surgery. Post-operatively
+the patient's recovery in the PACU was complicated with fevers
+to 103, rigors, elevated HRs to 110s and SBP to 180s with brief
+O2 desaturation to 70s that returned to the low 90s about 7
+hours post-operatively. There was a question of whether the
+etiology was sepsis vs. withdrawal (Benzo/EtOH - there was no
+history of EtOH recently per patient and wife) vs. Neuroleptic
+malignant syndrome vs. PE. PE did not seem likely as the patient
+did not show signs right heart strain on ECG. As a result the
+patient was transferred to the MICU where esmolol was started
+and the patient's BP/HR improved. Labs were sent and the patient
+was placed on CIWA scale, on which he consistently had a score
+of 0. Once the patient was stabilized, the patient was sent back
+to the floor where he continued to have fevers to 101.
+Pan-cultures were sent, all of which have been negative to date.
+No antibiotics were started, and the patient defervesced on his
+own. The fevers were thought to be due to possibly a combination
+of post-operative fevers and atelectasis. The patient had a drop
+in his hct from his baseline of 32. Hemolysis labs were done,
+which were negative, and the surgical site did not indicate a
+hematoma. Subsequently, the patient's hct began to rise with hct
+on discharge of 25.2. The patient's hct will need to be
+monitored during rehabilitation, and transfusion may be required
+if the patient's hct falls below 24. The patient is on
+long-standing methadone. For adequate pain control
+post-operatively, the patient was started on Dilaudid 1mg q6prn.
+
+.
+#. Diastolic CHF:
+The patient takes high doses of furosemide at home TID. The
+patient has had difficulty peri-operatively with fluid overload
+in the past, thus careful monitoring of his fluid was done
+during this surgery. Post-operatively he appeared euvolemic. At
+discharge, his home dose of Lasix was re-started, which he
+seemed to tolerate well. His home medications of carvedilol and
+isosorbide were continued. Captopril dose was reduced in half to
+6.25 TID from 12.5 TID. The patient may be up-titrated to his
+home dose of captopril in the outpatient setting.
+.
+#. Afib/History of PE & DVT/anticoagulation:
+The patient suffers from paroxysmal atrial fibrillation and also
+has a history of PE and DVTs. The patient's warfarin was stopped
+1 day prior to admission. On admission he was started on heparin
+gtt, which was discontinued on the day of surgery.
+Post-operatively heparin gtt was restarted and continued while
+the patient was bridged to coumadin. The patient was discharged
+on his home dose of coumadin on 17.5mg. At discharge, the
+patient had INR of 1.5, and as a result the patient was started
+on lovenox 100mg UPMCE. Lovenox should be discontinued once the
+patient reaches his goal INR of 2007-02-17 00:00:00 which should be checked at
+his rehab.
+.
+#. Diabetes: During the UPMCE hospital course, the patient's
+metformin and glipizide were held and the patient was started on
+a Humalog Insulin Sliding Scale. At discharge, the patient was
+restarted on metformin and glipizide. He should have his sugars
+checks at the rehab.
+.
+#. Hypertension
+The patient was continued on home doses of carvedilol and
+isosorbide dinitrate. Captopril was reduced in half as stated
+above. The captopril may be up-titrated to his home dose in the
+outpatient setting.
+
+#. COPD: At baseline, the patient is on 4L of 02 at home. The
+patient required the same amount of 02 during the hospital
+course and the patient's home nebulizers and bronchodilators
+were continued.
+.
+#. Obstructive sleep apnea: The patient suffers from sleep
+apnea, and had brought his home Bipap machine, which he used
+during the course of his hospital stay.
+.
+#. Insomnia: The patient suffers from insomnia and was continued
+on his home dose of tanazidine and oxazepam.
+.
+#. SLE: The patient suffers from SLE, and was continued on his
+home dose of plaquenil.
+.
+Patient was Full Code during this admission, and his wife was
+the main person of contact.
+
+
+Medications on Admission:
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler -
+2007-02-17 00:00:00
+puffs(s) by mouth every four (4) to six (6) hours as needed for
+
+cough/wheezing
+CAPTOPRIL - 12.5 mg Tablet - 0.5 (One half) Tablet(s) by mouth
+three times per day
+CARBAMAZEPINE - 200 mg Tablet - 2 Tablet(s) by mouth three times
+
+a day
+CARVEDILOL [COREG] - 25 mg Tablet - 2 Tablet(s) by mouth twice a
+
+day
+FLUTICASONE - 50 mcg Spray, Suspension - 1 spray(s) nasal twice
+a
+day
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 250 mcg-50 mcg/Dose
+Disk
+with Device - 1 puff po twice a day
+FUROSEMIDE - 80 mg Tablet - 2 Tablet(s) by mouth in am;1 2007-02-17 00:00:00 @
+noon; 2 tabs in pm
+GLIPIZIDE - 5 mg Tablet - 1 Tablet(s) by mouth once a day
+HYDROXYCHLOROQUINE [PLAQUENIL] - 200 mg Tablet - 1 Tablet(s) by
+
+mouth twice a day
+IPRATROPIUM-ALBUTEROL - 0.5 mg-2.5 mg/3 mL Solution for
+Nebulization - 1 Solution(s) inhaled every six (6) hours
+ISOSORBIDE DINITRATE - 40 mg Tablet - 1 Tablet(s) by mouth three
+
+times a day
+METFORMIN - 1,000 mg Tablet - 1 Tablet(s) by mouth twice a day
+METFORMIN - 500 mg Tablet - 1 Tablet(s) by mouth at bedtime
+METHADONE - 10 mg Tablet - 1 Tablet(s) by mouth every six (6)
+hours as needed for pain fill on or after 2007-02-17 00:00:00
+NITROGLYCERIN - 0.4 mg/Dose Spray, Non-Aerosol - 1 as needed as
+
+needed for chest pain
+OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s)
+
+by mouth once a day
+OXAZEPAM - 30 mg Capsule - 1 Capsule(s) by mouth at bedtime
+POTASSIUM CHLORIDE - 20 mEq Tab Sust.Rel. Particle/Crystal - 1
+Tablet by mouth three times a day
+PREGABALIN [LYRICA] - 100 mg Capsule - 1 Capsule(s) by mouth
+three times a day
+SIMVASTATIN - 80 mg Tablet - 1 Tablet(s) by mouth at bedtime
+TIZANIDINE [ZANAFLEX] - 4 mg Capsule - 1 Capsule(s) by mouth at
+
+bedtime
+WARFARIN - 5 mg Tablet - 5 Tablet(s) by mouth 17.5 mg daily 3
+tabs of 5 mg + (1) 2.5 mg tab
+
+Medications - OTC
+ASPIRIN - 325 mg Tablet - 1 Tablet(s) by mouth once a day
+BLOOD SUGAR DIAGNOSTIC [ACCU-CHEK AVIVA] - Strip - use twice a
+day for diabetes monitoring
+
+
+Discharge Medications:
+1. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) Puff Inhalation Q6H (every 6 hours) as needed for
+Shortness of Breath.
+2. Carbamazepine 200 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+3. Carvedilol 12.5 mg Tablet Sig: Four (4) Tablet PO BID (2
+times a day).
+4. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+5. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+6. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+7. Methadone 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours).
+8. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+9. Pregabalin 25 mg Capsule Sig: Four (4) Capsule PO TID (3
+times a day).
+10. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+11. Tizanidine 2 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+12. Oxazepam 15 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime) as needed for insomnia.
+13. Isosorbide Dinitrate 20 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day).
+14. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+15. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for shortness of breath or wheezing.
+16. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO TID (3 times a
+day).
+17. Furosemide 80 mg Tablet Sig: Two (2) Tablet PO QAM/QPM ().
+Tablet(s)
+18. Furosemide 40 mg Tablet Sig: Three (3) Tablet PO NOON (At
+Noon).
+19. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a
+day. Tablet(s)
+20. Metformin 500 mg Tablet Sig: One (1) Tablet PO at bedtime.
+21. Glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.
+22. Enoxaparin 120 mg/0.8 mL Syringe Sig: One (1)  Subcutaneous
+Q12H (every 12 hours): please discontinue once INR is 2007-02-17 00:00:00 and
+only continue coumadin.
+23. Warfarin 10 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+24. Warfarin 7.5 mg Tablet Sig: One (1) Tablet PO daily at 4pm.
+
+25. Hydromorphone 2 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6
+hours) as needed for pain: please do not take this medicine if
+you are driving or operating heavy machinery.
+26. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary:
+Left Total Knee Replacement
+
+Secondary:
+Atrial Fibrilation
+Systolic & Diastolic Congestive Heart Failure
+Chronic Obstructive Pulmonary Disease
+Diabetes Type II
+Hypertension
+Hyperlipidemia
+Obstructive Sleep Apnea
+Systemic Lupus Erythematosis
+
+
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Bedbound
+
+
+Discharge Instructions:
+You were admitted because you needed medical evaluation prior to
+your left total knee replacement. After the surgery you
+experienced fevers and were transferred to the ICU to get
+stabilized. Once you were brought back to the floor, you
+continued to have fevers, but they subsided. An infection was
+not thought to be the cause of your fevers and you did not need
+antibiotics. By discharge you were not having fevers and you
+were feeling better. You were also restarted on all your home
+medications at home dosages. Your pain was in control.
+.
+Weigh yourself every morning, Jrew Kochanowski MD if weight goes up more
+than 3 lbs.
+.
+We made the following changes to your medications:
+- please take captopril 6.25 three times a day (instead of 12.5
+three times a day)
+- please stop taking your daily potassium for now until your
+labs are rechecked at rehab
+- please continue taking coumadin per your home dose
+- please take lovenox injections 110mg twice a day until your
+INR is 2007-02-17 00:00:00
+- please take dilaudid as needed every 6 hours for pain
+.
+Please take all medications as prescribed.
+Please followup with all appointments.
+Please do not hesitate to return to the hospital for any
+concerning symptoms at all.
+.
+
+Followup Instructions:
+The following are appointments that you have in the future.
+Please follow-up with all appointments.
+.
+Please schedule a follow up appointment with orthopedics, (test@mail.com in the next 2 weeks or after you have completed
+physical therapy.
+.
+Provider: [**First Name8 (NamePattern2) 3937**] Kochanowski, 58242:test@mail.com Date/Time:2007-02-17 00:00:00
+1:40
+Provider: Jrew Candra Spoelhof Kochanowski, [**First Name3 (LF) **] Phone:test@mail.com
+Date/Time:2007-02-17 00:00:00 6:20
+Provider: Kochanowski. Jrew [**Doctor Last Name **] Phone:test@mail.com Date/Time:2007-02-17 00:00:00
+1:00
+
+
+                             Jrew Candra Spoelhof Kochanowski DO 12-BJM
+

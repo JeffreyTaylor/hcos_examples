@@ -1,0 +1,906 @@
+Admission Date:  2007-07-11 00:00:00              Discharge Date:   2007-07-11 00:00:00
+
+Date of Birth: 1945-07-11 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Thorazine / Haldol / Risperdal / Codeine / Demerol / Darvon
+
+Attending:Jordani Ozbolt
+Chief Complaint:
+CC:test@mail.com
+Major Surgical or Invasive Procedure:
+L. 1st MPJ arthrocentesis 2007-07-11 00:00:00
+I&D Left Lower Extremity 2007-07-11 00:00:00
+PICC LINE placement. 2007-07-11 00:00:00
+L 1st joint arthrocentesis 2007-07-11 00:00:00
+
+
+History of Present Illness:
+HPI: 43 yo M with h/o schizophrenia and self-abusive behavior
+resulting in recurrent cellulitis and UPMCE transferred to UPMCE
+for "sepsis". Pt is a resident at UPMCE who was
+taken to UPMCE on 2007-07-11 00:00:00 for pain, swelling, and redness
+in L knee and foot. Pt has h/o of jumping and landing on his
+knees and ankles, causing trauma, which then leads to
+cellulitis. OSH records indicate that he was evaluated in ED
+where knee was tapped and multiple Xrays were done which were
+negative and pt was sent back to 123 Any St.. He was brought back to
+UPMCE on 2007-07-11 00:00:00 due to worsened symptoms and was found to have
+WBC 24.2 with 20% bands, 76% polys. Pt was febrile to 104 and
+tachycardic to 110's. Blood cultures grew GPC's most closely
+resembling strep and the decision was made to transfer to UPMCE
+per mother's request. He was never hypotensive and did not
+require pressors. He was treated with levo, vanco, and imipenem,
+and started on IVF before transfer.
+
+
+Past Medical History:
+PMH:
+-schizophrenia
+-autism
+-h/o self-injurious behavior
+-h/o violence
+-recurrent DVT's in R LE.
+-s/p skin graft to R LE.
+-phlebitis in LLE.
+-h/o PE
+-s/p R eye surgery for strabismus
+
+Social History:
+Former resident of UPMCE.
+No t/e/d
+
+Family History:
+NC
+
+Physical Exam:
+101.4   125   35   109/88   98% RA
+Gen: obese male, mild distress, anxious
+HEENT: PERRL, + strabisums, flushed
+Neck: supple, no LAD
+CV: tachy s1/s2, no m/r/g
+Lungs: CTA bilaterally
+Abd: soft, nt/nd, nabs
+Extr: LLE with 2+ pitting edema to mid thigh, red hot foot with
+ttp, round ulcer on knee; some streaking erythema on medial
+thigh
+Skin Fourman on medial aspect of right calf, no drainage
+Neuro: nonfocal
+
+Pertinent Results:
+2007-07-11 00:00:00 08:49PM   ALT(SGPT)-19 AST(SGOT)-27 LD(LDH)-236 ALK
+PHOS-86 TOT BILI-0.4
+2007-07-11 00:00:00 08:49PM   GLUCOSE-118* UREA N-20 CREAT-1.2 SODIUM-137
+POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-25 ANION GAP-13
+2007-07-11 00:00:00 08:49PM   CALCIUM-8.1* PHOSPHATE-1.5* MAGNESIUM-2.1
+2007-07-11 00:00:00 08:49PM   NEUTS-87.2* BANDS-0 LYMPHS-9.4* MONOS-2.6
+EOS-0.6 BASOS-0.2
+2007-07-11 00:00:00 08:49PM   WBC-11.8* RBC-3.31* HGB-8.8*# HCT-27.6*
+MCV-83 MCH-26.6* MCHC-32.0 RDW-16.6*
+2007-07-11 00:00:00 08:49PM   HYPOCHROM-3+ ANISOCYT-1+ POIKILOCY-OCCASIONAL
+MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL
+2007-07-11 00:00:00 08:49PM   PLT SMR-NORMAL PLT COUNT-378
+2007-07-11 00:00:00 08:49PM   PT-14.0* PTT-29.8 INR(PT)-1.3
+2007-07-11 00:00:00 08:45PM   LACTATE-1.7
+
+2007-07-11 00:00:00 05:11AM
+White Blood Cells 7.2 K/uL 4.0 - 11.0
+  PERFORMED AT WEST STAT LAB
+Red Blood Cells 3.74* m/uL 4.6 - 6.2
+  PERFORMED AT WEST STAT LAB
+Hemoglobin 9.8* g/dL 14.0 - 18.0
+  PERFORMED AT WEST STAT LAB
+Hematocrit 31.4* % 40 - 52
+  PERFORMED AT WEST STAT LAB
+MCV 84 fL 82 - 98
+  PERFORMED AT WEST STAT LAB
+MCH 26.1* pg 27 - 32
+  PERFORMED AT WEST STAT LAB
+MCHC 31.1 % 31 - 35
+  PERFORMED AT WEST STAT LAB
+RDW 16.7* % 10.5 - 15.5
+BASIC COAGULATION (PT, PTT, PLT, INR)
+Platelet Count 466* K/uL 150 - 440
+  PERFORMED AT WEST STAT LAB
+RENAL & GLUCOSE
+Glucose 98 mg/dL 70 - 105
+  PERFORMED AT WEST STAT LAB
+Urea Nitrogen 13 mg/dL 6 - 20
+  PERFORMED AT WEST STAT LAB
+Creatinine 1.1 mg/dL 0.5 - 1.2
+  PERFORMED AT WEST STAT LAB
+Sodium 138 mEq/L 133 - 145
+  PERFORMED AT WEST STAT LAB
+Potassium 3.9 mEq/L 3.3 - 5.1
+  PERFORMED AT WEST STAT LAB
+Chloride 104 mEq/L 96 - 108
+  PERFORMED AT WEST STAT LAB
+Bicarbonate 27 mEq/L 22 - 32
+  NOTE UPDATED REFERENCE RANGE AS OF 2007-07-11 00:00:00
+PERFORMED AT WEST STAT LAB
+Anion Gap 11 mEq/L 8 - 20
+CHEMISTRY
+Calcium, Total 9.1 mg/dL 8.4 - 10.2
+  PERFORMED AT WEST STAT LAB
+Phosphate 3.5 mg/dL 2.7 - 4.5
+  PERFORMED AT WEST STAT LAB
+Magnesium 2.0 mg/dL 1.6 - 2.6
+  PERFORMED AT WEST STAT LAB
+
+2007-07-11 00:00:00
+Iron Binding Capacity, Total 159* ug/dL 260 - 470
+Haptoglobin 340* mg/dL 30 - 200
+Ferritin 323 ng/mL 30 - 400
+Transferrin 122* mg/dL 200 - 360
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+________________________________________________________________
+MICROBIOLOGY:
+2007-07-11 00:00:00 6:20 pm JOINT FLUID      KNEE.
+
+                            **FINAL REPORT 2007-07-11 00:00:00**
+
+   GRAM STAIN (Final 2007-07-11 00:00:00):
+      3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Final 2007-07-11 00:00:00):
+      ESCHERICHIA COLI.    SPARSE GROWTH.
+         Trimethoprim/Sulfa sensitivity available on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+
+Time Taken Not Noted     Log-In Date/Time: 2007-07-11 00:00:00 6:33 pm
+      FLUID,OTHER      SUBCUTANEOUS FLUID COLLECTION.
+
+                            **FINAL REPORT 2007-07-11 00:00:00**
+
+   GRAM STAIN (Final 2007-07-11 00:00:00):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+2007-07-11 00:00:00 10:14 pm SWAB      Source: sc Left knee.
+
+                            **FINAL REPORT 2007-07-11 00:00:00**
+
+   GRAM STAIN (Final 2007-07-11 00:00:00):
+      3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI IN
+PAIRS.
+
+2007-07-11 00:00:00 5:30 pm TISSUE     Site: LEG      LEFT LEG .
+
+                            **FINAL REPORT 2007-07-11 00:00:00**
+
+   GRAM STAIN (Final 2007-07-11 00:00:00):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   TISSUE (Final 2007-07-11 00:00:00):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Final 2007-07-11 00:00:00):    NO GROWTH.
+
+2007-07-11 00:00:00 3:44 pm SWAB      Source: Left 1st MPJ.
+
+                            **FINAL REPORT 2007-07-11 00:00:00**
+
+   GRAM STAIN (Final 2007-07-11 00:00:00):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   WOUND CULTURE (Final 2007-07-11 00:00:00):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Final 2007-07-11 00:00:00):    NO GROWTH.
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+________________________________________________________________
+
+PLAIN FILM KNEE 2007-07-11 00:00:00:
+Two views of the right knee were obtained, with soft tissue
+evaluation limited by body habitus and slight rotation of the
+right knee. There is probably a knee effusion. No evidence of
+fracture. No significant degenerative changes are ap123 Any St.ted.
+
+Two views of the left knee show a large prepatellar tissue
+density, extending from approximately 7 cm superior to the
+patella to a distance of approximately 15 cm inferior to the
+patella. This appears to correspond to large fluid collection
+noted on the ultrasound, likely representing an extremely large
+prepatellar bursal fluid collection. Infection cannot be
+excluded on this film. A rounded lucency within this area could
+represent some air within the collection or, less likely, some
+fat. Again, there is probably a knee effusion, although
+visualization is also limited by body habitus. No osseous
+abnormalities are ap123 Any St.ted.
+PLAIN FILM FOOT 2007-07-11 00:00:00:
+Two views of the right foot show an intraarticular comminuted
+fracture of the distal aspect of the right fourth proximal
+phalanx, with some regions suggesting cortication of edges and
+perhaps a more chronic fracture. In addition, there is an
+osseous fragment at the lateral/distal aspect of the calcaneus,
+also of uncertain chronicity. There is bony demineralization. No
+significant soft tissue abnormality is ap123 Any St.ted.
+
+Three views of the left foot demonstrate diffuse soft tissue
+swelling with a focal convexity medial to the first MTP joint.
+No areas of focal bony destruction, periosteal reaction, or bony
+sclerosis are noted. Again, generalized bony demineralization is
+ap123 Any St.ted.
+
+IMPRESSION:
+1. Fractures of the distal right calcaneus and distal aspect of
+the fourth proximal phalanx, of uncertain chronicity.
+2. Diffuse soft tissue swelling of the left foot and ankle,
+without signs specific for osteomyelitis.
+KNEE (2 VIEWS) BILAT  2007-07-11 00:00:00 11:43 AM
+IMPRESSION:
+1. Probable bilateral knee effusions.
+2. Large prepatellar fluid collection in the prepatellar bursa,
+which appears to contain some air. Infection cannot be excluded
+on this film.
+3. No osseous abnormality is ap123 Any St.ted.
+MRI 2007-07-11 00:00:00:
+There is an extensive abscess cavity extending from the lower
+thigh into the mid-to-lower calf and actually extending beyond
+the field of view for this examination. It lies along the
+anterior aspect of the knee, extending from the posteromedial to
+the extreme lateral aspect of the knee. At present, there
+appears to be a drain within this collection, which exits on the
+skin anteromedially at the level of the distal femur and there
+is considerable air extending throughout. Otherwise, the cavity
+contains some fluid and thickened soft tissue.
+
+This collection is centered in the subcutaneous fat. It abuts
+the superficial surface of the lateral retinaculum and lateral
+patella. However, it does not extend deep to the crural fascia.
+There is a small knee joint effusion, which appears distinct
+from the superficial soft tissue abnormality. Although the
+presence of infection within the joint fluid cannot be evaluated
+by imaging, there is no complex content or large fluid
+collection to suggest septic arthritis. Mild enhancement of the
+tibial plateau and patella is nonspecific, but very likely
+reflects the presence of reactive edema. Bone marrow is
+otherwise within normal limits in signal, without evidence of
+osteomyelitis. The ligaments, tendons, and muscles about the
+knee are within normal limits. The presence or absence of a
+meniscal tear cannot be assessed here due to the large field of
+view required to image the abscess cavity.
+
+IMPRESSION:
+1. Large abscess cavity with drain in place, centered in the
+subcutaneous soft tissues, extending from the lower thigh
+through lower calf, from the medial to lateral aspect of the
+anterior leg.
+2. No evidence of extension into the knee joint. Small joint
+effusion incidentally noted.
+3. Ligament, tendon and muscle within normal limits. Assessment
+of menisci limited.
+4. Doubt osteomyelitis. See comment.
+MRI 2007-07-11 00:00:00:
+FINDINGS: Today's imaging spans the level of the mid femoral
+condyles to the level of the ankles. Images demonstrate a large
+fluid collection extending inferiorly from the cranial-most
+images of the study to a distal location in the mid-legs
+approximately 28 cm from the lateral joint line. This collection
+measures up to 2.1 x 6.0 cm in cross sectional (axial) size with
+an avidly enhancing rim and nonenhancing central portion. This
+fluid collection lies approximately at the fascial separation of
+the subcutaneous fat and muscles of the left lower leg.
+
+As an examination of the legs, the superior-most extent of this
+collection is not determined on this study. Specifically, the
+medial thigh collection seen on the prior study is not
+evaluated. In the regions which are evaluated in both the prior
+and current study, this fluid collection demonstrates more
+distention than on the prior examination.
+
+Increased soft tissue signal on the STIR images at the left
+medial malleolus is not contiguous with the remainder of
+inflammatory changes or the fluid collection, representing
+non-specific edema.
+
+There is no knee joint effusion present. There is no evidence of
+cortical disruption, and the bone marrow signal intensity values
+remain within normal limits. Diffuse increased thickness of the
+subcutaneous fat about the left thigh, with increased signal of
+this fat on the T2-weighted images is consistent with diffuse
+swelling of the left leg.
+
+IMPRESSION:
+1. Soft tissue abcess as described. When compared to the
+123 Any St.us study, the size of the fluid collection has increased
+significantly.
+
+2. No evidence of cortical destruction or joint effusion. No
+marrow signal changes or bony destruction evident to suggest
+osteomyelitis.
+MR THIGH W/O CONTRAST BILAT  2007-07-11 00:00:00 9:29 AM
+
+FINDINGS: Examination of the pelvis demonstrates multiple
+enlarged inguinal lymph nodes. The largest of these, at the left
+groin, measures 18 x 24 mm in axial cross-sectional size.
+Multiple other lymph nodes exceeding 1 cm in short axis are also
+present within both groins. On the left, there is generalized
+increased STIR signal within the gluteus maximum and vastus
+lateralis muscles. In addition, on the right, there is increased
+STIR signal with a more globular component within the gluteus
+minimus, medius, and maximus muscles. These demonstrate changes
+of nonspecific edema. The insertions of the hamstrings muscles
+appear unremarkable. Piriformis muscles are symmetric. There
+might be mid bladder wall thickening. There is no evidence of
+hip fracture.
+
+Evaluation of the thighs shows an increase in the size of the
+123 Any St.usly identified fluid collection extending along the
+medial side of the thigh just superior to the knee joint. In
+greatest dimensions, this measures up to 1.6 x 7.5 cm on axial
+images. This collection extends as cephlad as 12 cm superior to
+the left knee joint. As this collection travels more inferiorly
+and crosses the knee joint, it crosses the anterior aspect of
+the knee and extends distally along the lateral leg as described
+on the examination from three days ago. This collection lies in
+the fascial plane between the subcutaneous tissues and the
+muscles of the quadriceps. Note is made that the 123 Any St.usly
+identified drainage catheter is no longer present.
+
+IMPRESSION:
+1. Increased size of the fluid collection, which lies in the
+fascial plane between the subcutaneous fat and the quadriceps
+muscles.
+2. Inguinal adenopathy, probably reactive.
+3. Nonspecific edema of the gluteus muscles, as well as the left
+vastus lateralis muscles at its origin.
+
+MR FOOT W&W/O CONTRAST LEFT  2007-07-11 00:00:00 9:30 AM
+
+There is a soft tissue defect (ulcer) at the medial dorsal
+aspect of the first MTP joint, which is associated with joint
+effusion and degenerative changes at the first MTP joint deep to
+this. No other soft tissue ulcerations, defects, or significant
+denerative or inflammatory joint changes are ap123 Any St.ted.
+
+Although limited by motion artifacts, the signal of the regional
+tendons appear unremarkable. This is associated with mild marrow
+edema at the subchondral portion of the first proximal phalanx,
+possibly degenerative in nature.
+
+Remainder of bone marrow signal intensity values appear within
+normal limits.
+
+Examination of the regional muscles demonstrates increased STIR
+signal in the first web space, as well as along the middle cord
+of the plantar fascia and the soft tissues around the adjacent
+flexor tendons. The web-space signal is somewhat localized,
+measuring approximately 8mm in size. There is no subtalar or
+ankle joint effusion. Increased STIR signal along the dorsum of
+the forefoot, particularly at the medial aspect, is also seen,
+likely related to inflammation due to the soft tissue ulcer.
+
+Intermediate T1 signal within the sesamoid bones without
+associated changes on STIR is of doubtful significance.
+
+IMPRESSION:
+1. Soft tissue ulceration, with subjacent first MTP joint
+effusion and degenerative changes are suggestive of an
+infectious arthritis.
+
+2. Nonspecific edema of the first web space, and along the
+middle cord of the plantar fascia and adjacent flexor tendons.
+These regions are not felt to represent drainable collections.
+MR THIGH W&W/O CONTRAST LEFT  2007-07-11 00:00:00 9:53 AM
+IMPRESSION:
+1. Stable appearance of bilateral edema adjacent to the greater
+trochanters, greater on the left than the right.
+2. Interval progression of bilateral inguinal lymphadenopathy.
+3. Interval decrease in the size of the collection superior to
+the left knee in the medial soft tissues.
+4. Interval decrease in the size of the lateral collection in
+the left lower extremity extending down the calf. The inferior
+portion of this collection is now loculated into a separate
+collections, and the walls of the collections are now thicker.
+While this is decreased in size from 2007-07-11 00:00:00, it is still
+likely larger than it was on 2007-07-11 00:00:00.
+5. Probable nondisplaced fracture within the proximal right
+tibia. Acuity of this finding is not well assessed by MRI.
+6. Nonspecific circumferential edema within the right calf,
+increased in extent in the interval.
+MRI FOOT 2007-07-11 00:00:00:
+TECHNIQUE: Multiplanar T1, T2, and STIR images were obtained
+through the left foot. Additional T1-weighted images were
+obtained pre - and post- administration of gadolinium.
+
+COMPARISON: 2007-07-11 00:00:00.
+
+MR LEFT FOOT WITHOUT AND WITH CONTRAST: Study is partially
+limited by patient motion. There is a large soft tissue
+abnormality along the dorsum of the foot at the level of the
+first metatarsophalangeal joint. This was seen 123 Any St.usly and
+represents an ulcer. There is an effusion of the first MTP
+joint, slightly smaller than before.
+
+There is a 3.7 cm region of abnormal edema in the distal aspect
+of the first metatarsal, which was not seen 123 Any St.usly. There is
+associated enhancement in the same area. No definite discrete
+fracture line can be seen on the prior MRI. There is now some
+cortical disruption of the distal aspect of the first
+metatarsal. There is prominent edema and enhancement in the
+surrounding soft tissues
+
+There is a small amount of fluid, which extends along the tendon
+of the flexor hallucis longus. More diffuse edema along the
+dorsum of the foot is increased in extent in the interval.
+
+IMPRESSION:
+1. No significant change in the appearance of the ulceration
+along the dorsal, medial aspect of the foot.
+
+2. Interval development of edema and enhancement within the
+marrow of the distal first metatarsal. These findings are highly
+concerning for the development of osteomyelitis. However, given
+the history of trauma to the foot, a nondisplaced fracture could
+have a similar appearance but is less likely given the adjacent
+ulcer and inflammatory changes
+CT OF THE TIBIA/FIBULA 2007-07-11 00:00:00: Comparison is made to the MRI.
+The lower extremities performed one day prior. There is no
+evidence of fracture or bone destruction. Normal tibial plateau
+contours are preserved bilaterally. Alignment is anatomic.
+
+Assessment of soft tissues again demonstrates the known fluid
+collection extending from the anterior and lateral infrapatellar
+soft tissues to the lower leg. Smaller, incompletely imaged
+fluid collection is present within the left medial soft tissues.
+There is edema of the subcutaneous soft tissues bilaterally. No
+underlying bony or muscular abnormalities are identified.
+
+IMPRESSION:
+1. No evidence of fracture or osseous abnormality.
+2. Redemonstration of medial and anterolateral fluid collections
+involving the left lower leg.
+3. Soft tissue edema.
+PLAIN FILM FOOT: 2007-07-11 00:00:00
+Four radiographs of the left foot demonstrate mild diffuse
+demineralization. There is mild narrowing of the first
+metatarsophalangeal joint space. The remaining joint spaces are
+preserved without periarticular erosion. No cortical
+fragmentation is identified. Assessment for the presence or
+absence of subcutaneous air is limited by overlying dressing
+material. There is likely a soft tissue defect along the medial
+aspect of the first metatarsophalangeal joint. When compared to
+2007-07-11 00:00:00, the prominent soft tissue swelling seen at that time
+has improved slightly.
+
+IMPRESSION:
+
+Soft tissue ulcer overlying the medial aspect of the first
+metatarsophalangeal joint. No cortical fragmentation of the
+adjacent osseous structures is evident.
+CT FOOT 2007-07-11 00:00:00:
+FINDINGS: There is interval severe loss of the joint space of
+the first metatarsophalangeal joint, as seen on the radiographs
+from 2007-07-11 00:00:00. There are areas of lucency and cortical
+erosion involving the distal first metatarsal. There are similar
+areas of lucency and cortical erosion involving the proximal
+first phalanx. These findings are concerning for septic
+arthritis of the first MTP joint with associated osteomyelitis.
+
+Again seen is a soft tissue ulceration along the dorsal, medial
+aspect of the foot. This is in close proximity to the first MTP
+joint, and communication between the joint and ulcer cannot be
+excluded. There is a probable effusion of the first MTP joint.
+There is no evidence for a discrete fracture line through the
+first metatarsal.
+
+The ligaments and tendons about the foot and ankle are
+unremarkable in appearance. The calcaneal insertion of the
+Achilles tendon appears normal. The sinus tarsi fat is
+preserved. Again noted are edematous changes within the dorsal
+subcutaneous tissues.
+
+IMPRESSION: Findings concerning for septic arthritis of the
+first MTP joint, with associated osteomyelitis of the metatarsal
+and proximal phalanx.
+
+Dorsal soft tissue ulcer in close proximity to the first MTP
+joint. Communication of the ulcer with the joint space is not
+excluded.
+
+
+Brief Hospital Course:
+A/P: 43 yo M with h/o schizophrenia and recurrent cellulitis now
+presents with left lower extremity abscess and sepsis.
+
+1. Left lower extremity Cellulitis/abscess: Patient has a long
+history of LE infections/ulcerations.  Patients L. LE had open
+lesions on presentation.  Patient had an abcess noted on L. leg
+medial surface just inferior to knee joint with increased
+swelling.  Patient was started on Vanco/Zosyn on 2007-07-11 00:00:00.
+Patient had an I&D done via surgery and 900cc of mostly
+sanguinous fluid was recovered which grew  gram negative rods.
+Swab showed gram positive chains in clusters. Patient had 2007-07-11 00:00:00
+blood culture bottle grow strep pyogenes at outside hospital.
+Antibiotics were changed to Clinda/PCN on 2007-07-11 00:00:00 due to concern
+for necrotizing fasciitis or Toxic shock syndrome.  Patient was
+started on ceftriaxone to cover for gram negative rods on swab
+culture.  There was a note of improvement in L. LE cellulitis
+with decreased edema, erythema and warmth.  Patient was
+receiving qd dressing changes and the L. lower extremity was
+being wrapped with ACE bandage to help reduce and milk out the
+edema.  Patient was switched over to IV Zosyn per ID consult
+given marked clinical improvement.  ID suggested that patient
+recieve with 4-5 weeks of IV Abx. He had a repeat MRI of the leg
+on 2007-07-11 00:00:00 which showed interval decrease in the size of the
+collection superior to the left knee in the medial soft tissues,
+interval decrease in the size of the lateral collection in the
+left lower extremity extending down the calf and loculation of
+the inferior portion of this collection. As the patient was
+clinically improving and the collection was loculated, further
+surgical exploration was not thought to be indicated. He was
+discharged on day 21 of Zosyn with plans to continue for a 35
+day course to be completed 2007-07-11 00:00:00. However, as he was
+also noted to have possible left first metatarsal osteomyelitis,
+the Zosyn will be continued for an additional 6 weeks from the
+day the osteo was diagnosed (2007-07-11 00:00:00) to cover for hematogenous
+spread to the bone.
+
+Antibiotic course:
+pcn/clinda 2007-07-11 00:00:00
+ceftriaxone 2007-07-11 00:00:00
+vanc 2007-07-11 00:00:00
+unasyn 2007-07-11 00:00:00
+zosyn 2007-07-11 00:00:00; 2007-07-11 00:00:00-present
+vancomycin 2007-07-11 00:00:00-present
+
+2. Left 1st Metatarsal-phalangeal joint effusion:  Patient
+presented with pain just proximal to L. 1st MPJ.  2007-07-11 00:00:00 was
+consulted to take a look at the 1st MPJ.  Patient has been seen
+in the 2007-07-11 00:00:00 clinic here at the UPMCE.  UPMCE performed a
+arthrocentesis of the L. 1st MPJ.  Specimen was sent to lab and
+and there was no aerobic/anaerobic growth or crystals seen.  L.
+1st MPJ lesion resolving over extended hospital stay. On 2007-07-11 00:00:00
+CT scan showed fluid in the joint and further destruction of the
+joint architecture and of the bone consistent with septic
+arthritis. 2007-07-11 00:00:00 was reconsulted and arthrocentesis was
+repeated. The fluid showed no organisms and no polymorphonuclear
+blood cells. Patient was asked to F/U w/ UPMCE UPMCE in 2007-07-11 00:00:00
+weeks post discharge.
+
+2. Possible left first metatarsal osteomyelitis: Patient was
+noted to have increasing erythema and tenderness around the left
+first metatarsal associated with warmth and tenderness, though
+no drainage. An MRI performed on 2007-07-11 00:00:00 showed enhancement
+possibly consistent with osteomyelitis. Repeat MRI on 2007-07-11 00:00:00 showed
+persistant enhancement of the bone concerning for osteomyelitis.
+2007-07-11 00:00:00 was reconsulted and felt that given the overlying
+cellulitis, a bone biopsy to r/o osteo and to identify organism
+was too risky as it may introduce infection in a possibly
+already sterile bone. They also felt that the MRI finding may
+represent a partial fracture, not seen on the x-ray, that had
+been displaced due to ambulation and weight bearing.
+Interventional radiology was consulted for bone biopsy and
+concurred with the 2007-07-11 00:00:00 assessment. They felt the edema was
+circumfrential and there was no spot that was safe for skin
+entry. They recommended defering the bone biopsy and suggested
+CT as a possible modality to further evaluate for fracture. ESR
+and CRP were elevated. Infectious disease was consulted, and
+given the overlying cellulitis and ulcer they recommended
+empiric coverage with zosyn and vancomycin for 6 weeks. Patient
+will follow up with infectious disease in two weeks and if at
+that time the ESR and clinical picture is not improved he may
+need triple phase bone scan +/- bone biopsy to evaluate for non
+healing osteomyelitis.
+
+3. Bacteremia- 2/4 bottles, strep pyogenes pan sensitive from
+outside hospital.  Patient was started on PCN and later switched
+over to Zosyn.  Patient had a TTE on 2007-07-11 00:00:00 that was negative.
+During hospital admission patients blood cultures had been no
+growth.  Patient's temps consistently afebrile towards end of
+hospital stay and WBC had trended down. Plan for zosyn for total
+5 week course.
+
+4. Leukopenia: Two days prior to discharge the patient developed
+a low wbc of 3.5 with neutrophils of 35% and ANC of 1230. Though
+this could be due to his antibiotics, it is most likely due to
+his clozaril. His clozaril was held. WBC continued to decline to
+a nadir of 1.5; neutropenic precautions were started.  WBC
+improved off the clozaril and with the addition of neupogen.
+Neupogen will be continued until WBC>5000 and neutropenic
+precautions until ANC>500.  Clozaril can likely never be
+restarted because of this reaction.  He will get daily CBC's at
+UPMCE to ensure that his counts continue to improve.
+
+5. H/o DVT R LE and PE: At first patients anticoagulation was
+held 2007-07-11 00:00:00 surgery request.  Patient has an increased Creatinine
+and was on Lovenox 40mg qday as an outpatient for suppression of
+mult PE/DVT (last in 90's). Patient's LENI was negative for DVT;
+CTA was neg for PE (but of note, poor study). Patient was
+restarted on Heparin 5000U sq tid once the leg was stabilized.
+
+6. Tachycardia-Patient was persistantly tachycardic throughout
+his hospital stay likely due to anxiety.
+
+7. Hyperglycemia: Patient was put on ISS during hospital stay
+and had routine FS qid bedside.  Glucose levels were closely
+watched and were wnl. Patient did not require insulin.
+
+8. Psych: Patient has h/o schizophrenia and self-destructive
+behaviors with some violence. Patient had a 1:1 sitter in his
+room at all times.  Patient continued his regiment of
+out-patient psych meds.  Psychiatry was consulted. During his
+hospital stay the patient was occasionally agitated and
+expressed the desire to act on his "violent urges." However, the
+patient was appropriate at all times and did not become violent.
+Psychiatry recommended an increase in his loxapine with the
+addition of 20 UPMCE to his 10 mg prn. He did very well with this
+medication change. He was also given loxapine 10 UPMCE prn
+anxiety. Several days prior to discharge the patient experienced
+self injurious behavior. He scratched his ulcer causing moderate
+bleeding and removed the eschar. Thereafter he had a one to one
+sitter at all times including bathroom times (he had been in the
+bathroom during this incident).
+
+Abilify was started on 2007-07-11 00:00:00 of clozaril (discontinued
+as above 2007-07-11 00:00:00 agranulocytosis).  This will need to be titrated as
+necessary at UPMCE.
+
+Of note the patient did very well with his mother keeping him
+company in his room. Gustena Fourman mother was present every day from
+9 am to 5 pm and her presence seemed to have a calming effect on
+the patient.
+
+Patient would like it to be known that he prefers to be
+voluntarily physically restrained if he is unable to control his
+behavior than to be disalowed visitors or have other
+punishments.  Mother would also like to be involved in his care
+at UPMCE,
+
+He is unable to perform his ADLs without assistance.
+
+He has required psychiatric counseling UPMCE during this admission
+to reinforce his behavior control issues.
+
+9. Anemia: Patients initial anemia was likely 2007-07-11 00:00:00 bleeding in
+leg. Hematocrit stabilized. Patient was continued on iron
+therapy for iron of 8.
+
+10. Possible tibial fracture: this was seen on MRI 2007-07-11 00:00:00, but
+CT scan showed no fracture. Patient ambulates on that leg with
+no pain.
+
+11. Access:  Patients initial access was through Right IJ TLC.
+Patient was then given a PICC 2007-07-11 00:00:00 for IV antibiotics.
+
+12. PPx:  Patient was given lovenox once the source of bleeding
+was ruled out.  Patient was given a sitter to stay in room 1:1
+at all times during his duration of hospital stay.  Patient was
+given bowel regimen of senna/colace.  Patient continued his
+regiment of qd psych meds.  Patient was given ferrous sulfate
+for his Hx. of anemia.
+
+13. Full Code: Patient was Full code through-out duration of
+hospital stay.
+
+14. Dispo: Patient is to receive a total of 6 weeks of
+Vancomycin and Zosyn starting 2007-07-11 00:00:00. Therapy thru PICC line at
+The UPMCE Hospital.  Mother is not legal guardian.
+
+
+Medications on Admission:
+On Transfer from UPMCE:
+
+Levofloxacin 750 mg IV q 24
+Clozapine 100 mg q am, 300 mg qhs
+Lamotrigine 100 mg q am and 200 mg qhs
+Loxapine 20 mg qhs
+Clomipramine 50 mg q am and 200 mg qhs
+Loxapine 20 mg qhs
+ativan 1 mg po q6
+lovenox 40 mg sc daily
+vancomycin 1 gram q 12
+imipenem 500 mg IV q 6
+protonix 40 mg po q 24
+tylenol 650 mg po q 5
+
+At Tauton State:
+Clozapine 100 mg q am, 300 mg qhs
+Lamotrigine 100 mg q am and 200 mg qhs
+Loxapine 20 mg qhs
+Clomipramine 50 mg q am and 200 mg qhs
+Loxapine 20 mg qhs
+ativan 2 mg po q6 prn
+lovenox 40 mg sc daily
+docusate 1 po bid
+Ferrous sulfate 325 mg po daiy
+MVI 1 po daily
+guaifenesin 10 ml po q4 prn
+MOM prn
+Clonazepam 1 mg po tid
+Loxapine 5 mg po q8 hr prn
+Fluphenazine 5 mg prn
+Glycopyrrolate 1 mg UPMCE
+Senna 1 UPMCE
+
+
+Discharge Medications:
+1. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO Q AM ().
+2. Lamotrigine 100 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+3. Clomipramine 50 mg Capsule Sig: Four (4) Capsule PO HS (at
+bedtime).
+4. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed for fever.
+5. Glycopyrrolate 1 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+8. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+9. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q4H (every 4 hours) as needed.
+10. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  UPMCE
+(2 times a day): Apply between toes and to groin.
+11. Zosyn 4.5 g Recon Soln Sig: One (1) bag Intravenous  every
+eight (8) hours for 39 days.
+12. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One
+(1) ML Intravenous  DAILY (Daily) as needed.
+13. Enoxaparin Sodium 40 mg/0.4mL Syringe Sig: One (1)
+Subcutaneous QD (): discontinue when patient is fully
+ambulatory.
+14. Benztropine 0.5 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+15. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4
+to 6 hours) as needed for agitation.
+16. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+17. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to
+6 hours) as needed for pain.
+18. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+TID (3 times a day) as needed.
+19. Hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+20. Outpatient Lab Work
+BUN/creatinine, vancomycin trough and LFTs every week and fax to
+Dr. [**First Name4 (NamePattern1) 4273**] Fourman at test@mail.com.
+
+Please ck 1st vancomycin trough in the morning of 2007-07-11 00:00:00
+minutes prior to am dose.  Fax results as above
+21. Vancomycin 1,000 mg Recon Soln Sig: 1250 (1250) milligram
+Intravenous  twice a day for 39 days: 1250 mg UPMCE.  Please ck
+Vanco trough after 3 doses (ck 30 minutes prior to 4th dose at
+this concentration).
+22. Outpatient Lab Work
+ESR and CRP in one week and fax to Dr. [**First Name4 (NamePattern1) 4273**] Fourman at
+test@mail.com.
+23. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation.
+24. Outpatient Lab Work
+Please check wbc and differential daily and notify psychiatry.
+
+Neupogen should be continued until WBC>5000
+Neutropenic precautions until ANC>500
+25. Loxapine Succinate 10 mg Capsule Sig: Two (2) Capsule PO BID
+(2 times a day).
+26. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig:
+15-30 MLs PO QID (4 times a day) as needed.
+27. Clomipramine 50 mg Capsule Sig: Two (2) Capsule PO QAM (once
+a day (in the morning)).
+28. Aripiprazole 10 mg Tablet Sig: 0.5 Tablet PO QAM (once a day
+(in the morning)).
+29. Filgrastim 300 mcg/mL Solution Sig: One (1)  Injection Q24H
+(every 24 hours) as needed for neutropenia for 5 days: Continue
+until ANC>5000.
+30. Dolasetron Mesylate 12.5 mg IV Q8H:PRN
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary Diagnoses-
+1. L. LE Cellulitis and abscess
+2. L. first Metatarsal osteomyelitis vs fracture
+3. L. 1st Metatarsal phalangeal joint effusion, culture negative
+
+4. Neutropenia
+
+Secondary Diagnoses-
+1. Schizophrenia
+2. Autism
+3. h/o self-injurious behavior
+4. h/o violence
+-recurrent DVT's in R LE.
+-s/p skin graft to R LE.
+-phlebitis in LLE.
+-h/o PE
+-s/p R eye surgery for strabismus
+
+
+Discharge Condition:
+Stable. afebrile.
+
+Discharge Instructions:
+1.  Patient to Rehab to recieve a total of 6 weeks of IV
+antibiotics thru PICC line.  Patient instructed to leave PICC
+line in place for duration of treatment.  Patient to call PCP if
+there is any LE leg drainage, bleeding.  Call PCP if there is
+any fevers/chills/vomitting/nausea/night-sweats.
+
+2.  Please follow up with your PCP, Gustena Fourman, and ID as
+described below.
+
+3.  We changed some of your medications.  Clozaril was stopped
+secondary to your low blood counts.  You should not continue on
+this medication without consultation with your psychiatrist.  We
+started Abilify, 5 mg daily.  We also changed the dose of your
+loxapine to 20 mg twice daily.
+
+Followup Instructions:
+1.  Patient to recieve 6 weeks of IV antibiotics via PICC
+(starting 2007-07-11 00:00:00). Vancomycin troughs and creatinine will be
+checked weekly.
+
+2.  Patient is to F/U w/ his PCP Gustena Fourman 6 weeks of IV antibiotic
+therapy.  Call Dr. Jordani Ozbolt (test@mail.com) to schedule this.
+
+3.  Follow up in test@mail.com clinic (test@mail.com) in 6 weeks as
+well with Dr. Jordani Ozbolt.  Appointment is scheduled for 2007-07-11 00:00:00 at
+11am.  Clinic is located on the 123 Any St. of
+the UPMCE building.
+
+4.  Follow up with Jordani Ozbolt, M.D. general surgery (test@mail.com.  Appointment is scheduled for 2007-07-11 00:00:00 at 11:30 am.  His
+office is located on [**Doctor First Name **], UPMCE.
+
+5.  Gustena Fourman Gustena Fourman, MD Where: LM UPMCE DISEASE
+Phone:test@mail.com Date/Time:2007-07-11 00:00:00 9:00 am
+
+
+

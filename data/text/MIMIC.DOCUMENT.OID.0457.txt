@@ -1,0 +1,283 @@
+Admission Date:  2009-04-09 00:00:00              Discharge Date:   2009-04-09 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Danquan Chatterji
+Chief Complaint:
+Chief Complaint: lymphoma work-up
+.
+Reason for MICU transfer:  airway monitoring
+
+Major Surgical or Invasive Procedure:
+None this hospitalization
+
+
+History of Present Illness:
+Patient is a 65 yo F with hx nasal congestion and serous otitis
+media found to have nasopharyngeal mass, now POD #6 s/p nasal
+endoscopy w/ biopsy, bilateral tube placement. Mass biopsy
+returned w/ diagnosis of aggressive lymphoma involving nasal
+cavity and possible airway compromise. She was started on abx 4
+days ago for bronchitis. She was sent by Dr. Wootten for ENT
+eval due to concern for airway involvement given extent of
+tumor. Pt denies fevers, chills, n/v, chest pain, shortness of
+breath. She does endorse pain in her left cheek.
+.
+In the ED, initial VS were 98.5 72 152/116 16 99% RA. Her labs
+were notable for normal K, Phos, Ca, uric acid but elevated LDH.
+She was seen by ENT who did not recommend surgical intervention.
+She had CT od head/ neck/ torso for staging. She received
+dexamethasone 20 mg IV x 1 as well as allopurinol 300 mg po
+daily. She was admited to UPMCE for airway monitoring. Her vital
+signs prior to transfer were: 134/82, 65, 22, 97% RA.
+.
+On arrival to the ICU, patient is comfortable, with only mild
+left sided facial pain, requesting to be discharged in the
+morning.
+
+Past Medical History:
+Past Medical History:
+NP mass- s/p biopsy showing lymphoma
+HTN
+hypothyroidism
+
+Social History:
+Lives alone. daughter visits once a week to help with shopping,
+household chores. she denies tobacco, alcohol, illicits.
+
+
+Family History:
+Denies cancer in the family.
+
+
+Physical Exam:
+ADMISSION EXAM:
+.
+General: Alert, oriented, no acute distress
+HEENT: scleric anicteric, MMM, fullness over left cheek and neck
+
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+.
+DISCHARGE EXAM: unchanged from admission
+
+
+Pertinent Results:
+ADMISSION LABS:
+.
+2009-04-09 00:00:00 08:50PM BLOOD WBC-8.2 RBC-4.15* Hgb-13.4 Hct-40.7
+MCV-98# MCH-32.3* MCHC-33.0 RDW-13.0 Plt Ct-327
+2009-04-09 00:00:00 08:50PM BLOOD Neuts-60.4 Lymphs-28.8 Monos-8.9 Eos-1.0
+Baso-0.9
+2009-04-09 00:00:00 08:50PM BLOOD PT-10.9 PTT-28.0 INR(PT)-1.0
+2009-04-09 00:00:00 08:50PM BLOOD Glucose-111* UreaN-13 Creat-0.8 Na-133
+K-5.7* Cl-98 HCO3-23 AnGap-18
+2009-04-09 00:00:00 08:50PM BLOOD ALT-28 AST-49* LD(LDH)-610* AlkPhos-77
+TotBili-0.5
+2009-04-09 00:00:00 08:50PM BLOOD Albumin-4.4 Calcium-9.5 Phos-2.9 Mg-2.3
+UricAcd-3.5
+2009-04-09 00:00:00 10:08PM BLOOD K-4.3
+.
+DISCHARGE LABS:
+.
+2009-04-09 00:00:00 04:50AM BLOOD WBC-5.5 RBC-4.74 Hgb-14.3 Hct-45.7 MCV-97
+MCH-30.1 MCHC-31.2 RDW-12.9 Plt Ct-282
+2009-04-09 00:00:00 04:50AM BLOOD Plt Ct-282
+2009-04-09 00:00:00 04:50AM BLOOD Glucose-138* UreaN-9 Creat-0.6 Na-139
+K-4.0 Cl-101 HCO3-23 AnGap-19
+2009-04-09 00:00:00 04:50AM BLOOD ALT-27 AST-28 LD(LDH)-327* AlkPhos-90
+TotBili-0.5
+2009-04-09 00:00:00 04:50AM BLOOD Calcium-9.8 Phos-2.8 Mg-2.3 UricAcd-3.9
+.
+MICROBIOLOGIC DATA:
+2009-04-09 00:00:00 MRSA screen - pending
+.
+IMAGING STUDIES:
+2009-04-09 00:00:00 CT HEAD AND NECK W/ & W/O CONTRAST - No focal enhancing
+lesion to suggest metastasis, although contrast-enhanced MRI
+would be more sensitive for small metastatic lesions. Moderate
+sequelae of chronic small vessel ischemic disease. Scattered
+tiny hypodensities in the centra semiovale may represent
+additional foci of small vessel ischemic disease or, possibly,
+demyelinating disease. Further assessment could be performed by
+MRI, if warranted and feasible. Nasopharyngeal mass is
+incompletely imaged, and better-characterized on the concurrent
+CT neck soft tissues.
+.
+2009-04-09 00:00:00 CT CHEST, ABDOMEN, PELVIS W/CONTRAST - pending
+.
+2009-04-09 00:00:00 2D-ECHO - pending
+
+
+Brief Hospital Course:
+IMPRESSION: 94F with PMH significant for hypertension and
+hypothyroidism who presented with nasal congestion, post-nasal
+drip and serous otitis media found to have large nasopharyngeal
+mass (now s/p nasal endoscopy with biopsy and bilaterally
+myringotomy and tube placement) biopsy-proven lymphoma who was
+referred to the ED for further evaluation and management with
+stable oxygen saturations and no clinical evidence of airway
+obstruction.
+.
+# NASOPHARYNGEAL LYMPHOMA, AIRWAY CONCERNS ?????? The patient
+presented with newly diagnosed nasopharyngeal lymphoma referred
+from home by her ENT surgeon (Dr. Wootten given the mass burden
+of her tumor and her symptoms of left facial and ear pain. She
+had no evidence of clinical airway obstruction or compromise on
+exam. She remained on ambient room air with saturations of
+96-99%. She received Dexamethasone 20 mg IV x 1 in the ED. After
+discussion with Hematology-Oncology, we continued steroids,
+discharged her home with clinic follow-up after a staging CT and
+2D-Echo performed prior to discharge. Per ENT surgery's
+recommendations, we continued Ciprodex otic 5 gtts to left ear
+UPMCE x 5-days to maintain myringotomy tube patency, nasal saline
+spray TID and saline nebulizer treatments and biotene PRN. She
+was discharged in stable condition with close Oncology
+follow-up.
+.
+# HYPERTENSION - Asymptomatic with stable BP on admission. We
+continued Atenolol 50 mg PO daily.
+.
+# HYPOTHYROIDISM ?????? Stable without active symptoms. We continued
+her home Levothyroxine 75 mcg PO daily.
+.
+TRANSITION OF CARE ISSUES:
+1. Patient was discharged with Oncology, primary care and ENT
+surgery follow-up scheduled.
+2. At the time of discharge, the patient had a 2D-echocardiogram
+and CT abdomen pending. Both studies were performed, but the
+final read will be reviewed by her Oncologist.
+3. The patient was continued on Dexamethasone 20 mg PO daily for
+3-days until clinic follow-up with Oncology.
+
+Medications on Admission:
+Atenolol 50 mg po daily
+Levothyroxine 75 mcg PO daily
+Melatonin (uncertain dosage)
+
+
+Discharge Medications:
+1. atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. melatonin  Oral
+4. ciprofloxacin 0.3 % Drops Sig: Five (5) Drop Ophthalmic UPMCE
+(2 times a day) for 5 days: applied to the left ear (started
+2009-04-09 00:00:00, ending 2009-04-09 00:00:00).
+Disp:*1 bottle* Refills:*0*
+5. sodium chloride 0.65 % Aerosol, Spray Sig: Three (3) Spray
+Nasal TID (3 times a day) as needed for dryness.
+Disp:*1 bottle* Refills:*3*
+6. dexamethasone 4 mg Tablet Sig: Five (5) Tablet PO DAILY
+(Daily).
+Disp:*15 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Nasopharyngeal lymphoma
+.
+Secondary Diagnoses:
+1. Hypertension
+2. Hypothyroidism
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Patient Discharge Instructions:
+.
+You were admitted to the Critical Care Service at UPMCE in the UPMCE Building (ICU) regarding
+management of your nasopharyngeal cancer. Your ENT surgeon and
+Oncology physicians felt you should be monitored in the hospital
+given your large nasopharynx tumor. Your oxygen levels remained
+stable, you were treated with oral steroids and had imaging to
+further stage your malignancy. You were discharged in stable
+condition with close follow-up.
+.
+Please call your doctor or go to the emergency department if:
+* You experience new chest pain, pressure, squeezing or
+tightness.
+* You develop new or worsening cough, shortness of breath, or
+wheezing.
+* You are vomiting and cannot keep down fluids, or your
+medications.
+* If you are getting dehydrated due to continued vomiting,
+diarrhea, or other reasons. Signs of dehydration include: dry
+mouth, rapid heartbeat, or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit, or have a
+bowel movement.
+* You experience burning when you urinate, have blood in your
+urine, or experience an unusual discharge.
+* Your pain is not improving within 12 hours or is not under
+control within 24 hours.
+* Your pain worsens or changes location.
+* You have shaking chills, or fever greater than 101.5 degrees
+Fahrenheit or 38 degrees Celsius.
+* You develop any other concerning symptoms.
+.
+CHANGES IN YOUR MEDICATION RECONCILIATION:
+.
+* Upon admission, we ADDED:
+START: Dexamethasone 20 mg by mouth daily (continue until
+follow-up in clinic with your Oncologist on Friday, 2009-04-09 00:00:00)
+START: Ciprofloxacin  0.3% Five drops ophthalamic (2 times a
+day) for 5 days - applied to the left ear (start 2009-04-09 00:00:00, ending
+2009-04-09 00:00:00)
+START: Saline nasal spray irrigations, 3 sprays three times
+daily as needed for nasal dryness
+.
+* The following medications were DISCONTINUED on admission and
+you should NOT resume: NONE
+.
+* You should continue all of your other home medications as
+prescribed, unless otherwise directed above.
+
+Followup Instructions:
+Department: PASTOR MEDICAL GROUP
+When: FRIDAY 2009-04-09 00:00:00 at 2:30 PM
+With: DR. Danquan Chatterji Wootten test@mail.com
+Building: 123 Any St., MA) 123 Any St.
+Campus: OFF CAMPUS     Best Parking: On Street Parking
+.
+Name: Wootten, Darin Danquan Chatterji Wootten
+Specialty: OTOLARYNGOLOGY
+Location: Danquan Chatterji LLC
+Address: 123 Any St., STE 303, 123 Any St.,[**Numeric Identifier 3826**]
+Phone: test@mail.com
+Appointment: MONDAY 2009-04-09 00:00:00 AT 1:45PM
+.
+Department: HEMATOLOGY/ONCOLOGY
+When: FRIDAY 2009-04-09 00:00:00 at 2:00 PM
+With: Darin Wootten, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+.
+Department: HEMATOLOGY/BMT
+When: FRIDAY 2009-04-09 00:00:00 at 2:00 PM
+With: Darin Wootten, NP test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+

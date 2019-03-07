@@ -1,0 +1,289 @@
+Admission Date:  2011-11-05 00:00:00              Discharge Date:   2011-11-05 00:00:00
+
+Date of Birth: 1985-12-28 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine / Iodine; Iodine Containing
+
+Attending:Graddy Ailport
+Chief Complaint:
+Fevers
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+47yo F with metastatic breast cancer with bone and liver mets
+s/p recent 2nd dose of Gemzar(2011-11-05 00:00:00) and XRT presents with c/o
+fever to 102 at home x 2d. +malaise, f/c, L ear "pulsating", n/v
+3d ago and x 1 tonight. No CP, SOB, cough, sore throat,
+congestion, rhinorrhea, postnasal gtt, dysuria, diarrhea, abd
+pain, rash. Reports 3 kids had URI sxs last week, though she did
+not. Here in ED T 101, borderline hypotensive with SBP in 80s,
+low wbc without neutropenia, hct 23 and guiaic positive brown
+stool. Blood cultures x 2 were sent from the portacath and
+peripherally. U/A which was neg and ucx were sent. She received
+cefepime 2g x 1, anzemet, oxycontin 80 mg, and 2L NS. GI c/s
+requested for heme + stool and anemia, but rec cont. IVF and
+prbc resuscitation, no role for scoping. Given the borderline
+BP, she was admitted to UPMCE o/n for observation.
+.
+
+
+Past Medical History:
+onc hx:
+Primary Onc: Dr. Graddy Ailport
+Metastatic Breast ca- in past, undewent chemo w/
+adriamycin/cytoxan, then taxol. Then, she received
+5FU/leukovorin and Zometa. Her course has been complicated by
+compression fractures in T1-T6 and T9.  She underwent radiation
+treatment for T1 and developed more pain and T6 then was found
+to have a compression fracture with cord compression. She was
+hospitalized while she started radiation treatment. The decision
+had initially been made to continue her chemotherapy through her
+radiation treatment as a radiation sensitizer; however, the
+patient had episodes of severe nausea and vomiting and diarrhea
+resulting in additional  hospitalizations. She is finishing off
+her radiation treatments with the omission of 5-FU leucovorin.
+She was restarted weekly taxol on 2011-11-05 00:00:00 until 2011-11-05 00:00:00.  Pt was
+switched to gemzar since 2011-11-05 00:00:00 due to apparent progression of
+disease. CT on 2011-11-05 00:00:00 showed progression in size of liver mets and
+development of new right sided pulmonary nodules. PET 2011-11-05 00:00:00
+showed widespread metastatic bone lesions which were stable in
+intensity and number.
+
+.
+Past medical hx:
+s/p ccy
+ovarian clot- requiring coumadin
+hypertrigylceridemia
+pancreatitis
+
+
+Social History:
+Married with 3 children. Denies any T/A/D
+
+
+Family History:
+Aunt with breast cancer on father's side. Mother with bladder
+cancer. Uncle with unknown type of cancer.
+
+
+Physical Exam:
+PE: VS T 100.6, BP 101/51 (90s/50s), HR 87, R 16, O2 96% RA
+Gen: Pleasant pale F in NAD
+HEENT: Short hair, PERRLA though 2 mm pupils, no photophobia,
+dry mm
+Neck: No LAD or masses. No nuchal rigidity.
+Chest wall portacath c/d/i, no erythema/ttp
+CV: RRR nl S1, S2 no m/r/g
+Pulm: CTA bilat
+Abd: Soft NABS, ND/NT
+Extr: No c/c/e
+Neuro: AAO x 3, neg Kernig/Brudzinski's signs, nl strength
+throughout in all extremities, nl sensation to light touch, nl
+gait
+
+
+Pertinent Results:
+2011-11-05 00:00:00 01:55PM   WBC-4.5# RBC-2.77* HGB-8.6* HCT-23.8* MCV-86
+MCH-30.9 MCHC-36.0* RDW-15.4
+2011-11-05 00:00:00 01:55PM   NEUTS-89.2* LYMPHS-9.6* MONOS-0.4* EOS-0.7
+BASOS-0.1
+2011-11-05 00:00:00 01:55PM   POIKILOCY-1+
+2011-11-05 00:00:00 01:55PM   PLT COUNT-137*
+2011-11-05 00:00:00 01:55PM   PT-13.6* PTT-23.9 INR(PT)-1.2
+2011-11-05 00:00:00 01:43PM   GLUCOSE-103 LACTATE-1.4 NA+-138 K+-3.2*
+CL--111 TCO2-21
+2011-11-05 00:00:00 01:55PM   LIPASE-12
+2011-11-05 00:00:00 01:55PM   GLUCOSE-103 UREA N-10 CREAT-0.6 SODIUM-137
+POTASSIUM-3.3 CHLORIDE-106 TOTAL CO2-21* ANION GAP-13
+2011-11-05 00:00:00 01:55PM   ALT(SGPT)-108* AST(SGOT)-125* ALK PHOS-48 TOT
+BILI-1.4
+2011-11-05 00:00:00 05:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+2011-11-05 00:00:00 05:30PM URINE  COLOR-Straw APPEAR-Clear SP Pilger-1.007
+.
+DATA:
+2011-11-05 00:00:00 CXR: The heart is of normal size. The mediastinal and hilar
+contours are within normal limits. The pulmonary vasculature is
+normal without evidence of CHF. There is a right chest wall
+Port-A-Cath with the tip in the cavoatrial junction. There are
+again noted surgical clips overlying the left breast. There is a
+patchy opacity in the right perihilar region and infrahilar
+region with nodular densities, which is likely due to post-
+radiation changes. No definite evidence of pneumonia is seen.
+There is a stable compression fracture of T6 and T9 vertebral
+bodies. There are surgical clips in the gallbladder fossa and
+subcutaneous tissues in the left abdomen. The patient is status
+post TRAM flap. The patient is status post left mastectomy.
+
+IMPRESSION:
+1. Post-radiation changes. No evidence of pneumonia.
+2. Stable compression fractures of T6 and T9 vertebral bodies.
+.
+Ultrasound of abdomen 2011-11-05 00:00:00: FINDINGS: Gallbladder is not
+seen as patient is status post cholecystectomy. Common duct is
+not dilated. The liver appears echogenic consistent with fatty
+liver. Multiple rounded hypoechoic lesions are seen within the
+liver, the largest measuring 2.5 cm in largest dimension. The
+right kidney measures 11.2 cm. The left kidney measures 11.6 cm.
+There is no hydronephrosis or stones. The pancreas and spleen
+appear unremarkable. The aorta is of normal caliber throughout.
+
+IMPRESSION:
+1. Multiple hypoechoic lesions seen within the liver
+corresponding to findings on CT performed 2011-11-05 00:00:00. These
+findings are suggestive of liver metastases.
+2. The liver is echogenic consistent with fatty liver. However,
+other forms of liver disease and more advanced liver disease,
+including significant hepatic fibrosis/cirrhosis, cannot be
+excluded on the study.
+3. Status post cholecystectomy.
+.
+CXR 2011-11-05 00:00:00: History of metastatic breast cancer with fever.
+Right subclavian CV line is in distal SVC. No pneumothorax.
+Right para mediastinal post-radiation changes as 123 Any St.usly
+demonstrated. No new pulmonary consolidation or pleural
+effusions.
+IMPRESSION: No evidence for pneumonia or other change since
+prior film of 2011-11-05 00:00:00.
+.
+Labs at discharge:
+2011-11-05 00:00:00 04:43AM BLOOD WBC-3.6* RBC-3.84* Hgb-11.2* Hct-30.7*
+MCV-80* MCH-29.2 MCHC-36.5* RDW-16.3* Plt Ct-73*
+2011-11-05 00:00:00 04:43AM BLOOD Neuts-44* Bands-7* Lymphs-25 Monos-10
+Eos-1 Baso-0 Atyps-4* Metas-9* Myelos-0 NRBC-1*
+2011-11-05 00:00:00 04:43AM BLOOD Gran Ct-2140*
+2011-11-05 00:00:00 04:43AM BLOOD Glucose-96 UreaN-11 Creat-0.7 Na-139
+K-4.2 Cl-103 HCO3-21* AnGap-19
+2011-11-05 00:00:00 04:43AM BLOOD ALT-102* AST-88* LD(LDH)-365* AlkPhos-62
+TotBili-1.2
+2011-11-05 00:00:00 04:43AM BLOOD Albumin-4.0 Calcium-10.0 Phos-4.1 Mg-2.0
+2011-11-05 00:00:00 05:11AM BLOOD Triglyc-578*
+.
+UCX 2011-11-05 00:00:00: No growth (final)
+BCX 2011-11-05 00:00:00: No growth (final)
+BCX 2011-11-05 00:00:00: No growth (final)
+
+Brief Hospital Course:
+A/P: 47 yo F w/metastatic breast ca s/p multiple regimens of
+chemo and XRT, most recently Gemzar 2011-11-05 00:00:00, p/w fever to 102
+and mild hypotension.
+.
+1. Fever of unclear etiology/hypotension: In the UPMCE, the
+patient was empirically covered with cefepime, vancomycin, and
+azithromycin.  Her hypotension responded to IVF and 2 units of
+PRBCs.  Pt was transferred to the floor on 2011-11-05 00:00:00 in a stable
+condition. The patient did not require any IVF and maintained
+her SBP in the 90s with good PO intake. The vancomycin and
+cefepime were subsequently discontinued as the patient remained
+afebrile, not neutropenic, and cultures remained negative, and
+switched to Levaquin. The source of fever remains unclear as
+final urine and blood cultures are negative and repeat x-ray
+showed no pneumonia(Port-A-Cath was a concern although the site
+looked clean, but the patient remained afebrile off of
+vancomycin).
+.
+2. Anemia/guiaic + stool: Pt's hct was 23.8 (baseline 30) and
+stool was heme + in the ED. In the ED hct over several hours
+stayed stable.  New anemia was felt likely due to chemotherapy
+as other cell lines also decreased. The patient received 2 units
+of PRBC in the UPMCE, resulting in appropriate rise in hct to
+32.2. Her hct remained stable on the floor. For GI consulted in
+ED and no acute recs for colonoscopy/ imaging. Of note, the
+patient has chronic + heme since Xeloda induced colitis.
+.
+3. Elevated LFTs- Was felt to be secondary to liver mets and/or
+Gemzar. Pt did not have any abdominal complaints. U/S of abdomen
+showed echogenic liver with multiple hypoechoic lesions
+consistent with corresponding to findings on CT performed
+2011-11-05 00:00:00.
+.
+4. Metastatic breast ca- s/p Gemzar 2011-11-05 00:00:00. The patient was
+continued on neurontin and oxycontin for peripheral neuropathy.
+.
+5. Hypertriglyceridemia: Continued tricor. Since the patient has
+a h/o pancreatitis with elevated TG, triglyceride was rechecked
+and was improved to 578 (2011-11-05 00:00:00 1397)  The patient had normal
+amylase and lipase during this hospitalization.
+.
+6. H/o R ovarian v clot: Continue coumadin (unclear effect as
+INR 1.2)
+
+7. Depression/anxiety: Continued Wellbutrin and Lexapro. Ativan
+for sleep prn.
+.
+8. FEN: Received IVF for hydration and regular diet
+.
+9. Proph: PPI, pneumoboots; on coumadin.
+
+
+Medications on Admission:
+Wellbutrin 150 UPMCE, Lexapro 10 qd, OxyContin 80 UPMCE, Protonix,
+TriCor 145 mg qd, coumadin 1 mg a day, neurontin 300 mg qd,
+Ativan as needed, vicodin, zometa.
+
+
+Discharge Medications:
+1. Bupropion 75 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+2. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO
+qd ().
+4. Warfarin 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. Oxycodone 20 mg Tablet Sustained Release 12HR Sig: Four (4)
+Tablet Sustained Release 12HR PO Q12H (every 12 hours).
+7. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: One (1) Tablet
+PO Q4-6H (every 4 to 6 hours) as needed.
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed.
+10. Levaquin 500 mg Tablet Sig: One (1) Tablet PO once a day for
+5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Metastatic breast cancer
+Fevers
+
+
+Discharge Condition:
+Afebrile, stable to go home.
+
+
+Discharge Instructions:
+Return to the emergency department or call your primary care
+physician if you develop fever, chills, intractable
+nausea/vomiting, dizziness, bright red blood per rectum,
+shortness of breath, chest pain, or any other worrisome
+symptoms.
+.
+Take your antibiotics as prescribed.
+.
+Have your hematocrit checked at your oncology appointment.
+.
+Please, call radiology and schedule an appointment to get a CT
+of abdomen and follow up with Dr. Graddy Ailport with the result.
+
+Followup Instructions:
+Provider: Dagny Pilger Dagny Pilger, MD Date/Time:2011-11-05 00:00:00 9:00
+Provider: Dagny Pilger,Dagny Graddy Ailport Pilger/ONCOLOGY-CC9
+Phone:test@mail.com Date/Time:2011-11-05 00:00:00 9:00
+Provider: Dagny Pilger Dagny Pilger, RN Phone:test@mail.com Date/Time:2011-11-05 00:00:00
+9:30
+
+
+

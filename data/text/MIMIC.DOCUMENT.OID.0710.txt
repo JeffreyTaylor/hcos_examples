@@ -1,0 +1,175 @@
+Admission Date:  2008-11-30 00:00:00              Discharge Date:   2008-11-30 00:00:00
+
+Date of Birth: 1957-11-25 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Kaile Vanderwel
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass graft x3 (LIMA->LAD, SVG->OM, PLV)
+
+
+History of Present Illness:
+60 yo male with a history of hypertension, hypercholesterolemia,
+and past tobacco use, with no prior known cardiac history
+complains of chest pain for thepast several months unrelated to
+activity. Pt had more severe symptoms on 2008-11-30 00:00:00 while at rest at
+home, and was noted by his wife to be ashen. BP by home monitor
+was 160/100. Pt was admitted to 123 Any St. and after being
+ruled out for a MI, underwent a stress test without EKG changes;
+however, echo was suggestive of inferior and inferolateral
+ischemia. EF 60%. Pt was given 2 SL NTG tablets with relief of
+chest pain. He was transferred to UPMCE where a cardiac
+catheterization showed left main and two vessel coronary artery
+disease with normal ventricular function.  He was then scheduled
+for coronary artery bypass grafting.
+
+
+Past Medical History:
+HTN
+Hypercholesterolemia
+
+Social History:
+Smoked 1ppd x 30 years, quit 10 years ago. Drinks one glass of
+red wine/day. Lives with wife in Floramae Hippensteel. Has one daughter.
+Floramae Hippensteel at UPMCE College as a maintenance supervisor. Was
+exercising 2-3x/week at a gym, stopped several weeks ago due to
+chest pain sx.
+
+
+Family History:
+Mother had several Floramae Hippensteel, first at age 61.
+
+Pertinent Results:
+Cardiology Report C.CATH Study Date of 2008-11-30 00:00:00
+1. Coronary angiography of this right dominant circulation
+demonstrated
+left main and two vessel coronary artery disease.  The LMCA had
+a 70%
+distal lesion.  The LAD had a 70% ostial complex lesion and less
+than
+50% mid disease.  The LCX had mild disease.  The Ramus had mild
+disease.
+The RCA had 60% mid lesion and an ostial 80% PDA lesion.
+2. Left ventriculography demonstrated normal wall motion with
+ejection
+fraction of 60%.  There was no mitral regurgitation.
+3. Limited resting hemodynamics demonstrated normal system blood
+
+pressure and normal LVEDP of 10 mmHg.
+
+FINAL DIAGNOSIS:
+1. Left main and two vessel coronary artery disease.
+2. Normal ventricular function.
+
+Brief Hospital Course:
+Mr. Hippensteel was admitted to the Cardiology service at UPMCE
+for a positive echo test showing ischemic changes with exercise
+after he presented for increasing chest pain over the past
+several months.  He was found to have triple vessel disease and
+was scheduled for revascularization.  He was taken to the
+operating room for a tripple vessel coronary artery bypass graft
+with Dr. Kaile Vanderwel on 2008-11-30 00:00:00.  For more details of the procedure,
+see operative dictation.
+
+Post-operatively, Mr. Hippensteel was without issue and
+progressed well.  He was kept in the Cardiac Surgery Recovery
+Unit for one day and was then transferred to the floor.  He was
+deemed well enough to return home on POD 4 and was so discharged
+in good condition, tolerating a regular, heart healthy diet,
+ambulating without assistance and with good pain control on PO
+dilaudid.  He is asked to follow-up with his PCP, Hippensteel. Hippensteel who
+was contactFloramae Hippensteel and is aware and Dr. Kaile Vanderwel
+and a message was left.  Lastly, he is asked to follow-up with
+Dr. Kaile Vanderwel in 4 weeks.
+
+Medications on Admission:
+HCTZ 25 mg po daily
+Lisinopril 10 mg po daily
+Celexa 20 mg po daily
+
+Discharge Medications:
+1. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours).
+Disp:*120 Capsule, Sustained Release(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4
+to 6 hours) as needed.
+Disp:*45 Tablet(s)* Refills:*0*
+7. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 4 weeks.
+Disp:*56 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+Coronary artery disease
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please call the Cardiac Surgery Staff at test@mail.com if you
+experience new and continuing nausea, vomiting, fevers (>101.5
+F), chills, or shortness of breath.  Also please  if your wound
+becomes red, swollen, warm, or produces pus.
+
+If you experience clear drainage from your wounds, cover them
+with a
+clean dressing and stop showering until the drainage subsides
+for at
+least 2 days.
+
+No heavy lifting or exertion for at least 10 weeks.
+
+No driving while taking pain medications.
+
+Narcotics can cause constipation.  Please take an over the
+counter stool softener such as Colace or a gentle laxative such
+as Milk of Magnesia if you experience constipation.
+
+You may resume a regular, heart healthy diet as tolerated.
+
+You may resume all of your 123 Any St.usly prescribed medications.
+
+You may take showers.
+
+Followup Instructions:
+Please follow-up with Dr. Kaile Vanderwel in 4 weeks.  Call test@mail.com
+for an appointment.
+Please follow-up with your PCP, Hippensteel. Hippensteel at test@mail.com, in
+2008-11-30 00:00:00 weeks.
+Please follow-up with your cardiologist, Dr. Hippensteel at
+test@mail.com, in 2008-11-30 00:00:00 weeks.
+
+
+

@@ -1,0 +1,136 @@
+Admission Date:  2011-06-29 00:00:00              Discharge Date:   2011-06-29 00:00:00
+
+Date of Birth: 1945-10-07 00:00:00 00:00:00             Sex:   F
+
+Service: Hadrian Bubnick
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Hadrian Bubnick
+Chief Complaint:
+right colon mass
+
+Major Surgical or Invasive Procedure:
+right colectomy
+
+History of Present Illness:
+Patient is a 79 year old Russian speaking female with history of
+cardiopulmonary disease diagnosed with adenocarcinoma of the
+right colon in 2011-06-29 00:00:00.
+
+Past Medical History:
+1. hypertension
+2. diabetes type II
+3. hypercholesterolemia
+4. coronary artery disease
+5. chronic renal failure
+6.pulmonary hypertension-
+7.left ventricle outflow tract obstruction,diastolic heart
+failure-ejection fraction of 70%
+8. gastro-esophageal reflux disease
+
+pancreatic resection 2011-06-29 00:00:00, 2011-06-29 00:00:00- required intubation with
+history of delirium
+resection of neuroendocrine tumor
+septal ablation 2011-06-29 00:00:00
+
+Social History:
+positive for tobacco, negative for alcohol and recreation drug
+use.
+
+Family History:
+non-pertinant
+
+Physical Exam:
+On discharge, patient is afebrile with stable vitals. Abodomen
+is soft and non tender on exam. Abdominal incision has no
+evidence of infection, and staples are in place.
+
+Pertinent Results:
+2011-06-29 00:00:00 06:59PM   TYPE-MIX PO2-42* PCO2-50* PH-7.27* TOTAL
+CO2-24 BASE XS--4
+2011-06-29 00:00:00 06:59PM   O2 SAT-70
+2011-06-29 00:00:00 06:58PM   TYPE-ART TEMP-37.5 RATES-2011-06-29 00:00:00 TIDAL VOL-500
+PEEP-8 O2-40 PO2-117* PCO2-43 PH-7.33* TOTAL CO2-24 BASE XS--3
+INTUBATED-INTUBATED
+2011-06-29 00:00:00 06:45PM   WBC-9.7 RBC-3.73* HGB-11.8* HCT-35.0* MCV-94
+MCH-31.5 MCHC-33.6 RDW-13.4
+2011-06-29 00:00:00 02:55PM   TYPE-ART PO2-82* PCO2-43 PH-7.29* TOTAL
+CO2-22 BASE XS--5
+2011-06-29 00:00:00 02:55PM   HGB-11.3* calcHCT-34
+2011-06-29 00:00:00 01:49PM   HCT-29.6*
+2011-06-29 00:00:00 12:43PM   TYPE-ART PO2-96 PCO2-45 PH-7.25* TOTAL CO2-21
+BASE XS--7
+2011-06-29 00:00:00 11:47AM   TYPE-ART PO2-97 PCO2-53* PH-7.22* TOTAL
+CO2-23 BASE XS--6 INTUBATED-INTUBATED
+2011-06-29 00:00:00 11:22AM   WBC-13.9*# RBC-3.92* HGB-12.4 HCT-36.1 MCV-92
+MCH-31.6 MCHC-34.4 RDW-13.2
+
+Brief Hospital Course:
+Patient was taken to the operating room on 2011-06-29 00:00:00 for
+the above stated procedure. The patient was hemodynamically
+stable throughout the operation, requiring a small amout of
+pressors. She was then admitted to the intensive care unit
+post-operatively intubated and monitored with a swan cathater
+that was placed intraoperatively. Rising pulmonary artery
+pressures were noted- 60/30's. Patient Alvi a course of
+kefzol/flagyl which was continued for 2 days.    On post
+operative day 1, the patient was extubated, and remained nothing
+by mouth. On post operative day 2, patient experienced shortness
+of breath, satting 89% on 2 liters. Intra-venous fluids were
+decreased from 100 cc per hour to 80 than 50cc and remained on
+2011-06-29 00:00:00 liters oxygen. Patient was noted to have good urinary output
+of 90-100cc per hour. On post operative day 2, intra-venous
+fluids were dereased to 30 cc per hour, oxygen saturation
+remained good on 3 liters, and urinary output was also adequate
+and she was transferred to the floor and advanced to clears. On
+post-operative day 4, patient tolerated clears. On
+post-operative day 5, patient was noted to be slightly distended
+and was made nothing by mouth. On post-operative day 6, patient
+reported to pass flatus, clears were advance and she was
+evalutated by physical therapy. Home physical therapy was
+reccommended. Also on post-operative day 5, family noted some
+acute mental status changes, she was seen by neurology. On
+post-operative day 6, mental status was noted to have greatly
+improved per family futher neuro workup was deferred to
+outpatient. Patient was discharged on post-operative day 7 with
+home services.
+
+Medications on Admission:
+lasix
+cardura
+toprol
+aricept
+lisinopril
+lipitor
+
+
+Discharge Medications:
+not requiring narcotics
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Family & UPMCE Services
+
+Discharge Diagnosis:
+adenocarcinoma of the right colon
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Do not soak incisions in Alvi, [**First Name3 (LF) **] shower and then pat incision
+line dry. Resume prehospital medications.
+2011-06-29 00:00:00 take tylenol for pain.
+
+Followup Instructions:
+Patient is to call and make appointment to be by Dr. Alvi in
+2011-06-29 00:00:00 weeks.
+Please follow up with neurologist.
+
+
+

@@ -1,0 +1,263 @@
+Admission Date:  2007-10-20 00:00:00              Discharge Date:   2007-10-20 00:00:00
+
+
+Service: NMED
+
+Allergies:
+Naproxen / Diltiazem / Propranolol
+
+Attending:Analexis Magovern
+Chief Complaint:
+Dizziness
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Patient is an 85 year old woman with past medical history of
+hypertension, hypercholesterolinemia, and vertebral aneurysm who
+presents with dizziness.  She awoke on the morning of admission
+with sense of dizziness and dysequilibrium like things were
+moving around her. The sensation was worsened with head
+movements and present in all positions. She denied any nausea,
+diplopia, or neck pain. When she walked, felt unsteady and had
+to hold onto things to steady herself. She then had developed a
+pain which she is unable to characterize further all over her
+head that build up to 2007-10-20 00:00:00 but is now 2007-10-20 00:00:00. She also complained
+of photophobia but denied any visual, speaking, or swallowing
+difficulties.  Of note, she did have a cough but no fever in
+past week.  She denied any recent trauma or neck manipulations.
+
+Her neighbor came over and then called 911; patient was then
+taken to UPMCE hospital where she was found to be hypertensive
+to 200/100. A non-contrast head CT was negative and she refused
+spinal tap.  Records indicated that she was hospitalized two
+weeks ago at this 123 Any St. for dizziness and hypertension.
+Patient says that she has been having dizzy spells with sitting
+and standing up.  The spells last a few minutes.  Patient had
+MRI/MRA of head for these dizzy spells 6 months ago which showed
+aneurysm in the "cavernous."  She saw a Neurosurgeon at UPMCE who told her surgery not indicated at that time.
+
+
+Past Medical History:
+1. Hypertension
+2. Hypercholesterolinemia
+3. Vertebral artery aneurysm
+4. Angina
+5. Appendectomy
+6. Cataract surgery
+7. Left lumpectomy
+
+Social History:
+She lives alone. Uses a cane to walk.  She formerly worked as a
+secretary. She denies any tobacco, alcohol or drug use.
+
+
+Family History:
+No family history of seizure, stroke, or aneurysm.
+
+Physical Exam:
+Exam: Temp 98.3,  HR 85,  BP 186/103, RR 16, Oxygen 99% on room
+air.
+Gen: No acute distress.
+Neck: Supple. No carotid bruits. Limited cervical range of
+motion.
+CV: Regular rate and rhythm with no murmurs, gallops, or rubs.
+Lung: Clear to auscultation bilaterally.
+Abd: Soft, nontender.
+Ext: No edema.
+Refused Svenson Hallpike manuever.
+
+Neurologic examination:
+Mental status: Awake and alert, cooperative with exam, normal
+affect. Oriented to person, place, and date. Able to do months
+of year backwards but skips one month. Recalled 2007-10-20 00:00:00-->2007-10-20 00:00:00 with
+prompting at 5 minutes. Language fluent with good comprehension
+and repetition; naming intact. No dysarthria or paraphasic
+errors. No apraxia, no neglect.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to 3 mm
+bilaterally. Visual fields are full to confrontation.
+Fundus: Clear optic disc margins. Acuity: 20/30 ou, os, od
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to finger rub bilaterally.
+IX, X: Palatal elevation symmetrical
+Analexis Magovern: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations, intact movements.
+
+Motor: Normal bulk and tone bilaterally. No tremor. Full power
+2007-10-20 00:00:00 throughout except right deltoid and bicep 4+/5. No pronator
+drift.
+
+Sensation: Intact to light touch, pinprick, temperature (cold),
+vibration, and propioception.
+
+Reflexes: Hyperreflexive except trace ankle jerks bilaterally.
+Grasp reflex absent. Toes were downgoing bilaterally.
+
+Coordination: Normal on finger-nose-finger, rapid alternating
+movements and heel to shin also normal. Normal mirror test.
+
+Gait: Wide based, negative Romberg. Test ended due to patient's
+nausea.
+
+
+Pertinent Results:
+2007-10-20 00:00:00 05:30PM   WBC-6.2 RBC-4.17* HGB-12.0 HCT-34.5* MCV-83
+MCH-28.7 MCHC-34.7 RDW-14.5
+2007-10-20 00:00:00 05:30PM   NEUTS-67.4 LYMPHS-24.5 MONOS-5.2 EOS-2.1
+BASOS-0.7
+2007-10-20 00:00:00 05:30PM   PLT COUNT-251
+2007-10-20 00:00:00 05:30PM   PT-13.0 PTT-24.2 INR(PT)-1.1
+2007-10-20 00:00:00 05:30PM   GLUCOSE-93 UREA N-12 CREAT-0.6 SODIUM-141
+POTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-28 ANION GAP-15
+2007-10-20 00:00:00 05:30PM   CK(CPK)-75
+2007-10-20 00:00:00 05:30PM   CK-MB-NotDone cTropnT-<0.01
+2007-10-20 00:00:00 05:30PM   SED RATE-12
+
+2007-10-20 00:00:00 08:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+2007-10-20 00:00:00 08:00PM URINE  COLOR-Straw APPEAR-Clear SP Svenson-1.009
+
+MRI OF THE BRAIN WITHOUT IV CONTRAST: There is no intracranial
+mass effect or hydrocephalus. Several foci of T2 signal
+hyperintensity are demonstrated within the subcortical and
+periventricular white matter of both cerebral hemispheres
+consistent with chronic microvascular infarction. No acute
+infarction is identified. Two tiny foci of low signal is seen
+within the left thalamus and left temporal lobe on
+susceptibility sequences, may be areas of tiny hemorrhage or
+mineralization. There are symmetric, large, bilateral cavernous
+carotid aneurysms identified (please see below for
+measurements). There is opacification of the right mastoid air
+cells. The remaining visualized paranasal sinuses are clear. The
+remaining osseous and soft tissue structures are unremarkable.
+
+MRA OF THE CIRCLE OF 123 Any St.: There are bilateral,
+symmetrically-appearing cavernous carotid aneurysms identified.
+The left cavernous carotid aneurysm measures 2.1 x 1.7 cm, and
+the right cavernous carotid aneurysm measures 2.0 x 2.1 cm.
+Normal flow signal is demonstrated within these aneurysms.
+Normal flow signal is present within both vertebral arteries,
+basilar artery, both posterior inferior cerebellar arteries,
+both anterior inferior cerebellar arteries, both superior
+cerebellar arteries, both middle cerebral arteries, both
+posterior cerebral arteries, and intracranial portions of the
+carotid arteries. An azygous anterior cerebral artery is
+present. There are no areas of significant stenoses identified.
+The posterior communicating arteries are not well visualized.
+
+MRA OF THE CAROTIDS AND VERTEBRAL ARTERIES: Continuous flow
+signal is demonstrated within both vertebral arteries, both
+common carotid arteries, and both internal carotid arteries
+without evidence of significant stenosis or ulceration.
+
+Carotid dopplers: Minimal wall-thickening involving the internal
+carotid arteries bilaterally. However, the peak systolic
+velocities bilaterally are normal, as are the ICA to CCA ratios.
+There is also normal antegrade flow in both vertebral arteries.
+
+
+Brief Hospital Course:
+Patient is an 85 year old woman with history of hypertension,
+hypercholesterolinemia, and anerysm who presented with
+dysequilibrium and headache.  Her neurologic exam was nonfocal
+but we felt her history of dysequilibrium without nausea was
+suggestive of central process such as stroke or cervical
+vertigo.  We initially recommended MRI/MRA of the brain to
+evaluate for any stroke or aneurysm.
+
+Her neurologic symptoms resolved shortly after admission.
+MRI/MRA on 2007-10-20 00:00:00 provided no evidence of hemorrhage or acute
+infarction. MRI/MRA also revealed large, bilateral cavernous
+carotid aneurysms without evidence of thrombus. No areas of
+significant stenoses were identified.  Carotid series revealed
+minimal bilateral ICA plaque, with no ap123 Any St.ble associated
+stenosis.
+
+
+Surgery was consulted for possible treatment for the aneurysms,
+and an angiogram was performed on 2007-10-20 00:00:00.  During the
+angiogram, patient had onset of left sided hemiparesis. On MRI,
+diffusion weighted images showed several areas of increased
+signal are involving both cerebral hemispheres as well as the
+pons. No corresponding abnormalities are seen on the FLAIR and
+T2 weighted images. These findings were indicative of acute
+posterior circulation infarcts involving the brain stem and
+cerebellum, likely due to showering of the emboli during
+angiogram. There was no evidence of hemorrhage seen.
+
+She was transferred from Neurology stroke service to the
+Neurology/Neurosurgery Intensive Care Unit on 2007-10-20 00:00:00 for blood
+pressure management.  On 2007-10-20 00:00:00, she was considered to be
+clinically stable and was transferred back to the Neurology
+stroke service.  On 2007-10-20 00:00:00 she developed worsening shortness of
+breath with a productive cough, low grade fever, and increased
+white blood cell count. Chest x-ray was consistent with
+pneumonia, presumably due to aspiration. Flagyl and Levoquin
+were started for emperic treament of pneumonia as well as a
+concomitant urinary tract infection. She responded to the
+antibiotics, and her mental status improved slightly.  PICC line
+was placed for long term antibiotic therapy and parenteral
+nutrition.
+
+Post-angiogram and subsequent stroke, patient was kept NPO due
+to swallowing difficulties and aspiration risk. She transiently
+had an nasogastric tube for nutrition and medication
+administration. After tube was removed, family refused
+replacement. They also refused PEG placement, stating that
+patient did not want to be kept alive by artificial means.
+Conversations with her primary care physician confirmed this.
+Subsequently, plan was made between patient's family and the
+medical team that patient would receive parenteral nutrition and
+antibiotics with frequent reassessment of her neurologic status
+and plan of care. After several days of therapy, the patient's
+mental status was unimproved and recurrent aspiration lead to
+further respiratory compromise. Family changed goal of care to
+comfort measures onlyon 2007-10-20 00:00:00 and patient died from
+respiratory failure later that evening.
+
+
+
+Medications on Admission:
+1. Lovastatin 40 mg po qd
+2. Isosorbide 10 mg po qid
+3. Verapamil 40 mg po tid
+4. Nifedepine 10 mg po qd
+5. Trazodone 100 mg po qHS
+
+
+Discharge Medications:
+Not applicable
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+1. Stroke
+2. Aspiration pneumonia leading to respiratory failure
+3. Urinary tract infection
+4. Bilateral cavernous carotid aneurysms
+5. Hypertension
+6. Hypercholesterolinemia
+7. Vertebral artery aneurysm
+8. Angina
+9. History of appendectomy
+10. Cataract surgery
+2007-10-20 00:00:00. Left lumpectomy
+
+Discharge Condition:
+Deceased.
+
+Discharge Instructions:
+Not applicable.
+
+Followup Instructions:
+Not applicable.
+
+

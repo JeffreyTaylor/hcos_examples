@@ -1,0 +1,327 @@
+Admission Date:  2011-02-02 00:00:00              Discharge Date:   2011-02-02 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Chayse Ogwynn
+Chief Complaint:
+hip fracture and subsegmental PE
+
+Major Surgical or Invasive Procedure:
+L HIP ORIF
+
+History of Present Illness:
+20 year old female with h/o hypothyroidism, anemia,
+osteoporosis, multiple falls including 2011-02-02 00:00:00 and 2011-02-02 00:00:00, 2011-02-02 00:00:00 who
+presents 2011-02-02 00:00:00 s/p fall on left hip. Per ambulance report, pt was
+behind her apartment door with walker, when her physical
+therapist opened the door which hit her, causing her to fall.
+She landed on left hip. She denies LOC, dizziness, palpitations
+and confusion. X-ray confirmed L hip fracture.
+.
+Pt taken to OR 2011-02-02 00:00:00 for L ORIF. Intraoperatively she dropped her
+O2 sats from 100 to 90 and was noted to have an elevated A-a
+gradient. Hip procedure went well without complications.
+Post-operatively, the pt left ventilated on SIMV and ortho
+requested transfer to MICU for further evaluation and treatment.
+
+
+
+Past Medical History:
+Frequent falls 2011-02-02 00:00:00, 2011-02-02 00:00:00
+GERD
+Hypothyroidism
+Hearing loss on Left
+B12-deficiency, Iron deficiency, Anemia
+osteoporosis
+T3 compression fracture
+UTI
+Anxiety
+ECHO 2011-02-02 00:00:00 EF>55%, with 1+ AR, normal LV wall motion.
+
+
+Social History:
+Social History:
+- lives in own apartment on 123 Any St.
+- walks with walker
+- has lifeline
+- has very actively involved family (niece/HCP) in the area who
+helps with Dlisa Madeira. She has strong feelings as to how her aunt
+should be taken care of.
+- Remote tobacco use, no etoh
+- NOK/HCP is patient's niece (is a social worker) Dlisa Madeira Dlisa Madeira -
+test@mail.com (#1 daughter's room), test@mail.com (#2 cell phone).
+Does not want to work with [**First Name8 (NamePattern2) 2020**] Madeira, RN CM.
+- PCP is Madeira. Dlisa Madeira
+
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T 99.2
+BP 142/65
+HR 84
+R 26
+Sat 91% 5LNC
+*
+PE: G: Elderly female, NAD
+HEENT: Dry MM
+Neck: Supple, No JVD
+Lungs: BS BL, diffuse rhonchi
+Cardiac: RR, NL rate. NL S1S2. No murmurs
+Abd: Soft, NT, ND. NL BS. No HSM.
+Ext: No edema.
+Neuro: Alert, but thinks she's on a ride ("when does this ride
+stop?")
+*
+
+
+Pertinent Results:
+ADMISSION LABS:
+
+2011-02-02 00:00:00 07:02PM URINE  COLOR-Yellow APPEAR-Clear SP Madeira-1.017
+2011-02-02 00:00:00 07:02PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+2011-02-02 00:00:00 07:02PM URINE  RBC-2011-02-02 00:00:00* WBC-0-2 BACTERIA-FEW YEAST-NONE
+EPI-0-2
+2011-02-02 00:00:00 05:40PM   GLUCOSE-101 UREA N-34* CREAT-1.2* SODIUM-142
+POTASSIUM-4.7 CHLORIDE-105 TOTAL CO2-26 ANION GAP-16
+2011-02-02 00:00:00 05:40PM   CALCIUM-8.8 PHOSPHATE-3.8 MAGNESIUM-2.0
+2011-02-02 00:00:00 05:40PM   WBC-6.8 RBC-4.26 HGB-12.1 HCT-35.6* MCV-84
+MCH-28.5 MCHC-34.1 RDW-13.3
+2011-02-02 00:00:00 05:40PM   NEUTS-75.1* LYMPHS-20.4 MONOS-2.8 EOS-1.1
+BASOS-0.6
+2011-02-02 00:00:00 05:40PM   PLT COUNT-300
+2011-02-02 00:00:00 05:40PM   PT-12.0 PTT-24.1 INR(PT)-0.9
+
+IMAGING:
+Admission Hip Film (2011-02-02 00:00:00):  IMPRESSION: Proximal left femoral
+fracture.
+
+Admission CXR (2011-02-02 00:00:00): IMPRESSION: No acute pulmonary process.
+Low lung volumes with right basilar atelectasis. 123 Any St.usly
+identified right retrocardiac nodular density, not clearly
+visualized in this study.
+
+Gross Path on L Hip Fx: Clinical:  Fracture left hip.
+The specimen is received fresh labeled with "Dlisa Madeira" and
+"left femoral head" and consists of a femoral head measuring 6.5
+x 4.5 x 3.8 cm.  The additional separate fragment of bone
+measuring 2.3 x 1.5 x 1.3 cm. The shape of the femoral head is
+unremarkable, however, there is extensive eburnation across most
+of the surface. There is mild, focal osteophytic growth on the
+edge.  It is sectioned to reveal large area of hemorrhage
+measuring up to 3 cm, and the inferior surface of the femoral
+head is jagged and hemorrhagic.   The bone trabecula are firm
+and no tumors or other mass lesions are noted on sectioning.
+Representative sections are submitted in A-B following
+decalcification.
+
+CTA Chest (post-op) 2011-02-02 00:00:00:
+IMPRESSION:
+1. Single PE visualized in the apical segment of the right lower
+lobe.
+2. Small bilateral pleural effusions. Associated atelectasis. No
+other areas of consolidation are visualized.
+3. Mild/early CHF.
+
+CT Abd/Pelvis (2011-02-02 00:00:00):
+IMPRESSION:
+1. Patient is status post ORIF of the left proximal femur. There
+is marked streak artifact from this within the pelvis, however,
+no definite hematomas are identified.
+2. Bilateral small pleural effusions with associated
+atelectasis.
+3. The gallbladder appears full, and contains sludge. If there
+is clinical concern for acute cholecystitis, evaluation with
+ultrasound is recommended.
+
+US liver/GB (2011-02-02 00:00:00):
+IMPRESSION: Gallbladder sludge and pericholecystic fluid. No
+gallbladder wall edema or other evidence to suggest acute
+cholecystitis. Given the presence of hypoalbuminemia, normal
+LFTs, and the absence of a white count, the gallbladder sludge
+and gallbladder distention likely reflect a fasting state.
+
+CXR 2011-02-02 00:00:00:  IMPRESSION: Improvement of pulmonary edema. Unchanged
+right pleural effusion.
+
+
+Brief Hospital Course:
+20 year old female with h/o hypothyroidism, anemia,
+osteoporosis, multiple falls including 2011-02-02 00:00:00 and 2011-02-02 00:00:00, 2011-02-02 00:00:00 who
+presented 2011-02-02 00:00:00 s/p mechanical fall with subsequent L hip fx.
+She was taken to OR 2011-02-02 00:00:00 for L ORIF. Intraoperatively she
+dropped her O2 sats from 100 to 90 and was noted to have an
+elevated A-a gradient. Hip procedure went well without
+complications. Post-operatively, the pt left ventilated on SIMV
+and ortho requested transfer to MICU for further evaluation and
+treatment. In the ICU, she was found to have a subsegmental PE
+and BL pleural effusions.  She developed a fever to 101.9, and
+was treated empirically for hospital-acquired PNA with
+CTZ/flagyl (plan for 10 days). She was also started on heparin,
+and was noted to have had a Hct drop of 10 points on 2011-02-02 00:00:00, which
+was stable after transfusion.  No obvious source was found and
+her Hct was stable following. During this time (2011-02-02 00:00:00), she was
+also empirically started on Vancomycin for the fevers, but it
+was d/c'd on 2011-02-02 00:00:00. No other etiology for the fevers was found,
+including negative RUQ U/s and CT a/p. Once extubated, the
+patient failed speech and swallow evaluation, but refused NGT
+placement.  A PICC line was placed for temporary nutrition via
+TPN.
+.
+1. PE: The patient was anticoagulated initially with heparin gtt
+then switched to lovenox. Once a PEG was placed, the patient was
+transitioned over to coumadin with lovenox bridge. Last INR was
+2.1 on 2011-02-02 00:00:00, stopped lovenox, discharged on Coumadin 3mg PO
+qd, please check INR in 2 days and adjust dose of coumadin as
+needed. At time of discharge, her SaO2 ranged from 92-95 on RA.
+.
+2. ID: The patient was treated empirically with CTZ and Flagyl
+for a nosocomial/aspiration PNA and remained afebrile while on
+the floor. However, pt's WBC elevated so Vanco was added to
+regimen for a 7 day course. A sputum cx from 2011-02-02 00:00:00 grew sparse
+yeast. The foley was changed and a urine sent for culture; the
+initial sample was contaminated and grew yeast; the second urine
+cx grew enterococcus resistant to Vanco 10,000-100,000 colonies.
+A repeat urine was sent and the foley was removed; cx grew only
+yeast. She remained afebrile, with a normal WBC, throughout the
+remainder of her hospitalization. A pCXR on 2011-02-02 00:00:00 showed a
+question of a new L medical base infiltrate; however, in absence
+of fever and stable WBC, did not treat with abx, followed
+clinically. There was a concern that the patient may have
+experienced an aspiration event; however she did not worsen
+clinically so no further treatment provided other than measures
+to reduce aspiration risk.
+.
+3. L Hip fracture, s/p ORIF: The patient was followed by
+Orthopedics and did well, cleared for WBAT and work with PT/OT;
+will need PT/OT at rehab when physically able. The patient will
+f/u with Dr. Madeira 2 weeks from discharge date (number in
+discharge paperwork).
+.
+4. Delirium/Dementia: The patient had a waxing/Chayse Ogwynn mental
+status. At one point the patient pulled her IV lines including
+her PICC line, occasionally requiring the use of soft restraints
+for her safety. Olanzapine was used on a prn basis for
+agitation. Frequent reorientation was used. Pt has periods of
+apparent lucidity and makes insightful comments and
+conversation.
+.
+5. FEN: The patient failed multiple speech & swallow
+evaluations. The patient was initially on TPN via the PICC line
+for nutrition. Extensive discussions were had with the UPMCE
+healthcare proxy regarding options for enteral nutrition. An
+albumin was 2.7. A PEG was placed on 2011-02-02 00:00:00 and tube feeds were
+begun and the patient achieved her TF goal. Electrolytes were
+stable. There was concern on 2011-02-02 00:00:00 that the patient was
+aspirating some of her TF 2011-02-02 00:00:00 reflux, despite no residuals when
+checked; a CXR was unchanged. A day later a repeat CXR showed a
+question of a new L medial base infiltrate (poor quality film).
+Reglan was started, and TF were restarted at a slower rate. A
+PPI was also administered. HOB kept elevated >30-45 degrees at
+all times. The patient was followed on a sliding scale insulin
+regimen with good effect.
+.
+6. Hypothyroidism: The patient was initially treated with IV
+levoxyl since she was NPO; a TSH was checked: 8.5, difficult to
+interpret in an ill, hospitalized patient. A free T4 was WNL, so
+pt was maintained on same dose of levoxyl. Once PEG in place, PO
+levoxyl started at same dosing per Pharmacy recs.
+.
+7. Anemia: Stable during remainder of hospitalization. Baseline
+Hct appears to be in the low to mid 30s.
+.
+.
+
+Medications on Admission:
+Meds on transfer:
+Propofol gtt
+Multivitamins 1 CAP PO DAILY
+Olanzapine prn
+Oxycodone 5 mg PO Q4-6H:PRN pain
+Acetaminophen 650 mg PO/PR Q6H
+Pantoprazole 40 mg PO Q24H
+Calcium Carbonate 500 mg PO TID
+Cefazolin 1 gm IV Q8H Duration: 6 Doses
+Docusate Sodium 100 mg PO BID:PRN
+Enoxaparin Sodium 40 mg SC Q24H
+Levothyroxine Sodium 88 mcg PO DAILY
+Senna 1 TAB PO BID
+Metoprolol 5 mg IV Q6H
+Morphine Sulfate 1-2 mg IV Q4-6H:PRN
+Vitamin D 400 UNIT PO DAILY
+.
+Allergies: NKDA
+
+
+Discharge Medications:
+1. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO BID (2 times a day) as needed for agitation.
+2. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain.
+4. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Coumadin 3 mg Tablet Sig: One (1) Tablet PO once a day: via
+PEG. Tablet(s)
+6. Lansoprazole 15 mg Susp,Delayed Release for Recon Sig: One
+(1)  PO DAILY (Daily): via PEG.
+7. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours): via PEG.
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day): via PEG, fold for HR<60, SBP<115.
+9. Outpatient Lab Work
+Please check INR in 2 days and adjust coumadin level as needed
+for goal INR 2011-02-02 00:00:00.
+10. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  UPMCE
+(2 times a day).
+11. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily)
+as needed for PE.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. at 123 Any St.
+
+Discharge Diagnosis:
+1. L hip fracture s/p ORIF
+2. PE
+3. Dementia/delirium
+4. Pneumonia (resolved)
+5. Anemia (stable)
+6. Hypothyroidism
+
+
+Discharge Condition:
+Fair
+
+
+Discharge Instructions:
+-Take medications as prescribed
+-Work with physical therapy as able
+-Tube feeds via PEG (nothing by mouth until re-evaluation by
+Speech/Swallow)
+-Notify your doctor or return to the ER for:
+* fever>101.4
+* chest pain, shortness of breath, abdominal pain
+* other concerns
+
+
+Followup Instructions:
+- Provider: Dlisa Madeira, MD Date/Time:2011-02-02 00:00:00 1:30
+
+- Orthopedics Dr. Madeira -- Call test@mail.com  to schedule
+appointment at a time conveneient for you 2 weeks from your
+discharge date.
+
+
+

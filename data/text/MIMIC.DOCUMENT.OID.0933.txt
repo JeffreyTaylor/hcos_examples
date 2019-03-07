@@ -1,0 +1,371 @@
+Admission Date:  2010-01-24 00:00:00              Discharge Date:   2010-01-24 00:00:00
+
+Date of Birth: 1990-05-12 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Eveleen Lipnicki
+Chief Complaint:
+Right leg pain and swelling
+
+Major Surgical or Invasive Procedure:
+Temporary IVC filter placement
+Esophagogastroduodenoscopy
+colonoscopy
+
+
+History of Present Illness:
+54 y.o. male with PMHx of ESRD (thought to be 2010-01-24 00:00:00 HTN) s/p
+deceased donor kidney transplant in 2010-01-24 00:00:00, HTN and gout who
+presented to the ER with right leg swelling and pain x 3 days.
+He denies any recent injury or prolonged travel and has not had
+problems with leg swelling in the past. He additionally denies
+SOB or CP.  In the ED, patient was evaluated and noted to have a
+tender, erythematous right LE with a right calf measuring 43cm
+compared to 38 cm of the left calf. Bilateral LE dopplers were
+performed and showed a DVT in the right common femoral to the
+calf veins. Given his kidney disease, renal transplant was
+consulted in the ED and felt there were no active transplant
+issues. Patient was noted to be guaiac positive and does have a
+history of a colonic polyp, found in 2010-01-24 00:00:00. A Heparin gtt was
+started and the patient was admitted for further management.
+
+
+Past Medical History:
+ESRD ?2010-01-24 00:00:00 HTN s/p deceased donor renal transplant in 2010-01-24 00:00:00
+Gout
+HTN
+Impaired glucose tolerance
+Hyperlipidemia
+
+
+Social History:
+Born in 123 Any St., moved to US in 2010-01-24 00:00:00 at about age 23. He had
+worked in electronics but is now on disability. No tobacco,
+alcohol or IVDU.
+.
+
+
+Family History:
+father who died at 78 of kidney disease, mother who is in her
+80s and well. There is no history of diabetes or cancer in the
+family. He has one brother and two sisters who are well. He also
+has two children, ages 23(a daughter) and 17 (a son) who are
+well.
+
+Physical Exam:
+Vitals: T - 97.5, BP - 120/64, HR - 82, RR - 18, O2 - 96% RA
+Gen: Awake, alert, NAD
+HEENT: NC/AT; PERRLA, EOMI, OP clear, nonerythematous, MMM
+Neck: Supple, No LAD, JVP flat sitting upright
+Chest: CTAB
+Cardiac: S1, S2, no m/r/g ap123 Any St.ted
+ABD: Soft, NT, ND, +BS
+Rectal: brown stool, guaiac positive. No hemmorhoids seen.
+Ext: LE asymmetry, R>L with erythema and 1+ pitting edema in
+RLE. palpable pulses (2010-01-24 00:00:00) dorsalis pedis, bilaterally.
+Neuro: AAOx3, moves all 4, 5/5 strength, sensation intact to
+light touch
+
+
+Pertinent Results:
+IMAGING:
+.
+BILATERAL LOWER EXTREMITY DOPPLER ULTRASOUND: Eveleen Lipnicki scale, color,
+Doppler sonIyauna Dicaprio of the right and left common femoral,
+superficial femoral and popliteal veins were performed. There is
+deep vein thrombosis extending from the right common femoral
+vein to the calf veins. There is no deep vein thrombosis within
+the left lower extremity. Respiratory phasicity is preserved in
+the left common femoral vein.
+.
+RENAL TRANSPLANT ULTRASOUND: A transplant kidney is seen in the
+right lower quadrant, measuring 12.4 cm. There is no
+hydronephrosis or renal calculi. The main renal artery and main
+renal vein are patent with normal waveforms. Resistive indices
+in the upper, mid, and lower poles are 0.66, 0.67, and 0.71,
+respectively. The bladder is well distended without abnormality.
+IMPRESSION: Normal renal transplant ultrasound. Patent
+vasculature with normal RIs.
+.
+2010-01-24 00:00:00: IVC filter placement
+IMPRESSION: Successful placement of retrievable Gunther tulip
+IVC filter via left common femoral vein approach. If indicated,
+this filter can be removed within two weeks of placement.
+.
+
+2010-01-24 00:00:00: Lung V/Q scan:
+IMPRESSION: Normal lung scan. No evidence of PE
+.
+
+
+Brief Hospital Course:
+Patient is a 54 year old male s/p renal transplant for ESRD
+(2010-01-24 00:00:00) without any identified risk factors for deep venous
+thrombosis. He presented to the hospital with right lower
+extremity swelling and tenderness for 3 days. A duplex
+ultrasound was performed in the ED and he was found to have a
+right femoral vein DVT that extended to his popliteal vein.
+.
+DVT: Patient had no clear risk factors for DVT and no prior
+history of DVTs. Patient was started on a weight-based heparin
+drip at admission. He was treated, with good effect, with
+oxycodone and acetominophen for pain. Because of the size of the
+thrombus and the clinically significant threat of pulmonary
+embolus, an IVC filter was placed by interventional radiology on
+2010-01-24 00:00:00. No contast was used for placement because of
+patient's renal insufficiency and it was placed via ultrasound
+guidance. Anticoagulation with heparin was held for procedures:
+filter placement and also endoscopy (see below). The heparin
+goal was a PTT 60-80. Patient was continued on heparin until
+2010-01-24 00:00:00 when he passed a grossly bloody stool in the morning.
+At that time he was tachycardic to 130's but continued to
+maintain his blood pressure around 130 systolic. His HCT on
+2010-01-24 00:00:00 was 29.7 On the morning of 2010-01-24 00:00:00 as 26.6. With
+this HCT drop, hemodynamic change, gross blood in his stool, and
+a single access point for fluids, it was decided that patient
+would be better served in a monitored setting so he was
+transferred to the intensive care unit.
+.
+Hypercoaguable workup so far has showed increased B2
+microglobulin which is nonspecific and frequently elevated in
+patient's with chronic renal insufficiency. Also increased
+Thrombin time which is expected given heparin anticoagulation.
+Patient should follow up as an outpatient with the coagulation
+clinic.
+Futher work-up was sent off and pending at time of discharge.
+His protein C level was elevated while protein S was within the
+normal range. He was Eveleen Lipnicki negative. Beta-2-glycoprotein 1
+antibodies (IGA, IGM, IGG) and factor V leiden were pending at
+time of discharge.
+.
+Extensive discussion took place between the primary medical
+team, primary care physician, Iyauna Dicaprio team, and interventional
+radiology team regarding removal of the patient's IVC filter, as
+it was initially placed as a temporary filter. The patient was
+brought down to IR to have the filter removed on 2010-01-24 00:00:00,
+however at that time it was found that the filter had
+thrombosed. He was then transferred to the [**Year (4 digits) **] to receive 24
+hours of local TPA via a central line that was placed in IR.
+Because of the risks involved in removal of the IVC including
+possible showering of emboli and difficulty removing due to
+fibrosis, the decision was made to leave the IVC filter in
+place, and as a result it will become a permanent IVC filter.
+.
+The patient was started on Coumadin on and his levels were
+carefully monitored given the potential interaction with his
+transplantation medications. He was discharged when his INR was
+therapeutic. He was not a candidate for lovenox given his renal
+insufficency. He was encouraged to elevated his leg when
+possible and wore Eveleen Lipnicki Dicaprio stocking to help with the edema. He was
+instructed to follow up with his primary care physician's office
+for weekly INR checks.
+.
+2. Guaiac Positive Stool: Patient was noted to have guaiac
+positive stool in the emergency room. A colonoscopy completed in
+2010-01-24 00:00:00 showed a nonbleeding polyp/adenoma. His hematocrit was
+noted to be down from 40 in 2010-01-24 00:00:00, but had been as low as 31
+prior. Upper and lower endoscopy on 2010-01-24 00:00:00 demonstrated an
+EG juntion ulcer which was biopsied, as well as three
+non-bleeding polyps in colon that were removed. These are a
+possible source of the initial guaiac positive result. Patient
+passed a grossly bloody stool on 2010-01-24 00:00:00 and became hemodynamically
+unstable at that time. He was transferred to the intensive care
+unit at that time for further management, where he received two
+units of packed red blood cells, and an additional 1 unit two
+days later. A repeat colonoscopy was completed on 2010-01-24 00:00:00
+which demonstrated no sources of bleeding. He had no further
+episodes of bleeding and his HCT remained stable. It was felt
+the bleeding was from the biospy/polyp removal sites which
+resolved with time.
+.
+He was maintained on a twice daily proton pump inhibitor, which
+he should continue to take.
+.
+The biopsy obtained was positive for H. Pylori, for which
+treatment was initiated. Due to interactions with his
+cyclosporine, patient was started on 2010-01-24 00:00:00 with a regimen of
+flagyl and tetracycline also with peptobismul to complete 14 day
+course.
+.
+3 ESRD s/p transplant: Patient was continued on his
+immunosuppression regime and maintained a stable creatinine
+throughout his hospitalization, at this baseline of 1.7-2.0. An
+US study of the graft showed good flow, normal functioning
+kidney. Patient was followed by the transplant renal team. He
+was continue Cyclosporine, Imuran and Prednisone. His
+medications were renally dosed, and he received intravenous
+fluids with bicarbonate prior dye received while attempt was
+made to remove his IVC filter.
+.
+4 HTN
+- Patient's lopressor and enalapril home medications were
+discontinued initially at time of admission. After his 2010-01-24 00:00:00 stay,
+his beta blocker was slowly re-introduced and tolerated well. If
+indicated, his hydralazine and vasotec should be re-introduced
+as an outpatient..
+.
+5 Gout: Patient carries diagnosis of gout, but could not recall
+any joint tap in the past that would have provided a crystaline
+diagnosis. He had what was considered to be a flare of his gout
+on 2010-01-24 00:00:00. The pain was similar to 123 Any St.us flare. With
+co-ordination with the renal time, colchicine was started.
+Additionally, in consultation with the renal transplant team,
+the patient was started on a 123 Any St.one taper. This was started
+at 40 mg 2010-01-24 00:00:00 and decreased 5 mg qday.
+.
+If not 123 Any St.usly completed, the patient may benefit from a
+dianostic tap of a joint in the event of future gout flares to
+avoid higher doses of prednisone if his joint pain is not in
+fact gout. At time of discharge, he was on tylenol 1000mg TID
+for left foot pain felt to be secondary to bumping his foot into
+his IV pole; the pain responded well to tylenol.
+.
+6. Tachycardia: Patient initially had significat tachycardia to
+the 140s while ambulating or exerting himself once he came out
+of the intensive care unit. The trend improved with intravenous
+fluid re123 Any St.n. It was felt that his tachycardia was secondary
+to a volume depleted state as he had been NPO; it was also
+likely that he had significantly decreased venous return with
+the large right DVT. To ensure that he did not have a pulmonary
+embolus that was contributing to the tachycardia, a V/Q scan was
+completed which was normal.
+His tachycardia resolved during his stay prior to discharge.
+.
+7. Glucose intolerance: Patient's blood glucose finger sticks
+trended back down to the normal range after his prednisone taper
+was completed. His Hb A1c was checked and found to be 6.7. He
+was maintained on a diabetic diet.
+.
+8. FEN/Propylaxis/Access: Patient's electrolytes were monitored
+carefully and treated as needed. He was kept on a proton pump
+inhibitor, as well as a bowel regimen. He was ambulating
+regularly without difficulty at time of discharge. He had a
+mid-line placed during his stay due to access difficulties.
+.
+9. Discharge: Patient was ambulating without difficulty or pain
+and his INR was therapeutic at time of discharge. He was
+instructed to follow up with his primary care physician for both
+an appointment as well as an INR check, to which he expressed
+good understanding.
+
+Medications on Admission:
+Colchicine 0.6 mg QD
+Hydralazine 50 mg UPMCE
+Imuran 50 mg QD
+Lopressor 100 mg QD
+Cyclosporine 50 mg UPMCE
+Prednisone 5 mg QD
+Probenecid 500 mg UPMCE
+Vasotec 10 mg QD
+Ranitidine 150 mg UPMCE
+
+
+Discharge Medications:
+1. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+as needed for Pain.
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+4. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+6. Cyclosporine Modified 25 mg Capsule Sig: Two (2) Capsule PO
+Q12H (every 12 hours).
+7. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+9. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 8 days.
+Disp:*16 Tablet(s)* Refills:*0*
+10. Bismuth Subsalicylate 262 mg Tablet, Chewable Sig: Two (2)
+Tablet PO QID (4 times a day) for 8 days.
+Disp:*64 Tablet(s)* Refills:*0*
+11. Tetracycline 250 mg Capsule Sig: Two (2) Capsule PO Q12H
+(every 12 hours) for 8 days.
+Disp:*32 Capsule(s)* Refills:*0*
+12. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+13. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+14. Warfarin 1 mg Tablet Sig: One (1) Tablet PO DAILY16 (Once
+Daily at 16).
+Disp:*30 Tablet(s)* Refills:*2*
+15. Outpatient Lab Work
+- Please have your INR/PTT (Coumadin level) checked within 1
+week of discharge.
+- Please have a CBC (blood counts) and Chemistry 7 (to check
+your creatinine) drawn within one week of discharge.
+Have results sent to your primary care physician Eveleen Lipnicki.
+16. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Right leg deep vein thrombosis
+lower GI bleeding
+.
+Secondary diagnoses:
+- Esophogeal ulcer
+- Colonic polyps (removed)
+- ESRD s/p deceased donor renal transplant in 2010-01-24 00:00:00
+- Gout
+- HTN
+- Impaired glucose tolerance
+- Hyperlipidemia
+
+
+Discharge Condition:
+Stable, ambulating without difficulty. Vital signs stable.
+
+
+Discharge Instructions:
+You were admitted for treatment of a deep vein thrombosis. You
+were treated with a filter in your inferior vena cava and also
+heparin to thin your blood. These interventions were done so
+that the thrombosis would not move to your lung. You were
+transitioned to an oral medication called Coumadin to thin your
+blood. The levels of Coumadin will need to be followed closely.
+You also underwent a colonoscopy and experienced some bleeding
+which resolved.  Your hydralazine and enalapril were held while
+you were hospitalized due to bleeding.  Please see your primary
+care physician before restarting this medication.
+.
+If you experience fever, chills, nausea, vomiting, chest pain,
+shortness of breath, leg swelling, bleeding, lightheadedness, or
+any other concerning symptoms, please call your primary care
+physician immediately or go to the nearest emergency room.
+
+Followup Instructions:
+You will need to follow up with your primary care physician, Dicaprio.
+Dicaprio, within a week of discharge, please call him Monday
+morning at (test@mail.com to make an appointment.
+.
+You will also need to have your Coumadin level followed very
+closely to ensure your blood levels are correct. Please arrange
+to have your level checked during week of discharge through Dr. Eveleen Lipnicki Dicaprio prescription for this will be given to you
+at time of discharge.
+.
+Please also follow up with your renal (kidney) doctor within 2010-01-24 00:00:00
+weeks of discharge.
+.
+You have the following [** Location **]usly arranged appointment as noted
+below:
+
+Provider: Eveleen Lipnicki, M.D. Date/Time:2010-01-24 00:00:00 11:10
+
+
+                             Iyauna Dicaprio MD 361
+

@@ -1,0 +1,72 @@
+Admission Date:  2007-02-06 00:00:00     Discharge Date:  2007-02-06 00:00:00
+
+Date of Birth:                  Sex:  M
+
+Service:  Neurosurgery
+
+HISTORY OF PRESENT ILLNESS:  Patient was an 84-year-old man,
+who had a fall at home after a bad headache with positive
+loss of consciousness.  911 was called and he was brought to
+the Emergency Room awake and alert.  Initial CAT scan of the
+head did show a small right subdural hematoma as well as left
+temporal contusions with ventricular blood.  He was scheduled
+for a MRI of the brain when his mental status deteriorated.
+
+Repeat CAT scan of the head showed a larger subdural hematoma
+on the left side as well as increased contusions in the left
+temporal region and blood in the fourth ventricle, which was
+increased.
+
+He was emergently taken to the OR for left craniotomy and
+evacuation of a subdural hematoma.
+
+PAST MEDICAL HISTORY:
+1. Coronary artery disease status post MI in 2007-02-06 00:00:00.
+2. CABG x4 in 2007-02-06 00:00:00.
+3. Non-insulin dependent-diabetes mellitus.
+4. GERD.
+5. Cataracts.
+6. Glaucoma.
+7. Hypertension.
+8. Osteoarthritis.
+9. Prostate cancer status post TURP in 2007-02-06 00:00:00.
+10. Status post colon resection for adenoma.
+
+MEDICATIONS AT TIME OF ADMISSION:
+1. Isosorbide.
+2. Lasix.
+3. Procardia.
+4. Naprosyn.
+5. Diazepam.
+6. Chlorpropamide.
+
+SOCIAL HISTORY:  He was not a smoker.  Did not drink alcohol.
+
+ALLERGIES:  He has allergies to dye and shellfish.
+
+HOSPITAL COURSE:  Postoperatively, he remained intubated.
+His vital signs were stable.  His left pupil was nonreactive
+at 6 mm and the right was 2 mm and nonreactive.  He had no
+corneal reflexes, no gag response or cough.  He had bloody
+drainage from the ventricular drain.  He had a poor
+prognosis.
+
+On 2007-02-06 00:00:00 he had a cold caloric test, which was
+negative, had no response.  He continued to be managed in the
+Intensive Care Unit.  With discussion initially with his wife
+and daughter and later with a nephew, and after much
+discussion, the family opted to withdraw care.
+
+On 2007-02-06 00:00:00 at 3:20 p.m., the patient expired.
+
+
+
+                       Zenab Bentley, M.D.  13968
+
+Dictated By:Zenab Bentley
+
+MEDQUIST36
+
+D:  2007-02-06 00:00:00  12:04
+T:  2007-02-06 00:00:00  07:27
+JOB#:  13968

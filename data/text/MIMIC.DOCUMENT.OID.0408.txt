@@ -1,0 +1,398 @@
+Admission Date:  2009-04-20 00:00:00              Discharge Date:   2009-04-20 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Valium
+
+Attending:Zakiya Steiner
+Chief Complaint:
+s/p cardiac arrest
+
+Major Surgical or Invasive Procedure:
+Mechanical ventilation
+Placement of a right subclavian vein line
+Bronchoscopy with bronchoalveolar lavage
+Placement of an arterial line
+Placement of dart catheter for pneumothorax and removal
+Trach exchange
+PICC line placement
+[**First Name3 (LF) 278**] replacement
+
+
+History of Present Illness:
+Mr. Zakiya Steiner is a 24yo M from UPMCE Rehab baseline Alert and
+Orientedx3 , h/o Parkinson's s/p trach, multiple aspiration
+events, HTN who was having BM today at Rehab, became cyanotic,
+pulseless and recieved chest compressions. He was never shocked
+or given meds but had return of spontaneous circulation at
+rehab. On arrival to the ED, he was put on vent for poor resp
+effort. Was making non-purposeful spont mvmts. EKG showed sinus
+bradycardia. Labs were unremarkable with a lactate of 2.0. Prior
+to leaving the ED, he is following commands, communicating with
+his wife by motioning. He is complaining of pain in ribs. Also
+in the ED, CT head 123 Any St.inarily read as not acute intracranial
+process, CXR with RUL and RML infiltrates c/w aspiration. He was
+hemodynamically stable and cooling protocol was not initiated as
+he was neurologically improving. No meds were given in ED except
+for 1L NS.
+
+On arrival to the ICU, we was responding to commands and c/o
+left sided rib pain.
+
+Review of systems: Pt unable to answer extensive ROS at this
+time.
+
+
+Past Medical History:
+1. h/o aspiration PNA - Tx with levo, unasyn, vanco/zosyn in the
+past
+2. h/o aspiration s/p swallow eval with swallowing difficulty,
+s/p UPMCE placement on 2009-04-20 00:00:00 - pt continues to feed for pleasure
+at Heb Reb
+3. Parkinson's
+4. Osteoporosis
+5. T11/12 compression fx
+6. LLE osteomyelelitis as a child/Chronic osteomyelitis,
+quiescent.
+7. granulomatous liver disease
+8. LUE rotator cuff tear
+9. Prostate cancer s/p orchiectomy in 2009-04-20 00:00:00
+10. s/p laminectomy L4-5
+11. Cataracts s/p surgery
+2009-04-20 00:00:00. Glaucoma
+13. Hypertension
+14. Pt s/p recent tx for pseudomonas and aspiration PNA at heb
+reb
+15. s/p Trach with night ventilator support.
+16. s/p wrist fx
+17. chronic constipation
+18. Chronic abd pain- per Heb Reb notes
+
+Social History:
+The patient has a sixty-pack-year history of tobacco. He quit in
+2009-04-20 00:00:00. He lives at UPMCE rehab MACU for last 3 hrs. He is a
+retired history professor. Giacomin Bieler, no alcohol intake.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Vitals: 96.4 49 110/52 22 99% on MMV
+
+General Appearance: Thin elderly male, interactive. Answers
+simple questions, follows commands
+Head, Ears, Nose, Throat: Normocephalic, Poor dentition,
+surgical left pupil
+Cardiovascular: (S1: Normal), (S2: Normal).  Bradycardic. No
+MRG.
+Respiratory / Chest: (Expansion: Symmetric), 2009-04-20 00:00:00 BS at right,
+but o/w clear. ttp over left chest over ribs
+Abdominal: Soft, tender. No guarding or rebound. Bowel sounds
+present, Not Distended. Area around G tube erythematous, no
+purulence
+Extremities: Right lower extremity edema: Trace, Left lower
+extremity edema: Trace
+
+
+Pertinent Results:
+Admission laboratories:
+2009-04-20 00:00:00 03:00PM WBC-11.0 RBC-3.16* Hgb-9.8* Hct-30.6* MCV-97
+Plt Ct-441*
+2009-04-20 00:00:00 09:04AM Neuts-88.2* Lymphs-8.9* Monos-2.7 Eos-0.1
+Baso-0.2
+2009-04-20 00:00:00 03:00PM PT-13.4 PTT-26.0 INR(PT)-1.1
+2009-04-20 00:00:00 07:17PM Glucose-115 UreaN-23 Creat-0.7 Na-140 K-4.9
+Cl-104 HCO3-26
+2009-04-20 00:00:00 05:05AM ALT-1 AST-13 LD(LDH)-132 AlkPhos-53 TotBili-0.3
+2009-04-20 00:00:00 07:17PM Albumin-3.5 Calcium-9.1 Phos-3.3 Mg-2.1
+2009-04-20 00:00:00 03:00PM ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+
+URINE:
+2009-04-20 00:00:00 12:30PM Color-Amber Appear-Clear Sp Bieler-1.021
+2009-04-20 00:00:00 12:30PM Blood-NEG Nitrite-NEG Protein-25 Glucose-NEG
+Ketone-15 Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+2009-04-20 00:00:00 12:30PM RBC-0 WBC-0-2 Bacteri-FEW Yeast-NONE Epi-0-2
+TransE-0-2
+2009-04-20 00:00:00 12:30PM CastHy-0-2
+
+-------
+MICRO:
+2009-04-20 00:00:00, 2009-04-20 00:00:00 Sputum Cx:
+PSEUDOMONAS AERUGINOSA
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     8 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------  =>16 R
+PIPERACILLIN/TAZO----- =>128 R
+TOBRAMYCIN------------   <=1 S
+2009-04-20 00:00:00 MRSA screen: negative
+2009-04-20 00:00:00 UCx: negative
+2009-04-20 00:00:00 BCx: NGTD
+2009-04-20 00:00:00 BCx: NGTD
+-------
+Imaging:
+
+Head CT (2009-04-20 00:00:00):
+No acute intracranial process.
+
+Echo (2009-04-20 00:00:00):
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thickness,
+cavity size and regional/global systolic function are normal
+(LVEF >55%). There is no ventricular septal defect. RV with
+normal free wall contractility. The ascending aorta is mildly
+dilated. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+Compared with the report of the prior study (images unavailable
+for review) of 2009-04-20 00:00:00, no definite change.
+
+CTA chest (2009-04-20 00:00:00):
+1)No pulmonary embolism or acute aortic pathology.
+2)Bibasilar atelectasis and secretions in the lower lobes
+bilaterally could be due to aspiration.
+3)Multifocal consolidation in the lower lobes and left upper
+lobe to a lesser extent is most likely pneumonia.
+4)Small right pneumothorax with pigtail catheter in situ.
+5)Calcified mediastinal lymph nodes in addition to granulomas in
+the liver and spleen are most likely due to prior granulomatous
+exposure.
+
+Abd/pelvis CT (2009-04-20 00:00:00):
+1. Bilateral pleural effusions with associated atelectasis.
+2. No complications of 2009-04-20 00:00:00 placement are noted.
+DISCHARGE LABS:
+2009-04-20 00:00:00 02:57AM WBC-5.3 RBC-2.76* Hgb-8.6* Hct-26.1* MCV-95 Plt
+Ct-269
+2009-04-20 00:00:00 05:10AM Neuts-76.7* Lymphs-15.4* Monos-5.4 Eos-2.1
+Baso-0.4
+2009-04-20 00:00:00 02:57AM Glucose-87 UreaN-7 Creat-0.5 Na-139 K-3.6
+Cl-105 HCO3-26
+2009-04-20 00:00:00 02:57AM Calcium-8.1* Phos-2.4* Mg-1.6
+
+Brief Hospital Course:
+Summary: 24yo M from UPMCE Rehab baseline Alert and Orientedx3
+, h/o Parkinson's s/p trach, multiple aspiration events, HTN who
+was having BM at Rehab, became cyanotic, pulseless and recieved
+chest compressions.
+
+# Shock: The patient required dopa infusion at the beginning of
+his hospital stay. No organisms grew in his blood, however, he
+did have a multifocal pneumonia. A subclavian line was placed
+for better access and hemodynamic monitoring. The patient was
+noted to have a low CVP so he was given intermittent boluses of
+normal saline. In addition, he was continued on antibiotics for
+some component of septic shock, though he never had high
+lactates.
+
+# Respiratory failure with multifocal ventilator associated
+pneumonia: The patient has a tracheostomy at baseline and uses
+ventilator support at night. The patient was noted to have
+increased secretions, increased needs on his ventilator,
+infiltrates in the RML/RUL and a trach cuff UPMCE. He was
+empirically started on vancomycin and cefepime for treatment of
+pneumonia. A bronchoscopy was done to clear the secretions and
+grew a resistant form of pseudomonas. Despite therapy with
+cefepime, the patient still continued to grow pseudomonas in his
+sputum. Tobramycin nebulizers were added to his regimen 2009-04-20 00:00:00.
+Despite the use of these antibiotics, the patient still required
+higher assisted control ventilation. In addition, he had a trach
+cuff Bieler, [**First Name3 (LF) **] his trach was switched and the [**First Name3 (LF) 3515**] resolved. The
+patient should continue Cefepime until 2009-04-20 00:00:00, and the Giacomin Bieler
+nebs should continue for at least another week afterwards
+(~2009-04-20 00:00:00). Pt also with a component of fluid overload, as he
+received IVF on initial resuscitation. Diuresing gently with
+Lasix - can likely d/c Lasix in several days when patient is
+euvolemic.
+
+# s/p cardiac arrest: The patient presented s/p cardiac arrest
+from his living facility. He had chest compressions in the
+process. Reportedly, the patient's mental status returned to
+baseline shortly after compressions, so he did not undergo a
+cooling protocol. Since he quickly returned back to his
+baseline, it was felt that his cardiac event was most likely due
+to mucous plugging leading to hypoxia and compressions displaced
+the mucous plug. A pulmonary embolus was ruled out on CTA of the
+chest.
+
+# Pneumothorax: The patient developed a pneumothorax, most
+likely due to chest compressions during his cardiac arrest.
+Interventional pulmonology placed a dart catheter to suction.
+The pneumothorax improved and the catheter was eventually pulled
+on 2009-04-20 00:00:00.
+
+# Rib fractures: The patient sustained rib fractures after chest
+compressions. He continued to have pain in the area. He required
+a lidocaine patch, fentanyl patch, and PRN fentanyl IV doses to
+control his pain.
+
+# Abdominal pain: The patient reported diffuse abdominal pain
+that was tender to palpation. His G tube was leaking, so a CT of
+the abdomen and pelvis were done to rule out an associated
+abscess. The CT did not show any pathology. Per the records from
+UPMCE Rehab, the patient has a history of chronic abdominal
+pain. Also possible that the pain is secondary to the rib
+fractures sustained during CPR.
+
+# G tube: The patient had his UPMCE replaced by GI on 2009-04-20 00:00:00.
+Tube feeds can be restarted.
+
+# Eye infection: Treated with Sulfacetamide eye drops, course to
+end 2009-04-20 00:00:00.
+
+# Constipation: Pt had difficulty with bowel movements while
+hospitalized and on Fentanyl for pain control. He was given
+Colace, Senna, Miralax, and Lactulose. Please assess for bowel
+movements daily and discontinue Lactulose as tolerated.
+
+Medications on Admission:
+Enoxaparin Sodium 30 mg SC DAILY
+Acetaminophen 650 mg PO/NG Q6H:PRN pain
+Fluticasone Propionate NASAL 1 SPRY to both nares UPMCE
+Albuterol 0.083% Neb Soln 1 NEB IH UPMCE
+Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS
+Albuterol-Ipratropium 4 PUFF IH UPMCE
+Mirapex (Pramipexole) 0.125 mg Oral seven times daily and 0.0625
+QPM Bisacodyl 10 mg PR DAILY:PRN constipation
+Carbidopa-Levodopa (25-100) 2 TAB PO/NG QID at 8a, 11a, 2p, 8p
+Polyethylene Glycol 17 g PO/NG DAILY
+Carbidopa-Levodopa (25-100) 3 TAB PO/NG TID at 5a, 7a, and 11p
+Psyllium 1 PKT PO TID
+Chlorhexidine Gluconate 0.12% 15 mL ORAL QID swish and spit
+Senna 1 TAB PO/NG UPMCE
+Comtan (Entacapone) 200 mg Oral seven times daily with carbidopa
+Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES UPMCE
+TraMADOL (Ultram) 25 mg PO Q6H:PRN pain
+Bacroban topically UPMCE to eyelids
+Zosyn 3.375 IV q 6HRS- 10 day course completed 2009-04-20 00:00:00
+
+Discharge Medications:
+1. Carbidopa-Levodopa 25-100 mg Tablet 2009-04-20 00:00:00: Two (2) Tablet PO
+QID (4 times a day): at 8am, 11am, 2pm, 8pm
+.
+2. Carbidopa-Levodopa 25-100 mg Tablet 2009-04-20 00:00:00: Three (3) Tablet PO
+TID (3 times a day): at 5am, 7am, 11pm.
+3. Enoxaparin 30 mg/0.3 mL Syringe 2009-04-20 00:00:00: Thirty (30) mg
+Subcutaneous DAILY (Daily).
+4. Acetaminophen 325 mg Tablet 2009-04-20 00:00:00: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+5. Fluticasone 50 mcg/Actuation Spray, Suspension 2009-04-20 00:00:00: One (1)
+Spray Nasal UPMCE (2 times a day).
+6. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization UPMCE: One (1) neb Inhalation UPMCE (2 times a day).
+7. Latanoprost 0.005 % Drops UPMCE: One (1) Drop Ophthalmic HS (at
+bedtime): both eyes.
+8. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol UPMCE: Four
+(4) Puff Inhalation UPMCE (2 times a day).
+9. Pramipexole 0.125 mg Tablet UPMCE: One (1) Tablet PO seven
+times daily ().
+10. Pramipexole 0.125 mg Tablet UPMCE: 0.5 Tablet PO Qpm ().
+11. Bisacodyl 10 mg Suppository UPMCE: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+12. Polyethylene Glycol 3350 17 gram/dose Powder UPMCE: Seventeen
+(17) g PO DAILY (Daily).
+13. Chlorhexidine Gluconate 0.12 % Mouthwash UPMCE: Fifteen (15)
+ML Mucous membrane QID (4 times a day).
+14. Senna 8.6 mg Tablet UPMCE: One (1) Tablet PO BID (2 times a
+day).
+15. Entacapone 200 mg Tablet UPMCE: One (1) Tablet PO seven times
+daily (): give with carbidopa.
+16. Dorzolamide-Timolol 2-0.5 % Drops UPMCE: One (1) Drop
+Ophthalmic UPMCE (2 times a day): both eyes.
+17. Tramadol 50 mg Tablet UPMCE: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+18. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated UPMCE:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): 12
+hours on, 12 hours off.
+19. Fentanyl 25 mcg/hr Patch 72 hr UPMCE: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+20. Docusate Sodium 50 mg/5 mL Liquid UPMCE: One Hundred (100) mg
+mg PO BID (2 times a day).
+21. CefePIME 2 g IV Q24H
+22. Tobramycin 300 mg/5 mL Solution for Nebulization UPMCE: One
+(1) neb Inhalation UPMCE (2 times a day).
+23. Sulfacetamide Sodium 10 % Drops UPMCE: 1-2 Drops Ophthalmic
+Q6H (every 6 hours) for 2 days: for total 7 day course.
+24. Lactulose 10 gram/15 mL Syrup UPMCE: Thirty (30) ML PO TID (3
+times a day).
+25. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+26. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+Temporary Central Access-ICU: Flush with 10mL Normal Saline
+daily and PRN.
+27. Lasix 20 mg Tablet UPMCE: One (1) Tablet PO once a day: please
+eval fluid status and d/c when patient is euvolemic.
+28. Psyllium     Packet UPMCE: One (1)  PO three times a day.
+29. Bactroban 2 % Ointment UPMCE: One (1)  Topical twice a day: to
+eyelids.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Cardiac Arrest in setting of likely mucus plug
+Pneumonia
+Pneumothorax
+Rib fractures in setting of CPR
+.
+Secondary Diagnosis:
+Hypertension
+Parkinson's disease
+
+
+Discharge Condition:
+Mental Status: Clear
+Activity Status: Bedbound.
+Level of Consciousness: Able to answer questions and follow
+commands.
+
+
+Discharge Instructions:
+Dear Dr. Bieler,
+.
+You were admitted to the hospital after you were found to be
+pulseless and received chest compressions.
+.
+In the hospital, you were found to have pneumonia. You have been
+started on antibiotics, which should be continued until 2009-04-20 00:00:00.
+
+.
+You had a pneumothorax, which is abnormal air in your lung
+cavity that makes the lung collapse. You had a chest tube
+placed, and the lung has now re-expanded.
+.
+The increased chest and abdominal pain are likely secondary to
+the rib fractures that you sustained with CPR. You are currently
+on medications to help control the pain.
+.
+The following changes were made to your medications:
+#. START Cefepime 2g every 24 hours until 2009-04-20 00:00:00
+#. START Tobramycin inhalers twice daily until 2009-04-20 00:00:00
+#. START Lidocaine and Fentanyl patches to help with pain
+#. START Lasix 20mg daily until you are no longer fluid
+overloaded
+#. TAKE Sulfacetamide drops in your left eye for two more days
+#. START lactulose which should likely be discontinued soon
+#. Increased Tramadol to 50mg q4hrs
+.
+It was a pleasure meeting you and taking part in your care.
+
+Followup Instructions:
+Please follow up with your primary care physician at your living
+facility.
+
+
+

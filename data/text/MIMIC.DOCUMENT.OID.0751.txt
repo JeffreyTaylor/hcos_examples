@@ -1,0 +1,150 @@
+Admission Date:  2008-06-15 00:00:00              Discharge Date:   2008-06-15 00:00:00
+
+Date of Birth: 1956-06-12 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Percocet
+
+Attending:Jaewon Fadgen
+Chief Complaint:
+Alcohol Intoxication
+
+Major Surgical or Invasive Procedure:
+Endoctrachial intubation
+
+
+History of Present Illness:
+44 y.o. male with history of numerous ED visits (6 ED visits
+since 2008-06-15 00:00:00) for alcohol intoxication, presents via [**Location (un) 86**]
+EMS from local neighborhood attempting to get on public
+tranportation. Pint of vodka was found on pt and states "drank
+alot today". In ambulance, he was breathing but not responsive.
+Found to have bottle of lithium on him. Intubated with ETT to
+protect airway. It was initially in right mainstem and then it
+was corrected. Alcohol level in 400s. CXR showed left basilar
+opactiy so put on Vanco and Zosyn for concern of aspiration pna.
+CT head negative for ICH.
+
+In ED, vitals were: 83, 113/62, 14 97& AC 550 by 14 PEEP 14,
+FiO2 50%. He was given Dextrose, fentanyl, midazolam, zosyn,
+vanco, 1LNS
+In ICU, vitals were: 07.1=t, NSR HR 84, BO 119/67, RR 11, 99% on
+CMV Assist, TV 500, RR 12, PEEP 5, FiO2 49. He was given versed
+and fentanyl for sedation.
+
+
+Past Medical History:
+1. Alcoholism
+2. Depression
+3. Pilonidal cyst
+4. Empyema in 2008-06-15 00:00:00
+
+Social History:
+Pt is currently divorced with 3 children. His wife has physical
+custody of the children and they share legal custody. The wife
+makes it difficult for him to see his children, which addes to
+his alcoholism. He works in sales of solar-powered parking
+meters. He drinks 1L vodka daily. He denies any tobacco or
+recreational drug use.
+
+
+Family History:
+His father, both grandfathers, and many other on his father's
+side struggle with alcoholism. Both his grandmothers died of
+strokes. He is unaware of anyone with history of MIs.
+
+Physical Exam:
+General: sedated on fentanyl and versed. Looks comfortable.
+Pulm: bilateral breath sounds, scattred rhonchi bilterally, no
+crackles
+Cardio: RRR, no m/r/g
+Abd: soft, nt, nd
+Neuro: sedated
+Ext: palp radial adn Dp pulses bilaterally. No pedal edema. no
+calf swelling.
+
+
+Pertinent Results:
+Tox Screen:
+2008-06-15 00:00:00 02:40PM   LITHIUM-0.3*
+2008-06-15 00:00:00 04:15PM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+2008-06-15 00:00:00 02:40PM   ASA-NEG ETHANOL-429* ACETMNPHN-NEG
+bnzodzpn-POS barbitrt-NEG tricyclic-NEG
+
+CT Head: No acute intracranial process. No fracture.
+
+CXR: In comparison with study of 2008-06-15 00:00:00, the patient has taken a
+much
+better inspiration. Continued enlargement of the cardiac
+silhouette with left ventricular prominence. However, no
+vascular congestion or pleural effusion.  Specifically, no
+evidence of acute focal pneumonia.
+
+The dilated gas-filled structure in the left upper quadrant of
+the abdomen is no longer ap123 Any St.ted.
+
+KUB: Three views show the bowel gas pattern to be essentially
+within
+normal limits without evidence of obstruction. Of incidental
+note is a spina bifida occulta at L5.
+
+
+Brief Hospital Course:
+1. Alcohol intoxication: Patient has history of alcohol abuse
+and several admissions of intoxication. CIWA scale for alcohol
+withdrawal with good effect.  He desires prolonged abstinance.
+
+2. Depression:  Reports taking lithium and wellbutrin but does
+not have a current provider.  Cajun Villafane NOT have these given while an
+inpatient.  At the time of discharge, prescription for
+wellbutrin was provided but NOT for lithium.  Short-term new PCP
+Cajun Villafane was planned so as to initiate long-term treatment.
+
+3. Respiratory failure: He was intubated for airway protection
+but was able to extubated quickly after admission.  Initially
+felt to have possible aspiration, but no infiltrate on CXR and
+he was afebrile; no PNA treatment given.
+
+
+
+Medications on Admission:
+1. Lithium 300 mg daily
+2. Wellbutrin SR 100 mg daily
+
+Discharge Medications:
+1. Wellbutrin SR 100 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO once a day.
+Disp:*30 Tablet Sustained Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Alcohol abuse
+Respiratory failure
+Abdominal pain
+Depression
+
+
+Discharge Condition:
+Hemodynamically stable, ambulatory.
+
+Discharge Instructions:
+You were admitted with alcohol intoxication and have detoxed.
+It will be essential that you follow-up with a new primary care
+provider so that you can continue treatment for depression and
+alcohol abuse.
+
+Followup Instructions:
+Department: UPMCE
+When: MONDAY 2008-06-15 00:00:00 at 3:00 PM
+With: [**First Name8 (NamePattern2) 5407**] Cajun Villafane, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+

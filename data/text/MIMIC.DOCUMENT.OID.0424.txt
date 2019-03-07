@@ -1,0 +1,179 @@
+Admission Date:  2012-06-07 00:00:00              Discharge Date:   2012-06-07 00:00:00
+
+Date of Birth: 1990-06-01 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Codeine / Meperidine / Iodine Containing Agents Classifier
+
+Attending:Aniston Skrok
+Chief Complaint:
+Autoimmune hepatitis
+HCC
+
+Major Surgical or Invasive Procedure:
+Left hepatic lobectomy, caudate lobe resection, cholecystectomy,
+intraoperative ultrasound.
+
+
+History of Present Illness:
+The patient is a 68-year-old male with a history of auto-immune
+hepatitis and cirrhosis who developed right upper quadrant
+abdominal pain. An ultrasound demonstrated a large mass in the
+right lobe of the liver that on biopsy was consistent with
+hepatocellular carcinoma. His AFP was 336. A CT scan of the
+chest and abdomen demonstrated no evidence of pulmonary
+metastases. The patient had a large mass lesion measuring 12.7 x
+9.2 x 11.2 cm arising primarily in the medial segment of the
+left lobe. The middle hepatic vein was not visualized but the
+right hepatic vein and the left lateral segment hepatic veins
+were identified. The mass lesion superiorly appears to abut not
+invade the right lobe of the liver. The patient does not have
+evidence of portal hypertension. The patient after informed
+consent is now brought to the operating room for left hepatic
+lobectomy, possible left trisegmentectomy, caudate lobe
+resection and cholecystectomy.
+
+
+Past Medical History:
+hyperchol, HTN, CAD s/p CABG (echo --> EF 50%), NIDDM
+
+Social History:
+He has no history of alcohol use, smoking, IV drug use, tattoos,
+or marijuana use. BS degree. Retired in 2012-06-07 00:00:00.  He was an
+accountant for over 48 years with UPMCE.  He has seven
+children and 20 grandchildren.
+
+Family History:
+diabetes, hypertension, prostate cancer, colon cancer.  His
+mother is alive
+at age 88.  His father died at age 88 of prostate cancer.
+
+Physical Exam:
+DISCHARGE PE:
+Vitals: 98.9  82  133/74  20  96% room air
+NAD
+RRR
+CTAB
+soft, ND, appropriately tender
+Incision: c/d/i
+no c/c/e
+
+Pertinent Results:
+ADMISSION LABS:
+2012-06-07 00:00:00 06:27PM BLOOD WBC-8.5# RBC-3.37* Hgb-10.7* Hct-32.4*
+MCV-96 MCH-31.7 MCHC-33.0 RDW-15.2 Plt Ct-334
+2012-06-07 00:00:00 06:27PM BLOOD Glucose-173* UreaN-21* Creat-1.2 Na-136
+K-5.2* Cl-103 HCO3-22 AnGap-16
+2012-06-07 00:00:00 06:27PM BLOOD ALT-486* AST-788* AlkPhos-208*
+TotBili-2.4*
+2012-06-07 00:00:00 06:27PM BLOOD Calcium-9.3 Phos-5.6* Mg-1.5*
+.
+DISCHARGE LABS:
+2012-06-07 00:00:00 05:07AM BLOOD WBC-4.7 RBC-3.16* Hgb-10.1* Hct-30.7*
+MCV-97 MCH-32.1* MCHC-33.0 RDW-14.9 Plt Ct-282
+2012-06-07 00:00:00 04:55AM BLOOD PT-11.8 PTT-23.2 INR(PT)-1.0
+2012-06-07 00:00:00 05:07AM BLOOD Glucose-140* UreaN-18 Creat-1.3* Na-136
+K-4.7 Cl-100 HCO3-35* AnGap-6*
+2012-06-07 00:00:00 05:07AM BLOOD ALT-171* AST-56* AlkPhos-194* Amylase-66
+TotBili-0.8
+2012-06-07 00:00:00 05:07AM BLOOD Lipase-123*
+2012-06-07 00:00:00 05:07AM BLOOD Albumin-2.6* Calcium-8.7 Phos-3.4 Mg-1.9
+
+Brief Hospital Course:
+The patient was admitted to Dr.Cherice Caves Hepatobiliary Surgery
+Service at the UPMCE on 2012-06-07 00:00:00.
+He underwent a left hepatic lobectomy, caudate lobe resection,
+cholecystectomy, intraoperative ultrasound.  For details of the
+operation, please refer to the operative report.  His
+postoperative course was uncomplicated.  Immediately
+post-operatively, he was transferred to the SICU.  He remained
+stable in the SICU on POD 1.  His pain control was increased and
+was deemed stable for transfer to the floor.  On POD 2, he
+remained afebrile and had good urine output.  His foley catheter
+was discontinued without difficulty voiding and he was advanced
+to a clear liquid diet, which he tolerated well.  On POD 3,
+Caves was consulted for his uncontrolled diabetes.  His central
+line was discontinued.  He remained afebrile and toelrating a
+clear liquid diet.  He reported no flatus or bowel movements.
+On POD 4, he continued to remain afebrile.  He continued to not
+have signs of return of bowel fuction and he was given a
+dulcolax suppository without a bowel movement.  His Aniston Skrok drain
+continued to have minimal output and it was discontinued.  On
+POD 5, he remained afebrile and tolerating a diabetic diet.  He
+had a fleets enema with a resultant bowel movement and he was
+started on milk of magnesia.  His pain continued to be
+well-controlled.  He was deemed stable for discharge on POD 6,
+afebrile, tolerating a diabetic diet, ambulating well with good
+pain control.  He will follow-up with Dr. Aniston Skrok.
+
+Medications on Admission:
+metoprolol 25mg UPMCE
+lisinopril 5mg daily
+HCTZ 12.5mg daily
+pravachol 40mg daily
+prilosec 20mg daiy
+ISS
+
+Discharge Medications:
+1. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+Disp:*30 Capsule(s)* Refills:*2*
+3. HOME MEDICATIONS
+Please resume all your 123 Any St.us home medications EXCEPT for a
+change in your insulin dosages.  You are on glargine 30 units at
+bedtime.  Please resume your 123 Any St.us humalog sliding scale.
+4. Insulin Glargine 100 unit/mL Solution Sig: Thirty (30) units
+(0.3mL) Subcutaneous at bedtime.
+Disp:*qs qs* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Autoimmune hepatitis
+HCC
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please call your physician or go to the emergency room for the
+following:
+- chest pain
+- shortness-of-breath
+- increased redness or drainage from your wounds
+- temperature > 101.5
+- inability to tolerate food
+- or other concerns
+.
+Please take your pain medication and stool softener as
+prescribed.
+.
+No heavy activity or lifting (anything that makes you strain)
+for 4-6 weeks.  Continue to ambulate.  You may shower, but no
+baths for 4-6 weeks.
+.
+Please keep a journal of your blood sugars to bring to your
+follow-up appointment with Dr. Caves.
+
+Followup Instructions:
+Please call Dr. Aniston Skrok at (test@mail.com to schedule a follow-up
+appointment.
+.
+Please follow-up with your primary care physician Aniston Skrok 1 week from
+your date of discharge.
+.
+Please call Dr. Aniston Skrok) at test@mail.com for a follow-up
+appointment.
+
+
+                             Cherice Caves MD, 246
+

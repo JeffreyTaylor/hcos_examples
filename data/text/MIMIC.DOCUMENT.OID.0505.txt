@@ -1,0 +1,235 @@
+Admission Date:  2011-09-17 00:00:00              Discharge Date:   2011-09-17 00:00:00
+
+Date of Birth: 1982-09-17 00:00:00 00:00:00             Sex:   M
+
+Service: OTOLARYNGOLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Fiala Gerking
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+1. Emergent cricothyrotomy with subsequent closure.
+2. Tracheotomy with a #7 Portex tracheotomy tube.
+
+
+History of Present Illness:
+69-year-old patient with a history of T1, N0, squamous cell
+carcinoma of the left true vocal cord, who presented to the ED
+with respiratory distress. Patient is currently under the care
+of
+Dr. Adrianjames at UPMCE and has been treated with external beam
+irradiation ending in 2011-09-17 00:00:00. Recently, he has apparently been
+treated for fungal mucusitis.
+
+In the ED, the patient was stridorous and was treated with
+heliox. Accessory muscle use were required for breathing. With
+treatment, the patient significantly improved. After a
+conversation with Drs. Adrianjames and Adrianjames Poe, the decision was
+made to go to OR for a tracheotomy to secure the airway.
+
+The plan was to bring the patient to the OR for this reason.
+
+
+Past Medical History:
+1.  Squamous cell carcinoma as stated in history of present
+illness.
+2.  Benign prostate hypertrophy.
+3.  Diabetes mellitus.
+4.  Gallbladder removal.
+5. coronary artery disease
+6. perirectal abscess in 2011-09-17 00:00:00
+7. osteoarthritis,
+
+
+Social History:
+ Mr. Poe Poe from 123 Any St. in 2011-09-17 00:00:00.  He
+worked as a construction engineer.  He is married and lives with
+his wife 123 Any St..  They have one daughter who lives in
+the area.  The patient smoked one pack per day of unfiltered
+cigarettes for 50 years.
+
+
+Family History:
+NC
+
+Physical Exam:
+Breathing well on heliox
+No neck adenopathy, no neck masses
+EOMI
+Fiberoptic exam:
+No supraglottic edema, left true cords minimally mobile,
+exudates
+over cords c/w possible fungal infection. Posterior glottic gap
+4-5 mm.
+Face symmetric
+
+
+Pertinent Results:
+2011-09-17 00:00:00 10:12PM   CK-MB-7 cTropnT-<0.01
+2011-09-17 00:00:00 02:00PM   TYPE-Poe PH-7.44 COMMENTS-GREEN TOP
+2011-09-17 00:00:00 02:00PM   freeCa-1.07*
+2011-09-17 00:00:00 01:53PM   GLUCOSE-239* UREA N-17 CREAT-0.9 SODIUM-136
+POTASSIUM-4.4 CHLORIDE-99 TOTAL CO2-30 ANION GAP-11
+2011-09-17 00:00:00 01:53PM   CK-MB-11* cTropnT-<0.01
+2011-09-17 00:00:00 01:53PM   CALCIUM-8.6 PHOSPHATE-2.3* MAGNESIUM-1.8
+2011-09-17 00:00:00 01:53PM   WBC-9.1 RBC-4.07* HGB-12.3* HCT-35.7* MCV-88
+MCH-30.1 MCHC-34.4 RDW-13.0
+2011-09-17 00:00:00 01:53PM   PLT COUNT-279
+2011-09-17 00:00:00 10:04AM   GLUCOSE-204* UREA N-15 CREAT-0.9 SODIUM-138
+POTASSIUM-4.5 CHLORIDE-98 TOTAL CO2-33* ANION GAP-12
+2011-09-17 00:00:00 10:04AM   estGFR-Using this
+2011-09-17 00:00:00 10:04AM   CALCIUM-9.5 PHOSPHATE-3.0 MAGNESIUM-2.0
+2011-09-17 00:00:00 10:04AM   WBC-10.8# RBC-4.47* HGB-13.6* HCT-39.6*
+MCV-89 MCH-30.4 MCHC-34.3 RDW-12.9
+2011-09-17 00:00:00 10:04AM   NEUTS-76.1* LYMPHS-16.9* MONOS-6.0 EOS-0.3
+BASOS-0.6
+2011-09-17 00:00:00 10:04AM   PLT COUNT-277
+2011-09-17 00:00:00 10:04AM   PT-13.7* PTT-33.3 INR(PT)-1.2*
+
+CXR 2011-09-17 00:00:00: Tracheostomy tube is in standard position with no
+evidence of pneumothorax or pneumomediastinum. Patchy and linear
+opacities in the
+retrocardiac regions bilaterally likely reflect atelectasis but
+aspiration is an additional consideration. Mild gastric
+distension has developed.
+
+ECG 2011-09-17 00:00:00: Sinus tachycardia. Wandering atrial pacemaker.
+Biatrial abnormality. Compared to the 123 Any St.us tracing of
+2011-09-17 00:00:00 there is biatrial abnormality and the rate has
+increased. Otherwise, no diagnostic interim change.
+
+SPECIMEN SUBMITTED: Tracheal window.
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+2011-09-17 00:00:00 2011-09-17 00:00:00 2011-09-17 00:00:00 DR. Fiala Gerking/dwc??????
+123 Any St.us biopsies:    2011-09-17 00:00:001L  GASTRIC BX'S, 2.
+  02-07732L  GI BX'S/bq/bb.
+  2011-09-17 00:00:006L  GALLBLADDER, OMENTUM, SEROSA
+
+DIAGNOSIS:
+
+Tracheal window:
+     - Dense fibroconnective tissue and ossified cartilage; no
+malignancy identified.
+
+     - Benign thyroid tissue.
+
+Clinical:  Airway obstruction.
+Gross: The specimen is received fresh labeled with the patient's
+name, "Poe, Adrianjames" and the medical record number and
+"tracheal window." It consists of two fragments of pink-tan soft
+tissue measuring 1.1 x 0.6 x 0.2 cm in aggregate. The specimen
+is entirely submitted in cassette A.
+
+
+
+
+Brief Hospital Course:
+2011-09-17 00:00:00 pt transferred to floor from ICU
+
+2011-09-17 00:00:00 pt had speech and swallow consult which showed he can have
+meds, thin liquids and soft solids PO, pt encouraged to self
+suction, spoke to daughter who would like pt to go to rehab
+
+2011-09-17 00:00:00 pt had trach cuff taken down, and PT consult as well as
+rehab screen to UPMCE, PT sts he is completely independent
+and speech and swallow states he is low aspiration risk with
+cuff down.
+
+2011-09-17 00:00:00 video swallow study showed that patient is without
+aspiration risk with cuff deflated for thin liquids and soft
+solids, rejected by rehab, being screened for UPMCE
+
+Medications on Admission:
+Diflucan
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+2. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR (AS DIRECTED).
+3. Fluconazole in Saline(Iso-osm)  Intravenous
+4. Hydromorphone (PF) 1 mg/mL Syringe Sig: One (1)  Injection
+Q3H (every 3 hours) as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+difficult intubation, tracheostomy
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You are being discharged on medications to treat the pain from
+your operation. These medications will make you drowsy and
+impair your ability to drive a motor vehicle or operate
+machinery safely. You MUST refrain from such activities while
+taking these medications.  Such medications include but are not
+limited to narcotics and benzodiazepines.  Use caution when
+combining the above especially when adding other central nervous
+system depressants and this may cause respiratory depression.
+
+If being discharged on antibiotics, the entire course must be
+finished as directed.
+
+Please call your doctor or return to the emergency room if you
+have any of the following:
+
+ * You experience new chest pain, pressure, squeezing or
+ tightness.
+
+* New or worsening cough or wheezing.
+
+* If you are vomiting and cannot keep in fluids or your
+ medications.
+
+* You are getting dehydrated due to continued vomiting,
+ diarrhea or other reasons. Signs of dehydration include dry
+ mouth, rapid heartbeat or feeling dizzy or faint when standing.
+
+* You see blood or dark/black material when you vomit or have a
+ bowel movement.
+
+
+* You have shaking chills, or a fever greater than 101.5 (F)
+ degrees or 38(C) degrees.
+
+* Any serious change in your symptoms, or any new symptoms that
+ concern you.
+
+* Please resume all regular home medications and take any new
+meds
+ as ordered.
+Activity:
+No heavy lifting of items 2011-09-17 00:00:00 pounds for 6 weeks. You may
+resume moderate exercise at your discretion.
+
+Wound Care:
+You may shower, no tub baths or swimming.
+If there is clear drainage from your incisions, cover with
+clean, dry gauze.
+Please call the doctor if you have increased pain, swelling,
+redness, or drainage from the incision sites.
+
+Diet: soft solids and thin liquids
+
+Followup Instructions:
+Dr. Adrianjames, appointment already made, daughter aware of place
+and time, necessary documents for preop were faxed to Dr Poe
+office with patients consent
+
+
+
+Completed by:2011-09-17 00:00:00

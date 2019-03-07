@@ -1,0 +1,331 @@
+Admission Date:  2005-04-16 00:00:00              Discharge Date:   2005-04-16 00:00:00
+
+Date of Birth: 1931-04-03 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Phenobarbital
+
+Attending:Avrahom Maglia
+Chief Complaint:
+transferred for seizure management
+
+
+Major Surgical or Invasive Procedure:
+Intubation
+Long Term EEG monitoring
+
+
+History of Present Illness:
+78yo RH M h/o brain tumor s/p R frontal resection in 2005-04-16 00:00:00, CAD,
+hyperlipidemia, prostate cancer s/p XRT and seizure disorder who
+is transferred for increasing seizures.
+.
+He initially presented to OSH on 2005-04-16 00:00:00 with "symptoms of
+left-sided hand weakness and clumsiness of 3 days duration",
+worse from a baseline weakness on the left subsequent to tumor
+resection. He also complained of slowly progressive
+deterioration in his gait over several months, leaning to the
+left.
+.
+He was admitted with seizures and found to have UTI and hypoxia
+due to poor mucous clearance, all per his discharge summary.
+Head CT was negative for acute stroke. MRI showed a
+"cystic/encephalomalacic change in the right superior frontal
+gyrus and left medial cerebellar hemisphere without evidence of
+enhancement." MRA showed patent ant/post circulation. EEG seems
+to have had right frontal seizure focus/slowing.
+.
+On 2005-04-16 00:00:00, he was "noted to have seizure activity" though this is
+not further specified; depakote was found to be subtherapeutic
+and the dose was increased. He was transferred to the OSH ICU
+for further management.
+.
+He "continued to have intermittent episodes of seizure activity
+with hypoxia". He was started empirically on zosyn for
+aspiration pneumonia; UA was positive for UTI with pseudomonas.
+The patient was tranferred here 2005-04-16 00:00:00 for further care and
+intubated on arrival for respiratory distress. He has been off
+of propofol since 2am.
+.
+On morning rounds at 9:25am, he was observed to have 30sec of
+left hand shaking then his left face, with right gaze deviation
+and eye opening/closure and no responsiveness. He was given
+ativan 2mg IV x 1.
+
+Past Medical History:
+- Brain tumor (path unknown) dx'd 2005-04-16 00:00:00 s/p resection
+- Angina s/p PTCA @ UPMCE
+- Hyperlipid
+- Prostate Ca s/p XRT
+
+
+Social History:
+Lives with wife, needs help with ambulating and dressing.
+h/o smoking, quit 40yrs ago.
+
+
+Family History:
+unknown
+
+Physical Exam:
+VS 98.3/100.0 64-95 106-148/47-75 2005-04-16 00:00:00 1266/272 100%
+Gen Lying in bed in NAD
+Neck supple
+CV rrr no bruits
+Pulm ctab
+Abd soft benign
+Ext no edema
+.
+NEURO (prior to seizure this morning)
+MS Intubated, off sedation. Awakens to gentle sternal rub. Opens
+his eyes. Follows commands to raise his right arm or squeeze its
+fingers, or lift either leg. No preference in visuospatial
+attention.
+.
+CN
+CN I: not tested
+CN II: Blinks to threat b/l. Pupils 3->2 b/l.
+CN III, IV, VI: EOMI no nystagmus
+CN V: b/l corneal reflex; symmetrical grimace to nasal tickle
+CN VII: full facial symmetry and strength
+CN VIII: hearing intact to FR b/l
+.
+Motor
+Normal bulk and tone. Right arm/leg 2005-04-16 00:00:00. Left is at least 2005-04-16 00:00:00
+but
+with less spontaneous movement. Legs are antigravity for at
+least
+5 seconds, though the left is raised less than the right.
+.
+Sensory withdraws to pain in all extremities.
+.
+Reflexes 2+ symmetric, toes down b/l
+.
+Coordination deferred
+.
+Gait deferred
+
+Pertinent Results:
+Admission Labs
+2005-04-16 00:00:00 07:48AM   ALT(SGPT)-5 AST(SGOT)-14 CK(CPK)-126 ALK
+PHOS-46 AMYLASE-85 TOT BILI-1.2   LIPASE-20
+2005-04-16 00:00:00 07:48AM   ALBUMIN-3.5 MAGNESIUM-2.2 CHOLEST-114
+2005-04-16 00:00:00 07:48AM   VIT B12-730 FOLATE-15.1
+2005-04-16 00:00:00 07:48AM   %HbA1c-5.7
+2005-04-16 00:00:00 07:48AM   TRIGLYCER-77 HDL CHOL-58 CHOL/HDL-2.0
+LDL(CALC)-41
+2005-04-16 00:00:00 07:48AM   VALPROATE-83
+2005-04-16 00:00:00 03:00AM   TYPE-ART PO2-71* PCO2-37 PH-7.45 TOTAL CO2-27
+BASE XS-1
+2005-04-16 00:00:00 03:00AM   LACTATE-1.8
+2005-04-16 00:00:00 03:00AM   freeCa-1.11*
+2005-04-16 00:00:00 01:13AM   GLUCOSE-113* UREA N-15 CREAT-1.0 SODIUM-142
+POTASSIUM-3.3 CHLORIDE-103 TOTAL CO2-27 ANION GAP-15
+2005-04-16 00:00:00 01:13AM   CK(CPK)-145   CK-MB-3 cTropnT-<0.01
+2005-04-16 00:00:00 01:13AM   CALCIUM-9.1 PHOSPHATE-3.8 MAGNESIUM-2.2
+2005-04-16 00:00:00 01:13AM   WBC-13.2* RBC-4.15* HGB-14.7 HCT-41.8
+MCV-101* MCH-35.3* MCHC-35.0 RDW-13.5 PLT COUNT-178
+2005-04-16 00:00:00 01:13AM   NEUTS-77* BANDS-2 LYMPHS-6* MONOS-8 EOS-0
+BASOS-1 ATYPS-6* METAS-0 MYELOS-0
+2005-04-16 00:00:00 01:13AM   PT-14.0* PTT-26.8 INR(PT)-1.2*
+.
+Admission CXR 2005-04-16 00:00:00:
+There is no focal abnormality in the lungs to indicate
+aspiration but
+elevation of the left hemidiaphragm may reflect acute volume
+loss from
+aspirated material in the left lower lobe bronchus.  Followup is
+recommended.  ET tube is in standard placement and a nasogastric
+tube ends in the stomach.  No pneumothorax or pleural effusion.
+Normal cardiomediastinal silhouette
+.
+Most recent CXR 2005-04-16 00:00:00:
+Ill-defined right infrahilar opacity persists with no new focal
+infiltrates or evidence of pulmonary edema.  Cardiomediastinal
+silhouette, hilar contours, and pleural surfaces are within
+normal limits.  No evidence of pneumothorax.  Nasogastric tube
+terminates in the stomach and linear opacity projecting over
+the right neck is likely external to the patient.
+.
+IMPRESSION:
+Unchanged right infrahilar opacity, likely representing
+aspiration pneumonia. No evidence of new infiltrates or
+pulmonary edema
+.
+MRI Head:
+FINDINGS:  The patient is status post remote craniotomy and
+resection of a
+small portion of the right frontal lobe with surrounding
+gliosis.
+Periventricular FLAIR hyperintensity likely represents a
+combination of small vessel ischemic changes and chronic changes
+from radiation.  No intracranial mass, hemorrhage, shift of
+normally midline structures, or evidence of abnormal enhancement
+is identified.  Prominence of the ventricles and sulci is
+slightly pronounced for patient's age.  There is no evidence of
+acute minor or major vascular territorial infarct.
+Opacification of multiple mastoid air cells is noted.
+.
+IMPRESSION:  Status post remote resection of a small portion of
+the right
+frontal lobe with no evidence of new mass or abnormal
+enhancement
+.
+Admission EEG 2005-04-16 00:00:00:
+ABNORMALITY #1: The right hemisphere revealed a 2005-04-16 00:00:00 Hz low
+voltage slowing throughout the record.
+ABNORMALITY #2: Over the left hemisphere, a 2005-04-16 00:00:00 Hz slow
+posterior background rhythm was noted throughout the tracing.
+BACKGROUND: As above.
+HYPERVENTILATION: Contraindicated due to patient's mental
+status.
+INTERMITTENT PHOTIC STIMULATION: Portable study precluded photic
+stimulation.
+SLEEP: The patient progressed from the waking to drowsy state,
+but did not attain stage II sleep.
+CARDIAC MONITOR: A generally regular rhythm was noted with an
+average rate of 72 beats per minute.
+IMPRESSION: This is an abnormal EEG due to the low voltage right
+hemisphere delta slowing and the left hemisphere background
+slowing. This suggests right hemisphere subcortical dysfunction.
+The left hemisphere background slowing suggests a mild
+encephalopathy, which may be seen with infections, medication
+effect, or toxic metabolic abnormalities
+.
+EEG telemetry 2005-04-16 00:00:00:
+This 24-hour video EEG telemetry captured five electrographic
+seizures. Two appeared to have onset in the right temporal
+region with subsequent spread to the left hemisphere and then
+involvement of both hemispheres quite prominently and were
+characterized by a gagging or coughing sound at onset followed
+by left arm elevation and shaking. Three seizures appear to have
+exclusively left temporal onset with subsequent spread to the
+remainder of the left hemisphere and the right temporal region
+prominently and were not characterized by any visible clinical
+change on video. No interictal epileptiform discharges were
+seen. The background was slow and disorganized throughout the
+recording suggestive of a mild to moderate encephalopathy
+.
+EEG telemetry 2005-04-16 00:00:00:
+This 24-hour EEG telemetry captured six electrographic seizures
+by automated detection. These all began with rhythmic sharp
+changes in the right frontal region typically spreading to rapid
+sharp alpha frequency activity of high amplitude in the left
+temporal region and then rapid sharp high amplitude alpha
+activity throughout much of the brain. Clinically, the patient
+had gagging or coughing noises occasionally with additional
+mouth movements or with elevation and clonic shaking of the left
+arm. No interictal epileptiform discharges were seen. The
+background was slow and disorganized throughout the recording
+suggestive of a moderate encephalopathy
+.
+Most recent EEG, 2005-04-16 00:00:00:
+This 24-hour video EEG telemetry captured no pushbutton
+activations. There were no electrographic seizures or interictal
+epilepiform discharges. The background was mostly slow and
+disorganized in the theta frequency range throughout the day's
+recording although some periods of alpha frequency activity were
+seen on occasion. These findings suggest the presence of a mild
+to moderate encephalopathy. Compared to the prior day's
+recording, the encephalopathy appeared slightly improved.
+
+
+Brief Hospital Course:
+ICU Course:
+The patient was transferred from an OSH to the neuro-ICU. His
+valproate level was found to be therapeutic initially and he was
+seen to have left-sided focal seizures of his arm/face (thought
+to be due to R frontal tumor resection). He was therefore
+started on keppra 1000mg IV q12 in addition to Depakote 750 UPMCE.
+Valproate dose was subsequently increased up to 1000 mg Q8 as it
+was found to be low and the patient had continued seizures
+(~1/day). Continuous EEG monitoring showed electrographic
+seizures with R temporal onset (see full EEG report above).
+After initiation of Keppra and up-titration of Depakote seizures
+slowed and then stopped on telemetry.  He was extubated without
+incident.  He finished a course of Zosyn -> Ceftazadime for
+aspiration PNA.  Pt. was transferred to the floor for further
+care.
+
+Floor Course:
+MRI Head was performed (see results above) and showed the remote
+resection of a small portion of the right frontal lobe with no
+evidence of new mass or abnormal enhancement or infarct.  This
+was felt to be the focus for his seizures.  He had no further
+seizures on the floor.  ASA 325 and Zocor were continued and we
+resumed atenolol 50 mg QD.  A1c and lipid panel were checked
+(see results above) and were at goal.  Blood, urine, and blood
+cultures were negative throughout his course.  Pt. was afebrile
+throughout his floor course.  He had some episodes of
+desaturation, but given that he was afebrile and CXR findings
+were stable, these were felt to be due to mucous plugging.  He
+should continue to receive chest PT and frequent suctioning at
+rehab.  Depakote level was checked and was subtherapeutic at 48,
+so Depakote was increased to 1250 TID.  It should be rechecked
+on 2005-04-16 00:00:00 and titrated as needed for goal 80-100.  Nutrition was
+maintained with tube feeds throughout his course.  Pt. initially
+was encephalopathic and inattentive on the floor, which was felt
+to be contributing to his inability to swallow on swallow
+evaluations.  Given that he did not have any further seizures,
+we therefore decided to wean off his Keppra.  His inattention
+improved with this intervention.  A decision was made not to
+proceed with PEG for long term nutrition given that there was
+some chance that his swallowing would continue to improve as
+Keppra came out of his system.  He should be followed by speech
+therapy at rehab, and if he continues to fail swallow evals PEG
+may need to be considered.
+
+Medications on Admission:
+- Atenolol 50mg QD
+- Lipitor 10mg QD
+- Flomax 0.4mg QD
+- ASA 325
+- Imodium PRN
+- SL NTG PRN
+- Depakote 250mg QID
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution 2005-04-16 00:00:00: One (1)
+Injection TID (3 times a day).
+2. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR Dawe: One (1)
+Tablet,Rapid Dissolve, DR Dawe DAILY (Daily).
+3. Atorvastatin 10 mg Tablet Dawe: One (1) Tablet PO DAILY
+(Daily).
+4. Atenolol 50 mg Tablet Dawe: One (1) Tablet PO DAILY (Daily).
+5. Aspirin 325 mg Tablet Dawe: One (1) Tablet PO DAILY (Daily).
+6. Valproate Sodium 100 mg/mL Solution Dawe: 1250 (1250) mg
+Intravenous Q8H (every 8 hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Left focal motor seizures
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please notify your doctor if you develop any further left arm
+shaking or seizures, fevers, chills, nausea, vomiting, diarrea,
+chest pain, shortness of breath, or any other symptoms that
+concern you.
+
+Please attend all follow up appointments.
+
+Followup Instructions:
+Neurology:  Dr. Avrahom Maglia Dawe, Friday 2005-04-16 00:00:00 at 9:00.  UPMCE
+building, 123 Any St.. Phone:test@mail.com for any questions.
+
+
+
+Completed by:2005-04-16 00:00:00

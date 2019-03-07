@@ -1,0 +1,315 @@
+Admission Date:  2014-10-27 00:00:00              Discharge Date:   2014-10-27 00:00:00
+
+Date of Birth: 2003-10-27 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Codeine
+
+Attending:Cleland Carpo
+Chief Complaint:
+Hemoptysis
+
+Major Surgical or Invasive Procedure:
+Endotracheal Intubation for Respiratory Arrest secondary to
+sedation
+
+
+History of Present Illness:
+46M h/o alcohol abuse, HCV 2014-10-27 00:00:00 2014-10-27 00:00:00 blood transfusion, GERD,
+admitted with self-reported hemoptysis and CP, also found to be
+alcohol intoxicated.  Pt had attended baseball game at which he
+drank about 12 beers.  Afterwards, while walking home, pt
+suddenly coughed up several tablespoonfuls of blood (per pt's
+report to NF, he coughed one T of bright red blood).  At that
+time, pt also developed sudden onset L sided CP initiated and
+aggravated by breathing, accompanied by SOB.  Pt later reported
+that this pain had changed to the R side.  Pt noted no other
+additional symptoms.  Pt then called EMS and was brought to ED.
+
+.  ED:
+# VS: T 98.1, HR 100, BP 120/76, RR 14, SaO2 96/RA
+# Meds:  ASA 325, nitroglycerin SL, hydralazine, metoprolol
+(AFib RVR), levofloxacin (empiric Rx for PNA).  Multiple pain
+medications (acetaminophen, ibuprofen, morphine, Percocet,
+hydromorphone).  Diazepam per CIWA.
+# Studies: CXR demonstrated ground glass opacities
+# Clinical course: Afib + RVR (150s), spontaneous conversion
+without meds to sinus tach (100s).  Stable BP, asymptomatic.
+.
+ROS:  Pt states that he was in his USOH prior to this incident
+(+) Fatigue which pt attributes to longer hours at work
+(-) CP, SOB, cough, hemoptysis. F/C, N/V, weight loss, sick
+contacts. Emary Siddique pt report to NF, prior PPD negative about ~1.5
+month ago at inpatient detox.
+
+Past Medical History:
+# GERD
+# Stab wounds to back (2014-10-27 00:00:00): R lung, kidney, liver punctured.
+Seven operations necessitated c/b SBO, ruptured umbilicus,
+herniated scar.
+# DVT s/p knee surgery 2014-10-27 00:00:00 athletic injury (2014-10-27 00:00:00)
+# HCV 2/2 blood transfusion (2014-10-27 00:00:00)
+
+Social History:
+# Personal: Lives with M, F, B and B's wife, 2 nephews, in one
+house.
+# Professional: Carpenter
+# Environmental exposures: Sawdust.  2 outdoor pet dogs.
+# Alcohol: Up to 12 beers 6 times weekly
+# Tobacco: Started chewing tobacco at 20y.  Never smoked
+tobacco.
+# Recreational drugs: Pt reported experimental marijuana in
+youth only.  Records obtained from 123 Any St. Detox on 2014-10-27 00:00:00
+indicated, however, that pt had an extensive polysubstance abuse
+history (2014-10-27 00:00:00 gallon vodka daily, up to 12 beers daily, Percocet,
+and cocaine at various times).  At age 45, he began snorting
+crushed Oxycontin 80mg TID.
+
+Family History:
+# M a: DM2
+# F a: DM2, restrictive lung disease, MI
+# Siblings (1 brother, 1 sister): DM2
+
+Physical Exam:
+VS: Tm 98.9, Tc 98.1, BP 140-158/98-100, HR 78-90, R 24-26, SaO2
+96/RA-98/RA
+.
+PE
+Gen: Anxious, tremors
+HEENT: NCAT, no LAD, MMM, OP clear, CN II-XII intact
+CV: RRR, S1S2, no m/r/g
+Chest: CTAB, equal excursion, no costochondral tenderness,
+decreased inflow limited by splinting.
+Abd: Soft, NTND, BS+, no HSM, no caput medusa.
+Ext: No c/c/e, 5/5 strength at BUE/BLE, 2+ DP bilaterally
+
+Pertinent Results:
+Notable admission labs:
+.
+2014-10-27 00:00:00 03:17AM   WBC-12.8* RBC-5.13 HGB-10.6* HCT-32.7*
+MCV-64* MCH-20.7* MCHC-32.4 RDW-17.2*
+2014-10-27 00:00:00 03:17AM   NEUTS-69.6 LYMPHS-25.9 MONOS-3.9 EOS-0.4
+BASOS-0.3
+2014-10-27 00:00:00 03:17AM   ASA-NEG ETHANOL-291* ACETMNPHN-NEG
+bnzodzpn-POS barbitrt-NEG tricyclic-NEG
+2014-10-27 00:00:00 03:17AM   cTropnT-<0.01
+2014-10-27 00:00:00 09:37AM   cTropnT-<0.01
+2014-10-27 00:00:00 05:08PM   cTropnT-<0.01
+2014-10-27 00:00:00 03:17AM   ALT(SGPT)-95* AST(SGOT)-71* CK(CPK)-235* ALK
+PHOS-59 AMYLASE-110* TOT BILI-0.5
+2014-10-27 00:00:00 05:05AM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+2014-10-27 00:00:00 07:00PM   D-DIMER-650*
+===========================================
+Studies:
+.
+# BILAT LOWER EXT VEINS  2014-10-27 00:00:00 6:55 PM
+No evidence of DVT.
+.
+# CTA CHEST W&W/O C&RECONS, NON-CORONARY  2014-10-27 00:00:00 5:04 AM
+Diffuse air space process, most likely infectious,involving the
+right upper, middle and lower lobes. Small mediastinal and right
+hilar lymph nodes, likely reactive. Fatty liver.
+.
+# CHEST (PA & LAT)  2014-10-27 00:00:00 3:30 AM
+Diffuse patchy opacity involving the entire right lung. The most
+likely etiology is infectious. However, CT scan is recommended
+to further assess.
+.
+# CTA CHEST W&W/O C&RECONS, NON-CORONARY  2014-10-27 00:00:00 1:00 PM
+1. No pulmonary embolus.
+2. Mild interval improvement in right lung patchy consolidation
+and ground- glass opacity, possibly reflecting improving
+infectious or inflammatory process; aspiration and pulmonary
+hemorrhage are also considered.
+3. 3-mm left upper lobe pulmonary nodule. If there is no known
+risk factor for pulmonary malignancy, this may be followed up in
+one year with chest CT.
+.
+# ECG Study Date of 2014-10-27 00:00:00  12:10:46 PM
+Atrial fibrillation with a rapid ventricular response. ST-T wave
+abnormalities which are non-specific. Compared to tracing #1
+atrial fibrillation is new.
+.
+# ECG Study Date of 2014-10-27 00:00:00  12:34:48 PM
+Sinus tachycardia with occasional atrial premature beats.
+Compared to tracing #2 sinus rhythm has replaced atrial
+fibrillation.
+.
+# SPUTUM Procedure Date of 2014-10-27 00:00:00
+NEGATIVE FOR MALIGNANT CELLS. Bacteria, squamous cells, and
+scattered pulmonary macrophages.
+.
+# Cytology Report BRONCHIAL WASHINGS Procedure Date of 2014-10-27 00:00:00
+NEGATIVE FOR MALIGNANT CELLS. Reactive bronchial cells, abundant
+reactive pulmonary macrophages and inflammatory cells.
+.
+# CHEST (PA & LAT)  2014-10-27 00:00:00 1:10 PM
+AP UPRIGHT PORTABLE CHEST: In comparison with films of 2014-10-27 00:00:00,
+the patient has taken a very poor inspiration, which most likely
+accounts for the prominence of the transverse diameter of the
+heart. Although, the image is somewhat over-penetrated, there is
+no evidence of pneumonia. Nevertheless, if there is a
+significant clinical concern, a repeat study with better
+inspiration and lighter technique would be recommended.
+
+Brief Hospital Course:
+46M h/o alcohol abuse, HCV 2/2 blood transfusion, admitted with
+unwitnessed acute-onset hemoptysis and pleuritic CP.
+.
+# Hemoptysis: DDx included PE and infectious process given
+diffuse multilobar opacities in R lung on imaging.  Pulmonary
+consult was obtained in the ED.
+.
+--TB rule-out: Pt was placed in isolation pending TB rule-out
+based on reported history of hemoptysis.  One out of three
+sputum samples were reported with rare AFB on concentrated
+smear.  PPD was placed and was negative.  Bronchoscopy was
+performed to assess lungs and airways, returned no bloody fluid,
+and found no masses.  BAL results were negative for AFB.  Final
+state laboratory results reported negative M. tuberculosis.
+.
+--Aspiration PNA: Concern existed for possible aspiration PNA
+given pt's intoxication on presentation.  Levofloxacin was begun
+with goal 10 day course, which was later discontinued given
+possible suppressive effects on AFB.  Repeat CXR on 2014-10-27 00:00:00
+demonstrated no PNA.
+.
+--PE rule-out: Concern existed for possibe PE, based on elevated
+DDimer, pleuritic chest pain, and episode of atrial fibrillation
+which could have been chronic.  Bilateral LENIs were negative
+for DVT.  Initial CTA chest had poor contrast timing.  CTA was
+repeated and demonstrated no PE.
+.
+--Autoimmune lung disease: Given isolated R-sided findings, low
+suspicion existed for Wegener's or Goodpasture's, but ANCA and
+anti-GBM were submitted and, respectively, were negative or
+pending on discharge.
+.
+# Chest pain: Pt presented with pleuritic pain associated with
+coughing and deep breathing.  CE were negative and EKG
+demonstrated no ischemic changes.  Pt was converted to PO pain
+medications and monitored for response.  Pt stated repeatedly
+taht .  On 2014-10-27 00:00:00, two hours
+.
+# Alcohol: Pt had h/o unsuccessful detox, and presented with
+ethanol level of 291 on urine toxicology.  Pt was highly
+defensive when asked about his alcohol intake, attributing his
+drinking to normal pattern with watching TV or a sports game.
+Pt placed on CIWA scale with diazepam 10mg PRN, as well as
+administered thiamine, folate, and MVI.
+.
+# Acute renal failure: Pt's Cr was noted to increase acutely
+from 1.0 to 2 in a 48-hour time period, returning to 0.8
+(baseline) on transfer from the MICU.  As FeNa = 60, this was
+attributed to either contrast-induced
+.
+# During day, pt repeatedly removed O2 NC; when asked why, pt
+stated that it "fell off" without him knowing, despite NC being
+securely in place.  Overnight, per nursing, pt pulled out IV
+which was securely taped, and stated that it had "fallen out" in
+the shower.  Second IV was placed, and securely taped with extra
+tape per patient request.  Pt pulled out second IV, again
+claiming that it also had fallen out on its own.  Later, pt took
+off telemetry monitors, placed it in an empty plastic 123 Any St.
+box, taped the box closed, and then presented it to the nurse.
+When asked by this examiner why pt did this, pt said it had
+fallen off in the shower, and that he was "OCD" and didn't want
+to lose any parts.  Pt also observed to eat five 123 Any St.
+sandwiches after com123 Any St.g his dinner, although he stated to
+nursing that he did not have any dinner.  In addition, pt
+observed to be throwing objects in room (this had occured about
+two nights ago as well).  Pt reported to team later that he had
+been thoroughly cleaning his room.
+.
+# AFib RVR: Pt experienced brief episode of AFib RVR in ED,
+although likely 2014-10-27 00:00:00 anxiety and pain.  Pt was monitored on
+telemetry and initially continued on metoprolol.  On the floor,
+pt had no subsequent incidents of PAF, and anticoagulation was
+deferred without evidence of thrombus or PE.
+.
+# Sedation leading to respiratory depression leading to MICU
+admission: Over the course of his hospitalization the patient
+has had an escalating pain medication requirement for right
+sided chest pain. Per outside records obtained by the team, the
+patient was discharged from detox 1.5 months ago after an
+admission for EtOH abuse and snorting 240 mg oxycontin daily. He
+has been followed on a CIWA scale since admission given his
+ongoing alcohol use. He received 80 mg oxycontin UPMCE 2014-10-27 00:00:00 and
+2014-10-27 00:00:00 am. He received total of 60 mg prn oxycodone 2014-10-27 00:00:00 and 2014-10-27 00:00:00,
+none 2014-10-27 00:00:00. He received 30 mg valium per CIWA on 2014-10-27 00:00:00 and 10 mg
+on 2014-10-27 00:00:00, none on 2014-10-27 00:00:00 (purposefully stopped after patient
+returned from bronchoscopy with an oxygen requirement). He
+received 125 mcg of fentanyl and 5 mg midazolam for the
+bronchoscopy on 2014-10-27 00:00:00. Of note, the patient's creatinine
+increased from 1.2-2.0 over the last 24 hours.
+.
+On the morning of MICU admission, the patient was sleepy but
+arousable with stable vital signs.  He was found by the nurse to
+be somnolent with a RR 8-10, from presumed overdose narcotics.
+After consultation with the pain service, he was given 200 mcg
+narcan IM followed by repeat doses of IV narcan (total 0.88 mg)
+with good result. ABG was 7.29/62/110. The patient had a room
+air saturation of 96%, but he would have ongoing intermittent
+periods of apnea and would desaturate to 88%. After receiving
+narcan he would be a+oX 3 and appropriately answer questions. He
+was transferred to the MICU for frequent narcan dosing and
+nursing care.
+
+# GERD: Pt was continued on home regimen of PPI.
+.
+# Full code presumed
+
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+1. Acute Alcohol Intoxication.
+2. Alcohol Withdrawal.
+3. Hepatitis C Genotype 1, VL 1,560,000 IU/mL.
+4. Non-MTB Mycobacterial Pulmonary Colonization - not pneumonia.
+5. Narcotic Dependence.
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please return to the ED with fevers, chills, nausea, vomiting,
+diarrhea, chest pain, or shortness of breath.
+
+Followup Instructions:
+As discussed with Dr. Cleland Carpo, UPMCE is committed to providing
+you with optimal medical care. We want you to contact the Liver
+and UPMCE clinic for a follow-up appointment. It is also imperative
+that you discontinue your alcohol abuse as this will lead to
+further self-injury and possibly death, and make any other
+medical treatments more difficult.
+
+Liver Clinic test@mail.com
+ID Clinic test@mail.com
+Alcoholic Anonymous test@mail.com
+Drug and ETOH hotline 1-test@mail.com
+
+Please see your Primary Care Emary Cleland Carpo as soon as possible.
+
+
+

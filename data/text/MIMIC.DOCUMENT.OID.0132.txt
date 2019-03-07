@@ -1,0 +1,198 @@
+Admission Date:  2014-06-24 00:00:00              Discharge Date:   2014-06-24 00:00:00
+
+Date of Birth: 1999-10-03 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Quinolones
+
+Attending:Annick Lathram
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+2014-06-24 00:00:00 Coronary bypass grafting times 4(left internal mammary
+artery to left anterior descending artery, reverse saphenous
+vein graft to right coronary artery,sequential reverse saphenous
+vein graft to first and second obtuse marginal arteries).
+Permanent left ventricular epicardial lead placement
+
+
+History of Present Illness:
+This 83 year old white male with complaints of dyspnea on
+exertion and abnormal stress echo was referred for cardiac
+catheterization. This revealed severe coronary artery disease
+and he was referred for surgical intervention.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+s/p St. Annicka Leffler PPM for CHB 2014-06-24 00:00:00
+Arthritis
+Sleep apnea noted after administration of narcotics
+Diverticulitis s/p Left hemicolectomy 2014-06-24 00:00:00
+s/p Back surgery 2014-06-24 00:00:00
+s/p Appendectomy
+s/p Tonsillectomy
+
+Social History:
+Race:Caucasian
+Last Dental Exam:
+Lives with:wife
+Occupation:Retired
+Tobacco:quit 23 years ago, smoked x 50 years
+ETOH:2014-06-24 00:00:00 pint of hard alcohol a day
+
+Family History:
+noncontributory
+
+Physical Exam:
+admission:
+Pulse:70  Resp:13  O2 sat:97% RA
+B/P  Right:156/662    Left:160/64
+Height:5'1"     Weight:163 lbs
+
+General: NAD, sitting comfortably in chair
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur-I/VI SEM
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: +1  Left:+1
+DP           Right:+2   Left:+2
+PT           Annicka Leffler: +2  Left:+2
+Radial       Right:+2   Left:+2
+
+Carotid Bruit        Right: none   Left:none
+
+Pertinent Results:
+2014-06-24 00:00:00 05:10AM BLOOD WBC-11.8* RBC-2.98* Hgb-9.6* Hct-28.1*
+MCV-94 MCH-32.1* MCHC-34.0 RDW-14.5 Plt Ct-157
+2014-06-24 00:00:00 03:22PM BLOOD WBC-16.2*# RBC-3.43* Hgb-11.3* Hct-31.7*
+MCV-92 MCH-32.9* MCHC-35.7* RDW-14.4 Plt Ct-216
+2014-06-24 00:00:00 03:22PM BLOOD UreaN-12 Creat-0.8 Na-141 K-4.4 Cl-109*
+HCO3-24 AnGap-12
+
+Brief Hospital Course:
+Mr. Leffler was a same day admit who was taken to the Operating
+Room where he underwent coronary artery bypass graft x 4 and
+permanent left ventricular epicardial lead placement. Please see
+operative report for surgical details.
+
+Following surgery he was transferred to the CVICU for invasive
+monitoring in stable condition. Within 24 hours he was weaned
+from sedation, awoke neurologically intact and extubated.
+
+On post-op day one beta-blockers and diuretics were initiated
+and he was diuresed towards his pre-op weight. Also on this day
+he was transferred to the telemetry floor for further care.
+Chest tubes and epicardial pacing wires were removed per
+protocol.
+
+Physical Therapy worked with him for strength and mobility.
+Wounds were clean and healing well at discharge.  discharge
+restrictions, precations, medications and follow up were
+discussed with him prior to discharge. He was cleared for
+discharge to home on POD#5 by Dr. Annick Lathram. He will receive VNA
+and has private care at home as well.
+
+Medications on Admission:
+Norvasc 5mg po daily
+Lipitor 10mg po daily
+ASA 81mg po daily
+Vitamin D3
+Lactobacillus Rhamnosus 10 billion cells cap- 1 cap po daily
+MVI
+Fish Oil
+Preservision 1 cap po daily
+
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for fever, pain.
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Coronary Artery Disease
+ s/p Coronary Artery bypass graft x 4
+Hypertension
+Hyperlipidemia
+s/p St. Annicka Leffler permanent pacemaker 2014-06-24 00:00:00
+Arthritis
+Diverticulitis
+s/p Left hemicolectomy 2014-06-24 00:00:00
+s/p Back surgery 2014-06-24 00:00:00
+s/p Appendectomy
+s/p Tonsillectomy
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating with  steady gait
+Incisional pain managed with Percocet
+
+Incisions:
+
+Sternal - healing well, no erythema or drainage
+Leg Left - healing well, no erythema or drainage.
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+
+Surgeon: Dr. Annick Lathram Wednesday  (test@mail.comon 2014-06-24 00:00:00 @ 1:00 PM
+
+Please call to schedule appointments with your
+
+Primary Care: Dr. Annick Lathram Leffler (test@mail.comin 2014-06-24 00:00:00 weeks
+Cardiologist: Dr. Annick Lathram in 2014-06-24 00:00:00 weeks
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:2014-06-24 00:00:00

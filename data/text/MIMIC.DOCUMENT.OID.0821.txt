@@ -1,0 +1,325 @@
+Admission Date:  2006-04-01 00:00:00              Discharge Date:   2006-04-01 00:00:00
+
+Date of Birth: 1946-06-04 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamides)
+
+Attending:Jessicia Cucolo
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+2006-04-01 00:00:00 Aortic Valve Replacement(25mm Mosaic Porcine Valve),
+Mitral Valve Replacement(29mm Mosaic Porcine Valve), Replacement
+of Ascending Aorta(26mm Gelweave) and Atrial Myxoma Removal
+
+
+History of Present Illness:
+Mr. Fadness is an 81 year old male with known atrial fibrillation
+and atrial myxoma for approximately 9 years. Serial
+echocardiograms have revealed worsening aortic insufficiency and
+mitral regurgitation. He concomitantly has complained of
+progressive dyspnea on exertion, 2006-04-01 00:00:00 pillow orthopnea and
+worsening cough. Cardiac catheterization in 2006-04-01 00:00:00 showed
+normal coronary arteries and an LVEF of 50%. A transesophogeal
+echocardiogram in 2006-04-01 00:00:00 confirmed 3+ AI, 3+MR, with a
+3x3 centimeter right atrial mass. LVEF was estimated at 65%. In
+preperation for cardiac surgery, he also underwent chest CT scan
+which revealed a dilated ascending aorta. After extensive
+preoperative evaluation, he was admitted for cardiac surgical
+intervention.
+
+Past Medical History:
+Congestive Heart Failure(diastolic), Aortic Insufficiency,
+Mitral Regurgitation, Atrial Myxoma, Dilated Ascending Aorta,
+Atrial Fibrillation, Hypertension, Hyperlipidemia, Benign
+Prostatic Hypertrophy, Sleep Apnea - on CPAP, Obesity
+
+Social History:
+Retired, lives with wife in Jasminne Fadness. Quit cigars over 10 years
+ago. Admits to social ETOH consumption.
+
+Family History:
+Denies premature coronary disease(before age 55)
+
+Physical Exam:
+Admission
+Vitals: BP 140/90, HR 90, RR 14, SAT  94% on room air
+General: well developed elderly male in no acute distress
+HEENT: oropharynx benign, voice hoarse
+Neck: supple, no JVD, transmitted murmurs over carotid regions
+Heart: irregular rate, normal s1s2, mixed diastolic and systolic
+murmurs
+Lungs: clear bilaterally
+Abdomen: soft, nontender, normoactive bowel sounds, mild
+hepatomegaly
+Ext: warm, 2+ edema, no varicosities
+Pulses: 2+ distally
+Neuro: nonfocal
+
+Discharge
+Gen NAD
+Neuro A&Ox3, nonfocal exam
+Pulm decreased bases, otherwise clear
+CV RRR S1-S2. Sternum stable, incision w/steris CDI
+Abdm soft, NT/ND/+BS
+Ext warm 2006-04-01 00:00:00+ pedal edema-bilat
+
+Pertinent Results:
+2006-04-01 00:00:00 04:42PM   UREA N-17 CREAT-0.7 CHLORIDE-112* TOTAL
+CO2-25
+2006-04-01 00:00:00 04:42PM   WBC-12.3* RBC-3.55* HGB-11.2* HCT-31.0*
+MCV-87 MCH-31.5 MCHC-36.1* RDW-14.5
+2006-04-01 00:00:00 04:42PM   PLT COUNT-141*
+2006-04-01 00:00:00 04:42PM   PT-14.0* PTT-56.5* INR(PT)-1.2*
+2006-04-01 00:00:00 06:05AM BLOOD WBC-7.2 RBC-3.24* Hgb-10.1* Hct-30.3*
+MCV-94 MCH-31.1 MCHC-33.2 RDW-14.6 Plt Ct-337#
+2006-04-01 00:00:00 06:38AM BLOOD PT-14.2* INR(PT)-1.3*
+2006-04-01 00:00:00 06:05AM BLOOD Plt Ct-337#
+2006-04-01 00:00:00 05:25AM BLOOD Glucose-115* UreaN-26* Creat-1.0 Na-143
+K-3.3 Cl-102 HCO3-34* AnGap-10
+
+CHEST (PA & LAT)  2006-04-01 00:00:00 11:00 AM
+CHEST (PA & LAT)
+Reason: post op evaluation, SOB
+UNDERLYING MEDICAL CONDITION:
+82 year old man with AVR/MVR/AscAorta Replacement and ct removal
+
+REASON FOR THIS EXAMINATION:
+post op evaluation, SOB
+TWO-VIEW CHEST X-RAY, 2006-04-01 00:00:00.
+COMPARISON: 2006-04-01 00:00:00.
+
+Cardiology Report ECHO Study Date of 2006-04-01 00:00:00
+PATIENT/TEST INFORMATION:
+Indication: Intraop AVR, MVR, Ascending Aorta replacement.
+Evaluate Aorta, valves, binventricular function
+Height: (in) 65
+Weight (lb): 206
+BSA (m2): 2.01 m2
+BP (mm Hg): 165/85
+HR (bpm): 80
+Status: Inpatient
+Date/Time: 2006-04-01 00:00:00 at 13:20
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007AW1-:
+Test Location: Anesthesia West OR cardiac
+Technical Quality: Adequate
+REFERRING DOCTOR: DR. 123 Any St.es) 408**]
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *7.5 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *5.7 cm (nl <= 5.2 cm)
+Left Ventricle - Inferolateral Thickness: *1.4 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 5.6 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 4.8 cm
+Left Ventricle - Fractional Shortening: *0.14 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 50% to 55% (nl >=55%)
+Aorta - Valve Level: *4.1 cm (nl <= 3.6 cm)
+Aorta - Ascending: *4.5 cm (nl <= 3.4 cm)
+Aorta - Arch: *3.6 cm (nl <= 3.0 cm)
+Aorta - Descending Thoracic: *3.8 cm (nl <= 2.5 cm)
+Aortic Valve - Peak Velocity: 1.5 m/sec (nl <= 2.0 m/sec)
+Aortic Valve - Peak Gradient: 9 mm Hg
+Aortic Valve - Mean Gradient: 4 mm Hg
+Aortic Valve - Valve Area: 3.7 cm2 (nl >= 3.0 cm2)
+Mitral Valve - MVA (2D): 4.9 cm2
+Pulmonary Artery - Main Diameter: *3.5 cm
+Pericardium - Effusion Size: 0.5 cm
+INTERPRETATION:
+Findings:
+LEFT ATRIUM: Marked LA enlargement. Elongated LA. No
+mass/thrombus in the 123 Any St. (123 Any St.es) **]  123 Any St.es) **] LAA. Mild spontaneous echo contrast
+in the LAA. No thrombus in the LAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D
+images. Mild symmetric LVH. Top normal/borderline dilated LV
+cavity size. Low normal LVEF. [Intrinsic LV systolic function
+likely depressed given the severity of valvular regurgitation.]
+
+LV WALL MOTION: Regional LV wall motion abnormalities include:
+mid
+inferolateral - hypo; remaining LV segments contract normally.
+RIGHT VENTRICLE: Moderately dilated RV cavity.
+AORTA: Moderately dilated aortic sinus. Moderately dilated
+ascending aorta. Mildly dilated aortic arch. Simple atheroma in
+aortic arch. Moderately dilated descending aorta Complex (>4mm)
+atheroma in the descending thoracic aorta.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Moderate
+to severe (3+)AR. Eccentric AR jet.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+to severe (3+)  MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+No PR.
+PERICARDIUM: Small pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify  I was present in compliance with HCFA
+regulations. No TEE related  complications. The patient was
+under general anesthesia throughout the  procedure.
+
+Conclusions:
+Pre Bypass: The left atrium is markedly dilated. The left atrium
+is elongated. No mass/thrombus is seen in the left atrium or
+left atrial appendage. Mild  spontaneous echo contrast is
+present in the left atrial appendage. No thrombus  is seen in
+the left atrial appendage. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is top
+normal/borderline dilated. Overall left ventricular systolic
+function is low normal (LVEF 50-55%). [Intrinsic left
+ventricular systolic function is likely more  depressed given
+the severity of valvular regurgitation.] The remaining left
+ventricular segments contract normally. The right ventricular
+cavity is  moderately dilated. The aortic root is moderately
+dilated athe sinus level. The ascending aorta is moderately
+dilated. The aortic arch is mildly dilated.  There are simple
+atheroma in the aortic arch. The descending thoracic aorta is
+moderately dilated. There are complex (>4mm) atheroma in the
+descending  thoracic aorta. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion. There is no
+aortic valve stenosis. Moderate to severe (3+) aortic
+regurgitation is seen. The aortic regurgitation jet is
+eccentric.
+The mitral valve leaflets are mildly thickened. Moderate to
+severe (3+) mitral regurgitation is seen. There is a right
+atrial mass just above the svc inlet.  It is rounded and almost
+reaches the interatrial septum. There is a small  pericardial
+effusion.
+Post Bypass: Perserved biventricular function, LVEF >55%. An
+Aortic
+bioprostesis is insitu. No AI or AS, no perivalvular leaks. A
+mitral
+bioprosthesis is insitu, no MR, no MS, no perivalvular leaks. An
+prosthetic  graft is seen in the proximal ascending aorta above
+the sinus of valsalva. The remaing aortic contours are intact.
+There is no longer a right atrial masss or pericardial effusion.
+The remainder of the exam is unchanged. All findings are
+discussed with surgeons at the time of the exam.
+
+Electronically signed by Jasminne Fadness, MD on 2006-04-01 00:00:00 15:54.
+
+CXR
+INDICATION: Shortness of breath.
+
+Right internal jugular vascular sheath has been removed with no
+pneumothorax. Lung volumes remain low, and cardiac and
+mediastinal contours are stable in appearance. Bibasilar
+atelectasis and small pleural effusions are again demonstrated.
+
+IMPRESSION: Persistent bibasilar atelectasis and small pleural
+effusions.
+
+DR. Jessicia Cucolo Fadness
+
+
+Brief Hospital Course:
+Mr. Fadness was admitted and underwent aortic and mitral valve
+replacments, along with replacement of ascending aorta and
+excision of atrial myxoma. For surgical details, please see
+seperate dictated operative note. Following the operation, he
+was brought to the CSRU for invasive monitoring. Within 24
+hours, he awoke neurologically intact and was extubated without
+incident. He maintained stable hemodynamics and weaned from
+inotropic support. On postoperative day two, he experienced
+oliguria with rise in creatinine. Volume and intravenous fluids
+were administered while diuretics and beta-blockers were
+initially withheld. He was started on Neosynephrine to maintain
+MAPs > 70 mmHg and renal perfusion. His creatinine peaked to 1.7
+on postoperative day two. Over several days, his urine output
+and renal function improved. Neosynephrine was gradually weaned
+without difficulty. Diuretics and beta blockade were gradually
+resumed. On postoperative day four, he transferred to the SDU
+for further care and recovery. Despite remaining in a normal
+sinus rhythm(with first degree AV block)postoperatively,
+Warfarin anticoagulation was eventually resumed given his
+history of atrial fibrillation and myxoma resection. He
+continued to make clinical improvements with diuresis and was
+eventually cleared for discharge to home on postoperative day 9.
+
+His INR was to be followed by Dr Fadness until his return to
+123 Any St..
+
+
+Medications on Admission:
+Flonase
+K-Dur 60 meq UPMCE
+Proscar 5 qd
+Lasix 40 qam
+Detrol LA 4 qam
+Procardia 30 qpm
+Fexofenadine 180 qpm
+Hytrin 10 qd
+Benicar 40 qpm
+Lipitor 20 qd
+Toprol XL 20 qd
+Singulair 10 qd
+Warfarin 6mg qd - stopped 5 days prior to admission
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+4. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Fexofenadine 60 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+6. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+8. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. Alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day) as needed.
+Disp:*20 Tablet(s)* Refills:*0*
+10. Outpatient Lab Work
+Please check INR Friday 2006-04-01 00:00:00.  Send result to Dr.Jasminne Fadness
+office at F(test@mail.com.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+Congestive Heart Failure(diastolic), Aortic Insufficiency,
+Mitral Regurgitation, Atrial Myxoma, Dilated Ascending Aorta -
+s/p Aortic Valve Replacement, Mitral Valve Replacement,
+Replacement of Ascending Aorta and Atrial Myxoma Removal, Postop
+Acute Renal Insufficiency, Atrial Fibrillation, Hypertension,
+Hyperlipidemia, Benign Prostatic Hypertrophy, Sleep Apnea - on
+CPAP
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Patient may shower, no baths. No creams, lotions or ointments to
+incisions. No driving for at least one month. No lifting more
+than 10 lbs for at least 10 weeks from the date of surgery.
+Monitor wounds for signs of infection. Please call with any
+concerns or questions.
+
+
+Followup Instructions:
+Dr. Fadness in 2006-04-01 00:00:00 weeks, call for appt
+Dr. Fadness in 2006-04-01 00:00:00 weeks, call for appt
+Dr. Fadness, call for appt
+
+
+
+Completed by:2006-04-01 00:00:00

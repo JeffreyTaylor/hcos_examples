@@ -1,0 +1,120 @@
+Admission Date:  2012-05-02 00:00:00       Discharge Date:
+
+Date of Birth: 1970-04-28 00:00:00 00:00:00       Sex:  F
+
+Service:  CARDIOTHORACIC SURGERY
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 70-year-old
+female with known history of coronary artery disease referred
+for outpatient cardiac catheterization secondary to a
+positive stress test.  The patient had a PTCA stent to the
+right coronary artery on 2012-05-02 00:00:00.  Cardiac catheterization
+in 2012-05-02 00:00:00 showed 50% right coronary artery with a patent
+stent, 50% mid left anterior descending, 75% circumflex, 95%
+OM, and 70% diagonal.
+
+The patient had been doing well and denied any chest pain.
+She did report having dyspnea on exertion over the past 1-2
+months and had been getting shortness of breath from walking
+about a quarter of a mile.  She also had recently been
+feeling very tired in general.
+
+On 2012-05-02 00:00:00, the patient had an ETT Thallium with
+report  which showed that the
+patient exercised for 4?????? min with chest pain.
+Electrocardiogram showed 2-123 Any St. depressions from inferior
+to laterally.
+
+The patient denied any claudication, orthopnea, paroxysmal
+nocturnal dyspnea, or light-headedness, but did have some
+trace edema.
+
+PAST MEDICAL HISTORY:  The patient has a history of Meniere's
+disease and hypertension.
+
+PAST SURGICAL HISTORY:  Hysterectomy.  The patient also has a
+history of a transient ischemic attack 25 years prior.
+
+ALLERGIES:  DIURIL.
+
+MEDICATIONS ON ADMISSION:  Aspirin 325 mg q.d., Lopressor 100
+mg b.i.d., 50 mg q.h.s., Diovan 160 mg q.d., Lipitor 40 mg
+q.d., Premarin 0.625 mg q.d., Meclizine 12.5 mg q.d.
+
+LABORATORY DATA:  White count 5.8, hematocrit 32.4, platelet
+count 167; electrolytes within normal limits; INR 1.1;
+baseline creatinine 1.0.
+
+The patient underwent a cardiac catheterization on 2012-05-02 00:00:00, which revealed elevated LDEDP.  Left ventricular
+ventriculography showed mitral regurgitation.  The patient
+had a short LMCA, a 70% lesions to the mid
+left anterior descending, 85% origin, large diagonal, ramus
+at 60%, 95% origin OM1, 95% OCX after OM1 affecting large more
+distal second OM.  AV groove left circumflex occlusion before
+PLV branch.  Right coronary artery showed mild mid right
+coronary artery lesion, 90%, just before very large PVA with
+just collateral source to the left circumflex and left
+anterior descending diagonal territory.
+
+Cardiac Surgery was consulted, and the patient underwent a
+coronary artery bypass grafting times four with LIMA to the
+left anterior descending, saphenous vein graft to the
+diagonal and to the OM, and saphenous vein graft to the
+posterior descending artery.  The patient tolerated the
+procedure without complications but postoperatively the
+patient had bleeding due to a coagulopathy and severe
+hypertension which necessitated return to the
+operating room for mediastinal exploration and cauterization
+of several small bleeding sites and correction of the
+coagulopathy with platelets, FFP and red cells.
+The patient had an episode of atrial fibrillation and
+ventricular tachycardia on postoperative day #2.  The patient
+was extubated on postoperative day #3 and had other of
+ventricular tachycardia and premature atrial contractions.
+
+On postoperative day #5, a carotid ultrasound was obtained
+which showed less than 40% bilateral plaques.
+
+Electrophysiology was consulted for assistance with
+arrhythmias.  The patient remained in the unit until on
+postoperative day #8 secondary to problems with hypertension
+management.  Eventually a suitable regimen was obtained.
+
+The patient was transferred to the floor and continued to do
+well but did have early morning blood pressure elevations
+which were eventually controlled by adding more hypertension
+medications.
+
+The patient began to have decreased bowel movements on
+postoperative day #11 which prompted checking of a C-diff
+with results that are pending at the time of this dictation.
+Due to the hypertensive episodes, a renal ultrasound for
+evaluation of possible renal artery stenosis was requested
+and again is still pending at the time of this dictation.
+
+On postoperative day #12, the patient had achieved relatively
+good blood pressure control in the 140-160s over 50-70s.  The
+patient was started on oral Flagyl prophylactically for
+continued bowel movements.  The patient was pending physical
+therapy clearance or evaluation for a rehabilitation facility
+for the near future.
+
+The patient is to follow-up in the EP Service, Dr. Mines
+or Dr. Mines, UPMCE for follow-up after
+discharge.
+
+This discharge summary will have an addendum upon discharge.
+
+
+
+
+                            Allisandra Rusignuolo, M.D.  9991
+
+Dictated By:Allisandra Rusignuolo
+MEDQUIST36
+
+D:  2012-05-02 00:00:00  11:34
+T:  2012-05-02 00:00:00  12:31
+JOB#:  9991
+
+cc:test@mail.com

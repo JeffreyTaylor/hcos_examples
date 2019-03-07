@@ -1,0 +1,161 @@
+Admission Date:  2009-09-24 00:00:00     Discharge Date:  2009-09-24 00:00:00
+
+Date of Birth: 1946-09-24 00:00:00 00:00:00     Sex:  F
+
+Service:  Graciana Bakerink
+
+CHIEF COMPLAINT:  High blood pressure.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 32-year-old
+African-American female with a history of chronic headaches,
+obesity, and hypertension, who is admitted from her primary
+care physician's office for a blood pressure of 190/140.  She
+reports intermittent headaches for greater than one year
+worsening in intensity over the last few weeks prior to
+admission.  The headaches typically start in the right
+occipital area, move forward across the midline in the
+frontal region.  Extensive workup for headaches including
+head CT scan had been done all of which was unrevealing.
+
+Over the week prior to admission, she reported worsening of
+her headache, general malaise, constipation, and decreased
+urination during the day, but increased at night.  She had
+recently stopped taking her atenolol which she began in
+2009-09-24 00:00:00 of this year because her blood pressure was within
+the normal range, and she felt that stopping the medication
+might make her feel better with regards to her general
+malaise.
+
+Upon seeing her primary care physician for Dorjan Sallis routine office
+visit, she was found to have a blood pressure of 190/140 with
+4+ protein on urinalysis and was sent to the Emergency
+Department.  Her headache was present at the time, and she
+reported being mildly short of breath.  She denied any other
+signs or symptoms of end organ damage from hypertension
+including visual changes, chest pains, nausea, vomiting, any
+abdominal pain.
+
+In the Emergency Department, she was given nitroprusside
+which dropped her pressure rapidly.  She was admitted to the
+CCU where she was begun on a labetalol drip.  Her blood
+pressure responded appropriately with a decrease of about
+20-25% at which time she was changed to po labetalol and
+transferred to the floor.
+
+At the time of transfer, she was in no acute distress, had no
+complaints of headache, chest pain, or shortness of breath.
+Her constipation and urinary symptoms had resolved.
+
+Past medical history includes obesity, hypertension, chronic
+headaches, depression.
+
+Past surgical history includes left tibiofibular fracture
+with rod placement and she was status post right ankle
+fracture and repair.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Depo Provera although she missed
+her last dose which would have been in 2009-09-24 00:00:00.
+
+MEDICATIONS AT TIME OF TRANSFER:  Labetalol 400 mg po tid,
+albuterol and Atrovent MDIs prn, sliding-scale insulin, and
+Tylenol prn.
+
+FAMILY HISTORY:  Mother is deceased.  She had hypertension
+and end-stage renal disease.  Father has coronary heart
+disease.
+
+SOCIAL HISTORY:  The patient smokes 1.5 to 1 pack per day and
+drinks alcohol only socially.
+
+On examination at the time of transfer, temperature max was
+98, heart rate 89-96, blood pressure ranging from
+130-170/72/101.  In general she was very pleasant, alert and
+oriented times three, an obese African-American female.  On
+HEENT examination, her pupils were equal and reactive.
+Ophthalmoscope was not available at the time, but I was told
+by the CCU resident that she did not have papilledema.  Her
+neck was supple without bruit or thyromegaly.  Heart
+examination was regular.  Lungs were clear to auscultation
+bilaterally.  Her abdominal examination was obese, but soft
+and nontender.  She had normoactive bowel sounds.  No
+abdominal bruit was heard and there was no costovertebral
+angle tenderness.
+
+PERTINENT LABORATORIES:  Her complete blood count revealed a
+hematocrit of 36.2.  Urinalysis again had 4+ protein, though
+at the time of transfer, there was no protein in the urine.
+Chem-7 was significant for hypokalemia reaching a low point
+of 2.9.  Creatinine was 1.6 up from her baseline of 1 in
+2009-09-24 00:00:00 of this year.  LFTs were within normal limits, and the
+patient ruled out for myocardial infarction with enzymes x3.
+Hemoglobin A1C was 5.7.  TSH was 3.0.  Cholesterol panel
+revealed a LDL of 124, HDL of 45, and triglycerides of 211.
+Her cortisol was 15.  Urine drug screen was negative.
+
+HOSPITAL COURSE:  Hypertension:  At the time of transfer from
+the CCU, a significant workup had already begun for possible
+causes of secondary hypertension including renal artery
+stenosis, hyperaldosteronism, pheochromocytoma, 123 Any St.
+disease, and hypothyroidism.  Laboratories were sent for all
+of these including renin level, aldosterone level, 24-hour
+urine for metanephines, am cortisol level, and thyroid
+function tests.  Many of these are still pending at the time
+of this dictation.  However, ones that have returned include
+the cortisol which was normal at 15, aldosterone which was
+slightly elevated at 18, though without knowing the renin, it
+is difficult to know if this is a state of hyperaldosteronism
+because even with renal artery stenosis, an elevated
+aldosterone would be suspected.  Still pending are the urine
+for metanephrines and the renin level.
+
+MRI/MRA was attempted to rule out renal artery stenosis.
+However, because of the patient's body habitus, she was
+unable to fit in the MRI machine.  CTA was the next option,
+however, Radiology did not want to perform this test in the
+setting of a rising serum creatinine of 1.7 at the time and a
+Captopril renal vascular nuclear scan was planned.  However,
+was not performed prior to discharge.
+
+Her blood pressure was maintained with the po labetalol
+150-170 range.  Care was taken not to lower her blood
+pressure too quickly.  Renal was consulted in help to guide
+the workup for secondary hypertension.  Ultimately, they felt
+that it was likely benign hypertension secondary to
+nonaldosterone mineral corticoid activity seen frequently in
+African-American women.  They did recommend however, ruling
+out renal artery stenosis definitively by getting a MRI of
+the renal vasculature, open MRI.  They recommended treating
+her hypertension with two-drug therapy for now probably
+adding a third drug in the outpatient setting to get better
+control.
+
+DISCHARGE MEDICATIONS:  Labetalol 600 mg UPMCE, nifedipine 30
+mg sustained release once daily, K-Dur 20 mEq q day, and she
+was instructed to continue with her prior outpatient
+medications of Depo Provera.
+
+FOLLOWUP:  The patient is instructed to followup with Dr.Dorjan Sallis office.  She has an appointment, 2009-09-24 00:00:00 at 8:45.
+She is also instructed to schedule a MRI by calling
+test@mail.com at UPMCE Hospital.  She is also to
+followup with Dr. Graciana Bakerink Sallis from Nephrology in his clinic
+at test@mail.com.  The patient is discharged in good
+condition.
+
+DISCHARGE DIAGNOSIS:  Hypertension of unknown etiology.
+
+
+
+
+
+
+                          Graciana Bakerink, M.D.  15621
+
+Dictated By:Graciana Bakerink
+
+MEDQUIST36
+
+D:  2009-09-24 00:00:00  08:37
+T:  2009-09-24 00:00:00  05:20
+JOB#:  15621

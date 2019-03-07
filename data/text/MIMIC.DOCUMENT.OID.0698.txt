@@ -1,0 +1,189 @@
+Admission Date:  2011-09-20 00:00:00       Discharge Date: 2011-09-20 00:00:00
+
+Date of Birth: 1955-09-30 00:00:00 00:00:00       Sex:  M
+
+Service:
+
+NOTE - An addendum will be dictated when the patient is
+discharged.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 75 year old
+male with a past medical history significant for coronary
+artery disease, diabetes and chronic renal insufficiency,
+admitted to Coronary Care Unit following cardiac
+catheterization for ventilatory support and Intensive Care
+Unit monitoring.  The patient originally presented to an
+outside hospital the morning of admission complaining of
+chest pain and symptoms of congestive heart failure.  An
+electrocardiogram showed a new left bundle branch block.  He
+was then transferred to UPMCE
+for emergent cardiac catheterization.  The patient went
+immediately to the Catheterization Laboratory upon arrival.
+Catheterization showed three vessel coronary artery disease,
+patent graft, left internal mammary artery to the left
+anterior descending, patent saphenous vein graft to the
+posterior descending artery and patent saphenous vein graft
+to obtuse marginal 1.  It was significant for increased right
+and left filling pressures.  Angioplasty was then performed
+on the aortoiliac bypass graft, left circumflex coronary
+artery with failed angioplasty of obtuse marginal 1.  The
+patient developed significant respiratory distress following
+catheterization and was ventilated for ventilatory support
+with transfer to the Coronary Care Unit on a ventilator.
+
+PAST MEDICAL HISTORY:  Coronary artery disease status post
+coronary artery bypass graft redo, three vessels in 2011-09-20 00:00:00,
+four vessels in 2011-09-20 00:00:00, diabetes mellitus times 13 years,
+chronic renal insufficiency with baseline creatinine 2.3,
+prostate cancer diagnosed in 2011-09-20 00:00:00 refractory to hormone
+therapy followed by Dr. Zuriyah Silva, gout, depression, anemia,
+congestive heart failure with unknown ejection fraction.
+
+SOCIAL HISTORY:  History of tobacco use, 30 pack years, quit
+in 2011-09-20 00:00:00, occasional alcohol.
+
+HOME MEDICATIONS:
+1.  Calcitriol .25 mcg q. day
+2.  Calcium acetate 657 mg t.i.d.
+3.  Docusate 100 mg b.i.d.
+4.  Epogen 10,000 units subcutaneous q. Thursday
+5.  Felodipine 5 mg q. day
+6.  Iron 325 mg t.i.d.
+7.  Fluoxetine 20 mg q. day
+8.  Glipizide 5 mg q. AM
+9.  Hydralazine 40 mg b.i.d.
+10. Hydroxyzine 25 mg b.i.d.
+11. Metoprolol 25 mg t.i.d.
+12. Omeprazole 40 mg q. day
+13. Senna two tablets b.i.d.
+14. Simvastatin 20 mg q. day
+15. Allopurinol 50 mg q. day
+16. Isosorbide mononitrate 60 mg q. day
+17. Lasix 60 mg b.i.d.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs, temperature
+96, heartrate 60, blood pressure 179/57, oxygen saturation
+100% on 30% FIO2, weight 108 kg.  General:  Elderly male in
+no acute distress.  Head, eyes, ears, nose and throat, pupils
+equal, round and reactive to light and accommodation.
+Oropharynx clear.  Neck supple.  No lymphadenopathy.  Chest
+clear to auscultation anteriorly, no wheezes.  Heart, regular
+rhythm, II/VI systolic murmur at the lower left sternal
+border with no radiation.  Abdomen, soft, nontender,
+nondistended, positive bowel sounds.  Extremities, 1+ edema.
+Pulses dopplerable bilaterally.  Venous stasis changes
+bilaterally.  Neurological, intubated, sedated.  Moves
+extremities times four.
+
+LABORATORY DATA:  White blood count 15.8, hematocrit 29.8,
+platelets 228.  Sodium 142, potassium 4.7, chloride 111,
+bicarbonate 18, BUN 86, creatinine 5.0, glucose 138.  Calcium
+8.7, magnesium 1.7, phosphorus 4.6.  Chest x-ray:
+Cardiomegaly, mild congestive heart failure.
+Electrocardiogram, sinus rate at 80, left bundle branch
+without ST changes.
+
+HOSPITAL COURSE:  Cardiovascular - Ischemia, the patient with
+a history of coronary artery disease, transferred from an
+outside hospital for emergent cardiac catheterization
+following new left bundle branch block at an outside
+hospital.  During catheterization, the patient underwent
+percutaneous transluminal coronary angioplasty to the left
+circumflex with serial percutaneous transluminal coronary
+angioplasty of obtuse marginal 1.  Following catheterization
+he was maintained on a statin, Plavix, and Aspirin.  He was
+initially on a nitroglycerin drip which was then converted
+over to p.o.  He was also started on Hydralazine and titrated
+up on a beta blocker.  This was subsequently converted to
+Carvedilol.  The patient did not have any further episodes of
+chest pain or ischemia during the hospitalization.
+
+Pump, the patient with congestive heart failure Class 4.  The
+patient underwent echocardiogram following cardiac
+catheterization which showed an ejection fraction of 30 to
+40% and severe hypokinesis inferiorly and posteriorly along
+with 1+ mitral regurgitation and impaired ventricular
+relaxation.  Immediately following catheterization the
+patient was diuresed on a Natrecor drip.  He was quickly
+weaned off of this and titrated over to daily intravenous
+Lasix.  He was initially started on beta blocker and later
+converted over to Carvedilol which he tolerated well.  He was
+also started on Hydralazine and put back on his
+nitroglycerin.  He continued to receive prn Lasix for
+symptoms of fluid overload.
+
+Rhythm, the patient remained in sinus rhythm and was
+monitored on Telemetry throughout his hospital course.
+
+Pulmonary - The patient was intubated following cardiac
+catheterization for respiratory distress following minimal
+diuresis with Natrecor drip.  The patient was quickly weaned
+off of the ventilator and successfully extubated without any
+complications.  He did not require any additional oxygen
+requirements throughout the hospitalization and had no
+symptoms of respiratory distress.
+
+Infectious disease - The patient developed leukocytosis and
+diarrhea during hospitalization and a stool sample was
+positive for Clostridium difficile toxin.  He was started on
+Vancomycin therapy for treatment of Clostridium difficile
+colitis.  His symptoms of diarrhea improved following
+initiation of antibiotic therapy.
+
+Renal - The patient with chronic renal insufficiency with
+baseline creatinine of 2.3.  At admission, his creatinine was
+acutely elevated up to 5.0, thought to be due to dye load
+during catheterization.  He was aggressively hydrated and his
+creatinine trended down.  He briefly bumped his creatinine
+due to hypovolemia during his diarrhea but this resolved with
+hydration.  He was eventually put back on his daily Lasix
+dose for maintenance.
+
+Fluids, electrolytes and nutrition - The patient's volume
+status and electrolytes were followed throughout admission.
+He received multiple electrolyte re123 Any St.ns.
+
+Heme - Anemia, the patient with baseline anemia believed due
+to chronic renal insufficiency.  He was continued on iron and
+Epogen per his home regimen.  He required transfusion of 2
+units of packed red blood cells during the hospitalization.
+His acute drop was thought to be following his
+catheterization procedure.  He responded appropriately to the
+transfusions and remained hemodynamically stable.
+
+Endocrine - Patient with diabetes mellitus.  His Glipizide
+was held initially and he was placed on sliding scale
+insulin.  Following resumption of the regular diet he was
+converted back to home medicines.
+
+Prophylaxis - The patient was maintained on subcutaneous
+heparin and proton pump inhibitor throughout his
+hospitalization.
+
+Code status - The patient was a full code throughout the
+hospitalization.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  Home.
+
+DISCHARGE DIAGNOSIS:
+1.  Myocardial infarction with cardiac catheterization
+2.  Congestive heart failure
+3.  Acute and chronic renal failure
+
+DISCHARGE MEDICATIONS/FOLLOW UP INSTRUCTIONS:  Will be
+dictated in an addendum to this discharge summary.
+
+
+
+                            Zuriyah Silva, M.D.  8084
+
+Dictated By:Zuriyah Silva
+MEDQUIST36
+
+D:  2011-09-20 00:00:00  15:06
+T:  2011-09-20 00:00:00  16:22
+JOB#:  8084
+
+

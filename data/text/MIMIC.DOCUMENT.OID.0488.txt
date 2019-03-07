@@ -1,0 +1,285 @@
+Admission Date:  2006-10-19 00:00:00              Discharge Date:   2006-10-19 00:00:00
+
+Date of Birth: 1934-10-19 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Tetracyclines / Niacin
+
+Attending:Leriyah Schreader
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+2006-10-19 00:00:00 Redo sternotomy, Aortic Valve replacement(21mm
+UPMCE Mosaic Ultra porcine), Coronary artery bypass graft x
+1(SVG-PDA)
+
+History of Present Illness:
+Known coronary artery disease in 72 year old diabetic. He has
+had progressive dyspnea and arm pain with exertion for months.
+Catheterization in 2006-10-19 00:00:00 revealed critical aortic stenosis
+(123 Any St. 0.7cm2) with patent LIMA to LAD, 30% lesion of radial
+artery to ramus graft and an osteal 60% RCA stenosis. The vein
+graft to the obtuse marginal was occluded.  He is admitted now
+for valve replacement and possible coronary graft. His Coumadin
+was stopped recently and he was admitted for Heparin therapy
+preoperatively.
+
+Past Medical History:
+insulin dependent diabetes mellitus
+diabeteic neuropathy
+hypothyroidism
+lumbar disc disease
+paroxysmal atrial fibrilation
+obesity
+s/p coronary artery bypass grafting
+s/p tonsillectomy
+hypertension
+dyslipidemia
+hearing loss
+benign prostatic hypertrophy
+degenerative joint disease
+
+Social History:
+He lives with his wife in Eun Inserra.
+Rare alcohol use and denies any cigarette smoking.
+He is a retired pharmacist.
+
+Family History:
+Coronary artery disease, Neg<55
+
+Physical Exam:
+Admission
+VS: 70 16 174/70 69" 105kg
+Gen: WDWN obese male in NAD
+Skin: Unremarkable
+HEENT: EOMI, PERRL NCAT
+Neck: Supple, FROM -JVD
+Chest: CTAB -w/r/r
+Heart: RRR 4/6 systolic murmur radiating to carotids
+Abd: Soft, NT/ND +BS
+Ext: Warm, well-perfused -edema
+Neuro: A&O x 3, MAE, non-focal
+
+Discharge
+VS T98.9  HR 75  BP 112/78  RR 20  O2sat 94%-RA   Wt 101.2K
+Gen NAD
+Neuro A&Ox3, nonfocal exam
+Pulm CTA-bilat
+CV RRR, no murmur. Sternum stable, incision CDI
+Abdm soft, NT/+BS
+Ext warm, 1+ pedal edema bilat
+
+Pertinent Results:
+2006-10-19 00:00:00 07:30AM BLOOD WBC-10.4 RBC-3.13* Hgb-9.0* Hct-27.5*
+MCV-88 MCH-28.9 MCHC-32.9 RDW-14.4 Plt Ct-399
+2006-10-19 00:00:00 07:30AM BLOOD PT-25.4* INR(PT)-2.5*
+2006-10-19 00:00:00 07:30AM BLOOD Glucose-140* UreaN-24* Creat-1.6* Na-135
+K-4.1 Cl-97 HCO3-27 AnGap-15
+2006-10-19 00:00:00 04:04AM BLOOD ALT-359* AST-205* AlkPhos-165* Amylase-25
+TotBili-0.8
+2006-10-19 00:00:00 07:30AM BLOOD WBC-10.4 RBC-3.13* Hgb-9.0* Hct-27.5*
+MCV-88 MCH-28.9 MCHC-32.9 RDW-14.4 Plt Ct-399
+2006-10-19 00:00:00 07:30AM BLOOD Plt Ct-399
+2006-10-19 00:00:00 07:30AM BLOOD PT-25.4* INR(PT)-2.5*
+2006-10-19 00:00:00 07:30AM BLOOD Glucose-140* UreaN-24* Creat-1.6* Na-135
+K-4.1 Cl-97 HCO3-27 AnGap-15
+
+Inserra,Eun L. [**PT ID Number 4016**] M  73  2006-10-19 00:00:00
+ Radiology Report CHEST (PA & LAT) Study Date of 2006-10-19 00:00:00 10:19
+AM
+ CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 4017**]
+Reason: f/u atx, effusions
+Final Report
+CHEST PA AND LATERAL
+REASON FOR EXAM: 73-year-old man status post redo sternotomy,
+AVR, CABG,
+pacemaker.
+Since 2006-10-19 00:00:00, left-sided pacemaker ends in expected
+position. Prior sternotomy for CABG is again seen. Small
+bilateral pleural effusion with adjacent atelectasis decreased,
+now minimal. There is no volume overload.
+Incidentally, DISH of the thoracic spine is unchanged.
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. Leriyah Schreader
+DR. [**First Name4 (NamePattern1) 2578**] Inserra
+Approved: FRI 2006-10-19 00:00:00 3:47 P
+
+UPMCE ECHOCARDIOGRAPHY REPORT
+Inserra, Eun       UPMCE [**Numeric Identifier 4020**]       TTE (Focused
+views) Done 2006-10-19 00:00:00 at 1:52:50 PM      FINAL
+Referring Physician     Eun Inserra Information
+Eun Inserra, [**First Name3 (LF) **] R.
+UPMCE, Division of Cardiothorac
+UPMCE
+123 Any St., [**Numeric Identifier 711**]  Status: Inpatient DOB: 1934-10-19 00:00:00 00:00:00
+Age (years): 72 M  Hgt (in):
+BP (mm Hg): 80/50  Wgt (lb):
+HR (bpm): 50  BSA (m2):
+Indication: Coronary artery disease. H/O cardiac surgery
+(CABG/AVR), postoperative hypotension.
+ICD-9 Codes: 780.2, V43.3
+Test Information
+Date/Time: 2006-10-19 00:00:00 at 13:52    Interpret MD: Eun Inserra Eun Inserra, MD
+Test Type: TTE (Focused views) SonEun Inserra:
+Doppler: Color Doppler only Test Location: West SICU/CTIC/VICU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008W050-: Machine: Vivid 2006-10-19 00:00:00
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Diastolic Dimension:  4.7 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30% to 40%  >= 55%
+Findings
+LEFT ATRIUM: Normal LA size.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV.
+LEFT VENTRICLE: Normal LV wall thickness and cavity size.
+Moderate global LV hypokinesis. Mildly depressed LVEF.
+RIGHT VENTRICLE: Normal RV chamber size. Mild global RV free
+wall hypokinesis.
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR). AVR
+leaflets move normally. No AR.
+MITRAL VALVE: Normal mitral valve leaflets. Mild thickening of
+mitral valve chordae.
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Emergency study performed by the cardiology fellow on call.
+Conclusions
+The left atrium is normal in size. Left ventricular wall
+thicknesses and cavity size are normal. There is moderate global
+left ventricular hypokinesis initially with bradycardia (LVEF =
+30%) that improves with pacing to 80/min (LVEF 40%).. Right
+ventricular chamber size is normal. with mild global free wall
+hypokinesis. A well-seated bioprosthetic aortic valve prosthesis
+is seen with good leaflet motion. No aortic regurgitation is
+seen (focused color Doppler). The mitral valve leaflets are
+structurally normal. No definite mitral regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+  Electronically signed by 123 Any St.g
+physician Inserra 2006-10-19 00:00:00 14:16
+
+
+
+Brief Hospital Course:
+Mr. Eun was admitted one day prior to his surgery to be
+started on Heparin (he d/c'd Coumadin 4 days prior to admission)
+and undergo complete pre-operative work-up. On 2006-10-19 00:00:00 he was
+brought to the operating room where he underwent a
+redo-sternotomy, coronary artery bypass graft x 1, and aortic
+valve replacement. Please see operative report for surgical
+details. In summary he had a redo sternotomy with AVR(#21
+UPMCE Mosaic porcine) and CABGx1(SVG-Pda). His bypass time
+was 94 minutes with a crossclamp of 65 minutes. he tolerated the
+operation well and following surgery he was transferred to the
+CVICU for invasive monitoring in stable condition. In the
+immediate post-op period he remained hemodynamically stable, his
+anesthesia was reversed he was weaned from sedation, awoke
+neurologically intact and extubated. Endocrine/Inserra were
+consulted post-op to assist with patients poor diabetes control
+(recent A1C 8%). On post-op day one he was started on beta
+blockers and diuretics. On POD2 he was transferred from the ICU
+to the stepdown floor for continued care. Once on the floor he
+had several episodes of atrial fibrillation which were treated
+with Beta blockers. Following beta blockade Mr Inserra had
+symptomatic bradycardia and was transferred back to the ICU for
+closer monitoring, EP service was consulted and a permenant
+pacemaker was placed on 2006-10-19 00:00:00.
+On POD7/1 he was again transferred to the stepdown floor. Over
+the next several days the patients activity level was advanced
+and he was anticoagulated for his atrial fibrillation. On POD
+2006-10-19 00:00:00 he was discharged home with visiting nurses. His INR is to
+be drawn by the VNA on 2006-10-19 00:00:00 and coumadin dosing is to be
+followed by Dr Inserra.
+
+Medications on Admission:
+Thyroxine 25mcg/D, Warfarin(dc 4 days), Amitryptilline 25mg/D,
+Lisinopril 30mg UPMCE, Neurontin 300mg/D, Simvistatin80mg/D, ASA
+81mg/D, Flomax 0.4mg/D, ToprolXL 100mg TID, Flonase, Glucosamine
+1000mg UPMCE, Plavix 75mg/D (dc 5 days)
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+5. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+6. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal DAILY (Daily).
+Disp:*1 bottle* Refills:*2*
+10. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO BID (2
+times a day) for 10 days.
+Disp:*60 Tablet(s)* Refills:*0*
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO twice a day for
+10 days.
+Disp:*20 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+12. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+13. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+14. Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO at bedtime:
+Take as directed by Dr. Inserra  for INR goal of 2006-10-19 00:00:00.5.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Aortic stenosis s/p Aortic Valve Replacement
+Coronary Artery Disease s/p coronary artery bypass graft x 1
+PMH: s/p Coronary Artery Bypass Graft x 3 (2006-10-19 00:00:00), Hypertension,
+paroxysmal atrial fibrillation, hearing loss, degenerative joint
+disease, lumbar disc disease, insulin dependent diabetes
+mellitus, benign prostatic hypertrophy
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+shower daily, no baths or swimming
+no driving for 4 weeks and off all narcotics
+no lifting more than 10 pounds for 10 weeks
+no creams, lotions or powders to incisions
+report any fever more than 100.5, redness of, or drainage from
+incisions
+report any weight gain greater than 2 pounds a day or 5 pounds a
+week
+Take all medications as prescribed
+
+Followup Instructions:
+Dr. Inserra in 4 weeks (test@mail.com)
+Dr. Leriyah Schreader Inserra in 2 weeks
+Dr. Leriyah Schreader Inserra in 2006-10-19 00:00:00 weeks
+Please call for appointments
+
+
+Completed by:2006-10-19 00:00:00

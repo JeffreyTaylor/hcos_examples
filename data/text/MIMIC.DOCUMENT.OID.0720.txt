@@ -1,0 +1,386 @@
+Admission Date:  2010-05-29 00:00:00              Discharge Date:   2010-05-29 00:00:00
+
+Date of Birth: 1944-02-21 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Vancomycin
+
+Attending:Jamore Hammoudeh
+Chief Complaint:
+Rib pain
+
+Major Surgical or Invasive Procedure:
+Intubation
+Stress MIBI
+
+
+History of Present Illness:
+71 y/o F w/ metastatic breast ca, w/ bone involvement, on
+tamoxifen, who presents with worsening right rib pain.
+.
+She reports that rib pain has been a chronic problem, but has
+been worse over past one week. The right side is worse, but she
+also reports left sided rib pain and chest wall pain. She does
+not report any trauma or heavy lifting or turning that seemed to
+123 Any St.itate the pains. She was recently started on percocet for
+pain which did help, but she has had to take it around the clock
+without full relief.
+.
+ROS: denies n/v/f/c. no chest pain. + shortness of breath-
+secondary to not able to take in full breaths from pain in right
+side; No associated rash; + constipation.
+.
+In ER, given oxycodone 10mg, flexerill 10mg, and 10mg oxycontin.
+However continued pain, therefore admitted for pain control
+
+
+Past Medical History:
+1. Hypertension
+2. Glaucoma
+3. Breast cancer
+4. Rib pain
+5. Atrial fibrillation
+.
+ONCOLOGIC HISTORY: Initially diagnosed in spring of 2010-05-29 00:00:00 with a
+dimpling in her right breast and a positive mammogram.
+Excisional biopsy demonstrated infiltrating and intraductal
+carcinoma which was greater than 2 cm and she subsequently went
+for a right modified mastectomy and axillary dissection. She had
+negative margins and 1 positive lymph node. The tumor was ER
+positive and she was subsequently stage 2, N1 disease.
+Subseqeuently received adjuvant CMF chemotherapy, followed by 5
+years tamoxifen. Had long disease free interval, with subsequent
+recurrent disease w/ bony involvement in 2010-05-29 00:00:00. Started on femara
+at that point with good response. On progression from this she
+was placed on aromasin in 2010-05-29 00:00:00 but did not do well with this,
+with increased bone pain. Most recently placed back on tamoxifen
+since 2010-05-29 00:00:00.
+
+Social History:
+Lives at home in 123 Any St. w/ husband, functional of ADLs. Former
+smoker for
+approximately 50 pack years, quit 10 years ago.  Rare social
+alcohol.
+
+Family History:
+sister died of breast ca, 56
+
+Physical Exam:
+vitals- 98.3, 162/94,76, 18, 97% RA
+gen- NAd
+heent- EOMI. MMM
+pulm- CTA b/l
+CV- RRR. no m/r/g
+abd- soft,non-tender, mild distension, NABS
+ext- 1+ ankle edema b/l LEs, no calf swelling, tenderness
+neuro- alert and oreinted x 3, CNII-XII intact.
+back/flank- no focal spinal tenderness; + tenderness to
+palpation diffusely along right posterior and anterior rib cage,
+also w/ tenderness on L side (R>L). + tenderness over sternum
+and anterior chest wall to palpation. no associated dermatomal
+rash
+
+Pertinent Results:
+CXR 2010-05-29 00:00:00: PA AND LATERAL CHEST RADIOGRAPH:  There is an
+opacity within the left lung base with associated volume loss
+consistent with atelectasis/consolidation. Small left pleural
+effusion is present.  The cardiomediastinal contour is stable.
+The pulmonary vessels demonstrate mild cephalization, however
+there is no frank edema. Mild loss of height is seen in
+mid-thoracic spine vertebral body as well as mottled appearance
+and fractures involving multiple ribs.
+.
+TTE 2010-05-29 00:00:00: The left atrium is elongated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Overall left ventricular
+systolic function is normal (LVEF>55%). Transmitral Doppler and
+tissue velocity imaging are consistent with Grade II (moderate)
+LV diastolic dysfunction. Right ventricular chamber size and
+free wall motion are normal. The aortic root is moderately
+dilated athe sinus level. The ascending aorta is mildly dilated.
+The aortic arch is mildly dilated. The aortic valve leaflets are
+mildly thickened. The aortic valve is not well seen. There is no
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve
+leaflets are mildly thickened. The mitral valve is not well
+seen. Mild to
+moderate (2010-05-29 00:00:00+) mitral regurgitation is seen. [Due to suboptimal
+image
+quality, the severity of mitral regurgitation may be
+significantly
+UNDERestimated.] There is no pericardial effusion.
+.
+RIB FILMS 2010-05-29 00:00:00: Multiple healed bilateral rib fractures and
+osseous metastatic disease involving the ribs.  Possible acute
+fracture of lateral left sixth rib.
+.
+CT T-SPINE 2010-05-29 00:00:00: CT scan of the thoracic spine which was
+obtained on 2010-05-29 00:00:00, and employed contrast administration
+intravenously.  The study was reported by myself and Dr.
+Vesper as revealing "diffusely abnormal appearing vertebral
+bodies in the thoracic spine as seen on the prior MRI scan
+consistent with metastatic disease.  A focal lytic lesion in T5
+vertebral body has progressed since 2010-05-29 00:00:00.  Anterior wedging of
+T12 with an associated central lucency extending to the superior
+endplate suggests pathological fracture. Heterogeneously
+enlarged thyroid gland.  Correlate sonDrena Vesper."  Comparison
+with the prior study of 2010-05-29 00:00:00 reveals likely progression
+of diffuse metastatic disease of the thoracic spine.  While the
+present study appears to be of higher spatial resolution than
+the prior examination, there has been some progression of
+compression fractures, including nearly all thoracic vertebral
+bodies, most notably at T7, T8 and T12.  However, there does not
+appear to be retropulsion of pathologic fractures into the
+central spinal canal.  The T5 lytic lesion is not as clearly
+discernible at this time, suggesting there may have been some
+interval reactive sclerosis.  There are probable small bilateral
+pleural effusions, slightly more evident on the left side, as
+well as multiple small wedge-shaped areas of soft tissue density
+within the posterior lung fields.  These pulmonary lesions were
+not present on the prior spinal CT scan but were seen, at least
+in part, on a recent torso CT scan.  It is suggested that these
+pulmonary issues be reviewed
+with the chest CT service, and if deemed necessary, a followup
+chest CT scan be obtained. Finally, there is no overt sign or an
+epidural mass on this study, although in this regard, MR
+scanning is more efficacious at detecting such an abnormality.
+CONCLUSION:  Apparent progression of what is likely diffuse
+osseous metastatic disease, with the appearance of multiple
+compression fractures as noted above.
+
+.
+2010-05-29 00:00:00 TTE
+The left atrium is mildly dilated. The right atrium is
+moderately dilated.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular
+cavity size is normal. Overall left ventricular systolic
+function is normal
+(LVEF>55%). Tissue Doppler imaging suggests an increased left
+ventricular
+filling pressure (PCWP>18mmHg). Transmitral Doppler and tissue
+velocity
+imaging are consistent with Grade III/IV (severe) LV diastolic
+dysfunction.
+Right ventricular chamber size and free wall motion are normal.
+The ascending
+aorta is mildly dilated. The aortic valve leaflets are mildly
+thickened. There
+is no aortic valve stenosis. Trace aortic regurgitation is seen.
+The mitral
+valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen.
+The left ventricular inflow pattern suggests a restrictive
+filling
+abnormality, with elevated left atrial pressure. The tricuspid
+valve leaflets
+are mildly thickened. Moderate to severe [3+] tricuspid
+regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension. There
+is an anterior
+space which most likely represents a fat pad.
+
+Compared with the prior study (images reviewed) of 2010-05-29 00:00:00,
+the mitral
+deceleration time is now shorter suggestive of more severe
+diastolic
+dysfunction/elevated left atrial pressures. Significant
+tricuspid
+regurgitation is now detected (suboptimal visualized in prior
+study).
+Significant pulmonary artery systolic hypertension in now
+detected (unable to
+assess in prior study).
+
+
+Brief Hospital Course:
+71 y/o F w/ metastatic breast ca, w/ bone involvement, on
+tamoxifen, who was admitted with worsening chest wall pain.
+.
+The patient was intially admitted to the oncology service for
+pain control.  She was intially managed on the floor with oral
+narcotic pain regimens. Rib films revealed multiple chronic and
+acute rib fractures.  Given persistently poorly controlled pain
+despite uptitration of narcotics, CT of her T-spine was
+obtained; this study revealed multiple vertebral compression
+fractures.  Patient was fitted with an abdominal binder for
+support with ambulation.  On 2010-05-29 00:00:00 the patient developed an
+episode of atrial fibrillation with rapid ventricular resonse,
+and developed pulmonary edema requiring intubation and
+transferred to the UPMCE.
+.
+1. Respiratory failure: Due to pulmonary edema secondary to
+hypertension and atrial fibrillation with underlying diastolic
+heart failure.  She was diuresed on a lasix gtt with
+improvement.  She was extubated on 2010-05-29 00:00:00.  She did well, and
+was transferred to OMED on 2010-05-29 00:00:00, however, became quite anxious,
+hypertensive and developed recurrent pulmonary edema requiring
+transfer back to the ICU on 2010-05-29 00:00:00; her respiratory status quickly
+normalized with diuresis as well as control of her anxiety and
+blood pressure. She continued to improve o nthe floor, with IV
+lasix 20mg UPMCE
+.
+2 Hypertension, Diastolic heart failure:  Patient was on regimen
+of Diovan and Toprol at time of admission.  These were
+discontinued on the floor as her narcotics were uptitrated.
+After extubation, she developed another episode of hypertension
+in the setting of anxiety and was noted to have persistantly
+elevated SBP, therefore her Diovan was restarted on 2010-05-29 00:00:00.  She
+was transferred to cardiology for optimization of her cardiac
+regimen. Beta blocker was discontinued and her diovan was
+uptitrated.
+.
+3 PAF: The patient has a history of paroxysmal atrial
+fibrillation.  Her INR was supratherapeutic at 3.5 at time of
+admission on home dose of 4.5 mg qHS.  On 2010-05-29 00:00:00 the patient
+developed Afib with RVR, developed pulmonary edema requiring
+intubation.  While in the ICU, her coumadin was discontinued due
+to anticipated procedures.  Several regimens for rate control
+were trialed including diltiazem gtt, digoxin; the patient
+flipped in and out of NSR and afib for several days, frequently
+dropping her BP and requiring Neo while in Afib.  EP was
+consulted. She was loaded on Amio; she converted to NSR and
+remained there for the remainder of her hospitalization with
+intermittant brief periods of asymptomatic PAF, .
+Coumadin was restarted on 2010-05-29 00:00:00 and she reached therapeutic
+levels prior to d/c.
+.
+4 Pain control: The pain team was consulted.  The patient was
+controlled with dexamethasone, tylenol, lyrica, tizanidine,
+lidocaine patch, and PRN dilaudid.
+.
+5 Anxiety: The patient has significant anxiety which exacerbate
+her HTN and atrial fibrillation.  She was given ativan PRN with
+good relief.
+.
+6 Metastatic breast cancer: The patient was continued on
+tamoxifen.  She will follow up with her primary oncologist for
+further management.
+.
+7 Diarrhea: The patient developed diarrhea on 2010-05-29 00:00:00.  She was
+started empirically on PO Flagyl with improvement of her
+symptoms.  C Diff was negative x2.  She will complete a 7 day
+course of flagyl.
+
+On the day of discharge, patient is feeling improved.  She has
+had good success with physical therapy, and her breathing feels
+improved.  Her blood pressure is well controlled and she is in
+NSR.
+
+Medications on Admission:
+Diovan 40mg UPMCE
+Toprol 50mg UPMCE
+Coumadin 4.5 mg qhs
+Timolol eye drops OD
+Alphagan OU UPMCE
+Citrocal
+Percocet 5-10mg q 4-6prn
+
+
+Discharge Medications:
+1. Tamoxifen 20 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day) as needed.
+3. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation Q4H (every 4 hours).
+4. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+5. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+6. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical QDAY ().
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+8. Nystatin 100,000 unit Tablet Sig: One (1) Tablet Vaginal HS
+(at bedtime).
+9. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic UPMCE (2
+times a day).
+10. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q3-4H
+(Every 3 to 4 Hours) as needed for pain.
+11. Insulin Lispro (Human) 100 unit/mL Solution Sig: 1-10 units
+Subcutaneous ASDIR (AS DIRECTED).
+Disp:*500 units* Refills:*0*
+12. Tizanidine 2 mg Tablet Sig: 0.5 Tablet PO TID (3 times a
+day).
+13. Timolol Maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic
+DAILY (Daily).
+14. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical UPMCE
+(2 times a day).
+15. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime).
+16. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+17. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed.
+18. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+19. Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours).
+20. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours).
+21. Valsartan 160 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+22. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+23. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed.
+24. Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units
+heparin) each lumen Daily and PRN.  Inspect site every shift.
+25. Outpatient Lab Work
+INR check every thursday
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Rib fractures
+Vertebral compression fractures
+Metastatic breast cancer
+Atrial fibrillation
+
+
+Discharge Condition:
+Afebrile, vital signs stable, tolerating POs.
+
+
+Discharge Instructions:
+You were admitted for pain control.  You were found to have
+several rib fractures, as well as multiple vertebral compression
+fractures in your thoracic spine.
+.
+Additionally, you experienced 2 episodes of pulmonary edema
+(fluid on the lungs).  These may have been due to your atrial
+fibrillation and hypertension.
+
+A stress MIBI test showed normal myocardial perfusion.
+
+Some of your medicines have been adjusted.  Please take them
+exactly as prescribed on the attached list.
+
+Please take amiodarone 200mg daily
+Please take valsartan 160mg twice a day.
+Please continue to take the Flagyl for 3 more days to complete a
+7 day course.
+.
+You should call Dr.Drena Vesper office if you are experiencing
+fevers, shortness of breath, chest pain, confusion, or other
+concerning symptoms.
+
+Followup Instructions:
+You should call Dr.Drena Vesper office to schedule a follow-up
+appointment in 2010-05-29 00:00:00 days: (test@mail.com.
+
+Please call Dr.Drena Vesper office at test@mail.com to make a follow
+up appointment in 2 weeks.
+
+Please follow up with Dr. Vesper in 2010-05-29 00:00:00 weeks.  Please call his
+office for an appointment.
+
+
+                             Drena Vesper MD Jamore Hammoudeh
+

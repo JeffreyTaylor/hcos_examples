@@ -1,0 +1,632 @@
+Admission Date:  2009-12-21 00:00:00              Discharge Date:   2009-12-21 00:00:00
+
+Date of Birth: 1945-10-07 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Nitroglycerin
+
+Attending:Lataiya Freshcorn
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+The patient is an 81 year old Russian-speaking female with a
+history of HOCM s/p septal EtOH ablation in 2009-12-21 00:00:00, CHF EF >70%,
+nonobstructive CAD by cath '2009-12-21 00:00:00, mild dementia, CRI (baseline
+1.9) , DMII who is admitted to the ICU on 2009-12-21 00:00:00 for suspected
+pneumosepsis.
+
+She had been recently hospitalized from 2009-12-21 00:00:00 for a CHF
+exacerbation in the setting of poorly controlled hypertension.
+She was seen by cardiology who started her on lisinopril and
+HCTZ. On her day of discharge she was given a influenza vaccine
+which resulted in chills and myalgia but she was discharged home
+regardless.
+
+ While at home she continued to have subjective fevers and
+chills but per her daughter she had no measurable temperature.
+She had worsening SOB despite taking all of her medications with
+a productive cough. She denied CP but did feel some chest
+tightness. She had poor a123 Any St.e with mild nausea w/o vomiting,
+and denied abdominal pain or dysuria. At 11pm the night prior to
+admission, she could not even lay down to sleep so she called
+her daughter who called 911.
+
+ In the ED she was hypertensive with SBP of 145 and her CXR was
+read as mild CHF, no pneumonia with a  pro-BNP of 13,431 (up
+from 4107 during her recent hospitalization). She was given 20mg
+IV lasix and dropped her SBP to the 85/54 from 142 with a fever
+to 100.5.
+
+A sepsis line was placed and she was given Vancomycin,
+levofloxacin, and flagyl for empiric ? aspiration PNA coverage.
+SBP improved to 100s with 500cc NS bolus so no vasopressors were
+initiated. The ED staff was also concerned about ST dep inf on
+ECG and started heparin gtt for ACS.
+
+Her EKG showed SR 70s, LVH, increased voltage, downward sloping
+ST segments V4-V6, I, AVL with TWI with 3 mm STE V1-V3 (old from
+2009-12-21 00:00:00). No Q waves. Troponin was 0.04-0.02 on admission. CK
+test@mail.com with an MB <10. She ruled out for an MI.
+
+She was admitted to the UPMCE for further monitoring for sepsis.
+They felt she was overdiuresed in the emergency department and
+became tachycardic, which further exacerbated her tenuous
+baseline volume status. She was maintained euvolemic in the ICU.
+ Her heart rate was controlled with diltiazem and metoprolol
+with a goal rate in the 60s. On the night of admission, she had
+a run of VT (60 beats?) with a right central line placement
+which resolved spontaneously. Her electrolytes were buffed, and
+the VT was thought to be secondary to stretch. Cardiology
+followed her throughout her UPMCE stay.
+
+She was started on ceftriaxone and vancomycin for a total of 14
+days for pneumonia. She was also found to have a UTI which grew
+pansensitive Klebsiella and E. Coli on Cx, which were covered by
+her ceftriaxone.
+
+She was continued on aspirin, beat-blocker, statin. Her ACE was
+restarted on discharge from the ICU as her creatinine returned
+back to baseline. She was ruled out for MI with three sets of
+negative cardiac enzymes.
+
+Regarding her HOCM, she was maintained on diltiazem 30 mg QID,
+lopressor titrated up to 37.5 TID. She was transferred to UPMCE
+for HOCM ablation on Friday.
+
+At present, complains of shortness of breath and cough. Denies
+any chest pain/pressure.
+
+Underwent successful ETOH ablation of S1 on 2009-12-21 00:00:00 and
+transferred to CCU post-procedure with temporary pacing wire for
+close observation. The temp wire was removed without evidence of
+CHB on 2009-12-21 00:00:00 without events.
+
+Last echo prior to septal ablation was 2009-12-21 00:00:00 :
+
+
+Left Ventricle - Peak Resting LVOT gradient: *96 mm Hg (nl <= 10
+mm Hg). TR Gradient (+ RA = PASP): *78 to 85 mm Hg (nl <= 25 mm
+Hg). Left Atrium  *7.1 cm Right Atrium - *6.2 cm
+Left Ventricle - Septal Wall Thickness: *1.6 cm (nl 0.6 - 1.1
+cm)
+
+The left atrium is elongated. The right atrium is moderately
+dilated. There is
+moderate symmetric left ventricular hypertrophy. The left
+ventricular cavity
+size is normal. Regional left ventricular wall motion is normal.
+Left
+ventricular systolic function is hyperdynamic (EF>75%). There is
+a severe
+resting left ventricular outflow tract obstruction. The findings
+are
+consistent with hypertrophic obstructive cardiomyopathy (HOCM).
+Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve
+leaflets (3) are mildly thickened. Trace aortic regurgitation is
+seen. The
+mitral valve leaflets are moderately thickened. There is severe
+mitral annular
+calcification. Severe (4+) mitral regurgitation is seen. The
+mitral
+regurgitation jet is eccentric. Moderate [2+] tricuspid
+regurgitation is seen.
+There is severe pulmonary artery systolic hypertension.
+Significant pulmonic
+regurgitation is seen. The end-diastolic pulmonic regurgitation
+velocity is
+increased suggesting pulmonary artery diastolic hypertension.
+There is no
+pericardial effusion.
+  .
+Compared with the prior study (images reviewed) of 2009-12-21 00:00:00, the
+severity of
+the mitral regurgitation has increased. The estimated pulmonary
+artery
+systolic pressures are markedly higher. The severity of
+pulmonary
+regurgitation has increased. The severity of tricuspid
+regurgitation has also
+increased.
+  .
+Echo prior to septal ablation 2009-12-21 00:00:00:
+There is prominent symmetric left ventricular hypertrophy with
+small cavity
+and hyperdynamic systolic function (EF>75%). There is valvular
+Jerrian Alvi with a
+severe (57mmHg peak) resting LVOT gradient. Right ventricular
+cavity size and
+free wall motion are normal. The aortic valve leaflets are
+mildly thickened.
+The mitral leaflets are thickened. There is severe mitral
+annular
+calcification. There is systolic anterior motion of the mitral
+valve leaflets.
+Moderate to severe (3+) mitral regurgitation is seen.
+  .
+Following injection of diluted Definity contrast into the sepal
+artery, there
+is prompt hyperenhancement of the RV side of the basal septum
+and extending
+into an RV band.
+.
+Post septal ablation on 2009-12-21 00:00:00:
+.
+Following injection of 1cc of ethanol, there was prompt
+hyperenhancement of
+the basal septum, extending to a muscle band in the right
+ventricle. The LVOT
+gradient declined to a peak of 45mmHg. There was mild-moderate
+mitral
+regurgitation.
+.
+Following injection of another 0.5cc of ethanol, the peak LVOT
+gradient
+declined to 34mmHg. Valvular Jerrian Alvi persisted with mild mitral
+regurgitation.
+Additional Doppler suggests mild mitral stenosis (possibly
+related to MAC) and
+mild aortic regurgitation
+.
+Furthermore, her cath on 2009-12-21 00:00:00 showed a right dominant system
+with a patent LMCA, mid LAD and LCX with 70% calcified lesions,
+RCA with 40% ostial disease.
+C.CATH Study Date of 2009-12-21 00:00:00:
+
+COMMENTS:
+1. Selective cine angiography of this right dominant system
+revealed
+mild to moderate single vessel coronary artery disease. The LMCA
+was
+free of angiographically significant stenosis. The LAD had a mid
+40%
+stenosis, otherwise rest of the LAD including the major diagonal
+branch
+were free of stenosis. The LCX had no significant stenosis. The
+OM1 was
+normal, OM2 had a 40% proximal stenosis, the OM3 was normal. The
+RCA was
+had no angiographcally significant stenosis. The PDA had a
+proximal 50%
+stenosis. The RPLV branch had no significant disease.
+2. Resting hemodynamics revealed severe systemic hypertension,
+moderate
+to severe pulmonary hypertension and elevated left heart filling
+
+pressures.
+3. Left ventriculography in the Lataiya Freshcorn projection revealed normal
+LV size
+and systolic function, 2+MR.
+4. Successful ethanol ablation of the second septal perforator
+with
+decrease in the LVOT gradient from 90 mm Hg to 5-10 mm Hg post
+ablation.
+  .
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Moderate mitral regurgitation.
+3. Normal ventricular function.
+4. Successful septal ethanol ablation.
+.
+Cath 2009-12-21 00:00:00:
+LVOT gradient of 60 mm Hg at rest.
+COMMENTS:
+1. Selective coronary angiography revealed a right dominant
+system with patent LMCA. Mid LAD and LCX both had 70% calcified
+lesions. The RCA had a 40% ostial disease.
+2. Left ventriculography was deferred.
+3. Hemodynamic assessment showed severely elevated pulmonary
+pressures and a resting LVOT gradient of 60 mm Hg.
+4. Successful ethanol ablation of the second subbranch of S1 was
+
+performed.
+.
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Summetric left ventricular hypertrophy with LVOT gradient and
+
+pulmonary hypertension.
+3. Successful ethanol septal ablation.
+
+Transferred to UPMCE 6 on 2009-12-21 00:00:00 without events or complaints.
+
+ROS: No fevers, chills. Positive cough. Breathing stable but not
+perfect. No chest pain.
+
+
+Past Medical History:
+1. hypertension
+2. diabetes type II
+3. hypercholesterolemia
+4. coronary artery disease-nonobstruction
+5. chronic renal failure  -baseline creat 1.9
+6.pulmonary hypertension-
+7.left ventricle outflow tract obstruction,diastolic heart
+failure-ejection fraction of 70%
+8. gastro-esophageal reflux disease
+9. pancreatic resection 2009-12-21 00:00:00, 2009-12-21 00:00:00- required intubation with
+10.history of delirium
+11.resection of neuroendocrine tumor
+12.HOCM with septal ablation 2009-12-21 00:00:00 and 2009-12-21 00:00:00
+13.Left leg pain/numbness
+14.Spinal stenosis
+
+
+Social History:
+She is a high school school graduate w/ 2 years of college. She
+is retired. She used to work as an engineer. She is married. She
+lives with her husband. She does not smoke, she does not drink,
+she denies any recreational drug use.
+
+
+Family History:
+Her mother died at 74 and has Alzheimer's. Her  father died
+young, she was only 4-month-old and she does not know the cause.
+She has no sisters, had a brother who died in his 70s, he choked
+after eating, and she has one daughter who is 53
+years old, in good health. She has no sons.
+
+
+Physical Exam:
+T 97.0 HR  76   BP 150/70   RR  16  O2 sat 96% on RA
+Gen- NAD, alert, Russian-speaking, speaks little English
+HEENT-PERRLA, JVP 8 cm,  MMM
+Hrt-RRR, nS1S2, III/VI systolic ejection murmur at LLSB and
+Grade II/VI holosystolic murmur at apex
+Lungs- Minimal bibasilar crackles, otherwise clear
+Abd- soft, nondistended, active BS, NT
+Extrem-2+ rad and dp pulses, no 123 Any St.
+
+
+Pertinent Results:
+ECG 2009-12-21 00:00:00:
+NSR 71 bpm. 2 mm STE V1-V2, peaked T waves V3-V5. TWI AVL. NL
+axis. LVH with prominent voltage.
+.
+ECG Study Date of 2009-12-21 00:00:00  11:31:02 AM
+Sinus rhythm
+Left ventricular hypertrophy with ST-T wave changes
+Anterior ST elevation, probably due to left ventricular
+hypertrophy - clinical
+correlation is suggested
+Intraventricular conduction delay
+Since 123 Any St.us tracing, no significant change
+.
+CHEST (PA & LAT)  2009-12-21 00:00:00 10:15 AM
+IMPRESSION: Interval improvement in CHF. No obvious pneumonia.
+.
+
+2009-12-21 00:00:00 Echocardiogram:  The left atrium is elongated. The right
+atrium is moderately dilated. There is moderate symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Regional left ventricular wall motion is normal. Left
+ventricular systolic function is hyperdynamic (EF>75%). There is
+a severe resting left ventricular outflow tract obstruction. The
+findings are consistent with hypertrophic obstructive
+cardiomyopathy (HOCM). Right ventricular chamber size and free
+wall motion are normal. The aortic valve leaflets (3) are mildly
+thickened. Trace aortic regurgitation is seen. The mitral valve
+leaflets are moderately thickened. There is severe mitral
+annular calcification. Severe (4+) mitral regurgitation is seen.
+The mitral regurgitation jet is eccentric. Moderate [2+]
+tricuspid regurgitation is seen. There is severe pulmonary
+artery systolic hypertension. Significant pulmonic regurgitation
+is seen. The end-diastolic pulmonic regurgitation velocity is
+increased suggesting pulmonary artery diastolic hypertension.
+There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of 2009-12-21 00:00:00, the
+severity of the mitral regurgitation has increased. The
+estimated pulmonary artery
+systolic pressures are markedly higher. The severity of
+pulmonary
+regurgitation has increased. The severity of tricuspid
+regurgitation has also increased.
+.
+2009-12-21 00:00:00 01:12PM   CK-MB-9 cTropnT-0.04*
+2009-12-21 00:00:00 01:12PM   CK(CPK)-438*
+.
+2009-12-21 00:00:00 Urine culture:  Pansensitive klebsiella and e. coli
+2009-12-21 00:00:00 09:15PM   CK-MB-8 cTropnT-0.04*
+2009-12-21 00:00:00 09:15PM   CK(CPK)-369*
+
+ C.CATH Study Date of 2009-12-21 00:00:00
+1. Selective cine angiography of this right dominant system
+revealed
+mild to moderate single vessel coronary artery disease. The LMCA
+was
+free of angiographically significant stenosis. The LAD had a mid
+40%
+stenosis, otherwise rest of the LAD including the major diagonal
+branch
+were free of stenosis. The LCX had no significant stenosis. The
+OM1 was
+normal, OM2 had a 40% proximal stenosis, the OM3 was normal. The
+RCA was
+had no angiographcally significant stenosis. The PDA had a
+proximal 50%
+stenosis. The RPLV branch had no significant disease.
+2. Resting hemodynamics revealed severe systemic hypertension,
+moderate
+to severe pulmonary hypertension and elevated left heart filling
+
+pressures.
+3. Left ventriculography in the Lataiya Freshcorn projection revealed normal
+LV size
+and systolic function, 2+MR.
+4. Successful ethanol ablation of the second septal perforator
+with
+decrease in the LVOT gradient from 90 mm Hg to 5-10 mm Hg post
+ablation.
+  .
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Moderate mitral regurgitation.
+3. Normal ventricular function.
+4. Successful septal ethanol ablation.
+
+.
+C.CATH Study Date of 2009-12-21 00:00:00
+.
+COMMENTS:
+1. Selective coronary angiography revealed a right dominant
+system with
+patent LMCA. Mid LAD and LCX both had 70% calcified lesions. The
+RCA had
+a 40% ostial disease.
+2. Left ventriculography was deferred.
+3. Hemodynamic assessment showed severely elevated pulmonary
+pressures
+and a resting LVOT gradient of 60 mm Hg.
+4. Successful ethanol ablation of the second subbranch of S1 was
+
+performed.
+  .
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Summetric left ventricular hypertrophy with LVOT gradient and
+
+pulmonary hypertension.
+3. Successful ethanol septal ablation.
+.
+ECHO Study Date of 2009-12-21 00:00:00
+.
+Conclusions:
+There is prominent symmetric left ventricular hypertrophy with
+small cavity and hyperdynamic systolic function (EF>75%). There
+is valvular Jerrian Alvi with a severe (57mmHg peak) resting LVOT
+gradient. Right ventricular cavity size and free wall motion are
+normal. The aortic valve leaflets are mildly thickened. The
+mitral leaflets are thickened. There is severe mitral annular
+calcification. There is systolic anterior motion of the mitral
+valve leaflets. Moderate to severe (3+) mitral regurgitation is
+seen.
+.
+  Following injection of diluted Definity contrast into the
+sepal artery, there is prompt hyperenhancement of the RV side of
+the basal septum and extending  into an RV band. The catheter
+was then withdrawn, redirected, and diluted Definity was again
+injected leading to hyperenhancement of some LV endocardial
+portions of the basal septum.
+.
+
+Following injection of 1cc of ethanol, there was prompt
+hyperenhancement of  the basal septum, extending to a muscle
+band in the right ventricle. The LVOT  gradient declined to a
+peak of 45mmHg. There was mild-moderate mitral regurgitation.
+Following injection of another 0.5cc of ethanol, the peak LVOT
+gradient declined to 34mmHg. Valvular Jerrian Alvi persisted with mild
+mitral regurgitation. Additional Doppler suggests mild mitral
+stenosis (possibly related to MAC) and  mild aortic
+regurgitation.
+
+.
+C.CATH Study Date of 2009-12-21 00:00:00
+COMMENTS:
+
+The lesion in the mid LAD was 123 Any St.ated with a 2.5 mm balloon,
+stented
+with a 3.0 mm cypher stent and post dilated with two 3.25 mm
+balloons
+with lesion reduction to 10%. The final angiogram showed TIMI
+III flow
+with no residual stenosis, no dissection, no perforation and no
+embolisation. The patient left the lab in a stable condition.
+
+
+FINAL DIAGNOSIS:
+Successful stenting of the LAD (Drug eluting)
+
+2009-12-21 00:00:00 09:15PM   GLUCOSE-165* UREA N-41* CREAT-2.5* SODIUM-142
+POTASSIUM-4.2 CHLORIDE-107 TOTAL CO2-22 ANION GAP-17
+2009-12-21 00:00:00 09:15PM   CK(CPK)-369*
+2009-12-21 00:00:00 09:15PM   CK-MB-8 cTropnT-0.04*
+
+Brief Hospital Course:
+The patient is an 81 yo female with a history of HOCM s/p septal
+ablation in 2009-12-21 00:00:00, severe MR/TR, CHF EF>75%, mild dementia, CRI
+(1.8 baseline), and UPMCE transferred to s/p septal ablation of
+S1 on 2009-12-21 00:00:00 with improvement in HOCM and MR and 70% LAD and
+LCX disease on cath.
+
+## CHF, EF >75%
+- Appears overall euvolemic on exam.
+- Repeat echo with EF >60%. Reduced MR.
+- She was restarted on her home dose of lasix 20 mg PO QD which
+was increased to lasix 40 mg PO QD on 2009-12-21 00:00:00.
+- Also started on lisinopril 10 in CCU.
+
+.
+## HOCM s/p septal ablation 2009-12-21 00:00:00
+- Repeat echo showed .
+- Status post septal ablation without complication on 2009-12-21 00:00:00.
+Had temporary pacing wires post cath without evidence of CHB.
+- On Diltiazem XR 120 mg and Toprol XL 100 mg - Please stagger
+to avoid hypotension.
+.
+.
+## Severe MR/TR/PAH
+- Decreased immediately post-procedure on 2009-12-21 00:00:00. Repeat echo
+to assess further,
+- Continue Lisinopril 10 mg for afterload reduction.
+.
+## Rhythm
+- H/o VT in UPMCE with manipulation during central line placement
+- never recurred.
+- Continue Toprol XL.
+- Also had temp wire prophylactically post-procedure for concern
+of CHB s/p septal ablation without events. Temp wire DC'd on
+2009-12-21 00:00:00.
+- Repeat EKG.
+.
+## CAD
+- Nonobstructive on cath in 2009-12-21 00:00:00.
+-Cath on 2009-12-21 00:00:00 showed 70% mid LAD and 70% mid LCx lesions, the
+LAD thought to be significant. Dr. Lataiya Freshcorn will consider a LAD
+intervention after echo in a few days.
+-Now s/p Cypher to LAD on 2009-12-21 00:00:00.
+- Continue ASA 325, plavix , BB, ACE, lipitor 10 mg.
+- The patient intermittently complains of chest pressure and
+"not feeling so good" with SOB although her O2 sats are fine.
+
+.
+## ? Pneumonia: Started on ceftriaxone and vancomycin for a
+total of 14 days in the UPMCE. Trasnsferred to UPMCE on day 9 of
+both. Repeat CXR post-diuresis never showed pneumonia. Both
+vanco/CTX were discontinued without evidence of infection.
+- Not active issue.
+.
+
+## UTI: grew pansensitive bugs on Cx, which were covered by her
+ceftriaxone. Her last urine culture was negative on 2009-12-21 00:00:00.
+- Not active issue.
+.
+
+## Chronic renal failure:  Baseline 1.9. Now 1.8-2.0.
+- Continue to monitor.
+- On ACE and small dose of daily lasix. Stable post-cath.
+.
+## DM2: SSI, FS QID
+.
+# Dementia
+- Continue donepezil, memantine.
+.
+## FEN - Diabetic, cardiac diet, Monitor lytes
+## FULL CODE
+
+##Contact: Daughter Jerrian Alvi home #test@mail.com
+
+
+Medications on Admission:
+1. Furosemide 20 mg qd
+2. Aspirin 325 mg qd
+3. Atorvastatin 10 mg qd
+4. Metoprolol Succinate 100 mg qd
+5. Diltiazem HCl 120 mg qd
+6. Memantine 5 mg Tablet UPMCE
+7. Pantoprazole 40 mg qd
+8. Lisinopril 20 mg qd
+9. Hydrochlorothiazide 25 mg qd
+10. Aricept unknown dose
+
+On Transfer from CCU:
+
+Heparin 5000 UNIT SC TID
+Sliding Scale Insulin
+Acetaminophen 325-650 mg PO Q4-6H:PRN
+Limit total daily dose Acetaminophen to <4000 mg.
+Ipratropium Bromide Neb 1 NEB IH Q6H
+Aluminum-Magnesium Hydrox.-Simethicone 15-30 ml PO QID:PRN
+Lactulose 30 ml PO TID
+Aspirin 325 mg PO DAILY
+Lisinopril 10 mg PO DAILY
+Atorvastatin 10 mg PO DAILY
+Metoprolol XL (Toprol XL) 100 mg PO DAILY
+Bisacodyl 10 mg PO/PR DAILY:PRN constipation
+Memantine *NF* 5 mg Oral UPMCE
+Clopidogrel Bisulfate 75 mg PO DAILY
+Pantoprazole 40 mg PO Q24H
+Diltiazem Extended-Release 120 mg PO DAILY
+Docusate Sodium 100 mg PO BID
+Donepezil 5 mg PO HS
+Dolasetron Mesylate 12.5 mg IV Q8H:PRN
+Furosemide 20 mg PO DAILY
+
+
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tablet(s)
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Memantine 5 mg Tablet Sig: One (1) Tablet PO bid ().
+4. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+Disp:*3 * Refills:*2*
+7. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*12*
+8. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+12. Glipizide 5 mg Tablet Sig: 0.5 Tablet PO BID (2 times a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Family & UPMCE Services
+
+Discharge Diagnosis:
+Hypertrophic Obstructive Cardiomyopathy
+Coronary artery disease
+Chronic renal insufficiency
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Weigh yourself every morning, Jerrian Alvi MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+
+Please call your primary care physician if you experience any
+chest pain, shortness of breath, or palpitations.
+
+Followup Instructions:
+Provider: Jerrian Alvi,[**First Name3 (LF) 146**] SPEC SURGERY- Lataiya Freshcorn SPEC (NHB)
+Date/Time:2009-12-21 00:00:00 10:00
+
+Provider: Lataiya Freshcorn Alvi, Jerrian Alvi.D. Phone:test@mail.com
+Date/Time:2009-12-21 00:00:00 11:20
+
+Please follow up with your primary care doctor, Dr. Jerrian
+Alvi, in 1 week. You may call test@mail.com to schedule an
+appointment.
+
+
+

@@ -1,0 +1,354 @@
+Admission Date:  2005-11-24 00:00:00              Discharge Date:   2005-11-24 00:00:00
+
+Date of Birth: 1948-11-24 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+E-Mycin
+
+Attending:Bryniah Sprissler
+Chief Complaint:
+right sided abdominal pain
+
+Major Surgical or Invasive Procedure:
+laparoscopic cholecystectomy
+
+
+History of Present Illness:
+80 year old male who is well-known to the
+surgical service who presented on 2005-11-24 00:00:00 with abdominal pain and
+was found to have evidence of choledocholithiasis. He underwent
+ERCP on 2005-11-24 00:00:00 for delivery of stone and sphincterotomy with
+stent
+placement. He was discharged yesterday and was pain free until
+9pm this evening. He describes sudden onset of right sided
+abdominal burning that is identical in character to the pain
+that
+originally brought him to the hospital several days prior. He
+currently denies nausea/vomiting/fevers/chills.
+
+Past Medical History:
+Degenerative arthritis right knee
+gout
+prostate Ca s/p XRT and Lupron
+secondary gynecomastia (resolved)
+CAD s/p PTCA/2 stents
+glaucoma
+mild hearing impairment
+non-toxic goiter
+hypertension
+hypercholesterolemia
+hiatal hernia with GERD
+mild irritable bowel syndrome
+history of intestinal polyps (benign)
+hemorrhoids
+
+Past Surgical History:
+glaucoma surgery
+b/l cataract surgery
+Inginal hernia '2005-11-24 00:00:00 (Dr. Bryniah Sprissler
+meniscus knee surgery
+
+
+Social History:
+lives with wife, runs a business
+prior tobacco ~30pk/yrs.  quit 40yrs ago
+no etoh, no ilicits
+
+
+Family History:
+sister with lung cancer and
+sister with Clarencia Sarro cancer
+
+
+Physical Exam:
+98.7 60 165/68 16 98
+General- well appearing elderly male in no acute distress
+CV- RRR
+Pulm- CTA b/l
+Abd- soft, protuberant, moderately tender on palpation in
+RUQ > epigastrium, no rebound or guarding, no palpable masses
+Ext- no edema
+
+
+Pertinent Results:
+2005-11-24 00:00:00 09:10PM   PT-11.3 PTT-29.7 INR(PT)-0.9
+2005-11-24 00:00:00 09:20AM   ALT(SGPT)-139* AST(SGOT)-59* ALK PHOS-123*
+AMYLASE-48 TOT BILI-3.0*
+2005-11-24 00:00:00 09:20AM   LIPASE-26
+2005-11-24 00:00:00 09:20AM   ALT(SGPT)-139* AST(SGOT)-59* ALK PHOS-123*
+AMYLASE-48 TOT BILI-3.0*
+2005-11-24 00:00:00 09:20AM   CALCIUM-8.3* PHOSPHATE-2.6* MAGNESIUM-2.1
+2005-11-24 00:00:00 09:20AM   LIPASE-26
+2005-11-24 00:00:00 09:20AM   WBC-5.0 RBC-4.16* HGB-13.2* HCT-38.2* MCV-92
+MCH-31.7 MCHC-34.5 RDW-13.5
+2005-11-24 00:00:00 09:20AM   WBC-5.0 RBC-4.16* HGB-13.2* HCT-38.2* MCV-92
+MCH-31.7 MCHC-34.5 RDW-13.5
+2005-11-24 00:00:00 09:20AM   PLT COUNT-133*
+2005-11-24 00:00:00 12:30AM URINE  COLOR-Yellow APPEAR-Clear SP Sarro-1.010
+2005-11-24 00:00:00 12:30AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-TR BILIRUBIN-MOD UROBILNGN-2* PH-5.0 LEUK-NEG
+2005-11-24 00:00:00 11:24PM   LACTATE-1.5
+2005-11-24 00:00:00 11:00PM   GLUCOSE-148* UREA N-18 CREAT-0.9 SODIUM-139
+POTASSIUM-3.5 CHLORIDE-103 TOTAL CO2-26 ANION GAP-14
+2005-11-24 00:00:00 11:00PM   ALT(SGPT)-170* AST(SGOT)-71* ALK PHOS-131*
+TOT BILI-4.4*
+2005-11-24 00:00:00 11:00PM   LIPASE-65*
+2005-11-24 00:00:00 11:00PM   NEUTS-75.9* LYMPHS-13.2* MONOS-9.0 EOS-1.6
+BASOS-0.4
+2005-11-24 00:00:00 11:00PM   PLT COUNT-125*
+
+2005-11-24 00:00:00 CT Abdomen: no fluid collections. b/l renal cysts, gb
+distention,
+wall thickening and stones are unchanged with pneumobilia seen,
+likely secondary to instrumentation
+
+2005-11-24 00:00:00 TTE  (post op due to new onset a fib): There is
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. Due to suboptimal technical quality, a
+focal wall motion abnormality cannot be fully excluded. Overall
+left ventricular systolic function is normal (LVEF>55%). Doppler
+parameters are most consistent with normal left ventricular
+diastolic function. Right ventricular chamber size and free wall
+motion are normal. There are three aortic valve leaflets. The
+aortic valve leaflets are moderately thickened. There is no
+aortic valve stenosis. Mild (1+) aortic regurgitation is seen.
+No mitral regurgitation is seen. The pulmonary artery systolic
+pressure could not be determined. There is no pericardial
+effusion.
+
+IMPRESSION: Preserved UPMCE-ventricular systolic function. Mild
+aortic insufficiency.
+
+2005-11-24 00:00:00 ECG: Probable atrial fibrillation with rapid
+ventricular response. Left axis deviation. Consider left
+ventricular hypertrophy. ST-T wave abnormalities. Since the
+123 Any St.us tracing of 2005-11-24 00:00:00 atrial fibrillation is new.
+
+2005-11-24 00:00:00 ECG: Sinus bradycardia. P-R interval prolongation. Left
+ventricular hypertrophy. ST-T wave abnormalities. Since the
+123 Any St.us tracing sinus bradycardia is new.
+
+2005-11-24 00:00:00 CXR: Stable chest findings, bilateral basal atelectasis
+and mild
+blunting of pleural sinuses.
+
+2005-11-24 00:00:00 ECG:Atrial fibrillation with rapid ventricular
+response. Left axis deviation. Poor R wave progression. Left
+ventricular hypertrophy with lateral ST-T wave abnormalities.
+Compared to the 123 Any St.us tracing of 2005-11-24 00:00:00 rapid atrial
+fibrillation is new. Lateral ST-T wave abnormalities are new.
+Poor R wave progression is new.
+
+2005-11-24 00:00:00 ECG:
+Atrial fibrillation with a rapid ventricular response. Left axis
+deviation. Left anterior fascicular block. There is an abnormal
+transition across the precordium most likely due to lead
+placement with additional evidence of possible prior anterior
+myocardial infarction. Left ventricular hypertrophy with
+associated ST-T wave changes, although ischemia or myocardial
+infarction cannot be excluded. Compared to the 123 Any St.us tracing
+atrial fibrillation is new.
+
+
+Brief Hospital Course:
+2005-11-24 00:00:00 HD1 POD0: Patient admitted to surgery, Dr. Bryniah Sprissler. He
+was made NPO and given IVF. He was taken to the OR for a
+laparoscopic cholecystectomy. His surgery was relatively
+uncomplicated with minimal blood loss, however the patient
+developed afib with RVR to 180 after extubation. He was
+initially given lopressor which improved his HR, and then was
+started on a dilt drip as per the primary team. He was also
+started on a nitro drip for HTN with good control over his BP.
+He has hx of MI and CAD s/p stents in 2005-11-24 00:00:00 and is admitted to
+the TSICU for ROMI and stabilization. He denied chest pain,
+nausea, or SOB at that time.
+
+2005-11-24 00:00:00 HD2 POD1: A cariology consult was obtained. They stated
+that the atrial fibrillation likely secodnary to operative
+course and has now resolved. Pt has not had any recurrances of
+atrial fibrillation or atrial flutter since being on telemetry.
+Cardiac enzymes were negative and pt did not have any chest
+pain.
+Repeated short runs of SVT are likely the palpitatiosn the pt
+has been having for years. It appears to be a short RP
+tachycardia and possible etiologies include atrial tachycardia,
+AVNRT, or circus movement tachycardia. These are not dangeours
+arrhythmias and the pt has likely been having it for years as
+his symptoms suggest. Cardiology recommended no anticoagulation
+needed. Pt should be sent home with his beta blocker and his
+Bryniah Sprissler of hearts monitor.  They continued to follow throughout the
+hospital course. The patient was tranferred from the ICU to the
+floor.  He was placed on telemetry.
+
+2005-11-24 00:00:00 HD3 POD2: 12 lead ECG's performed UPMCE. Patient was
+given a clear liquid diet.
+
+2005-11-24 00:00:00 HD4 POD3: Patient's diet was advanced to regular kosher
+diet, which the patient tolerated well.
+
+2005-11-24 00:00:00 HD5 POD4: Patient was placed on a full bowel regiment.
+A holter monited was placed on the patient per cardiology
+recommendations. Lopressor, IV was used for rate control.
+
+2005-11-24 00:00:00 HD6 POD5: Patient had a small bowel movement with the
+bowel regiment in place. Potassium was repleted. Labs were
+monitored daily.
+
+2005-11-24 00:00:00 HD7 POD6: A 12 lead ECG was performed due to some
+ectopy seen on telemetry. The patient had a large bowel
+movement. Spoke to electrophysiology fellow who stated that
+despite the ectopy, the patient may go home with the Bryniah Sprissler of
+hearts monitor.
+
+2005-11-24 00:00:00 HD8 POD7: The Bryniah Sprissler of hearts monitor was placed on the
+patient and he was given adequate instructions on its use as
+well as relevant follow up.  The metoprolol controlled the
+patients heart rate and he did not have any episodes of atrial
+fibrillation since POD 1. Patient was discharged to home.
+
+
+Medications on Admission:
+Simvastatin 20', Allopurinol 300', Lisinopril 10', Isosorbide
+Mononitrate SR 120', Metoprolol 50", Acetaminophen PRN, HCTZ
+12.5', Zantac 150', Prevacid 30", ASA 81'
+
+
+Discharge Medications:
+1. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24 hr
+Sig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).
+2. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO
+DAILY (Daily).
+3. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO three times a day as needed for constipation for 2 weeks.
+Disp:*qs ML(s)* Refills:*0*
+8. Dronedarone 400 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO TID (3 times a day) as needed for gas.
+Disp:*12 Tablet, Chewable(s)* Refills:*2*
+10. Zantac 150 mg Tablet Sig: One (1) Tablet PO once a day.
+11. Prevacid 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO twice a day.
+12. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain: For pain not controlled by
+Acetaminophen .
+Disp:*40 Tablet(s)* Refills:*0*
+13. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)
+PO DAILY (Daily).
+14. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24 hr
+Sig: Two (2) Tablet Sustained Release 24 hr PO BID (2 times a
+day).
+15. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed for constipation.
+16. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+17. Lopressor 50 mg Tablet Sig: 1.5 Tablets PO twice a day.
+Disp:*90 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+s/p cholecystectomy
+A Fib with rapid ventricular response
+
+
+Discharge Condition:
+Ambulating, tolerating POs, pain controlled, afebrile and with
+stable vital signs
+
+
+Discharge Instructions:
+You are being discharged on medications to treat the pain from
+your operation. These medications will make you drowsy and
+impair your ability to drive a motor vehicle or operate
+machinery safely. You MUST refrain from such activities while
+taking these medications.  These medications include but are not
+limited to: narcotics and benzodiazepines.  Use extreme caution
+when combining these substances with each other, alcohol, or
+other central nervous system depressants.
+
+For your atrial fibrillation events, you have been fitted with a
+Bryniah Sprissler will be
+following you for this.
+
+For post-operative pain, please take Tylenol (Acetaminophen) as
+prescribed. Note that Acetaminophen is also in many
+over-the-counter medications, so check labels -- do not exceed a
+daily dose of 4 grams (4,000 mgs) of Acetaminophen.
+
+For pain that breaks thru despite Tylenol, as discussed you
+should take Dilaudid as prescribed.
+
+Take all medications as directed.
+
+ Please call your doctor or return to the emergency room if you
+have any of the following:
+
+ * You experience new chest pain, pressure, squeezing or
+ tightness.
+
+* New or worsening cough or wheezing.
+
+* If you are vomiting and cannot keep in fluids or your
+ medications.
+
+* You are getting dehydrated due to continued vomiting,
+ diarrhea or other reasons. Signs of dehydration include dry
+ mouth, rapid heartbeat or feeling dizzy or faint when standing.
+
+* You see blood or dark/black material when you vomit or have a
+ bowel movement.
+
+
+* You have shaking chills, or a fever greater than 101.5 (F)
+ degrees or 38(C) degrees.
+
+* Any serious change in your symptoms, or any new symptoms that
+ concern you.
+
+* Please resume all regular home medications and take any new
+meds
+ as ordered.
+
+Activity:
+No heavy lifting of items 2005-11-24 00:00:00 pounds for 6 weeks. You may
+resume moderate
+exercise at your discretion, no abdominal exercises.
+
+Wound Care:
+You may shower, no tub baths or swimming.
+If there is clear drainage from your incisions, cover with
+clean, dry gauze.
+Your steri-strips will fall off on their own. Please remove any
+remaining strips 7-10 days after surgery.
+Please call the doctor if you have increased pain, swelling,
+redness, or drainage from the incision sites.
+
+
+Followup Instructions:
+Please follow up with Dr. Bryniah Sprissler in 2005-11-24 00:00:00 weeks. Call for an
+appointment at (test@mail.com.
+
+Please also follow up with Dr. Bryniah Sprissler from the
+electrophysiology cardiology department. (test@mail.com for an
+appointment.
+
+You will also want to follow up with your primary care doctor,
+Dr. [**First Name4 (NamePattern1) 139**] Sarro.
+
+
+
+Completed by:2005-11-24 00:00:00

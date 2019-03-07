@@ -1,0 +1,41 @@
+Admission Date:  2005-01-12 00:00:00       Discharge Date:  2005-01-12 00:00:00
+
+Date of Birth: 1946-01-03 00:00:00 00:00:00       Sex:  M
+
+Service:Oncology
+DISCHARGE DIAGNOSES:
+1.  Non-small cell lung carcinoma metastatic to Clyne, [**First Name3 (LF) **]
+and pericardium.
+2.  Pericardial tamponade requiring pericardiocentesis.
+3.  Hypoxia due to multifactorial lung disease.
+DISCHARGE MEDICATIONS:
+1.  Ambien 10 mg p.o. q.h.s.
+2.  Sotalol 80 mg p.o. b.i.d.
+3.  Multivitamin one p.o. q.d.
+4.  Tylenol 225 to 650 mg p.o. q. four to six hours p.r.n.
+5.  Colace 100 mg p.o. b.i.d.
+6.  Protonix 40 mg p.o. q.d.
+8.  Morphine Sulfate 1 to 5 mg IV q. four to six hours p.r.n.
+9.  Dibutoline one application TP q.i.d. p.r.n.
+10. Methylprednisone 80 mg p.o. b.i.d..
+11. Albuterol nebs q. four to six hours.
+12. Atrovent nebs q. four to six hours.
+13. Levofloxacin 500 mg p.o. q.d. till 2005-01-12 00:00:00.
+13. Bactrim Double Strength tabs one p.o. b.i.d. till
+2005-01-12 00:00:00.
+14. Percocet one to two tabs p.o. q. four to six hours p.r.n.
+
+He was discharged to Inpatient Hospice in stable condition.
+He is DNI, DNR and moving towards comfort care only.
+
+
+
+
+                            Constancio Clyne m.d. 17513
+
+Dictated By:Lelamae Michielsen
+MEDQUIST36
+
+D:  2005-01-12 00:00:00  10:20
+T:  2005-01-12 00:00:00  10:15
+JOB#:  17513

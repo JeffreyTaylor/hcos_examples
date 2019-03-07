@@ -1,0 +1,322 @@
+Admission Date:  2007-06-29 00:00:00              Discharge Date:   2007-06-29 00:00:00
+
+Date of Birth: 1922-06-29 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Codeine / Tylenol
+
+Attending:Asmitha Kemink
+Chief Complaint:
+dyspnea on exertion and chest tightness
+
+Major Surgical or Invasive Procedure:
+2007-06-29 00:00:00
+redo sternotomy/Aortic Valve Replacement with #23 Analeiah Analeiah Doane tissue
+valve
+
+
+History of Present Illness:
+68 year old male with PMH significant for type 2 DM, HTN, High
+cholesterol, CAD and BPH who presented to an outside hospital
+c/o SOb, DOE and chest tightness. Pt also had leg edema-. Work
+up showed that pt had severe aortic valve stenosis.
+
+
+Past Medical History:
+Past Medical History
+Aortic Stenosis
+type 2 Diabetes Mellitus
+Hypertension
+High cholesterol
+Coronary Artery Disease
+Benign Prostatic Hypertrophy-retention after surgery
+Past Surgical History
+Coronary Bypass Grafting 15 yrs ago at BIs
+cholesystectomy
+Rt shoulder rotator cuff
+tonsillectomy
+left index finger surgery
+left ring finger trigger surgery
+eye surgery
+
+
+Social History:
+Occupation:retired bus driver
+Cigarettes: Smoked no [] yes [x] last cigarette 20 years ago
+Other Tobacco use:none
+ETOH: < 1 drink/week []  2007-06-29 00:00:00 drinks/week [x] >8 drinks/week []
+Illicit drug use, none
+Last Dental Exam:>1 year
+Lives with:Alone
+Contact: Analeiah Doane (son)        Phone (test@mail.com
+         [**Doctor Last Name **] (son)           Phone (test@mail.com
+
+
+Family History:
+Family History:Premature coronary artery disease
+Father MI < 55 []          Mother < 65 []
+Race:White
+
+
+Physical Exam:
+Pulse: 66 Resp: 18  O2 sat: 95% RA
+B/P 129/61
+Height:5'8"     Weight:86.8 kgs
+
+General: NAD
+Skin: Dry [x] intact [x]Well healed sternal scar right calf vein
+harvest
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [x] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x] +BS [x]
+Extremities: Warm [x], well-perfused [x]  Edema [] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2  Left:2
+DP           Right: 1  Left:0
+PT           Analeiah Doane: 1  Left:1
+Radial       Right: 2  Left:2
+
+Carotid Bruit        Right: none   Left:none
+
+
+Pertinent Results:
+2007-06-29 00:00:00 04:11AM BLOOD WBC-10.4 RBC-3.46* Hgb-8.1* Hct-25.9*
+MCV-75* MCH-23.4* MCHC-31.2 RDW-20.2* Plt Ct-120*
+2007-06-29 00:00:00 03:36PM BLOOD PT-16.2* PTT-30.5 INR(PT)-1.5*
+2007-06-29 00:00:00 04:11AM BLOOD Glucose-110* UreaN-27* Creat-1.1 Na-136
+K-4.4 Cl-102 HCO3-29 AnGap-9
+2007-06-29 00:00:00 09:35AM BLOOD ALT-18 AST-17 AlkPhos-58 Amylase-44
+TotBili-1.0
+2007-06-29 00:00:00 04:11AM BLOOD Calcium-7.7* Phos-2.8# Mg-2.3
+
+2007-06-29 00:00:00
+PRE-CPB:
+The left atrium is markedly dilated. No thrombus is seen in the
+left atrial appendage. No atrial septal defect is seen by 2D or
+color Doppler.
+
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity is mildly dilated. Overall left ventricular
+systolic function is low normal (estimated LVEF 50%). The right
+ventricular cavity is mildly dilated with normal free wall
+contractility.
+
+The descending thoracic aorta is mildly dilated. There are
+simple atheroma in the descending thoracic aorta. No thoracic
+aortic dissection is seen. There are three aortic valve
+leaflets. The aortic valve leaflets are severely
+thickened/deformed. There is severe aortic valve stenosis (valve
+area 0.8-1.0cm2). No aortic regurgitation is seen.
+
+The mitral valve leaflets are mildly thickened. Mild to moderate
+(2007-06-29 00:00:00+) mitral regurgitation is seen.
+
+Dr.Doane was notified in person of the results at time of
+study.
+
+POST-CPB:
+A bioprosthetic valve is seen in the aortic position. The valve
+appears well-seated with normal leaflet motion. There are no
+paravalvular leaks. There is no apparent AI. The peak gradient
+across the aortic valve is 38mmHg, the mean gradient is 22mmHg
+with CO of 5L/min.
+
+The patient is on low dose epi and norepi infusions. The LV
+systolic function remains low normal, estimated EF=50%. The RV
+systolic function remains normal.
+
+The MR remains mild-to-moderate. Other valvular function is also
+unchanged.
+
+There is no evidence of aortic dissection.
+
+
+
+Brief Hospital Course:
+Pre-operatively, Mr. Doane had a low grade temp without
+source. He was afebrile with a normal white count and was
+brought to the Operating Room on 2007-06-29 00:00:00 where he underwent Redo
+Sternotomy, AVR (23mm St.Analeiah Doane tissue)-see operative note for
+details. Overall the patient tolerated the procedure well and
+post-operatively was transferred to the CVICU in stable
+condition for recovery and invasive monitoring. Intraop noted to
+have pulmonary hypertension and postoperatively he had a
+persistent metabolic acidosis. His pressure was labile and was
+on levo and Epi. He was also mildly hypoxic and eventually
+extubated without difficulty the following morning and was
+alert, oriented and breathing comfortably. He weaned from all
+pressors and inortopic support.  Beta blocker was initiated and
+the patient was gently diuresed toward the preoperative weight.
+The patient was transferred to the telemetry floor on POD #1 for
+further recovery.  he contiued to have low Doane temps from
+99.5-100.8 with a normal white count and all culture data
+negative. While on the floor he remained hemodynamically stable.
+Chest tubes and pacing wires were discontinued without
+complication.  He failed his first voiding trial and foley was
+replaced for urine retention. Patient has a history of BPH. He
+underwent a second voiding trial and was unsuccessful - a foley
+was replaced and he was discharged to home with a foley. He will
+follow up with his primary urologist as an outpatient for repeat
+voiding trial. mr. Doane did experience acute aggitation
+and paranoia on POD#2007-06-29 00:00:00. he was given low dose haldol x 2 doses
+and was finally able to sleep for the first time since hs
+surgery. On POD#6 he was calm and cooperative without aggitation
+or paranoia and his haldol was d/c'd. The patient was evaluated
+by the physical therapy service for assistance with strength and
+mobility.  By the time of discharge on POD #6 the patient was
+ambulating freely, the wound was healing and pain was controlled
+with oral analgesics.  The patient was discharged to home in
+good condition with appropriate follow up instructions.
+
+
+Medications on Admission:
+Medications from OSH
+toprol XL 20mg daily
+metformin 1000mg UPMCE
+zocor 20mg daily
+iron 325mg dialy
+ASA 325mg daily
+alfuzosin 10mg daily
+finasteride 5mg daily
+uroxatral 10mg daily
+citalopram 20mg daily
+alprazolam 1mg HS
+ascorbic acid 1000mg
+irbesartan 150mg daily
+lisinopril 40mg UPMCE
+atorvastatin 20mg daily
+aspart insulin SS
+lantus insulin 37 units at bedtime
+celebrex 200mg PRN
+
+
+Discharge Medications:
+1. Uroxatral 10 mg Tablet Extended Release 24 hr Sig: One (1)
+Tablet Extended Release 24 hr PO daily ().
+2. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+3. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+5. metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+6. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Lasix 20 mg Tablet Sig: Two (2) Tablet PO once a day for 10
+days.
+Disp:*20 Tablet(s)* Refills:*0*
+10. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO once a day for 10 days.
+Disp:*20 Tablet Extended Release(s)* Refills:*0*
+11. ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for t>101.
+Disp:*90 Tablet(s)* Refills:*0*
+12. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+13. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+14. Lantus insulin
+20 units SQ at bedtime
+15. Aspart insulin
+Aspart insulin - dose as prior to admission per sliding scale
+based on finger stick
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+All Care VNA of Greater 123 Any St.
+
+Discharge Diagnosis:
+s/p redo sternotomy/Aortic Valve Replacement with #23 Analeiah Analeiah Doane
+tissue valve
+Past Medical History
+Aortic Stenosis
+type 2 Diabetes Mellitus
+Hypertension
+High cholesterol
+Coronary Artery Disease
+Benign Prostatic Hypertrophy-retention after surgery
+Past Surgical History:
+Coronary artery bypass grafting 15 yrs ago at UPMCE,
+cholesystectomy,
+Rt shoulder rotator cuff,
+tonsillectomy,
+left index finger surgery,
+left ring finger trigger surgery,
+eye surgery
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with tylenol and ultram
+Incisions:
+Sternal - healing well, no erythema or drainage
+Edema +1
+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for one month or while taking narcotics. Driving will
+be discussed at follow up appointment with surgeon.
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+
+Keep your urine catheter in until you are seen bu your
+urologist. If you do not see urine in the bag every hour or if
+the urine becomes more bloody and you cannot see through it,
+Call us at test@mail.com and go to the emergency room.
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+
+Wound check: NURSE Phone:test@mail.com Date/Time:2007-06-29 00:00:00 10:30
+in the UPMCE Medical office building, [**Doctor First Name **] , UPMCE
+
+Surgeon: Dr Asmitha Kemink Date/Time:2007-06-29 00:00:00 1:30 in the UPMCE
+Medical office building, [**Doctor First Name **] , UPMCE
+
+Cardiologist: Dr. Doane.  The office will call with a
+follow-up appointment
+
+Please call to schedule appointments with your:
+Urologist: to be seen this week. Keep your urine catheter until
+you see your urologist
+
+Primary Care Dr. Asmitha Kemink G. test@mail.com in 2007-06-29 00:00:00 weeks
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+
+
+Completed by:2007-06-29 00:00:00

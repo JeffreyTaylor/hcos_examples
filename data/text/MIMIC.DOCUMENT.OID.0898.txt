@@ -1,0 +1,370 @@
+Admission Date:  2008-03-07 00:00:00              Discharge Date:   2008-03-07 00:00:00
+
+Date of Birth: 1994-03-07 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Hydrochlorothiazide / Lipitor / Zocor /
+Glucophage / Neurontin / Lasix / Lyrica / Tylenol/Codeine No.3
+
+Attending:Abi Lusebrink
+Chief Complaint:
+hyperkalemia, ARF
+
+Major Surgical or Invasive Procedure:
+CTA of the chest (showed evidence of Pneumonia)
+CT of the head (normal)
+
+
+History of Present Illness:
+48 year old female with hx of DMII, now presenting to ER due to
+outside blood work yesterday showeing K of 6.0 at her annual
+physcial and an elevated Cr to 1.7. It was rechecked today and
+still elevated depsite today stopping her ACEI and aldactone.
+She was instructed to go the ER. While in ER, pt felt like her
+sugar was low and had a fs of 56, she was given detrose and BS
+improved to 87. She reports that she 123 Any St.usly had bs always
+>200 despite taking lantus 120 UPMCE and humalog 80 TID, this week
+she stopped her insulin due to several low BS in 50-60s. She was
+started on metformin 1000mg UPMCE yesterday. Today while her BS
+was low, she felt some palpitaions, which resolved after 2
+mintues. She recently started a carb free diet and has been
+loosing wt and exercising.
+.
+In ER VS were 97.2 88 119/74 17 100. She was given the detrose
+mentioned above - 1 amp, D5 1/2 NS ~200ml, and 1 liter NS. K was
+checked and was 5.3, on recheck was 4.9 so no other meds given.
+EKG showed sinus rate at 93, some mild T wave peaking in II,
+V3-V4, but same as prior. She was admitted for ARF,
+hypoglycemia, and hyperkalemia. VS on transfer were 98.2 77
+105/51 19 100%RA.
+.
+On Floor, patient was found to be hypoxic in the setting of no
+CPAP and napping.  She was diaphoretic, tachypnic, tachycardic.
+Triggered for hypoxia, concerning for PE.  On CXR found to have
+question of RUL pneumonia, then on CT noted to have right sided
+diffused intrapulmonary process, CT head was negative.  She was
+transfered to MICU for observation overnight. BP 80-130/60's, HR
+80-110, temp 98-101, SAT 95-100% on 2L, SR and rare PVC.
+.
+MICU course:
+Patient had an uneventful night at MICU.  Had similar headaches
+(throbbing), nausea, and vomited once, desated in the setting
+again without her CPAP.  She spiked a fever up to 101.7, did not
+intake as much water as she usually has.  Reports at home takes
+in about 5 L of fluids (H2O).  She was cultured and had trended
+for potassium and creatinine.
+.
+On floor, she was noted to be in good spirit.  Communicative,
+though still feels very nauseated.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath. Denied chest pain or
+tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+.
+
+Past Medical History:
+-GOUT
+-PSORIATIC ARTHITIS AND RASH
+-ADULT ONSET DIABETES MELLITUS- 10 yrs, just stopped insulin
+-HYPERLIPIDEMIA
+-BACK PAIN
+-PERIPHERAL EDEMA
+-POLYCYSTIC OVARIAN SYNDROME - s/p hysterectomy '2008-03-07 00:00:00
+-FATTY LIVER
+-SLEEP APNEA - uses CPAP at night
+-GASTRITIS - upper GI bleed hx
+-COLONIC POLYPS - colonoscopy 3 months ago
+-THYROID CANCER - both folicular and papillary, resected thryoid
+and s/p radiation tx
+-NEUROPATHY - requires nacotics
+-OBESITY
+-FOOD ALLERGIES - MSMG
+-ASTHMA
+.
+
+Social History:
+Lives with her mother. Issiac Limerick at UPMCE in blood bank. Non smoker,
+no etoh, no drugs.
+
+Family History:
+Father with DM
+Aunt with breast CA
+
+Physical Exam:
+Vitals:  99.4  121/56  88  20  92  RA
+General: Alert, oriented, no acute distress, cushingnoid
+appearance
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2,  2008-03-07 00:00:00 murmurs
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+BACK: no CVA tenderness
+Ext: Warm, well perfused, 2+ pulses, no clubbing, 1+ edema
+Neuro: CN 2-12 grossly intact, moving all extremities
+
+Pertinent Results:
+2008-03-07 00:00:00 06:00PM BLOOD WBC-8.8 RBC-3.53* Hgb-11.6* Hct-35.3*
+MCV-100* MCH-32.8* MCHC-32.8 RDW-14.6 Plt Ct-327
+2008-03-07 00:00:00 06:00PM BLOOD Neuts-58.6 Lymphs-36.9 Monos-2.6 Eos-1.5
+Baso-0.3
+2008-03-07 00:00:00 06:00PM BLOOD Glucose-59* UreaN-47* Creat-1.7* Na-137
+K-6.4* Cl-107 HCO3-19* AnGap-17
+2008-03-07 00:00:00 06:15AM BLOOD ALT-23 AST-19 LD(LDH)-149 AlkPhos-117*
+TotBili-0.3
+2008-03-07 00:00:00 06:00PM BLOOD cTropnT-<0.01
+2008-03-07 00:00:00 06:15PM BLOOD CK-MB-NotDone cTropnT-0.05*
+2008-03-07 00:00:00 12:24AM BLOOD CK-MB-NotDone cTropnT-0.02*
+2008-03-07 00:00:00 03:09AM BLOOD CK-MB-NotDone cTropnT-0.01
+2008-03-07 00:00:00 06:15AM BLOOD Calcium-8.4 Phos-4.2 Mg-1.9
+2008-03-07 00:00:00 06:35AM BLOOD calTIBC-269 VitB12-473 Folate-GREATER TH
+Ferritn-124 TRF-207
+2008-03-07 00:00:00 12:24AM BLOOD Osmolal-302
+2008-03-07 00:00:00 06:15PM BLOOD TSH-0.085*
+2008-03-07 00:00:00 06:15PM BLOOD Free T4-1.6
+2008-03-07 00:00:00 12:24AM BLOOD Cortsol-11.5
+
+Brief Hospital Course:
+48 yo f with hx of DMII, OSA, admitted with ARF, hypoglycemia,
+and hyperkalemia who developed AMS and hypoxia in the setting of
+being asleep without her CPAP, receiving high dose oxycontin and
+possibly aspirating emesis.  She recovered after one night in
+the MICU and was discharged in stable condition.
+.
+#Respiratory Distress: Hypoxia and hypercarbia was due to her
+severe OSA.  She fell asleep without her CPAP in the setting of
+not sleeping overnight and recieved oxycontin for her
+neuropathic pain.  This was complicated by an likely aspiration
+pneumonitis seen on her CXR and CT scan (RUL ground glass
+opacities).  She recovered after one night in the MICU and was
+transferred to the floor.  Prior to transfer, she spiked a
+temperature and was placed on Ceftriaxone and azithromycin.  She
+was in stable condition at the time of discharged.
+.
+# ARF: Unclear cause of renal failure.  Her urine lytes showed
+FeNa 1.2% and FeUrea 37%. UA was negative. BUN was also
+elevated.  Patient may be dehydrated in setting of diuretic
+medications and possible type IV RTA given DM history.
+Hyperkalemia was attributed to a combination of medications and
+renal failure.  This resolved after patient was given IVF,
+holding her home medications.
+.
+# Hyperkalemia: Initial EKG was notable for tall T waves (though
+seen in prior from 2008-03-07 00:00:00), normal QTC, low voltage.  Due to ACE
+and spironolactone use in the setting of acute renal failure.
+Resolved after restricting medications, IVF, and potassium
+restrict diet.  There was a question this may be due to other
+hypoaldosterone states. She will follow up with endocrine clinic
+as an outpatient for further work up.
+.
+# Hypoglycemia/DMII: Patient noted to have recently switched for
+insulin to metformin. She also started a diet and exercise
+routine.  Limerick was consulted on management of DM.  She was
+placed on a ISS in house and metformin was held.  This continued
+at the time of her discharge. She will follow up with Limerick and
+endocrine as an outpatient.
+.
+# Anemia: hct is slight decreased from 37 to 35, stable and not
+deficient in B12 or folate.
+.
+# HTN: BP stable.  Held ACEI initially.
+.
+# hx thyroid ca: stable
+- continue home medication
+.
+# neuropathy: stable
+- continue oxycotin and percocet and lidocaine cream
+.
+# OSA: used cpap
+.
+# Gout: stable initially but had a flare prior to discharge.
+Allopurinol was initially renally dosed but was stopped due to
+the flare.  Colchicine and indomethacine was started.
+.
+# Psoriatic arthitis: stable
+- continued indomethcine
+.
+# Code: full
+.
+# Emergency Contact: mother- Issiac Limerick test@mail.com
+.
+
+Medications on Admission:
+ALBUTEROL - 90 mcg Aerosol - 2 puffs q4hrs prn cough
+ALLOPURINOL - 300 mg Tablet daily
+COLCHICINE - 0.6 mg PRN flare of gout
+DESONIDE - 0.05 % Cream - UPMCE to axillae
+DULOXETINE [CYMBALTA] - 60 mg Capsule, UPMCE
+ENALAPRIL MALEATE - 40 mg - stopped 2008-03-07 00:00:00
+INDOMETHACIN - 50 mg Capsule - qday
+INSULIN GLARGINE - 120 units UPMCE, stopped 2008-03-07 00:00:00
+INSULIN LISPRO [HUMALOG PEN] - 80 units TID, stopped 2008-03-07 00:00:00
+LEVOTHYROXINE - 224 mcg PO qday
+OXYCODONE [OXYCONTIN] - 80 mg UPMCE
+OXYCODONE-ACETAMINOPHEN [PERCOCET] - 10 mg-325 mg Tablet q 4 hrs
+prn
+SPIRONOLACTONE - 100 mg Tablet po qday, stopped 2008-03-07 00:00:00
+LIDOCAINE - 5 % Cream - apply nightly as directed to feet
+MULTIVITAMINS WITH MINERALS - daily
+METFORMIN 1000MG UPMCE, started 2 days ago
+CINNAMON
+B COMPLEX
+MILK THISTLE
+ASA 81MG x 2 tabs
+FISH OIL
+B6
+
+Discharge Medications:
+1. Desonide 0.05 % Cream Sig: One (1) Appl Topical UPMCE (2 times
+a day).
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Levothyroxine 112 mcg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. Lidocaine HCl 5 % Ointment Sig: One (1) Appl Topical HS (at
+bedtime) as needed for foot pain.
+5. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+6. Indomethacin 25 mg Capsule Sig: Two (2) Capsule PO QDAILY ():
+note: may take 50mg twice a day during acute gout attacks.
+otherwise take usual 50mg daily dose  .
+7. Enalapril Maleate 10 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+Disp:*90 Tablet(s)* Refills:*1*
+8. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO three times a
+day as needed for gout attacks: take up to 3 tablets daily (one
+every 8 hours) as needed for gout flares; discontinue if severe
+diarrhea, nausea, emesis.
+9. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every four (4) hours as needed for cough.
+10. Spironolactone 50 mg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+11. Milk Thistle  Oral
+12. Vitamin B Complex  Oral
+13. Aspir-81 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+14. Fish Oil  Oral
+15. Percocet 10-325 mg Tablet Sig: One (1) Tablet PO every four
+(4) hours as needed for pain.
+16. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+17. Lantus 100 unit/mL Cartridge Sig: Six (6) units Subcutaneous
+at bedtime.
+18. Humalog 100 unit/mL Cartridge Sig: per sliding scale
+Subcutaneous once a day: see attached sliding scale.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+-Respiratory Distress
+-Aspiration pneumonitis
+-Mixed non-anion gap metabolic and respiratory acidosis
+-Acute Renal Failure
+-Hyperkalemia
+-Tachycardia
+-Hypoglycemia
+-Type II Diabetes mellitus
+.
+Secondary:
+-Anemia
+-Hypertension
+-History of thyroid cancer
+-Neuropathy
+-Obstructive Sleep Apnea
+-Gout
+-Psoriatic arthitis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+
+
+Discharge Instructions:
+It was a pleasure taking care of you in UPMCE.
+.
+You came to the hospital with high potassium, renal failure, and
+low glucose.  We provided fluid hydration and restricted your
+diet to low potassium diet.  We also stopped a couple of your
+medications that may have caused you to have elevated potassium.
+ Your glucose levels were evaluated and we had Limerick Diabetes
+Clinic doctors Issiac Limerick Issiac Limerick.  You were placed on an insulin sliding
+scale while you were in the hospital.  During your
+hospitalization, you had an episode where you did not put on
+your face mask and your oxygen saturation levels dropped. In
+this state, you vomited and aspirated, as the result, you had an
+aspiration pneumonia.  You stayed in the intensive care unit for
+one night.  You recovered and you were then placed on
+antibiotics for the aspiration pneumonia. Your followup chest
+xray did not show a pneumonia, so you were not continued on
+antibiotics. The chest findings were likely due to solely
+aspiration.
+.
+You also had some abnormal thyroid lab studies which should be
+worked up further as an outpatient. In addition, an endocrine
+follow-up is also being set-up so that you can be tested for
+high cortisol levels.
+.
+It is very important that you start to use your CPAP machine
+during any naps that you take during the day as well as when
+sleeping at night.
+.
+Please follow up with your upcoming doctor's appointments which
+have been made for you below.
+.
+MEDICATION CHANGES/INSTRUCTIONS:
+-Hold your home allopurinol until your gout resolves.
+-Continue taking colchicine up to three times daily for gouty
+flare up, stop taking when symptoms resolve or stop if
+experience diarrhea/GI side effects
+-Continue to take 50mg Indomethacin 1-2 times daily for gout
+flare and
+then drop to usual 50mg daily dose (please take this medication
+with food)
+-Your metformin was stopped and Limerick recommended 6 units of
+lantus at night and a humalog sliding scale for your home
+diabetes regimen. See the attached sliding scale. You said that
+you did not need prescriptions for these.
+-Please decrease aspirin use to 81mg daily
+-We restarted your usual enalapril at a lower dose of 30mg daily
+-We added Colace and Senna for prevention of constipation
+-We decreased your usual spirinolactone to 50mg at discharge
+(because of your recent elevated potassium levels)
+-You were discharged on Percocet for pain control. Please wait
+to restart your home oxycontin dose until you discuss this
+medication with Dr. Limerick at your upcoming appointment
+-Otherwise, you can resume your home medications that you had
+been taking
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) 274**] Limerick, MD Phone:test@mail.com
+Date/Time:2008-03-07 00:00:00 1:30
+.
+Please follow-up in the Endocrinology Clinic with Dr. Limerick
+at 123 Any St. of the UPMCE Building.
+Appointment date is 2008-03-07 00:00:00 at 2:45pm. Phone#
+test@mail.com.
+.
+You also need UPMCE Clinic followup in the next two weeks. They
+were considering starting Byetta with you. Call (test@mail.com
+for an appointment.
+
+
+                             Issiac Limerick Issiac Limerick MD 92629
+

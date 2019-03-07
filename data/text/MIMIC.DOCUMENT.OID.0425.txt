@@ -1,0 +1,254 @@
+Admission Date:  2010-12-23 00:00:00              Discharge Date:   2010-12-23 00:00:00
+
+Date of Birth: 1991-06-06 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Ciprofloxacin / Levaquin / Opioid Analgesics
+
+Attending:Kenyen Teetzel
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+2010-12-23 00:00:00 Aortic Valve Replacement (21mm CE tissue valve)
+
+History of Present Illness:
+58 y/o female with known AS. Followeed by serial echo's and
+cardiac cath which have shown progression of aortic stenosis.
+Admits to increased chest discomfort, DOE and fatigue over the
+last several years.
+
+Past Medical History:
+Aortic Stenosis, Hypertension, Hypercholesterolemia, Peripheral
+2010-12-23 00:00:00 Disease, Carotid Disease, End-Stage Renal Disease
+(prev. on HD), Diabetes Mellitus, ?Seizure Disorder, Hepatitis
+C, Erectile Dysfunction, Cataracts
+PSH: RLE BPG 2010-12-23 00:00:00, Cadaveric Renal Transplant 2010-12-23 00:00:00,
+Parathyroidectomy 2010-12-23 00:00:00, Toe amputations 2010-12-23 00:00:00-2010-12-23 00:00:00,
+Cholecystectomy 2010-12-23 00:00:00, L AV fistula
+
+Social History:
+pt denies smoking. rare eoth. h/o IVDA (over 40 yrs ago)
+
+Family History:
+Father, mother and brother have DM.  Father died of an MI at 54.
+ Mother died of stomach cancer.
+
+Physical Exam:
+General: Obese male in NAD
+Skin: Rubor changes distal LE
+HEENT: EOMI, PERRL NC/AT
+Neck: Supple, FROM, -bruit (transmitted murmur)
+Chest: CTAB -w/r/r
+Heart: RRR w/ SEM
+Abd: Soft, NT/ND, +BS, obese, +inguinal hernia
+Ext: Warm, well-perfused, 2+ edema, L arm AV fistula,
+-varicosities
+Neuro: MAE, Non-focal, A&O x 3
+
+Discharge
+General no acute distress
+Vitals 98.4 F 79 SR, 18 RR, 94% RA sat 132/72  wt 99.4kg
+Neuro A/O x3 nonfocal
+Pulm CTA
+Cardiac RRR
+Sternal inc no drainage, no erythema sternum stable
+Ext warm trace edema
+
+
+Pertinent Results:
+Echo 2010-12-23 00:00:00: PRE-BYPASS: There is moderate symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). There are simple atheroma in the descending thoracic
+aorta. The aortic valve leaflets are severely
+thickened/deformed. There is aortic valve stenosis (area 1.1
+cm2). Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are moderately thickened. Mild to moderate (2010-12-23 00:00:00+)
+mitral regurgitation is seen. POST-BYPASS: The aortic valve
+prosthesis appears to be well seated. No evidence of any
+perivalvular leak. The peak gradient across the aortic valve is
+20 mmHg. Biventricular function appears to be well preserved.
+The mitral valve has a persitent level of mild regurgitation .
+Normal aortic contour post decannulation.
+Head CT 2010-12-23 00:00:00: Loss of Kenyen Teetzel-white matter differentiation and
+ill-defined hypodensity in anterior left frontal Hannemann, [**First Name3 (LF) **] be
+secondary to motion artifact, however, cerebral edema in the
+setting of acute brain ischemia cannot be excluded. Consider
+performing MR Evelyn Hannemann-weighted imaging or CT perfusion
+for further evaluation.
+EEG 2010-12-23 00:00:00: This is an abnormal EEG due to the presence of a
+poorly organized and somewhat slow background with multifocal
+slow transients. This pattern is consistent with a moderate
+encephalopathy of toxic, metabolic, and/or anoxic etiology, and
+can also be seen in patients with significant bilateral or deep
+midline white matter lesions. No evidence of asymmetries of
+voltage or frequency were seen to suggest embolic or
+cortically-based strokes. No epileptiform features were seen.
+CXR 2010-12-23 00:00:00: Status post AVR. Right jugular CV line is in upper
+right atrium as 123 Any St.usly noted. No pneumothorax. There are low
+lung volumes with bibasilar atelectases and a probable small
+left pleural effusion.
+2010-12-23 00:00:00 10:59AM BLOOD WBC-6.2 RBC-2.90*# Hgb-8.8*# Hct-26.8*#
+MCV-93 MCH-30.2 MCHC-32.7 RDW-16.3* Plt Ct-76*#
+2010-12-23 00:00:00 02:32AM BLOOD WBC-9.7 RBC-3.55* Hgb-10.9* Hct-31.1*
+MCV-88 MCH-30.6 MCHC-35.0 RDW-16.8* Plt Ct-76*
+2010-12-23 00:00:00 05:56AM BLOOD WBC-6.9 Hct-28.8*
+2010-12-23 00:00:00 10:59AM BLOOD PT-16.8* PTT-35.7* INR(PT)-1.5*
+2010-12-23 00:00:00 05:56AM BLOOD PT-16.3* PTT-31.7 INR(PT)-1.5*
+2010-12-23 00:00:00 12:29PM BLOOD UreaN-27* Creat-1.1 Cl-113* HCO3-23
+2010-12-23 00:00:00 05:28AM BLOOD Glucose-42* UreaN-29* Creat-1.2 Na-138
+K-4.3 Cl-106 HCO3-24 AnGap-12
+2010-12-23 00:00:00 05:29AM BLOOD UreaN-36* Creat-1.4* K-4.6
+
+Brief Hospital Course:
+Mr. Hannemann was a same day admit following all pre-operative
+work-up done as an outpatient. On admit day he was brought to
+the operating room where he underwent an Aortic Valve
+replacement. Please see operative report for surgical details.
+He tolerated the procedure well and was transferred to the CSRU
+for invasive monitoring in stable condition. Later on op day he
+was weaned from sedation and extubated. Initially following
+commands, but then movements became inappropriate and he was
+non-conversant. Neurology was consulted and head CT, EEG, and
+echo were performed. CT was questionable for CVA, but over the
+next several days his Neuro status improved and by post-op day
+four he was A&O x 3, following commands with appropriate speech.
+Neuro felt like episode most likely related to opioid
+analgesics. During these several days post-op he remained in the
+CSRU and was started on Beta Blockers, Diuretics, and his pre-op
+meds. He was gently diuresed towards his pre-op weight. Chest
+tubes and epicardial pacing wires were removed per protocol.
+Renal followed pt. during entire post-op course secondary to
+transplanted kidney and prior HD. On post-op day five he was
+transferred to the SDU for continued care. He had episode of
+Atrial fibrillation on this day, beta blockers were increased
+and Amiodarone was initiated. He continued to have Atrial
+Fibrillation during rest of hospital course and was started on
+Coumadin. On post-op day seven there was some sternal drainage
+and he was started on antibiotics. On post op day 8 he was ready
+for discharge with VNA services.  Plan for INR to be checked
+2010-12-23 00:00:00 with results to Dr Evelyn Hannemann for further dosing, goal
+INR 2-2.5.
+
+
+Medications on Admission:
+Humulin N 55 units UPMCE, Humalog, Fosamax 70 qweek, Rapamine 1
+qd, Prednisone 5 qd, Pravastatin 40 qd, Epivir 100 qd, Bactrim
+SS qd, Omeprazole 20 qd, Folate, Lasix 40 UPMCE (M,W,F,Sat), Lasix
+qd (T,TH,Sun), Lopressor 100 UPMCE, Cellcept test@mail.com UPMCE
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QMON (every
+Monday).
+Disp:*5 Tablet(s)* Refills:*0*
+7. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO
+BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+8. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID
+(3 times a day).
+Disp:*270 Tablet(s)* Refills:*0*
+9. Sirolimus 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+10. Lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+11. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+12. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+13. Furosemide 40 mg Tablet Sig: One (1) Tablet PO q pm  for 10
+days.
+Disp:*10 Tablet(s)* Refills:*0*
+14. Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: Fifty
+(50) units Subcutaneous twice a day.
+15. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+16. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 12 days.
+Disp:*48 Capsule(s)* Refills:*0*
+17. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day:
+please take 2.5mg 2010-12-23 00:00:00 and 2010-12-23 00:00:00 - have INR checked 2010-12-23 00:00:00 with
+results to Dr Hannemann for further dosing .
+Disp:*30 Tablet(s)* Refills:*0*
+18. Outpatient Lab Work
+INR/PT as needed - first draw 2010-12-23 00:00:00
+Results to Dr Evelyn Hannemann office # 1-test@mail.com
+goal INR 2-2.5
+19. Humalog 100 unit/mL Solution Sig: sliding scale
+Subcutaneous AC and HS : please continue to follow home sliding
+scale .
+20. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+21. Furosemide 80 mg Tablet Sig: One (1) Tablet PO Q AM  for 10
+days.
+Disp:*10 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Partners Evelyn Hannemann
+
+Discharge Diagnosis:
+Aortic Stenosis s/p Aortic Valve Replacement
+Post-operative Atrial Fibrillation
+PMH: Hypertension, Hypercholesterolemia, Peripheral Evelyn Hannemann
+Disease, Carotid Disease, End-Stage Renal Disease (prev. on HD),
+Diabetes Mellitus, ?Seizure Disorder, Hepatitis C, Erectile
+Dysfunction, Cataracts
+PSH: RLE BPG 2010-12-23 00:00:00, Cadaveric Renal Transplant 2010-12-23 00:00:00,
+Parathyroidectomy 2010-12-23 00:00:00, Toe amputations 2010-12-23 00:00:00-2010-12-23 00:00:00,
+Cholecystectomy 2010-12-23 00:00:00, L AV fistula
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+2010-12-23 00:00:00 shower, no baths or swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns
+
+
+Followup Instructions:
+Dr Hannemann in 4 weeks (test@mail.com) please call for appointment
+
+Dr [**First Name8 (NamePattern2) 3353**] Hannemann in 1 week (test@mail.com) please call for
+appointment
+Dr Evelyn Hannemann in 2010-12-23 00:00:00 weeks (test@mail.com) please call for
+appointment
+Dr Evelyn Hannemann in 1 week (test@mail.com) please call for
+appointment
+Dr Evelyn Hannemann 2-4 weeks (test@mail.com) please call for
+appointment
+Wound check appointment UPMCE 2 on Monday 2010-12-23 00:00:00 (test@mail.com)
+
+
+
+Completed by:2010-12-23 00:00:00

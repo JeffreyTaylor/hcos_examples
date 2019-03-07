@@ -1,0 +1,254 @@
+Admission Date:  2009-12-21 00:00:00              Discharge Date:   2009-12-21 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Valium
+
+Attending:Zada Hilliard
+Chief Complaint:
+Transfer to UPMCE per wife request with pneumonia and UTI
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+24 yo M with h/o Parkinson's, aspiration pneumonia who presented
+to UPMCE ER from NH with acute SOB. He initially had fever
+to 102 axillary and rigors at his NH and was brought in by EMS.
+EN route to UPMCE, his RR was elevated and he presented
+there in respiratory distress, febrile to 103 and hypertensive
+to 160s/100. They treated him with nebs and lasix and his resp
+status improved. CXR revealed LLL infiltrate and U/A was grossly
+positive, with >100 WBC. He was given zosyn, ceftriaxone and
+levaquin. He was transferred to UPMCE per request of his wife.
+She notes he has been more fatiqued, denies myalgias. He has had
+some episodes of dyspnea and increased RR at the NH for past few
+days, which seemed to respond to roxanol, per his wife. Giacomin Bieler notes
+some dysuria and productive cough, denies chest pain, back pain,
+couging with eating. On arrival to UPMCE, he had temp of 100.8,
+BP 84/52, RR 24, os sat 100 % on NRB. His ABG was 7.35/53/174 on
+the NRB. His baseline sats are mid 90's on RA.
+
+
+Past Medical History:
+Parkinson's
+Osteoporosis
+T11/12 compression fx
+LLE osteomyelelitis as a child
+granulomatous liver disease
+LUE rotator cuff tear
+Prostate cancer s/p orchiectomy in 2009-12-21 00:00:00
+s/p laminectomy L4-5
+Aspiration pneumonia, admitted UPMCE 2009-12-21 00:00:00 requiring intubation
+PEG tube placed 2009-12-21 00:00:00
+Cataracts s/p surgery
+Glaucoma
+
+
+Social History:
+The patient has a sixty-pack-year history of tobacco. He quit in
+2009-12-21 00:00:00. He lives in a NH for the past 2 years. He is a retired
+history professor. He reports no alcohol intake.
+
+
+Family History:
+Non-contributory
+
+
+Physical Exam:
+100.8, 85/39, 90, 20-30, 99% NRB ->94% 4L NC
+GENL: elderaly male in NAD
+HEENT: OP dry, no elevated JVP
+CV: RRR +systolic murmur
+Lungs: Crackles L base > R base, ?egophony
+Abd: soft, not tender, nondistended, hypoactive BS
+Ext: trace edema
+Neur: Oriented to place, answers ? appropriately but with weak
+voice.
+
+
+Pertinent Results:
+2009-12-21 00:00:00 11:43PM BLOOD Glucose-108* Lactate-1.7 Na-134* K-4.0
+Cl-99*
+2009-12-21 00:00:00 10:17AM BLOOD Lactate-2.1*
+2009-12-21 00:00:00 11:43PM BLOOD Type-ART Temp-38.2 pO2-174* pCO2-53*
+pH-7.36 calTCO2-31* Base XS-3
+2009-12-21 00:00:00 01:02AM BLOOD Albumin-3.2* Calcium-8.5 Phos-3.6 Mg-2.0
+2009-12-21 00:00:00 01:02AM BLOOD Lipase-12
+2009-12-21 00:00:00 01:02AM BLOOD ALT-6 AST-22 LD(LDH)-136 AlkPhos-60
+Amylase-63 TotBili-0.5
+2009-12-21 00:00:00 01:02AM BLOOD Glucose-96 UreaN-24* Creat-0.8 Na-139
+K-4.1 Cl-101 HCO3-29 AnGap-13
+2009-12-21 00:00:00 07:12AM BLOOD Glucose-91 UreaN-17 Creat-0.7 Na-140
+K-3.5 Cl-108 HCO3-26 AnGap-10
+2009-12-21 00:00:00 01:02AM BLOOD PT-12.9 PTT-26.3 INR(PT)-1.1
+2009-12-21 00:00:00 01:02AM BLOOD Neuts-81* Bands-12* Lymphs-2* Monos-5
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+2009-12-21 00:00:00 07:58AM BLOOD Neuts-90.2* Lymphs-7.2* Monos-2.4 Eos-0
+Baso-0.1
+2009-12-21 00:00:00 01:02AM BLOOD WBC-26.2*# RBC-3.61* Hgb-12.3* Hct-36.4*
+MCV-101* MCH-33.9* MCHC-33.6 RDW-13.6 Plt Ct-238
+2009-12-21 00:00:00 07:58AM BLOOD WBC-22.6* RBC-3.32* Hgb-11.2* Hct-33.3*
+MCV-100* MCH-33.9* MCHC-33.8 RDW-13.9 Plt Ct-245
+2009-12-21 00:00:00 07:12AM BLOOD WBC-14.0* RBC-2.92* Hgb-9.9* Hct-29.2*
+MCV-100* MCH-33.7* MCHC-33.8 RDW-13.7 Plt Ct-247
+.
+2009-12-21 00:00:00 Blood, sputum, and urine cultures pending.
+.
+Influenza A/B DFA pending.
+.
+CXR PA/lat: IMPRESSION:
+1. Marked improvement of left lower lobe consolidations and
+pleural effusion.
+2. Wedge fracture with subsequent kyphosis of one of the lower
+thoracic, upper lumbar vertebra.
+
+
+Brief Hospital Course:
+24 yo M with h/o PD and asp pna, who presented to OSH with SOB,
+fever, rigors, LLL infiltrate and UTI.
+.
+1. SOB/Pneumonia: CXR showed heterogeneous opacification at the
+lung bases c/w aspiration pneumonia and given his history of
+aspiration, this seems the most likely cause of his SOB.  His
+WBC count was elevated to 22 on admission with a 12% bandemia.
+He was initially started on zosyn and vancomycin, but remained
+afebrile with stable wbc and O2 sats on zosyn only.  He
+completed a total 10 days of antibiotics.  He continues on his
+standing UPMCE theravest treatments for aggressive pulmonary
+toilet.  Family requested referral to pulmonary clinic for
+continued recommendations on use of theravest and avoidance of
+recurrent pneumonias.
+.
+2. Sepsis: Had elevated WBC, source of infection, elevated RR,
+and fever to 103, meeting criteria for sepsis.  He was initially
+hypertensive at UPMCE where he received lasix. BP was
+borderline on admission to UPMCE and he subsequently required
+IVF boluses to maintain MAP > 60.  Cosyntropin stim revealed
+cortisol of 17.6-->31.2.  He will be treated for his pneumonia,
+as above.  Sputum culture was contaminated with OP flora, blood
+cultures were negative, and urine culture only grew Giacomin Bieler.
+.
+3. Parkinson's: He was continued on sinemet, entacapone, and
+pramipexole.
+.
+4. Glaucoma: His home eye drops were continued.
+.
+5. FEN: Has G tube, but occasionally takes PO at home.  He has
+been recommended a soft solid diet in the past.  Video
+evaluation here suggests patient can tolerate a ground diet with
+nectar thickened liquids without aspiration.  However, patient
+wished to defer his ground diet, as it is not a123 Any St.ing to him.
+ He receives continous tube feeds which supply his daily caloric
+needs.
+.
+6. PPX: strict aspiration precautions, SQ heparin
+.
+7. Dispo: Patient discharged to 123 Any St..  Patient
+has PICC line still in place in case access is still needed in
+next week.  Please remove in next 5-7 days if not used.  Patient
+also received pneumovax prior to discharge.
+
+Medications on Admission:
+carbidopa
+aspirin
+miacalcin
+sinemet
+albuterol
+atrovent
+docusate
+effexor
+phenazine
+mirapex
+vicodin
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet 123 Any St.: Two (2) Tablet PO Q6H (every
+6 hours) as needed.
+2. Entacapone 200 mg Tablet 123 Any St.: One (1) Tablet PO Q 5Am, 8AM,
+11Am, 2PM, 5PM, 8PM, 11PM () as needed for parkinsons.
+3. Pramipexole 0.125 mg Tablet 123 Any St.: One (1) Tablet PO Q 5AM,
+8AM, 11AM, 2PM, 5PM, 8PM, 11PM ().
+4. Carbidopa-Levodopa 25-100 mg Tablet 123 Any St.: Two (2) Tablet PO
+Q5AM, 8AM, 11AM, 2PM, 5PM, 8PM, 11PM ().
+5. Fluticasone 50 mcg/Actuation Aerosol, Spray 123 Any St.: Two (2)
+Spray Nasal UPMCE (2 times a day).
+6. Aspirin 81 mg Tablet, Chewable UPMCE: One (1) Tablet, Chewable
+PO DAILY (Daily).
+7. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR Bieler: One (1)
+Tablet,Rapid Dissolve, DR Bieler DAILY (Daily).
+8. Guaifenesin 100 mg/5 mL Syrup Bieler: 5-10 MLs PO Q6H (every 6
+hours) as needed.
+9. Fexofenadine 60 mg Tablet Bieler: One (1) Tablet PO BID (2 times
+a day).
+10. Latanoprost 0.005 % Drops Bieler: One (1) Drop Ophthalmic HS
+(at bedtime).
+11. Dorzolamide-Timolol 2-0.5 % Drops Bieler: One (1) Drop
+Ophthalmic UPMCE (2 times a day).
+12. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette UPMCE: 2009-12-21 00:00:00
+Drops Ophthalmic PRN (as needed).
+13. Calcitonin (Salmon) 200 unit/Actuation Aerosol, Spray 2009-12-21 00:00:00:
+One (1)  Nasal DAILY (Daily).
+14. Lidocaine HCl 2 % Gel 2009-12-21 00:00:00: One (1) Appl Mucous membrane PRN
+(as needed).
+15. Heparin (Porcine) 5,000 unit/mL Solution 2009-12-21 00:00:00: One (1)
+Injection TID (3 times a day).
+16. Hydrocodone-Acetaminophen 5-500 mg Tablet 2009-12-21 00:00:00: One (1)
+Tablet PO Q6H (every 6 hours) as needed.
+17. Simethicone 80 mg Tablet, Chewable 2009-12-21 00:00:00: One (1) Tablet,
+Chewable PO QID (4 times a day) as needed for bloating.
+18. Sodium Chloride 0.65 % Aerosol, Spray 2009-12-21 00:00:00: 2009-12-21 00:00:00 Sprays Nasal
+QID (4 times a day) as needed.
+19. Cholecalciferol (Vitamin D3) 400 unit Tablet 2009-12-21 00:00:00: One (1)
+Tablet PO BID (2 times a day).
+20. Ipratropium Bromide 0.02 % Solution 2009-12-21 00:00:00: One (1)  Inhalation
+Q6H (every 6 hours).
+21. Albuterol Sulfate 0.083 % Solution 2009-12-21 00:00:00: One (1)  Inhalation
+Q3-4H (Every 3 to 4 Hours) as needed.
+22. Magnesium Hydroxide 400 mg/5 mL Suspension 2009-12-21 00:00:00: Thirty (30)
+ML PO Q6H (every 6 hours) as needed.
+23. Bisacodyl 10 mg Suppository 2009-12-21 00:00:00: One (1) Suppository Rectal
+HS (at bedtime) as needed for constipation.
+24. Senna 8.6 mg Tablet 2009-12-21 00:00:00: One (1) Tablet PO BID (2 times a
+day) as needed.
+25. Albuterol Sulfate 0.083 % Solution 2009-12-21 00:00:00: One (1)  Inhalation
+Q 8H (Every 8 Hours).
+26. Docusate Sodium 50 mg/5 mL Liquid 2009-12-21 00:00:00: One (1)  PO BID (2
+times a day) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+aspiration pneumonia
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please continue to take your medications as prescribed.
+
+Please call your primary care doctor if you develop worsening
+cough, shortness of breath, chest pain, fever, chills.
+
+Followup Instructions:
+Provider: Giacomin Bieler FUNCTION LAB Phone:test@mail.com
+Date/Time:2009-12-21 00:00:00 10:30
+Provider: Giacomin Bieler,Giacomin Bieler Giacomin Bieler INTEPRETATION BILLING
+Date/Time:2009-12-21 00:00:00 10:30
+Provider: Zada Hilliard Bieler NP/DR Bieler Phone:test@mail.com
+Date/Time:2009-12-21 00:00:00 11:00 (pulmonary)
+
+PCP Appt Dr Bieler. [**Doctor Last Name **] 2009-12-21 00:00:00 at 3:00pm
+
+
+

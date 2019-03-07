@@ -1,0 +1,246 @@
+Admission Date:  2011-04-07 00:00:00              Discharge Date:   2011-04-07 00:00:00
+
+Date of Birth: 1933-04-07 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Iodine; Iodine Containing / Metoprolol / Diltiazem Er
+
+Attending:Iviana Mcclear
+Chief Complaint:
+chronic Type A dissection
+
+Major Surgical or Invasive Procedure:
+2011-04-07 00:00:00 Redo Sternotomy, Replacement of Ascending Aorta(32mm
+Gelweave Dacron Graft), Re-implantation of saphenous vein grafts
+
+
+History of Present Illness:
+Mr. Schlicht is a 73 year old male who underwent coronary
+artery bypass grafting and Maze procedure on 2011-04-07 00:00:00. he has
+done well since, maintaining sinus rhythm.  During a routine
+followup cardiac MRI, he was noted to have an aortic dissection
+involving the ascending aorta. Given the findings, he was
+admitted for further evaluation and treatment. He was relatively
+asymptomatic but was complaining of some right sided chest
+discomfort which appeared more musculoskeletal in nature. On
+admission, he denied back pain, syncope, lightheadedness and
+dizziness.
+
+
+Past Medical History:
+s/p coronary artery grafting & Maze procedures
+coronary artery disease
+h/o Atrial fibrillation
+Prostate CA
+hypertension
+Dyslipidemia
+Hx of transient ischemic attack
+Hx of S123 Any St. Infarcts
+Hypertriglyceridemia
+Anaphylactoid reaction to Iodinated contrast
+
+
+Social History:
+He has three children, all in good health. He lives in Peace
+village community setting. He is a retired  Professor Emeritus
+in accounting and management at UPMCE.
+He stopped smoking in 2011-04-07 00:00:00, does not drink alcohol or use
+recreational drugs.
+
+Family History:
+Family history is remarkable for parents who died very late in
+life. His father did have some heart disease. A brother is
+deceased at 65 of prostate cancer. Two other brothers are in
+poor health in their 80s. A sister is deceased at 62.
+
+
+Physical Exam:
+Admission:
+VS - 97.3, 185/78, 60, 16, 95%RA
+Gen: WDWN elderly male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple without lymphadenopathy.
+CV: regular rate and rhythm, normal S1, S2. No thrills, lifts.
+No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. CTA
+bilaterally, no crackles, wheezes or rhonchi anteriorly.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: Brown skin changes around left lower leg. No stasis
+dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ Femoral 2+ DP 1+
+Left: Carotid 2+ Femoral 2+ DP 1+
+
+
+
+
+Pertinent Results:
+2011-04-07 00:00:00 Cardiac MRI:
+Aortic dissection involving the ascending aorta; dissection does
+not appear to involve the valve plane on the provided images but
+probably approaches within 1-2 cm. Origin of a coronary bypass
+graft on the anterolateral aspect of the ascending aorta is
+located immediately adjacent to the dissection flap.
+2011-04-07 00:00:00 Transthoracic ECHO:
+The left atrium is elongated. The right atrium is moderately
+dilated. There is mild symmetric left ventricular hypertrophy
+with normal cavity size. Overall left ventricular systolic
+function is normal (LVEF>55%). The right ventricular cavity is
+mildly dilated with borderline normal free wall function. The
+aortic root is moderately dilated at the sinus level. The
+ascending aorta is mildly dilated. The aortic valve leaflets (3)
+are mildly thickened but aortic stenosis is not present. Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. The tricuspid valve leaflets are mildly
+thickened. There is borderline pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+2011-04-07 00:00:00 Coronary CTA:
+1. Short segment dissection (43 mm) in the ascending aorta,
+extending just below the origin of the graft in the right
+lateral border of the aorta to the level of the sinotubular
+junction, without involving the origins of the grafts or native
+coronary arteries.
+2. Patent all three bypass grafts: left anterior mammary artery
+to left anterior descending, graft from aorta to obtuse marginal
+one, and graft from aorta to right coronary artery.
+3. Mild cardiomegaly.
+4. Small amount of fluid surrounding the ascending aorta and a
+small amount of pericardial effusion, probably related to recent
+surgery.
+
+2011-04-07 00:00:00 07:00AM BLOOD WBC-11.5* RBC-3.18* Hgb-9.8* Hct-27.9*
+MCV-88 MCH-30.7 MCHC-34.9 RDW-15.1 Plt Ct-189
+
+2011-04-07 00:00:00 05:30AM BLOOD UreaN-19 Creat-1.4* K-4.0
+2011-04-07 00:00:00 07:00AM BLOOD Glucose-93 UreaN-18 Creat-1.3* Na-134
+K-4.4 Cl-106 HCO3-23 AnGap-9
+
+Brief Hospital Course:
+Mr. Schlicht was directly admitted to the Cardiovascular
+Intensive Care Unit for strict blood pressure control. He was
+hypertensive on admission and started on Nipride which was
+titrated for goal systolic blood pressure less than 120 mmHg. In
+anticipation for surgical intervention, he was given Vitamin K
+for Warfarin reversal. Further evaluation included an
+echocardiogram and coronary CT angiogram - see result section
+for details. Given his Iodine allergy, he was pre-treated with
+Prednisone and Benadryl without complication.
+
+On 2011-04-07 00:00:00, he underwent redo sternotomy with repair of his
+chronic type A aortic dissection. For surgical details, please
+see operative note. Given inpatient stay was greater than 24
+hours, Vancomycin was given for perioperative antibiotics.
+Following the operation, he was brought to the CVICU for
+invasive monitoring. He weaned from bypass easily.  Within 24
+hours, he awoke neurologically intact and was extubated without
+incident.
+
+His hypertension was treated with beta blockers and ACE
+inhibition. Anticoagulation was not resumed as he has been in
+sinus rhythm.  Diuresis was begun towards his preoperative
+weight. Physical therapy worked with him for strengthening an d
+mobilization. A short stay in a rehabilitatiuon facility was
+necessary before return to independent living.
+
+Discharge instructions and medications were detailed in the
+summary and discharge plans as were followup directions.
+
+Medications on Admission:
+Amiodarone 200 mg QD
+Docusate Sodium 100 UPMCE
+Aspirin 81 QD
+Warfarin 4 QD or as directed
+Hydromorphone as needed for pain.
+Atorvastatin 10 QD
+Atenolol 25 QD
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 2 weeks.
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+6. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Ibuprofen 400 mg Tablet Sig: 1-2 Tablets PO Q8H (every 8
+hours) as needed.
+10. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every 2011-04-07 00:00:00
+hours as needed for 2 weeks.
+11. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+12. Lasix 40 mg Tablet Sig: Two (2) Tablet PO twice a day for 7
+days: decrease to 40mg daily after 7 days (2011-04-07 00:00:00).
+13. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO twice a day for 7
+days: Decrease to daily after 7 days (2011-04-07 00:00:00).
+14. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Chronic Type A Aortic Dissection
+s/p Repair ascending dissection & reanastamosis of grafts 2011-04-07 00:00:00
+Coronary Artery Disease
+Atrial Fibrillation
+s/p Coronary Artery Bypass Grafting and Maze Procedure on
+2011-04-07 00:00:00, Hypertension
+Dyslipidemia
+h/o of transient ischemic attack
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the Dmarko Schlicht at
+(test@mail.com.
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks from date of
+surgery.
+6) No driving for 1 month or while taking narcotics for pain.
+7) Call with any questions or concerns.
+
+Followup Instructions:
+Dr. Schlicht in 2011-04-07 00:00:00 weeks (test@mail.com)
+Dr. Iviana Mcclear in 2011-04-07 00:00:00 weeks (test@mail.com)
+Dr. Schlicht in 2011-04-07 00:00:00 weeks
+Dr. Iviana Mcclear in 2011-04-07 00:00:00 weeks
+please call for appointments
+
+
+
+Completed by:2011-04-07 00:00:00

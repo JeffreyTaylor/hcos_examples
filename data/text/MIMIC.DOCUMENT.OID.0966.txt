@@ -1,0 +1,142 @@
+Admission Date:  2005-05-26 00:00:00              Discharge Date:   2005-05-26 00:00:00
+
+Date of Birth: 1996-12-29 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Erythromycin Base / Percocet / Percodan / Celebrex
+
+Attending:Gertrudis Barnidge
+Chief Complaint:
+abdominal pain
+
+Major Surgical or Invasive Procedure:
+resection
+
+
+History of Present Illness:
+Patient is a 51 year old female with multiple medical problems
+who presented to the UPMCE Demba Laramore 2005-05-26 00:00:00 complaining of worsening
+abdominal pain over the 123 Any St.us 36 hours. She described the
+pain as sharp, constant and radiating to back and chest. She
+also was naseauted and had bilious emesis for the last 24 hours.
+No diarrhea.
+
+Past Medical History:
+pud/gerd
+asthma
+cad/cabg x 2
+aortobifem 2005-05-26 00:00:00
+a/p c-sect 2005-05-26 00:00:00
+depression
+s/p ccy and vent hernia repair 2005-05-26 00:00:00
+
+
+Social History:
+lives with 24 yo daughter, + tob (35 pack years), occ etoh, no
+drugs, works as clerk
+
+
+Family History:
+father died mi age 51, mother died lung cancer at 79
+4 brothers with dm
+
+
+Physical Exam:
+97.1 96 168/58 18 99% RA
+appears uncomfortable
+tachy regular
+lungs clear
+abdomen soft, diffusely tender, with increase pain and focal
+guarding in RUQ
+rectal exam- heme negative with no masses
+palpable femoral artery
+palpable DP & PT bilaterally
+
+
+Pertinent Results:
+2005-05-26 00:00:00 02:50PM   PLT COUNT-222
+2005-05-26 00:00:00 02:50PM   NEUTS-81.3* LYMPHS-15.0* MONOS-2.6 EOS-0.7
+BASOS-0.4
+2005-05-26 00:00:00 02:50PM   WBC-15.2*# RBC-4.96 HGB-15.1 HCT-43.9 MCV-89
+MCH-30.5 MCHC-34.5 RDW-13.2
+2005-05-26 00:00:00 02:50PM   ALT(SGPT)-19 AST(SGOT)-17 CK(CPK)-41 ALK
+PHOS-99 AMYLASE-61 TOT BILI-0.3
+2005-05-26 00:00:00 02:50PM   ALT(SGPT)-19 AST(SGOT)-17 CK(CPK)-41 ALK
+PHOS-99 AMYLASE-61 TOT BILI-0.3
+
+2005-05-26 00:00:00 CT: Pneumatosis intestinalis of the distal ileum and
+thickening of
+the tip of the cecum with associated portal venous and
+mesenteric venous air
+
+
+Brief Hospital Course:
+Patient was evaluated by the surgical service the day of
+presentation and then was emergently taken to the operating
+room. Please see operative report for details. Post operatively,
+patient was transferred to the SICU intubated and continued
+emperic antibiotics. Cardiac echo was negative for source of
+emboli. Patient was successfully extubated POD 1. Patient was
+transferred to the floor POD 4. Diet was advanced slowly as
+bowel function returned. Physical therapy was consulted and
+followed patient through hospital course. Patient also started
+coumadin on 2005-05-26 00:00:00 for history of atrial fibrillation and
+possible embolic etiology of bowel ischemia. Patient was
+discharged home on POD 7 tolerating general diet, ambulating
+independently and pain controled on oral pain medication.
+Patient was given perscription for coumadin and given
+instructions to have coags drawn 2005-05-26 00:00:00. Hospital course and
+coumadin therapy was discussed with PCP, Laramore. Laramore prior to
+discharge.
+
+Medications on Admission:
+advair
+lipitor
+ASA
+norvasc
+sublingual nitro PRN
+
+Discharge Medications:
+1. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed: do not take more than 4
+grams of acetaminophen per day.
+Disp:*50 Tablet(s)* Refills:*0*
+2. Warfarin Sodium 1 mg Tablet Sig: One (1) Tablet PO once a
+day: take the evening of 2005-05-26 00:00:00 and then as instructed by nurse Demba Laramore Demba Laramore.
+Disp:*15 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+mesenteric ischemia of the ileum and right colon
+atrial fibrillation
+diabetes
+peripheral vascular disease
+coronary artery disease
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Call doctor or go to emergency department for fever, chills,
+naseau, vomiting, increase in redness or discharge from
+incision.
+2005-05-26 00:00:00 shower, no soaking incision in tub.
+Resume prehospital medications and diet.
+
+Followup Instructions:
+Patient to call and make appointment to be seen in Dr.Demba Laramore
+office 2005-05-26 00:00:00.
+
+
+
+Patient to have coags drawn Laramore, 2005-05-26 00:00:00 and UPMCE
+clinic. [**Doctor Last Name **],2005-05-26 00:00:00 (2005-05-26 00:00:00) 617
+
+
+

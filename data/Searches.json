@@ -1,0 +1,30 @@
+[
+    { 
+        "description": "Searching for instances of documents that contain the text 'ulcerative colitis'",
+        "query": { "criterion": "literal='ulcerative colitis'" }
+    },
+    {
+        "description": "Searching for instances of 'diabetes' where the patient would be 80+ years of age currently",
+        "query": { "criterion": "literal='diabetes'&age_now>80" }
+    },
+    {
+        "description": "Searching for instances of 'tumor' in service line 'Radiology' with female patient",
+        "query": { "criterion": "literal='tumor'&document_type_extension='Radiology'&(gender='female'|gender='F')" }
+    },
+    {
+        "description": "Searching where the patient was between 25 and 30 years old relative to the document",
+        "query": { "criterion": "age_at_event>25&age_at_event<30" }
+    },
+    {
+        "description": "Searching recent documents for a particular patient",
+        "query": { "criterion": "patient_root='MIMIC.MRN.OID'&patient_extension='7087'&document_created_at>2012-11-15T00:00:00Z" }
+    },
+    {
+        "description": "Searching mentions of Carcinoma’s of the prostate for a lower risk demographic",
+        "query": { "criterion": "snomed=['254900004']&age_at_event<50" }
+    },
+    {
+        "description": "Searching mentions of exactly Sepsis for a particular hospital",
+        "query": { "criterion": "snomed:nochildren=['91302008']&facility='987654321'" }
+    }
+]

@@ -1,0 +1,413 @@
+Admission Date:  2010-12-22 00:00:00              Discharge Date:   2010-12-22 00:00:00
+
+Date of Birth: 1953-12-22 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Dundre Berrill
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. Kappler is a 59 year-old male with schizophrenia, dementia,
+COPD, unspecified CHF, seizure disorder, current smoker, and
+recent pneumonia treated with levofloxacin (2010-12-22 00:00:00) admitted from
+[**First Name4 (NamePattern1) 3454**] Kappler Nursing Home and Rehab (Damitra Kappler, RN; test@mail.com)
+with shortness of breath and hypoxia. Per EMS notes, patient
+yelled for help at 0500 and found to have oxygen saturation 70%;
+T 98.7; BP 117/75; HR 118; RR 24. Nebulizer with minimal
+improvement. NRB started with oxygen saturation improved to over
+90%. Noted to be rhonchorous at bases bilaterally. No LOC. No
+seizure activity. Per discussion with nursing staff at facility,
+patient without chest pain, fevers, chills, myalgias, nausea,
+vomiting, diarrhea. At baseline has productive cough. Also with
+SOB at baseline, needs daily nebs. No known OSA.
+
+Of note, received pneumovac 2010-12-22 00:00:00, seasonal flu vac 2010-12-22 00:00:00.
+Normal oxygen saturation 90-91% on RA; 93-94%RA after nebulizer
+treatment.
+
+In the ED, 98 114 121/79 24 97%NRB. Patient unable to provide
+history. Physical exam notable for tachypnea, diffuse rhonchi;
+appeared dry. Laboratory data significant for leukocytosis to
+18.3 with left-shift, mild hypernatremia (146), first set
+cardiac markers WNL, and lactate 1.9. CXR reportedly with
+possible left basilar infiltrate. Given IVF, nebs, levofloxacin
+750mg IV x1, vancomycin 1gm IV x1, and solumedrol 125mg IV x1.
+On transfer to ICU, RR improved to 24, 93% on 4L NC, HR in
+110's, normotensive.
+
+On arrival to the ICU, patient reports feeling well. Complains
+of shortness of breath. Not able to recall events this morning.
+Reports chronic cough, nonproductive. Denies chest pain, back
+pain, abdominal pain, nausea, vomiting, diarrhea, constipation,
+difficulty with urination, dysuria.
+
+
+Past Medical History:
+- Seizure disorder; last seizure 2010-12-22 00:00:00
+- Dementia
+- Paranoid schizophrenia
+- Alcohol seizures and delirium tremens in 2010-12-22 00:00:00
+- Positive PPD in 2010-12-22 00:00:00 (12cm wheel), no treatment
+- Asthma
+- COPD; severe; on chronic prednisone; continues to smoke
+- CHF unspecified
+- s/p right THR for osteoarthritis
+- Anxiety
+- Cataract
+- Chronic rhinitis
+
+Social History:
+Long-term resident of [**First Name4 (NamePattern1) 3454**] Kappler Nursing Home and Rehab.
+Largely wheel-chair bound. Continues to smoke - quantity
+unknown. No current alcohol or illicit drug use.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+99.6; 109; 143/78; 24; 90% 6L NC + shovel mask
+General: Alert, comfortable
+HEENT: Sclera anicteric, dry mucous membranes
+Neck: Supple, no ap123 Any St.ble JVD
+Lungs: Nonlabored; diffuse expiratory wheezes, rhonchi; no
+crackles ap123 Any St.ted
+CV: Tachycardic; normal S1/S2; no murmurs ap123 Any St.ted
+Abdomen: Obese; hypoactive bowel sounds; diffuse abdominal
+tenderness to palpationl; no rebound tenderness/guarding
+Ext: Warm, well-perfused; radial and DP pulses 2+; no lower
+extremity edema
+Neuro: Will not cooperate with exam; AOx1 (person only); able to
+move all extremities
+
+Pertinent Results:
+ADMISSION LABS 2010-12-22 00:00:00:
+2010-12-22 00:00:00 07:15AM WBC-18.3* Hgb-16.0 Hct-48.0 Plt Ct-306
+2010-12-22 00:00:00 07:15AM Neuts-85.3* Lymphs-9.9* Monos-3.8 Eos-0.5
+Baso-0.4
+2010-12-22 00:00:00 07:15AM Glucose-131* UreaN-23* Creat-0.7 Na-146* K-4.8
+Cl-99 HCO3-31 AnGap-21*
+2010-12-22 00:00:00 07:15AM CK(CPK)-47 CK-MB-NotDone cTropnT-<0.01
+2010-12-22 00:00:00 07:31AM BLOOD Lactate-1.9
+
+ABG
+2010-12-22 00:00:00 03:21PM Type-ART pO2-63* pCO2-55* pH-7.45 calTCO2-39*
+Base XS-11
+
+CE Trend:
+2010-12-22 00:00:00 07:15AM CK(CPK)-47 CK-MB-NotDone cTropnT-<0.01
+2010-12-22 00:00:00 05:38PM CK(CPK)-19* CK-MB-NotDone
+2010-12-22 00:00:00 01:22AM CK(CPK)-24* CK-MB-2 cTropnT-<0.01
+
+UA:
+2010-12-22 00:00:00 05:35PM Color-Straw Appear-Clear Sp Kappler-1.007
+2010-12-22 00:00:00 05:35PM Blood-TR Nitrite-NEG Protein-NEG Glucose-NEG
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+2010-12-22 00:00:00 05:35PM RBC-11* WBC-<1 Bacteri-NONE Yeast-NONE Epi-0
+
+MICROBIOLOGY:
+2010-12-22 00:00:00 BCx: negative
+2010-12-22 00:00:00 DFA: negative
+2010-12-22 00:00:00 UCx: negative
+
+STUDIES:
+2010-12-22 00:00:00 CXR:
+Patchy opacity noted at the left lung base obscuring the left
+costophrenic angle. Please correlate with subsequent CT chest
+
+2010-12-22 00:00:00 CT chest:
+1. No pulmonary embolism.
+2. Atelectasis at the base of the left lower lobe.
+3. Emphysema.
+
+2010-12-22 00:00:00
+STUDY: AP abdominal radiograph and left lateral decubitus
+abdominal
+radiograph.
+
+COMPARISON: None.
+
+FINDINGS: Gas and stool is seen throughout the colon. There are
+no dilated
+loops of small bowel, nor are there any air-fluid levels. No
+pneumoperitoneum
+is seen. A left total hip arthroplasty is seen without evidence
+of failure or
+loosening. Opacity seen in the left lower lobe is concerning for
+an
+infiltrate.
+
+IMPRESSION:
+1. No evidence of obstruction or perforation.
+2. Left lower lobe infiltrate.
+
+2010-12-22 00:00:00
+UPRIGHT AP VIEW OF THE CHEST: Mild enlargement of the heart is
+unchanged in
+comparison to prior exam. There is an ill-defined new right
+upper lobe
+opacity, consistent with clinical suggestion of aspiration. The
+123 Any St.usly
+seen left lower lobe opacity has slightly increased in density
+on the current
+exam. The remaining areas of the lungs are clear. Hilar and
+mediastinal
+contours are relatively unchanged.
+
+IMPRESSION: New right upper lobe opacity, and increased left
+lower lobe
+opacity compatible with clinical suggestion of aspiration with
+concern for
+pneumonia.
+
+The study and the report were reviewed by the staff radiologist.
+
+2010-12-22 00:00:00
+STUDY: Video oropharyngeal swallow studies; multiple
+consistencies of barium were administered under fluoroscopic
+observation in conjunction with the speech and swallow division.
+
+
+FINDINGS: Barium passed freely without evidence of obstruction.
+Penetration was noted with thin liquids and nectar. One episode
+of silent aspiration was noted with thin liquids. For more
+details, please see the speech and swallow division note in the
+online medical record.
+
+IMPRESSION: Penetration with thin liquids and nectar; one
+episode of silent aspiration with thin liquids.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+
+Brief Hospital Course:
+59M with schizophrenia, COPD on chronic steroids, unspecified
+HF, current smoker admitted from nursing home for COPD
+exacerbation.
+
+1. Acute Exacerbation of COPD: The patient's baseline oxygen
+saturation in low 90s, likely secondary to known severe COPD. He
+was admitted to the ICU given his presentation of hypoxia with
+02 sat's in the 70s. There was originally a question of whether
+he had a PNA given his LLL consolidation but only atelectasis
+was seen on CTA. No PE was noted. He remained afebrile. He was
+treated for a COPD flare with nebulizers, azithromycin, the
+course now completed, and steroids with improvement. He was
+transferred to the floor. He was noted to be choking up with
+feeding.A video swallow study showed that he  had had some
+silent aspiration. A subsequent CXR showed a RUQ infiltrate
+indicating a pneumonia, which may have had some contribution
+from aspiration. Given his poor dentition, and given that he
+developed this aspiration during his hospitalization this was
+treated as a HCAP. He was treated with vancomycin and zosyn with
+effect. He will have a total antibiotic course of 8 days. He
+will also undergo a two week steroid taper. He had already
+received the pneumoccal vaccine and seasonal flu vaccine. The
+H1N1 is still not available to inpatients at UPMCE thus this was
+not given. He had needed supplemental oxygen during his
+hospitalization, but was discharge on room air.
+
+2. ? Aspiration:He was noted to have had some choking during
+feeding. He had a bedside swallow evaluation which showed that
+he was having some silent aspiration.
+Pureed solids, with nectar prethickened liquids were
+recommended, and he tolerated this regimen well with no further
+episodes of choking during feeding.
+
+3. Rash: He had a blanching erythematous rash involving
+bilateral thighs to upper calves. This was felt likely to be
+physiologic livedo reticularis and likely benign.
+
+4. Urinary Incontinence: He continued to have urinary
+incontinence which is his baseline. Condom catheters were used
+during this hospitalization.
+
+5. Abdominal Pain: pt was diffusely TTP on admission. However
+his abdomen remained soft, with no evidence rebound/guarding. A
+KUB was negative. His  abdominal  pain resolved following
+passing of a large BM.
+
+6. Hypotension: He had been initially hypotensive in the ICU. He
+did not need pressors. His blood pressures remained within
+normal limits on the floor. He continued to recieve his home
+lasix.
+
+9. EKG changes: He did not have any chest pain, however given
+his pulmonary presentation he got an EKG and he was ruled out
+for MI by enzymes. He did have some  TW inversion in I, aVL with
+improvement to flattening on repeat EKG. Also with flattening in
+v1/v2 compared to baseline EKG from 16 years ago.
+
+10. Seizure disorder: Last seizure reportedly 2010-12-22 00:00:00.
+- Continue divalproex and phenobarb per home regimen
+
+11. Chronic rhinitis:
+- Continued fluticasone per home regimen
+
+12. GERD:  He was initially on omeprazole at home. Given that he
+was on high dose steroids, and all his medications had to be
+crushed or dissolvable, he was switched to dissolvable
+lansoprazole.
+
+13. Paranoid schizophrenia, general anxiety disorder: He was
+continued on olanzapine per home regimen.
+
+14. Smoker: unknown how many PPD
+-recieved the nicotine patch
+
+
+Medications on Admission:
+- Depakote 2500mg PO QHS
+- Prednisone 10mg PO daily
+- Omeprazole 20mg PO daily
+- Furosemide 40mg PO BID
+- Docusate 200mg PO daily
+- Acetaminophen 1000mg PO TID
+- Trazodone 50mg PO QHS
+- Fluticasone nasal daily
+- Duoneb TID
+- Gabapentin 200mg PO TID
+- Levocarnitine 1gm PO BID (dietary supplement)
+- EC ASA 325mg PO daily
+- Thiamine 100mg PO daily
+- MVI
+- Phenobarbital 60mg PO daily; 30mg PO QHS
+- Olanzapine 20mg PO QHS
+- Senna 1 tab PO QHS
+- Lorazepam 1 tab PO Q4 hours PRN agitation
+
+Discharge Medications:
+1. Divalproex 500 mg Tablet Sustained Release 24 hr 2010-12-22 00:00:00: Five
+(5) Tablet Sustained Release 24 hr PO HS (at bedtime).
+2. Docusate Sodium 100 mg Capsule 2010-12-22 00:00:00: One (1) Capsule PO BID (2
+times a day).
+3. Acetaminophen 325 mg Tablet 2010-12-22 00:00:00: Two (2) Tablet PO Q6H (every
+6 hours) as needed for Pain.
+4. Fluticasone 50 mcg/Actuation Spray, Suspension 2010-12-22 00:00:00: One (1)
+Spray Nasal DAILY (Daily).
+5. Gabapentin 100 mg Capsule 2010-12-22 00:00:00: Two (2) Capsule PO TID (3
+times a day).
+6. Thiamine HCl 100 mg Tablet 2010-12-22 00:00:00: One (1) Tablet PO DAILY
+(Daily).
+7. Levocarnitine 330 mg Tablet 2010-12-22 00:00:00: Three (3) Tablet PO BID (2
+times a day).
+8. Multivitamin     Tablet 2010-12-22 00:00:00: One (1) Tablet PO DAILY (Daily).
+
+9. Lorazepam 1 mg Tablet 2010-12-22 00:00:00: One (1) Tablet PO Q6H (every 6
+hours) as needed for Anxiety: please do not drink alcohol or
+perform activities that require a fast reaction time when taking
+this medication. may cause sedation. .
+10. Olanzapine 10 mg Tablet 2010-12-22 00:00:00: Two (2) Tablet PO HS (at
+bedtime).
+11. Nicotine 14 mg/24 hr Patch 24 hr 2010-12-22 00:00:00: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+12. Furosemide 40 mg Tablet 2010-12-22 00:00:00: One (1) Tablet PO BID (2 times
+a day).
+13. Senna 8.6 mg Tablet 2010-12-22 00:00:00: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+14. Prednisone 50 mg Tablet 2010-12-22 00:00:00: One (1) Tablet PO once a day
+for 3 days: from 2010-12-22 00:00:00 to 2010-12-22 00:00:00.
+Disp:*2 Tablet(s)* Refills:*0*
+15. Prednisone 20 mg Tablet 2010-12-22 00:00:00: Two (2) Tablet PO once a day
+for 2 days: from 2010-12-22 00:00:00- to 2010-12-22 00:00:00.
+Disp:*4 Tablet(s)* Refills:*0*
+16. Prednisone 10 mg Tablet 2010-12-22 00:00:00: Three (3) Tablet PO once a day
+for 2 days: from 2010-12-22 00:00:00 to 2010-12-22 00:00:00.
+Disp:*6 Tablet(s)* Refills:*0*
+17. Prednisone 20 mg Tablet 2010-12-22 00:00:00: One (1) Tablet PO once a day
+for 2 days: 2010-12-22 00:00:00 to 2010-12-22 00:00:00 .
+Disp:*2 Tablet(s)* Refills:*0*
+18. Prednisone 10 mg Tablet 2010-12-22 00:00:00: One (1) Tablet PO once a day
+for 2 days: 2010-12-22 00:00:00 to 2010-12-22 00:00:00.
+Disp:*2 Tablet(s)* Refills:*0*
+19. Prednisone 5 mg Tablet 2010-12-22 00:00:00: One (1) Tablet PO once a day for
+2 days: 2010-12-22 00:00:00 to 2010-12-22 00:00:00.
+Disp:*2 Tablet(s)* Refills:*0*
+20. Piperacillin-Tazobactam-Dextrs 4.5 gram/100 mL Piggyback
+2010-12-22 00:00:00: One (1)  Intravenous Q8H (every 8 hours) for 2 days.
+Disp:*6 doses* Refills:*0*
+21. Vancomycin in Dextrose 1 gram/200 mL Piggyback 2010-12-22 00:00:00: One (1)
+Intravenous Q 12H (Every 12 Hours) for 2 days.
+Disp:*4 doses* Refills:*0*
+22. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR Kappler: One (1)
+Tablet,Rapid Dissolve, DR Kappler once a day.
+Disp:*30 Tablet,Rapid Dissolve, DR(s)* Refills:*2*
+23. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Kappler: One (1) nebulizer treatment Inhalation Q4H
+(every 4 hours).
+Disp:*90 nebulizer treatment* Refills:*0*
+24. Phenobarbital 30 mg Tablet Kappler: One (1) Tablet PO QPM (once
+a day (in the evening)).
+25. Phenobarbital 30 mg Tablet Kappler: Two (2) Tablet PO QAM (once
+a day (in the morning)).
+26. Aspirin 325 mg Tablet Kappler: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+27. Ipratropium Bromide 0.02 % Solution Kappler: One (1) breathing
+treatments Inhalation Q4H (every 4 hours).
+Disp:*90 breathing treatments* Refills:*0*
+28. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Kappler: One (1)  Inhalation Q2H (every 2 hours) as
+needed for Shortness of breath, wheezing.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary
+COPD exacerbation.
+.
+Secondary
+Pneumonia
+Dementia
+Schizophrenia
+
+
+Discharge Condition:
+stable, good, baseline mental and ambulatory status, sating
+90-93% on room air.
+
+
+Discharge Instructions:
+You were admitted to the hospital because you were having
+difficulty with your breathing. You were found to have a
+pneumonia as well as a COPD flare. You were treated with
+antibiotics for your pneumonia, and nebulizer treatments helped
+your pneumonia.
+You also developed difficulty with swallowing. A swallow study
+was done which showed that you may be  having some silent
+aspiration.
+.
+The following changes were made to your medications .
+
+Prednisone with taper.
+Zosyn 4.5 mg IV Q8 hours for 2 days.
+Vancomycin 1g every 12 hours for 2 days.
+Lansoprazole 30mg once a day.
+Aspirin 325 daily
+Ipatropium Bromide nebulizers every four hours as needed
+Albuterol Sulphate nebulizer treatment every four hours as
+needed
+.
+We discontinued the omeprazole.
+
+
+Followup Instructions:
+POOR,Dundre Berrill D.
+Address: 123 Any St.,[**Numeric Identifier 5943**]
+Phone: test@mail.com
+Fax: test@mail.com
+
+
+

@@ -1,0 +1,148 @@
+Admission Date:  2012-09-15 00:00:00              Discharge Date:   2012-09-15 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Charnessa Tabuyo
+Chief Complaint:
+Failure to thrive, acute renal failure, mental status change,
+tremor
+
+Major Surgical or Invasive Procedure:
+G-tube placement
+
+History of Present Illness:
+86 yo F with dementia, HTN, CKD with recent discharges from
+UPMCE for FTT, ARF and UTI admitted today from rehab due to poor
+PO intake and concern of new body tremors/neck spasm; found to
+have acute on chronic renal failure. The pt has had two recent
+admissions for similar complaints. Today, the pt was referred to
+her PCP's office and was found to have cogwheel rigidity and
+neck spasm. Additionally, HCT was found to be slightly below
+baseline and LFTs were abnormal by report, although not yet
+available here. Unfortuantely, at the time of the interview the
+pt was minimally oriented and thus could not provide much
+history.
+
+Past Medical History:
+Auditory Hallucinations- not a seizure Disorder
+Dementia
+Hypertension
+Depression
+h/o falls
+Chronic Renal Insufficiency (Cr 2.2-2.9)
+Osteoporosis
+Renal Medullary Necrosis
+Organic Brain Syndrome
+Recent L rib fx
+
+
+Social History:
+Retired garment industry worker. Unmarried. No Tob, EtOH or drug
+history. Recently moved to a nursing home.
+
+
+Family History:
+Negative for seizures or stroke, otherwise NC.
+
+Physical Exam:
+VS: T 96, BP 136/52, HR 71, RR 20, 97%RA
+Gen: Elderly female, lying in bed, awake and responsive but
+otherwise disoriented.
+HEENT: EOMI, anicteric slera, MM dry, OP clear
+Neck: supple, no LAD
+CV: RRR, soft heart sounds, soft 3/6 SEM at RUSB
+Pulm: CTAB with decent effort, no wheeze or crackles aprpeciated
+
+Abd: thin, soft, + BS
+Ext: warm, 2+ DP pulses, no pitting edema, no calf tenderness
+Neuro: Awake and alert, not oriented. Intermittently able to
+follow
+one step commands. CNII-XII intact, motor and gross sensation
+intact throughout.
+
+
+Pertinent Results:
+2012-09-15 00:00:00
+WBC-9.6 Hgb-8.2* Hct-26.2* MCV-84 RDW-15.8* Plt Ct-245
+     Neuts-78.2* Lymphs-16.9* Monos-3.9 Eos-0.8 Baso-0.2
+     PT-12.4 PTT-18.3* INR(PT)-1.0
+Glucose-74 UreaN-54* Creat-3.4* Na-141 K-5.9* Cl-109* HCO3-21*
+AnGap-17
+ALT-346* AST-59* LD(LDH)-280* AlkPhos-174* TotBili-0.3
+Albumin-3.5
+.
+CXR 2012-09-15 00:00:00: Stable atelectasis in the left lower lobe with no
+evidence of
+focal consolidations.
+
+
+Brief Hospital Course:
+HOSPITAL COURSE BY PROBLEM
+# Failure to Thrive: Thought to be 2012-09-15 00:00:00 dementia and poor PO
+intake; has had multiple similar admissions in the past for the
+same reason.  After discussion with UPMCE health care proxy,
+IR was consulted and agreed to place a G-tube because of her
+persistent FTT related to poor PO intake even in the setting of
+monitoring at rehab.  This was placed on 2012-09-15 00:00:00.
+.
+Following the procedure, the patient developed chest/abdominal
+pain and leakage was noted around the G-tube. Pt was started on
+Zosyn and Flagyl overnight given the possibility of a
+perforation. Overnight the patient was noted to be hypotensive
+with SBP's in the 90's, which was well below her baseline BP as
+well as low urine output.  Later the patient was also noted to
+have a moderate amount of hematemesis. Surgery was consulted and
+CT abdomen was suspicious for for extravasation of contrast.
+Given clinical changes, she required transfer to ICU for further
+management. After discussion with family regarding grave
+prognosis, decision was made to provide aggressive comfort
+measures.  Pain medications were administered and she passed
+away at 11:03 pm on 2012-09-15 00:00:00.  Autopsy will be pursued given
+clinical circumstances.
+.
+
+
+
+Medications on Admission:
+Lisinopril 20 mg daily
+Atenolol 25 mg daily
+HCTZ 25 mg daily
+Norvac 5 mg daily
+ASA 81 mg daily
+Aricept 10 mg daily
+Lipitor 10 mg daily
+Risperdal 0.25 mg UPMCE
+Fosamax 70 mg weekly
+Mirtazapine 15 mg QHS
+Senna
+Colace
+
+
+Discharge Medications:
+NA
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Septic shock
+Possible gastric perforation
+Failure to thrive
+Acute on chronic renal failure
+Mental status change
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+

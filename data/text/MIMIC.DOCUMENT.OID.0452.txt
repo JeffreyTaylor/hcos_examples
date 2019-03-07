@@ -1,0 +1,356 @@
+Admission Date:  2011-08-12 00:00:00              Discharge Date:   2011-08-12 00:00:00
+
+Date of Birth: 1966-08-12 00:00:00 00:00:00             Sex:   M
+
+Service: [**Year (4 digits) 656**]
+
+Allergies:
+Procainamide
+
+Attending:Daejaun Iannaco
+Chief Complaint:
+Altered mental status, hypotension
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+85 yo M w/ PMH of bladder ca, CAD, HTN who is transferred from
+OSH for concern for urosepsis.  Pt presented to OSH day prior to
+admission here with shaking chills and altered mental status. Pt
+reports he has had urinary incontinece over the past few days
+which is abnormal for him, denies any dysuria.  He reports
+awaking in the middle of the night with shaking chills and does
+not recall what else happed but that his girlfriend must have
+taken him to the Braedon Demeo. ON arrival to the OSH he was febrile to
+103.3 and given 1 dose of tylenol.  UA at the OSH was positive
+for UTI. His BP dropped to 86/46 and he was given 3-4L of fluids
+with improvement in BP to 101/48.  They did a head CT for
+concern of his altered mental status in the setting of
+anticoagulation which was per report negative. He was
+transferred here for further care given that this is where he
+has all of his providers.
+
+On arrival to the UPMCE ED he was febrile at 102.5 rectally and
+was given 650mg of tylenol.  He was initially hemodyanmially
+stable, however his BP did drop down transiently into the 70s
+and he was given 2L bolus of fluid with good response in his BP
+and was stable in the 110s prior to transfer to the floor.
+Repeat blood and urine cultures were performed and he was
+admitted for possible urosepsis.
+
+On arrival to the MICU the patient is sleepy and complains of
+some chronic left sided pain. He denies any recent suprapubic
+pain, nausea, vomiting, flank pain.  He has not had a UTI since
+2011-08-12 00:00:00 and he denies any hematuria, or changes in his urine color.
+
+
+10 point ros is negative except per above
+
+
+Past Medical History:
+-Recurrent bladder tumors- followed by Dr. Demeo recent urine
+cytology from cystoscopy on 2011-08-12 00:00:00 showed clusters of highly
+atypical urothelial cells,suspicious  for urothelial carcinoma.
+-history of prostatitis dx at UPMCE
+-ATRIAL FIBRILLATION - amiodarone /warfarin
+-CARPAL TUNNEL SYNDROME
+-CHOLELITHIASIS
+-CORONARY ARTERY DISEASE
+      CABG in 2011-08-12 00:00:00: SVG to LAD, SVG to OM, SVG to PDA, cath in
+2011-08-12 00:00:00, severe native disease, occluded SVG to RCA and OM, patent
+SVG to LAD, redo CABG
+-HYPERTENSION
+-INGUINAL HERNIA
+-RENAL INSUFFICIENCY
+
+Social History:
+Social History:  lives alone in an apartment and has a service
+that he pays for were people can come help him if needed. Has a
+son and is in a long term relationship. 40pack year former
+smoker, quit years ago. Denies alcohol. Sings in acapella at
+UPMCE rehab
+
+
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Admission Physical Exam:
+Vitals:  97.8, 115/64, 52, 100% 2L
+General: Alert, oriented, no acute distress , sleepy in bed
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Bradycardic, diastolic murmur at the LUSB not radiating,
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+Abdomen: Protuberant, soft, non-tender, non-distended, bowel
+sounds present, no organomegaly, no rebound or guarding
+GU: yellow urine in foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred.
+.
+Discharge PE
+VSS
+CV: systolic murmur 2011-08-12 00:00:00, brisk carotid upstroke
+Lungs: CTAB, no wrr
+Abdomen/Back: NTND, active BS, no CVA tenderness
+-otherwise unchanged
+
+Pertinent Results:
+Admission Labs:
+
+2011-08-12 00:00:00 07:24AM URINE  RBC-155* WBC->182* BACTERIA-MANY
+YEAST-NONE EPI-<1 TRANS EPI-1
+2011-08-12 00:00:00 07:24AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-100
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5
+LEUK-LG
+2011-08-12 00:00:00 07:24AM URINE  COLOR-Yellow APPEAR-Hazy SP Demeo-1.017
+2011-08-12 00:00:00 07:24AM   PLT COUNT-324
+2011-08-12 00:00:00 07:24AM   NEUTS-81.8* LYMPHS-10.7* MONOS-6.5 EOS-0.5
+BASOS-0.6
+2011-08-12 00:00:00 07:24AM   WBC-16.6*# RBC-3.72* HGB-11.4* HCT-34.4*
+MCV-93 MCH-30.7 MCHC-33.2 RDW-14.4
+2011-08-12 00:00:00 07:24AM   GLUCOSE-115* UREA N-23* CREAT-1.4* SODIUM-144
+POTASSIUM-4.4 CHLORIDE-110* TOTAL CO2-25 ANION GAP-13
+2011-08-12 00:00:00 07:33AM   LACTATE-1.2
+2011-08-12 00:00:00 12:48PM   PT-17.0* PTT-31.6 INR(PT)-1.6*
+.
+2011-08-12 00:00:00
+IMPRESSION:
+
+1. No evidence of pyelonephritis or perinephric focal fluid
+collections.  Note
+that ultrasound has a relatively low sensitivity for detection
+of
+pyelonephritis (in the absence of significant phlegmon or
+abscess).
+2. 0.7 x 0.7 x 0.8 cm anechoic structure, likely representing a
+small renal
+cyst within the lower pole of the left kidney.
+3. Enlarged prostate.
+.
+2011-08-12 00:00:00 7:24 am URINE
+
+                            **FINAL REPORT 2011-08-12 00:00:00**
+
+   URINE CULTURE (Final 2011-08-12 00:00:00):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Cefazolin interpretative criteria are based on a dosage
+regimen of
+         2g every 8h.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     8 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+BC pending from 2011-08-12 00:00:00 and 2011-08-12 00:00:00
+.
+
+
+Brief Hospital Course:
+85 yo M w/ PMHx of bladder tumors, prior episode of bacterial
+prostatitis, CAD s/p CABG X2, AF, CKD, HTN who was transferred
+from OSH with urosepsis and found to have GNR bacteremia who was
+stabilized in the MICU with fluid resucitation and antibiotics
+and continued to do well on floor after switching to oral
+antibiotics
+.
+#Urosepsis likely secondary to prostatitis with altered mental
+status
+Patient has known bladder tumors and noted increased urinary
+urgency and incontinence in the few days prior to admission. He
+met sepsis criteria at the OSH with fever, tachypnea,
+leukocytosis and positive UA which ultimately grew out EColi and
+GNR bacteremia.  He was started on zosyn at the OSH and this was
+switched to cefepime initially in the MICU.  His cultures at the
+UPMCE ([**First Name4 (NamePattern1) 3027**] Demeo Hospital) were pending at the time of
+discharge and despite multiple calls (including after discharge
+on 2011-08-12 00:00:00)they were never faxed to UPMCE.  I will send a note
+to the patients PCP alerting her of the situation.  At UPMCE the
+patient grew out pan sensitive e. coli in his urine.
+Surveillance blood cultures were no growth to date, his WBC
+normalized and he was afebrile.  His mental status was back to
+baseline on the medical floors.  In addition, his PSA was
+checked which was elevated.  After conversations with Dr. Demeo
+(the patients Urologist) and negative renal US, bacterial
+prostatitis was thought to be the ultimate source of the
+patients infection.  The patient will be sent home on 3 weeks of
+cipro for this.  An interaction with Coumadin was noted, but
+this was thought to be the best drug that concentrates in the
+prostate and covers the patients e. coli.
+.
+# left leg pain
+The patient describes about a 1 month history of left leg pain
+in a radicular pattern radiating from his back down his leg.
+His pain is improved with unloading of the spine (bending
+forward) and is somewhat consistent with spinal stenosis.  We
+also considered sciatic nerve pain as a possibility.  PT worked
+with the patient and they indicated he was safe to go home with
+a wheeled walker, a home safety evaluation and consideration of
+home vs. outpatient PT.  The patient was sent home with low dose
+oxycodone (tolerated this in house with good relief) and a bowel
+regimen.  He was advised to consider follow up with a
+Orthopedist for consideration of further management with
+injection vs. surgery.
+.
+#Afib:
+Patient is rhythm controlled with amiodarone. This was continued
+while he was inpatient and his Coumadin was increased to 3 mg
+QD.  Further titration as an outpatient will likely be necessary
+given that he will be on cipro for 3 weeks.  His PCP Demeo. Demeo
+will follow his INR and he was given a prescription to have this
+re-checked in the next several days.
+.
+# Transitional Issues:
+-please follow up with the patient blood cultures from 123 Any St. which were not yet speciated
+but grew GNR
+-please also note that the patient has pending blood cultures
+from UPMCE on 2011-08-12 00:00:00 and 2011-08-12 00:00:00 which are pending that the time of
+the discharge summary and they need follow up
+-Follow up with PCP Demeo 2011-08-12 00:00:00 weeks and have INR checked prior to
+visit
+.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientwebOMR.
+1. Amiodarone 200 mg PO DAILY
+2. Amlodipine 5 mg PO DAILY
+hold for sbp<100 or hr<55
+3. Losartan Potassium 100 mg PO DAILY
+hold for sbp<100 or hr<60
+4. Finasteride 5 mg PO DAILY
+5. fish oil-dha-epa *NF* (om-3-dha-epa-fish oil-vit D3)
+1,200-144-216 mg Oral daily
+6. Aspirin 81 mg PO DAILY
+7. Warfarin 2 mg PO EVERY OTHER DAY
+8. Warfarin 3 mg PO EVERY OTHER DAY
+9. Oxazepam 15 mg PO HS:PRN anxiety
+10. Cetirizine *NF* 10 mg Oral qday prn allergies
+11. Vitamin D 1000 UNIT PO DAILY
+12. Multivitamins 1 TAB PO DAILY
+13. Metamucil *NF* (psyllium;<br>psyllium husk;<br>psyllium husk
+(with sugar);<br>psyllium seed (sugar)) 0.52 gram Oral qday
+14. Ranitidine 150 mg PO BID:PRN reflux
+15. Cialis *NF* (tadalafil) 20 mg Oral prn
+16. Terbinafine 1% Cream 1 Appl TP UPMCE
+
+
+Discharge Medications:
+1. Amiodarone 200 mg PO DAILY
+2. Aspirin 81 mg PO DAILY
+3. Finasteride 5 mg PO DAILY
+4. Losartan Potassium 100 mg PO DAILY
+hold for sbp<100 or hr<60
+5. Multivitamins 1 TAB PO DAILY
+6. Terbinafine 1% Cream 1 Appl TP UPMCE
+7. Vitamin D 1000 UNIT PO DAILY
+8. Ciprofloxacin HCl 500 mg PO Q12H Duration: 21 Days
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth every twelve (12)
+hours Disp #*42 Tablet Refills:*0
+9. OxycoDONE (Immediate Release)  2.5-5 mg PO Q4H:PRN severe
+pain
+RX *oxycodone 5 mg one half to one tablet(s) by mouth every six
+(6) hours Disp #*20 Tablet Refills:*0
+10. Amlodipine 5 mg PO DAILY
+hold for sbp<100 or hr<55
+11. Cetirizine *NF* 10 mg Oral qday prn allergies
+12. Cialis *NF* (tadalafil) 20 mg Oral prn
+13. fish oil-dha-epa *NF* (om-3-dha-epa-fish oil-vit D3)
+1,200-144-216 mg Oral daily
+14. Metamucil *NF* (psyllium;<br>psyllium husk;<br>psyllium husk
+(with sugar);<br>psyllium seed (sugar)) 0.52 gram Oral qday
+15. Oxazepam 15 mg PO HS:PRN anxiety
+16. Ranitidine 150 mg PO BID:PRN reflux
+17. Warfarin 3 mg PO DAILY16
+18. Outpatient Lab Work
+please draw an inr on 2011-08-12 00:00:00 and fax to the office of the
+patient pcp, Demeo. [**First Name4 (NamePattern1) 3801**] Demeo Phone: test@mail.com
+Fax: test@mail.com atrial fibrillation (427.31)
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+acute bacterial prostatitis
+e. coli bacteremia with sepsis and hypotension
+coronary artery disease
+hypertension
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You came to UPMCE from an outside hospital because you had low
+blood pressure and bacteria in your blood.  You were in the ICU
+here and on antibiotics and your condition improved.  The
+bacteria from your blood likely came from an infected prostate.
+Please take your antibitoics for a total of 3 additional weeks.
+You will also be sent home with home PT.  Please follow up with
+your doctors as below.
+.
+Medication changes
+1) cipro 500 mg Q12H for 3 weeks, last dose is 2011-08-12 00:00:00-***please do not take cipro within 2 hours of taking milk,
+iron or calcium***
+2) coumadin 3 mg QD
+3) tylenol 650 Q6H prn for mild to moderate pain (over the
+counter)
+4) oxycodone 2.5-5 mg Q6H prn for severe pain
+5) docusate 100 UPMCE, for constipation while on narcotics (over
+the counter)
+
+Followup Instructions:
+Name: Demeo,[**First Name3 (LF) **] T.
+Location: UPMCE Braedon Demeo CENTER
+Address: 123 Any St.,[**Numeric Identifier 3806**]
+Phone: test@mail.com
+Appointment: Thursday 2011-08-12 00:00:00 12:00pm
+
+Department: RADIOLOGY
+When: TUESDAY 2011-08-12 00:00:00 at 10:35 AM
+With: RADIOLOGY MRI test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: SURGICAL SPECIALTIES
+When: TUESDAY 2011-08-12 00:00:00 at 1 PM
+With: Daejaun Iannaco, M.D. test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+

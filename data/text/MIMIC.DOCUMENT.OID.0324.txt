@@ -1,0 +1,250 @@
+Admission Date:  2010-10-03 00:00:00              Discharge Date:   2010-10-03 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Macrodantin / Codeine / Norvasc / Hydralazine /
+Heparin Agents
+
+Attending:Yecenia Willett
+Chief Complaint:
+anemia and acute renal failure
+
+Major Surgical or Invasive Procedure:
+Renal biopsy 2010-10-03 00:00:00
+Placement of pheresis catheter 2010-10-03 00:00:00
+Plasma exchange 2010-10-03 00:00:00, 2010-10-03 00:00:00, 2010-10-03 00:00:00
+Hemodialysis
+Bronchoscopy 2010-10-03 00:00:00
+Central line placement 2010-10-03 00:00:00
+
+History of Present Illness:
+64 year-old female with hypertension admitted 2010-10-03 00:00:00 with acute
+renal failure secondary to hydralazine-induced
+glomerulonephritis (p-ANCA positive). Patient was initially
+nonresponsive to steroids, plasma exchange, and was started on
+hemodialysis on 2010-10-03 00:00:00. She received her second HD treatment on
+2010-10-03 00:00:00. During both treatments L IVF was removed. Both renal
+and rheumatology have followed patient to date. Cyclophosphamide
+was considered, but not started given concern for toxicity due
+to age.
+.
+Overnight, patient developed oxygen requirement, initially
+hypoxic to 90% on room air at rest, 85% with ambulation. Oxygen
+delivery was increased progressively from 3L to 6L nasal
+cannula. She appeared volume overloaded on exam and CXR. She was
+given Lasix 40mg IV x2 with minimal urine output. Nebulizers
+were tried with minimal relief. Renal was called re: urgent
+dialysis, which was not possible. Additionally, given rapid
+progression of hypoxia, renal suspected etiology other than
+volume overload alone. Of note, patient also with hemoptysis
+this morning on multiple occasions - largest approximately 1
+teaspoon bright red blood. Given progressive hypoxia and
+increased work of breathing, patient is transferred to UPMCE for
+further management.
+.
+Hospital course also complicated by lower GI bleed, anemia,
+coagulopathy, UTI. On 2010-10-03 00:00:00, patient developed LGIB in context
+of constipation and straining for bowel movement. GI was
+consulted. Based on recent colonoscopy, transient diverticular
+bleed was suspected. Ischemic colitis was also considered given
+underlying vasculitis. Patient also with chronic anemia. She has
+required 2 pRBC transfusions during this hospital course.
+Patient also with uncomplicated UTI treated with ciprofloxacin
+PO x3 days on admission.
+.
+On arrival to UPMCE, was with O2 saturation 100% on 100% O2
+shovel mask. She complained of shortness of breath, fatigue. She
+was urgently intubated given respiratory distress.
+
+
+Past Medical History:
+Hepatitis B secondary to transfusion (2010-10-03 00:00:00)
+Hypercholestremia
+Hypertension
+Carotid stenosis s/p endartarectomy
+Arthritis, s/p right THR (2010-10-03 00:00:00)
+Gastritis
+Prolapsed bladder s/p bladder suspension
+Breast cyst
+
+
+Social History:
+Lives in apartment above daughter's home. Well-supported by
+family. Active prior to admission - capable in all ADLs. Per
+daughter, no tobacco, alcohol, or illicit drug use. Formerly
+worked at UPMCE.
+
+Family History:
+unknown
+
+Physical Exam:
+On admission 2010-10-03 00:00:00:
+Pt is at baseline per daughter who is with pt
+Pt is awake and responds appropriately. Able to tell me it is
+2010-10-03 00:00:00 but unable to correctly tell me month or date or identify
+name of 123 Any St.ent.
+97.8 197/77 78 14 99%RA
+CV-RRR
+lungs - CTA bilat
+abd - soft, nt, nD, no guarding
+ext - no c/c/e
+.
+On admission to UPMCE (prior to intubation) 2010-10-03 00:00:00:
+96.8, 95, 169/112, 20, 91% shovel mask 100%
+General:  Labored respirations with use of accessory muscles
+HEENT:  Sclera anicteric, dry blood at mucous membranes and in
+mouth, no site of active bleeding
+Neck:  Supple, JVP difficult to assess given accessory muscle
+use
+Lungs:  Rhoncherous throughout with crackles to midlung fields
+bilaterally; no wheezes; decreased breath sounds at bases
+bilaterally
+CV:  Heart sounds hindered by rhonchi; regular, no murmurs
+ap123 Any St.ted
+Abdomen:  Distended; hypoactive bowel sounds; nontender
+GU:  No Foley
+Ext:  Warm, well-perfused; 2+ radial and DP pulses; 1+ lower
+extremity edema to knees bilaterally
+
+
+Pertinent Results:
+2010-10-03 00:00:00
+Na 134 / K 4.5 / Cl 102 / CO2 19 / BUN 60 / Cr 3.6 / BG 134
+ALT 16 / AST 33 / Alk Phos 58 / TB .4
+Lipase 73
+Ca 9.4 / Mg 2.6 / phos 4.3
+INR 1.3 / PTT 64
+
+2010-10-03 00:00:00 CXR No acute cardiopulmonary process. Unchanged large
+hiatal hernia as noted.
+
+2010-10-03 00:00:00 Renal US - No evidence of hydronephrosis.
+Normal-appearing kidneys.
+
+2010-10-03 00:00:00 Renal US with dopplers - Normal arterial and venous flow
+to the bilateral kidneys.
+
+2010-10-03 00:00:00 Renal biopsy: Pauci-immune crescentic glomerulonephritis
+in the setting of ANCA positivity.
+
+2010-10-03 00:00:00 RLE ultrasound: No right lower extremity DVT.
+
+2010-10-03 00:00:00 CXR: In comparison with study of 2010-10-03 00:00:00, there has been
+substantial
+enlargement of the cardiac silhouette with pulmonary vascular
+congestion and bilateral pleural effusions.
+
+2010-10-03 00:00:00 CXR: IMPRESSION: Worsening hydrostatic pulmonary edema.
+Early followup is recommended.
+
+2010-10-03 00:00:00 CXR: IMPRESSION: Improved pulmonary edema which is now
+moderate, stable bibasilar pleural effusions with satisfactory
+position of the ET tube and right central venous line.
+
+
+Brief Hospital Course:
+64yo female with history of hypertension was admitted with acute
+renal failure, coagulopathy, and microscopic hematuria of
+unclear etiology.
+
+1. Acute renal failure
+Initially, the etiology of her acute renal failure was unclear.
+Initial evaluation with urine electrolytes, renal ultrasound,
+and renal ultrasound with doppler evaluation made pre-renal
+etiology or post-renal etiology less likely. Urine sediment was
+generally unremarkable. Renal biopsy was pursued and
+demonstrated crescentic glomerulonephritis in the setting of
+ANCA positivity. Etiology of her renal failure was found to be
+hydralazine-related pauci-immune glomerulonephritis. Shortly
+after admission, she was started on hemodialysis and did not
+demonstrate any signs of renal recovery. The decision was made
+not to continue dialysis.
+
+2. Coagulopathy.
+Her INR was slightly elevated to 1.3 on admission and had
+minimal improvement with Vitamin K administration. PTT remained
+markedly elevated. Mixing study and lupus anticoagulant testing
+was performed and were both positive. However, the diagnosis of
+lupus anticoagulant was not deemed relevant to the above
+diagnosis.
+
+3. Anemia:
+Patient was found to have anemia related most likely to anemia
+of chronic disease and chronic kidney disease.
+
+4. Hypertension. Patient was initially continued on her home
+regimen for hypertension with the exception of her Turowski which was
+held due to renal failure. However, when ANCA came back as
+positive, her hydralazine was discontinued given the known
+association between pauciimmune ANCA positive glomerulonephritis
+and hydralazine usage. She was then placed on labetalol with
+improvement in her blood pressure.
+
+5. Diffuse Alveolar Hemorrhage
+During this admission, she developed an oxygen requirement and
+hemoptysis, concerning for diffuse alveolar hemorrhage. She was
+started on high dose steroids and cytoxan with remarkable
+improvement in her respiratory status from intubation to being
+on room air.
+
+6. GI Bleding
+Patient had an episode of GI bleeding during this admission
+thought likely related to hemorrhoids, diverticuli, or ischemia
+in the setting of vasculitis. These symptoms did not recur
+during her hospitalization.
+
+7. Thrombocytopenia
+Platelet count declined and patient was found to be HIT
+positive. Her platelet count remained between 80-150.
+
+8. Goals of Care
+Prior to admission, patient was living independently with some
+help from her daughter. Over the course of her admission, she
+became remarkably weak and dependent for her activities of daily
+living, in addition to being dialysis dependent. After extensive
+discussion with her family, she was transitioned to comfort care
+and the plan was for her to be sent home with hospice. Prior to
+discharge, she was noted to be in more respiratory distress,
+with shallow respirations. Removal of her central line was
+required before discharge, and in discussion with the family
+about the risks of taking the patient off the floor for the
+procedure, it was determined that the goal of getting the
+patient home was worth the risk. While in the IR suite, the
+patient expired.
+
+
+Medications on Admission:
+Medications at home:  (taken from admission H&P)
+Valsartan 320mg PO daily
+ASA 81mg PO daily
+Hydralazine 100mg PO TID
+HCTZ 25mg PO daily
+Simvastatin 20mg PO daily
+Metoprolol 25mg PO BID
+Citalopram  10mg PO daily (started 2010-10-03 00:00:00)
+ferrous sulfate 325mg (65mg iron) tab just d/c'ed recently by
+pcp
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Seasons Hospice
+
+Discharge Diagnosis:
+1. Hydralazine related pauci-immune glomerulonephritis
+2. Acute Renal Failure requiring hemodialysis
+3. GI bleeding
+4. Diffuse Alveolar Hemorrhage
+5. Heparin induced thrombocytopenia
+6. Dysphagia
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+
+

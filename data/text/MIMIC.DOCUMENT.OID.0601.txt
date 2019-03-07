@@ -1,0 +1,525 @@
+Admission Date:  2012-07-06 00:00:00              Discharge Date:   2012-07-06 00:00:00
+
+Date of Birth: 1951-07-06 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Zhyon Hensley
+Chief Complaint:
+Sepsis
+
+Major Surgical or Invasive Procedure:
+HD cath placement
+PICC line placement
+
+
+History of Present Illness:
+48M in USOH until two nights ago, developed "grabbing" lower
+abdominal pain lasting minutes which resolved spontaneously.
+Next morning with shaking chills and presented to UPMCE. Initially with (?)tick-borne dz, treated with
+doxycycline. Subsequent blood cultures - 2 sets, multiple
+bottles growing gram-positive rods, gram-negative rods, and gram
+positive cocci in pairs. Febrile to 104, rigors on 2012-07-06 00:00:00, but
+hemodynamically stable and benign abdomen. SBP in 130s, HR 70s.
+Labs at OSH notable for WBC 14K (5 bands), HCT 39.6, PLT 175,
+Creatinine 1.0, total bili 7.4 (3.4 direct, 4.0 indirect),
+transaminases in 200s, alk phos 83. Abdominal U/S with dilated
+CBD (7mm)and GB sludge. Abdominal CT with air in biliary tree
+and dilated CBD. Concern was for ascending cholangitis and plan
+for ERCP. Given polymicrobial bacteremia and air in biliary
+tree, pt transfered directly from OSH to UPMCE for monitoring
+given risk of septic shock.
+.
+On arrival pt complained only of low back pain which he has had
+for the past day since lying in bed. Feels drained, but no abd
+pain. No recent wgt loss/gain, change in bowel habits, no N/V/D.
+Miild HA.
+
+
+Past Medical History:
+GERD, lower back surgery, diverticulitis.
+
+
+Social History:
+married with 2 young children. No smoking, + occ Etoh.
+
+
+Family History:
+No known hx of CA, heart disease.
+
+Physical Exam:
+T: (104.3) 99.2 BP: 114/79 HR: 95 RR:12 O2saturation 100% on RA
+
+Gen: Pleasant, well appearing. Jaundiced. Laying in bed.
+HEENT: No conjunctival pallor. + icterus. Slightly dry mucous
+membranes. Oropharynx clear.
+NECK: Supple. No cervical or supraclavicular lymphadenopathy. No
+JVD. No thyromegaly.
+CV: RRR. Normal S1 and S2. No murmurs, rubs or Dimarzio
+ap123 Any St.ted.
+LUNGS: Clear to auscultation bilaterally. Decreased breath
+sounds in lower lung fields, bilaterally. No wheezes, crackles,
+or rhonci ap123 Any St.ted.
+ABD: No surgical scars. Normal active bowel sounds. Soft.
+Nontender and nondistended. No guarding or rebound. Liver edge
+not palpated. No splenomegaly ap123 Any St.ted.
+EXT: Warm and well perfused. No clubbing or cyanosis. No lower
+extremity edema, bilaterally.
+SKIN: Jaundiced, No rashes.
+NEURO: Alert and oriented to person, place, date.
+
+
+Pertinent Results:
+2012-07-06 00:00:00 09:49AM BLOOD WBC-6.7 RBC-3.18* Hgb-9.9* Hct-28.2*
+MCV-89 MCH-31.2 MCHC-35.1* RDW-14.1 Plt Ct-549*
+2012-07-06 00:00:00 05:23AM BLOOD WBC-7.9 RBC-2.50* Hgb-7.7* Hct-23.0*
+MCV-92 MCH-30.9 MCHC-33.6 RDW-14.0 Plt Ct-649*
+2012-07-06 00:00:00 08:15PM BLOOD WBC-28.4* RBC-3.70* Hgb-12.9* Hct-32.9*
+MCV-89 MCH-34.8* MCHC-39.0* RDW-14.9 Plt Ct-146*
+2012-07-06 00:00:00 05:19AM BLOOD Neuts-80.9* Lymphs-6.6* Monos-10.3
+Eos-1.9 Baso-0.2
+2012-07-06 00:00:00 12:43AM BLOOD Fibrino-592*
+2012-07-06 00:00:00 12:28PM BLOOD Parst S-NEGATIVE
+2012-07-06 00:00:00 06:34PM BLOOD QG6PD-9.1
+2012-07-06 00:00:00 06:34PM BLOOD Ret Aut-1.6
+2012-07-06 00:00:00 09:49AM BLOOD Glucose-176* UreaN-43* Creat-10.2*#
+Na-138 K-3.8 Cl-98 HCO3-26 AnGap-18
+2012-07-06 00:00:00 05:19AM BLOOD Glucose-97 UreaN-90* Creat-15.0*# Na-125*
+K-4.5 Cl-87* HCO3-18* AnGap-25*
+2012-07-06 00:00:00 08:15PM BLOOD Glucose-109* UreaN-38* Creat-1.0 Na-142
+K-4.1 Cl-105 HCO3-21* AnGap-20
+2012-07-06 00:00:00 09:49AM BLOOD ALT-8 AST-11 AlkPhos-148* TotBili-1.4
+2012-07-06 00:00:00 05:32AM BLOOD ALT-26 AST-28 LD(LDH)-499* AlkPhos-112
+TotBili-2.5*
+2012-07-06 00:00:00 12:43AM BLOOD ALT-181* AST-285* LD(LDH)-1662*
+CK(CPK)-292* AlkPhos-86 Amylase-800* TotBili-21.8* DirBili-19.2*
+IndBili-2.6
+2012-07-06 00:00:00 05:52AM BLOOD Lipase-184*
+2012-07-06 00:00:00 09:49AM BLOOD Calcium-8.4 Phos-6.4*# Mg-2.0
+2012-07-06 00:00:00 05:23AM BLOOD Calcium-7.9* Phos-9.4* Mg-2.0
+2012-07-06 00:00:00 06:13PM BLOOD calTIBC-204* Ferritn-GREATER TH TRF-157*
+2012-07-06 00:00:00 06:34PM BLOOD Triglyc-387*
+2012-07-06 00:00:00 08:15PM BLOOD TSH-1.9
+2012-07-06 00:00:00 08:15PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE IgM HBc-NEGATIVE IgM HAV-NEGATIVE
+2012-07-06 00:00:00 05:19AM BLOOD PEP-NO SPECIFI
+2012-07-06 00:00:00 05:32AM BLOOD C3-105 C4-16
+2012-07-06 00:00:00 05:23AM BLOOD HIV Ab-NEGATIVE
+2012-07-06 00:00:00 08:15PM BLOOD HCV Ab-NEGATIVE
+2012-07-06 00:00:00 08:15PM BLOOD LEPTOSPIRA ANTIBODY-Test
+2012-07-06 00:00:00 04:10PM URINE Color-STRAW Appear-Clear Sp Dimarzio-1.005
+2012-07-06 00:00:00 04:10PM URINE Blood-LG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+2012-07-06 00:00:00 12:27PM URINE Hours-RANDOM UreaN-202 Creat-71 Na-44
+K-41 Cl-36 Phos-0.6 HCO3-LESS THAN
+2012-07-06 00:00:00 06:06AM URINE Hours-RANDOM Creat-47 Na-68
+2012-07-06 00:00:00 09:02AM STOOL CLOSTRIDIUM DIFFICILE TOXIN B ASSAY-Test
+
+
+2012-07-06 00:00:00 URINE URINE CULTURE-FINAL INPATIENT
+2012-07-06 00:00:00 CATHETER TIP-IV WOUND CULTURE-FINAL INPATIENT
+2012-07-06 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING INPATIENT
+2012-07-06 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING INPATIENT
+2012-07-06 00:00:00 STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL
+INPATIENT
+2012-07-06 00:00:00 CATHETER TIP-IV WOUND CULTURE-FINAL INPATIENT
+2012-07-06 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2012-07-06 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2012-07-06 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2012-07-06 00:00:00 URINE URINE CULTURE-FINAL INPATIENT
+2012-07-06 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2012-07-06 00:00:00 STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL
+INPATIENT
+2012-07-06 00:00:00 STOOL OVA + PARASITES-FINAL INPATIENT
+2012-07-06 00:00:00 STOOL OVA + PARASITES-FINAL; CLOSTRIDIUM DIFFICILE
+TOXIN ASSAY-FINAL INPATIENT
+2012-07-06 00:00:00 SEROLOGY/BLOOD RAPID PLASMA REAGIN TEST-FINAL
+INPATIENT
+2012-07-06 00:00:00 STOOL FECAL CULTURE-FINAL; CAMPYLOBACTER
+CULTURE-FINAL; OVA + PARASITES-FINAL; CLOSTRIDIUM DIFFICILE
+TOXIN ASSAY-FINAL INPATIENT
+2012-07-06 00:00:00 SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+INPATIENT
+2012-07-06 00:00:00 STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL
+INPATIENT
+2012-07-06 00:00:00 URINE URINE CULTURE-FINAL INPATIENT
+2012-07-06 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2012-07-06 00:00:00 SEROLOGY/BLOOD LYME SEROLOGY-FINAL INPATIENT
+2012-07-06 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+
+CT OF THE ABDOMEN: The lung bases are clear. Hypoattenuation of
+the liver (45 Hounsfield units versus 65 Hounsfield units for
+the spleen) is consistent with fatty infiltration. There is
+heterogeneous perfusion of the liver with focal areas of
+nonenhancement in the posterior aspect of the right lobe - 1.5 x
+1.3 cm in the posterior medial aspect (3b:133) and 2.9 x 2.7 cm
+more latarally (3b:140) as well as other small hypoattenating
+foci. There is no intra- or extra- hepatic biliary dilatation
+and no evidence of intrabiliary air. One tiny focus of air
+(3a:70) The gallbladder is mildly distended measuring 4.1 cm,
+however there is no wall edema or pericholecystic fluid. No
+radiopaque gallstones are seen.
+
+There is no pancreatic ductal dilatation and the pancreas is
+unremarkable. The adrenal glands are normal. Two tiny
+hypoattenuating lesions within the left kidney are likely cysts.
+The kidneys enhance and excrete contrast normally. There is no
+free air or free fluid in the abdomen. The small bowel appears
+normal. Extensive diverticulosis of the sigmoid colon and milder
+diverticulosis of the descending colon are noted with no
+evidence of diverticulitis. The appendix is normal.
+
+CT OF THE PELVIS: Contrast fills the bladder. The prostate gland
+is not enlarged, and has dystrophic calcifications within it.
+The sigmoid colon again is notable for diverticulosis. The
+rectum is normal. No pelvic free fluid or lymphadenopathy.
+
+No bone findings of malignancy.
+
+IMPRESSION:
+1. Focal areas of hypoperfusion within the liver, in a
+background of heterogeneous perfusion. Given patient's clinical
+situation (leukocytosis, Total bilirubin level of 30), these
+findings are concerning for hepatic necrosis. No evidence of
+biliary dilatation or intrabiliary gas to suggest cholangitis,
+though this can be a subtle radiographic diagnosis. Recommend
+ERCP or MRCP for further evaluation.
+
+ADDENDUM: Review of outside hospital CD performed at UPMCE
+Hospital at 12:35 PM on 2012-07-06 00:00:00 reveals small foci of
+intrahepatic biliary air. The patient has no apparent history of
+recent ERCP or remote sphincterotomy. This finding is concerning
+for emphysematous cholangitis, though the lack of air on the
+current study, and the lack of intrahepatic biliary dilatation
+or inflammatory changes in the porta hepatis makes this less
+likely.
+
+2. Fatty infiltration of the liver.
+
+3. Left renal cyst.
+
+4. Sigmoid diverticulosis without diverticulitis.
+
+5. Normal appendix.
+
+ERCP - IMPRESSION: Opacification of the biliary tree without
+abnormality detected. Per endoscopist's report there was direct
+visualization of a periampullary diverticulum.
+
+US liver - IMPRESSION:
+
+1. Rounded hypoechoic 2.2 cm lesion within the left lobe of the
+liver. This can be further evaluated with MRI.
+
+2. Echogenic liver which can be seen in fatty infiltration.
+Other forms of advanced liver disease including hepatic
+fibrosis/cirrhosis cannot be excluded.
+
+3. No stones or hydronephrosis.
+
+4. Pneumobilia which is expected status post biliary stent
+placement.
+
+5. Sludge-filled gallbladder.
+
+MRI L spine - IMPRESSION:
+1. Low T1 signal within the bone marrow could be consistent with
+a reactive or infiltrative marrow lesion. No evidence of bone
+marrow edema.
+
+2. Large right-sided paracentral and foraminal disc herniation
+at L5-S1 likely compressing the right S1 nerve root.
+
+Conclusions:
+The left atrium is elongated. Left ventricular wall thickness,
+cavity size,
+and systolic function are normal (LVEF>55%). Regional left
+ventricular wall
+motion is normal. Right ventricular chamber size and free wall
+motion are
+normal. The aortic root is moderately dilated at the sinus
+level. The
+ascending aorta and arch are moderately dilated. No dissection
+flap is
+seen/suggested (does not exclude). The aortic valve leaflets (3)
+are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral
+
+regurgitation. There is no mitral valve prolapse. The estimated
+pulmonary
+artery systolic pressure is normal. There is no pericardial
+effusion.
+
+IMPRESSION: Dilated ascending aorta and arch. No valvular
+pathology or
+pathologic flow identified.
+
+Renal ultrasound 2012-07-06 00:00:00.
+
+FINDINGS: The right kidney measures 12.5 cm. The left kidney
+measures 13.7 cm. No hydronephrosis, stone, or mass is
+identified. The bladder is decompressed and poorly evaluated.
+
+Doppler evaluation is limited by patient respiratory motion
+throughout the exam. High resistive indices in the right mid and
+lower pole measure 0.79 and 0.75 respectively. Resistive indices
+in the right upper pole is within normal limits at 0.64.
+Arterial and venous waveforms of the main right and left renal
+artery and vein are unremarkable, though limited due to
+respiratory motion. The left kidney demonstrates an elevated
+resistive index at the lower pole measuring 0.78. The mid and
+upper pole demonstrates resistive indices of 0.62 and 0.64
+respectively.
+
+IMPRESSION:
+1. No hydronephrosis.
+2. Although evaluation is limited by patient respiration,
+slightly elevated resistive indices in the right mid and lower
+pole and left lower pole are nonspecific findings. These may
+represent an underlying medical renal disease and Doppler follow
+up is recommended.
+
+CT PELVIS W/O CONTRAST  2012-07-06 00:00:00 5:02 AM
+
+CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST
+
+Reason: ABD DISTENSION/PAIN
+Field of view: 42
+
+UNDERLYING MEDICAL CONDITION:
+48 year old man with recent hepatic necrosis, bacteremia and new
+onset acute renal failure, now with abdominal pain and
+distension
+REASON FOR THIS EXAMINATION:
+r/o appendicitis, diverticulitis, obsturction
+CONTRAINDICATIONS for IV CONTRAST: recent renal failure
+
+INDICATION: Hepatic necrosis, bacteremia and renal failure, now
+with abdominal pain and distention. Rule out obstruction,
+diverticulitis or appendicitis.
+
+COMPARISON: Abdominopelvic CT, 2012-07-06 00:00:00.
+
+TECHNIQUE: Multidetector helical scanning of the abdomen and
+pelvis was performed without contrast due to renal failure. Oral
+contrast was administered.
+
+CT OF THE ABDOMEN: The lung bases demonstrate a new right-sided
+pleural effusion that is small, with associated atelectasis. No
+consolidations or nodules are identified. There is a tiny
+pericardial effusion, likely physiologic and the heart size is
+normal.
+
+The liver is again heterogeneous in attenuation with focal
+stable hypoattenuating areas in the posterior right lobe,
+concerning for hepatic necrosis. Intrahepatic biliary air is
+seen, likely related to CBD stent which is seen entering the
+duodenum. The gallbladder is nondilated with no pericholecystic
+inflammatory changes or fluid. The spleen and adrenal glands are
+unremarkable. The kidneys have enlarged since the prior scan and
+there is mild residual contrast enhancement (last contrast
+injection was 5 days ago) consistent with known acute renal
+failure. There is no free air or free fluid. Contrast passes
+through nondilated loops of small bowel with no evidence of
+obstruction. There is no bowel wall thickening. The colon has
+scattered diverticuli with no evidence of diverticulitis. The
+appendix is normal.
+
+CT OF THE PELVIS: The bladder is unremarkable. A small amount of
+free fluid is seen in the pelvis, measuring simple fluid
+density, presumably related to resuscitation. Sigmoid colon and
+rectum are unremarkable with diverticulosis but no
+diverticulitis.
+
+BONE WINDOWS: Joint space narrowing at L5-S1 is noted with no
+suspicious lytic or sclerotic lesions.
+
+IMPRESSION:
+1. No new intra-abdominal findings to explain the patient's
+sudden abdominal pain. No bowel obstruction or free air.
+Diverticulosis without diverticulitis. The appendix is normal.
+
+2. Heterogeneous attenuation of the liver with focal areas of
+hypoattenuation in the posterior right lobe, unchanged since the
+prior exam and again suggesting hepatic necrosis. Further
+evaluation is limited due to lack of IV contrast.
+
+3. CBD stent seen entering the duodenum with associated
+intrahepatic biliary air.
+
+4. Small amount of free fluid in the pelvis liked related to
+resuscitation
+
+MRI - IMPRESSION: High signal intensity lesions seen within the
+liver and spleen, most likely abscesses given the patient's
+history of polymicrobial bacteremia. Evaluation is limited
+without intravenous contrast. Focal infarctions in the liver sre
+less likely. Segment VII amorphous wedge- shaped lesion
+peripheral to suspected abscess may be reactive edema or
+infectious spread. Limited interrogation of the portal vein is
+unremarkable on these non- contrast sequences.
+
+[**Numeric Identifier 4620**] FLUORO GUID PLCT/REPLCT/REMOVE CENTRAL LINE  2012-07-06 00:00:00 8:56
+AM
+
+Reason: For dialysis
+
+UNDERLYING MEDICAL CONDITION:
+48 year old man with ARF, needs a permanat HD access
+REASON FOR THIS EXAMINATION:
+For dialysis
+INDICATION: This is a 48-year-old man with acute renal failure,
+presents for placement of a tunneled hemodialysis catheter for
+dialysis.
+
+Details of the procedure and possible complications were
+explained to the patient and informed consent was obtained.
+Timeout was performed.
+
+RADIOLOGISTS: Francois Dimarzio, nurse practitioner, performed the
+procedure supervised by Dr. Zhyon Hensley, attending
+radiologist.
+
+Using sterile technique, local anesthesia, and conscious
+sedation, the right internal jugular vein was punctured via just
+ultrasound guidance using a micropuncture set. Hard copy of
+ultrasound images were obtained before and immediately after
+venous access documenting vessel patency. The tract was dilated
+with serial dilators and a peel-away sheath was then placed. A
+subcutaneous tunnel was made on the right anterior chest wall
+and the catheter was introduced through the tunnel and placed
+through the peel-away sheath with its tip positioned in the
+right atrium under fluoroscopic guidance. The peel- away sheath
+was then removed. Position of the catheter was confirmed by
+chest x-ray in one view. The incision on the neck was closed
+with Dermabond. The catheter was secured to the skin and a
+sterile dressing was applied.
+
+The patient tolerated the procedure well. There were no
+immediate complications.
+
+Moderate sedation was provided administering divided doses of
+Versed and fentanyl throughout the total intraservice time of 55
+minutes, during which the patient's hemodynamic parameters were
+continuously monitored. The total dose administered of fentanyl
+was 100 mcg and of Versed 3 mg.
+
+IMPRESSION: Uncomplicated ultrasound and fluoroscopically guided
+tunneled hemodialysis catheter placement via the right internal
+jugular venous approach with the tip in the right atrium. Ready
+for use
+
+
+Brief Hospital Course:
+Sepsis from aeromionas, enterococcus fecium, clostridium - the
+exact source of infection was not clear, could be from a
+diverticular infection that tracked up to the portal system. The
+liver abscesses were confirmed on MRI abdomen. Prolonged course
+of antibiotics was recommended by the ID consult team -
+levofloxacin atleast toll 2012-07-06 00:00:00 when ID follow up is arranged.
+A repeat MRI was recommended by the liver team for follow up of
+the abscesses. Prior to discharge, the patient was afebrile for
+several days and cultures were negative at the time of writing
+this discharge sumary.
+
+Acute renal failure - Acuite tubular necrosis on dialysis - the
+patient developed ATN as a result of sepsis. Was initially
+anuric, last started urinating and was non-oliguric. Despite
+this his creatinine continued to rise and after a break of 6
+days of HD when his creat was upto 15 and started getting
+acidotic, he was restarted on HD via a tunnelled cath. HD
+arranged for 3/wk (T,T,S) at 123 Any St. as below. Given this is
+ARF, it is a possibility that the patinet's kidneys may recover.
+Dr Francois Dimarzio will follow patient there.
+
+Anemia - likely multifactorial - sepsis, renal failure,
+malnutrition. Started on Fe and epo with HD and alsot transfused
+2 units prior to discharge with dialysis.
+
+The patient will get a repeat MRI and then an ID follow up. he
+is advised to continue to take the levofloxacin and flagyl till
+the ID follow up and thereafter at their  discretion. HD to
+continue per Dr Dimarzio. Advised to follow up with PCP.
+
+The abnormal MRI L spine (refer above) will need follow up.
+Deferred to PCP for follow up.
+
+Medications on Admission:
+prilosec
+
+Discharge Medications:
+1. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 20 days.
+Disp:*60 Tablet(s)* Refills:*0*
+2. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H (every
+48 hours) for 20 days.
+Disp:*10 Tablet(s)* Refills:*0*
+3. Sevelamer 800 mg Tablet Sig: Two (2) Tablet PO TID W/MEALS (3
+TIMES A DAY WITH MEALS).
+Disp:*60 Tablet(s)* Refills:*0*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+9. E123 Any St. Alfa 10,000 unit/mL Solution Sig: One (1)  Injection
+ASDIR (AS DIRECTED): with dialysis.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Sepsis from aeromionas, enterococcus fecium, clostridium
+Liver lesions/abscess
+Acute renal failure - Acuite tubular necrosis on dialysis
+Anemia
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Dialysis has been arranged for next week on tuesday. The
+dialysis nurse has explained the details to you.
+
+Call your doctor if you have any symptoms of concern to you.
+keep your appointments.
+
+make a follow up appointment with Dt Dimarzio in the next 1 week.
+
+
+Followup Instructions:
+Provider: Francois Dimarzio MRI Phone:test@mail.com Date/Time:2012-07-06 00:00:00
+4:20
+Provider: Dimarzio. Francois Dimarzio Phone:test@mail.com
+Date/Time:2012-07-06 00:00:00 11:45
+Provider: Francois Dimarzio SUITE GI ROOMS Date/Time:2012-07-06 00:00:00 8:00
+Please call Dr Dimarzio,[**First Name3 (LF) **] H. test@mail.com -
+
+
+

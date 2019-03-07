@@ -1,0 +1,506 @@
+Admission Date:  2010-01-09 00:00:00              Discharge Date:   2010-01-09 00:00:00
+
+Date of Birth: 1953-05-13 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Unasyn
+
+Attending:Hritika Pogson
+Chief Complaint:
+rectal pain
+
+
+Major Surgical or Invasive Procedure:
+central line placement
+arthrocentesis
+Incision and Drainage
+
+
+History of Present Illness:
+HPI: The patient is a 61 year old man with severe systolic CHF
+(EF 15-20%), HTN, DM2 who presents with rectal pain. He states
+that he has had 5 years of intermittent rectal pain following a
+colonscopy that diagnosed internal hemorrhoids. He states that 5
+days ago he had worsened rectal pain that was worsened with
+bowel movements. He has seen small amounts of blood in his stool
+over this time. He was seen by his PCP 2 days ago who prescribed
+anusol. His pain progressed and was referred to the ED yesterday
+by his PCP.
+.
+In the ED his initial vitals were 98.8 85 144/83 18 94%RA. A
+rectal exam showed L glutteal area/perirectal area +erythema,
+tender, fluctuant, +pus; L rectal wall tender. A CT pelvis
+showed a large peri-rectal abscess. I&D was done. General
+Surgery was consulted who recommended conservative therapy as
+the lesion was already draining. His ED course was complicated
+by hypotension with a nadir sbp to 73/50. He did receive single
+doses of diluadid and morphine for rectal pain ~1 hour prior to
+hypotension starting. Sepsis protocol was started. He received
+vanc/unasyn. A RIJ was placed. He received a total of 1.5 liters
+of crystalloid. Blood, urine, swab cultures were taken. Initial
+lactate was 2.4 with repeat 1.2.
+.
+ROS at admission: denies cough, chest pain, abd pain. breathing
+is at baseline. mild dysuria since rectal pain started.
+.
+In the MICU, pt's pressures stabilized s/p IVF and 1 unit RBCs.
+His Hct stabilized at 28 and nadir at 23 believed to be 2010-01-09 00:00:00
+abscess drainage. He was continued on vancomycin and unasyn for
+likely MRSA/MSSA, cultures pending.  Blood cultures remained
+negative.  Pt also c/o new L knee pain c/w gouty pain.  NSAIDs
+held given CKD and recent decr Hct, he is taking colchicine.
+
+Past Medical History:
+PMH:
+1. Diabetes mellitus type 2, insulin dependent
+2. Non-ischemic Cardiomyopathy, EF ~20%
+3. ICD placement (2010-01-09 00:00:00) primary prevention of SCD
+4. Elevated transaminases, unknown etiology
+5. Chronic atrial fibrillation
+6. Chronic kidney disease, most recent creatinine 1.7
+7. Umbilical hernia repair, 2010-01-09 00:00:00
+8. Gallstone pancreatitis s/p ERCP (2010-01-09 00:00:00)
+9. Internal hemorrhoids
+10. Hemoglobin C carrier
+
+
+Social History:
+Lives with his wife, has four grown children. Not currently
+working, on disability. Wife works at UPMCE. Used to work in
+contruction. No tobacco, alcohol, or illicits. originally from
+123 Any St.. had planned to head home early this coming week
+
+
+Family History:
+No family history of heart disease. father died at 93 from old
+age. one uncle lived to 103.
+
+Physical Exam:
+Vitals: 99.2 75 103/62 18 100%2L CVP 15
+Gen: well appearing AA male in NAD
+HEENT: MMM. bilat arcus senilus. upper dentures.
+Neck: RIJ line in place w/o surrounding erythema
+Chest: pacer in left upper chest. clear anterior and lat.
+CV: irreg irreg. s1/s2. soft sys murmur at LLSB. no gallop
+Abd: soft. active bowel sounds. no HSM
+Rectal: external - left glut packed 2x2cm lesion. purulenc
+expressible
+Ext: cool. 2+ DP bilat. trace edema to ankles
+Skin: multiple peri-folicular pigmented lesions
+Neuro:
+-MS: alert, oriented x 3. coherent responses to interview
+-CN: II-XII grossly intact
+-Motor: moving all 4 extremities
+
+
+Pertinent Results:
+2010-01-09 00:00:00 12:35AM BLOOD WBC-14.5*# RBC-3.77* Hgb-10.6* Hct-30.0*
+MCV-80* MCH-28.0 MCHC-35.2* RDW-19.4* Plt Ct-176
+2010-01-09 00:00:00 05:10AM BLOOD WBC-6.3 RBC-3.20* Hgb-9.4* Hct-27.3*
+MCV-85 MCH-29.4 MCHC-34.4 RDW-22.6* Plt Ct-188
+2010-01-09 00:00:00 05:10AM BLOOD PT-25.0* PTT-49.1* INR(PT)-2.5*
+2010-01-09 00:00:00 08:15AM BLOOD PT-41.4* PTT-73.9* INR(PT)-4.7*
+2010-01-09 00:00:00 03:10PM BLOOD Ret Aut-3.2
+2010-01-09 00:00:00 05:10AM BLOOD Glucose-32* UreaN-18 Creat-1.1 Na-131*
+K-3.7 Cl-101 HCO3-23 AnGap-11
+2010-01-09 00:00:00 05:10AM BLOOD ALT-76* AST-452* LD(LDH)-235 AlkPhos-202*
+TotBili-2.2*
+2010-01-09 00:00:00 07:20AM BLOOD ALT-164* AST-581* LD(LDH)-593*
+CK(CPK)-115 AlkPhos-262* Amylase-81 TotBili-2.2* DirBili-1.3*
+IndBili-0.9
+2010-01-09 00:00:00 12:35AM BLOOD ALT-24 AST-134* AlkPhos-142* Amylase-69
+TotBili-2.3*
+2010-01-09 00:00:00 07:20AM BLOOD Lipase-116*
+2010-01-09 00:00:00 12:35AM BLOOD Lipase-75*
+2010-01-09 00:00:00 05:10AM BLOOD Albumin-2.8*
+2010-01-09 00:00:00 06:40AM BLOOD Calcium-7.7* Phos-2.7 Mg-2.1
+2010-01-09 00:00:00 05:15AM BLOOD calTIBC-151* TRF-116*
+2010-01-09 00:00:00 07:20AM BLOOD calTIBC-172* Hapto-359* Ferritn-1169*
+TRF-132*
+2010-01-09 00:00:00 08:36PM BLOOD Osmolal-284
+2010-01-09 00:00:00 02:10PM BLOOD Cortsol-13.7
+2010-01-09 00:00:00 05:15AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE IgM HBc-NEGATIVE
+2010-01-09 00:00:00 07:30AM BLOOD Vanco-21.8*
+2010-01-09 00:00:00 05:11PM BLOOD Digoxin-0.8*
+2010-01-09 00:00:00 05:15AM BLOOD HCV Ab-NEGATIVE
+2010-01-09 00:00:00 02:10PM BLOOD Lactate-1.2
+2010-01-09 00:00:00 12:56AM BLOOD Lactate-2.4*
+2010-01-09 00:00:00 10:45PM URINE Color-Amber Appear-Clear Sp Grochowski-1.017
+2010-01-09 00:00:00 10:45PM URINE Blood-SM Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+2010-01-09 00:00:00 10:45PM URINE RBC-0-2 WBC-2010-01-09 00:00:00 Bacteri-FEW Yeast-NONE
+Epi-0
+2010-01-09 00:00:00 08:10PM URINE CastGr-2010-01-09 00:00:00*
+2010-01-09 00:00:00 11:27AM JOINT FLUID WBC-6125* RBC-1425* Polys-99*
+Lymphs-0 Monos-1
+2010-01-09 00:00:00 11:27AM JOINT FLUID Crystal-FEW Shape-NEEDLE
+Locatio-EXTRAC Birefri-NEG Comment-c/w monoso
+.
+2010-01-09 00:00:00 12:35 am BLOOD CULTURE
+                            **FINAL REPORT 2010-01-09 00:00:00**
+AEROBIC BOTTLE (Final 2010-01-09 00:00:00):    NO GROWTH.
+ANAEROBIC BOTTLE (Final 2010-01-09 00:00:00):    NO GROWTH.
+.
+2010-01-09 00:00:00 10:50 am URINE     Site: CLEAN CATCH
+                           **FINAL REPORT 2010-01-09 00:00:00**
+URINE CULTURE (Final 2010-01-09 00:00:00):    NO GROWTH.
+.
+2010-01-09 00:00:00 4:20 pm SWAB     Site: RECTAL
+                           **FINAL REPORT 2010-01-09 00:00:00**
+   GRAM STAIN (Final 2010-01-09 00:00:00):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+   WOUND CULTURE (Final 2010-01-09 00:00:00):
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup is performed appropriate to the isolates recovered
+from the
+      site (including a screen for Pseudomonas aeruginosa,
+Staphylococcus
+      aureus and beta streptococcus).
+   ANAEROBIC CULTURE (Final 2010-01-09 00:00:00):
+      BACTEROIDES FRAGILIS GROUP.    SPARSE GROWTH.
+         BETA LACTAMASE POSITIVE.
+.
+2010-01-09 00:00:00 8:10 pm URINE      Source: Catheter.
+                            **FINAL REPORT 2010-01-09 00:00:00**
+URINE CULTURE (Final 2010-01-09 00:00:00):    NO GROWTH.
+.
+2010-01-09 00:00:00 11:27 am JOINT FLUID      Source: Knee.
+                            **FINAL REPORT 2010-01-09 00:00:00**
+   GRAM STAIN (Final 2010-01-09 00:00:00):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+   FLUID CULTURE (Final 2010-01-09 00:00:00):    NO GROWTH.
+.
+2010-01-09 00:00:00 11:00 pm BLOOD CULTURE
+                            **FINAL REPORT 2010-01-09 00:00:00**
+Blood Culture, Routine (Final 2010-01-09 00:00:00):    NO GROWTH.
+.
+2010-01-09 00:00:00 1:35 am BLOOD CULTURE
+                           **FINAL REPORT 2010-01-09 00:00:00**
+Blood Culture, Routine (Final 2010-01-09 00:00:00):    NO GROWTH.
+.
+2010-01-09 00:00:00 9:17 pm BLOOD CULTURE      Source: Venipuncture.
+                           **FINAL REPORT 2010-01-09 00:00:00**
+Blood Culture, Routine (Final 2010-01-09 00:00:00):    NO GROWTH.
+.
+2010-01-09 00:00:00 CT PELVIS W/ CONTRAST.
+IMPRESSION:  Predominantly superficial anal and perineal abscess
+with
+extensive adjacent fat stranding, mostly left-sided.  No
+perirectal
+involvment.
+.
+2010-01-09 00:00:00 CHEST XRAY
+IMPRESSION:
+1. Interval placement of right IJ approach central venous
+catheter with low-lying tip, projecting over the right atrium.
+Repositioning is recommended.
+2. Cardiomegaly with vascular congestion and increased
+interstitial markings, most likely representing interstitial
+edema. However, their somewhat reticulonodular appearance raises
+the possibility of other interstitial processes, such as
+resolving recent diffuse acinar nodular process, which may have
+represented aspiration pneumonitis.
+.
+2010-01-09 00:00:00 ECG
+Atrial fibrillation
+Intraventricular conduction defect
+T wave changes
+Low QRS voltages in limb leads
+Consider RV/pulmonary disease
+Since 123 Any St.us tracing of 2010-01-09 00:00:00, heart rate faster
+.
+2010-01-09 00:00:00 Abdominal US
+IMPRESSION:  2.3-cm hypoechoic right kidney mass which is
+exopytic on the
+lower pole. MRI is recommended for further characterization. No
+biliary
+pathology identified.
+.
+2010-01-09 00:00:00 Knee XRAY
+IMPRESSION:  Osteoarthritis, but no bone destruction or
+effusion.
+.
+2010-01-09 00:00:00 RUQ Ultrasound
+IMPRESSION:  Normal liver echotexture without evidence of focal
+lesion.
+.
+2010-01-09 00:00:00 CT PELVIS W/O CONTRAST
+IMPRESSION:  Interval decrease in size of left perianal abscess.
+ High-density material in the in the area of abscess may
+represent dressing material, please correlate with clinical
+examination.
+
+
+Brief Hospital Course:
+A/P The patient is a 61 male with severe systolic CHF EF 15%,
+DM2, CKD presenting with rectal pain found to have a peri-rectal
+abscess complicated by hypotension, also with worsening left
+knee pain
+.
+# Peri-rectal abscess/fever: The patient was evaluated by the
+surgical service and had an incision and drainage of the
+abscess.  He was intially started on vancomycin and unasyn, but
+when the cultures came back negative for MRSA, he was only
+continued on Unasyn.  The patient's LFTs began to rise during
+his hospitalization, and it was thought to be due to the Unasyn.
+ It was discontinued, and he was started on Levofloxacin and
+Metronidazole until discharge.  He completed his course of
+antibiotics by the time of discharge.  At discharge, he was
+afebrile.  His hospital course was also initially complicated by
+hypotension in the ED with SBP in the 70s.  It was unclear
+whether this was sepsis vs narcotic induced hypotension, and the
+patient was transferred to the MICU.  He had a central line
+placed and blood cultures were negative for organisms.  His BP
+quickly returned to 123 Any St., and then he was hypertensive
+requiring his medications again.  He was then transferred to the
+floor.  He never required pressors.  The patient had CT scans
+which showed no evidence of colitis on admission.  After
+discharge from the MICU and onto the floor, he continued to
+spike fevers occasionally despite the Unasyn, and it was unclear
+whether it was from the abscess or from his gout flare.  A
+repeat CT showed improvement in the perirectal abscess, and the
+surgical service and wound care nurses continued to dress the
+wound.  At the time of discharge, the patient's rectal pain had
+markedly improved, and he was no longer febrile, and having
+bowel movements without difficulty.
+.
+# LFT Elevation: The patient has baseline mild transaminitis
+which was thought to be due to congestive hepatopathy from prior
+GI evaluations.  During this hospitalization, the patient's LFTs
+acutely increased, and a Hepatology consult was placed. Cardiac
+enzymes were negative, and ECG was unchanged.  RUQ ultrasound
+did not show biliary dilation, but rather hepative venous
+dilatation.  They felt that the elevation was likely due to the
+Unasyn on top of the baseline congestive hepatopathy, therefore
+the patient was diuresed, and his antiobiotics were changed.  At
+discharge, his LFTs were trending downwards.  He will followup
+in Liver clinic for further evaluation and possibly a liver
+biopsy in the future.
+.
+# Anemia: The patient has a baseline anemia thought to be due to
+chronic disease.  He was transfused 1 unit pRBC during MICU
+course for Hct trend 30 --> 23 --> 28.  Baseline Hct 30-35 with
+low-nl MCV.  He then had another acute Hct drop to 21.6, but
+then a repeat Hct was 26.  He was given a unit of pRBCs at that
+time as well.  Hemolysis labs were negative, and the patient was
+continued on a ppi for GI bleed.  A GI consult was placed since
+the patient had guiaiac positive stools.  They felt that an EGD
+and colonscopy would benefit the patient, but since he had an
+active perirectal abscess and an INR>2.0, this will be done as
+an outpatient in 1 week from discharge.  He has followup in GI
+for EGD next Thursday and Colonscopy in 7 weeks. His HCT at
+discharge was 33.
+.
+# Left Knee Pain: The patient has a history of gout, and his
+left knee pain was consistent with prior gout flares.
+Rheumatology was consulted since the patient had underlying
+kidney disease and an active infection therefore NSAIDs and
+steroids were contraindicated.  A arthocentesis was performed
+which showed monosodium urate crystals and was negative for
+septic arthritis.  He was continued on colchicine and narcotics
+for pain control, and at the time of discharge, his knee pain
+had improved.  He will continue on the colchicine and oxycodone
+PRN for pain control, and he will have a f/u appt with
+rheumatology to decide if allopurinol should be started in the
+outpatient setting.
+.
+# Acute on Chronic Systolic CHF: The patient's EF is approx 15%.
+ He was euvolemic to hypervolemic on exam without evidence of
+acute ischemia or decompensation. Pt has ICD in place.  He was
+continued on digoxin and carvedilol throughout this
+hospitalization.  He was also diuresed given his congestive
+hepatopathy and acute kidney injury both thought to be due to
+poor forward flow from decompensated heart failure.  With
+diureses, the patient's symptoms and kidney function markedly
+improved. He will continue his coreg, lasix, and digoxin and
+will f/u with Dr. Chawn in heart failure clinic.
+.
+# Acute Kidney Injury on CKD 3: The patient's Cr at baseline
+(1.4 - 1.6) with est GFR ~50.  During this hospitalization, his
+creatinine increased to 2.0.  This was felt to be due to poor
+forward flow from her heart failure.  With diuresis, her
+creatinine improved and at discharge was down to 1.1.  He will
+continue his current medications and f/u with his PCP for
+further evaluation of his kidney function.  His colchicine is
+currently dosed daily given that his Creatinine clearance has
+improved, but may need to be changed to Q48 if his creatinine
+increases to >1.4.  The patient should avoid NSAIDs for his gout
+given his kidney disease.
+.
+# Atrial fibrillation: The patient's was rate controlled
+throughout this admission.  Initially, the coumadin was held in
+setting of supratherapeutic INR and Hct drop.  He was then
+restarted on coumadin, but he became supratherpeutic again in
+the setting of acute liver injury due to unasyn and congestive
+hepatopathy.  The coumadin was again held, and the patient's INR
+was monitored.  His INR should be <1.7 for his EGD next
+Thursday.  Once his INR is <2.0, he should be bridged with
+Lovenox 100 mg Q12H assuming his CrCl>50, otherwise, the lovenox
+should not be started.  Also, it should be held the morning of
+his EGD, and then restarted that evening while restarting
+coumadin at 3 mg QHS until his INR is 2010-01-09 00:00:00.  The patient will
+need f/u with his PCP to ensure his INR is therapeutic on this
+coumadin regimen.
+.
+# Hypotension: Initially the patient had an episode of
+hypotension prior to admission to the MICU.  THis was felt to be
+due to narcotics.  During the rest of his admission, this was
+not [**Last Name **] problem.  Chawn Grochowski will continue his hypertensive medicaitons
+at discharge.
+.
+# Hyponatremia: The patient's hyponatremia was felt to be due to
+his volume status. As he was diuresed, his sodium improved.  The
+patient was restarted on his Lasix 80 mg daily dose and this can
+be adjusted for his volume status.  The patient will need f/u
+with his PCP and Dr. Chawn (cardiologist) for further changes to
+this regimen.
+- Continue to monitor Na: 135->133
+.
+# R renal mass: The patient had a renal mass seen on u/s,
+measuring 2.3cm, not noted on prior exams. They recommended MRI
+but patient has ICD. The patient will need an outpatient CT to
+further characterize and evaluate for changes in size.
+.
+# DM2: The patient will continue 70/30 15 units Qam and 8 units
+QPM with a humulog insulin sliding scale as needed.
+.
+# Code: Full
+.
+# Contact Info: wife Chawn Grochowski Chawn Grochowski h test@mail.com, c
+test@mail.com
+.
+# Dispo: The patient will be discharged to a rehabilitation
+facility.  He will have an EGD on 2010-01-09 00:00:00 and a colonscopy in 7
+weeks after discharge.  He has followup with rheumatology,
+hepatology, and his PCP.  Chawn Grochowski INR and Hct should be checked
+every 2 days while he is at rehab.  A phone call should be
+placed to the GI office test@mail.com with his 2010-01-09 00:00:00 INR to
+determine if it would be safe for him to have his EGD.  If his
+INR<2.0, he should be bridged with lovenox as outlined above
+assuming his creatinine clearance is >50. The patient also was
+discharged with a foley catheter as he was unable to urinate
+twice after removal of catheter.  Prior to discharge, bladder
+training was started, and should be continued in rehab with the
+goal of foley catheter removal.  Prior to admission, the patient
+did not have a catheter in place
+
+Medications on Admission:
+coreg 12.5 mg UPMCE
+lasix 80 mg daily
+digoxin 0.125 mg daily
+coumadin 5 mg daily
+diovan 80 mg daily
+colchicine 0.6 mg daily
+insulin 70/30 30units UPMCE
+celebrex 100 mg daily
+tramadol prn
+Glucosamine/chondroitin.
+
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO once a
+day.
+3. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+4. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Lovenox 40 mg/0.4 mL Syringe Sig: One Hundred (100) mg
+Subcutaneous twice a day: start if INR<2.0.  Only give if CrCl
+>50.  Please hold dose on 2010-01-09 00:00:00 for EGD then restart until INR
+2010-01-09 00:00:00.
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day) as needed for heartburn.
+
+8. Diovan 80 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Glucosamine-Chondroitin 500-400 mg Capsule Sig: One (1)
+Capsule PO once a day.
+10. Warfarin 3 mg Tablet Sig: One (1) Tablet PO at bedtime:
+start on 2010-01-09 00:00:00 PM. monitor for INR 2010-01-09 00:00:00 and adjust dose Chawn Grochowski MD.
+11. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain: please give 20 minutes prior to
+activity.
+13. Furosemide 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+15. Insulin NPH & Regular Human 100 unit/mL (70-30) Suspension
+Sig: AS DIRECTED units Subcutaneous twice a day: 15 units QAM, 8
+units QPM.
+16. Insulin Lispro 100 unit/mL Solution Sig: AS DIRECTED units
+Subcutaneous three times a day: dose per sliding scale.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary Diagnosis: Perirectal abscess status post incision and
+drainage
+Anemia
+Acute kidney injury on Chronic Kidney Disease 2
+Acute on Chronic Systolic Heart failure
+Elevated Liver Enzymes
+Gout
+
+
+Discharge Condition:
+stable, afebrile
+
+
+Discharge Instructions:
+Weigh yourself every morning, Chawn Grochowski MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+.
+You were admitted for an abscess on your buttocks.  The surgeons
+evaluated, and drained the abscess.  You were treated with
+antibiotics.  You also had an episode of low blood pressure and
+you were in the ICU for a short time period.  You developed a
+gout flare of your left knee, which was treated with pain
+medication.  You also had continued drop in your red blood cell
+count, and received blood transfusions.  At the time of
+discharge, your blood counts had stabilized.  You also developed
+acute kidney injury from your heart failure which resolved when
+we removed fluid.  Your liver enzymes also elevated during your
+hospitalization, and the Liver service felt that was due to one
+of your antibiotics, and once it was stopped, your liver enzymes
+started to decrease again.  You were seen by physical therapy
+who felt that you would benefit from rehab.
+.
+Please take all medications as prescribed. Please go to all
+scheduled appointments.
+.
+If you develop any of the following concerning symptoms, please
+call your PCP or go to the ED: chest pain, shortness of breath,
+worsening knee pain, fevers, chills, difficulty with bowel
+movements, blood in the stool or in the urine.
+
+Followup Instructions:
+Provider: Chawn Grochowski SUITE GI ROOMS test@mail.com Date/Time:2010-01-09 00:00:00 2:00
+Provider: [**First Name4 (NamePattern1) 3470**] Grochowski, MD Phone:test@mail.com Date/Time:2010-01-09 00:00:00
+2:00
+Provider: Chawn Grochowski,Chawn Grochowski GrochowskiDate/Time:2010-01-09 00:00:00
+2:00
+
+
+

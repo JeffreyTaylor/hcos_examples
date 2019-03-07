@@ -1,0 +1,189 @@
+Admission Date:  2014-03-20 00:00:00              Discharge Date:   2014-03-20 00:00:00
+
+Date of Birth: 1956-03-20 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Gentle Kemker
+Chief Complaint:
+bright red blood per rectum
+
+Major Surgical or Invasive Procedure:
+sigmoidoscopy
+
+History of Present Illness:
+76-year-old man with history of diverticulosis, prostate cancer,
+stroke on Aggrenox, DM2, hypertension presented with BRBPR.
+Patient reported having 2 episodes of bleeding with bowel
+movements the night of presentation, claiming that toilet bowl
+was filled with bright red blood. Denies abdominal pain,
+lightheadedness, chest pain, shortness of breath.
+
+Patient had a colonoscopy many years ago--he doesn't remember
+when-- which was reportedly "normal". However he does have a
+history of diverticulosis and underwent sigmoid resection years
+ago for ?diverticulitis. Never had BRBPR until now. He also
+reports a remote history of hemorrhoids.
+
+In the ED, initial VS: T 98.4, HR 104, BP 155/73, RR 20, 97%RA.
+Negative NG lavage, rectal exam with bloody stools. Hct 34.5
+(baseline high 30s-low 40s). BUN 24, Cr 1.4 (baseline ?1.3-1.4).
+INR 1.1. GI was made aware. Had 2 more bowel movements in ED
+with blood. Ordered for blood but not transfused yet in ED.
+
+On arrival, he was stable, talking pleasantly.
+
+ROS: Denies fever, chills, night sweats, headache, vision
+changes, rhinorrhea, congestion, sore throat, cough, shortness
+of breath, chest pain, abdominal pain, nausea, vomiting,
+diarrhea, constipation, melena, dysuria, hematuria.
+
+Past Medical History:
+# diverticulosis: h/o ?diverticulitis, s/p sigmoid resection
+many years ago
+# hemorrhoids: remote
+# hypertension
+# prostate cancer: dx'ed 2014-03-20 00:00:00, Gentle Kemker 8, s/p external beam XRT
+and hormonal therapy in 2014-03-20 00:00:00
+# SVT: intermittent, with palpitations, declined beta blocker,
+followed by Dr. Gentle Kemker
+# stroke: dx'ed 2014-03-20 00:00:00, small lacunar infarct in the left internal
+capsular region in close proximity to the posterior limb
+# hypercholesterolemia
+# polio
+# DM2
+
+Social History:
+lives by self. No smoking or drinking. Very active and
+independent at baseline.
+
+Family History:
+non-contributory
+
+Physical Exam:
+GENERAL:  elderly man lying in bed in NAD, pleasantly talkative
+HEENT:  EOMI, PERRL, OP moist without lesion
+Neck: no JVD, supple
+CARDIAC: RR, normal S1/S2, no m/r/g
+LUNG: CTAB
+ABDOMEN: soft, NT, ND, bowel sounds present, well-healed
+incisional scar
+EXT: no c/c/e
+
+
+Pertinent Results:
+Sigmoidoscopy: Mucosa: Erythema noted in the rectum consistent
+with radiation proctitis. Scope advanced to distal sigmoid colon
+with no bleeding identified. Brown stool was seen at this point.
+
+
+Impression: Abnormal mucosa in the colon. Otherwise normal
+sigmoidoscopy to distal sigmoid colon.
+
+Recommendations: Monitor Hct and vitals. If re-bleeds, bleeding
+scan. If stable, will proceed with elective colonoscopy.
+Additional notes: The attending was present for the entire
+procedure. The patient's reconciled home medication list is
+appended to this report.
+
+2014-03-20 00:00:00 03:47AM BLOOD WBC-6.5 RBC-3.77* Hgb-12.0* Hct-34.7*
+MCV-92 MCH-31.7 MCHC-34.4 RDW-14.5 Plt Ct-186
+2014-03-20 00:00:00 11:40PM BLOOD Hct-33.6*
+2014-03-20 00:00:00 04:20PM BLOOD Hct-33.5*
+2014-03-20 00:00:00 09:55AM BLOOD Hct-33.5*
+2014-03-20 00:00:00 05:10AM BLOOD Hct-31.1*
+2014-03-20 00:00:00 02:00AM BLOOD WBC-9.5 RBC-3.58* Hgb-12.0* Hct-34.5*
+MCV-96 MCH-33.6* MCHC-34.9 RDW-12.9 Plt Ct-234
+2014-03-20 00:00:00 03:47AM BLOOD Glucose-135* UreaN-20 Creat-1.3* Na-136
+K-4.3 Cl-104 HCO3-24 AnGap-12
+2014-03-20 00:00:00 02:00AM BLOOD Glucose-108* UreaN-24* Creat-1.4* Na-136
+K-4.3 Cl-104 HCO3-22 AnGap-14
+
+Brief Hospital Course:
+Lower GI Bleed: The patient had a few episodes of BRBPR.  His
+hct never dropped below 30 and he was hemodynamically stable.
+He was given 1 unit PRBC and underwent a sigmoidoscopy in the
+ICU which revealed possible radiation proctitis.  In addition it
+is possible he has another source of bleeding such as polyp,
+tumor or diverticulosis.  He will require an elective
+colonoscopy. The patient will call his PCP's office on Monday
+2014-03-20 00:00:00 to set this up.   He will hold off on aggrenox until his
+full colonoscopy and will discuss restarting with his PCP.
+
+SVT: the patient had 3-5 episodes of SVT, all less than a few
+minutes, which broke with vagal maneuvers.  He was started on
+lopressor 25mg po tid and discharged on toprol xl 100mg daily.
+His oupt cardiologist was informed of this and he has had this
+in the past and has not been treated for this.  To make room for
+this beta blocker his ACEi (lisinopril 40mg po daily) was held.
+
+
+Medications on Admission:
+atorvastatin 40 mg daily
+Aggrenox 25-200 mg UPMCE
+folic acid
+glyburide-metformin 1.25-250 mg UPMCE
+lisinopril 40 mg daily
+ranitidine 150 mg UPMCE
+docusate
+iron
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+
+2. Glyburide-Metformin 1.25-250 mg Tablet Sig: One (1) Tablet PO
+once a day.
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+primary:  lower gastrointestinal bleeding
+secondary:  supraventricular tachycardia
+
+
+Discharge Condition:
+stable, amulatory, normal mental status
+
+
+Discharge Instructions:
+You were admitted to the hospital because of bleeding from your
+rectum.  You received one unit of blood, and your blood counts
+stabilized.  A sigmoidoscopy showed that you may have some
+damage from prior radiation causing the bleeding, or this may be
+related to something else further in the colon.  You will need
+to have a colonoscopy as an outpatient to evaluate this further.
+ Your bleeding stopped, and you were discharged to home.
+
+The following medications were changed:
+1) Aggrenox was stopped - please discuss when to restart this
+with
+2) Metoprolol 100 XL 100 mg daily was started - this is for your
+rapid heart rate
+3) Lisinopril - This was stopped because metoprolol will likely
+control your blood pressure.
+
+
+Followup Instructions:
+Your primary care doctor, Aasha Contreras, [**First Name3 (LF) **] be calling you on
+Monday to arrange an appointment.  If you do not hear from him,
+please call him at test@mail.com.  You will need a colonoscopy as
+an outpatient, which Dr. Aasha will schedule.
+
+Also, please follow up with your cardiologist as 123 Any St.usly
+scheduled:
+Aasha Contreras, MD Phone:test@mail.com Date/Time:2014-03-20 00:00:00 3:00
+
+
+
+Completed by:2014-03-20 00:00:00

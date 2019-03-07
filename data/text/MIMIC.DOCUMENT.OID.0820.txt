@@ -1,0 +1,316 @@
+Admission Date:  2013-12-23 00:00:00              Discharge Date:   2013-12-23 00:00:00
+
+Date of Birth: 1968-07-27 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Iodine; Iodine Containing / Morphine / Oxycontin
+
+Attending:Alletta Schwint
+Chief Complaint:
+Facial Numbness
+
+Major Surgical or Invasive Procedure:
+Mechanical Ventilation
+
+
+History of Present Illness:
+Ms. Pratts is a 40 yo woman with metastatic breast CA to bone
+direct admitted to the floor for metastasis of the sphenoid
+encoroaching on the posterior wall of the L orbit & mandibular
+mets causing orbital pain, periorbital and mental numbness. She
+has noted these symptoms since about 2013-12-23 00:00:00 and they have
+progressed from tingling to numbness. She is also seeing black
+spots on her vision. She also notes for the past 2 weeks she has
+had weakness &numbness of her LLE, for the past 1 week she has
+been unable to flex her hip, extend her knee, or dorsiflex her
+foot. She also complains of low back pain. This morning she had
+difficulty holding her urine to make it to the bath room. Denies
+any peri-anal numbness.
+.
+She presented to the ED on 2013-12-23 00:00:00 with a few days of numbness in L
+side of face, down her body, etc. CT scan was non-diagnostic and
+she left AMA. Open MRI (see below) showed bony disease of the
+greater wings of sphenoid, extending into the optic canal, and
+bony involvement of the mandible approaching the inferior
+alveolar nerve canal.
+
+
+Past Medical History:
+Metastatic breast cancer with verterbral metastasis s/p XRT to
+thoracic spine & chemotherapy
+HTN
+Morbid Obesity
+Depression
+Anemia
+Post partum cardiomyopathy- EF now improved to 45-50%
+h/o peritonsillar abscess 2013-12-23 00:00:00 s/p I&D
+?transfusion reaction recently
+?anxiety
+
+
+Social History:
+Lives at home with husband and children. smoking 2013-12-23 00:00:00 cigarettes
+per day
+
+
+Family History:
+Aunt with Eldar Pratts cancer at 46. Grandmother had leukemia. Mother:
+diabetes. Paternal medical history unknown to patient.
+
+
+Physical Exam:
+T 97.5 HR 95 BP 130/95 RR 16 100%RA
+GENERAL: NAD, AOX3, Speaking in full sentences
+HEENT: PEERLA, No scleral icterus.
+CV: S1 S2 No M/R/G
+PULM: Clear to ausculation bilaterally
+ABDOMEN: Morbid Obesity, soft, Non-Tender, Non-Distended, BS+
+EXTREMITY: No cyanosis, clubbing or edema
+NEURO: Alert and Oriented x3. Pt unable to move L eye up and
+lateral without discomfort. Left sided V1-V3 lacking sensation.
+Bilateral mental area lacking sensation. Mild left facial droop.
+Right V1-V2 WNL. 5/5 Strength and Sensation in Upper Extremities
+Bilaterally. 5/5 Strength and sensation R LE. 1/5 Strength in
+LLE extensors. No sensation on mid and anterior thigh. Sacral
+area with normal sensation bilaterally. Anal wink intact.
+Equivocal 1+ reflexes due to pt's habitus. Equivocal babinski
+signs bilaterally.
+
+
+Pertinent Results:
+Admission Labs:
+2013-12-23 00:00:00 10:22AM   WBC-4.9 RBC-3.01* HGB-8.7* HCT-26.0* MCV-86
+MCH-29.0 MCHC-33.6 RDW-19.5*
+2013-12-23 00:00:00 10:22AM   PLT COUNT-245
+2013-12-23 00:00:00 10:22AM   GRAN CT-3332
+2013-12-23 00:00:00 10:22AM   CEA-100* CA27.29-3139*
+2013-12-23 00:00:00 10:22AM   ALBUMIN-3.8 CALCIUM-9.7 PHOSPHATE-4.9*
+MAGNESIUM-1.8
+2013-12-23 00:00:00 10:22AM   ALT(SGPT)-36 AST(SGOT)-94* LD(LDH)-608* ALK
+PHOS-108 TOT BILI-0.6
+2013-12-23 00:00:00 10:22AM   UREA N-9 CREAT-0.8 SODIUM-143 POTASSIUM-4.3
+CHLORIDE-105 TOTAL CO2-28 ANION GAP-14
+2013-12-23 00:00:00 12:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5
+LEUK-NEG
+.
+EXAM: MRI of the cervical, thoracic, and lumbar spine.
+CLINICAL INFORMATION: Patient with left lower extremity weakness
+and urinaryincontinence, rule out cord compression.
+
+CERVICAL SPINE:
+
+TECHNIQUE: T1, T2 and inversion recovery sagittal and
+gradient-echo axial
+images of cervical spine were acquired.
+
+FINDINGS: Diffuse metastatic lesions are identified in the
+cervical vertebral
+bodies on the partially visualized upper thoracic region. Mild
+compression of
+the inferior endplate of C7 vertebra and mild anterior wedging
+of T4 vertebra
+are identified. There is no cord compression seen or epidural
+mass. The
+post-gadolinium cervical images are somewhat limited by motion.
+There is no
+abnormal signal seen within the spinal cord. Endotracheal tube
+is visualized
+with retained secretions in the nasopharynx.
+
+IMPRESSION: Diffuse bony metastatic disease. No cord compression
+seen.
+
+THORACIC SPINE:
+
+TECHNIQUE: T1, T2 and inversion recovery sagittal and T2 axial
+images were
+obtained before gadolinium. T1 sagittal and axial images were
+obtained
+following the administration of gadolinium.
+
+FINDINGS: Diffuse bony metastatic lesions are identified in the
+thoracic
+region. No evidence of epidural mass or spinal cord compression
+seen. Mild
+wedging of the T4, T6, T10, and T12 vertebral bodies noted.
+There is no
+evidence of intrinsic spinal cord signal abnormalities
+identified. No acute
+compression fracture seen. Diffuse metastatic lesions are
+identified in the
+liver and also an area of atelectasis seen in the left lower
+lung.
+
+IMPRESSION: Diffuse bony metastasis. No abnormal intraspinal
+enhancement. No
+cord compression.
+
+LUMBAR SPINE:
+
+TECHNIQUE: T1, T2 and inversion recovery sagittal and T2 axial
+images were
+obtained before gadolinium. T1 sagittal and axial images were
+obtained
+following the administration of gadolinium.
+
+FINDINGS: Diffuse bony metastasis is identified in the lumbar
+region and in
+the visualized sacrum. There is no evidence of high-grade thecal
+sac
+compression identified. No epidural mass is seen.
+
+At L4-5, there is diffuse disc bulge identified indenting the
+thecal sac with
+mild left-sided and moderate right-sided foraminal narrowing.
+The disc
+bulging and a small protrusion is in contact with exiting right
+Eldar Pratts nerve root
+at this level.
+
+At L5-S1 level, mild disc bulging identified.
+
+IMPRESSION: Diffuse bony metastatic disease. No evidence of
+epidural mass or
+high-grade thecal sac compression. Degenerative changes in the
+lower lumbar
+region as described above.
+
+COMMENT: Compared to the 123 Any St.us MRI of 2013-12-23 00:00:00, there appears
+to be some
+progression of bony metastatic lesions in the spine. No epidural
+mass is
+seen. The degenerative changes in the lumbar region appear
+stable.
+.
+Pertinent Labs:
+2013-12-23 00:00:00 05:14AM BLOOD calTIBC-298 VitB12-> 2013-12-23 00:00:00 Folate-8.4
+Ferritn-> 2013-12-23 00:00:00 TRF-229
+2013-12-23 00:00:00 05:14AM BLOOD Calcium-9.8 Phos-5.9* Mg-1.6 Iron-245*
+
+Brief Hospital Course:
+40F with metastatic breast CA to bone presenting with facial
+numbness and leg weakness and urinary incontinence.
+.
+# Mental Numbness: The patient presented with left sided facial
+weakness and bilateral mental numbness. This was thought to be
+secondary to metastic disease. The patient was given decadron
+10mg IV x 1, and then 4mg po q6hrs. The patient underwent a
+single cranial XRT treatment and subsequently her left sided
+facial weakness and numbness resolved. Neuro-Onc was consulted
+and stated "This is most likely localized in the jaw
+but not in the principal or spinal gnaglia of V." The patient
+stated her mental numbess was much improved at the time of
+discharge.
+.
+# Left Sided Visual Changes: The patient reported black spots in
+her vision upon presentation. This was thought to be second to
+optic nerve compression secondary to tumor. Neuro was consulted
+and stated "The
+tumor to the optical canal explains the eyes symptoms."
+Following dexamthasone and XRT the patients symptoms resolved.
+.
+# Leg Weakness and r/o Cord Comprssion: The patient reported 5
+to 7 day history of left lower extremity and numbness prior to
+admission. In addition she had noted urinary incontinence. The
+initial differential included deficits to cord compression vs a
+central process. It thought to be unlikely a central process due
+to sparing her arms. The patient was seen by neurology,
+neuro-onc and rad-onc. The patient underwent a MRI spine
+(requiring subsequent intubation and transfer to the unit for
+extubation, details of which are above), that did not reveal
+evidence of cord compression. The patient continued to receive
+PO dexamethasone and subsequently her leg weakness and numbness
+completely at the time of discharge.
+.
+# Anemia of Chronic Disease: The patient presented with a Hct of
+26. Iron studies that were sent that were consistent with anemia
+of chronic disease. The patient's Hct at discharge was 24.5. The
+patient did not receive transfusions during her hospital course.
+The patient should have her hematocrit checked this week.
+
+Medications on Admission:
+albuterol prn
+flexeril 5-10mg po q 6 H prn
+hctz 25mg po daily
+lisinopril 30mg po daily
+Toprol XL 100mg po daily
+oxycontin 20mg po bid
+percocet 1-2 tabs po q 4-6 hrs prn
+zometa q month
+MVI
+
+
+Discharge Medications:
+1. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO at bedtime.
+2. Lisinopril 10 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+3. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed.
+4. Oxycodone 20 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4H (every 4 hours) as needed.
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO
+DAILY (Daily).
+9. Flexeril 10 mg Tablet Sig: One (1) Tablet PO four times a
+day.
+10. Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO three times
+a day.
+Disp:*21 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis
+- Metstatic Breast CA
+- Mental Neuropathy
+- r/o Cord Compression
+- r/o Left Optic Nerve Compression
+
+
+Discharge Condition:
+Good. Patients left lower extremity weakness completly resolved.
+Left lower extremity numbness completely resolved. Left visual
+changes completely resolved. Left facial numbess resolved with
+exception to mild numbess on the patients chin. Patient
+ambulating and at her mental and physical baseline.
+
+
+Discharge Instructions:
+You were admitted to hosptial with facial numbness, blurred
+vision in your left eye and left leg weakness and numbness. You
+were intubated and underwent an MRI. You received one dose of
+radiation.
+.
+Please continue to take all of your medications as listed below.
+.
+Please keep all of your appointments.
+.
+Please return to hospital if you experience worsening back pain,
+loss of urine or stool, numbess in your lower extremities,
+fevers, chills, shortness of breath, worsening visual changes.
+Please stop smoking. Information was given to you on admission
+regarding smoking cessation.
+
+Followup Instructions:
+Please follow-up with your PCP Eldar Pratts 1-2 weeks of discharge.
+.
+Please call Dr. [**First Name4 (NamePattern1) 1340**] Pratts office tomorrow for follow-up.
+.
+Radiation Oncology plans to call you on Monday morning to
+schedule follow-up.
+
+
+                             Eldar Pratts Eldar Pratts MD, 26926
+

@@ -1,0 +1,416 @@
+Admission Date:  2008-11-10 00:00:00              Discharge Date:   2008-11-10 00:00:00
+
+Date of Birth: 1950-12-09 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Losartan / Aspirin / Lisinopril-Hctz
+
+Attending:Earthy Mastrovito
+Chief Complaint:
+pain in left shoulder
+
+Major Surgical or Invasive Procedure:
+left shoulder hemiarthroplasty 2008-11-10 00:00:00
+
+
+History of Present Illness:
+69 yo somalian woman with 6week old left hyumerous fx  intial
+presented 4weeks out from presumed injury while being transfered
+to stretcher for dialysis came in to UPMCE mc for shunt eval
+fistogram showed left humerous fx because of left arm shunt dr
+Lafon felt that the only way could fix the  humerous would
+jepodize the shunt  the patiebt who need the hemodaylisas access
+switch to the rt side
+
+Past Medical History:
+1. Type 2 diabetes
+2. Diabetic nephropathy
+3. Status post left femur fracture
+4. Hyponatremia
+5. Hypercholesterolemia
+6. Unsteady gait
+7. Cataracts
+8. Back pain
+9. Hypertension
+10. Anemia of chronic disease
+
+Social History:
+Lives with son who is very involved and well informed regarding
+her care needs. Non smoker. No EtOH
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+heent wnl
+chest exp rhochi decresaed  bs
+Lafon rrr no mrg
+abd sft nt nd
+ext left arm swollen eccchymotic  pain ful rom
+neuro intact
+
+Pertinent Results:
+2008-11-10 00:00:00 03:12PM BLOOD WBC-12.1*# RBC-3.72* Hgb-10.5* Hct-33.6*
+MCV-90 MCH-28.1 MCHC-31.1 RDW-20.7* Plt Ct-267
+2008-11-10 00:00:00 03:12PM BLOOD Plt Ct-267
+2008-11-10 00:00:00 03:12PM BLOOD Glucose-160* UreaN-29* Creat-3.7* Na-141
+K-3.2* Cl-98 HCO3-30 AnGap-16
+2008-11-10 00:00:00 01:20PM BLOOD Type-ART FiO2-50 pO2-212* pCO2-37
+pH-7.58* calHCO3-36* Base XS-12 Intubat-INTUBATED
+Vent-CONTROLLED
+2008-11-10 00:00:00 02:51PM BLOOD Glucose-237* Lactate-2.7* Na-136 K-3.3*
+Cl-99*
+2008-11-10 00:00:00 01:20PM BLOOD Glucose-193* Lactate-1.5 Na-138 K-3.4*
+
+Operative report (2008-11-10 00:00:00):
+Service:  ORT                     Date:  2008-11-10 00:00:00
+
+Date of Birth: 1950-12-09 00:00:00 00:00:00        Sex:  F
+
+Surgeon:  Chynia Lafon, 17977
+
+PREOPERATIVE DIAGNOSIS:  Left proximal humerus fracture.
+
+POSTOPERATIVE DIAGNOSIS:  Left proximal humerus fracture.
+
+PROCEDURE:  Left proximal humerus hemiarthroplasty.
+
+INDICATIONS:  Mrs. Chynia Lafon is a 69-year-old female patient
+with a complex medical history including end-stage renal
+disease on dialysis, diabetes. She fell approximately 4 to 6
+weeks ago, sustaining a two-part proximal humerus fracture
+that has not healed. Over the last 2 weeks of her medical
+admission to manage respiratory issues, it was noted that the
+flow from her arterial venous fistula which is on the injured
+side of her extremity was deficient.  An angiogram was
+obtained which demonstrated the presence of the humerus
+fracture. It is unclear when this fracture occurred,
+presumably it could have occurred during transportation given
+that the patient has no history of falling. The fracture was
+significantly displaced, and
+significantly angulated. The patient received alternative
+hemodialysis access and the left upper extremity fistula was
+left at this point unused in preparation for possible surgery
+to address the humerus fracture. the patient has so far not
+ develop any healing
+or callus on films. I think this is not unusual given her
+medical
+history and
+believe a repair of this 2-part humerus fracture would
+probably result in a non UPMCE and I therefore believe that the
+approach to address her fracture instability surgically is to
+perform a hemiarthroplasty. The family agrees and she now
+presents for procedure.
+
+PROCEDURE IN DETAIL:  The patient was brought to the
+operating room and after the successful induction of general
+anesthesia was placed in the beach-chair position. The left
+upper extremity was prepped and draped in the usual sterile
+manner. Via the deltopectoral approach, the fracture was
+exposed. There was significant soft tissue  scarring but no
+callous and there was good lateral
+perfusion on the soft tissues which bleed considerably. This
+is secondary to the presence of the fistula nearby.
+Hemostasis was achieved with Lafon electrocautery. The
+deltopectoral interval was found and the fracture was
+exposed. The humeral head, lesser tuberosity and greater
+tuberosity were osteotomized and preserved and the remaining
+head was removed. The canal was exposed and reamed and
+broached to accept a 12 mm Osteonics humeral prosthesis. A 21
+mm humeral head was then selected and was found to give
+appropriate fit and range of motion. At this point, the canal
+was irrigated. The final components were then brought to the
+field and cemented with one bag of PMMA cement. The final
+components were assembled and the lesser tuberosity and
+greater tuberosity were repaired over the prosthesis using
+the threaded holes in the prosthesis.  The wound was
+copiously irrigated and closed in layers with 0 PDS and 2-0
+nylon over a drain. Dr. Lafon was present for the entire
+procedure. All counts of sponges and instruments were
+correct. C arm imaging was used at the end of the procedure to
+establish the appropriate height and anatomy was restored.
+The patient tolerated the procedure well and was taken to
+recovery room without incident. Dr. Lafon was present for
+the entire procedure.
+
+CT head (2008-11-10 00:00:00):
+
+FINDINGS: There is no acute intra- or extra-axial hemorrhage or
+shift of normally midline structures. The ventricles, cisterns
+and sulci are somewhat prominent, likely due to atrophic
+changes. Again identified are scattered hypodensities within the
+subcortical white matter consistent with small vessel ischemic
+disease. A small area of decreased attenuation is identified
+within the right basal ganglia consistent with prior lacunar
+infarction, unchanged from prior studies. The Earthy Mastrovito-white matter
+differentiation appears preserved. There has been interval
+opacification of the mastoid air cells bilaterally. There is
+minimal thickening of the right maxillary sinus. The visualized
+soft tissues appear unremarkable.
+
+IMPRESSION: No acute hemorrhage. Evidence of chronic small
+vessel ischemic disease as well as prior lacunar infarcts,
+unchanged.
+
+2008-11-10 00:00:00 CT abd/pelvis
+69 year old woman with diffuse, persistent abdominal pain, s/p
+PEA arrest, elevated lactate
+REASON FOR THIS EXAMINATION:
+Please evaluate for mesenteric ischemia - angiogram protocol
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Diffuse persistent abdominal pain status post PEA
+arrest with elevated lactate. Concern for mesenteric ischemia.
+
+CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST: Tiny (2 mm)
+nodule seen within the left lower lobe, not clearly visualized
+at the time of the 123 Any St.us CT examinations. The visualized
+portions of the heart and pericardium appear unremarkable. The
+liver, spleen, and adrenal glands appear unremarkable.
+Gallbladder contains a calcified stone in layering calcium
+consistent with milk of calcium. There is stranding about the
+inferior aspect of the pancreas within the mesenteric root. The
+aorta is normal in caliber with mural calcifications consistent
+with atheromatous disease. The kidneys appear atrophic
+bilaterally. The large and small bowel loops are normal in
+caliber. There is mucosal thickening within a short segment of
+cecum. No other areas of abnormal bowel wall thickening are
+identified. There is no free intraperitoneal air and no free
+fluid within the abdomen. There is no pathologic appearing
+mesenteric or retroperitoneal lymphadenopathy.
+
+CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST: The bladder,
+distal ureters, rectum and sigmoid colon appear unremarkable.
+There are uterine calcifications. The uterus and adnexa appear
+otherwise unremarkable. There is no pathologic appearing pelvic
+or inguinal lymphadenopathy. There is diffuse stranding within
+the subcutaneous tissues of the left buttock and right buttock
+to a slightly less prominent degree. Multiple calcifications are
+seen within the soft tissues of the buttocks consistent with
+injection granulomas.
+
+BONE WINDOWS: Bone windows demonstrate unusual contour of the
+left femoral neck with bowing and heterogeneous lucency within
+the femoral neck and greater trochanter. No suspicious lytic or
+sclerotic osseous lesions are identified.
+
+MULTIPLANAR REFORMATS: Coronal and sagittal reformations
+demonstrate a short segment of mucosal thickening within the
+cecum.
+
+IMPRESSION:
+1. Short segment of mucosal thickening within the cecum, finding
+of uncertain significance. The differential diagnoses include
+infectious, inflammatory, or ischemic colitis.
+2. Peripancreatic stranding, finding that could indicate
+pancreatitis. Clinical correlation is recommended.
+3. Small bilateral pleural effusions and bibasilar atelectasis.
+2 mm left lower lobe pulmonary nodule. If there is no history of
+prior malignancy, this may be further evaluated by follow-up CT
+in 1 year.
+4. Cholelithiasis and milk of calcium within the gallbladder.
+5. Unusual configuration of the left femoral neck, finding that
+could suggest etiology such as fibrous dysplasia
+
+
+Brief Hospital Course:
+ORTHOPEDIC SURGERY:
+on 2008-11-10 00:00:00 she was admitted to the sda area anesthesia saw her
+and had cocerns about her respiratory status and had a cxr done
+it showed no pna and shecwas taken to the or and underwent a
+left shoulder hemiarthroplasty transfered to pacu stable
+* * * * * * * * * * * * * * * * * * * *
+MEDICINE:
+Patient was transferred to medicine on 2008-11-10 00:00:00.  The plan at
+that time was for patient to recive hemodialysis and to
+discharged home.  While in hemodialysis, patient became
+hypotensive.  House officer was called.  While attempting to get
+an ABG, patient had respiratory arrest and a code blue was
+activated. Patient was found to have pulseless electrical
+activity.  Patient was successfully resuscitated and transferred
+to the MICU.  CTA was positive for pulmonary embolism and
+patient was started on Heparin.  Her EKG had ST and ST
+depressions laterally and Echocardiogram showed no evidence of
+right heart strain.  Her blood pressure stabilized and she was
+transferred back to the floor on 2008-11-10 00:00:00.  The remainder of her
+hospital course was characterized by persistent intermittent
+episodes of hypotension down to the 80's systolic.  Measuring
+blood pressure on Ms. Lafon is problemChynia Lafon as she has a healing
+surgical wound on her left arm and her right has poor
+vasculature, presumably from multiple past lines.  She was
+regularly hypotensive (SBP 80's) during hemodialysis.  Her blood
+pressure responded well to 250 cc normal saline boluses.
+
+Of note, during this admission patient had one episode of
+unresponsiveness.  Patient was treated with narcan with slight
+improvement and aggressive electrolyte re123 Any St.n (phosphate and
+magnesium).)  Vital signs were at her baseline throughout.  No
+acute changes on CXR or ECG.  FSBG normal.  Head CT negative.
+She returned to baseline over the course of 2008-11-10 00:00:00 hours and the
+episode was attributed to excessive pain medications and
+multiple electrolyte abnormalities.  The remainder of her
+hospital course is organized by problem below:
+.
+#Anticoagulation: patient transitioned from heparin to coumadin
+without incident.  Still attempting to titrate to maintain INR
+between 2008-11-10 00:00:00. Her INR on the date of discharge was
+supratherapeutic.  Her coumadin should be held on 2008-11-10 00:00:00 and
+re-started on 2008-11-10 00:00:00 at 1 mg qhs IF her INR comes down to
+therapeutic range (goal 2008-11-10 00:00:00).
+.
+#. Humeral Fracture: Films were reviewed by orthopedic surgery.
+No fracture or damage to hardware during CPR evident on plain
+film on 2008-11-10 00:00:00.  She will need follow up with orthopedics for
+removal of stitches.
+.
+#Blood loss - On two occaisions patient's hematocrit drifted
+down.  Neither could be entirely accounted for by surgery (per
+ortho there was minimal blood loss, < 500 cc) or by the small
+hematoma that developed at the surgical site.   Pt had guaiac
+poitive stool on 2008-11-10 00:00:00, followed be several guiac negative
+stools.  GI was conculted and they did not feel a colonoscopy
+was advisable in this patient given her recent arrest and
+current state of anticoagulation.  Patient also began to
+complain of a new mild diffuse abdominal pain, we obtained an
+abdominal CT scan which showed non-diagnostic bowel wall
+thickening in the cecum but no concerning evidence of mesenteric
+ischemia.  Patient's hemaocrit stablized after receiving one
+unit of blood and the plan is for the patient to receive a
+colonscopy as an outpatient.  She will need to follow up with
+gastroenterology for this.
+.
+# Fever: Patient has intermittent fevers after returning to the
+floor.  Patient was initially treated with broad spectrum
+antibiotics.  PICC line was placed for access and femoral line
+was discontinued with good resolution of fevers.  All cultures
+returned negative.
+.
+#Diarrhea: Patient has very poor oral intake and has loose stool
+from a predominatly liquid diet at baseline.  All stool cultures
+were negative.  CT of the abdomnen was only notable for
+non-specific ceccal wall thickening.  Patient was treated with
+anti-diarrheal with some improvement in symtptoms.
+.
+#Hypernatremia: Stable.  Patient on HD.
+.
+#. ESRD: Hemodialysis
+.
+#. DM: Had one episode of hypotglycemia (35).  Glipizide was
+decreased to 2.5 mg Q day and patient was maintained insuline
+sliding scale.
+.
+# Hypophospatemia:  At one point patient's phosphate level
+dropped down to 0.5 despite being started on neutraphos.
+Patient has very poor oral intake and has loose stool from a
+predominatly liquid diet at baseline.  Patient required
+aggressive IV re123 Any St.n with a goal phosphate greater than 3.
+.
+#. FEN: Patient recieved multiple speech and swallow
+evaluations.  She does not aspirate on thin liquids but it was
+discovered that when coerced into eating solid food that she
+would secrete it in her cheeks and later fall asleep and
+aspirate large food particles.  At home patient eats a
+predominatly liquid diet by preference.  Diet was changed to
+full liquids with no further episodes of food aspiration
+requiring suctioning.
+.
+#. FULL code: discussed with family
+.
+#. Communication: Through family as patient is Somalina speaking
+ony and no translator was available.
+.
+
+
+Medications on Admission:
+Hydromorphone 0.5-1 mg IV Q6H:PRN
+Insulin SC
+Folic Acid 1 mg PO DAILY
+Nephrocaps 1 CAP PO DAILY
+Glipizide 2.5 mg PO BID
+Acetaminophen 325-650 mg PO Q4-6H:PRN pain, fever
+Colace
+Senna 1 TAB UPMCE
+
+Discharge Medications:
+1. Pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous  Q12H (every 12 hours).
+2. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+
+3. Glipizide 10 mg Tablet Sig: 0.25 Tablet PO QAM (once a day
+(in the morning)).
+4. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical  DAILY (Daily).
+5. Docusate Sodium 150 mg/15 mL Liquid Sig: Ten (10) ml PO BID
+(2 times a day).
+6. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+8. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR (AS DIRECTED).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Center
+
+Discharge Diagnosis:
+1. Plumonary embolism
+2. GI bleeding
+3. ESRD
+4. left humerous fracture
+5. S/P PEA arrest
+6. Diarrhea
+7. Hypophosphatemia
+8. Hypomagnesemia
+9. Hypernatremia
+
+1. Plumonary embolism
+2. GI bleeding
+3. ESRD
+4. left humerous fracture
+5. S/P PEA arrest
+6. Diarrhea
+7. Hypophosphatemia
+8. Hypomagnesemia
+9. Hypernatremia
+
+
+Discharge Condition:
+
+
+stable
+
+
+Discharge Instructions:
+dc to rehab
+keep wound dry and clean
+left shoulder non weight bearing
+take dc meds as ordered
+
+Physical Therapy:
+Activity:  Ambulate
+ Left upper extremity:  Non weight bearing
+ Sling:   At all times
+
+Treatments Frequency:
+staples out 2weeks 2008-11-10 00:00:00
+Please take all medications as ordered
+keep wound dry and clean
+left shoulder non weight bearing - keep elevated in sling/on
+pillow for comfort
+
+
+Followup Instructions:
+1.  Please call (test@mail.com to make an appointment with your
+primary care doctor in 2008-11-10 00:00:00 weeks.
+
+
+                             Chynia Lafon Lafon MD, 17977
+
+Completed by:2008-11-10 00:00:00

@@ -1,0 +1,343 @@
+Admission Date:  2014-05-29 00:00:00              Discharge Date:   2014-05-29 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Valium
+
+Attending:Zailey Bunch
+Chief Complaint:
+mixed respiratory failure
+
+
+Major Surgical or Invasive Procedure:
+intubation
+
+
+History of Present Illness:
+24yo man with h/o Parkinson's disease, multiple prior admissions
+for aspiration pneumonia most recently 2014-05-29 00:00:00, who presents
+again from UPMCE Rehab after the staff there had "trouble
+waking him up" this AM, and found him to be in mixed respiratory
+failure. On the prior admit, the pt was diagnosed with a LLL pna
+and treated with vancomycin/zosyn. Per his wife, the patient was
+doing relatively well last week, still in the MACU at UPMCE
+Rehab since his recent discharge from UPMCE but with a plan to
+transition to the regular floor soon. His ABG on 2014-05-29 00:00:00 was
+7.34/69/55 on room air, which is close to his baseline pCO2. On
+Saturday 2d PTA, the pt's wife noted that he was congested more
+than baseline, initially unable to cough, but then improved
+after neb treatments with the production of brown-pink
+secretions.  He had hyperglycemia to FS 223, which per wife he
+has never had before (no h/o DM). By Saturday night though he
+was doing well, less congested and speaking clearly. Then,
+Sunday AM, he was congested again and though he received nebs he
+was not able to cough out the secretions. Per the Pulmonologist
+note from Sunday PM, he was then found to be poorly arousable,
+with RR 30, shallow breathing, lungs clear, O2 sat 90% on pulse
+oximeter. ABG performed, 7.20/107/44, O2 sat 68% on ABG,
+presumably on room air though unclear. BIPAP was written for
+(IPAP 16, EPAP 3), though it is not clear if this was started.
+He was shortly thereafter intubated after the Pulmonologist
+confirmed his Full Code status with the pt's wife. After
+intubation, it was noted that he had copious thick yellow
+secretions in his trachea, which were felt to be the culprit
+causing obstruction and hypercarbia/hypoxemia. With suctioning
+his breathing improved, and he was transferred to UPMCE for
+further work up. The patient remained awake the whole time. He
+was noted to have a temp of 100.4F this AM.
+.
+Upon arrival to the UPMCE ED, he appeared to be in no
+respiratory distress. His initial ABG was 7.34/67/315. He was
+found to be febrile to 100.4F, with HR 60s-70s, SBPs ranged
+60s-80s. His CXR was concerning to the ED staff for RUL/RLL
+processes (though appears to have only persistent LLL , and he
+was given CTX, Vanc, and Flagyl out of concern for nosocomial
+vs. aspiration pna. His urine was leuk esterase (+) on UA,
+culture pending. Blood cultures were also sent. He received 1L
+NS for hypotension, and subsequently his pressures were still
+low so he was started on a dopamine drip via a newly-placed RIJ
+(per report, sterile placement via ultrasound in the ER). He
+also had a 18G PIV placed, and has a PICC line from UPMCE Rehab
+that is of unclear age or indication (felt to be from prior need
+for IV abx). His ECG was notable for Q-wave in V1, ST elevations
+laterally, concerning for ischemia. TnT 0.10, CK 22, MB not
+done. Lact 0.6. He was given ASA 325mg PR. His wife confirmed
+that he is full code.
+
+Past Medical History:
+1. h/o aspiration PNA - Tx with levo, unasyn, vanco/zosyn in the
+past
+2. h/o aspiration s/p swallow eval with swallowing difficulty,
+s/p UPMCE placement on 2014-05-29 00:00:00
+3. Parkinson's
+4. Osteoporosis
+5. T11/12 compression fx
+6. LLE osteomyelelitis as a child/Chronic osteomyelitis,
+quiescent.
+7. granulomatous liver disease
+8. LUE rotator cuff tear
+9. Prostate cancer s/p orchiectomy in 2014-05-29 00:00:00
+10. s/p laminectomy L4-5
+11. Cataracts s/p surgery
+2014-05-29 00:00:00. Glaucoma
+13. Hypertension
+
+
+Social History:
+The patient has a sixty-pack-year history of tobacco. He quit in
+2014-05-29 00:00:00. He lives in a NH for the past 2 years. He is a retired
+history professor. He reports no alcohol intake.
+
+
+Family History:
+Non-contributory
+
+
+Physical Exam:
+PE:
+VS: T 97 HR 77 BP 124/96 RR 14 O2 100% on vent
+VENT: AC 550 x14 FIO2 of 50/PEEP 5
+GEN: sedated, intubated
+HEENT: NC/AT, MMM, ET tube in place
+NECK: supple, no LAD; RIJ presep cath in place without
+bleeding/hematoma
+LUNGS: coarse throughout, decreased BS at L base
+HEART: RR, with 3/6 systolic murmur at the LL-sternal border.
+ABDOMEN: +b/s, soft, Bieler, [**First Name3 (LF) **] in place without erythema or
+discharge
+EXTREMITIES: 1+ pitting edema bilat. Ext warm. PICC in R upper
+arm, PIV in R forearm
+
+
+Pertinent Results:
+Upon admission:
+
+2014-05-29 00:00:00
+
+5.3 >-------<205
+      30.5
+
+133 | 99 | 29 |
+---------------<134
+4.8 | 32 | 0.6|
+
+Lactate: 0.6
+
+Cardiac enzymes negative.
+
+Cultures:
+
+2014-05-29 00:00:00 1:36 am SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT 2014-05-29 00:00:00**
+
+   GRAM STAIN (Final 2014-05-29 00:00:00):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+
+   RESPIRATORY CULTURE (Final 2014-05-29 00:00:00):
+      RARE GROWTH OROPHARYNGEAL FLORA.
+      YEAST.    SPARSE GROWTH.
+
+2014-05-29 00:00:00 10:45 am URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT 2014-05-29 00:00:00**
+
+   URINE CULTURE (Final 2014-05-29 00:00:00):
+      YEAST.    10,000-100,000 ORGANISMS/ML..
+
+2014-05-29 00:00:00 Blood: Negative
+
+Studies:
+2014-05-29 00:00:00 10:22 EKG: NSR at 65 with freq PACs, LAD, normal
+intervals, Q in II/III/aVF, poor R-wave progression, 0.5mm ST
+elev in I,aVL,V1-V3, TWI in III. C/t prior ECG 2014-05-29 00:00:00, Q waves
+old, poor R-wave prog old, ST elev new.
+.
+2014-05-29 00:00:00 CXR:
+INDICATIONS:  24-year-old man with Parkinson's disease,
+pneumonia, and left effusion, intubated.
+CHEST, AP SUPINE:  Comparison is made to 2014-05-29 00:00:00.  The
+patient is now intubated.  The endotracheal tube terminates
+approximately 4 cm above the carina near the thoracic inlet.
+The lung volumes are low.  The cardiac and mediastinal contours
+are similar.  Markedly calcified subcarinal lymphadenopathy is
+again noted.  There is persistent left lower lobe opacity with
+an effusion, as well as a new mild congestive heart failure or
+pulmonary venous hypertension.
+IMPRESSION:
+1.  Status post endotracheal intubation.
+2.  Persistent left lower lobe opacity.
+3.  Mild congestive heart failure or fluid overload.
+.
+2014-05-29 00:00:00 AXR:
+Single supine AP: Part of the left hemipelvis is not included in
+the study. The study is also centered around the pelvis rather
+than including the whole abdomen. The visualized portion of the
+abdominal cavity demonstrate normal bowel gas pattern with stool
+noted within the ascending colon and sigmoid colon.  The bone
+and soft tissues structures are unremarkable.
+IMPRESSION:
+No acute abdominal pathology is identified. No evidence of
+obstruction or free intra-abdominal air is noted.
+.
+2014-05-29 00:00:00 CXR: Worsening right lower lobe opacity, suspicious for
+pneumonia.
+
+Brief Hospital Course:
+24 yo M with h/o aspiration PNA, swallowing difficulty,
+parkinsons, who p/w acute hypercarbic respiratory failure. 24
+followed by stress EKG negative for ischemia.  Patient extubated
+2014-05-29 00:00:00 and is planned to transition to UPMCE Rehab 2014-05-29 00:00:00.
+.
+1. Respiratory Failure: mixed hypercarbia and hypoxemia likely
+from mucus plugging in setting of poor reserve from underlying
+restrictive lung disease and LLL pna. He has a history of
+hypercarbia possibly due to neuromuscular weakness of
+respiratory muscles due to Parkinsons. CTA neg for PE.
+.
+During his stay the patient has an 8 day antibiotic treatment
+for nosocomial PNA with ceftaz and vancomycin as he was found to
+have gram positive cocci in pairs in his sputum.  He continued
+on his albuterol and ipratroprium nebulizers on nasal cannula. A
+neurology consult on 2014-05-29 00:00:00 suggested that the patient should
+see neuromuscular in follow up and a decision can be made at
+that time whether any further EMG studies are needed but no
+further eval at this time with regards to investigating a
+neuromuscular source of his hypercarbia.  In addition the
+patient had transient pulmonary edema that improved with lasix
+admiinstration.
+.
+While in house, the patient was given an overnight trial of
+BIPAP as the patient is chronically hypercarbic with weak
+respiratory muscles secondary to Parkinson's disease.  While he
+did not tolerate the procedure well we believe that he may
+benefit from a repeated trial when he is healthier 2-3 months
+discharge.
+.
+2. Parkinsons: The patient was continued on his home regimen of
+Parkisons medication including cabidopa/levidopa and mirapex
+while in house
+.
+3. Glaucoma: The patient was continued on his home regimen of
+drops.
+.
+4. Hypertension: Controlled with lisinopril 20 and lasix as
+needed.
+.
+5. Osteoporosis: Osteoporosis drugs were held during this
+admission.  The patient should be reevaulated for possibly
+re-starting an anti-osteoporosis regimen as an outpatient.
+.
+6. Chest pain:  The patient described chest pain but had a
+negative EKG.  It improved during his hospital stay and a
+spontaneous breathing trial followed by stress EKG to evaluate
+for ischemia was negative.
+
+Medications on Admission:
+-Insulin SS q6h prn
+-Ipratropium nebs q6h
+-Lisinopril 10mg qday
+-MVI qday
+-Hydrocodone-Acetaminophen 1 TAB PO Q6H:PRN
+-Senna 2 TAB PO QHS
+-Fexofenadine 60 mg PO BID
+-Fluticasone Propionate NASAL 1 SPRY NU UPMCE
+-Entacapone 200 mg Q 5Am, 8AM, 11Am, 2PM, 5PM, 8PM, 11PM
+-Pramipexole 0.125 mg Q 5AM, 8AM, 11AM, 2PM, 5PM, 8PM
+-Pramipexole 0.1875 mg @ 11PM qday
+-Carbidopa-Levodopa (25-100) 2 TAB PO Q5AM, 8AM, 11AM, 2PM, 5PM,
+8PM, 11PM
+-Docusate Sodium (Liquid) 100 mg PO BID
+-Omeperazole 20mg PO Q24H
+-Artificial Tears 1 DROP BOTH EYES TID
+-Chlorhexidine Gluconate 15 ml PO BID
+-Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS
+-Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES UPMCE
+-Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN
+-Calcium/Vit D 500mg UPMCE
+-Hep 5000 SQ TID
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution UPMCE: One (1)
+injection Injection TID (3 times a day).
+2. Hexavitamin     Tablet UPMCE: One (1) Cap PO DAILY (Daily).
+3. Carbidopa-Levodopa 25-100 mg Tablet UPMCE: Two (2) Tablet PO
+7X/D ().
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) UPMCE: One
+(1) Tablet, Delayed Release (E.C.) PO once a day. Tablet,
+Delayed Release (E.C.)(s)
+5. Latanoprost 0.005 % Drops UPMCE: One (1) Drop Ophthalmic HS (at
+bedtime).
+6. Polyvinyl Alcohol 1.4 % Drops UPMCE: 1-2 Drops Ophthalmic TID
+(3 times a day).
+7. Docusate Sodium 50 mg/5 mL Liquid UPMCE: 2014-05-29 00:00:00  PO BID (2 times a
+day).
+8. Lisinopril 20 mg Tablet 2014-05-29 00:00:00: One (1) Tablet PO DAILY (Daily).
+
+9. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution 2014-05-29 00:00:00: Two (2)
+nebs Inhalation Q4H (every 4 hours) as needed.
+10. Calcium Carbonate 500 mg Tablet, Chewable 2014-05-29 00:00:00: One (1)
+Tablet, Chewable PO BID (2 times a day).
+11. Cholecalciferol (Vitamin D3) 400 unit Tablet 2014-05-29 00:00:00: One (1)
+Tablet PO DAILY (Daily).
+12. Entacapone 200 mg Tablet 2014-05-29 00:00:00: One (1) Tablet PO 7x/day ().
+13. Ipratropium Bromide 0.02 % Solution 2014-05-29 00:00:00: Two (2) nebs
+Inhalation Q6H (every 6 hours).
+14. Lactulose 10 g/15 mL Syrup 2014-05-29 00:00:00: Thirty (30) ML PO Q8H (every
+8 hours) as needed for constipation.
+15. Aspirin 325 mg Tablet 2014-05-29 00:00:00: One (1) Tablet PO DAILY (Daily).
+
+16. Fluticasone 50 mcg/Actuation Aerosol, Spray 2014-05-29 00:00:00: One (1)
+Spray Nasal UPMCE (2 times a day).
+17. Pramipexole 0.125 mg Tablet UPMCE: One (1) Tablet PO six times
+per day ().
+18. Dorzolamide-Timolol 2-0.5 % Drops UPMCE: One (1) Drop
+Ophthalmic UPMCE (2 times a day).
+19. Senna 8.6 mg Tablet UPMCE: 1-2 Tablets PO BID (2 times a day).
+
+20. Fexofenadine 60 mg Tablet UPMCE: One (1) Tablet PO BID (2
+times a day).
+21. Pramipexole 0.125 mg Tablet UPMCE: 1.5 Tablets PO qday ().
+22. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) UPMCE: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Center
+
+Discharge Diagnosis:
+respiratory failure
+aspiration pneumonia
+parkinson's disease
+anemia
+chronic respiratory failure
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please take your medications as prescribed.  If you develop
+shortness of breath, fever, or any other concerning symptoms
+please contact a health care provider Giacomin Bieler.
+
+Followup Instructions:
+Provider: Giacomin Bieler Giacomin Bieler, MD Phone:test@mail.com Date/Time:2014-05-29 00:00:00
+2:30
+Provider: Giacomin Bieler, MD Phone:test@mail.com
+Date/Time:2014-05-29 00:00:00 9:30
+
+
+                             Giacomin Bieler MD, 9253
+
+Completed by:2014-05-29 00:00:00

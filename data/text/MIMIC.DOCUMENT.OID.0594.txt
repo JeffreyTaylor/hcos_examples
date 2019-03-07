@@ -1,0 +1,320 @@
+Admission Date:  2009-10-23 00:00:00              Discharge Date:   2009-10-23 00:00:00
+
+Date of Birth: 1931-12-14 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Adhesive Tape
+
+Attending:Coy Balsara
+Chief Complaint:
+Fever
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+73F with para123 Any St., recurrent UTI, chronic sacral decubs,
+presenting with fever and altered mental status. She was seen by
+her NP yesterday with fever to 102 and positive UA. Her sacral
+decub was noted to be improved since last exam. Cipro started
+for UTI. Also seen by her visiting nurse today and son reported
+that overnight she was confused, talking about getting up to
+walk (though para123 Any St.) and ?visual hallucinations. Per son,
+this is similar to when she has had UTIs in the past. She does
+admit to sore throat and cough for a few days. Cough
+nonproductive though feels she has something to cough up. No
+shortness of breath or chest pain. No GI symptoms. No known
+sick/flu contacts. Aldene Denson recalls incident in which she told
+her son she was going to get up and walk, and thought she was
+dreaming. Pt DNR/Aldene Denson Aldene Denson NP.
+
+In the ED, initial vs were: T98.4 77 115/60 18 92% on RA.
+Initially tried on 2 L O2 but O2 sats drifted to upper 80s, thus
+increased to 4L. Initially normotensive with subsequent BP down
+again to upper 80s despite 3 L NS. CXR with ?RLL process but
+officially read as no acute process. UA positive. Received vanco
+and levofloxacin. Debating MICU vs. floor admission but
+ultimately admitted to MICU given borderline BPs and O2 sats.
+
+Review of systems:
+(+) Per HPI
+(-) Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath. Denied chest pain or
+tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. Denied arthralgias or myalgias.
+
+
+Past Medical History:
+- Para123 Any St. 2009-10-23 00:00:00 Anterior Spinal Infarct (2009-10-23 00:00:00) - patient
+reports no sensation or motor function below T8.
+- Thoracic Aneurysm Repair (2009-10-23 00:00:00)
+- COPD (no PFTs in system; has been on home O2 in past though
+none recently)
+- HTN
+- Hyperlipidemia
+- GERD
+- Suprapubic Catheter Placement / UTIs on Ppx Bactrim
+- Fecal Incontinence
+- Depression
+- Atraumatic comminuted L intertrochanteric femur fracture
+- Chronic sacral decubitus ulcers with past bilateral ischial
+tuberosity osteomyelitis
+- History of MRSA bacteremia 2009-10-23 00:00:00 thought to be due to sacral
+decub abscess and osteomyelitis
+
+Social History:
+
+Lives with son (recently returned home from rehab in late
+2009-10-23 00:00:00) and has VNA. Smoked 2-3ppd x 40+ years, denies smoking
+in last few years. No alcohol or illicit drug use.
+
+
+Family History:
+Son has DM
+
+Physical Exam:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, PERRL 4->2, MM slightly dry, posterior
+oropharynx very difficult to fully visualize.
+Neck: supple, JVD to 4 cm ASA, no LAD
+Lungs: Few expiratory rhonchi, L>R. No crackles.
+CV: Distant heart sounds. Regular rate and rhythm, normal S1 +
+S2, no murmurs, rubs, gallops
+Abdomen: appears grossly distended, though unchanged per
+patient. Soft, non-tender, bowel sounds present, no rebound
+tenderness or guarding, no organomegaly. Suprapubic catheter
+site appears benign.
+Back: stage IV sacral decub, appears to be down to bone, approx
+4x4cm. No drainage or significant surrounding erythema, appears
+to have good granulation tissue.
+Ext: Slightly cool hands otherwise warm and well perfused, no
+clubbing, cyanosis. Trace UE and LE edema, equal bilaterally.
+Small pressure ulcers on bilateral heels.
+Neuro: Alert and appropriate. CN II-XII intact, UE strength and
+sensation preserved. LE sensation and movement absent. No
+sensation from abdomen inferiorly.
+
+
+Pertinent Results:
+WBC 6.6
+Hct 33.4 MCV 87
+Plts 306
+
+Na 140  K 3.3  Cl 107  HCO3 25  BUN 7  Cr 0.4  Gluc 144
+Ca 7.4  Mg 2.1  Phos 2.5
+ALT 39
+AST 34
+MB 2
+Trop 0.02
+BNP 556
+
+Lact 2.3
+UCx negative
+BCx negative x2
+
+CXR 2009-10-23 00:00:00: The patient is rotated for the examination. The
+lungs are clear without consolidation or edema. Again seen is
+massive dilation and ectasia of the thoracic aorta with a
+particular contour abnormality noted along the course of the
+descending thoracic aorta. The cardiac silhouette size is within
+normal limits. No definite effusion or pneumothorax is seen.
+Chronic bony deformity consistent likely with prior left
+thoracotomy is stable. Numerous surgical clips are noted over
+the mediastinum. IMPRESSION: No acute pulmonary process.
+Markedly dilated and ectatic aorta similar to prior studies but
+accentuated by rotation. There is a focal outpouching along the
+course of the descending thoracic aorta which may be
+superimposition of pulmonary vessels or true contour abnormality
+suggesting true or false aneurysm formation.
+Addendum: In retrospect, in comparison to multiple prior
+radiographs, the contour of the descending thoracic aorta is
+stable and is unlikely to represent an acute process.
+Additionally, there is subtle silhouetting of the right
+hemidiaphragm which may correspond to increased opacity noted on
+the lateral view. Atelectasis or an early infiltrate involving
+the right lower lobe cannot be entirely excluded.
+.
+EKG: NSR at 74, normal intervals, borderline LAD, poor RWP, no
+ST/T changes, overall minimally changed from prior.
+.
+2009-10-23 00:00:00 KUB: FINDINGS: Comparison is made to the prior CT scan
+and radiographs from 2009-10-23 00:00:00.
+Similar to the prior studies, there was again seen marked
+distention of
+several small bowel loops. There is also stool and air is seen
+throughout the colon.
+No free intraperitoneal air is seen on the decubitus
+radiographs. CT scan
+will be helpful for further evaluation of the area of
+obstruction. There is again noted a fracture deformity involving
+the left proximal femur at the intertrochanteric region which is
+unchanged since 2009-10-23 00:00:00.
+
+
+Brief Hospital Course:
+73F with para123 Any St., COPD, recurrent UTI, presenting with UTI,
+confusion, mild hypoxia and relative hypotension.
+
+# Hypotension. Pt was mildly low BP's with baseline 100-110's.
+Pt responded to IV fluids. Cardaic enzymes were neg. Likely 2009-10-23 00:00:00
+to UTI/urosepsis. Pt was given Denson stim test which responded
+appropriately.
+
+# Hypoxia. Pt was on home oxygen in past for COPD, though not
+currently. No evidence of PNA. Pt's O2 requirement was weaned,
+and pt was also given nebs.
+
+# Fever. Pt has fever to 101 at NP's office but was afebrile
+during hospital stay. Likely 2009-10-23 00:00:00 to UTI. Sacral decub appears
+well. Ortho consulted regarding possibility of osteo, however
+rec biopsy at a time when pt is off all antibiotics for at least
+5 days. Pt was initially started on Vanc/Zosyn/Cipro for
+complicated UTI, then eventually Denson down to PO Cefpodoxime
+for a total of 14 day course (last dose on 2009-10-23 00:00:00). Blood cx were
+neg and flu swab was neg. First urine cx had fecal contamination
+but subsequent one was neg.
+
+# UTI. Has had a number of FQ and 2nd-3rd genereation
+cephalosporin resistent organisms in the past. Also had history
+of enterococcus in the past. On Bactrim prophylaxis at home. Pt
+was thus initially started on Vanc/Zosyn/Cipro given
+hypotension, then transitioned to PO Cefpodoxime for a total of
+14d course (last day 2009-10-23 00:00:00). Pt improved clinically and remained
+afebrile.
+
+# Suprapubic catheter. Changed q month and needs to be changed.
+
+# Sacral decub. Stage IV, did not appear overtly infected. Was
+followed by wound care during hospital stay.
+
+# Abdominal distension. Patient's abdomen is chronically
+distended, but soft, no signs of an acute abdomen.  KUB on 2009-10-23 00:00:00
+showed marked distention of
+several small bowel loops, but similar to the prior studies.
+also, no free intraperitoneal air was seen. Patient reports this
+distension is no change from baseline. Pt did not have BMs for
+several days. Bowel regimen was then escalated, with pt having
+soft BMs by the day of discharge. If there is again a concern
+regarding distension, a repeat KUB can be performed to reassess.
+.
+# Para123 Any St.. Was stable, pt was continued home meds
+(tizanidine, baclofen, gabapentin, nortriptyline).
+.
+Pt was on a regular diet, on SC heparin for DVT ppx. Pt was
+DNR/DNI and contact was son Aldene Denson test@mail.com. It was
+originally though that perhps the pt could be discharged home
+with services, however Aldene Denson visiting RN emailed with concern
+regarding that option- felt the pt needed to be in UPMCE at least
+for some time until she imrpoves further clinically.
+
+
+Medications on Admission:
+Advair 250/50 UPMCE
+ASA 81 mg daily
+Alendronate 70 mg daily
+Baclofen 10 mg TID
+Bactrim DS UPMCE
+Colace 100 mg UPMCE
+gabapentin 900 mg TID
+miralax 17grams daily
+senna UPMCE
+nortriptyline 50 mg HS
+tizanidine 2 mg TID
+wellbutrin 100 mg UPMCE
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+4. Gabapentin 300 mg Capsule Sig: Three (3) Capsule PO Q8H
+(every 8 hours).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Nortriptyline 25 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+7. Tizanidine 2 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+8. Bupropion HCl 100 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO BID (2 times a day).
+9. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+10. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+11. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a day.
+
+12. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every
+12 hours): last dose on 2009-10-23 00:00:00 for total of 14d course of abx.
+
+13. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)
+PO DAILY (Daily).
+14. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+15. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+16. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q2H
+(every 2 hours) as needed for constipation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+UTI
+
+
+Discharge Condition:
+good, satting 96% on 2L
+
+
+Discharge Instructions:
+You were admitted to UPMCE because of fever altered mental
+status. You were found to have low BPs and were in the ICU,
+where you recovered with IV fluids.  You were found to have a
+urinary infection, for which you were started on antibiotics.
+You were also given an aggressive bowel regimen to help you pass
+your bowels. Your belly was distended, however soft, nontender
+and stable. You continued to improve clinically and you were
+then discharged to a skilled nursing facility where you can
+continue to improve under close care.
+
+Please make the following changes to your medications:
+1. START Ipratropium Bromide 0.02 % Solution One Inhalation
+every 6 hours
+2. START Albuterol Sulfate  0.083 % Solution One Inhalation
+every 6 hours
+3. START Lactulose 10 gram/15 mL Syrup 30 ML PO every 2 hours as
+needed for constipation
+4. START Bisacodyl 10 mg PO DAILY as needed for constipation
+5. START Cefpodoxime 200 mg PO every 12 hours: last dose on
+2009-10-23 00:00:00 for a total of 14d course of abx
+
+Please seek immediate medical attention if you start
+experiencing confusion, fevers, acute abdominal pain or any
+other concerning symptoms.
+
+Followup Instructions:
+Follow-up with Dr. Coy Balsara in Orthopedics on 2009-10-23 00:00:00 at 10:30
+AM at the 123 Any St.. Ph # (test@mail.com. A biopsy
+to rule out bone infection may be needed, but the biopsy can be
+performed only after all all antibiotics have been discontinued
+for more than 5 days, which should be the case at this date.
+
+A follow-up appointment with your PCP Denson. [**First Name8 (NamePattern2) 4260**] Denson at UPMCE
+123 Any St. will be made for you at the time of discharge from
+the skilled nursing facility.
+
+
+                             Aldene Denson Aldene Denson MD 5030
+
+Completed by:2009-10-23 00:00:00

@@ -1,0 +1,408 @@
+Admission Date:  2014-06-26 00:00:00              Discharge Date:   2014-06-26 00:00:00
+
+Date of Birth: 1922-08-04 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Dorys Lestenkof
+Chief Complaint:
+L sided CP, 2014-06-26 00:00:00 "dull," no pleuritic component, no radiation
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+Peritoneal dialysis
+
+
+History of Present Illness:
+68yoM with ESRD 2014-06-26 00:00:00 PCKD on PD, Prostate Ca p/w L sided CP, 2014-06-26 00:00:00
+"dull," no pleuritic component, no radiation. Went directly to
+cath lab from ED due to new STE anteriorly, ? AIVR, hypotension,
+evidence of cardiogenic shock. Found to have chronically
+occluded RCA 90% pLAD lesion and add'l diffuse disease and
+diseased LCx. Bare metal stent to LAD in lab.
+.
+Given ASA, plavix, BB, NTG; in ED bedside TTE with EF = approx
+15-20%
+.
+Pt with acute volume o/l couple months ago treated with
+increased PD per renal attg.
+
+
+Past Medical History:
+1. ESRD 2014-06-26 00:00:00 PCKD on PD
+2. Prostate Ca treated with neoadjuvant hormonal therapy
+followed by external beam radiation therapy
+3. Anemia of CD
+4. PVD with LE claudication (on plavix)
+5. ? GIB, guaiac + stools
+
+
+Social History:
++ tobacco hx, no EtOH. Lives with his wife.
+
+Family History:
+N/C
+
+Physical Exam:
+97.3 134/98 94 17 100% 4L
+PCWP 40 PAD 36 RA mean 19 CI 1.74 CO 3.38
+Gen: intubated, sedated
+HEENT: anicteric, MMM
+NECK: JVP > 10cm
+CV: RRR, no apprec m/r/g
+Chest: cta anteriorly
+Abd: soft, + BS
+Extr: warm, 2014-06-26 00:00:00+ DPs
+Neuro: sedated, responds to voice, easily arousable
+
+
+Pertinent Results:
+2014-06-26 00:00:00 09:06PM   GLUCOSE-130* UREA N-45* CREAT-12.7*
+SODIUM-135 POTASSIUM-5.4* CHLORIDE-99 TOTAL CO2-20* ANION
+GAP-21*
+2014-06-26 00:00:00 09:06PM   CK(CPK)-457*
+2014-06-26 00:00:00 09:06PM   CK-MB-70* MB INDX-15.3* cTropnT-2.17*
+2014-06-26 00:00:00 09:06PM   CALCIUM-8.1* PHOSPHATE-5.9* MAGNESIUM-1.8
+2014-06-26 00:00:00 09:06PM   WBC-7.4 RBC-3.93* HGB-11.6* HCT-34.9* MCV-89
+MCH-29.5 MCHC-33.2 RDW-20.5*
+2014-06-26 00:00:00 09:06PM   PLT COUNT-349
+2014-06-26 00:00:00 09:00PM   TYPE-MIX
+2014-06-26 00:00:00 09:00PM   TYPE-ART PO2-217* PCO2-34* PH-7.37 TOTAL
+CO2-20* BASE XS--4
+2014-06-26 00:00:00 09:00PM   LACTATE-2.2*
+2014-06-26 00:00:00 09:00PM   O2 SAT-61
+2014-06-26 00:00:00 09:00PM   HGB-11.6* calcHCT-35 O2 SAT-97
+2014-06-26 00:00:00 09:00PM   freeCa-1.07*
+2014-06-26 00:00:00 07:30PM   TYPE-ART TIDAL VOL-700 O2-100 PO2-239*
+PCO2-39 PH-7.33* TOTAL CO2-21 BASE XS--4 AADO2-442 REQ O2-75
+-ASSIST/CON INTUBATED-INTUBATED
+2014-06-26 00:00:00 06:11PM   GLUCOSE-118* UREA N-46* CREAT-13.3*
+SODIUM-140 POTASSIUM-4.1 CHLORIDE-98 TOTAL CO2-24 ANION GAP-22*
+2014-06-26 00:00:00 06:11PM   CK(CPK)-87
+2014-06-26 00:00:00 06:11PM   CK-MB-NotDone
+2014-06-26 00:00:00 06:11PM   cTropnT-0.24*
+2014-06-26 00:00:00 06:11PM   CALCIUM-9.3 PHOSPHATE-6.1* MAGNESIUM-1.9
+2014-06-26 00:00:00 06:11PM   WBC-6.7 RBC-4.38* HGB-12.9* HCT-39.4* MCV-90
+MCH-29.5 MCHC-32.8 RDW-20.7*
+2014-06-26 00:00:00 06:11PM   NEUTS-76.5* LYMPHS-17.1* MONOS-4.4 EOS-1.7
+BASOS-0.2
+2014-06-26 00:00:00 06:11PM   PLT COUNT-370
+2014-06-26 00:00:00 06:11PM   PT-12.3 PTT-22.5 INR(PT)-1.1
+.
+2014-06-26 00:00:00 labs: hct 34.2, wbc 7.7. plt 359
+Na 136, K 4.1, Cl 91, HCO3 28, BUN 52, Cr 10.5 Ca 8.9 Phos 4.7
+Mg 1.5
+Amylase 69, lipase 49
+2014-06-26 00:00:00: ALT 2, AST 9, Alk phos 81, LDH 258, Tbili 0.2
+Fe 38, Ferritin 123, TIBC 234
+TSH 7.3, FT4 1.0
+PSA 0.4
+PTH 210
+CKs peaked at 522(110), trop 6.86.
+.
+EKG#1: new Qs in v2-v4, 2mm STE v2-v4; ST depressions I, avL
+.
+EKG#2: ? slow VT, rate 80 (AIVR)
+.
+2014-06-26 00:00:00 CXR IMPRESSION: AP chest compared to 2014-06-26 00:00:00 and 22:
+Intraaortic balloon pump has been removed. Lung volumes remain
+low with persistent atelectasis at the right base, but
+insufficient abnormality in the lungs to explain respiratory
+failure. Moderate cardiomegaly and a generally large and
+tortuous thoracic aorta are unchanged in appearance. There is no
+pulmonary edema or ap123 Any St.ble pleural effusion. Tip of
+endotracheal tube is in standard placement at the thoracic
+inlet. No pneumothorax.
+.
+2014-06-26 00:00:00 CT head IMPRESSION: No intracranial hemorrhage
+.
+2014-06-26 00:00:00 Ct Abd Pelvis IMPRESSION:
+1. No evidence of intra-abdominal collection or large hematoma.
+2. Small amount of fluid and air and moderate amount of air in
+the abdomen likely related to the peritoneal dialysis.
+3. Multicystic kidneys. Some of the cysts are complex and not
+well evaluated in this non-contrast study. Some of the cysts are
+increased when compared to prior study. There is a new area of
+calcification in the left kidney. If indicated this cysts could
+be further evaluated with ultrasound or MRI.
+4. Gallstones.
+5. Severe coronary artery calcifications.
+.
+Cath report:
+COMMENTS:
+1. Selective coronary angiography showed a left dominant system.
+LMCA
+had a 20% origin stenosis. The LAD had a 90% origin stenosis
+involving
+also a D1 (90%). Rest of the LAD was diffusely diseased with
+60-70%
+sequential lesions. LCX had mild itraluminal irregularities with
+50% OM
+and 60% distal LCX disease. RCA was chronically occluded
+distally with
+R->L and R->R collaterals.
+2. Left ventriculography was deferred.
+3. Aortic root aortography showed markedly dilated aortic root.
+4. Hemodynamic assessment reaveled a depressed Cardiac Index
+1.7-1.9
+and PCWP of 35 (with large V-waves).
+5. The lesion in the proximal LAD was 123 Any St.ated with a 2.0 X
+09mm
+Maverick balloon and stented with a 2.5 X 12mm Minivision stent.
+The
+final angiogram showed TIMI III flow with no residual stenosis,
+6. Under fluoroscopic guidance, we then placed a 40cc intra
+aortic
+balloon pump just beyond the left subclavian origin. Successful
+diastolic augmentation of blood pressure was achieved.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Severe systolic ventricular dysfunction.
+3. Acute anterior myocardial infarction, managed by acute ptca
+and IABP.
+ PTCA of  vessel.
+4. Successful stenting of the proximal LAD lesion with a bare
+metal
+stent.
+5. Successful placement of a 40cc intra aortic balloon pump.
+.
+2014-06-26 00:00:00 TTE:
+Conclusions:
+The left atrium is normal in size. There is mild symmetric left
+ventricular hypertrophy with moderate cavity dilation and severe
+global hypokinesis. The basal inferior and inferolateral walls
+contract best with the more distal left ventricular segments
+near akinetic. There is an apical left ventricular aneurysm. No
+intraventricular thrombus is identified. Tissue velocity imaging
+E/e' is elevated (>15) suggesting increased left ventricular
+filling pressure (PCWP>18mmHg). Right ventricular chamber size
+and free wall motion are normal. The ascending aorta is
+moderately dilated. The aortic valve leaflets (3) are mildly
+thickened but with good leaflet excursion and no aortic
+regurgitation.
+There is no aortic valve stenosis. The mitral valve leaflets are
+mildly
+thickened. Mild to moderate (2014-06-26 00:00:00+) mitral regurgitation is seen.
+There is at least mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Compared with the findings of the prior report (images reviewed)
+of 2014-06-26 00:00:00, the left ventricular findings are new and c/w
+multivessel CAD. Mild-moderate mitral regurgitation and
+pulmonary artery systolic hypertension are now present.
+.........................................
+ABDOMEN (SUPINE & ERECT)  2014-06-26 00:00:00 6:15 PM
+
+ABDOMEN (SUPINE & ERECT)
+.
+COMPARISON: CT abdomen and pelvis 2014-06-26 00:00:00 and portable
+abdomen 2014-06-26 00:00:00.
+.
+ABDOMEN, UPRIGHT AND SUPINE: Only one of these radiographs
+includes the right hemidiaphragm. There are small ovoid-shaped
+collections of free intra- abdominal air layering above the
+liver and stomach. Large and small bowel are of normal caliber.
+There is no evidence of obstruction. Extensive stool is noted
+within the right colon. A peritoneal dialysis catheter coils
+over the left abdomen into the pelvis. Surrounding osseous and
+soft tissue structures are unchanged.
+.
+IMPRESSION: Small collections of free intra-abdominal air above
+the liver and stomach which is expected given presence of
+peritoneal dialysis catheter.
+
+
+Brief Hospital Course:
+Assessment: 68yo M with ESRD on PD, prostate Ca p/w ACS and
+severe 2VD presented with CP and taken to cath lab and found to
+have 2VD with stent to LAD and subsequent mental status changes
+that have steadily improved.
+.
+#. CV:
+a. Ilisha Panebianco Pt went directly to the cath lab on admission where
+he was found to have significant 2VD, s/p bare metal stent to
+proximal LAD.  Patient was s/p ACS with unclear culprit lesion,
+developed cardiogenic shock and was intubated in CCU for several
+days.  Per CT Dorys Lestenkof, was determined not to be a CABG candidate
+due to poor touchdowns and severe R sided lesions.  His course
+was complicated by a groin bleed (see below).  Continued ASA,
+Plavix and high dose statin, and titrated BB to Metoprolol XL
+200 mg PO DAILY. Due to known residual coronary lesions, Isordil
+10mg TID was initially added for better CP control, but was
+ultimately d/c'ed due to low BPs, with the addition of SL NTG
+prn for chest pain.  Was initially on Lisinopril 30 mg PO DAILY,
+which was also ultimately decreased to 10mg PO QD due to low BP.
+Beta blockade will be the most important factor in the medical
+management of his CAD, and should not be decreased if at all
+possible. He was discharged on Toprol XL 150 mg QD. He should
+have f/u with cardiology within the next 6-8 weeks, and see his
+PCP soon after discharge from rehabilitation facility.
+.
+b. Pump - cardiogenic shock, newly depressed EF.  He had
+significant volume o/l and LV dysfunction. An IABP was in place
+(1:1) with hep gtt after cath.  The balloon was subsequently
+removed and we titrated up inotropes/pressors to MAP > 60, CI >
+2
+A PCWP > 40 determined that he needed aggressive diuresis which
+he underwent via PD with renal service following.  Several
+liters of fluid were removed by PD and was maintained at
+relatively even volume exchanges for several days prior to
+discharge.
+.
+c. Rhythm- AIVR in ED, NSR since. QTc was monitored in setting
+of Haldol administration, and was consistently in normal range.
+.
+#. ESRD on PD x several years -- volume o/l by elev PCWP on
+admission, s/p fluid removal by PD for several days, now
+euvolemic on exam with even volume exchanges.  Renal following
+and maintaining even Is/Os.  He should continue with daily
+peritoneal dialysis. He should follow-up with his nephrologist
+Dr. Panebianco on discharge from rehab facility.
+.
+#. Groin hematoma- Pt had rapidly expanding groin hematoma of
+his right groin in setting of heparin s/p cath.  He was
+reintubated in setting of pain when he was uncontrollable and
+thrashing in bed.  Hematoma was tamponaded with a pressure
+dressing and external fixture and was controlled by the
+following day. He had a HCT drop in setting of bleed.
+Peripheral pulses were still dopplerable (baseline) throughout.
+This has now resolved, with persistent ecchymosis, but stable
+HCT x 5 days.
+.
+#. S/p intubation- done for agitation purposes at first in the
+cath lab.  He was successfully weaned by HD #3 but reintubated
+the next day s/p groin bleed and uncontrolled behavior,
+including trying to get out of bed and resisting pressure on his
+bleeding groin.  He was successfully weaned a second time and as
+his MS has improved, he has not required further intubation.
+.
+#. Acute MS changes: Pt has been agitated at times, generally in
+the setting of pain, and seemed to have no clear understanding
+of what was going on.  He has been on several sedatives and
+could have been experiencing medication effects s/p extubation.
+His mental status started to clear. He passed speech and
+swallow, now on regular renal/cardiac diet.  CT head 2014-06-26 00:00:00 ruled
+out bleed/new process but did show old lacunar infarct.
+Continued Haldol HS and PRN Haldol as needed, with input from
+psychiatry service.  His MS improved daily and was near baseline
+at time of discharge, with minimal need for Haldol. His Haldol
+was discontinued several days before discharge.  His mental
+status is approaching baseline, however, he still has some
+difficulty performing his own peritoneal dialysis.  He will need
+ongoing education in this process while at rehab.
+.
+#. Abdominal discomfort:  Developed on 2014-06-26 00:00:00.  There were initial
+concerns for peritoneal fluid infection in setting of ongoing
+PD, and dialysate was pink-tinged. Pain may have been due to
+hematoma from subcutaneous heparin, which was d/c'ed prior to
+d/c, as patient was ambulating well CT Abdomen ruled out bleed,
+or other pathology that could explain his symptoms.  Peritoneal
+fluid analysis from 2014-06-26 00:00:00 showed gram positive cocci in pairs,
+not yet speciated. His cell count from his peritoneal fluid was
+low, with a very low number of PMNS. He received vancomycin 2 gm
+IP x 1; he should have a second dose on 2014-06-26 00:00:00.  He had guaiac
+negative stool on day of discomfort. LFTs were normal, as were
+amylase and lipase. A plain film of the abdomen on 2014-06-26 00:00:00
+demonstrates a small amount of intra-abdominal free air, which
+is likely secondary to a PD cath that was uncapped for too long.
+Repeat analysis of peritoneal fluid showed on 33 WBC, 14% PMNs.
+Abdominal pain had significantly improved on day of discharge.
+.
+#. Guaiac + stools: Pt has documented history of this before and
+during this admission, but not for last several days.
+Outpatient colonoscopy should be arranged.  HCT remained stable.
+.
+#. Prostate Ca- Not acute issue while in-house. PSA 0.4. Has f/u
+appt with oncology.
+
+Medications on Admission:
+ASA 81mg daily
+Flomax
+Dorys Lestenkof
+Neurontin
+Labetalol 400mg Daily
+Iron
+Norvasc 10mg Daily
+CaC03
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours).
+5. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+6. E123 Any St. Alfa 10,000 unit/mL Solution Sig: 8000 (8000) Units
+Injection QMOWEFR (Monday -Wednesday-Friday).
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+8. Lanthanum 250 mg Tablet, Chewable Sig: Two (2) Tablet,
+Chewable PO TID (3 times a day).
+9. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed for pain.
+10. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN
+Peripheral IV - Inspect site every shift
+12. Dolasetron Mesylate 12.5 mg IV Q8H:PRN
+13. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: 1.5 Tablet Sustained Release 24HRs PO once a day.
+14. Vancomycin 1,000 mg Recon Soln Sig: Two (2) gm Intravenous
+once for 1 days: please administer vancomycin 2 gm x 1
+intraperitoneally on 2014-06-26 00:00:00.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Myocardial infarction
+Congestive heart failure
+End-stage renal disease
+
+
+Discharge Condition:
+Stable, cardiac medication regimen optimized.
+
+
+Discharge Instructions:
+You had a blockage in your coronary artery with evidence of
+damage to your heart; the blockage was stented. You also had a
+bleed from the cateterization site, as well as some
+post-operative confusion that has been improving. Your heart
+medicines were optimized prior to discharge.
+*
+Your fluid status should be kept even with peritoneal dialysis.
+*
+Call your doctor or return to the emergency room if you develop
+cehst pain, shortness of breath, nausea/vomting, you are unable
+to continue with your peritoneal dialysis or you develop any
+other symptoms that are concerning to you.
+
+Followup Instructions:
+Provider: Ilisha Panebianco, MD Phone:test@mail.com
+Date/Time:2014-06-26 00:00:00 11:00
+.
+You should follow with Dr. Panebianco soon after being discharged
+from the rehabilitation center. You can call test@mail.com for an
+appointment.
+.
+You have an appointment with Dr. Dorys Lestenkof on 2014-06-26 00:00:00 at 3pm on
+the 123 Any St. of the UPMCE building.
+.
+You should also follow-up with your nephrologist Dr. Panebianco
+after you are discharged from your rehab program.
+
+
+

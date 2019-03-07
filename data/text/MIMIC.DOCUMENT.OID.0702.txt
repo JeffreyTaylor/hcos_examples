@@ -1,0 +1,282 @@
+Admission Date:  2012-04-17 00:00:00              Discharge Date:   2012-04-17 00:00:00
+
+Date of Birth: 1954-04-04 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Keflex
+
+Attending:Janeliz Banigan
+Chief Complaint:
+aortic stenosis
+
+Major Surgical or Invasive Procedure:
+2012-04-17 00:00:00
+Aortic Valve Replacement (23mm St. Airalyn Naylor Epic Supra Porcine)
+
+left heart catheterization, coronary angiogram
+right leg anterior compartment fasciotomy 2012-04-17 00:00:00
+closure faciotomy 2012-04-17 00:00:00
+
+
+History of Present Illness:
+This 65 year old gentleman has a history of a bicuspid aortic
+valve,
+associated aortic stenosis and history of past aortic valve
+endocarditis. From a cardiac perspective, he reports feeling
+well. He shortness of breath, palpitations, dizziness,
+lightheadedness, PND, orthopnea or lower extremity edema. He
+does note some mild left chest heaviness with exertion.
+Although he does not do any regular exercise, his activities of
+daily living are without limitations. His most recent
+echocardiogram early this 2012-04-17 00:00:00 showed severe aortic stenosis
+with increased gradients and mild left ventricular hypertrophy.
+Given the severity and progression of his disease, he has been
+referred to Dr. Janeliz Banigan for surgical management.
+
+
+Past Medical History:
+Aortic Stenosis
+Bicuspid Aortic Valve
+History of Endocarditis
+HIV Positive(CD4 576, VL 104 - 2012-04-17 00:00:00)
+Chronic Hepatitis C - s/p Interferon treatment
+Hepatitis A & B
+Dyslipidemia
+Hypertension
+Cervical Radiculopathy
+Peripheral Neuropathy
+History of Shingles
+History of Anemia
+History of Iritis
+History of Colonic Polyps
+- s/p Excision of left arm lipoma 2012-04-17 00:00:00
+- s/p I and D of left arm abscess 2012-04-17 00:00:00
+
+
+Social History:
+Lives with: Husband
+Contact:                      Phone #
+Occupation: Works as a pharmacy technician
+Cigarettes: Smoked no [X] yes [] last cigarette _____ Hx:
+Other Tobacco use:
+ETOH: < 1 drink/week [X]  2012-04-17 00:00:00 drinks/week [] >8 drinks/week []
+Illicit drug use: Occassional marijuana use.
+
+
+Family History:
+Mother: Died of Cancer (unknown type)
+
+Physical Exam:
+Pulse: 64 SR  Resp: 16  O2 sat: 99%
+B/P  Right: 128/74   Left: 124/76
+Height: 66"    Weight: 130lb
+
+General: Thin, cachetic male in NAD
+Skin: Warm, Dry, 2012-04-17 00:00:00.
+HEENT: NCAT, PERRLA, EOMI, Sclera anicteric, OP benign. Teeth in
+good repair.
+Neck:  Supple [X] Full ROM [X] No JVD
+Chest: Lungs clear bilaterally [X]
+Heart: RRR, III/VI SEM
+Abdomen: Soft [X] non-distended [X] non-tender [X]  bowel sounds
++ [X]
+Extremities: Warm [X], well-perfused [X] No Edema
+Varicosities: None [X] Vein is suitable however very superfical
+along entire GSV tract
+Neuro: Grossly 2012-04-17 00:00:00 [X]
+Pulses:
+Femoral      Right:2   Left:2
+DP           Right:2   Left:2
+PT           Airalyn Naylor:2   Left:2
+Radial       Right:2   Left:2
+
+Carotid Bruit -      Likely transmitted murmur bilaterally
+
+
+Pertinent Results:
+2012-04-17 00:00:00 Intra-op TEE:
+Conclusions
+Pre-CPB:
+No spontaneous echo contrast is seen in the left atrial
+appendage.
+Overall left ventricular systolic function is low normal (LVEF
+50-55%). with mild global free wall hypokinesis. There are
+simple atheroma in the descending thoracic 2012-04-17 00:00:00.
+The aortic valve is bicuspid. There is moderate aortic valve
+stenosis (valve area 1.0-1.2cm2). Mild (1+) aortic regurgitation
+is seen.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen.
+There is no pericardial effusion.
+
+Post-CPB:
+There is a prosthetic tissue valve in the aortic position with
+no AI and no leak. Residual mean gradient = 15 mmHg.
+Trace MR. Airalyn Naylor.
+Preserved biventricular systolic fxn.
+
+2012-04-17 00:00:00 09:00AM BLOOD WBC-5.8 RBC-4.02* Hgb-14.2 Hct-37.8*
+MCV-94 MCH-35.2* MCHC-37.5* RDW-14.5 Plt Ct-157
+2012-04-17 00:00:00 09:00AM BLOOD Glucose-197* UreaN-12 Creat-0.9 Na-135
+K-3.6 Cl-99 HCO3-24 AnGap-16
+2012-04-17 00:00:00 09:00AM BLOOD %HbA1c-6.2* eAG-131*
+2012-04-17 00:00:00 12:34AM BLOOD WBC-9.3 RBC-3.21* Hgb-10.8* Hct-32.0*
+MCV-100* MCH-33.6* MCHC-33.7 RDW-15.8* Plt Ct-285
+2012-04-17 00:00:00 12:29AM BLOOD WBC-17.3*# RBC-2.96* Hgb-10.6* Hct-27.8*
+MCV-94 MCH-35.6* MCHC-38.0* RDW-14.9 Plt Ct-118*
+2012-04-17 00:00:00 12:34AM BLOOD Glucose-106* UreaN-18 Creat-0.7 Na-133
+K-4.5 Cl-99 HCO3-26 AnGap-13
+
+Brief Hospital Course:
+The patient was brought to the Operating Room on 2012-04-17 00:00:00 where
+he underwent Aortic Valve Replacement with Dr. Janeliz Banigan. Overall
+the patient tolerated the procedure well and post-operatively
+was transferred to the CVICU in stable condition for recovery
+and invasive monitoring.
+POD 1 found the patient extubated, alert and oriented and
+breathing comfortably.  The patient was neurologically Naylor
+and hemodynamically stable, weaned from inotropic and
+vasopressor support.  Beta blocker was initiated and the patient
+was gently diuresed toward the preoperative weight.  He
+developed a lactic acidosis with lactate peaking at 7.8.  The
+patient remained asymptomatic and lactate trended to normal.  It
+is attributed to anti-retroviral therapy.  The situation was
+discussed with the patient's PCP, Naylor. Naylor.
+
+The patient was transferred to the telemetry floor for further
+recovery.  Chest tubes and pacing wires were discontinued
+without complication.  The patient was evaluated by the Physical
+Therapy service for assistance with strength and mobility.
+on 2012-04-17 00:00:00 he was noted to have some erythema and possible bruising
+of the right anterolateral calf.  There was no edema,swelling or
+sensorymotor deficit. The patient stated this was present since
+the day after his catheterization and he had banged his leg
+against the side rail of the bed.  This was observed over
+several days and on 2012-04-17 00:00:00 he had elebated compartment pressures
+and was taken by Orthopedics to the Operating Room for anterior
+compartment fasciotomy.
+
+The wound remained clean and on 2012-04-17 00:00:00 he returned to the
+operating Room for closure. This was accomplished uneventfully.
+
+By the time of discharge on POD 12 the patient was ambulating
+with the splint in place and a walker, the wound was healing and
+pain was controlled with oral analgesics.  The patient was
+discharged home in good condition with appropriate follow up
+instructions.
+
+Medications on Admission:
+Dexamethasone 5ml Swish/Expectorate TID
+Fluocinonide 0.05% Topical Ointment UPMCE
+Lamivudine 150mg PO BID
+Toprol XL 25mg PO Daily
+Nevirapine 200mg PO BID
+Spironolactone/HCTZ 25/25mg PO Daily
+Stavudine 20mg po twice daily
+Triamcinolone 0.025% UPMCE
+Amoxicillin PRN dental prophylaxis
+
+
+Discharge Medications:
+1. stavudine 20 mg Capsule Sig: One (1) Capsule PO Q12H (every
+12 hours).
+2. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for fever, pain.
+3. hydromorphone 2 mg Tablet Sig: 1-3 Tablets PO Q3H (every 3
+hours) as needed for pain for 4 weeks.
+Disp:*50 Tablet(s)* Refills:*0*
+4. nevirapine 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+5. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+6. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. dexamethasone 0.5 mg/5 mL Elixir Sig: Five (5) ML PO TID (3
+times a day) as needed for thrush.
+8. fluocinonide 0.05 % Ointment Sig: One (1) Appl Topical UPMCE (2
+times a day) as needed for eczema.
+9. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+10. lamivudine 150 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+11. metoprolol tartrate 100 mg Tablet Sig: One (1) Tablet PO
+three times a day.
+Disp:*90 Tablet(s)* Refills:*2*
+12. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Aortic Stenosis
+s/p aortic valve replacement
+right lower leg compartment syndrome
+s/p right leg fasciotomies and closure
+Bicuspid Aortic Valve
+h/o Endocarditis
+HIV Positive(CD4 576, VL 104 - 2012-04-17 00:00:00)
+Chronic Hepatitis C - s/p Interferon treatment
+Hepatitis A & B
+Dyslipidemia
+Hypertension
+Cervical Radiculopathy
+Peripheral Neuropathy
+h/o Shingles
+h/o Iritis
+s/p Excision of left arm lipoma 2012-04-17 00:00:00
+s/p I D of left arm abscess 2012-04-17 00:00:00
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+
+Edema:trace
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Surgeon:Dr.Naylor(test@mail.com) on 2012-04-17 00:00:00 at 1:30pm in the
+UPMCE Naylor UPMCE
+
+Cardiologist: Dr.Naylor on 2012-04-17 00:00:00 at 10am(UPMCE 7) UPMCE UPMCE Clinical Center
+Orthopedics:Airalyn Naylor(orthopedics) [**Numeric Identifier 5171**] in 2
+weeks- please call to arrange
+Please call to schedule appointments with:
+Primary Care: Dr.Airalyn Naylor(test@mail.com) in 2012-04-17 00:00:00 weeks
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:2012-04-17 00:00:00

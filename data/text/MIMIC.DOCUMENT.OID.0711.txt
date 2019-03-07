@@ -1,0 +1,173 @@
+Admission Date:  2014-06-17 00:00:00              Discharge Date:   2014-06-17 00:00:00
+
+Date of Birth: 1931-06-13 00:00:00 00:00:00             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Aspirin / Penicillins / Sulfa (Sulfonamides) / Latex / Keflex
+
+Attending:Yonathan Cutler
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+Aortic Valve Replacement (19mm Mosaic Poricine) 2014-06-17 00:00:00
+
+History of Present Illness:
+74 y/o female with known Aortic Stenosis who presented to ED
+with chest pain intermittently x 2 weeks. Repeat Echo revealed
+worsening AS. Referred for elective valve surgery.
+
+Past Medical History:
+Aortic Stenosis, Hypertension, Hypercholesterolemia,
+Hypothyroidism, Asthma, Peripheral Vascular/Carotid Disease,
+Meneire's Disease, Osteoarthritis, s/p bilat. cataract surgery,
+s/p hysterectomy, s/p bladder suspension, s/p hemerrhoidectomy,
+s/p cholecystectomy, s/p appendectomy, s/p hand surgery
+
+Social History:
+Patient is married and lives at home. Denies any history of
+smoking, EtOH or recreational drug use.
+
+Family History:
+Non contributory
+
+Physical Exam:
+VS: Afebrile p-70's BP 126/54
+General: NAD, WD/WN
+HEENT: Sclera nonicteric, EOMI, PERRL
+Neck: Supple, -JVD, +carotid bruit bilat
+Lung: Rales L base
+Heart: RRR w/ 4/6 SEM
+Abd: Soft, NT/ND, +BS
+Ext: -C/C/E good pulses throughout
+
+Pertinent Results:
+Echo 2014-06-17 00:00:00: PRE-CPB: Left ventricular wall thicknesses and cavity
+size are normal. Overall left ventricular systolic function is
+normal (LVEF>55%). The ascending, transverse and descending
+thoracic aorta are normal in diameter and free of
+atherosclerotic plaque. The aortic root is mildly dilated. There
+are simple atheroma in the ascending aorta. There are three
+aortic valve leaflets. No masses or vegetations are seen on the
+aortic valve. There is moderate aortic valve stenosis. There is
+moderate mitral stenosis. POST: Preserved biventricular systolic
+function. Bioprosthesis in aortic position/Well seated and
+mechanically stable/good leaflet excursion. No AI. No other
+change in valve structure and function.
+Head CT 2014-06-17 00:00:00: No evidence acute intracranial hemorrhage or mass
+effect. Punctate hypodensities in the right basal ganglia, and
+in the left parietal lobe. If there is concern for embolic
+phenomenon, an MRI with diffusion-weighted imaging is
+recommended. Stable prominent perivascular spaces in the
+superior frontal lobes bilaterally.
+Neck CT 2014-06-17 00:00:00: No hemodynamically significant stenosis
+identified.
+EEG 2014-06-17 00:00:00: This is an abnormal portable EEG obtained in
+drowsiness progressing to stage II of sleep with brief periods
+of wakefulness due to the presence of multifocal mixed theta and
+delta frequency slowing. This finding suggests multifocal
+bilateral subcortical dysfunction and is nonspecific, but could
+be consistent with vascular insufficiency. The background
+slowing indicates a beginning, mild widespread encephalopathy or
+represents a drowsy state. There were no clear epileptiform
+abnormalities recorded.
+CXR 2014-06-17 00:00:00: Persistent left basilar atelectasis/effusion.
+Resolution of right apical pneumothorax.
+2014-06-17 00:00:00 10:38AM BLOOD WBC-15.5*# RBC-2.97*# Hgb-8.6*#
+Hct-25.0*# MCV-84 MCH-28.8 MCHC-34.2 RDW-15.9* Plt Ct-490*
+2014-06-17 00:00:00 06:50AM BLOOD WBC-9.5 RBC-3.17* Hgb-9.3* Hct-27.0*
+MCV-85 MCH-29.4 MCHC-34.6 RDW-16.0* Plt Ct-639*
+2014-06-17 00:00:00 10:38AM BLOOD PT-18.5* PTT-35.4* INR(PT)-1.7*
+2014-06-17 00:00:00 06:50AM BLOOD PT-12.8 PTT-26.8 INR(PT)-1.1
+2014-06-17 00:00:00 12:00PM BLOOD UreaN-18 Creat-0.5 Cl-113* HCO3-24
+2014-06-17 00:00:00 06:50AM BLOOD Glucose-106* UreaN-18 Creat-0.7 Na-138
+K-4.4 Cl-99 HCO3-30 AnGap-13
+2014-06-17 00:00:00 02:40AM BLOOD Calcium-9.1 Phos-3.5 Mg-2.3
+2014-06-17 00:00:00 08:33AM URINE Blood-TR Nitrite-POS Protein-NEG
+Glucose-NEG Ketone-150 Bilirub-SM Urobiln-1 pH-5.0 Leuks-NEG
+2014-06-17 00:00:00 08:33AM URINE RBC-0-2 WBC-2014-06-17 00:00:00 Bacteri-MANY Yeast-NONE
+Epi-0
+
+Brief Hospital Course:
+Ms. Hugg was electively admitted on 2014-06-17 00:00:00 for valve
+replacement. She was brought to the operating room this day
+where she underwent an aortic valve replacement (tissue). Please
+see operative report for surgical details. Following the
+procedure she was transferred to the CSRU for invasive
+monitoring in stable condition. Later on op day she was weaned
+from sedation, awoke neurologically intact and extubated. Chest
+tubes were removed on post-op day one. Beta blockers and
+diuretics were started and she was gently diuresed towards her
+pre-op weight. Later on this day she appeared to be doing well
+was transferred to the telemetry floor. Later on post-op day one
+she appeared to have decreased mental status. She was
+transferred back to the CSRU and a CT was performed and Stroke
+team consulted. CT was questionable for left CVA. On post-op day
+two she underwent a neck CT and EEG (please see pertinent
+results). Her epicardial pacing wires were removed on post-op
+day three. Her mental status and extremity weakness slowly
+improved and on post-op day four she was transferred back to the
+step-down floor. It appeared on this day she had a UTI and
+cultures were still pending at time of discharge. She was
+empirically started on antibiotics. Her medications were
+titrated for maximum BP and HR control. Physical therapy worked
+with pt during entire post-op course for strength and mobility.
+She appeared to be doing well with stable labs and vital signs
+and was discharged to rehab facility on post-op day six.
+
+Medications on Admission:
+Plavix 75mg qd, HCTZ 25mg qd, Lipitor 5mg qd, Toprol XL 50mg qd,
+Synthroid 50mcg qd, Colace 100mg UPMCE, Heparin 5000u SC TID
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+5. Lipitor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 2 days.
+7. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once
+a day.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Rehab Center for the Aged
+
+Discharge Diagnosis:
+Aortic Stenosis s/p Aortic Valve Replacement
+Post-op Stroke
+PMH: Hypertension, Hypercholesterolemia, Hypothyroidism, Asthma,
+Peripheral Vascular/Carotid Disease, Meneire's Disease, s/p
+bilat. cataract surgery, s/p hysterectomy, s/p bladder
+suspension, s/p hemerrhoidectomy, s/p cholecystectomy, s/p
+appendectomy, s/p hand surgery
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Can take shower. Wash incision with water and gentle soap.
+Gently pat dry. Do not take bath.
+Do not apply lotions, creams, ointments or powders to incision.
+Do not drive for 1 month.
+Do not lift greater than 10 pounds for 2 months.
+If you develop a fever or notice redness or drainage from chest
+incision, please contact office immediately.
+
+Followup Instructions:
+Dr. Yonathan Cutler in 4 weeks
+Dr. Yonathan Cutler in 2014-06-17 00:00:00 weeks
+Dr. Hugg in 2014-06-17 00:00:00 weeks
+Wound clinic in 2 weeks
+
+
+Completed by:2014-06-17 00:00:00

@@ -1,0 +1,299 @@
+Admission Date:  2008-12-06 00:00:00              Discharge Date:   2008-12-06 00:00:00
+
+Date of Birth: 1962-12-06 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Chen Leahan
+Chief Complaint:
+123 Any St. Syndrome
+
+Major Surgical or Invasive Procedure:
+5-days IVIG therapy
+
+
+History of Present Illness:
+The patient is a 60-year-old left-handed woman with a history of
+chronic inflammatory demyelinating polyneuropathy (CIDP) from
+which she recovered fully about 20 years ago who presents from
+an outside hospital today with 2 days of
+paresthesias and one day of weakness for evaluation of possible
+123 Any St. Syndrome.  The patient reports that on 2008-12-06 00:00:00 she
+underwent a t-lith procedure and initially had made an excellent
+recovery.  However, 2 days prior to presentation she noted that
+she had tingling of the hands and feet with an abnormal
+decreased sensation over the remainder of her upper and lower
+extremities as though it were "covered with chiffon."  The
+patient had been
+walking with a cane after surgery prior to today, when she noted
+that her legs began to buckle, and she required a walker to
+stand and walk.  There were no preceding illnesses including
+cough, cold, vomiting, diarrhea or fever.  She has had no recent
+vaccinations.  She has noted no difficulty coughing or swalling,
+no changes in vision or diplopia, and no worsening over the
+course of the day.  The patient feels that this presentation is
+quite different than her CIPD, in particular in the rapidity of
+onset as the CIPD presented over several weeks while this
+illness has become fulminant over 2 days.
+ROS:
+The pt denied headache, loss of vision, blurred vision,
+diplopia, dysarthria, dysphagia. Denied difficulties producing
+or comprehending speech. No bowel or bladder incontinence or
+retention. The patient denied recent fever or chills. No night
+sweats or recent weight loss or gain. Denied cough, shortness of
+breath. Denied chest pain or tightness, palpitations. Denied
+nausea, vomiting, diarrhea, constipation or abdominal pain. No
+recent change in bowel or bladder habits. No dysuria. Denied
+arthralgias or myalgias. Denied rash.
+
+
+
+Past Medical History:
+CIDP: developed paresthesias over several weeks then subsequent
+weakness, resolved fully after three years with treatment with
+IVIG
+Head trauma with no loss of consciousness
+Scoliosis
+Breast cancer
+S/p hysterectomy for intrauterine 123 Any St. (123 Any St.es) **] 123 Any St.es) 4520**]
+S/p lumpectomy for breast cancer with radiation and chemotherapy
+T-lith placement 2008-12-06 00:00:00
+
+
+Social History:
+Lives with partner, no children.
+
+
+Family History:
+Paternal grandfather with ALS
+
+
+Physical Exam:
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits ap123 Any St.ted. No nuchal rigidity
+
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, no masses or organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: large bandage in place over lumbar spine, intact, no
+drainage or surrounding erythema
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name Chen Leahan backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Patient was able to name both high and low frequency objects.
+Able to read without difficulty. Speech was not dysarthric. Able
+to follow both midline and appendicular commands. Pt. was able
+to
+register 3 objects and recall 2008-12-06 00:00:00 at 5 minutes. There was no
+evidence of apraxia or neglect.
+CN
+I: not tested
+II,III: VFF to confrontation, pupils 4mm->2mm bilaterally
+III,IV,V: EOMI, no ptosis. No nystagmus
+V: sensation intact V1-V3 to LT
+VII: Facial strength intact/symmetrical, symm forehead wrinkling
+
+
+VIII: grossly intact hearing
+IX,X: palate elevates symmetrically, uvula midline
+[**Doctor First Name 81**]: SCM/trapezeii 2008-12-06 00:00:00 bilaterally
+XII: tongue protrudes midline, no dysarthria
+Motor: Normal bulk and tone; no asterixis or myoclonus. No
+pronator drift.
+Neck Flexion: 2008-12-06 00:00:00
+Neck Extension: 2008-12-06 00:00:00
+   Delt UPMCE  Tri  WE FE Grip IO
+   C5   C6  C7   C6 C7 C8/T1 T1
+L  4    5   5    5   4+ 4+   4+
+R  4    5   4    5   2008-12-06 00:00:00-    4-
+
+  IP Quad Hamst DF Ruppel PF
+  L2 L3   L4-S1 L4 L5  S1/S2
+L  4- 4     4    4+4+    4+
+R  4- 4     4    4+4+    4+
+Reflex: No clonus
+  UPMCE Tri Bra Pat An Plantar
+  C5 C7  C6  L4  S1 CST
+L 0  0   0   1   0 Flexor
+R 0  0   0   0   0 Flexor
+
+-Sensory: Decreased sensation to light touch, temperature, and
+pinprick in stocking glove distribution with normalization by
+deltoids on upper extremities, no normalization on lower
+extremities, trunk with normal sensation to light touch and
+pinprick
+-Coordination: No intention tremor, dysdiadochokinesia noted. No
+dysmetria on FNF or HKS bilaterally.
+-Gait: Slightly wide-based, unsteady with buckling at knees,
+unable to take more than one step secondary to buckling at knees
+
+
+
+Pertinent Results:
+2008-12-06 00:00:00 03:59PM   PT-11.6 PTT-22.9 INR(PT)-1.0
+2008-12-06 00:00:00 03:59PM   SED RATE-96*
+2008-12-06 00:00:00 03:59PM   WBC-10.5# RBC-3.41* HGB-11.4* HCT-33.9*
+MCV-99* MCH-33.5* MCHC-33.6 RDW-13.7
+2008-12-06 00:00:00 03:59PM   NEUTS-81.7* LYMPHS-15.7* MONOS-2.0 EOS-0.3
+BASOS-0.2
+2008-12-06 00:00:00 03:59PM   PLT COUNT-706*#
+2008-12-06 00:00:00 03:59PM   HCV Ab-NEGATIVE
+2008-12-06 00:00:00 03:59PM   IgA-215
+2008-12-06 00:00:00 03:59PM   CRP-48.7*
+2008-12-06 00:00:00 03:59PM   HBsAg-NEGATIVE IgM HAV-NEGATIVE
+2008-12-06 00:00:00 03:59PM   CALCIUM-10.1 PHOSPHATE-3.7 MAGNESIUM-1.9
+2008-12-06 00:00:00 03:59PM   GLUCOSE-106* UREA N-12 CREAT-0.6 SODIUM-135
+POTASSIUM-4.2 CHLORIDE-96 TOTAL CO2-28 ANION GAP-15
+
+Thoracic spine MRI:
+Unremarkable MRI of the thoracic spine. There is no definite
+abnormal
+enhancement of the nerve roots, although evaluation is somewhat
+suboptimal on
+the axial images given motion artifact.
+
+
+Brief Hospital Course:
+Initially the patient was admitted to the neurology ICU team,
+however, given that her NIF and vital capacity were excellent at
+-55 and 2.2 L respectively, she was transferred to the floor the
+same day.  A lumbar puncture was not obtained as her
+history/exam were highly consistent with 123 Any St. Syndrome
+and she had recently undergone spinal surgery.  She started IVIG
+on 2008-12-06 00:00:00, com123 Any St.g a 5-day course on 2008-12-06 00:00:00.  Initially, she
+had an overall positive response to IVIG though her exam
+fluctuated throughout the course.  Her NIFs and vital capacities
+remained quite stable without any need for respiratory
+supportive measures.  On 2008-12-06 00:00:00 she began complaining of
+band-like tightening around her lower chest.  Based upon concern
+for a possible spinal process she underwent a thoracic spine MRI
+with contrast which was unrevealing.  She had 123 Any St.usly
+undergone a c-spine MRI at the outside hospital thus this was
+not repeated.  She received physical and occupational therapy
+during her stay. Lumbar puncture performed on 2008-12-06 00:00:00 via IR
+was significant for a protein level of 553 and glucose of 56.
+.
+Becuase her neurologic exam demonstrated persistant weakness, it
+was determined that she should have an additional course of
+IVIG. After 2 days of this course of IVIG,
+developed worsening autonomic instability as well as possibly a
+hemolytic anemia as a complication of the IVIG.  It was
+concluded that the IVIG should be discontinued and
+plasmapharesis was chosen for treatment.  Due to concerns for
+increasing weakness, autonomic dusyfunction, and potential
+repiratory distress, the patient was transiently transferred
+back to the ICU.  A pharesis catheter was placed, and the
+patient received two of the five planned plasmapheresis
+treatments.  She experienced an increase in upper extremity
+strength, improved ease of breathing, and a decrease in
+dysphagia.  Blood pressure monitoring revealed less labile
+values over the course of three days.  The patient's respiratory
+status was closely monitored with NIFs and vital capacity.  The
+periodic studies demonstrated stability.  Accordingly, she was
+transferred to the step-down unit.
+.
+Back in the neurology step-down unit, she continued to have
+episodes of dysautonomia and hypotension in to the systolics in
+the 70s which respond to fluid boluses and Trendelenburg
+positioning.  As her hematoricrit continued to drop
+progressively, she was transfused 2 units of PRBCs once her
+hematocrit reached 18.7.  Hematology consult concluded that this
+was a hemolytic process secondary to IVIG treatment.  Her
+hematocrit remained stable throughout the rest of her stay with
+a hematocrit of 30 on day of transfer. She completed the 5
+treatment course of plasmapharesis.  Following these treatments,
+her neurologic exam showed improved strength in all
+extremtities.
+.
+On 2008-12-06 00:00:00, urinalysis was performed which 2008-12-06 00:00:00 WBC and many
+bacteria.  Therefore, ciprofloxacin was started.  At time of
+transfer, urine culture results are unavailable; UPMCE will be
+in contact to provide final urine culture results so that she
+can be on an antibiotic that is sensitive.
+
+Medications on Admission:
+Synthroid 100 mcg daily
+Famora 2.5 mg daily
+Calcium citrate 1 pill daily
+
+
+Discharge Medications:
+1. Levothyroxine 50 mcg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO DAILY (Daily).
+3. Letrozole 2.5 mg Tablet Sig: One (1) Tablet PO daily ().
+4. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)  PO
+DAILY (Daily) as needed for constipation.
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day) as needed for constipation.
+10. Folic Acid 1 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+11. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO EVERY OTHER DAY (Every Other
+Day) as needed for constipation.
+12. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+13. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for pain.
+14. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+15. Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+123 Any St. Syndrome
+
+
+Discharge Condition:
+Improved.  Neurological exam notable for improved strength,
+about 2008-12-06 00:00:00 in upper extremities and about 2008-12-06 00:00:00 in her lower
+extremities.
+
+
+Discharge Instructions:
+You were admitted for progressive paresthesias and weakness
+consistent with 123 Any St. syndrome.  You were treated with 7
+days of IVIG followed by plasma[** Location **]is with some improvement
+though ongoing symptoms.
+
+1.  Take all medications as directed.
+2.  If you experience new or worsening symptoms, contact your
+physician or if urgent, proceed directly to the emergency room.
+
+Followup Instructions:
+NEUROLOGY at UPMCE Please call for appointment. (test@mail.com
+
+Provider  BONE DENSITY TESTING Phone:test@mail.com Please call
+for appointment.
+
+Provider Chen Leahan, M.D. Phone:test@mail.com Please call for
+appointment
+
+
+
+Completed by:2008-12-06 00:00:00

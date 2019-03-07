@@ -1,0 +1,295 @@
+Admission Date:  2008-07-16 00:00:00              Discharge Date:   2008-07-16 00:00:00
+
+Date of Birth: 1933-08-05 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Andru Degruttola
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+82F h/o prior CVA with residual R-sided weakness, AS (123 Any St. 1.2
+cm2), cecal and s123 Any St. flexure masses admitted with chest pain.
+Describes 3 days of chest pain that radiates across the chest,
+occuring only while supine at night, describes as a constant
+"punching" sensation, lasting multiple hours, and resolving
+either spontaneously or with tylenol. Pain is similar in
+character, but more severe, compared to prior episodes (most
+recently many months ago). Had one episode of nonbloody emesis.
+No associated dizziness, lightheadedness, palpitations,
+shortness of breath, diaphoresis, dyspepsia, edema, or
+positional/exertional component. Son also reports seeing bright
+red blood on the bed sheets two days ago (not since). When pain
+recurred for the 3rd straight night, she presented to the ED.
+Initial V/S 97.6 79 129/45 16 99%RA. Brown stool guaiac+.
+.
+Labs notable for Hct 21.6 (31.9 on 2008-07-16 00:00:00) CK 41 MB 3 trop <0.01.
+Had CP in the ED, at which time EKG showed ~1mm ST elev in aVR
+with new ST dep in I,II,L,V2-V6. Given ASA 325, morphine 2 mg
+(with resolution of pain), protonix 40 mg IV. EKG changes
+improved with resolution of pain. Given 2008-07-16 00:00:00 unit pRBC then
+called by blood bank to say that Ab+ so transfusion stopped.
+Pain-free, with vital signs prior to transfer 97.5 66 124/60 12
+100%4L
+.
+Upon transfer to the floor on 2008-07-16 00:00:00, patient was a symptomatic
+without chest pain, dizziness, shortness of breath, or active
+bleed.
+
+Past Medical History:
+-L MCA infarct 2008-07-16 00:00:00, residual R sided deficits
+-AS (123 Any St. 1.1 cm2 by TTE 2008-07-16 00:00:00)
+-HTN
+-Carotid stenosis
+-Moderate pulm HTN
+-Cecal and s123 Any St. flexure mass (2008-07-16 00:00:00 Bx showed superficial
+fragments of colonic mucosa with rare dilated crypts,
+granulation tissue formation and focal ulceration = may be seen
+overlying/adjacent to a mass lesion or may represent superficial
+sampling of an inflammatory-type polyp)
+-Diverticulosis
+-Internal hemorrhoids
+
+Social History:
+H/o tobacco use. 3 children (2 sons, 1 daughter, son in Jenohn Peninger
+assists w/ care), many grandchildren. Walks w/ a cane at
+baseline. Uses meals on wheels. VNA services weekly.
+
+
+Family History:
+Mother d. ca, Father d. CAD, children healthy
+
+Physical Exam:
+V/S T 96.5 83 128/94 13 100%2L.
+GEN: Awake, alert, conversing appropriately
+HEENT: PERRL, lower loose-fitting dentures, dry MM
+NECK: No JVD
+CV: reg rate nl S1S2 III/VI SEM at base radiates to carotids
+LUNGS: CTAB no w/r/r
+ABD: soft NTND normoactive BS
+EXT: warm, dry +PP no edema
+NEURO: AAOX3
+
+
+Pertinent Results:
+Admission Labs:
+.
+2008-07-16 00:00:00 06:30AM   PLT COUNT-396
+2008-07-16 00:00:00 06:30AM   NEUTS-66.5 LYMPHS-24.5 MONOS-5.6 EOS-2.9
+BASOS-0.5
+2008-07-16 00:00:00 06:30AM   WBC-6.5 RBC-2.40*# HGB-6.7*# HCT-21.6*#
+MCV-90 MCH-28.1 MCHC-31.2 RDW-19.5*
+2008-07-16 00:00:00 06:30AM   MAGNESIUM-2.1
+2008-07-16 00:00:00 06:30AM   CK-MB-3
+2008-07-16 00:00:00 06:30AM   cTropnT-<0.01
+2008-07-16 00:00:00 06:30AM   CK(CPK)-41
+2008-07-16 00:00:00 06:30AM   estGFR-Using this
+2008-07-16 00:00:00 06:30AM   GLUCOSE-105* UREA N-35* CREAT-1.2* SODIUM-143
+POTASSIUM-4.2 CHLORIDE-109* TOTAL CO2-23 ANION GAP-15
+2008-07-16 00:00:00 02:35PM   HCT-20.8*
+2008-07-16 00:00:00 02:35PM   CK-MB-3 cTropnT-<0.01
+2008-07-16 00:00:00 02:35PM   CK(CPK)-31
+2008-07-16 00:00:00 03:30PM   PT-12.2 PTT-22.6 INR(PT)-1.0
+2008-07-16 00:00:00 10:23PM   PT-12.8 PTT-23.4 INR(PT)-1.1
+2008-07-16 00:00:00 10:23PM   HCT-27.1*#
+2008-07-16 00:00:00 10:23PM   CK-MB-3 cTropnT-<0.01
+2008-07-16 00:00:00 10:23PM   CK(CPK)-33
+.
+Discharge Labs:
+.
+2008-07-16 00:00:00 07:20AM BLOOD WBC-6.8 RBC-3.53* Hgb-10.7* Hct-32.3*
+MCV-92 MCH-30.4 MCHC-33.2 RDW-17.4* Plt Ct-296
+2008-07-16 00:00:00 07:20AM BLOOD Glucose-98 UreaN-15 Creat-0.9 Na-142
+K-4.1 Cl-109* HCO3-25 AnGap-12
+2008-07-16 00:00:00 07:20AM BLOOD Calcium-7.8* Phos-2.6* Mg-2.1
+2008-07-16 00:00:00 07:00AM BLOOD CEA-2.4
+.
+Studies:
+.
+EKG 2008-07-16 00:00:00 13:39:28 (pain-free) SR 80 bpm possible LVH
+downsloping 1 mm STD II TWF III 2-3 mm downsloping STD in V3-V6
+.
+Imaging:
+2008-07-16 00:00:00 PA/LAT Evaluation is suboptimal, due to patient rotation
+and
+underpenetration. Mild vascular congestion has resolved. The
+lungs are clear without focal consolidation. Moderate
+cardiomegaly persists, with a slightly tortuous aorta. Dense
+calcifications are present in the mitral annulus. Mild
+degenerative changes are present in the thoracic spine.
+IMPRESSION: No acute cardiopulmonary process.
+
+
+Brief Hospital Course:
+82F h/o CVA, AS, known colonic masses admitted with chest pain
+at rest and global ischemic EKG changes in the setting of acute
+on chronic blood loss anemia.  Admitted to the MICU on 2008-07-16 00:00:00,
+transferred to the floor on 2008-07-16 00:00:00, discharged on 2008-07-16 00:00:00.
+.
+#Acute on chronic blood loss anemia - Patient was admitted to
+the MICU with chest pain x 3 days after son had noticed a
+significant amount of blood in her bed.  On admission, Hct was
+found to be 20.  She was transfused 4U and hct stabilized in the
+low 30s where it remained for admission.  She spent one night in
+the MICU and was transferred to the floor on HOD #2.  The source
+of her bleeding has not been confirmed, but differential
+includes hemmhoroidal, diverticular, or from masses in her cecum
+an s123 Any St. flexure which were found on colonoscopy in 2008-07-16 00:00:00
+(likely malignant).  She was followed by both surgery and GI
+in-house and both agreed that she would likely need surgical
+intervention for the masses but acknowledged that she had a high
+surgical risk (aortic stenosis, history of CVA).  She remained
+hemodynamically stable on the floor, but did have an episode of
+BRBPR on HOD#3 with a hct drop from 31.6-->29.9.  She remained
+asymptomatic with this episode and did not require PRBC. A
+tagged red blood cell scan was deferred given that she was
+asymptomatic.  She was discharged on HOD#4 with follow-up in the
+geriatrics clinic for further discussion of options for her
+colonic masses.  She was informed to return to the ED if her
+symptoms of chest pain return, or if she has significant
+bleeding.
+.
+#Chest pain/EKG changes - Along with BRBPR, patient presented
+with chest pain , and an EKG with diffuse ST depressions,
+suggestive of global ischemia in the setting of profound anemia,
+likely a demand ischemia. Her pain resolved with blood
+transfusions.  Aspirin 81 mg was restarted, and beta blockade
+was also started, and she continued to receive her statin.  She
+continued to remain asymptomatic from a cardiac standpoint
+throughout transfer to floor and remainder of admission.
+.
+#Colonic masses-  Seen by both surgery and GI in-house.  Both
+agreed that surgical intervention was likely warranted given
+high likelyhood of malignancy from her cecal/s123 Any St. flexure
+masses.  However her comorbidities make her an increased
+surgical risk, especially in the setting of her recent acute
+bleed.  Decision was made by the primary team to have her follow
+up with geriatrics the following week to discuss options.
+.
+#HTN - On admission to the MICU, she was started beta blockade
+and her lisinopril/dilt were held in the setting of the bleed.
+Lisinopril was restarted upon transfer to the floor on 2008-07-16 00:00:00.
+Metoprolol was continued through her discharge day, and she was
+discharged on her diltiazem at home dose with instructions to
+have her home health aid to check her blood pressure as an
+outpatient.
+.
+
+Medications on Admission:
+Lisinopril 10 mg daily
+Simvastatin 20 mg daily
+Verapamil 240 mg daily
+Ferrous sulfate 325 mg daily
+ASA 81 mg
+Vit D
+Vit C
+Fish Oil
+MVI
+Omega-3
+
+Discharge Medications:
+1. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Outpatient Lab Work
+Please check CBC on 2008-07-16 00:00:00 or 2008-07-16 00:00:00.
+
+Fax results to Dr. [**First Name8 (NamePattern2) 4251**] Peninger at test@mail.com
+3. Omega-3 Fatty Acids-Fish Oil 300-1,000 mg Capsule Sig: Three
+(3) Capsule PO three times a day.
+4. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+5. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO once a day.
+6. Vitamin D-3 400 unit Tablet Sig: One (1) Tablet PO three
+times a day.
+7. Vitamin C 250 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO once a day.
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day. Tablet, Delayed
+Release (E.C.)(s)
+9. Verapamil 240 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO once a day: Please have your blood pressure
+checked by your home health aide prior before restarting this
+medication.
+10. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+Primary
+Lower Gastrointestinal Bleed
+Anemia
+Demand ischemia
+Colonic masses
+Diverticulosis
+Hemmorhoids
+
+Secondary
+Hypertension
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Ms. Peninger Peninger,
+
+You were admitted to the hospital because you were having chest
+pain and blood in your stool causing you to become anemic (low
+blood counts).  We feel that the anemia was likely the cause of
+your chest pain because you improved when you were transfused
+with blood.  You spent one night in the intensive care unit and
+were then transferred to the general medical floor where you
+have done well.  You did have a few episodes of bleeding again
+yesterday but your blood count remained stable and you were not
+experiencing any symptoms from it.
+
+We feel that the blood in your stool is coming from your colon,
+but the surgery and gastrointestinal teams saw you and felt that
+surgery was not warranted at this point.
+
+Please note that you may continue to have more blood in your
+stool, but that this is likely old blood and should not cause
+symptoms.  If you do have any symptoms of chest pain, shortness
+of breath, or increasing blood loss please come back to the
+emergency room.
+
+Please wait to restart your verapamil until you have your blood
+pressure checked by your home health aide later this week. If
+your blood pressure is normal (or high) you can restart this
+medication. You should continue to take all of your other
+medications as 123 Any St.usly prescribed and listed below.
+
+Please note your scheduled appointment with Dr. Peninger below.
+She will help to coordinate your care with your specialists.
+Please have your son accompany you to this appointment.
+
+We also request that you have lab work done tomorrow or
+Thursday.  We have written you a perscription for this and you
+can return to our lab to have this done.
+
+
+Followup Instructions:
+Department: GERONTOLOGY
+When: TUESDAY 2008-07-16 00:00:00 at 3:45 PM
+With: Jenohn Jenohn Peninger, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+

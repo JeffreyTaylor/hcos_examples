@@ -1,0 +1,146 @@
+Admission Date:  2013-11-13 00:00:00              Discharge Date:   2013-11-13 00:00:00
+
+Date of Birth: 1943-11-08 00:00:00 00:00:00             Sex:   M
+
+Service: GU
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Avianna Nummy
+Chief Complaint:
+Sharp abdominal pain after cough, gross hematuria
+
+Major Surgical or Invasive Procedure:
+s/p right partial nephrectomy on 2013-11-13 00:00:00
+
+History of Present Illness:
+Pt is a 50 year old male who underwent a right partial
+nephrectomy on 2013-11-13 00:00:00 and was discharged and presented to the
+ER on 2013-11-13 00:00:00 after an MVA with complaint of serosanguinous
+discharge from old chest tube site. Chest xray and ultrasound at
+the time were negative. The patient then returned to hospital on
+2013-11-13 00:00:00 with a complaint of severe abdominal pain and one
+episode of gross hematuria after a cough. The patient presented
+to an outside hospital with a hematocrit of 27 and a BP of
+70/40. The patient was given IV fluids and 1 unit of PRBC's
+(post-transfusion hematocrit was 29), was stabilized, and then
+med flighted to UPMCE.
+
+Past Medical History:
+IgA nephropathy
+Hypertension
+Gout
+Psoriasis
+
+
+Social History:
+Patient has a significant alcohol history of 2013-11-13 00:00:00 drinks/day
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Gen: A+Ox3
+CV: RRR
+Lungs: Crackles at right base
+Abd: Soft, distended, very mild tenderness to palpation
+diffusely, incision clean/dry/intact
+Ext: No cyanosis or edema
+
+Pertinent Results:
+2013-11-13 00:00:00 07:30PM BLOOD WBC-24.0*# RBC-3.22* Hgb-9.6* Hct-28.5*
+MCV-89 MCH-29.8 MCHC-33.6 RDW-13.1 Plt Ct-404#
+2013-11-13 00:00:00 04:20AM BLOOD WBC-18.0* RBC-2.84* Hgb-8.1* Hct-24.7*
+MCV-87 MCH-28.6 MCHC-32.9 RDW-13.3 Plt Ct-345
+2013-11-13 00:00:00 10:30AM BLOOD WBC-19.8* RBC-3.45* Hgb-10.0* Hct-29.4*
+MCV-85 MCH-29.0 MCHC-34.0 RDW-14.0 Plt Ct-272
+2013-11-13 00:00:00 01:56PM BLOOD WBC-15.7* RBC-3.25* Hgb-9.3* Hct-27.8*
+MCV-85 MCH-28.6 MCHC-33.5 RDW-14.0 Plt Ct-259
+2013-11-13 00:00:00 05:48PM BLOOD Hct-30.2*
+2013-11-13 00:00:00 06:35AM BLOOD Hct-28.3*
+2013-11-13 00:00:00 04:45PM BLOOD Hct-30.6*
+2013-11-13 00:00:00 07:35AM BLOOD WBC-12.2* RBC-3.33* Hgb-9.6* Hct-28.7*
+MCV-86 MCH-28.9 MCHC-33.4 RDW-13.9 Plt Ct-326
+2013-11-13 00:00:00 07:30PM BLOOD Glucose-142* UreaN-44* Creat-2.5* Na-140
+K-5.8* Cl-107 HCO3-21* AnGap-18
+2013-11-13 00:00:00 04:20AM BLOOD Glucose-137* UreaN-47* Creat-2.9* Na-140
+K-6.6* Cl-110* HCO3-21* AnGap-16
+2013-11-13 00:00:00 10:30AM BLOOD Glucose-129* UreaN-42* Creat-2.5* Na-141
+K-4.9 Cl-107 HCO3-20* AnGap-19
+2013-11-13 00:00:00 01:56PM BLOOD Glucose-118* UreaN-38* Creat-2.3* Na-141
+K-4.9 Cl-107 HCO3-22 AnGap-17
+2013-11-13 00:00:00 05:48PM BLOOD Glucose-120* UreaN-35* Creat-2.2* Na-141
+K-4.8 Cl-105 HCO3-22 AnGap-19
+2013-11-13 00:00:00 06:35AM BLOOD Glucose-126* UreaN-25* Creat-1.8* Na-137
+K-4.3 Cl-105 HCO3-23 AnGap-13
+2013-11-13 00:00:00 10:30AM BLOOD Lipase-616*
+2013-11-13 00:00:00 01:56PM BLOOD Lipase-390*
+2013-11-13 00:00:00 06:35AM BLOOD Lipase-111*
+2013-11-13 00:00:00 10:30AM BLOOD ALT-24 AST-21 LD(LDH)-296* AlkPhos-95
+Amylase-436* TotBili-0.9
+2013-11-13 00:00:00 06:35AM BLOOD ALT-16 AST-16 AlkPhos-87 Amylase-165*
+TotBili-0.7
+
+Brief Hospital Course:
+The patient was admitted to the MICU and was transfused 2 units
+of PRBS's. Post-transfusion hematocrit remained stable around
+30. A CT scan was obtained on hospital day #2, which showed a
+small-to-moderate amount of high density fluid which most likely
+represented blood around the liver and the spleen and the right
+kidney, with
+adjacent perinephric fluid/hematoma. The origin of bleeding was
+not definitively identified, but bleeding could potentially have
+been arising in the kidney given the history of recent renal
+surgery and history of hematuria. No active extravasation was
+identified. The patient was hemodynamically stable throughout
+his stay in the MICU, and was transferred to the floor on HD#2.
+A repeat CT on hospital day #3 showed no active changes from the
+123 Any St.us scan. On HD#4, the patient appeared more distended,
+though he continued to pass flatus. A KUB was obtained, which
+showed no signs of obstruction. An MRI urogram was also
+obtained, which showed stable blood around the right kidney,
+extending into the peritoneum and a blood clot within the right
+renal pelvis. The patient continued to remain stable with a
+hematocrit holing steady around 30 and a creatinine holding
+steady at 2.1. The patient was discharged on HD#7 in stable
+condition.
+
+
+Medications on Admission:
+Atenolol 50 mg PO QDaily
+Lisinopril 20 mg PO QDaily
+Norvasc 5 mg PO QDaily
+Lipitor 10 mg PO QDaily
+Allopurinol 100 mg PO QDaily
+Protonix 25 mg PO QDaily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day): please take while taking pain medications.  Stop
+if loose bowel movements.
+Disp:*30 Capsule(s)* Refills:*2*
+2. Hydromorphone HCl 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every
+4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+s/p right partial nephrectomy, readmitted for question of
+postoperative bleed
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Call Dr.Cott Jenkin office for follow up
+
+Followup Instructions:
+as above
+
+
+

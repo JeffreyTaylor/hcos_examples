@@ -1,0 +1,423 @@
+Admission Date:  2009-01-05 00:00:00              Discharge Date:   2009-01-05 00:00:00
+
+Date of Birth: 1949-01-01 00:00:00 00:00:00             Sex:   M
+
+Service: [**Year (4 digits) 656**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Audris Baffoni
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+Femoral line placed
+
+History of Present Illness:
+75 y/o M [**First Name3 (LF) **] speaking only PMH ESRD on HD, CAD, PAF, COPD,
+HTN who presensts with altered mental status of 2 days duration.
+Initially felt to be secondary to percocet use at rehab, but HD
+facility was concerned and sent patient to be evaluated. Per
+family patient is AOx3 at baseline but has been more confused
+recently. Notes slow decline over several days since being at
+the rehab. States he was also given a "sleeping pill" the day
+before admission. Family did not notice any increased cough,
+SOB, or fever.
+.
+Patient was recently admitted 2009-01-05 00:00:00 for left humeral
+fracture, hypoxia and inability to care for himself at home. For
+left humeral fracture patient was evaluated by ortho who
+recommended sling. Hypoxia was felt to be secondary to mild COPD
+exacerbation and was treated with aggressive neb therapy and
+oral steroids. At time of discharge his O2 sats were 90% on RA
+with occasional desats to the high 80s and discharged on 1L NC
+to be weaned as tolerated. Patient was discharged to rehab.
+.
+In the ED, initial VS were: 96.9 86 107/84 22 91. Patient spiked
+a temp to 100.2. rectally. CT head demonstrated no
+abnormalities. CXR demonstrated right lower lobe infiltrate.
+Patient was given levofloxacin and zosyn and 1L NS. A groin CVL
+was placed. His LUE was noted to be swollen and echymotic but an
+u/s revealed no DVT. Ortho evaluated it in the ED and
+recommended continued sling and NWB. He was agitated and
+confused, so received 5mg Zyprexa. Vitals on transfer were 98.8
+rectal, HR 63, BP 149/52, RR 13, 100% facemask. He would
+reportedly desat to upper 80s on 6L NC so he was admitted to the
+MICU for further care.
+.
+On the floor, still mildly agitated and confused. Unable to
+obtain further ROS.
+
+Past Medical History:
+-ESRD on HD via left AVF from polycystic kidney disease.
+HD-M,W,F on 123 Any St.
+-Asymptommatic Bradycardia/WCT: UPMCE single-lead pacemaker
+placed
+-CAD - cath here in 2009-01-05 00:00:00 with moderate ramus intermedius disease
+(discrete 50% stenosis) and mild diastolic ventricular
+dysfunction
+-PAF with [**Year (4 digits) 5438**] documented once in the ED in 2009-01-05 00:00:00
+-ETT 2009-01-05 00:00:00: Atypical symptoms in the absence of ischemic ECG
+changes or reversible defects by thallium to the acheived low
+level of exercise
+-Asthma/COPD
+-Hypertension
+-Prostate CA 2009-01-05 00:00:00
+-recent left humeral fracture
+
+Social History:
+Patient currently lives at rehab but lived alone before (wife
+has passed away recently). [**Year (4 digits) 589**] speaking only. Currently
+smokes <10 cigs/day for 60yrs, 2009-01-05 00:00:00/wk EtOH, no ilicit drug use.
+
+Family History:
+Denies significant family history.
+
+Physical Exam:
+Gen: Well appearing elderly man in NAD
+Eye: extra-occular movements intact, pupils equal round,
+reactive to light, sclera anicteric, not injected, no exudates
+ENT: mucus membranes moist, no ulcerations or exudates
+Neck: no thyromegally, JVD: flat
+Cardiovascular: regular rate and rhythm, normal s1, s2, no
+murmurs, rubs or gallops
+Respiratory: Clear to auscultation bilaterally, no wheezes,
+rales or rhonchi
+Abd: Soft, non distended, no heptosplenomegaly,
+bowel sounds present. Mildly tender to palpation in RUQ and LLQ.
+Extremities: Left arm in sling, painful with movement, warm, 2+
+radial pulse, sensation intact, ecchymotic, no cyanosis,
+clubbing, joint swelling
+Neurological: Alert and oriented x2, CN II-XII intact, normal
+attention, sensation normal
+
+Pertinent Results:
+Labs during event leading to death:
+2009-01-05 00:00:00 INR(PT)-7.8*
+2009-01-05 00:00:00 Hct-25.2*
+2009-01-05 00:00:00 06:28PM BLOOD Type-ART pO2-74* pCO2-53* pH-7.21*
+calTCO2-22 Base XS--7
+2009-01-05 00:00:00 06:12PM BLOOD Glucose-161* UreaN-66* Creat-5.1*# Na-144
+K-6.8* Cl-97 HCO3-20* AnGap-34*
+Lactate 11.4
+.
+Labs on admission:
+2009-01-05 00:00:00 06:50PM BLOOD WBC-10.3 RBC-3.26* Hgb-9.8* Hct-30.5*
+MCV-94 MCH-30.1 MCHC-32.1 RDW-17.5* Plt Ct-177
+2009-01-05 00:00:00 06:50PM BLOOD Neuts-95.1* Lymphs-3.5* Monos-1.0*
+Eos-0.1 Baso-0.2
+2009-01-05 00:00:00 06:50PM BLOOD PT-19.4* PTT-47.3* INR(PT)-1.8*
+2009-01-05 00:00:00 06:50PM BLOOD Glucose-98 UreaN-33* Creat-3.2*# Na-145
+K-3.7 Cl-100 HCO3-32 AnGap-17
+2009-01-05 00:00:00 06:50PM BLOOD ALT-36 AST-43* LD(LDH)-380* AlkPhos-90
+TotBili-0.5
+.
+Other pertinent labs:
+2009-01-05 00:00:00 06:00AM BLOOD Vanco-13.4
+2009-01-05 00:00:00 09:28AM BLOOD Vanco-22.4*
+2009-01-05 00:00:00 05:55AM BLOOD Vanco-21.5*
+2009-01-05 00:00:00 07:01PM BLOOD Lactate-2.2* K-3.7
+2009-01-05 00:00:00 12:06AM BLOOD Lactate-2.0
+2009-01-05 00:00:00 06:28PM BLOOD Lactate-11.4*
+2009-01-05 00:00:00 05:59AM BLOOD ALT-12 AST-42* LD(LDH)-339* CK(CPK)-220*
+AlkPhos-49 TotBili-0.5
+.
+2009-01-05 00:00:00 06:50PM URINE RBC-21-50* WBC-0-2 Bacteri-OCC Yeast-NONE
+Epi-0
+2009-01-05 00:00:00 06:50PM URINE Blood-LG Nitrite-NEG Protein-500
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-NEG
+.
+2009-01-05 00:00:00 INR(PT)-1.8*, INR(PT)-2.1*, 2009-01-05 00:00:00 INR(PT)-1.8*,
+2009-01-05 00:00:00 INR(PT)-2.0*, 2009-01-05 00:00:00 INR(PT)-2.9*, 2009-01-05 00:00:00
+INR(PT)-5.2*, 2009-01-05 00:00:00 INR(PT)-4.5*, 2009-01-05 00:00:00 INR(PT)-5.1*,
+2009-01-05 00:00:00 INR(PT)-7.8*
+2009-01-05 00:00:00 Hct-26.4, Hct-27.2* 2009-01-05 00:00:00 Hct-28.0*, 2009-01-05 00:00:00
+Hct-26.9*, 2009-01-05 00:00:00 Hct-25.4*, 2009-01-05 00:00:00 Hct-26.1*,
+.
+2009-01-05 00:00:00 6:50 pm BLOOD CULTURE
+**FINAL REPORT 2009-01-05 00:00:00**
+      KLEBSIELLA OXYTOCA.    FINAL SENSITIVITIES.
+      SENSITIVITIES: MIC expressed in MCG/ML
+  _________________________________________________________
+                             KLEBSIELLA OXYTOCA
+                             |
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------     8 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   Anaerobic Bottle Gram Stain (Final 2009-01-05 00:00:00):
+      GRAM NEGATIVE ROD(S).
+      REPORTED BY PHONE TO Eversyn Anschutz AT 14:08PM ON 2009-01-05 00:00:00.
+
+
+   Aerobic Bottle Gram Stain (Final 2009-01-05 00:00:00):    GRAM NEGATIVE
+ROD(S).
+.
+2009-01-05 00:00:00 blood cx negative
+.
+2009-01-05 00:00:00 6:50 pm URINE     Site: CLEAN CATCH
+URINE CULTURE (Final 2009-01-05 00:00:00):    NO GROWTH.
+.
+2009-01-05 00:00:00 3:51 pm STOOL **FINAL REPORT 2009-01-05 00:00:00**
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final 2009-01-05 00:00:00):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+.
+2009-01-05 00:00:00 CT head:
+IMPRESSION: No acute intracranial abnormality. No significant
+change in
+cerebral volume loss and chronic microvascular ischemic changes.
+Bilateral
+maxillary sinus disease.
+.
+2009-01-05 00:00:00 Humerus AP/Lat:
+LEFT HUMERUS, THREE VIEWS: Evaluation is limited by patient
+positioning.
+Within this limitation, there is no significant change in the
+comminuted left humeral neck fracture with approximately 2 cm of
+foreshortening. There is nodislocation. There is no new
+fracture. There is subtle soft tissue calcification noted on the
+second and third images at the level of the fracture which may
+represent early callous formation. No radiopaque foreign body is
+identified.
+.
+2009-01-05 00:00:00 RUE Ultrasound:
+IMPRESSION: No evidence of DVT. Exam is limited due to
+patient-related
+factors.
+.
+2009-01-05 00:00:00 Abdomen upright:
+IMPRESSION: No evidence of obstruction; incomplete assessment
+for free air -upright or left lateral decubitus views are
+recommended to better assess for perforation.
+.
+2009-01-05 00:00:00 RUQ ultrasound:
+IMPRESSION:
+1. Innumerable cysts seen within the liver and right kidney.
+2. Focally distended gallbladder at the fundus without signs of
+cholecystitis. If clinically indicated, a HIDA scan could be
+performed to
+further assess for cholecystitis. No gallstone is identified.
+3. No biliary dilatation and no ascites in the right upper
+quadrant.
+.
+2009-01-05 00:00:00:
+SINGLE AP VIEW OF THE CHEST: Evaluation is limited by patient
+position.
+Compared to the prior study, there is increased opacity at the
+right lung base concerning for infection. An opacity in the
+right upper lung is stable
+compared to prior and may represent a calcified granuloma. The
+heart is
+enlarged and there is a small residual right pleural effusion.
+The left
+costophrenic angle is excluded from view. A single lead follows
+a normal
+course from a right-sided battery pack terminating in the
+expected position
+over the right ventricle. There is a left tunneled internal
+jugular catheter terminating at the cavoatrial junction. There
+is no pneumothorax. Left humeral fracture better evaluated on
+dedicated humeral radiographs.
+.
+2009-01-05 00:00:00 Video Swallow:
+FINDINGS: Barium passed freely through the oropharynx and
+esophagus without
+evidence of obstruction.
+There was aspiration with thin consistency.
+.
+2009-01-05 00:00:00 CXR:
+FINDINGS: As compared to the 123 Any St.us radiograph, the patient
+has taken a
+better inspiration. There is unchanged extent of the bilateral
+basal areas of opacity. However, no opacity has newly occurred
+in the interval. Moreover, no evidence of pulmonary edema is
+seen. The size of the cardiac silhouette is unchanged. Unchanged
+moderate tortuosity of the thoracic aorta, unchanged position of
+central venous access line and the right-sided pacemaker.
+
+
+
+Brief Hospital Course:
+Assessment and Plan:
+75 year old 2009-01-05 00:00:00 speaking male with hx of COPD, CAD, and
+recent humerus fracture presents with altered mental status and
+found to have pneumonia and GNR bacteremia on 2009-01-05 00:00:00.
+.
+#. His hospital course is detailed below.  On the evening of
+2009-01-05 00:00:00 I was called to evaluated him for "being less
+responsive and looking more blue."  He was DNR/DNI at the time.
+His initial BP was normal and then we were unable to obtain a
+blood pressure.  O2 sats were being obtained on his forehead as
+he was satting higher on his forehead than on his digits earlier
+in the day.  His initial o2 sat was 90 and then was
+unobtainable. He was noted to be in agonal breathing and had
+fixed non responsive pupils (minimally responsive pupils per
+neuro). A code stroke was immediately called.  Fluids were
+opened wide.  Labs were obtained and notable for pH
+7.21 pCO2 53 pO2 74 on non rebreather, lactate of 11.4, WBC
+22.4, HCT stable at 25.2, INR of 7.8, and potassium of 6.8 (this
+K+ was obtained within 1 min of his death and thus no medication
+had been administered).  FFP was ordered and brought down to the
+CT scanner but arrived within minutes of his death.  The patient
+was rushed to the CT scanner for a head CT without contrast.
+While at the CT scanner he had an episode of bloody emesis.  He
+died within seconds of his CT scan being completed and the scan
+showed no evidence of bleed or stroke.  His family members and
+his primary care physician were Eversyn Anschutz about his death and
+declined autopsy.  Dr. Audris Baffoni was being updated throughout the
+code stroke.  He likely did from a GI bleed in the setting of a
+high INR.
+.
+#. Klebsiella Bacteremia: His blood cx on 2009-01-05 00:00:00 were positive
+for pansensitive Klebsiella bacteremia and he was on cefepime.
+Subsequent blood cultures were found to be negative from
+2009-01-05 00:00:00.
+.
+# Pneumonia: His CXR showed RUL and RLL PNA.  He was being
+treated with vancomycin and cefepime given need to cover for HAP
+and he was on flagyl for possible HAP.  He had a new oxygen
+requirement throughout his hospitalization and he was continued
+on nebulizers.  He was never able to produce a sputum for us.
+His blood cx grew Klebsiella as detailed above.
+.
+#. Elevated WBC: His elevated WBC was thought to be secondary to
+PNA and klebsiella bacteremia. He was afebrile for several days
+prior to his death. His white count trended up to 23 and then
+remained stable between 17-18 until the time of his death when
+his WBC was 22.4.  His stool was negative for c diff. His
+abdominal exam was followed and was benign and he denied
+abdominal pain.
+.
+# Altered Mental Status: His CT scan of his head was negative.
+His AMS was likely due to bactermia and PNA. His mental status
+improved after he started treatment for his PNA & bacteremia and
+then again after narcotic medications & clonazepam were
+discontinued.  The days prior to his death he was oriented to
+himself and his location.  The only exception to this was the
+evening of 2009-01-05 00:00:00 when he received a dose of pain medication
+for his broken humerus and he delirius. His family member (who
+speaks Eversyn Anschutz) noted to me early in the day on 2009-01-05 00:00:00 that he
+was much clear compared to the evening before and knew where he
+was and who he was.
+.
+# Anemia: His HCT was 30.5 on arrival on 2009-01-05 00:00:00. His HCT
+remained stable in the 25-28 range for the several days prior to
+his death and his transfusion threshold was<25. Please see
+humerus fracture below. On 2009-01-05 00:00:00 ortho came to evaluate the
+patient as his left arm (where he had humeus fracture) looked
+larger and there was concern that he could be bleeding into it
+in the setting of his elevated INR. His HCT was followed closely
+and was stable.  He had no evidence of compartment syndrome on
+exam. He was found to be guaiac positive on exam but was having
+rare bowel movements. The late morning of his death he had
+question of coffee ground emesis. This was discussed with the
+attending and it was decided not to place an NG tube in the
+setting of a high INR.  The patient was started on an IV PPI.
+.
+# Elevated INR: He was given reduced dosing of coumadin given
+that he was on antibiotics. His INR became supratherapeutic on
+2009-01-05 00:00:00 to 5.9.  On the morning of 2009-01-05 00:00:00 his INR was 5.1.  His
+coumadin was held. In the setting of ? coffee ground emesis
+(detailed below under anemia section) on 2009-01-05 00:00:00 in AM he was
+given vitamin K.
+.
+# COPD: He was on standing nebs and advair with a clear lung
+exam.
+.
+# ESRD: He received dialysis throughout his hospitalization.  He
+had one episode of hypotension post dialysis but otherwise
+tolerated it well.
+.
+# Humerus fracture: On 2009-01-05 00:00:00 ortho came to evaluate the
+patient as his left arm (where he had humerus fracture) looked
+larger and there was concern that he could be bleeding into it
+in the setting of his elevated INR. His HCT was followed closely
+and was stable.  He had no evidence of compartment syndrome on
+exam. Pain was controlled with tylenol and lidocaine and no
+narcotics were given since they were thought to contribute to
+his AMS.
+.
+# Paroxysmal atrial fibrillation: He was continued on home
+dronedarone and diltiazem. His coumadin was held in the setting
+of his high INR.
+.
+# Hypertension, benign: He was continue on his home diltiazem,
+lisinopril, and valsartan.
+.
+# Coronary artery disease:  He was continued on his home ACE,
+Anschutz, and aspirin
+.
+# Dementia: He was continued on his home Aricept.
+.
+# Depression: He was continued on his home citalopram.
+.
+# FEN: He was on a puree diet and nectar thick liquids given
+concern for aspiration and was followed by speech and swallow.
+
+Medications on Admission:
+1. Clonazepam 1 mg PO QHS as needed for insomnia.
+2. Citalopram 20 mg PO DAILY
+3. Warfarin 5 mg t PO QHS
+4. Simvastatin 10 mg PO QHS
+5. Donepezil 5 mg PO HS
+6. Amylase-Lipase-Protease 60,000-12,000- 38,000 unit Capsule,
+Delayed Release(E.C.) Sig: One (1) Capsule, Delayed
+Release(E.C.) PO once a day.
+7. Montelukast 10 mg PO DAILY
+8. Fexofenadine 180 mg PO DAILY
+9. Lisinopril 20 mg PO BID
+10. Hyoscyamine Sulfate 0.375 mg Capsule, Sust. Release 12 hr
+Sig: One (1) Capsule, Sust. Release 12 hr PO BID
+11. Valsartan 80 mg PO DAILY
+12. Aspirin 81 mg PO DAILY
+13. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1)
+Capsule PO once a day.
+14. Fluticasone-Salmeterol 250-50 mcg UPMCE
+15. Tiotropium Bromide 18 mcg DAILY
+16. Diltiazem HCl 60 mg PO BID
+17. Dronedarone 400 mg PO BID
+18. Sevelamer Carbonate 800 mg PO TID W/MEALS
+19. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Q6H
+20. Ipratropium Bromide 0.02 % Q6H
+21. Lidocaine 5 %(700 mg/patch) Q24H (every 24 hours)
+as needed for shoulder pain.
+22. Oxycodone-Acetaminophen 5-325 mg 1-2 Tablets PO
+every 4-6 hours as needed for pain
+23. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+24. Lactulose (30) ML PO Q8H as needed for constipation.
+25. Docusate Sodium 100 mg PO BID
+27. Prednisone taper: Now on 20mg qdaily x 2d, then take 10mg
+x2d, then stop.
+
+Discharge Medications:
+Deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Deceased
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+Deceased
+
+Followup Instructions:
+Deceased
+
+                             Eversyn Anschutz MD, 12530
+
+Completed by:2009-01-05 00:00:00

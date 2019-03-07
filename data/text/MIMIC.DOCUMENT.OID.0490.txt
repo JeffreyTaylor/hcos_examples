@@ -1,0 +1,560 @@
+Admission Date:  2007-01-25 00:00:00              Discharge Date:   2007-01-25 00:00:00
+
+Date of Birth: 1934-10-19 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Tetracycline Analogues / Niacin / Almond Oil / Tree Nut / Fruit
+Extracts / Nafcillin / cefazolin
+
+Attending:Jabrandon Cayler
+Chief Complaint:
+Renal Failure/pneumonia
+
+Major Surgical or Invasive Procedure:
+PICC line placement.
+
+
+History of Present Illness:
+76M complicated past medical history including CAD status post
+CABG, s/p stents 2007-01-25 00:00:00/2007-01-25 00:00:00 (on aspirin and plavix), status post
+biologic AVR, CHF with EF 35-40 %, paroxysmal atrial
+fibrillation on coumadin (now off secondary to recent epistaxis
+requiring blood transfusion), history of strokes, CKD (baseline
+Cr 2.5) with recent kidney injury thought to be secondary to AIN
+from naficllin requiring hemodialysis, now off. He presented to
+UPMCE with lethargy. Patient states that he awoke this
+morning feeling unwell. He had no specific or localizing signs.
+
+He was recently discharged from UPMCE on the UPMCE Rehab
+Facility 3 days prior to presentation. He had been there since
+an admission to UPMCE for MSSA bacteremia complicated by what
+appears to be acute kidney injury from acute interstitial
+nephritis thought to be secondary to nafcillin. He also
+developed diffuse skin vasculitis at that time.  He had been on
+steroids which had been tapered to off about 2 weeks ago.  He
+has also had intermittent delirium and volume overload.  It
+appears an NSTEMI also complicated his course.
+
+He had an episode of epistaxis for which he was admitted to
+UPMCE from 2007-01-25 00:00:00 to 2007-01-25 00:00:00 with an INR greater than 10 at the
+time.  He is no longer on Coumadin but he is on aspirin and
+Plavix.  He has had no further bleeding.  He has also had recent
+transaminitis thought to be secondary to amiodarone and statin.
+He had had a right upper quadrant ultrasounds which did not
+reveal acute cholecystitis but did show gallstones in the
+gallbladder.  His amiodarone has been discontinued but it
+appears he is back on his simvastatin.
+
+At UPMCE, the patient complained of pain in his penis from
+Foley catheter insertion in the emergency department.
+
+He denies shortness of breath, fever, chills, abdominal pain,
+nausea, vomiting, diarrhea, chest pain.  He notes a mild
+nonproductive cough over the last few days.  He reports his
+white blood cell count has been elevated intermittently in the
+past.  It was elevated at NewBridge; however, repeat was normal
+and he was sent home.
+
+Per his wife he had an episode of confusion in the morning with
+some
+urinary incontinence.  He is now back at his baseline.  He is
+AAOx3.
+
+It was also noted that he has had recent increase in lower
+extremity edema which was thought to be secondary to his
+prednisone. His lasix was increased to 80 mg PO BID from 40 mg
+PO BID about a week and a half ago. His lower extremities have
+improved in terms of swelling. He also reports improvement of
+the vasculitic rash now scabbing.
+
+For his diabetes, his lantus was recently increased from 22
+units to 26 units as he has been having elevated blood glucose
+which began at NewBridge on the Jabrandon Cayler.
+
+In the ER at UPMCE, he was found to have acute renal
+injury with Cr of 3.1 (baseline ~ 2.5) as well as hyperkalemia
+(K 6.1). He was treated with 8 units of IV insulin, Kayexalate,
+and calcium gluconate. He was also given 2.5 L of IVF per
+records.
+
+CXR was felt to show possible left lower infiltrate. He was
+given levofloxacin and vancomycin.
+
+Studies were significant for:
+
+Na 132 K 6.1, Cl 99, HCO3 26, BUN 71, Cr 3.1, Glc 355
+WBC 16.6(H), Hct 30.6, Plt 376 MCV 81 with Diff N 77, M 13
+INR 1.4
+ALT 282, AST 533, ALP 618, Tbili 0.68, albumin 2.1
+CK 56, Troponin 0.65 BNP 33,541
+Lactate 2.7
+UA: Blood moderate, nitrate, LE negative, RBC 2007-01-25 00:00:00, WBC 0-2, Occ
+epi
+EKG: NSR at 77 bpm, PR prolongation, RBBB. No acute ST-T changes
+
+CXR: Poor quality. Increased density in inferior portion of
+chest on lateral view likely represents pleural fluid, probably
+on the right, prominent cardiac silhouette
+Head CT (123 Any St.): Left maxillary sinus disease. No acute
+intracranial pathology.
+RUQ US (123 Any St.): No Jabrandon Cayler sign. No pericholecystic fluid.
+STones in neck of gallbladder. Gallbladder wall distended at 5
+mm and had been 3 mm. No dilated ducts.
+
+There was concern given leukocytosis and CXR showing ? pneumonia
+and his new onset renal failure.
+
+Given elevated LFTS, a RUQ US was performed that showed 5 mm
+gallbladder wall (up from 3 mm two weeks ago) with stones in the
+neck of the gallbladder. There was no sonEun Inserra Eun Inserra sign.
+Flagyl was subsequently added for broader coverage. A surgery
+consult was called in the ER for aforementioned findings. The
+impression was that although the patient has no abdominal
+tenderness that given his diabetes his clinical exam may be
+altered. His leukocytosis may be secondary to ? developing
+pneumonia; however, his gallbladder wall is thickened and the
+patient will likely require percutaneous cholecystostomy tube.
+His LFTs are difficult to interpret in context of acute illness,
+and his CBD is not dilated.
+
+He was transferred from 123 Any St. for ? cholecystitis for
+potential surgical procedure.
+
+VS on transfer were T 98.2, BP 126/68, HR 74, RR 17, pOx 98 % RA
+Urine output 475 mL
+.
+In the UPMCE ED inital vitals were, 17:57 97.0 74 113/60 20 100%
+2L Nasal Cannula.
+
+Labs in UPMCE ER showed Na 137, K 5.4, Cl 104, HCO3 20, Lactate
+2.6, Glc 271. Hgb was 10.
+
+A general surgery consult was called in the ER. Impression was
+admission to medicine with monitoring of LFTs and serial
+abdominal exams. A percutaneous chole tube was not advised at
+this time.
+
+VS on transfer: AF, HR 74, BP 139/67, RR 22, pOx 100 % 3L
+
+On arrival to the ICU, patient was initially sleepy, but then
+awoke and wanted a piece of toast - which was given after
+explaining that it would be optimal if he remained NPO given
+concern for gallbladder process.
+
+
+Past Medical History:
+DM type II c/b neuropathy
+HTN
+HLD
+CAD s/p CABG in 2007-01-25 00:00:00 and 2007-01-25 00:00:00 and multiple stents 2007-01-25 00:00:00
+s/p biologic AVR 2007-01-25 00:00:00 c/b transient heart block post-op treated
+with pacer insertion (UPMCE Sensia dual-chamber pacemaker)
+Paroxysmal Atrial Fibrillation (last pacer interrogation
+demonstrated no episodes of AF)
+Chronic Systolic Heart Failure (EF 35% to 40% in 2007-01-25 00:00:00)
+BPH
+Hypothyroidism
+CKD stage III
+
+Social History:
+He lives at home with his wife.  Eun Inserra ambulates with a walker.  He
+has had multiple hospitalizations since the fall requiring a
+stay at NewBridge on the Jabrandon Cayler.  He was discharged 3 days ago.
+ He denies tobacco, alcohol, illicit drug use.
+
+
+Family History:
+Notable for a mother who died at 81 and had a brain tumor and a
+sibling with Alzheimer disease.  There is also thyroid, lung
+cancer in other family members.
+Brother: pancreatic and liver cancer in his brother.
+Eun Inserra family history of CAD or sudden cardiac death.
+
+
+Physical Exam:
+Vitals: T 97.9 BP 122/56 P 76 RR 17 Sat 99% on 2L NC
+SBP 117-153
+I/O +174 cc UOP 1000 cc since admission
+General: Elderly male laying in bed in NAD. Alert and oriented
+to person, place, and time.
+HEENT: Sclera anicteric, MM dry, oropharynx clear
+Lungs: Breathing comfortably, crackles at the left > right base.
+
+CV: RRR, no MRG
+Abdomen: +BS, soft NTND
+Ext: warm, 1+ edema bilaterally
+
+
+Pertinent Results:
+
+
+2007-01-25 00:00:00 07:17AM BLOOD WBC-12.4* RBC-3.59* Hgb-8.5* Hct-29.3*
+MCV-82 MCH-23.7* MCHC-29.0* RDW-15.9* Plt Ct-337
+2007-01-25 00:00:00 07:19AM BLOOD WBC-12.8* RBC-3.54* Hgb-8.4* Hct-30.1*
+MCV-85 MCH-23.8* MCHC-28.0* RDW-16.1* Plt Ct-326
+2007-01-25 00:00:00 06:10AM BLOOD WBC-13.3* RBC-3.49* Hgb-8.5* Hct-28.0*
+MCV-80* MCH-24.3* MCHC-30.2* RDW-16.7* Plt Ct-300
+2007-01-25 00:00:00 06:30AM BLOOD WBC-20.8* RBC-3.96* Hgb-9.5* Hct-32.1*
+MCV-81* MCH-24.0* MCHC-29.5* RDW-16.7* Plt Ct-423
+2007-01-25 00:00:00 02:04AM BLOOD WBC-13.9* RBC-3.75* Hgb-9.2* Hct-31.9*
+MCV-85 MCH-24.4* MCHC-28.8* RDW-16.3* Plt Ct-348#
+2007-01-25 00:00:00 06:10AM BLOOD Neuts-79.0* Lymphs-14.0* Monos-5.9
+Eos-0.8 Baso-0.3
+2007-01-25 00:00:00 06:30AM BLOOD Neuts-85.4* Lymphs-8.0* Monos-5.9 Eos-0.5
+Baso-0.3
+2007-01-25 00:00:00 02:04AM BLOOD Neuts-83.7* Lymphs-10.4* Monos-5.3
+Eos-0.4 Baso-0.2
+2007-01-25 00:00:00 07:19AM BLOOD PT-15.2* INR(PT)-1.4*
+2007-01-25 00:00:00 06:30AM BLOOD PT-14.5* PTT-29.8 INR(PT)-1.4*
+2007-01-25 00:00:00 02:04AM BLOOD PT-16.2* PTT-31.1 INR(PT)-1.5*
+2007-01-25 00:00:00 04:16PM BLOOD PT-17.3* PTT-33.8 INR(PT)-1.6*
+2007-01-25 00:00:00 07:17AM BLOOD Glucose-69* UreaN-48* Creat-2.3* Na-143
+K-3.9 Cl-107 HCO3-26 AnGap-14
+2007-01-25 00:00:00 07:19AM BLOOD Glucose-75 UreaN-49* Creat-2.3* Na-139
+K-3.7 Cl-104 HCO3-25 AnGap-14
+2007-01-25 00:00:00 08:40AM BLOOD Glucose-185* UreaN-50* Creat-2.4* Na-137
+K-4.4 Cl-103 HCO3-25 AnGap-13
+2007-01-25 00:00:00 06:10AM BLOOD Glucose-88 UreaN-52* Creat-2.4* Na-140
+K-4.4 Cl-106 HCO3-19* AnGap-19
+2007-01-25 00:00:00 06:30AM BLOOD Glucose-196* UreaN-55* Creat-2.3* Na-136
+K-4.1 Cl-100 HCO3-22 AnGap-18
+2007-01-25 00:00:00 06:30AM BLOOD Glucose-200* UreaN-56* Creat-2.3* Na-136
+K-4.1 Cl-100 HCO3-22 AnGap-18
+2007-01-25 00:00:00 02:04AM BLOOD Glucose-378* UreaN-68* Creat-2.7* Na-135
+K-4.5 Cl-100 HCO3-20* AnGap-20
+2007-01-25 00:00:00 07:17AM BLOOD ALT-65* AST-27 AlkPhos-192* TotBili-0.4
+2007-01-25 00:00:00 07:19AM BLOOD ALT-97* AST-43* LD(LDH)-325* AlkPhos-231*
+TotBili-0.4
+2007-01-25 00:00:00 06:10AM BLOOD ALT-130* AST-74* AlkPhos-273* TotBili-0.5
+2007-01-25 00:00:00 06:30AM BLOOD ALT-201* AST-125* LD(LDH)-409*
+AlkPhos-356*
+2007-01-25 00:00:00 02:04AM BLOOD ALT-257* AST-313* LD(LDH)-382*
+CK(CPK)-36* AlkPhos-408* TotBili-0.4
+2007-01-25 00:00:00 02:04AM BLOOD CK-MB-5 cTropnT-0.04*
+2007-01-25 00:00:00 07:17AM BLOOD Calcium-8.3* Phos-3.4 Mg-2.0
+2007-01-25 00:00:00 06:10AM BLOOD Calcium-8.5 Phos-3.5 Mg-2.0
+2007-01-25 00:00:00 06:30AM BLOOD Calcium-8.8 Phos-3.5 Mg-2.0
+2007-01-25 00:00:00 06:30AM BLOOD Calcium-8.7 Phos-3.5 Mg-1.9
+2007-01-25 00:00:00 02:04AM BLOOD Albumin-2.4* Calcium-8.1* Phos-4.6*
+Mg-2.0
+2007-01-25 00:00:00 06:30AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE HAV Ab-NEGATIVE IgM HBc-NEGATIVE IgM HAV-NEGATIVE
+2007-01-25 00:00:00 07:17AM BLOOD Vanco-10.5
+2007-01-25 00:00:00 06:10AM BLOOD Vanco-9.7*
+2007-01-25 00:00:00 02:04AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2007-01-25 00:00:00 06:30AM BLOOD HCV Ab-NEGATIVE
+2007-01-25 00:00:00 02:26AM BLOOD Lactate-1.3
+2007-01-25 00:00:00 06:33PM BLOOD Glucose-271* Lactate-2.6* Na-137 K-5.4*
+Cl-104 calHCO3-20*
+2007-01-25 00:00:00 06:33PM BLOOD Hgb-10.0* calcHCT-30
+2007-01-25 00:00:00 06:30AM BLOOD HERPES SIMPLEX VIRUS 1 AND 2 ANTIBODY
+IGM-PND
+2007-01-25 00:00:00 02:05AM URINE Eos-POSITIVE
+2007-01-25 00:00:00 02:05AM URINE Hours-RANDOM UreaN-555 Creat-64 Na-29
+K-57 Cl-40
+2007-01-25 00:00:00 02:05AM URINE Osmolal-395
+2007-01-25 00:00:00 02:05AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+.
+Microbiology-
+2007-01-25 00:00:00 6:30 am Blood (CMV AB)
+
+                            **FINAL REPORT 2007-01-25 00:00:00**
+
+   CMV IgG ANTIBODY (Final 2007-01-25 00:00:00):
+      POSITIVE FOR CMV IgG ANTIBODY BY EIA.
+      212 AU/ML.
+      Reference Range:  Negative < 4 AU/ml, Positive >= 6 AU/ml.
+
+
+   CMV IgM ANTIBODY (Final 2007-01-25 00:00:00):
+      POSITIVE FOR CMV IgM ANTIBODY BY EIA.
+      BORDERLINE POSITIVE.
+      INTERPRETATION:  INFECTION AT UNDETERMINED TIME.
+      A positive IgG result generally indicates past exposure.
+      Infection with CMV once contracted remains latent and may
+reactivate
+      when immunity is compromised.
+      Greatly elevated serum protein with IgG levels >2007-01-25 00:00:00 mg/dl
+may cause
+      interference with CMV IgM results.
+      Interpret IgM result with caution; liver disease,
+autoimmune and
+      lymphoproliferative diseases may cause false positive
+results.
+.
+Urine legionella-negative
+.
+2007-01-25 00:00:00 EKG
+Sinus rhythm. A-V conduction delay. Right bundle-branch block
+with left
+anterior fascicular block. Compared to the 123 Any St.us tracing
+findings are
+similar.
+.
+2007-01-25 00:00:00 EKG
+Sinus rhythm. Right bundle-branch block with left anterior
+fascicular block. Possible inferior myocardial infarction, age
+inderminate. Non-specific ST-T wave changes. Diffuse low QRS
+voltage. Compared to the 123 Any St.us tracing of 2007-01-25 00:00:00 the QRS
+voltage has decreased.
+.
+HIDA 2007-01-25 00:00:00:
+IMPRESSION:
+1. Normal visualization of gallbladder.
+2. Small bowel activity not visualized. Patient refused further
+imaging.
+.
+2007-01-25 00:00:00 CXR:
+123 Any St.us mild pulmonary edema has almost cleared. Substantial
+consolidation persists at both lung bases, consistent with
+pneumonia, particularly on the left. Small bilateral pleural
+effusions are presumed. Moderate cardiomegaly is chronic, but
+improved since 2007-01-25 00:00:00. No pneumothorax. Constellation of
+external wires makes it impossible to determine if there is a
+right PIC line in place. No pneumothorax.
+.
+2007-01-25 00:00:00 CXR-unchanged
+.
+2007-01-25 00:00:00 RUQ u/s:
+IMPRESSION:
+1. Cholelithiasis without specific signs of cholecystitis.
+2. Normal flow and spectral analysis in the liver vasculature.
+.
+2007-01-25 00:00:00 CXR
+IMPRESSION: Successful placement of right-sided PICC. Increase
+in
+cardiomediastinal widening and cardiomegaly probably a function
+of cardiac
+insufficiency.
+
+
+
+2007-01-25 00:00:00 04:16PM BLOOD PT-17.3* PTT-33.8 INR(PT)-1.6*
+
+Brief Hospital Course:
+76M CAD s/p CABG and PCI with stents placed a few months ago,
+systolic CHF, pAF, CKD III, and DM2, presenting with lethargy,
+acute renal failure, pneumonia and possible  cholecystitis.
+.
+# Acute toxic-metabolic encephalopathy
+Patient had episode of brief confusion this AM. Per prior
+medical records, patient can sometimes be confused. DDx includes
+toxic-metabolic process in setting of renal dysfunction,
+infectious process, or primary neurogenic process among others.
+Latter unlikely given negative head CT and non-focal neuro exam.
+Favor metabolic encephalopathy. On admission, patient AAOx3. His
+mental status remained intact for the remainder of the
+hospitalization.
+.
+# Leukocytosis/HCAP-
+Patient presented with leukocytosis to 16.6 with neutrophilia on
+differential. He was hemodynamically stable, afebrile, and
+appeared to be perfusing well in the ICU. No adrenergic state or
+recent steroids to explain elevated white count. There was
+concern for infectious etiology given cough and evidence of PNA
+with HCAP risk and initially ? cholecystitis in setting of
+cholestatic LFTs (However, HIDA-limited study returned negative
+and abdominal ultrasound showed cholelithiasis not
+cholecystitis. Lactate was initially elevated at 2.7 initially
+at BIDN s/p IVF with admission lactate 1.3. Initially, he was
+treated with broad spectrum antibiotics including aztreonam,
+flagyl, and vancomycin for both pulmonary and GI process.
+Aztreonam was later switched to ciprofloxacin. The clinical
+picture overall was consistent with HCAP but not acute
+cholecystitis as pt did not have any abdominal pain. He
+clinically improved and was transferred to the floor on 2007-01-25 00:00:00. He
+spiked a temperature to 100.9 with leukocytosis to 20K.
+Ciprofloxacin was switched to cefepime to optimize gram negative
+coverage. He defervesced, leukocytosis improved, and oxygen was
+weaned to room air for which he remained. Final antibiotic
+regimen is IV vanco/cefepime/flagyl x8 total days. Vanco and
+flagyl to end on 2007-01-25 00:00:00 and cefepime to end on 2007-01-25 00:00:00. PICC line was
+placed and can be removed after antibiotic course is complete.
+.
+# Transaminitis
+He has had elevated LFTs in past thought to be drug-induced from
+amiodarone and atorvastatin (which were held) in outpatient
+setting. Pattern appeared to be both hepatocellular and
+cholestatic concerning for aforementioned gallbladder process
+with uncharacterized liver disease. Hepatitis viral serologies
+were sent and were negative. HIDA scan was limited but,
+unremarkable. RUQ US with doppler was negative. Off the statin,
+the transaminases improved, and this was thought to be the most
+likely etiology. Statin was not resumed during admission, but
+this can be considered after further outpatient monitoring
+especially given recent stent placement. Pt did not have any
+abdominal pain while on the medical floor.
+.
+# Acute renal failure on CKD. New baseline appears to be ~2.3.
+Range was 2.3-2.7 during admission.Attributed to increased lasix
+dosage (80mg UPMCE from 40mg UPMCE) over past few weeks as well as
+poor PO intake. FeUREA on admission 34%, also consistent with
+pre-renal process. Recently, pt had AIN from nafcillin and had
+to be temporarily dialyzed. He also received and completed a
+course of prednisone therapy prior to admission. Cr ranged from
+2.3-2.7 during admission and was 2.3 on day of discharge. Pt
+should have his creatinine monitored daily while on antibiotic
+therapy including vanco and cefepime. Of note, the renal team
+monitored the patient closely during admission. His lasix was
+restarted at 20mg daily on 2007-01-25 00:00:00 given evidence of CHF seen on CXR
+as well as slightly increased peripheral edema. Pt was not
+hypoxic. Renal follow up arranged for 2 weeks after discharge.
+.
+# Chronic systolic heart failure: Compensated during admission.
+BB dose was decreased to 50mg metoprolol UPMCE. Lasix was
+restarted on 2007-01-25 00:00:00 at 20mg daily. Had been held recently due to
+ARF. Pt is not on an ACEI presumable due to recent ARF/AIN. 2007-01-25 00:00:00
+consider in the future should Cr stabilize. Would follow I/o's
+and daily weights closely and uptitrate lasix prn pending
+creatinine values.
+.
+# atrial fibrillation: Pt with pacemaker. Pt was placed on 50mg
+UPMCE metoprolol during admission with well controlled HR
+(initially held given concern for sepsis). Pt with recent
+history of significant epistaxis vs. hemoptysis 2007-01-25 00:00:00 per OSH
+reports. Warfarin was restarted on 2.4 as his risk of CVA
+currently outweighs risk of bleeding. Pt was given 2.5mg daily.
+INR's remained subtherapeutic. INR 1.6 on day of discharge.
+Warfarin can be continually uptitrated prn after discharge. He
+was not given bridging therapy given the recent history of
+bleeding.
+.
+# CAD, s/p prior CABG and DES x2 in 2007-01-25 00:00:00: stable. BB was
+restarted with discharge dose of 50mg UPMCE metoprolol. Pt was
+continued on asa and plavix. Statin was held given
+transaminitis. This may be able to be restarted in outpatient
+setting after close monitoring of LFTs. An appointment with Dr.
+123 Any St. was made prior to discharge.
+.
+#HTN-continued BB.
+.
+# DM II uncontrolled with complications: Glucose was monitored
+closely, and once he was taking good po on the medical floor, he
+sometimes refused insulin and became markedly hyperglycemic.
+Lantus insulin dose was increased to 30U, and he was maintained
+on a Humalog sliding scale. See attached.
+.
+# Anemia: chronic disease, stable Hct. Pt can continue PO iron
+UPMCE as per outpatient regimen. HCT on discharge 29.3. Baseline
+appears to be between 27-30. Further outpatient work up, such as
+colonscopy, can be considered prn.
+.
+# BPH: stable on outpatient medications
+
+# Hypothyroidism: continued synthyroid.
+
+# ??History of strokes: resumed warfarin as noted above
+
+# Skin impairment: Patient has notable skin impairment on
+bilateral feet, also ? stage II decubitus ulcer. Wound care team
+was consulted and made helpful recommendations.
+
+# CODE STATUS: Was DNR/DNI on admission, but while in the Eun Inserra,
+pt changed code status to Full Code. This can be continually
+addressed upon discharge. Pt expressed frustration with frequent
+admissions and rehab stays.
+.
+Transitional issues-
+1.uptitrate lasix prn
+2.consider restarting zocor prn
+3.outpatient nephrology and cardiology follow ups
+4.monitoring of INR and adjustment of coumadin prn
+5.monitor of LFTs and creatinine to ensure stable/downtrending
+
+Medications on Admission:
+Patient unable to provide Eun Inserra list. This list from UPMCE
+123 Any St. list.
+- Docusate 100 mg b.i.d.
+- Aspirin 81 mg daily.
+- Lasix 80 mg twice daily,recently increased 1-1/2 weeks ago.
+- Plavix 75 mg daily.
+- Metoprolol 100 mg b.i.d.
+- Vitamin D 1000 units daily.
+- Iron sulfate 325 mg b.i.d.
+- Centrum Silver daily.
+- Potassium 20 mEq twice daily.
+- Protonix 40 mg daily.
+- Zocor 80 mg daily.
+- Glucosamine daily.
+- Levoxyl 50 mcg daily.
+- Amitriptyline 25 mg q.h.s.
+- Flomax 0.8 mg q.h.s.
+- Neurontin 300 mg q.h.s.
+- Calcium acetate t.i.d.
+- Lantus recently increased to 26 units daily.
+- Insulin sliding scale.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the 123 Any St.
+
+Discharge Diagnosis:
+# health care-associated pneumonia
+# acute renal failure
+# elevated transaminases attributed to statin
+# cholelithiasis
+
+SECONDARY:
+# chronic kidney disease stage III
+# diabetes mellitus type II, uncontrolled with complications
+# atrial fibrillation
+# hypertension on coumadin
+# CAD s/p CABG 2007-01-25 00:00:00 & 2007-01-25 00:00:00, s/p DES x2 2007-01-25 00:00:00/2007-01-25 00:00:00
+# chronic systolic CHF
+# s/p biological AVR 2007-01-25 00:00:00
+# prior CVA
+# hypothyroidism
+# BPH
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were transferred from another hospital for further treatment
+of kidney injury and pneumonia. In addition, there was initially
+a question of whether you may have infection/inflammation of
+your gallbladder but your tests were negative. You were
+initially managed in the ICU, but your symptoms improved and you
+were transferred to the medical floor. Your symptoms continued
+to improve on antibiotic therapy. You will need to continue this
+antibiotic therapy to complete a total of an 8 day course.
+.
+[**Year (4 digits) **] changes:
+1.start IV vancomycin, IV cefepime and flagyl
+2.restarted lasix at 20mg daily on 2007-01-25 00:00:00
+3.restarted coumadin at 2.5mg daily on 2007-01-25 00:00:00
+4.increased lantus to 30mg daily
+5.stopped zocor due to transaminitis
+6.decreased metoprolol to 50mg UPMCE from home dose of 100mg UPMCE
+7.neurontin and calcium acetate not given
+.
+Please take all of your medications as prescribed and follow up
+with the appointments below.
+
+Followup Instructions:
+Name: Inserra, Eun Inserra MD
+Location: Inserra DIABETES CENTER
+Address: ONE 123 Any St.,[**Numeric Identifier 711**]
+Phone: test@mail.com
+When: Friday, 2007-01-25 00:00:00:30 AM
+
+Name: Inserra, [**First Name7 (NamePattern1) 121**] Jabrandon Cayler Inserra
+Location: 123 Any St.
+CARDIAC SERVICES
+Address:123 Any St., [**Numeric Identifier 2955**]
+Phone: test@mail.com
+When: Thursday, 2007-01-25 00:00:00, 1:30 PM
+
+
+

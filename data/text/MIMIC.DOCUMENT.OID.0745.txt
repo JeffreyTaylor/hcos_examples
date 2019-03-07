@@ -1,0 +1,301 @@
+Admission Date:  2007-03-10 00:00:00              Discharge Date:   2007-03-10 00:00:00
+
+
+Service: SURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Elvern Pehling
+Chief Complaint:
+Right upper quadrant pain
+
+Major Surgical or Invasive Procedure:
+2007-03-10 00:00:00
+Laparoscopic cholecystectomy
+
+
+History of Present Illness:
+This is a 90M with a history of DM2 presenting with severe
+RUQ since last night.  He's actually had intermittent mild pain
+x
+9 days (~2007-03-10 00:00:00 day each time), but it became worse overnight
+without any 123 Any St.itating factors.  2007-03-10 00:00:00 sharp, RUQ,
+non-radiating pain.  No F/C/N/V/D.
+
+Past Medical History:
+diabetes, HTN, GERD, depression, ASA 81, colace
+
+PSH: tonsillectomy, jaw surgery, eye surgery, bilateral open
+inguinal hernia repairs
+
+
+Social History:
+Lives alone. No T, very rare EtOH, no IVDU.
+
+
+Family History:
+NC
+
+
+Physical Exam:
+(Admit)
+VS  99.6 67 180/81 18 99% RA
+Gen NAD, AAOx3 but in pain
+CV RRR
+Pulm CTAB
+Abd soft, extremely TTP RUQ, +G, no rebound; well healed
+incisions
+Ext wwp, no edema
+
+General:  NAD, alert and oriented, sitting in chair 123 Any St.
+paper
+
+Vital signs:  bp=139/79, hr 77, resp. rate 18, oxygen saturation
+98% (2 liters)
+
+CV:  Ns1, 2, -s3, -s4
+LUNGS:  Clear upper, diminshed bases
+ABDOMEN: soft, slightly distended, non-tender, steri-strips to
+port sites
+EXT:  no pedal edema bil.
+
+Pertinent Results:
+2007-03-10 00:00:00 04:35AM BLOOD WBC-6.7 RBC-3.22* Hgb-9.6* Hct-29.7*
+MCV-92 MCH-29.9 MCHC-32.4 RDW-12.7 Plt Ct-212
+2007-03-10 00:00:00 03:46AM BLOOD WBC-7.3 RBC-3.04* Hgb-9.1* Hct-27.7*
+MCV-91 MCH-29.9 MCHC-32.9 RDW-12.7 Plt Ct-179
+2007-03-10 00:00:00 07:55PM BLOOD WBC-9.3 RBC-3.50* Hgb-10.5* Hct-32.1*
+MCV-92 MCH-29.9 MCHC-32.6 RDW-12.7 Plt Ct-182
+2007-03-10 00:00:00 08:20AM BLOOD Neuts-83.9* Lymphs-11.5* Monos-3.9
+Eos-0.3 Baso-0.4
+2007-03-10 00:00:00 04:35AM BLOOD Plt Ct-212
+2007-03-10 00:00:00 03:46AM BLOOD Plt Ct-179
+2007-03-10 00:00:00 05:05AM BLOOD Glucose-116* UreaN-20 Creat-0.8 Na-145
+K-4.0 Cl-109* HCO3-27 AnGap-13
+2007-03-10 00:00:00 04:35AM BLOOD Glucose-156* UreaN-23* Creat-0.9 Na-138
+K-3.4 Cl-104 HCO3-26 AnGap-11
+2007-03-10 00:00:00 03:46AM BLOOD Glucose-133* UreaN-21* Creat-1.1 Na-139
+K-3.8 Cl-103 HCO3-27 AnGap-13
+2007-03-10 00:00:00 04:35AM BLOOD ALT-22 AST-31 AlkPhos-71 Amylase-15
+TotBili-1.4
+2007-03-10 00:00:00 11:23PM BLOOD CK(CPK)-127
+2007-03-10 00:00:00 08:20AM BLOOD ALT-13 AST-25 AlkPhos-90 Amylase-38
+TotBili-1.0
+2007-03-10 00:00:00 04:35AM BLOOD Lipase-10
+2007-03-10 00:00:00 08:20AM BLOOD Lipase-27
+2007-03-10 00:00:00 11:23PM BLOOD CK-MB-4 cTropnT-<0.01
+2007-03-10 00:00:00 05:05AM BLOOD Calcium-8.4 Phos-2.4* Mg-1.9
+2007-03-10 00:00:00 04:35AM BLOOD Calcium-8.1* Phos-2.3* Mg-1.9
+2007-03-10 00:00:00 10:53AM BLOOD Lactate-2.1*
+
+2007-03-10 00:00:00:  EKG:
+
+Artifact is present. Sinus rhythm. Ventricular ectopy. Low
+voltage in the
+limb leads. Non-specific ST-T wave changes. Compared to the
+123 Any St.us tracing  of 2007-03-10 00:00:00 ventricular ecopy and low voltage
+are new.
+TRACING #2
+
+2007-03-10 00:00:00:  Liver/gallbladder ultrasound:
+
+ IMPRESSION:
+Findings concerning for acute cholecystitis in the appropriate
+clinical
+setting with a positive sonGislaine Hesketh Gislaine Hesketh sign in a distended
+gallbladder containing stones and sludge.
+
+2007-03-10 00:00:00:  chest x-ray:
+
+FRONTAL CHEST RADIOGRAPH: Interstitial edema is not
+significantly changed;
+however, there is increasing opacification at the right lung
+base which may represent atelectasis, although superimposed
+infection cannot be excluded.
+There are small bilateral pleural effusions. There is no
+pneumothorax.
+Azygos fissure is again noted. The cardiomediastinal silhouette
+is stable. A small amount of free air underneath the
+hemidiaphragms is again noted
+consistent with recent laparotomy.
+
+2007-03-10 00:00:00:  EKG:
+
+Normal sinus rhythm. Non-specific ST-T wave changes. Compared to
+tracing #1
+the rate is slightly faster. Other findings are similar.
+TRACING #2
+
+2007-03-10 00:00:00:  chest x-ray:
+
+
+FINDINGS: In comparison with the study of 2007-03-10 00:00:00, there is little
+change in the amount of free intraperitoneal gas beneath the
+hemidiaphragm, consistent with prior surgery. Some residual
+opacification at the left base is consistent with atelectasis
+and possible effusion, though in the appropriate clinical
+setting, the possibility of supervening pneumonia would have to
+be considered.
+No evidence of pulmonary vascular congestion at this time.
+
+
+
+
+
+
+
+
+
+Brief Hospital Course:
+  The patient was seen in the emergency department and was
+determined to have acute cholecystitis. He was taken to the
+operating room for a laparoscopic cholecystectomy. Due to the
+patients severe disease, this was noted to be a very difficult
+dissection, and the cystic duct was taken using Elvern Pehling Hesketh stapler
+rather than the classic clips. The remainder of the procedure
+was prolonged, but otherwise uncomplicated. The patient
+tolerated the procedure well and was taken to the PACU for
+further recovery.  He recovered from anesthesia without
+difficulty and was transferred to the floor for observation. His
+initial recovery was uneventful and on the normal course for a
+difficult cholecystectomy. On POD 2, however, the patient was
+noted to have desaturations to 81% ad was found to be in new
+onset Afib. This was controlled with lopressor and the patient
+was transferred to the intensive care unit. A CT PE protocol was
+negative for PE, and the patient was loaded with diltiazem and a
+drip was maintained overnight. The patient converted back to
+normal sinus rhythm and his oxygen saturations recovered to his
+normal preop levels. He was given lasix for his fluid overload
+and to assist in prevention of continued afib. Following this,
+the patient was transferred back to the floor for the remainder
+of his recovery.
+  He returned to the regular floor on 2007-03-10 00:00:00.  He continued to
+have episodes of rapid heart rate which were controlled with
+metoprolol.  His regular diet was resumed.  His foley catheter
+was discontinued on POD #4 and he has been voiding without
+difficulty.  He was evaluated by physical therapy who
+recommended a rehabilitation facility to improve his overall
+conditioning in hopes of him attaining optimal recovery. Today
+he will complete his final day of unasyn.
+  He is preparing for discharge to a rehabilitation facility.
+His vital signs are stable and his episodes of rapid heart rate
+have diminished.  He is tolerating a regular diet.  He is
+voiding without difficulty.  He will follow-up with the Acute
+Care service in 2 weeks.
+
+Medications on Admission:
+Hesketh: enalapril 5mg daily, lactulose 2007-03-10 00:00:00 tspns UPMCE, metformin
+1000mg UPMCE and 500mg at noon, omeprazole 20mg daily, paroxetine
+10mg daily
+
+Discharge Medications:
+1. enalapril maleate 5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): hold for blood pressure <110, hr <60.
+2. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO TID (3 times
+a day): as neeeded for pain.
+3. tramadol 50 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6 hours)
+as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+4. paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+6. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+7. metformin 500 mg Tablet Sig: One (1) Tablet PO once a day.
+8. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) cc
+Injection TID (3 times a day).
+9. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3
+times a day): hold for blood pressure <110, hr <60.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the 123 Any St.
+
+Discharge Diagnosis:
+Acute cholecystitis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - with additional person for
+assistance
+
+
+Discharge Instructions:
+* You were admitted to the hospital with abdominal pain from
+inflammation of your gallbladder.  During surgery the
+gallbladder was noted to be very diseased.
+* You have done well and should continue to eat well and stay
+well hydrated.
+Follow the general direction below:
+
+You are being discharged on medications to treat the pain from
+your operation. These medications will make you drowsy and
+impair your ability to drive a motor vehicle or operate
+machinery safely. You MUST  refrain from such activities while
+taking these medications.
+
+Please call your doctor or return to the emergency room if you
+have any of the following:
+  * You experience new chest pain, pressure, squeezing or
+ tightness.
+
+* New or worsening cough or wheezing.
+
+* If you are vomiting and cannot keep in fluids or your
+ medications.
+
+* You are getting dehydrated due to continued vomiting,
+ diarrhea or other reasons. Signs of dehydration include dry
+ mouth, rapid heartbeat or feeling dizzy or faint when standing.
+
+* You see blood or dark/black material when you vomit or have a
+ bowel movement.
+
+
+* You have shaking chills, or a fever greater than 101.5 (F)
+ degrees or 38(C) degrees.
+
+* Any serious change in your symptoms, or any new symptoms that
+ concern you.
+
+* Please resume all regular home medications and take any new
+meds
+ as ordered.
+
+Activity:
+No heavy lifting of items 2007-03-10 00:00:00 pounds for 6 weeks. You may
+resume moderate
+exercise at your discretion, no abdominal exercises.
+
+Wound Care:
+You may shower, no tub baths or swimming.
+
+If there is clear drainage from your incisions, cover with
+clean, dry gauze.
+Your steri-strips will fall off on their own. Please remove any
+remaining strips 7-10 days after surgery.
+Please call the doctor if you have increased pain, swelling,
+redness, or drainage from the incision sites.
+
+
+Followup Instructions:
+Call the Acute Care Clinic at test@mail.com for a follow up
+appointment in 2 weeks.  Please follow-up with your primary care
+provider, Hesketh. Hesketh, in 1 week.  The telephone number is
+#test@mail.com.
+
+Provider: Gislaine Elvern Pehling Hesketh, DPM Phone:test@mail.com
+Date/Time:2007-03-10 00:00:00 4:10
+
+Provider: Elvern Pehling, M.D. Date/Time:2007-03-10 00:00:00 10:40
+
+
+
+Completed by:2007-03-10 00:00:00

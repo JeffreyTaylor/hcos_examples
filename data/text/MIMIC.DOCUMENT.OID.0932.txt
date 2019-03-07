@@ -1,0 +1,264 @@
+Admission Date:  2014-05-12 00:00:00              Discharge Date:   2014-05-12 00:00:00
+
+Date of Birth: 1990-05-12 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Gilberta Sebastiao
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+R IJ central line placement
+
+
+History of Present Illness:
+Briefly, this is 53 yo M s/p DDRT in 2014-05-12 00:00:00 who was in his usal
+state of health until 2 days prior to presentation when he
+develped non-bloody diarrhea and non bloody, non-bilious emesis.
+No sick contract, no travel, no abnormal food exposure and no
+recent antibiotic exposure. He reports lightheadedness and
+dizziness and 2 syncopal episodes.
+.
+In the emergency department he was found to be hypotensive with
+BP 70/40 (baseline SBP = 90-110) with HR = 60s-80s with a
+leukocytosis of 16K and acute on chronic renal failure with Cr =
+4.0 up from his baseline of 1.9-2.3. Code sepsis was initiated
+and he received IVF, stress dose steroids and vancomycin 1 gm,
+zosyn 2.25 gm.
+.
+In the ICU, he was hemodynamically stable and his BP normalized
+to SBP 110s without additional IVF nor need for pressors.
+.
+On the floor the pt feels comfortable, he denies any further LH
+or dizziness lying in bed and with ambulation. He denies
+abdominal pain, fevers, chills and states that he would like to
+go home in the morning.
+
+
+Past Medical History:
+ESRD ?2014-05-12 00:00:00 HTN s/p deceased donor renal transplant in 2014-05-12 00:00:00
+Gout
+HTN
+Impaired glucose tolerance
+Hyperlipidemia
+
+
+Social History:
+Born in 123 Any St., moved to US in 2014-05-12 00:00:00 at about age 23. He had
+worked in electronics but is now on disability. No tobacco,
+alcohol or IVDU.
+.
+
+
+Family History:
+father who died at 78 of kidney disease, mother who is in her
+80s and well. There is no history of diabetes or cancer in the
+family. He has one brother and two sisters who are well. He also
+has two children, ages 23(a daughter) and 17 (a son) who are
+well.
+
+Physical Exam:
+T 98.6 BP 106/77 P 94, O2 sat 97% RA
+HEENT: NC/AT, PERRL, no scleral icterus noted, MMM,
+Neck: supple, no JVD or carotid bruits ap123 Any St.ted
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Ext: No C/C/E bilaterally, 2+ DP b/l
+Skin: no rashes or lesions noted.
+
+
+Pertinent Results:
+2014-05-12 00:00:00 05:20AM   WBC-16.1*# RBC-4.89 HGB-15.2 HCT-44.9 MCV-92
+MCH-31.1 MCHC-33.9 RDW-14.5
+2014-05-12 00:00:00 05:20AM   NEUTS-78.4* LYMPHS-14.3* MONOS-6.7 EOS-0.4
+BASOS-0.2
+2014-05-12 00:00:00 05:20AM   PLT COUNT-217
+2014-05-12 00:00:00 05:58AM   LACTATE-1.4
+2014-05-12 00:00:00 07:30AM   ALBUMIN-3.1* CALCIUM-6.7* PHOSPHATE-3.0
+MAGNESIUM-1.9
+2014-05-12 00:00:00 01:37PM   freeCa-1.19
+2014-05-12 00:00:00 03:36PM   TYPE-MIX PO2-41* PCO2-30* PH-7.27* TOTAL
+CO2-14* BASE XS--11 COMMENTS-CENTRAL VE
+2014-05-12 00:00:00 01:37PM   TYPE-Dicaprio PH-7.24*
+.
+Admission CXR: no acute process. Right IJ line with tip in the
+SVC/RA junction.
+.
+CT Abd/pelvis:
+1. Mild fascial thickening posterior to the transplant kidney.
+No evidence of hydronephrosis or perinephric fluid collection.
+2. Incompletely visualized coronary artery calcifications.
+3. Cholelithiasis without evidence of cholecystitis.
+.
+Renal transplant U/S:
+A transplant kidney is seen in the right lower quadrant and
+measures 13.2 cm. There is no hydronephrosis or perinephric
+fluid collection. Resistive indices in the upper, mid, and lower
+poles are 0.64, 0.72, and 0.69 espectively. The main renal
+artery and main renal vein are patent with normal waveforms. A
+Foley catheter is in the decompressed bladder. IMPRESSION:
+Normal renal transplant ultrasound.
+.
+CT head: No intracranial hemorrhage or mass effect.
+.
+Cardiac Evaluation:
+2014-05-12 00:00:00 ETT - 8.5 METs. No anginal symptoms nor EKG changes.
+.
+Admission EKG: NSR, LAD, poor R wave progression and first
+degree av block. No acute ST changes.
+
+
+Brief Hospital Course:
+53 y.o. M with h/o ESRD s/p deceased donor kidney transplant in
+2014-05-12 00:00:00 on chronic immunosuppression presents with emesis,
+diarrhea, hypotension and acute on chronic renal failure.
+.
+1. Hypotension: Was likely due to volume loss from diarrhea and
+vomiting. Elevated WBC with left shift. Etiology most likely
+viral given lack of fever, abdominal pain.  He was continued on
+IVF with bicarbonate. He received Hydrocortisone 50mg Q8h for
+one day, then was placed back on his outpatient dose of oral
+prednisone. Pt initially received antibiotics in the ED, none
+were necessary anymore after that since his BP remained stable
+and he also remained afebrile. He was discharged with stable BP
+but off his antihypertensives. He should schedule a followup
+appointment with Dr. Gilberta Sebastiao within one week after discharge.
+At this time, it can be decided if he should continue any of his
+antihypertensives.
+.
+2. Diarrhea: Probably infectious, most likely viral, however
+atypical bacterial presentation was initially considered. Also
+in this immunosuppressed pt need to consider
+crytpo/micropsiridia and CMV. CMV was negative in the past. No
+recent antibiotic exposure and presentation not suggestive of C
+diff. Extensive stool studies were sent but pending upon
+discharge. His diet was advanced and his diarrhea resolved
+slowly after admission.
+.
+3. Non Anion Gap Metabolic Acidosis: Probably secondary to
+diarrhea, possible component of RTA in the context of worsening
+RF, however, the patient has had normal bicarbonate in the past.
+He received IVF with HCO3 and his HCO3 came back up to normal
+levels.
+.
+4. Syncopal Episodes: Unlikely to be cardiac/seizure/stroke,
+probably due to orthostatic hypotension secondary to
+hypovolemia. CT head was negative. Patient was without focal
+neurological signs. He was monitored on telemetry for 24 h.
+Hypocalcemia was repleted with IV calcium gluconate as needed.
+.
+5. ESRD s/p DDRT 10 years ago on neoral and imuran and
+prednisone. Renal US was wnl w/o signs of rejection. He was
+continued on neoral, imuran and prednisone (except for one day
+while being on stress dose steroids instead of his PO
+prednisone).
+.
+6. Acute on chronic renal insufficiency: likely secondary to
+hypovolemia, quickly improved with IVF. Back to baseline (around
+2.0) on 2014-05-12 00:00:00.
+.
+7. Hypocalcemia: no QT prolongation. Probably secondary to
+diarrhea. Repleted with IV calcium gluconate.
+.
+8. Hypertension: Initially hypotensive. Resolved after IVF. Then
+remained normotensive. All antihypertensives were held given
+hypotension. They should be restarted as an outpatient.
+.
+9. Prophylaxis: Tolerating POs, pantoprazole while on steroids,
+ISSC while on steroids, SQ heparin
+.
+10. Access: RIJ was placed on 2014-05-12 00:00:00, then pulled the next
+day. PIV.
+.
+11. Code: FULL
+
+
+Medications on Admission:
+COLCHICINE 0.6MG po qd prn gout
+HYDRALAZINE HCL 50MG po bid
+IMURAN 50MG po q day
+LOPRESSOR 100MG po qday
+NEORAL 50MG UPMCE
+PREDNISONE 5MG po qday
+PROBENECID 500MG--One by mouth twice a day for gout
+VASOTEC 10MG--One by mouth every day
+Ranitidine 150mg po bid
+
+
+Discharge Medications:
+1. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Cyclosporine Modified 25 mg Capsule Sig: Two (2) Capsule PO
+Q12H (every 12 hours).
+3. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Probenecid 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+5. Ranitidine HCl 150 mg Capsule Sig: One (1) Capsule PO twice a
+day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Gastroenteritis with hypotension, self-limited, likely viral
+2. ESRD s/p deceased donor renal transplant
+3. Hypertension
+
+Secondary Diagnosis:
+
+1. Gout
+2. Hyperlipidemia
+
+
+Discharge Condition:
+Afebrile. Hemodynamically stable. Ambulating. Tolerating PO.
+
+
+Discharge Instructions:
+You have suffered from a gastroenteritis which was likely caused
+by a virus. Your blood pressure was low and you received
+intravenous fluids and briefly antibiotics.
+.
+Please call your primary doctor or return to the ED with fever,
+chills, chest pain, shortness of breath, nausea/vomiting,
+worsening diarrhea, spontaneous bleeding or any other concerning
+symptoms.
+
+.
+
+Please take all your medications as directed. You should hold
+your blood pressure medications (lopressor, hydralazine and
+vasotec) until your next outpatient visit when it will be
+decided if you should be restarted on them or not.
+
+.
+
+Please keep you follow up appointments as below.
+
+
+Followup Instructions:
+We have called to schedule you an appointment with [**First Name4 (NamePattern1) 959**]
+Dicaprio, MD Phone:test@mail.com. The office will call you with
+your appointment time.  You should have your blood checked (CBC,
+calcium) and follow up with her on your blood pressure
+medications and kidney function.
+.
+In addition, please keep the following scheduled appointments:
+.
+Provider: [**First Name4 (NamePattern1) 959**] Dicaprio, MD Phone:test@mail.com
+Date/Time:2014-05-12 00:00:00 9:30
+.
+Provider: Gilberta Sebastiao, M.D. Date/Time:2014-05-12 00:00:00 4:10
+
+
+                             [**First Name4 (NamePattern1) 959**] Dicaprio MD 361
+

@@ -1,0 +1,405 @@
+Admission Date:  2012-02-04 00:00:00              Discharge Date:   2012-02-04 00:00:00
+
+Date of Birth: 2001-01-29 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Agata Mestrovich
+Chief Complaint:
+shortness of breath and chest pain
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+85 year old man with CAD, chronic systolic CHF EF40%, HTN, HLD,
+CKD, peripheral vascular disease, presents with shortness of
+breath and chest pain. Pt states that two days ago he developed
+some CP pain and sob. He took ntg with resolution of CP, however
+the sob got progressively worse. He felt that he had a "lack of
+O2", and also that there was "fluid on his lungs". He denies
+n/v/diaphoresis but did have some coughing with "pinkish
+phlegm". He denies acute onset but states rather that the SOB
+progressed over night, worse with exertion and laying flat. He
+also notes some increased LE edema. He denies f/c/n/v. He also
+notes that 2wks ago he had flu like symptoms and since then has
+been feeling generally unwell.
+.
+In the ED, initial vitals were 97.7 78 136/86 18 100% RA. Labs
+significant for trop 2.13, Na 129, Cr 1.9, K 5.7, Hct 32.8, INR
+1.1. CXR showed bilateral pulmonary edema. ECG showed NSR at
+75bpm, borderline left axis, q waves V1-V3 and III and avF, t
+wave inversion avL, no other ST/T changes. He was given 20mg IV
+lasix. Most recent vitals prior to transfer:
+.
+On arrival to the floor, patient was seen with the nurse who
+speaks Russian. The patient states that approximately 7-10 days
+ago, he started developing shortness of breath and fatigue on
+exertion. He states that around the same time, he developed a
+cold that involved sinus congestion and a cough and a cold sore
+on his lip. The patient states that his shortness of breath got
+progressively worse as the days passed. He states that he has
+also gained approx 9 pounds and now weighs 209 pounds, since
+these symptoms began. He also states that approx 3 days ago, he
+developed chest pain. He states that the pain did not radiate
+anymore. He states that the pain resolved after 2-3 hours when
+he took 2 sublingual nitroglycerin tabs. He denies any nausea,
+vomiting, GI upset, changes in stools, or any other symptoms
+with the chest pain. The patient states that he was seen as an
+outpatient approx 10 days ago and had an EKG and an ECHO done.
+THe patient now presented with concerns with his worsening
+shortness of breath.
+.
+On the floor, he was initially treated with heparin drip for
+NSTEMI, but then dced.  He was started on a lasix drip for CHF.
+Down 1.5L at 5pm, pressures tending down from SBP 160s/90s to
+100s/40s, then 70s-80s/30s-40s.  Flipped into Afib with RVR
+today at 11pm.  PMH of Afib on one occasion following epistaxis
+in 2012-02-04 00:00:00.  He got 2.5 Metoprolol, BP trended down, now high
+60s/70s.  Got 500cc bolus, considering amiodarone, but decided
+to transfer to CCU for further management.
+.
+Currently, he is alert and orientated x 3, denies any chest
+pain, headache, dizziness, palpitations, dyspnea.  BP improved
+to high 80s/60, remains tachycardic around 120s.  He was given 5
+mg IV metoprolol, but remained tachycardic, and dropped BP to
+70s systolic, MAP around 55.
+
+
+Past Medical History:
+Percutaneous coronary intervention, in 2012-02-04 00:00:00 with stent of distal
+LCx
+PERIPHERAL VASCULAR DISEASE with CLAUDICATION
+CORONARY ARTERY DISEASE with ANGINA
+HYPERTENSION
+HYPERCHOLESTEROLEMIA
+ABDOMINAL AORTIC ANEURYSM
+GERD
+MONOCLONAL GAMMOPATHY
+GOUT
+MEMORY LOSS
+HEARING LOSS
+PSORIASIS
+H/O RETINAL ARTERY OCCLUSION
+H/O PYELONEPHRITIS
+
+Social History:
+The patient emigrated to the United States from 123 Any St.. The
+patient is retired, used to be on an Armenian submarine in
+123 Any St.. The patient quit smoking in 2012-02-04 00:00:00 after 20 pack year
+history, has an average of one drink a week, no history of
+recreational drug use.
+
+
+Family History:
+The patient states his father had heart problems but lived until
+84 years of age. No other known medical history.
+
+Physical Exam:
+ON ADMISSION
+VS: T= 97.7 BP= 145/98 HR= 75 RR= 22 O2 sat= 97 RA
+GENERAL: some dyspnea. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Nasal Cannula in place. Sclera anicteric. PERRL,
+EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral
+mucosa. No xanthalesma.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. holosystolic murmur. No thrills, lifts.
+No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. some
+dyspnea. bilateral crackles in bases.
+ABDOMEN: Soft, NTND. No HSM or tenderness. no masses. no rebound
+tenderness or guarding
+EXTREMITIES: 1+ pitting edema in lower extremities bilaterally,
+warm and well perfused
+Rectum - stools are guaiac negative.
+.
+PT Dilraj Morquecho.
+
+Pertinent Results:
+CBC:
+2012-02-04 00:00:00 01:50PM BLOOD WBC-6.8 RBC-3.28* Hgb-10.8* Hct-32.4*
+MCV-99* MCH-33.0* MCHC-33.5 RDW-15.2 Plt Ct-190
+2012-02-04 00:00:00 03:15AM BLOOD WBC-12.6*# RBC-2.64* Hgb-9.2* Hct-26.4*
+MCV-100* MCH-34.8* MCHC-34.9 RDW-16.2* Plt Ct-262
+DIFF:
+2012-02-04 00:00:00 01:50PM BLOOD Neuts-84.2* Lymphs-10.7* Monos-4.0
+Eos-0.6 Baso-0.4
+COAGS
+2012-02-04 00:00:00 03:15AM BLOOD PT-12.1 PTT-134.6* INR(PT)-1.1
+ELECTROLYTES:
+2012-02-04 00:00:00 01:50PM BLOOD Glucose-155* UreaN-53* Creat-1.9* Na-129*
+K-5.7* Cl-96 HCO3-19* AnGap-20
+2012-02-04 00:00:00 07:50PM BLOOD Glucose-129* UreaN-73* Creat-2.4* Na-130*
+K-4.7 Cl-95* HCO3-21* AnGap-19
+2012-02-04 00:00:00 03:49AM BLOOD Glucose-213* UreaN-71* Creat-1.9* Na-131*
+K-3.8 Cl-94* HCO3-21* AnGap-20
+2012-02-04 00:00:00 03:15AM BLOOD Glucose-95 UreaN-111* Creat-2.2* Na-136
+K-4.4 Cl-97 HCO3-24 AnGap 19
+LFTS:
+2012-02-04 00:00:00 07:50AM BLOOD ALT-125* AST-87* CK(CPK)-226 AlkPhos-141*
+TotBili-1.1
+CEs:
+2012-02-04 00:00:00 01:50PM BLOOD CK-MB-8 proBNP-[**Numeric Identifier 5415**]*
+2012-02-04 00:00:00 01:50PM BLOOD cTropnT-2.13*
+2012-02-04 00:00:00 05:30PM BLOOD CK-MB-9 cTropnT-2.41*
+2012-02-04 00:00:00 01:49AM BLOOD CK-MB-10 MB Indx-5.8 cTropnT-2.77*
+2012-02-04 00:00:00 03:00AM BLOOD CK-MB-9 cTropnT-2.55*
+2012-02-04 00:00:00 05:00PM BLOOD CK-MB-36* MB Indx-13.2* cTropnT-2.68*
+2012-02-04 00:00:00 03:15AM BLOOD CK-MB-5 cTropnT-2.67*
+OTHER:
+2012-02-04 00:00:00 10:28AM BLOOD Lactate-1.2
+2012-02-04 00:00:00 12:18PM BLOOD Lactate-8.5*
+2012-02-04 00:00:00 12:18PM BLOOD Type-CENTRAL VE pO2-39* pCO2-28* pH-7.30*
+calTCO2-14* Base XS--11
+.
+URINE:
+2012-02-04 00:00:00 03:20PM URINE Blood-NEG Nitrite-NEG Protein-100
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+2012-02-04 00:00:00 06:33PM URINE Blood-NEG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+URINE CULTURE (Final 2012-02-04 00:00:00):    NO GROWTH.
+URINE CULTURE (Final 2012-02-04 00:00:00):    NO GROWTH.
+blood cultures no growth to date on day of death.
+.
+IMAGING:
+CXR 2012-02-04 00:00:00
+FINDINGS: Frontal and lateral views of the chest were obtained.
+Low lung
+volumes limit evaluation. There are bilateral pulmonary
+opacities which are most confluent in the lung bases. Central
+pulmonary hilar engorgement with interstitial and alveolar edema
+is present. Bilateral pleural effusions are small to moderate.
+No pneumothorax. Heart size appears enlarged though poorly
+assessed. Mediastinal contour is stable with atherosclerotic
+calcification along the aortic knob. Bony structures are intact.
+
+IMPRESSION: Findings compatible with pulmonary edema/heart
+failure.
+Small-to-moderate bilateral pleural effusions also present.
+.
+CXR: 2012-02-04 00:00:00
+FINDINGS: As compared to the 123 Any St.us radiograph, there is a
+decrease in
+extent of the bilateral pleural effusions. Sequence decrease in
+severity of the basal areas of atelectasis. Unchanged moderate
+cardiomegaly, currently without evidence of pulmonary edema.
+.
+KUB 2012-02-04 00:00:00
+ABDOMEN, SUPINE
+The distribution of gas in the abdomen is unremarkable. No
+edematous areas of bowel are seen. There is no evidence of
+obstruction or infarction. Vascular calcification is noted.
+.
+EKG on admission 2012-02-04 00:00:00: Rate 133, atrial fibrillation with
+RVR, occasional PVCs, normal/borderline left axis deviation., LV
+hyprtrophy.  normal rhythm, normal/borderline left axis, Q waves
+in III, V2-V4. ST segments depressed in I, AVL, V6 but unchaged
+from prior EKG.
+.
+ECHO 2012-02-04 00:00:00: The left atrium is mildly dilated. The right
+atrium is moderately dilated. The left ventricular cavity is
+moderately dilated. There is mild to moderate regional left
+ventricular systolic dysfunction with inferolateral akinesis,
+inferior akinesis/hypokinesis and apical hypokinesis. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets are moderately thickened. There is
+moderate aortic valve stenosis (valve area 1.0-1.2cm2). Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Moderate to severe (3+) mitral regurgitation
+is seen. The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension. There
+is no pericardial effusion.
+On color Doppler imaging, there is an interatrial shunt
+consistent with stretched PFO or an atrial septal defect.
+(Images of the interatrial septum were suboptimal in the prior
+study).
+Compared with the prior study (images reviewed) of 2012-02-04 00:00:00,
+the mid anterolateral wall now appears more hypokinetic and the
+anterior apex is now hypokinetic (may have been foreshortened in
+the prior study). The aortic valve gradient is similar.
+Estimated pulmonary artery systolic pressure is now higher.
+.
+CARDIAC CATH: 2012-02-04 00:00:00:
+COMMENTS:
+1. Selective coronary angiography in this right dominant system
+
+demonstrated severe three vessel disease. The LMCA had mild
+disease. The LAD had a 90% occlusion before S1 with filling of a
+small, diffusely diseased distal vessel via septal collaterals
+that was unchanged from 2012-02-04 00:00:00. The LCx had four widely patent
+stents with no significant disease in the large major marginal.
+The very small marginals before the major marginal and AV Cx
+were occluded which was also unchanged from 2012-02-04 00:00:00. The RCA was
+known occluded and was not injected; the distal vessel fills via
+septal collaterals.
+2. Limited resting hemodynamics revealed moderate systemic
+hypertension with SBP of 162 mm Hg and DBP of 76 mm Hg.
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease with patent LCx stents,
+
+unchanged from 2012-02-04 00:00:00.
+2. NSTEMI related to collateral insufficiency during rapid
+atrial
+fibrillation.
+.
+ECHO 2012-02-04 00:00:00
+The left atrium is moderately dilated. Color-flow imaging of the
+interatrial septum raises the suspicion of an atrial septal
+defect, but this could not be confirmed on the basis of this
+study. The estimated right atrial pressure is at least 15 mmHg.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. There is severe regional left
+ventricular systolic dysfunction with inferior akinesis,
+inferolateral akinesis/hypokinesis, anteroseptal
+hypokinesis/akinesis and apical akinesis. No left ventricular
+thrombus identified but cannot exclude. [Intrinsic left
+ventricular systolic function is likely more depressed given the
+severity of valvular regurgitation.] There is no ventricular
+septal defect. The remaining left ventricular segments contract
+normally. Right ventricular chamber size is normal with moderate
+global free wall hypokinesis. The aortic valve leaflets are
+severely thickened/deformed. There is moderate aortic valve
+stenosis (valve area 1.0-1.2cm2). Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Moderate
+to severe (3+) mitral regurgitation is seen. Moderate to severe
+[3+] tricuspid regurgitation is seen. The pulmonary artery
+systolic pressure could not be determined. There is an anterior
+space which most likely represents a prominent fat pad.
+Compared with the prior study (images reviewed) of 2012-02-04 00:00:00,
+left ventricular systolic function is now worse. Right
+ventricular systolic function is now worse. Tricuspid
+regurgitation is now more prominent.
+
+
+Brief Hospital Course:
+85 year old gentleman with extensive cardiac history including
+BMS, CAD, CHF (EF40%), moderate AS 1.0-1.2, 3+ MR, CKD, HTN, HL,
+presents with 7-10 days of worsening SOB, edema in legs b/l,
+increased weight. These symptoms began with a URI at the same
+time. Had one episode of chest pain that resolved with sl nitro.
+Pt found to be in Afib with RVR.
+.
+# Chronic congestive heart failure with acute exacerbation:
+patient had increasing weight and pitting edema in lower
+extremities and increased shortness of breath prior to
+admission. These symptoms began with "URI symptoms" and one
+episode of chest pain that was likely a cardiac event. The
+patient takes 10 mg lasix daily at home. Was diuresed 2L on
+admission to floor but given back almost 1L in response to
+hypotension after developing afib/RVR. Lasix was held at that
+time. ECHO 2012-02-04 00:00:00 revealed severe AS valve area 1.0-1.2cm2 with
+3+ mitral and tricuspid regurg and EF of 20%.
+.
+# abdominal distension and pain with elevated lactate - unclear
+etiology however on 2012-02-04 00:00:00 pt developed abdominal pain and
+distension which progressively worsened, KUB without evidence of
+obvious pathology. Suspicion for volvulus or some other
+intra-abdominal process causing ischemia. Pt developed worsening
+hypotension. Pt had been otherwise improving from a
+cardiovascular standpoint. Pt declined any surgical intervention
+and was made CMO. Pt 2012-02-04 00:00:00 on 2012-02-04 00:00:00.
+.
+# Atrial Fibrillation with RVR:  Pt was initially admitted to
+UPMCE. On day of admission he flipped into AFib around 11pm, with
+decreased BP to 70s systolic.  Was given 2.5 mg metoprolol with
+no improvement in HR, worsening BP.  Patient has history of
+paroxysmal A-fib. Was given 5mg metoprolol with BP drop to MAP
+of 50 and minimal improvement in rate. Amiodarone was started
+for rate/rhythm control. Cardioversion was attempted x3 200,
+300, 300 - unsuccessful. Pt received ketamine and versed during
+cardivoersion ettempt with further hypotension after shocks see
+hypotension below. The afternoon after cardioversion on 2012-02-04 00:00:00
+pt spontaneously converted to sinus rhythm. He went back into
+afib on 2012-02-04 00:00:00 until he received IV metoprolol for an episode
+of ventricular tachycardia, see below, at which point he
+converted back to sinus with frequent ectopy. Infectious
+processes were ruled out as pt had no growth on blood and urine
+cultures and without evidence of localized infiltrate on CXR.
+.
+#ventricular tachycardia - on 2012-02-04 00:00:00 pt was in Afib but had
+roughly 3 minutes of ventricular tachycardia - this was
+asymptomatic and pt remained stable with slight decrease in
+blood pressure, maintained on pressors see hypotension below. Pt
+had no further episodes of sustained VT.
+.
+# Hypotension: In the setting of 2L diuresis on admission and
+recurrence of afib with RVR. Lowest MAPs were in the 50s
+immediately after metoprolol, but MAP generally around 60. Held
+home antihypertensives (isosorbide, metoprolol, lisinopril,
+lasix). Cardioversion was attempted, unsucessful as above but
+followed by further hypotension Maps in the 50s. Pt was started
+on neosynephrine for MAPs consistently below 55. PICC was placed
+on 2012-02-04 00:00:00.
+.
+# Acute on Chronic Renal Failure: baseline creatinine is
+1.3-1.5. He presented with creatinine of 1.9, creatinine trended
+up to peak at 2.4. Likely pre-renal given severe AS and severe
+MR. Pt then required pressors for 48 hours which was felt to be
+responsible as well. Pt was diuresed successfully and creatinine
+remained stable at roughly 2.0
+.
+# Elevated troponins - likely MI. patient had one episode of
+chest pain that resolved with 2 SL nitroglycerin tabs. Patient
+has extensive cardiac history. Was found to have elevated
+cardiac enzymes in ED. Patient denies any other symptoms with
+chest pain including acute SOB, sweating, nausea, vomiting.
+Patient's EKG shows some changes since a year ago, but mainly q
+waves. The heart axis is more leftward than a year ago. It was
+suspected that pt had experienced an MI which explained the
+troponin bump and symptoms.
+.
+# Hypertension: history of hypertension. Held home
+antihypertensives in the setting of hypotension.  Is on
+lisinopril, isosorbide, lasix at home.
+.
+# Hypercholesterolemia: started atorvastatin 80 (on simva 80 at
+home).
+.
+# oliguria - felt to be secondary to poor perfusion of kidneys
+in setting of hypotension requiring pressors, see Morquecho above.
+Resolved with successful diuresis in response to lasix.
+.
+#Hyperkalemia - K of 5.7 on presentation, felt secondary to Morquecho.
+Resolved, pt asymptomatic. No ECG changes of hyperkalemia.
+.
+#hyponatremia: presented with Na of 129. Sodium remained in the
+low 130s for several days but improved with optimization of
+volume status, see CHF above.
+
+
+Medications on Admission:
+ALLOPURINOL - 300 mg daily
+CLOPIDOGREL [PLAVIX] - 75 mg daily
+DUTASTERIDE [AVODART] - 0.5 mg qHS
+FUROSEMIDE - 10 mg QDAILY
+ISOSORBIDE MONONITRATE - 60 mg daily
+LISINOPRIL - 10 mg daily
+METOPROLOL SUCCINATE [TOPROL XL] - 200 mg daily
+SIMVASTATIN - 80 mg daily
+ASCORBIC ACID [VITAMIN C] - 500 mg daily
+ASPIRIN - 81 mg daily
+DOCUSATE CALCIUM - 240 mg daily
+FERROUS SULFATE - 325 mg daily
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Morquecho
+
+Discharge Diagnosis:
+congestive heart failure
+
+Discharge Condition:
+Morquecho
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+

@@ -1,0 +1,476 @@
+Admission Date:  2005-11-20 00:00:00              Discharge Date:   2005-11-20 00:00:00
+
+Date of Birth: 1931-12-14 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Adhesive Tape
+
+Attending:Dennae Fogelsong
+Chief Complaint:
+Altered mental status, hypotension, hypoxia.
+
+
+Major Surgical or Invasive Procedure:
+CT-guided drainage of left gluteal abscess (2005-11-20 00:00:00).
+
+
+History of Present Illness:
+Mrs. 123 Any St.
+2005-11-20 00:00:00 anterior spinal artery infarct, indwelling suprapubic
+catheter with frequent UTIs admitted with altered mental status
+and hypoxia.  Per nursing facility notes, the patient was noted
+to be unresponsive to voice commands but responsive to tactile
+stimuli.  Vitals at the time were BP 100/50, HR 100, RR 20, O2
+80% on RA which increased to 97% on 6 L NC.  Reportedly, she is
+alert & oriented X 3 at her baseline.  Of note, she is currently
+on nitrofurantoin 100 mg PO BID for a UTI (? culture result)
+which she started on 2005-11-20 00:00:00 for a planned 10 day course.  She
+apparently also complained of nausea and may have vomited so
+lactulose was held today.
+.
+On arrival to the ED, initial vitals were T 102.1, HR 100, BP
+132/56, RR 24, 97% on 15 L via nasal cannula.  Blood pressure
+trended down to 80s systolic.  She was originally on peripheral
+dopamine for BP improvement but as this was not effective, it
+was changed to peripheral levophed with subsequent improvement
+in blood pressures to 120s systolic.  Blood and urine cultures
+were sent.  She was treated with PR tylenol, levofloxacin 750 mg
+IV X 1, vancomycin 1 g IV X 1, and 1 g ceftriaxone X 1.  She
+received a total of 6 L NS in the ED.
+.
+On arrival to the MICU, the patient denies any pain.  She is
+alert and speaking a few words at a time though they are
+difficult to interpret.  She specifically denies any shortness
+of breath or any abdominal pain.
+
+Past Medical History:
+Past Medical History: (from OMR)
+- Para123 Any St. 2005-11-20 00:00:00 Anterior Spinal Infarct (2005-11-20 00:00:00)
+- Thoracic Aneurysm Repair (2005-11-20 00:00:00)
+- COPD (? on home O2). With history of LLL Collapse/PNA s/p
+mucous plug removal via bronchoscopy.
+- HTN
+- Hyperlipidemia
+- GERD
+- Suprapubic Catheter Placement / UTIs on Ppx Bactrim
+- Fecal Incontinence
+- Depression
+- Atraumatic comminuted L intertrochanteric femur fracture
+- Chronic sacral decubitus ulcers with past bilateral ischial
+tuberosity osteomyelitis
+
+Social History:
+The patient admits 2-3ppd x 40+ years, but has smoked
+intermittently for the past five years. The patient denies
+alcohol or illicit drug use. Her son, Aldene Denson, is listed as her
+HCP (test@mail.com); however, he tells me that she "has made it
+clear she wants nothing to do with him" and he defers to his
+other brother Aldene Denson, test@mail.com.
+
+
+Family History:
+Son has DM.
+
+Physical Exam:
+VS T 101.3, HR 84, BP 153/42, RR 23, O2 97% on 4L NC
+Gen: obese elderly woman lying in bed, eyes open, no acute
+distress
+HEENT: PERRL, EOMI, OP clear, MMM
+Neck: no JVD, no lymphadenopathy, no meningismus
+CV: RRR, no ap123 Any St.ble murmur
+Chest: grossly clear with occasional expiratory wheezing
+Abd: obese, distended but soft, normoactive bowel sounds, no
+tenderness to palpation; suprapubic catheter in place with
+dressing; + erythematous yeast infection inferior to both
+breasts and in groin around to back
+Ext: upper extremities with > tone than lower extremities,
+bilateral lower ext in multipodus boots, no peripheral edema
+Back: sacral ulcer which probes to bone, some thick tan
+discharge in wound but tissue appears beefy red; bilateral
+ischial ulcers 2 cm in size
+Neuro: face symmetric, CN II-XII grossly intact, bilateral hand
+grip 2005-11-20 00:00:00, shoulder shrug symmetric bilaterally, does not move
+either leg, DTRs not elicited at bilateral biceps, patellae;
+speaking short sentences & seems to appropriately answer yes/no
+questions; denies any pain; toes mute bilaterally; upper
+extremities stiff.
+
+Pertinent Results:
+Labs at admission
+2005-11-20 00:00:00 11:00AM BLOOD WBC-16.7*# RBC-4.56 Hgb-12.1 Hct-36.8
+MCV-81* MCH-26.6* MCHC-32.9 RDW-17.6* Plt Ct-416
+2005-11-20 00:00:00 11:00AM BLOOD Neuts-88.5* Lymphs-7.6* Monos-3.1 Eos-0.3
+Baso-0.4
+2005-11-20 00:00:00 07:37PM BLOOD PT-17.8* PTT-25.6 INR(PT)-1.6*
+2005-11-20 00:00:00 11:00AM BLOOD Glucose-141* UreaN-9 Creat-0.5 Na-145
+K-2.8* Cl-104 HCO3-29 AnGap-15
+2005-11-20 00:00:00 07:37PM BLOOD Albumin-2.4* Calcium-6.6* Phos-1.4*#
+Mg-1.7
+.
+Culture data
+.
+2005-11-20 00:00:00      ABSCESS GRAM STAIN-FINAL; WOUND CULTURE-FINAL
+{STAPH AUREUS COAG +}; ANAEROBIC CULTURE-123 Any St.INARY INPATIENT
+2005-11-20 00:00:00      BLOOD CULTURE   negative
+2005-11-20 00:00:00      BLOOD CULTURE   negative
+2005-11-20 00:00:00      BLOOD CULTURE   negative
+2005-11-20 00:00:00      BLOOD CULTURE   negative
+2005-11-20 00:00:00      BLOOD CULTURE   negative
+2005-11-20 00:00:00      BLOOD CULTURE   negative
+2005-11-20 00:00:00      BLOOD CULTURE   negative
+2005-11-20 00:00:00      BLOOD CULTURE   negative
+2005-11-20 00:00:00 	BLOOD CULTURE 	MRSA
+2005-11-20 00:00:00 	BLOOD CULTURE 	negative
+2005-11-20 00:00:00 	BLOOD CULTURE 	negative
+2005-11-20 00:00:00 	BLOOD CULTURE 	negative
+2005-11-20 00:00:00 	BLOOD CULTURE 	MRSA
+2005-11-20 00:00:00 	URINE CULTURE   YEAST
+2005-11-20 00:00:00 	BLOOD CULTURE 	negative
+2005-11-20 00:00:00 	BLOOD CULTURE 	negative
+2005-11-20 00:00:00 	BLOOD CULTURE 	negative
+2005-11-20 00:00:00 	BLOOD CULTURE 	negative
+2005-11-20 00:00:00 	URINE CULTURE   YEAST
+2005-11-20 00:00:00 	BLOOD CULTURE 	MRSA
+.
+Studies
+.
+Chest x-ray (2005-11-20 00:00:00)
+There is bilateral atelectasis. There is no evidence of focal
+consolidation that would be indicative of pneumonia.  There is
+no evidence of congestive heart failure. The mediastinal and
+cardiac contours are stable. There is again evidence of
+post-surgical changes. There is no pleural effusion and no
+evidence of pneumothorax. The visualized osseous structures are
+stable.
+IMPRESSION: No evidence of pneumonia.
+.
+Transthoracic echocardiogram (2005-11-20 00:00:00)
+The left atrium and right atrium are normal in cavity size.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and global systolic function (LVEF>55%). Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. Tissue Doppler imaging suggests an
+increased left ventricular filling pressure (PCWP>18mmHg). The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic regurgitation. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+The pulmonary artery systolic pressure could not be determined.
+There is a trivial/physiologic pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Compared with the prior study (images reviewed) of 2005-11-20 00:00:00,
+the findings are similar.
+.
+CT head without contrast (2005-11-20 00:00:00)
+1. No evidence of acute intracranial abnormalities.
+2. Fluid in the right maxillary sinus, which may indicate acute
+sinusitis.
+.
+MR pelvis (2005-11-20 00:00:00)
+IMPRESSION:
+1. Large sacral/coccygeal decubitus ulcer extending up to the
+inferior
+sacrum. Abnormal signal involves both sides of the inferior
+sacrum, likely
+from a combination of osteomyelitis. Te possibility of a
+superimposed
+nondisplaced left sacral alar insufficiency fracture cannot be
+excluded.
+2. 2.6- cm rim-enhancing high T2 structure in the left gluteal
+soft tissues lateral to and apparently communicating with the
+ulcer tract -- ? abcess collection vs packing material in recess
+of ulcer. Please see comment above.
+3. Stable appearance of the ulcer tracts extending up to the
+ischial
+tuberosities bilaterally with abnormal signal and enhancement
+about the
+posterior aspect of the ischial tuberosities, consistent with
+osteomyelitis.
+4. Old left intertrochanteric fracture only partially imaged on
+today's
+study.
+5. Prominent sacral Tarlov's cysts.
+6. Suprapubic catheter seen approaching the bladder; it is
+difficult on the images performed today to determine if the
+balloon and tip are in fact within the bladder lumen. Clinical
+correlation is therefore requested -- is this tube draining
+urine?.
+7. Distended large bowel most consistent with ileus.
+.
+MR brain (2005-11-20 00:00:00)
+1. Unchanged bilateral white matter foci of hyperintensities on
+T2-weighted and FLAIR images may correspond to chronic
+microvascular ischemia.
+2. No evidence of acute infarction, masses, or other lesions.
+3. Limited MRA evaluation of the brain due to a significant
+image degradation from motion artifact demonstrates no
+identifiable stenosis, occlusion, aneurysm in the visualized
+vessels. The MCAs and the left vertebral artery are poorly
+visualized.
+.
+EEG (2005-11-20 00:00:00)
+IMPRESSION: This is a normal routine EEG in the waking and
+drowsy
+states. There is no evidence of focal slowing or epileptiform
+discharges.
+.
+CT-guided drainage of left gluteal abscess (2005-11-20 00:00:00)
+1. Successful CT-guided aspiration of approximately 1 cc of
+bloody pus from the left parasacral/left gluteal collection.
+2. Sclerosis of both ischial tuberosities, highly suggestive of
+osteomyelitis.
+3. Persistent left intertrochanteric fracture.
+.
+Chest x-ray PA and lateral (2005-11-20 00:00:00)
+There are multiple healed rib fractures from prior thoracotomy
+on the left, with residual osseous deformity. Right PICC
+terminates in the superior vena cava. There is bibasilar
+atelectasis.
+IMPRESSION: No ap123 Any St.ble change from the prior study.
+
+Brief Hospital Course:
+A 72 year-old woman with past medical history notable for
+para123 Any St. secondary to spinal artery infarct, COPD, and
+indwelling suprapubic catheter admitted with mental status
+change, fever, and leukocytosis.
+.
+1. Septic shock.
+She presented with low blood pressure, elevated white count,
+fever, and mental status change.  She was bolused with 6L normal
+saline in the ED and started on dopamine.  When she arrived to
+the ICU levophed was running peripherally with systolic blood
+pressures in the 130s. This was quickly weaned off and her
+systolic BP stablized in the 90-110s.
+   Overnight, she was started on vancomycin and cefepime for
+empiric coverage of sepsis from UTI versus other source, such as
+large stage IV sacral decubitus ulcer.  A blood culture from
+this first hospital day later grew out methicillin resistent
+staph aureus.  A urine culture grew out Aldene Denson but no
+significant bacteria.  Thus the vancomycin was continued and
+cefepime discontinued on hospital day 3.  Her suprapubic
+catheter was changed in the ICU.
+   Infectious disease was consulted for treatment
+recommendations.  They agreed that sacral decubitus ulcer was
+the likely source for bacteremia and recommended MR Aldene Denson
+for sacral osteomyelitis as well as TTE to Denson for valvular
+vegetations.  Blood cultures were followed serially.  The
+echocardiogram, as above, was negative for endocarditis.  Three
+subsequent blood cultures grew out MRSA; the last was on 2005-11-20 00:00:00.
+Vancomycin was continued.  Surveillance cultures were followed
+through 2005-11-20 00:00:00 and all returned negative.  Once therapeutic on
+vancomycin, she defervesced and her white count returned to
+123 Any St..
+   She will need to complete a six-week course of vancomycin
+(last day will be 2005-11-20 00:00:00) for treatment of osteomyelitis.
+A right PICC line has been placed for this purpose.
+.
+2. Altered mental status.
+On admission, she was minimally interactive, somnolent, and
+disoriented.  Overnight in the ICU, her mental status improved
+such that she was talking and interactive, with improved speech,
+following commands and oriented x3 by the first hospital day.
+This is how she appeared when she was transferred to the
+medicine floor. It was believed at the time that her altered
+mental status was due to fever and infection.
+   However, when she did not make significant improvement over
+the first weekend, neurology was consulted.  Per their note, the
+altered mental status was likely secondary to toxic/metabolic
+encephalopathy in the context of infection.  However, they
+recommended MR Aldene Denson for stroke and consideration of
+lumbar puncture.  MR brain showed no acute abnormalities.  Her
+mental status continued to improved during the week, although
+she still has periods of waxing and Dennae Fogelsong alertness.  Her
+oxygen sats have been fine on RA, CXR was negative for
+infiltrate, and MR as above was negative.
+.
+3. Urinary tract infection / leakage around suprapubic catheter.
+Her first urine culture grew out >100,000 colonies of Aldene Denson.
+She had been started on fluconazole in the unit and her
+suprapubic catheter changed.  However, given that she was not
+symptomatic, infectious disease offered that she did not need to
+continue the fluconazole.
+   She was noted to have leakage around her suprapubic catheter.
+ Aldene Denson was called and instructed us to restart her oxybutynin
+which had been stopped for concern of mental status change.  She
+has follow-up planned in Aldene Denson clinic as outlined in discharge
+instructions.
+.
+4. Sacral decubitus ulcer and ischial ulcers.
+She presented with a stage IV sacral decubitus ulcer and two
+stage III ulcers over the ischial tuberosities.  Plastics,
+consulted in the ED, recommended wet-to-dry dressing changes
+three times daily, with frequent turning and kinair bed.
+Patient was started on zinc/vitamin c/mvi and nutritional
+supplements to ensure adequate wound healing.
+   As above, MR sacral spine was ordered to Aldene Denson for
+osteomyelitis.  This showed a small fluid collection in the left
+gluteal soft tissue concerning for abscess.  Interventional
+radiology drained this abscess percutaneously under CT-guidance.
+ One cc of bloody pustular fluid was drained that later grew out
+MRSA.  She will continue IV vancomycin as above for a total six
+week course.  Dressing changes should continue as outlined in
+the discharge orders.
+.
+5. Hypoxia.
+Initially she required oxygen in the ED and overnight in the
+ICU.  Chest x-ray showed volume overload but no infiltrate.
+With treatment of her infection her oxygen requirements
+gradually improved.  We continued her home COPD regimen of
+inhaled steroids and bronchodilators, and her oxygen saturation
+steadily improved.
+.
+6. Fungal infections.
+We treated superficial fungal infections under the breast and in
+the groin with miconazole powder.
+.
+7. Para123 Any St. s/p spinal artery infarct.
+We continued her outpatient baclofen.
+.
+8. Abdominal distension/nausea.
+This improved overnight in the ICU and was no longer a problem
+at time of transfer to the floors.  LFTs were within normal
+limits.
+.
+9. Osteoporosis.
+We continued her outpatient calcium, vitamin D, and fosamax.
+.
+Her diet was progressed to normal diet with ensure supplements.
+She was kept on subcutaneous heparin for venous thrombosis
+prophylaxis.  Her code status is DNR/DNI.
+
+Medications on Admission:
+* alendronate 70 mg weekly on Thursday
+* protonix 40 mg daily
+* zincate 220 mg daily
+* MVI daily
+* vitamin D 800 U daily
+* ASA 81 mg daily
+* buspar 10 mg UPMCE
+* baclofen 40 mg TID
+* lactulose 30 mL daily
+* heparin 5000 U sc tid
+* bisacodyl 10 mg daily
+* nortriptyline 50 mg qhs
+* combivent 1 puff q6h prn
+* tylenol 650 mg po prn
+* ensure tid with meals
+* milk of mag 30 mL daily prn
+* bisacodyl 10 mg pr daily prn
+* fleet's enema prn
+* macrobid 100 mg UPMCE X 10 days (last day 2005-11-20 00:00:00)
+* advair 250/50 UPMCE
+* vitamin c 500 mg UPMCE
+* senna UPMCE
+* colace 100 mg UPMCE
+* gabapentin 900 mg q8h
+* oxybutynin 5 mg tid
+* calcium carbonate 1000 mg tid
+
+
+Discharge Medications:
+1. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week:
+Take one pill every Thursday.
+2. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)
+Intravenous Q 12H (Every 12 Hours) for 7 weeks: Continue through
+2005-11-20 00:00:00.
+3. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical QID
+(4 times a day) as needed for yeast.
+4. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+5. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+6. Baclofen 10 mg Tablet Sig: Four (4) Tablet PO TID (3 times a
+day).
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+8. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+10. Buspirone 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+11. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+12. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO DAILY
+(Daily) as needed for constipation.
+13. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+14. Gabapentin 300 mg Capsule Sig: Three (3) Capsule PO Q8H
+(every 8 hours).
+15. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+16. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+17. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+18. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed.
+19. Nortriptyline 25 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+20. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2)
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+21. Heparin, Porcine (PF) 5,000 unit/0.5 mL Syringe Sig: One (1)
+ Injection three times a day.
+22. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO once a
+day.
+23. Combivent 18-103 mcg/Actuation Aerosol Sig: One (1)
+Inhalation every six (6) hours as needed for shortness of breath
+or wheezing.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary Diagnosis
+Sepsis secondary to osteomyelitis
+.
+Secondary Diagnoses
+Chronic sacral and ischial decubitus ulcers
+Para123 Any St. secondary to anterior spinal artery infarct
+Hypertension
+Hyperlipidemia
+Gastroesophageal reflux disease
+Chronic obstructive pulmonary disease
+Fecal incontinence
+
+
+Discharge Condition:
+Vital signs stable.  Afebrile.
+
+
+Discharge Instructions:
+You were hospitalized for treatment of sepsis.  We believe the
+source of the infection was the ulcer over your lower back.
+Cultures we took of the blood grew out bacteria that likely
+originated from this ulcer.  You were treated with intravenous
+antibiotics for the infection.  Please continue to take the
+antibiotics for a period of 6 weeks.  Because the antibiotics
+were started on 2005-11-20 00:00:00, the last dose should happen on
+2005-11-20 00:00:00.
+.
+Your follow-up appointments are listed below.
+.
+Please call your doctor or return to the emergency room if you
+have fever, change in mental status, or any other symptoms that
+are concerning to you.
+
+Followup Instructions:
+1. Follow-up with Dr. Denson Denson Denson clinic 2005-11-20 00:00:00, UPMCE [**Location (un) **] at 3PM: [**First Name8 (NamePattern2) 159**] Aldene Denson Aldene Denson, MD Phone: test@mail.com
+Date/Time:2005-11-20 00:00:00 3:00
+.
+2. Follow-up in infectious disease clinic with Dr. Dennae Fogelsong
+Denson, MD Phone:test@mail.com Date/Time:2005-11-20 00:00:00 10:30
+.
+3. Follow-up with your primary care physician, Denson. Denson, as
+needed: test@mail.com.
+
+
+                             Aldene Aldene Denson MD 5030
+
+Completed by:2005-11-20 00:00:00

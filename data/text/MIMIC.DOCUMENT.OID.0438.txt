@@ -1,0 +1,139 @@
+Admission Date: 2007-11-13 00:00:00        Discharge Date:
+
+Date of Birth: 1954-11-23 00:00:00 00:00:00        Sex:  F
+
+Service:  Birks
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Birks is a 52-year-old
+female who was transferred to the UPMCE in hyperacute fulminant liver failure thought
+to be secondary to either Bactrim reaction versus
+acetaminophen toxicity. She was admitted to the medical
+intensive care unit initially and became progressively
+obtunded, with significant encephalopathy requiring
+intubation and ventilatory support. Her liver function was
+notable for transaminases with an ALT and AST of 9500 and
+17,500 respectively and worsening hyperbilirubinemia. She
+became progressively more coagulopathic, and it was thought
+that she was most likely going to need orthotopic liver
+transplantation for survival. Given the critical nature of
+her illness, she was transferred to the transplant surgical
+service and to the surgical intensive care unit for further
+management. This management initially entailed aggressive
+control and monitoring of intracranial pressures in
+conjunction with the neurosurgical service. This required
+placement of an intracranial bolt and aggressive volume
+management with the use of hypertonic saline and mannitol.
+She continued to receive aggressive cardiopulmonary support
+with again, as noted, full ventilatory support and
+vasopressor support for hypotension.
+
+COURSE BY SYSTEMS:  Neurologically, as noted above the
+patient required placement of an intracranial bolt for ICP
+monitoring. Her ICPs had climbed into the high 30s. This was
+managed with hyperventilation and usage of mannitol and
+hypertonic saline. Over the course of the next 4-5 days as
+her liver function improved, her intracranial pressures
+decreased. Her sedation and paralytics were weaned. She had
+removal of her intracranial bolt on 2007-11-13 00:00:00, and it
+was noted on subsequent imaging that she had approximately a
+4-cm, right frontal, intracranial hemorrhage. This was
+followed serially with CT scans and there was no progression
+of the bleeding. The bleeding was thought to be secondary to
+her severe coagulopathy and thrombocytopenia in the setting
+of her instrumentation. She was started on Keppra for seizure
+prophylaxis to finish a 10-day course. On 2007-11-13 00:00:00,
+the patient was extubated and her neurologic exam was notable
+for response to voice and opening of her eyes. She was moving
+her left upper extremity and her right lower extremity with
+2/5 strength and had minimal movement in her right upper
+extremity and left lower extremity, not following the
+123 Any St.ted neurologic pattern if this was a deficit associated
+with her intracranial bleeding.
+
+In terms of her respiratory status, it is noted that the
+patient required full ventilatory support and was extubated
+on 2007-11-13 00:00:00. She initially did well, but, secondary
+to what was thought to be pulmonary edema, required
+reintubation on 2007-11-13 00:00:00 after failure of noninvasive
+positive pressure ventilation. She had some degree of what
+appeared to be an ARDS-type reaction or transfusion-
+associated lung injury requiring high amounts of PEEP and
+oxygenation during the initial days of her intensive care
+unit stay. This resolved over the course of the next several
+days with diuresis and supportive therapy.
+
+In terms of her cardiovascular status, the patient initially
+had blood pressure support with the use of vasopressors in
+order to minimize her intravascular volume which was thought
+to exacerbate her cerebral edema. The vasopressors were
+weaned by ICU day 6, and there was no further requirement for
+this. There were no significant dysrhythmias.
+
+The patient, initially thought to most certainly require
+liver transplantation, spontaneously improved in terms of her
+liver function over the course of her 2 weeks in the
+intensive care unit. This was evidenced by progressive
+ability to metabolize her lactate, stabilization of her blood
+sugars, and autocorrection of her coagulopathy. By the time
+of her transfer, while she continued to have a
+hyperbilirubinemia, her transaminases had completely
+normalized. A Dobbhoff feeding tube was in place for post-
+pyloric tube feedings. The patient's transaminases were
+elevated; this was thought to be secondary to a possible mild
+ischemic pancreatitis which might have developed during her
+requirement for vasopressors. She otherwise did not seem to
+be symptomatic for this and was tolerating tube feeds.
+Therefore, this was not aggressively pursued.
+
+In terms of her overall fluid status, her baseline weight is
+37 kg. On the day of transfer, she weighed about 44 kg. This
+volume overload was being managed with hemodialysis daily on
+an as-needed basis. The patient's renal function, which had
+been quite labile throughout her hospitalization, stabilized,
+with creatinine in the 2.9-3.4 range. She makes approximately
+500-700 mL of urine per day, but is dialysis-dependent. She
+currently receives hemodialysis through a left femoral
+hemodialysis catheter.
+
+In terms of her ID issues, the patient was initially started
+on vancomycin for prophylaxis against intracranial infection
+with the bolt in place. She developed a leukocytosis, and the
+thought was that she may have been developing pneumonia given
+the persistent difficulty oxygenating her. She was started
+empirically on Zosyn. Sputum cultures failed to evidence any
+pneumonic process, and these antibiotics were discontinued.
+
+In terms of hematologic issues, the patient developed what
+appeared to be a DIC versus TTP picture, for which the
+hematology service was following. She evidenced a consumptive
+coagulopathy with significant destruction of platelets. Her
+thrombocytopenia likely contributed to her intracranial
+bleeding. The patient required special HLA-typed platelet
+transfusions in order to maintain a platelet count above
+100,000. She also developed a significant anemia without any
+evidence of bleeding. This was thought to be secondary to
+hemolysis in the face of an elevated indirect bilirubin and a
+depressed haptoglobin. Her thrombocytopenia and anemia
+resolved by 2007-11-13 00:00:00, and she no longer
+required any transfusion of any blood products.
+
+At the present time, the patient is requiring intensive care
+for management of respiratory failure and renal failure. She
+is no longer in need of liver transplantation, and therefore,
+given her primary medical issues, she will be transferred to
+the medical intensive care unit. At the time of transfer, the
+patient is receiving the following medications: Protonix 40
+mg p.o. once daily; insulin sliding scale; fentanyl as
+needed; heparin 5000 units subcu t.i.d.; Keppra 500 mg IV
+q.12 hours.
+
+
+
+                        Dawnyel Birks, MD 63103
+
+Dictated By:Kashanna Limoncelli
+MEDQUIST36
+D:  2007-11-13 00:00:00 18:23:57
+T:  2007-11-13 00:00:00 19:19:38
+Job#:  63103

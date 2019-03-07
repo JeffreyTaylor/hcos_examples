@@ -1,0 +1,204 @@
+Admission Date:  2009-08-17 00:00:00              Discharge Date:   2009-08-17 00:00:00
+
+Date of Birth: 1973-08-11 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+E-Mycin
+
+Attending:Elad Tagliabue
+Chief Complaint:
+RLE Cellulitis/Code Sepsis
+
+Major Surgical or Invasive Procedure:
+Central Line Placement
+
+
+History of Present Illness:
+46 yo M with HTN, DM2, who presents to the ED with 1 day of
+right lower extremity warmness. Pt and wife say that yesterday
+he was feeling fatigued and "achy" all over. +Fevers (did not
+take with thermometer), +chills. +Nausea. No vomiting.
++sweating. Last night he was walking and hit his right leg on
+the corner of the dishwasher which called attention to his RLE.
+He noticed that it was warm and slightly duskier than usual (has
+normal status changes). No cough. No dysuria.
+.
+In the ED, VS on arrival were: T: 105.3; HR: 120; BP: 125/82,
+RR: 20; O2: 94 RA. He received Vancomycin 1 g IV x 1,
+ceftriaxone 1 g IV x 1, dolansterone mesylate 12.5 mg IV x 1,
+Ketolorac 30 mg, Tylenol 1 g IV x 1. BP noted to be 70s systolic
+and pt received 5-6 L NS. He was put on the code sepsis protocol
+and a RIJ was placed.
+
+
+Past Medical History:
+1. Type 2 diabetes mellitus.
+2. Hypertension.
+3. h/o b/l DVT 94' in setting ARDS (see below). Since then, RLE
+swollen and with venous stasis changes.
+4. High cholesterol.
+5. Anal fissure.
+6. Thalassemia.
+7. h/o ARDS with Enterococcus and coag- negative Staphylococcus
+in 2009-08-17 00:00:00.
+
+
+Social History:
+Married with four children. Financial risk analyst at Fidelity.
+No smoking. Occasional EtOH. No drugs.
+
+
+Family History:
+Family History: M: DM, HTn; F: HTN. No CAD. No clotting
+disorders in family.
+
+Physical Exam:
+VS: T: 103.4; HR: 118; BP: 108/54; RR:22; O2: 100 2L
+Gen: Speaking in full sentences, in NAD
+HEENT: MMM, sclera anicteric. OP clear
+Neck: JVD difficult to see 2009-08-17 00:00:00 neck girth. No LAD. RIJ in place
+without erythema or bleeding.
+CV: RRR S1S2. No M/R/G
+Lungs: CTA b/l with slightly diminished air flow at bases.
+Abd: NABS. SOft, NT, ND
+Back: No spinal, paraspinal, CVA tenderness
+Ext: RLE: swollen >>L. Non pitting edema 2+. DP 2+ b/l. +venous
+stasus changes mid calf down. +slight erythema/duskiness above
+that to knee. +warmth in that area (marked with pen). +right
+lower inguinal lymph nodes palpable and painful. No streaks or
+cords
+Neuro: MS 2009-08-17 00:00:00 LE. A&O x 3
+
+
+
+Pertinent Results:
+2009-08-17 00:00:00 11:20AM   WBC-8.4 RBC-6.06 HGB-12.3* HCT-36.4* MCV-60*
+MCH-20.3* MCHC-33.8 RDW-16.1*
+2009-08-17 00:00:00 11:20AM   NEUTS-87.5* LYMPHS-8.3* MONOS-3.6 EOS-0.2
+BASOS-0.3
+2009-08-17 00:00:00 11:38AM   LACTATE-3.0*
+
+Brief Hospital Course:
+#) Sepsis/RLE cellulitis: source appeared to be the cellulitis.
+Surgery was consulted and felt that clincially, pt did not have
+Nec Fasc or compartment syndrome. All Micro data from admission
+negative. Initial CT scan or RLE (without contrast) showed:
+
+Low-density region within the inferior aspect of the medial head
+of the gastrocnemius muscle suggests pyomyositis, particularly
+given the patient's clinical history. Several areas of low
+density may reflect developing loculated fluid collections,
+although at this time, no single loculated fluid collection is
+identified that might be amenable to drainage.
+
+Extensive and circumferential edema of the subcutaneous fat is
+nonspecific, likely reflecting a combination of venous stasis
+and cellulitis.
+
+No specific evidence of osteomyelitis.
+
+As there was evidence for ? fluid collection on initial CT scan,
+a repeat CT scan the day before discharge showed diffuse
+subcutaneous soft tissue edema. The differential diagnosis
+includes changes related to cellulitis. However, there is no
+evidence for phlegmon or abscess on this examination.
+
+The patient was started in the ICU on broad spectrum abx
+(Vanc/Unasyn-->Vanc/Zosyn) and the patient will complete a total
+of 14 d of Vanc/Zosyn for treatment of the cellulitis.
+
+
+#) DM2: Restarted metformin, 1000mg UPMCE and Actos, 45mg QD. As
+patient had recent CT with IV contrast, will hold Metformin for
+48 hours and pt to restart as outpt.
+.
+#) HTN: given recent Hypotension, ICU team started short acting
+BB.  Pt's Blood pressure was stable on the floor; eventually
+switched back to Atenolol 100 mg qhs with plans to reinstitute
+Lisinopril 5 mg as outpt.
+.
+#) Anemia: Likely 2009-08-17 00:00:00 aggressive fluid re[** Location **]n in setting of
+anemia, inflammation, and thalasemmia.  Pts HCT on admission was
+36.4 which dropped to a nadir of 25.9 during the
+hospitalization.  HCT on discharge was 27.5, pt was guiac (-).
+
+
+Medications on Admission:
+Metformin 1000 mg UPMCE
+Atenolol 100 mg qpm
+Lisinopril 5 mg qpm
+Lipitor 10 mg qhs
+Actos 45 mg qday
+ASA 81 mg qday
+Ibuprofen 600 mg prn
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Pioglitazone 45 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4-6H (every 4 to 6 hours) as needed.
+Disp:*12 Tablet(s)* Refills:*0*
+5. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: 4.5 gm Recon
+Solns Intravenous  Q8H (every 8 hours) for 10 days: course to
+finish on
+2009-08-17 00:00:00.
+Disp:*qs Recon Soln(s)* Refills:*0*
+6. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO QHS (once a day
+(at bedtime)).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) gm
+Intravenous  Q 8H (Every 8 Hours) for 10 days: Course to finish
+on 2009-08-17 00:00:00.
+Disp:*qs gm* Refills:*0*
+9. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day:
+DO NOT take until the evening of 2009-08-17 00:00:00.
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Critical Care Systems
+
+Discharge Diagnosis:
+Primary Diagnosis: Right Lower Extremity Cellulitis
+
+Secondary Diagnoses:
+Type 2 DM
+Hypertension
+Thalassemia/Anemia
+Venous insufficiency secondary to h/o DVT
+Hypercholesterolemia
+
+
+Discharge Condition:
+stable; cellulitis improving
+
+
+Discharge Instructions:
+Please contact your primary contact doctor should you have any
+fevers, chills, night seats, worsening leg pain or swelling, or
+any other complaints.
+
+Because you recently had a CT scan, DO NOT take your Metformin
+until the evening of 2009-08-17 00:00:00.
+
+Followup Instructions:
+Please make an appointment to follow up with Dr. Niebla next
+week.
+
+
+

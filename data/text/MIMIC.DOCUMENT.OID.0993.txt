@@ -1,0 +1,405 @@
+Admission Date:  2006-06-23 00:00:00              Discharge Date:   2006-06-23 00:00:00
+
+Date of Birth: 1970-06-23 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+bupropion
+
+Attending:Jailen Renoll
+Chief Complaint:
+Cough
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+This is a 60 year old gentleman with a history of metastatic
+esophageal adenocarcinoma (HER-2 positive), s/p esophagectomy,
+s/p 2 cycles of cisplastin and 5-FU with last chemo on
+2006-06-23 00:00:00, currently with a J-tube, who presents with cough and
+fever.
+
+In brief, with regards to his metastatic esophageal cancer he
+underwent esophagectomy in 9/2006-06-23 00:00:00.  He subsequently was noted to
+have metastatic disease to the brain for which he underwent a
+craniotomy. He has had several anastomotic dilations for
+stricture/dysphasia which have been complicated by aspiration
+pneumonia. His last dilation was 2006-06-23 00:00:00. This admission was
+also complicated by a pnemonia with radiographic evidence of a
+RLL opacity. He also underwent laparoscopic jejunostomy feeding
+tube placement as well as biopsy of an esophago-gastric conduit
+and bronchoscopy with bronchoalveolar lavage.  Unfortunately the
+esophago-gastric anastomosis biopsy revealed adenocarcinoma.
+Since this discharge, he has had recurrent episodes of coughing
+and increased sputum production. His tube feeds have been
+decreased in an attempt to improve his symptoms w/ notable
+decrease in the amount of regurgitated fluid.
+
+For the past week, he has noted increase in cough and sputum
+production. He has been increasingly tired. Today, a family
+member took his vitals and noted HR 125 and RR 28 prompting
+referral to the ED by his oncology fellow. He also felt
+subjectively febrile. He reports always coughing and choking w/
+eating. He denied abdominal pain, chills, diarrhea or
+constipation, chest pain or palpitations or any other symptoms
+that were concerning to him.
+
+In the ED, initial VS were:  101.0 131 101/61 2 90% 3L.  A chest
+xray revealed a RLL opacity concerning for pna. He was given
+cefepime and tylenol. A request for ICU admission was made in
+setting of tachycardia and hypotension. He arrived in the MICU
+where he was stabilized on BiPap and then transferred to the
+floor.
+
+Review of systems:
+(+) Per HPI
+(-) Denies chills, recent weight gain. Denies headache, sinus
+tenderness, congestion. Denies chest pain, chest pressure,
+palpitations, or weakness. Denies nausea, vomiting, diarrhea,
+constipation, abdominal pain, or changes in bowel habits. Denies
+dysuria, frequency, or urgency. Denies rashes or skin changes.
+
+
+Past Medical History:
+Past Medical History:
+1) severe rheumatoid arthritis, 123 Any St.usly on enbrel and now on
+prednisone alone. History of multiple joint surgeries related to
+RA.
+2) atrial fibrillation s/p cardioversion 2006-06-23 00:00:00
+3) RLL PE in 2006-06-23 00:00:00
+4) right axillary DVT 2006-06-23 00:00:00
+5) LUL PE in 2006-06-23 00:00:00 - while on coumadin. Now on enoxaparin.
+.
+Past Surgical History:
+1) R forearm surgery
+2) minimally invasive eosphagectomy 2006-06-23 00:00:00 & J-tube placement
+3) s/p Esophagogastroduodenoscopy and dilation of a stricture
+(2006-06-23 00:00:00)
+.
+.
+Onccologic History:
+- 2006-06-23 00:00:00: EGD with large circumferential mass at GE junction.
+Biopsy showed adenocarcinoma.
+- 2006-06-23 00:00:00: CT abdomen/pelvis with distal esophageal mass and a 3
+cm partially necrotic lymph node in the hepatogastric ligament.
+EUS staging on 2006-06-23 00:00:00 - Tx, N2, Mx. FNA of gastrohepatic node
+positive for adenocarcinoma.
+- 2006-06-23 00:00:00: PET with FDG avid left paratracheal lymph node
+immediately anterior to esophagus at level of aortic arch, 7 mm,
+SUV max 4.5, multiple small (2-6 mm) pulmonary nodules too small
+to fully characterize, and a large 2.9 cm lymph node in the
+gastrohepatic ligament with SUV max 11.4. The primary distal
+esophageal mass was also highly FDG avid.
+- 2006-06-23 00:00:00: chemoradiation with cisplatin (75 mg/m2, D1
+and D29) and 5-FU (1000 mg/m2/day D1-4, D29-32)
+- 2006-06-23 00:00:00/11: admission for PE (RLL segmental) causing pleuritic
+chest pain; therapeutic lovenox initiated
+- 2006-06-23 00:00:00: admission with new atrial fibrillation and
+acute right axillary DVT. CT showed improving PE. Cardioverted.
+Therapeutic lovenox continued.
+- 2006-06-23 00:00:00 PET/CT: Gastrohepatic and left paratracheal lymph nodes
+now without FDG-avidity.
+- 2006-06-23 00:00:00: Dr. Jailen Renoll performed minimally invasive esophagectomy
+showing pathologic complete response including 15 negative
+nodes.
+- 2006-06-23 00:00:00, 2006-06-23 00:00:00, 2006-06-23 00:00:00: esophageal stricture dilation.
+Port
+removed on 2006-06-23 00:00:00 and J-tube removed on 2006-06-23 00:00:00.
+- 2006-06-23 00:00:00: admission with aphasia. Brain MRI showed
+solitary 1.9 cm left frontal lobe mass. CT torso with segmental
+LUL PE (new since 2006-06-23 00:00:00), stable 9 mm right hilar lymph nodes
+and right upper lobe pulmonary nodules, no clear metastatic
+disease. Resection of brain mass on 2006-06-23 00:00:00 (Jailen Renoll) showed
+metastatic adenocarcinoma, CK7/CK20 positive, TTF-1 negative,
+consistent with upper GI origin. HER-2 positive by FISH.
+- 2006-06-23 00:00:00: Cyberknife to resection cavity
+- 2006-06-23 00:00:00: dilation of anastomotic stricture
+- 2006-06-23 00:00:00: CT chest with 7 mm RUL subpleural nodule ([** Location **]usly 5
+mm) and new 7 mm LUL nodule, and increased right hilar and
+mediastinal adenopathy (may be reactive)
+- 2006-06-23 00:00:00: J-tube placement, dilation of stricture, biopsy of
+gastric conduit revealed adenocarcinoma
+- 2006-06-23 00:00:00 MRI brain: Marked decrease in enhancement at left frontal
+resection site. No new lesion.
+
+
+Social History:
+- Tobacco:  quit in 2006-06-23 00:00:00, 30-35 years 1ppd
+- Alcohol:  2006-06-23 00:00:00 cocktails every few weeks
+- Illicits:  negative
+- Housing: lives w/ wife
+- Employment: on disability for past 10 years related to RA,
+former manager of bottling plant and 123 Any St. 123 Any St..
+- Family: wife, four children
+.
+
+
+Family History:
+His mother and Aruna Holston sister have Aruna Holston. There is no family
+history of cancer. No clotting disorders in the family.
+
+Physical Exam:
+Vitals: 115 96% on 4L 103/63  99.0.
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: There are significantly decreased breath sounds in the
+right lower lung base. + egophony.
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, his J-tube exit site is dressed w/ c/d/i.
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact
+
+
+Pertinent Results:
+ADMISSION LABS
+2006-06-23 00:00:00 03:00PM BLOOD WBC-6.8 RBC-4.25* Hgb-10.4* Hct-33.6*
+MCV-79* MCH-24.5* MCHC-31.0 RDW-16.7* Plt Ct-394
+2006-06-23 00:00:00 03:00PM BLOOD Neuts-58 Bands-13* Lymphs-12* Monos-16*
+Eos-0 Baso-0 Atyps-1* Metas-0 Myelos-0
+2006-06-23 00:00:00 03:00PM BLOOD Glucose-120* UreaN-17 Creat-0.6 Na-137
+K-3.7 Cl-97 HCO3-29 AnGap-15
+2006-06-23 00:00:00 03:11PM BLOOD Lactate-3.1*
+
+RELEVANT LABS
+2006-06-23 00:00:00 04:09AM BLOOD WBC-6.4 RBC-4.00* Hgb-9.7* Hct-31.4*
+MCV-79* MCH-24.3* MCHC-31.0 RDW-16.7* Plt Ct-397
+2006-06-23 00:00:00 07:45AM BLOOD WBC-6.1 RBC-4.00* Hgb-9.7* Hct-31.2*
+MCV-78* MCH-24.2* MCHC-31.0 RDW-17.0* Plt Ct-432
+2006-06-23 00:00:00 07:40AM BLOOD WBC-6.3 RBC-4.24* Hgb-9.8* Hct-33.4*
+MCV-79* MCH-23.2* MCHC-29.5* RDW-16.4* Plt Ct-504*
+2006-06-23 00:00:00 06:06AM BLOOD WBC-7.7 RBC-4.26* Hgb-10.0* Hct-33.6*
+MCV-79* MCH-23.5* MCHC-29.8* RDW-16.6* Plt Ct-534*
+2006-06-23 00:00:00 06:32AM BLOOD WBC-10.4 RBC-4.70 Hgb-11.3* Hct-37.6*
+MCV-80* MCH-24.0* MCHC-30.1* RDW-16.6* Plt Ct-532*
+2006-06-23 00:00:00 06:35AM BLOOD WBC-9.5 RBC-3.97* Hgb-9.4* Hct-31.6*
+MCV-80* MCH-23.7* MCHC-29.6* RDW-17.4* Plt Ct-468*
+2006-06-23 00:00:00 06:55AM BLOOD WBC-13.2* RBC-4.28* Hgb-10.0* Hct-34.6*
+MCV-81* MCH-23.4* MCHC-29.0* RDW-17.5* Plt Ct-459*
+
+DISCHARGE LABS
+2006-06-23 00:00:00 07:55AM BLOOD WBC-11.2* RBC-4.28* Hgb-10.1* Hct-34.1*
+MCV-80* MCH-23.7* MCHC-29.7* RDW-17.6* Plt Ct-450*
+
+PERTINENT MICRO/PATH
+
+1. RESPIRATORY CULTURE (Final 2006-06-23 00:00:00):
+      SPARSE GROWTH Commensal Respiratory Flora.
+      ALCALIGENES (ACHROMOBACTER) SPECIES.    MODERATE GROWTH.
+         Cefepime >16 MCG/ML.  MEROPENEM <= 1 MCG/ML.
+         sensitivity testing performed by Microscan.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ALCALIGENES (ACHROMOBACTER) SPECIES
+                             |
+AMIKACIN--------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------  =>32 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------     1 S
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   <=1 S
+MEROPENEM-------------       S
+PIPERACILLIN/TAZO-----   <=8 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----   <=2 S
+
+   ACID FAST SMEAR (Final 2006-06-23 00:00:00):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+2. 2006-06-23 00:00:00 8:17 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+
+                            **FINAL REPORT 2006-06-23 00:00:00**
+
+   C. difficile DNA amplification assay (Final 2006-06-23 00:00:00):
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay.
+           (Reference Range-Negative).
+
+PERTINENT IMAGING
+
+1. CXR (2006-06-23 00:00:00)
+IMPRESSION:  There is continued opacification of the right lung
+base, possibly reflecting a combination of pleural effusion with
+atelectasis, though infection cannot be excluded.  Small right
+pleural effusion is unchanged.
+
+2. VIDEO OROPHARYNGEAL SWALLOW (2006-06-23 00:00:00)
+Single aspiration event with thin barium.  For details, please
+see report by the speech and swallow division on OMR.
+
+3. Upper GI Series (2006-06-23 00:00:00)
+No evidence of fistula formation.
+
+4.  CT Abdomen and Pelvis (2006-06-23 00:00:00)
+  No bowel obstruction. No reflux of contrast administered via
+the J-tube
+into the duodenum or proximal jejunum.  No CT explanation for
+patient's
+presentation.
+  Bilateral pleural effusions, increased on the right since
+2006-06-23 00:00:00.  The
+small left effusion is unchanged.
+
+
+Brief Hospital Course:
+This is a 60 year old gentleman with a history of metastatic
+esophageal adenocarcinoma (HER-2 positive), s/p esophagectomy,
+s/p 2 cycles of cisplastin and 5-FU with last chemo on
+2006-06-23 00:00:00, currently with a J-tube, who presents with cough and
+fever.
+.
+Aspiration pneumonia: The initial differential of his cough
+included aspiration pna vs pneumonitis vs fistula vs post
+obstructive pna.  Pt reported chronic coughing/choking w/ eating
+suggesting aspiration. A possible fistula was suggested during
+recent endoscopy (2006-06-23 00:00:00) which was covered by metal stent.
+Given ulcerated and friable esophagus noted, new or recurrent
+fistula possible. Patient was initially started on Ceftriaxone
+and Metronidazole (day 1 = 2006-06-23 00:00:00) IV to cover for aspiration
+pneumonia.  CXR showed RLL opacity but there was a question of
+chronicity as this has been seen on prior imaging.  GI was
+consulted in regards to a possible T-E fistula.  He had a
+swallow study as well as upper GI series and CT abdomen, none of
+which saw evidence of a fistula.  There was some concern for
+reflux of his tube feeds exacerbating his risk for aspiration,
+however the CT abdomen showed no evidence of reflux of tube
+feeds into the esophagus.  The swallow study showed one
+aspiration event with thin liquids and new PO recommendations
+were made.  Nutrition was also consulted and made
+recommendations re: tube feeds.  See below for changes made to
+diet and tube feeds.  The patient was clinically well after
+being placed on I.V. antibiotics.  The GI service as well as
+thoracic surgery saw him and did not feel he would benefit from
+further aggressive intervention.  Given his past history of TB,
+he was ruled out via induced sputums.  One of these sputums grew
+gram negative rods, so he was switched to Zosyn.  The organism
+was identified as Achromobacter.  He was on IV antibiotics for 7
+days and transitioned to Levofloxacin based on sensitivities.
+He will complete 7 days of Levofloxacin for a total of a 14 day
+course.
+.
+Metastatic Esophageal Adenocarcinoma (HER-2 positive):
+Metastatic to brain with extention to gastric-esophageal
+anastamosis. S/p chemoradiation, partial esophagectomy,
+craniomety and multiple anastomotic dilations for
+stricture/dysphasia symptoms.  Due to have CT torso in 2006-06-23 00:00:00 with
+anticipated discussion for further surgical intervention versus
+restarting chemo.  Plan as per Dr. Jailen Renoll.  Patient will have
+appointment scheduled for within 1-2 weeks.
+.
+Atrial fibrillation: Sinus Rhythm. Patient was on amiodarone 200
+UPMCE as an outpatient as well as metoprolol 25 UPMCE.  During this
+hospitalization, he had brief episodes of afib with RVR to the
+120s/130s.  We uptitrated his metoprolol to 50 UPMCE and these
+episodes resolved.  He will f/u with Dr. [**First Name4 (NamePattern1) 1046**] Holston of UPMCE
+for further management.
+.
+Recurrent DVT/PE: H/o RLL PE, right axillary DVT and LUL PE.  He
+was continued on lovenox.
+.
+Hypothyroid: Continued levothyroxine daily.
+.
+Anxiety:  Continued ativan 0.5 mg qHS for insomnia.
+.
+Rheumatoid Arthritis: Continued prednisone, oxycodone and
+sennosides.
+
+TRANSITIONAL ISSUES
+
+Patient has follow-ups with UPMCE PCP as well as his Oncologist,
+Dr. Jailen Renoll.  His risk for readmission is significant given
+his morbidities relating to esophageal cancer treatment.
+Patient was satisfied with the new swallow recommendations as
+well as new tube feed formula.  He is a poor candidate for more
+invasive surgical interventions at this time and this was
+explained to him by GI as well as Thoracic surgery.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. O2 provider
+
+Discharge Diagnosis:
+Primary Diagnosis: aspiration pneumonia
+
+Secondary Diagnosis: esophageal cancer
+                     atrial fibrillation
+
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. Holston,
+
+It was a pleasure taking care of you at UPMCE.  You presented to
+the hospital because of cough and difficulty breathing secondary
+to pneumonia.  You were admitted and placed on broad spectrum
+antibiotics. You will need to continue antibiotics when you
+leave. We did imaging to rule out concerning pathology in your
+esophagus as well as at the site of your J-tube. You were
+evaluated by Nutrition Services as well as Speech Therapy who
+recommended some changes to your tube feeds as well as
+swallowing technique.
+
+Please make the following changes to your medications:
+- Please STOP Metoprolol Tartrate 25mg twice a day
+- Please START Metoprolol Tartrate 50 mg, take twice a day,
+until your next primary care physician Jailen Renoll.
+- Please START Levofloxacin 750mg by mouth once daily for 7 more
+days starting today, 2006-06-23 00:00:00, last day is 2006-06-23 00:00:00
+
+Please continue with your other home medications as prescribed.
+
+Followup Instructions:
+Please follow-up with the following appointments:
+
+Department: UPMCE
+When: WEDNESDAY 2006-06-23 00:00:00 at 12:30 PM
+With: Dr. [**First Name4 (NamePattern1) 1046**] Holston in the UPMCE POST DISCHARGE CLINIC
+Phone: test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+Notes: This appointment is with a hospital-based doctor as part
+of your  transition from the hospital back to your primary care
+provider.  Aruna Holston this visit, you will see your regular primary
+care doctor in follow up.
+
+Department: Hematology/ Oncology
+Name: Dr. Jailen Renoll
+When: Dr. Holston office is working on a follow up apointment
+for you in 2006-06-23 00:00:00 days after your hospital discharge. You will be
+called by the office with your appointment date and time. If you
+have not heard from the office in 2 business days please call
+the office number listed below.
+Location: UPMCE-DIVISION OF HEMATOLOGY/ONCOLOGY
+Address: 123 Any St., 123 Any St.,[**Numeric Identifier 711**]
+Phone: test@mail.com
+
+Department: RHEUMATOLOGY
+When: TUESDAY 2006-06-23 00:00:00 at 1:30 PM
+With: Aruna Holston Aruna Holston, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+                             [**First Name4 (NamePattern1) 2899**] Holston MD 50093
+
+Completed by:2006-06-23 00:00:00

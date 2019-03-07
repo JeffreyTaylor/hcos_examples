@@ -1,0 +1,469 @@
+Admission Date:  2007-08-29 00:00:00              Discharge Date:   2007-08-29 00:00:00
+
+Date of Birth: 1966-08-19 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfa(Sulfonamide Antibiotics) / Zocor / aspirin
+
+Attending:Galilea Cearns
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+2007-08-29 00:00:00 OPERATIONS PERFORMED:
+
+1. Infrarenal inferior vena cava filter.
+2. Coil embolization of branches of the left hypogastric artery.
+
+
+History of Present Illness:
+ This is an 81-year-old gentleman with a past medical history of
+CAD s/p MI, MDS on cycle 2 Vidaza, anemia, severe COPD baseline
+home oxygen 2.5 L , hypertension, hyperlipidemia,also with
+bladder cancer status post TURBT and BCG treatment in 2007-08-29 00:00:00
+presenting with retroperitoneal bleed. He presented to 123 Any St.
+ED this afternoon with left sided abdominal pain radiating to
+his left thigh. He had 123 Any St.usly been hospitalized there from
+2007-08-29 00:00:00 for SOB and tachycardia during which he was found to
+have a PE and PNA and discharged to rehab on lovenox bridge to
+coumadin and levfloxacin. CT at 123 Any St. showed active
+extravasation on CTA abd/pelvis. HCT 23.9, received 1U PRBC and
+10mg vitamin K and transferred to UPMCE.
+.
+On arrival to the ED his VS were T 97.6 HR 122 bp 126/66 RR 20
+100% ON 5L NC. HCT at 24.3 from 30.5 on discharge 2007-08-29 00:00:00 (after
+transfusion). In ED Became hypotensive to 59/44 with 1U PRBC
+given, 1 U FFP, improving to 111/50 HR in 100s. ED EKG showed
+sinus tachycardia. Increasing pain ? tamponading vs worse
+managed with fentanyl boluses. Surgery consulted, noted LLQ/L
+groin pain c/w location of RP bleed on CT scan, recommended
+consulting interventional radiology for possible intervention
+and continued transfusion, resuscitation with plan to follow. IR
+consulted for angio,felt risks of angio outweighed benefits of
+resuscitation, watching.
+
+On arrival to the MICU patient denied pain. SOB with nasal
+canula and atrovent nebulizers given. Tachycardia to 140s. IVF
+bolus given. 2 18 guage peripherals in place.
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+
+Past Medical History:
+- Retroperitoneal bleed s/p L hypogastric coil embolization
+- Removable IVC filter placed 2007-08-29 00:00:00 (to be removed 6 months
+later)
+- DVT / PE (2007-08-29 00:00:00)
+- MDS on Vidaza
+- CAD s/p MI
+- COPD on 2L NC
+- GI bleed 2007-08-29 00:00:00
+- Bladder ca s/p BCG 2007-08-29 00:00:00
+- HTN
+- HLD
+- AAA repair 2007-08-29 00:00:00
+
+Social History:
+Lives with wife.  Retired Ashely Sudduth [**Doctor Last Name 3406**].  Quit tobacco in 2007-08-29 00:00:00
+with 2-3 ppd hx for over 50 years.  No etoh or illicits.
+
+
+Family History:
+No family history of bledding disorders.
+
+Physical Exam:
+Admission Physical Exam:
+Vitals: T: BP: 144/80 P: 133 R: 18 O2: 96%
+General: Alert, oriented, no acute distress,
+HEENT: pale Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, dis non-distended, bowel sounds
+present, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred, finger-to-nose intact
+
+Discharge Physical Exam:
+VS Tc 97.8 Tm 98.0 HR 84-101 BP 137/67 (120s-150s/60s-70s) RR
+18-20 O2 99-100% 2L NC (home O2 is 2.5 L)
+GEN Alert, oriented, no acute distress
+HEENT NCAT MMM EOMI sclera anicteric, OP clear
+NECK supple, no JVD, no LAD
+PULM Diminished air movement, improved from prior, otherwise
+clear, no wheezes, rales, ronchi
+CV RRR normal S1/S2, distant heart sounds, no mrg
+ABD firm abdomen (not rigid) - consistent with exam throughout
+the week, NT ND normoactive bowel sounds, no r/g
+EXT WWP 2+ pulses palpable bilaterally, pitting edema in hands
+improved to baseline, 3+ lower extremity peripheral edema
+NEURO CNs2-12 intact, motor function grossly normal
+SKIN no ulcers or lesions, large ecchymosis on left flank
+
+
+Pertinent Results:
+Admission labs:
+2007-08-29 00:00:00 08:24PM BLOOD WBC-1.5*# RBC-2.51*# Hgb-8.1* Hct-24.3*
+MCV-97 MCH-32.4* MCHC-33.4 RDW-19.4* Plt Ct-319
+2007-08-29 00:00:00 08:24PM BLOOD Neuts-71* Bands-0 Lymphs-24 Monos-4 Eos-1
+Baso-0 Atyps-0 Metas-0 Myelos-0 NRBC-2*
+2007-08-29 00:00:00 08:24PM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+
+Macrocy-2+ Microcy-NORMAL Polychr-1+ Ovalocy-1+
+Target-OCCASIONAL Stipple-OCCASIONAL
+2007-08-29 00:00:00 11:13PM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-2+
+Macrocy-NORMAL Microcy-NORMAL Polychr-OCCASIONAL
+Ovalocy-OCCASIONAL Burr-1+ Tear DrSudduth
+2007-08-29 00:00:00 08:24PM BLOOD PT-24.3* PTT-40.8* INR(PT)-2.3*
+2007-08-29 00:00:00 08:24PM BLOOD PT-24.3* PTT-40.8* INR(PT)-2.3*
+2007-08-29 00:00:00 10:15AM BLOOD Fibrino-165*
+2007-08-29 00:00:00 08:24PM BLOOD Glucose-167* UreaN-25* Creat-0.9 Na-137
+K-5.0 Cl-103 HCO3-30 AnGap-9
+2007-08-29 00:00:00 04:20AM BLOOD Calcium-7.1* Phos-5.9*# Mg-1.9
+2007-08-29 00:00:00 10:20AM BLOOD Type-ART Temp-36 Rates-/12 Tidal V-500
+FiO2-100 pO2-475* pCO2-51* pH-7.37 calTCO2-31* Base XS-3
+AADO2-186 REQ O2-40 Intubat-INTUBATED
+2007-08-29 00:00:00 10:20AM BLOOD Type-ART Temp-36 Rates-/12 Tidal V-500
+FiO2-100 pO2-475* pCO2-51* pH-7.37 calTCO2-31* Base XS-3
+AADO2-186 REQ O2-40 Intubat-INTUBATED
+2007-08-29 00:00:00 10:20AM BLOOD Glucose-129* Lactate-2.0 Na-135 K-4.1
+Cl-103 calHCO3-31*
+2007-08-29 00:00:00 10:20AM BLOOD freeCa-0.87*
+2007-08-29 00:00:00 08:42PM BLOOD Hgb-8.2* calcHCT-25
+
+Discharge Labs:
+2007-08-29 00:00:00 07:15AM BLOOD WBC-3.0* RBC-3.33* Hgb-10.6* Hct-33.8*
+MCV-101* MCH-31.8 MCHC-31.4 RDW-19.1* Plt Ct-405
+2007-08-29 00:00:00 07:15AM BLOOD PT-13.1* PTT-94.3* INR(PT)-1.2*
+2007-08-29 00:00:00 07:15AM BLOOD Glucose-96 UreaN-17 Creat-0.8 Na-136
+K-4.5 Cl-99 HCO3-34* AnGap-8
+2007-08-29 00:00:00 07:15AM BLOOD Calcium-8.2* Phos-3.9 Mg-2.0
+2007-08-29 00:00:00 05:33PM BLOOD freeCa-1.12
+
+Studies:
+2007-08-29 00:00:00 CHEST PORT. LINE PLACEM
+In comparison with the earlier study of this date, there is now
+a
+right jugular sheath in place without evidence of pneumothorax.
+Endotracheal
+tube tip lies approximately 8 cm above the carina.
+
+Little overall change in the appearance of the heart and lungs.
+
+2007-08-29 00:00:00 CT ABD & PELVIS W/O CONTRAST
+Interval increase of left retroperitoneal hematoma, now with
+decompression
+into the peritoneal cavity.  Small amounts of blood tracking
+around the liver,
+both paracolic gutters, and into the pelvis.
+
+
+2007-08-29 00:00:00 CHEST (PORTABLE AP)
+In comparison with the study of 2007-08-29 00:00:00, there is continued
+hyperexpansion of the lungs consistent with chronic pulmonary
+disease.  There
+is associated decrease in markings at the apices with coarse
+interstitial
+markings in the lower lung zones.  The possibility of
+supervening pneumonia
+would have to be considered in the appropriate clinical setting.
+
+
+Micro:
+2007-08-29 00:00:00 Urine culture, final: negative
+2007-08-29 00:00:00 MRSA screen x 2, final: negative
+
+
+Brief Hospital Course:
+81M with CAD s/p MI, severe COPD (home oxygen 2.5 L), HTN, HL,
+MDS (on cycle 2 Vidaza), and bladder cancer (s/p TURBT and BCG
+treatment in 2007-08-29 00:00:00 was transferred from UPMCE [**Location (un) **] 2007-08-29 00:00:00 with
+retroperitoneal bleed and is now s/p coil embolizatoin of left
+hypogastric artery and IVC filter placement. He remained
+hemodynamically stable post-operatively and has was called out
+of the CV ICU to the medicine floor.
+
+# Retroperitoneal bleed: Atraumatic bleed in the setting of
+anticoagulation for provoked DVT/PE with INR in therapeutic
+range of 2.3 at presentation. Initially presented to 123 Any St.
+where CT showed active extravasation on CTA abd/pelvis. HCT
+23.9, INR 1.8, received 1U PRBC and 10mg vitamin K and
+transferred to UPMCE. Transferred to MICU for hypotension. In
+the MICU, IR was consulted and then vascular surgery. Iliac
+aneurysm was found and patient transferred to vascular surgery.
+He was continuing to have expansion of the RP hematoma. Had CT
+scan at 5am on 2007-08-29 00:00:00 which showed expansion with decompression of
+peritoneal cavity and his hypogastric artery was coil embolized,
+achieving hemostasis. The bleeding was not related to his iliac
+aneurysm. He was then brought to the CV ICU post-operatively.
+Arbitrary transfusion goal of 30 (was in 28 range before this
+acute illness due to MDS). Only got 2 units in CV ICU. In total
+he was transfused 10 units since arrival to UPMCE (6 peri
+operatively) Last transfusion 2007-08-29 00:00:00 at 9pm with HCT 25 -> 30.
+Throughout his stay in the CVICU, he did not require pressors
+and has been hypertensive today with SBP~150. Peripheral access
+was obtained in the CV ICU and his cortis was pulled.
+Transferred from CV ICU to medicine on 2007-08-29 00:00:00 and he remained
+hemodynamically stable with stable hematocrit in the 28-33
+range.
+
+# PE: Diagnosed 2007-08-29 00:00:00 by CTA revealing subsegmental right lower
+lobe pulmonary embolus. Was anticoagulated with INR 2.3 on
+admission, and is now s/p reversal given RP bleed coil of
+hypogastric artery. On heparin drip bridging to coumadin.
+Started coumadin 5 mg daily on 2007-08-29 00:00:00. No evidence of bleeding and
+stable hematocrits. He had an IVC filter placed 2007-08-29 00:00:00 (Cook
+Select Filter). He will require a total of 6 months of
+anticoagulation and will follow up with his Hematologist for
+ongoing management of his DVT/PE. At the time of discahrge he
+was satting 99% on his home O2 (2L NC).
+
+# Elevated Bicarb: Bicarb peaked at 43. Likely multifactorial
+due to COPD with chronic renal compensation and retention of
+bicarb. Also likely component of contraction alkalosis secondary
+to aggressive diuresis. Started acetazolamide 2007-08-29 00:00:00 through 2007-08-29 00:00:00.
+Bicarb was 34 at the time of discharge. His HCO3 should continue
+to be monitored as long as he is being actively diuresed.
+
+# LE edema: Patient with continued marked lower extremity edema
+likely from iatrogenic volume overload due to transfusion of 10U
+pRBCs. He was diuresed with Lasix 20mg IV qday for the duration
+of his course with marked improvement in his volume overload. He
+should continue to have his legs elevated at night and
+throughout the day when recumbent in bed. He should also
+continue Lasix 40mg PO qday for 3 days. He should have his
+electrolytes checked twice daily while receiving Lasix.
+
+# COPD: Patient has a history severe COPD with FEV1 of
+approximately 0.7 on 2.5L NC at home. His home medications were
+continued and there was no e/o COPD flare on this admission. At
+the time of discharge he was satting well on his home O2.
+
+# Ischemic Colitis: Diagnosed UPMCE CT 2007-08-29 00:00:00, involving
+descending/sigmoid colon area. Initially presumed infectious s/p
+10 day course cipro/flagyll but in context of atherosclerotic
+disease and large volume bleed, ischemic seemed more likely. Pt
+was transfused per above and was having normal non bloody BMs at
+the time of discharge.
+
+# MDS: He is s/p Vidaza with continued pancytopenia. In
+consultation with outpatient oncologist, will hold off on
+additional chemotherapy for MDS at this time. He will f/u with
+his outpatient Oncologist for ongoing management of MDS.
+
+# Liver and renal hypodensities: seen on CT scan last UPMCE
+admission likely cysts vs hemangiomas.
+- outpatient MRI/renal US to further evaluate
+
+# CAD s/p MI: His home Atorvastatin and Diltiazem were continued
+throughout his course. He is allergic to ASA.
+
+# GERD: His home omeprazole 20 mg PO daily was continued.
+
+# Hyperlipidemia: His home Atorvastatin 40mg PO daily was
+continued.
+
+# Transitional issues:
+- Patient will need IV heparin bridge to Coumadin (INR goal 2007-08-29 00:00:00
+for 6 months)
+- Will need daily INR checks until therapeutic
+- Patient scheduled for follow up with Vascular Surgery (Dr.
+Galilea Cearns
+- Please ensure the patient follows up for interval IVC filter
+removal.  The filter is a Cook Celect filter.
+- Patient scheduled for follow up with Ashely Sudduth Ashely Sudduth
+- Pt will need his Na, Cl, K, Cr and Mg checked twice daily for
+3 days while being diuresed with Lasix.
+- Pt will need outpatient MRI/renal US to evaluate liver and
+renal hypodensities seen on CT
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from  team census.
+1. Enoxaparin Sodium 80 mg SC Q12H
+2. Warfarin 5 mg PO DAILY16
+3. Levofloxacin 500 mg PO Q24H
+4. PredniSONE 10 mg po  daily Duration: 2 Days
+5. PredniSONE 5 mg  po daily Duration: 2  Days Start: After 10
+mg tapered dose.
+6. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation
+Inhalation UPMCE
+7. Albuterol-Ipratropium 2007-08-29 00:00:00 PUFF IH Q6H:PRN wheeze
+8. Omeprazole 20 mg PO DAILY
+9. Cyanocobalamin 1000 mcg PO DAILY
+10. Benzonatate 200 mg PO TID
+11. Docusate Sodium 100 mg PO BID
+12. Senna 1 TAB PO BID
+13. Diltiazem Extended-Release 120 mg PO DAILY
+Hold for SBP < 100
+14. Atorvastatin 40 mg PO HS
+15. Bisacodyl 10 mg PO HS:PRN constipation
+16. Ensure *NF* (food supplement, lactose-free) 120 ml Oral UPMCE
+17. Acidophilus *NF* (L.acidoph &
+sali-B.bif-S.therm;<br>lactobacillus acidophilus) 175 mg Oral
+UPMCE
+18. Polyethylene Glycol 17 g PO DAILY:PRN constipation
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg PO BID
+2. Senna 1 TAB PO BID
+3. Albuterol-Ipratropium 2007-08-29 00:00:00 PUFF IH Q6H:PRN wheeze
+4. Benzonatate 200 mg PO TID
+5. Cyanocobalamin 1000 mcg PO DAILY
+6. Omeprazole 20 mg PO DAILY
+7. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation
+Inhalation UPMCE
+8. Warfarin 5 mg PO DAILY16
+9. Heparin IV Sliding Scale
+10. Diltiazem Extended-Release 120 mg PO DAILY
+Hold for SBP < 100
+11. Atorvastatin 40 mg PO HS
+12. Acidophilus *NF* (L.acidoph &
+sali-B.bif-S.therm;<br>lactobacillus acidophilus) 175 mg Oral
+UPMCE
+13. Bisacodyl 10 mg PO HS:PRN constipation
+14. Ensure *NF* (food supplement, lactose-free) 120 ml Oral UPMCE
+15. Polyethylene Glycol 17 g PO DAILY:PRN constipation
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary Diagnoses:
+- Left Retroperitoneal Hematoma / expanding
+- Anemia requiring transfusion
+- Pulmonary emobolism / recent
+- Left Iliac Artery Aneurysm
+
+Secondary diagnoses: Severe COPD on home O2, coronary artery
+disease status post MI, hyperlipidemia, myelodysplastic
+syndrome, and bladder cancer status post TURBT
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Mr. Sudduth,
+
+You were admitted to the hospital because you were bleeding
+internally (retroperitoneal hemeorrhage).  You were given
+multiple blood transfusions.  You required an endovascular
+procedure to stop the bleeding as well as to prevent a future
+blood clot in your lungs. Due to the recent blood clots in your
+leg and lungs, you were restarted on blood thinners (Heparin and
+Coumadin) and you should continue taking Coumadin as prescribed
+following discharge.  You will need to have your blood drawn
+often to determine how much Coumadin you will need to take.
+
+Below are the instructions and expectations following the
+procedure:
+
+MEDICATION:
+??????	Take Aspirin 325mg (enteric coated) once daily
+??????	If instructed, take Plavix (Clopidogrel) 75mg once daily
+??????	Continue all other medications you were taking before surgery,
+unless otherwise directed
+??????	You make take Tylenol or prescribed pain medications for any
+post procedure pain or discomfort
+
+WHAT TO EXPECT:
+It is normal to have slight swelling of the legs:
+??????	Elevate your leg above the level of your heart with pillows
+every 2-3 hours throughout the day and night
+??????	Avoid prolonged periods of standing or sitting without your
+legs elevated
+??????	It is normal to feel tired and have a decreased a123 Any St.e, your
+a123 Any St.e will return with time
+??????	Drink plenty of fluids and eat small frequent meals
+??????	It is important to eat nutritious food options (high fiber,
+lean meats, vegetables/fruits, low fat, low cholesterol) to
+maintain your strength and assist in wound healing
+??????	To avoid constipation: eat a high fiber diet and use stool
+softener while taking pain medication
+
+ACTIVITIES:
+??????	When you go home, you may walk and use stairs
+??????	You may shower (let the soapy water run over groin incision,
+rinse and pat dry)
+??????	Your incision may be left uncovered, unless you have small
+amounts of drainage from the wound, then place a dry dressing or
+band aid over the area
+??????	No heavy lifting, pushing or pulling (greater than 5 lbs) for
+1 week (to allow groin puncture to heal)
+??????	After 1 week, you may resume sexual activity
+??????	After 1 week, gradually increase your activities and distance
+walked as you can tolerate
+??????	No driving until you are no longer taking pain medications
+
+CALL THE OFFICE FOR: test@mail.com
+??????	Numbness, coldness or pain in lower extremities
+??????	Temperature greater than 101.5F for 24 hours
+??????	New or increased drainage from incision or white, yellow or
+green drainage from incisions
+??????	Bleeding from groin puncture site
+
+SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site)
+??????	Lie down, keep leg straight and have someone apply firm
+pressure to area for 10 minutes. If bleeding stops, call
+vascular office test@mail.com. If bleeding does not stop, call
+911 for transfer to closest Emergency Room.
+
+You will need to have the IVC filter removed after you complete
+your course of blood thinners.  This should be scheduled through
+the office of Dr. Sudduth who placed the filter.
+
+Followup Instructions:
+You will also need to follow up with vascular surgery (Dr.
+Sudduth for removal of your IVC filter when you finish
+your course of blood thinners (6 months from discharge).
+
+Name: Ashely Sudduth Sudduth, MD
+Specialty: Hematology/Oncology
+When: Thursday 2007-08-29 00:00:00 at 12:30pm
+Location: UPMCE
+Address: 123 Any St.,[**Numeric Identifier 711**]
+Phone: test@mail.com
+This appointment was already scheduled for you to see Dr.
+Ashely.
+
+Department: VASCULAR SURGERY
+When: WEDNESDAY 2007-08-29 00:00:00 at 2:45 PM
+With: Ashely Sudduth, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+Name: Ashely Galilea Cearns Sudduth, MD
+Specialty: Primary Care
+Location: 123 Any St. UPMCE
+Address: UPMCE, UPMCE,[**Numeric Identifier 3421**]
+Phone: test@mail.com
+Please discuss with the staff at the facility a follow up
+appointment with your PCP when you are ready for discharge.
+
+
+
+Completed by:2007-08-29 00:00:00

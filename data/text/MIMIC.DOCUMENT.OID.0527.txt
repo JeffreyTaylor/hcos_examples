@@ -1,0 +1,408 @@
+Admission Date:  2013-02-04 00:00:00              Discharge Date:   2013-02-04 00:00:00
+
+Date of Birth: 1926-02-04 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Lorenzia Richason
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. Ivanov is a 68 year-old man with IgA meyloma s/p Velcade
+(last treatment 2013-02-04 00:00:00), DM2, CKD, and schizophrenia who
+presents from his UPMCE with confusion and is admitted
+to the MICU for sepsis/hypotension.
+.
+He was in his USOH until three days ago when nursing staff
+noticed that he was more confused. Today, he was noted by staff
+to have high finger sticks (glucose > 500), urinary
+incontinence, and to be more confused, with waxing and Lorenzia Richason
+mental status. He was given 22 units insulin and had a BP of
+86/51. Per report, he had no fever, cough, headache, nausea, or
+emesis.
+.
+-------
+Upon Transfer to the Floors:
+For full HPI, please refer to MICU H and P. Briefly, the patient
+is a 68 YO M with IgA MM, IDDM, CKD and schizophrenia admitted
+to the MICU on 2013-02-04 00:00:00 for hypotension in the setting of altered
+mental status. He was found to have high-grade GNR bacteremia. A
+R IJ was placed and he was fluid resucitated. Her initially
+required norepinephrine for pressure support but was weaned off
+of presssors on 2013-02-04 00:00:00. He was started on vanc and cefepime
+pending culture results. Vanc was stopped on 2013-02-04 00:00:00 and he remains
+on cefepime. Sensitivities have just returned and the GNR
+appears to be sensitive to cipro.
+.
+The patient's ICU stay was complicated by rising creatinine,
+currently 4.4, from a baseline of 1.5. He has been seen by
+renal. Urine sediment revealed muddy Ivanov casts consistent with
+ATN. As of the day of transfer, his urine output has increased
+to almost 4L in the past 24 hours. He has gotten 1L of fluids
+with bicarb as per renal suggestion due to low bicarb in the
+setting of ATN.
+.
+He has also been hyperglycemic requiring close glucose
+monitoring.
+.
+He reports feeling much improved and has no specific complaints
+at this time. He denies pain. His voice is difficult to
+understand and he reports being tired of everyone repeatedly
+examining him, making the interview somewhat limited.
+.
+Review of systems:
+(+) Per HPI; unable to obtain a full ROS. As above, he denies
+pain including dysuria prior to presentation. He does state he
+knew he was sick but is not able to elaborate on his specific
+symptoms. He says he's "all fixed up down there now."
+
+In the ED, vital signs were initially: 100.3 99 93/51 16 99. A
+CXR was negative for pna and a head CT was limited by motion but
+123 Any St. negative. A UA was grossly positive and he was given
+vanc/ceftriaxone. SBPs drop to the 80s and he was given 5L IVF.
+A RIJ was placed with a CVP of 8, and he was also started on
+levophed and an insulin drip. He was then admitted to the MICU
+for further management.
+.
+On arrival to the floor, he is comfortable, A/O x 3, and
+requesting to return to his UPMCE center.
+
+
+Past Medical History:
+1. IgA multiple myeloma. He is status post multiple cycles of
+Velcade. His course has been complicated by renal failure.
+2. Chronic Renal Failure. Likely related to his MM.
+3. Type 2 diabetes
+3. Schizophrenia, managed by psychiatry, seen by Dr. Ivanov and
+receives Haldol Depo every month.
+4. Hyperlipidemia
+
+
+Social History:
+Lives at 123 Any St. UPMCE. Smokes 2013-02-04 00:00:00 cigs/day; formerly
+1 ppd. Denies alcohol or drug use. He is a former high school
+football coach and worked in construction, when he moved to 123 Any St..
+
+Family History:
+Denies history of diabetes, renal disease, or hematologic
+malignancies.
+
+Physical Exam:
+Vitals: T: 99.2 BP: 118/65 P: 95 R: 15 O2: 97% RA
+General: Alert, oriented, no acute distress; difficult to
+understand but interactive and appropriate, following commands
+HEENT: Sclera anicteric, MM dry, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: patient refused lung exam
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: very dry and cracked
+Lines and tubes: R IJ in place, C/D/I; foley draining voluminous
+light, clear yellow urine
+
+
+Pertinent Results:
+Labs on admission:
+2013-02-04 00:00:00 04:20PM   GLUCOSE-758* UREA N-57* CREAT-3.6*#
+SODIUM-125* POTASSIUM-5.4* CHLORIDE-94* TOTAL CO2-19* ANION
+GAP-17
+2013-02-04 00:00:00 04:20PM   WBC-6.8# RBC-3.20* HGB-9.5* HCT-32.6*
+MCV-102* MCH-29.5 MCHC-29.0* RDW-14.5
+2013-02-04 00:00:00 04:20PM   NEUTS-70 BANDS-1 LYMPHS-12* MONOS-17* EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+2013-02-04 00:00:00 04:37PM   LACTATE-1.7
+2013-02-04 00:00:00 05:30PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-100
+GLUCOSE->1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-1 PH-5.5
+LEUK-SM
+
+Micro:
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2013-02-04 00:00:00 URINE URINE CULTURE-PENDING INPATIENT
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2013-02-04 00:00:00 URINE URINE CULTURE-FINAL INPATIENT
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2013-02-04 00:00:00 MRSA SCREEN MRSA SCREEN-FINAL INPATIENT
+2013-02-04 00:00:00 URINE URINE CULTURE-FINAL {ESCHERICHIA COLI}
+EMERGENCY UPMCE
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-FINAL
+{ESCHERICHIA COLI}; Aerobic Bottle Gram Stain-FINAL; Anaerobic
+Bottle Gram Stain-FINAL EMERGENCY UPMCE
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-FINAL
+{ESCHERICHIA COLI}; Aerobic Bottle Gram Stain-FINAL; Anaerobic
+Bottle Gram Stain-FINAL EMERGENCY UPMCE
+2013-02-04 00:00:00 BLOOD CULTURE Blood Culture, Routine-FINAL
+{ESCHERICHIA COLI}; Aerobic Bottle Gram Stain-FINAL; Anaerobic
+Bottle Gram Stain-FINAL
+
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------    16 I
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Imaging:
+CXR 2013-02-04 00:00:00
+FINDINGS: Lung volumes are mildly diminished. Similar to the
+prior exam,
+there is slight accentuation of the interstitial markings.
+Bibasilar
+atelectasis is evident. The mediastinum is unremarkable. The
+cardiac
+silhouette is within normal limits for size. No effusion or
+pneumothorax is noted. Please note the patient's chin obscures
+the extreme right apex. The osseous structures again reveal
+vertebral body height loss in multiple
+thoracic vertebral body segments.
+
+IMPRESSION: Relatively stable examination with bibasilar
+atelectasis. No
+definite consolidation noted.
+
+CT head
+IMPRESSION:
+1. Markedly limited study due to patient motion. No gross
+interval change
+from prior without evidence of large intracranial hemorrhage.
+Evaluation for infarction is limited on this motion-limited
+study, and MRI is more sensitive for detection of acute ischemia
+(for which the patient would require sedation in order to
+obtain).
+2. Mild mucosal thickening in the left maxillary sinus.
+
+Renal U/S
+IMPRESSION: No renal abscess or perinephric collection. Please
+note that
+pyelonephritis cannot be diagnosed on ultrasound.
+
+CXR 2013-02-04 00:00:00:
+New opacification in both lower lungs could be pneumonia.
+Pleural effusions if any are small. Upper lungs clear. Heart
+size is normal. Right jugular line ends at the superior
+cavoatrial junction. [**First Name4 (NamePattern1) 3047**] Ivanov was paged
+
+
+Brief Hospital Course:
+68 YO M with IgA MM, IDDM2, CKD, and schizophrenia admitted to
+the MICU with AMS and hypotension found to have urosepsis and
+ATN.
+.
+# Urosepsis: Pt found to have high-grade E.coli bacteremia. A R
+IJ was placed and he was fluid resucitated. He initially
+required norepinephrine for pressure support but was weaned off
+of presssors on 2013-02-04 00:00:00. He was started on vanc and cefepime
+pending culture results. Vanc was stopped on 2013-02-04 00:00:00 and he remained
+on cefepime until 2013-02-04 00:00:00. When sensitivities returned, found that
+e. coli sensitive to ciprofloxacin, and patient switched to
+Cipro. He had no other complications, no evidence of abscess on
+renal U/S. Prostate exam benign (no tenderness on exam),
+scheduled for urology follow-up as outpatient.
+He was last febrile on 2013-02-04 00:00:00 and levaquin was started for possible
+b/l PNA on CXR (though no  hypoxia or respiratory complaints).
+No aspiration on S&S. Possible he aspirated when he was altered
+and came in. R IJ removed, but contaminated and could not be
+sent for cx.  Switched cipro to levaquin on 2013-02-04 00:00:00 for treatment of
+PNA in addition to urosepsis. Will need total of two week course
+for treatment of urosepsis (will end on 2013-02-04 00:00:00). Currently
+dosed at levaquin 250mg Q48 in light of renal failure.  Final
+blood and urine cultures must be followed up after discharge
+(last positive blood cx on 2013-02-04 00:00:00).
+
+.
+# Acute kidney injury 2013-02-04 00:00:00 ATN. The patient's ICU stay was
+complicated by rising creatinine, which peaked to 4.6, from a
+baseline of 1.5. He was seen by renal. Urine sediment revealed
+muddy Ivanov casts consistent with ATN. He was maintained on IVF
+but made excellent urine output of 4L for each of the 3 days
+prior to discharge, illustrating post-ATN diuresis. His
+creatinine trended down to 3.9 on the day of discharge. Has
+follow-up with Dr. Britnye as outpatient.
+
+.
+# Hyperglycemia/Diabetes. History of poorly controlled finger
+sticks now exacerbated in setting of infection. No urine
+ketones.  Lantus increased from 36units to 40 units and sliding
+scale added. He only has VNA twice a day (patient refused to go
+to rehab), so will only get BS check twice a day. Glipizide
+titrated down to UPMCE dosing instead of TID dosing, adjusted for
+renal failure.
+
+.
+# IgA multiple myeloma. Status post multiple cycles of Velcade
+with last treatment on 2013-02-04 00:00:00.  Patient of Dr. Lorenzia Richason. NP
+notified that patient being discharged and will call patient for
+appointment in late 2013-02-04 00:00:00. Continued acyclovir 400 UPMCE.
+
+.
+# Anemia. Slightly down from baseline of 31-34. Likely related
+to acute inflammation in the setting of chronic iron def anemia
+as well as myeloma. Guaiac positive and scheduled for GI
+follow-up w/ Dr. Lorenzia Richason as outpatient.
+
+.
+# Thrombocytopenia. Platelets trended down but stable throughout
+hospitalization. Platelets of 134 on discharge and were trending
+up at that point. CBC should be checked as outpatient, and
+further management as per heme-onc team.
+.
+# Schizophrenia: Managed by psychiatry, seen by Dr. Ivanov and
+receives Haldol Depo every month.
+.
+STRONGLY RECOMMENDED TO PATIENT THAT HE GO TO REHABILITATION
+FACILITY FOR PHYSICAL THERAPY. PATIENT REFUSED, AND WILL HAVE
+HOME PT.
+
+Medications on Admission:
+ACYCLOVIR - 400 mg Tablet - 1 (One) Tablet(s) by mouth twice a
+day
+GLIPIZIDE - 5 mg Tablet - 1 (One) Tablet(s) TID
+HALOPERIDOL LACTATE [HALDOL] 5 mg/mL Solution - Inject 1 ml IM q
+monthly
+INSULIN GLARGINE [LANTUS] 100 unit/mL Solution - 36 units in AM
+
+INSULIN LISPRO [HUMALOG] 100 unit/mL Solution - 1-15 units twice
+a day to be given by VNA according to his sliding scale
+LENALIDOMIDE [REVLIMID] 15 mg Capsule - 1 (One) Capsule(s) by
+mouth once a day for 21 days
+SIMVASTATIN - 40 mg Tablet - 1 (One) Tablet(s) by mouth at
+bedtime
+UREA - 40 % Lotion - Apply to feet as directed as needed
+ACETAMINOPHEN - 325 mg Tablet - 2013-02-04 00:00:00 Tablet(s) by mouth every
+four hours as needed for pain, fever
+ASPIRIN - 81 mg Tablet - 1 (One) Tablet(s) by mouth once a day
+COLACE - 100MG Capsule - ONE BY MOUTH EVERY DAY
+FERROUS SULFATE - 325 mg UPMCE
+MULTI-VITAMIN - Tablet - 1 Tablet(s) by mouth once per day
+
+
+Discharge Medications:
+1. Acyclovir 400 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H (every
+48 hours) for 8 days: Next dose should be tonight, then on 2013-02-04 00:00:00, 2013-02-04 00:00:00, 2013-02-04 00:00:00.
+Disp:*5 Tablet(s)* Refills:*0*
+3. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day): hold for loose stools.
+7. Glipizide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+8. Lantus 100 unit/mL Solution Sig: Forty (40) units
+Subcutaneous QAM.
+Disp:*1 month supply* Refills:*0*
+9. Humalog 100 unit/mL Solution Sig: 1-16 units Subcutaneous as
+directed: please dose according to sliding scale.
+10. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+11. Haldol
+Please continue to get your regularly scheduled monthly
+injections of haldol,
+5 mg/mL Solution
+Inject 1 ml IM q monthly
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Family & UPMCE Services
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+1. Urosepsis
+2. Acute Tubular Necrosis
+
+SECONDARY DIAGNOSIS:
+1. IgA multiple myeloma.
+2. Chronic Renal Failure.
+3. Type 2 diabetes mellitus
+3. Schizophrenia
+4. Hyperlipidemia
+
+
+Discharge Condition:
+Mental Status:Confused - sometimes (schizophrenia)
+
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - requires assistance or aid (walker
+or cane)
+
+
+Discharge Instructions:
+You were admitted to the hospital on 2013-02-04 00:00:00 because you were
+confused. We found that you had a severe infection of your
+bladder and your blood. You were in the intensive care unit for
+this and you had kidney failure as a result of your infection.
+Your kidney failure is improving. You were started on
+antibiotics and you will need to continue levaquin until 2013-02-04 00:00:00
+for your infection.
+
+Since it is unusual for men to have urinary tract infections,
+please follow up with urology as listed below.
+
+You MUST DRINK PLENTY OF FLUIDS for your kidney failure. Drink
+at least 8 glasses of water a day.
+
+The following changes have been made to your medications:
+1. Increase lantus from 36 units to 40 units in the morning
+2. Start the humalog sliding scale attached
+3. Decrease glipizide from 5mg three times a day to 5mg twice a
+day.
+
+It was our recommendation that you go to a rehabilitation
+facility to get your muscle strength up, but you refused.
+Therefore you will have home physical therapy only.
+
+Followup Instructions:
+Provider: Britnye Ivanov,Britnye Lorenzia Richason Ivanov MEDICAL UNIT (SB)
+Phone:test@mail.com Date/Time:2013-02-04 00:00:00 10:40. This is your new
+PCP.
+
+Lorenzia Richason, your NP at heme/onc will call your facility in late
+2013-02-04 00:00:00 to set up an appointment.
+
+Please follow up with Dr. Lorenzia Richason Ivanov) Thurs 2013-02-04 00:00:00, at 4:30pm.
+
+Since it is unusual for men to develop infections of the
+bladder, we would like you to follow-up with a urologist. The
+following appointment has been made for you, but they will call
+you if there are any cancellations and an earlier appointment
+can be made.
+UROLOGY: Dr. Lorenzia Richason, appointment on 2013-02-04 00:00:00 at 3pm in UPMCE
+123 Any St. at UPMCE UPMCE.
+
+
+

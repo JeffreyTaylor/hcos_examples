@@ -1,0 +1,24 @@
+Admission Date:  2012-05-05 00:00:00       Discharge Date:  2012-05-05 00:00:00
+
+Date of Birth: 1970-04-28 00:00:00 00:00:00       Sex:  F
+
+Service:
+
+ADDENDUM
+The patient was kept one more night secondary to small apical
+pneumothorax after chest tube placement.  The chest tube was
+briefly put back to suction and then discontinued.  A
+post-discontinuation chest x-ray showed no pneumothorax.  She
+is being discharged today in good condition.
+
+
+
+
+                            Allisandra Rusignuolo, M.D.  9991
+
+Dictated By:Allisandra Rusignuolo
+MEDQUIST36
+
+D:  2012-05-05 00:00:00  09:26
+T:  2012-05-05 00:00:00  09:24
+JOB#:  9991

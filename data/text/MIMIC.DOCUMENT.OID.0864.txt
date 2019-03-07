@@ -1,0 +1,304 @@
+Admission Date:  2012-01-25 00:00:00              Discharge Date:   2012-01-25 00:00:00
+
+Date of Birth: 1994-11-05 00:00:00 00:00:00             Sex:   M
+
+Service: [**Year (4 digits) 656**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Benson Domalik
+Chief Complaint:
+DOE/AMS
+
+Major Surgical or Invasive Procedure:
+PD
+BAL
+Intubation
+CVVHD
+Central Line placement
+
+
+History of Present Illness:
+44 yo male with history of HIV (CD4 202, VL 27,200 in 2012-01-25 00:00:00),
+ESRD 2012-01-25 00:00:00 HIV nephropathy, CHF (EF 25%) who presents with dyspnea
+on exertion. Pt was very lethargic when I interviewed him due to
+recent ativan dose. States he has been having shortness of
+breath on and off for the last week. Denies any chest pain,
+palpitation, increasing LE edema, orthopnea, PND. States he has
+been doing his PD 5 times a day as directed last done at 3pm and
+diasylate still in peritoneal cavity. Admits to recent crack
+cocaine use but could not give details. Also admits to drinking
+2012-01-25 00:00:00 pint- 1 pint liquor per day. Last drink within past 24
+hours. States he has had recent fevers. Denies any nausea,
+vomiting. Positive non-bloody diarrhea for several days.  Was
+arrousable only to pain by the time MICU resident evaluated him
+- he had been given 4 mg ativan IV as he was confused, agitated,
+hypertensive and tachycardic in the ED - this concerning for
+ETOH W/D. As such, MICU was called to evaluate him and he was
+accepted on MICU service.
+
+Past Medical History:
+- HIV >10 yrs 2012-01-25 00:00:00 CD4 202, VL 27,200
+- End-stage renal disease secondary to HIV nephropathy- on PD
+- CHF EF 25%
+- Anemia on Aranesp.
+- Hyperparathyroidism.
+- Hyperphosphatemia.
+- Sickle cell trait.
+- Polysubstance abuse.
+
+Social History:
+-Crack cocaine use, see HPI
+-h/o EtOH abuse - see hpi
+-smokes ~1 PPD
+-lives in own apt in public housing
+
+Family History:
+Significant for ethanol abuse in the mother as well as diabetes
+
+and multiple myeloma.
+
+Physical Exam:
+MICU admit PE
+T 99.1 BP 161/131 HR 130 RR 16 O2sats 96% on RA
+Gen: Very lethargic, falling asleep throughout exam and not
+complying with my requests, periodically apneic with snoring
+(OSA)
+HEENT: PERRL, mmm, anicteric
+Neck: unable to assess JVD as patient would not sit up
+Lungs: CTAB but very poor effort
+Heart: RRR no m/r/g
+Abd: Distended but soft, + fluid wave, NT, hypoactive bowel
+sounds
+Ext: no edema
+Neuro: To lethargic to due exam, no asterixis
+
+Pertinent Results:
+ECG 2012-01-25 00:00:00- Sinus tachycardia, LAD, LVH nl intervals, no ST/T
+wave changes
+.
+CTA chest 2012-01-25 00:00:00- No PE. Mild pulmonary edema. Fluid in upper
+abdomen from peritoneal dialysis.
+.
+CXR 2012-01-25 00:00:00- Probable mild asymmetric pulmonary edema, given the
+prior appearance of the same on earlier radiograph.
+.
+Stress Test 2012-01-25 00:00:00- Nonspecific T wave changes in the absence of
+anginal symptoms. Blunted 2012-01-25 00:00:00 pressure response to exercise.
+MIBI- Normal myocardial perfusion at the level of stress
+achieved.
+Enlarged left ventricle with global hypokinesis. Calculated LVEF
+23%.
+.
+ECHO 2012-01-25 00:00:00:
+- EF 20-25%
+The left atrium is normal in size. There is moderate symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is normal with severe global. Systolic function of apical
+segments is relatively preserved suggestive of a non-ischemic
+cardiomyopathy. No masses or thrombi are seen in the left
+ventricle. Right ventricular chamber size is normal with
+moderate global free wall hypokinesis. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic regurgitation. The mitral valve leaflets are
+structurally normal. There is no mitral valve prolapse. Mild
+(1+) mitral regurgitation is seen. The estimated pulmonary
+artery systolic pressure is normal. There is no pericardial
+effusion.
+
+Compared with the prior study (images reviewed) of 2012-01-25 00:00:00,
+the findings are similar.
+Given the normal ascending aortic and left atrial size, the
+absence of a history of systemic hypertension, the prominent
+symmetric hypertrophy suggests an infiltrative process (e.g.,
+amyloid).
+
+Brief Hospital Course:
+44 yo M with history of HIV, ESRD, CHF initially presented with
+worsening DOE and altered mentation after ativan, 4 mg IV given
+for agitation in ED and ? ETOH W/D, in setting of recent crack
+cocaine use.
+.
+MICU:
+.
+# AMS -
+- Initially, it was felt that this was likely due to ativan
+given for agitation. In addition, it was questionable how
+adherent patient was to his home peritoneal dialysis.
+.
+An ABG on admission to the MICU revealed that the patient was in
+hypoxic respiratory failure. Hence, he was intubated and
+oxygenated.
+.
+In addition, the differential on admission included:
+- head bleed: Head CT negative for bleed or mass lesions
+- delirium tremens: he was monitored for evidence of worsening
+tachycardia/tremulousness,hypertension and placed on a CIWA
+scale. he did not require any benzodiazepines.
+- Infection - [**Year (4 digits) **] cx and peritoneal diasylated cultures were
+negative.
+-Metabolic disturbance - TSH, Ca, Lytes were wnl
+.
+
+2012-01-25 00:00:00: Extubated, initially sedated because of administration
+of haldol - by 2012-01-25 00:00:00, patient more alert and answering questions.
+
+.
+# DOE - our intial diagnoses included CHF(known EF of 25%), PE,
+volume overload due to failure to due PD, ACS, PNA (community
+acquired vs atypical vs PCP). Also could be secondary to crack
+cocaine use leading to myocardial ischemia and worsening CHF.
+.
+- 2012-01-25 00:00:00 : intubated for hypoxia along with general restlessness
+of patient which made dialysis and other management very
+difficult -> he was found to have picture of acute pulmonary
+edema. He was dialyzed over the course of his MICU stay. From
+time of intubation (2012-01-25 00:00:00) to day of extubation, patient
+oxygenated and ventilated well.
+.
+-Tele monitored over MICU course. No significant events noted.
+-Cardiac enzymes found to be elevated, but this was ascribed to
+his baseline renal failure. No significant EKG changes.
+-Induced sputum was negative for PCP Juanalberto Sanantonio Juanalberto Sanantonio was placed on a
+treatment dose of IV bactrim, but this was discontinued when he
+was found to be PCP Juanalberto Sanantonio.
+.
+# CHF -
+- patient with known EF of ~ 25% from old ECHO.
+- repeat ECHO on 2012-01-25 00:00:00 reveal symmetric LVH with EF ~ 25%
+.
+Likely multifactorial from cocaine use, ETOH use. No history of
+CAD and normal perfusion stress test in 2012-01-25 00:00:00, however patient
+at risk for accelerrated development of CAD due to HIV and HAART
+regimen(if he is taking), tobacco use and crack cocaine use.
+.
+# Juanalberto Sanantonio Pt does self PD at home; however probably is poorly
+compliant.
+- patient received PD per renal service while in MICU with
+negative fluid balance
+- electrolytes were corrected as necessary
+- started on Epogen for anemia and Fe for iron deficiency
+anemia.
+.
+# Juanalberto Sanantonio Unclear if he has been taking HAART regimen and Bactrim.
+
+-started for a short period on HAART, then discontinued.
+- CD4 was 319 on 2012-01-25 00:00:00; last VL [**Numeric Identifier **] 2012-01-25 00:00:00.
+.
+# Anemia- Baseline varies from 29-35. Currently 31. No signs of
+active bleeding.
+-started on Iron and EPO
+.
+# Sinus tachycardia- Multiple causes possible including cocaine
+use, ETOH use, withdrawals, fever, hypovolemia.
+- intitially came in with HR to 140s-150s
+- on 2012-01-25 00:00:00, on discharge to floor, HR in 100s-110s.
+.
+# HTN- Likely secondary to non-med compliance, ETOH and cocaine
+use.
+- initial HTN on admission was due likely to fluid overload and
+cocaine use.
+- AntiHTN home regimen: lisinopril and diltiazem
+- Toxicology consult in ED recommended not to use BB because of
+his cocaine use; would be cautious on discharging on a BB
+because he likely will continue to use cocaine at home.
+- 2012-01-25 00:00:00 pressure was controlled with nitrate in MICU; then
+discontinued as his 2012-01-25 00:00:00 pressure stabilized.
+.
+# ETOH abuse/Cocaine abuse- Pt with recent crack cocaine use and
+chronic ETOH use, drinbk 2012-01-25 00:00:00 pint- 1pint liquor qday.
+.
+# Diarrhea- Given HIV status could be any potential infectious
+Benson Domalik. Appears to be fairly acute over past few days.
+- stool cultures, cdiff, O&P  all negative
+- had some diarrheal BM on discharge
+.
+# FEN- Renal, Low Na, cardiac diet.
+.
+# PPx- Heparin SC, bowel regimen
+.
+# Code- FULL
+.
+# Communication: Partner. # is in OMR.
+.
+Completed by Dr. Benson Domalik
+
+
+Medications on Admission:
+Patient only takes meds sporadically. Brought list with
+dosages-diltiazem, bactrim, retrovir, renal caps, norvir,
+epivir, lexiva, lisinopril, viread, protonix, fosrenol. This
+list coincides with his discharge meds from 2012-01-25 00:00:00.
+
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+2. Lanthanum 250 mg Tablet, Chewable Sig: Two (2) Tablet,
+Chewable PO TIDAC (3 times a day (before meals)).
+3. Lamivudine 100 mg Tablet Sig: 2012-01-25 00:00:00 Tablet PO DAILY (Daily).
+4. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+5. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+7. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+8. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1)
+Tablet PO 1X/WEEK (Benson Domalik).
+9. Fosamprenavir 700 mg Tablet Sig: Two (2) Tablet PO Q24H
+(every 24 hours).
+10. E123 Any St. Alfa 10,000 unit/mL Solution Sig: One (1)  Injection
+QMOWEFR (Monday -Wednesday-Friday).
+11. Zidovudine 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Bactrim DS 160-800 mg Tablet Sig: One (1) Tablet PO once a
+day.
+13. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Renal Failure
+CHF
+Hypertension
+
+Secondary:
+ESRD
+Anemia
+HIV
+Hyperparathyroidism
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+1.  Please report to the nearest emergency department if you
+have fever, chills, abdominal pain, abdominal distension
+(worsening pain), nausea or vomiting or shortness of breath.
+
+2. Please continue to take medications as directed.  Please
+continue to take HARRT medication as you were at home.
+
+3. Please follow up with Dr. Benson Domalik as he has directs.
+
+4.  STOP taking your diltiazem and your lisinopril.  You should
+not take these medications until you see Dr. Benson Domalik in clinic
+and have your bloodwork checked.
+
+Followup Instructions:
+Please follow up with Dr. Benson Domalik as he has directed you to.
+Please call at test@mail.com
+
+
+

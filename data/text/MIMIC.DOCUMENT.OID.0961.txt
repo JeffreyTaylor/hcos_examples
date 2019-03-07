@@ -1,0 +1,271 @@
+Admission Date:  2013-01-30 00:00:00              Discharge Date:   2013-01-30 00:00:00
+
+
+Service: SURGERY
+
+Allergies:
+Ciprofloxacin
+
+Attending:Jordanne Oligney
+Chief Complaint:
+Presents for surgery
+
+Major Surgical or Invasive Procedure:
+2013-01-30 00:00:00 Right colectomy
+
+History of Present Illness:
+Ms. Migdal is an 85 year old female who presented to UPMCE on
+2013-01-30 00:00:00 for scheduled surgery with Dr. Jordanne Oligney. She This had
+123 Any St.usly undergone a
+proctectomy with end colostomy for rectal cancer and presented
+with a cecal carcinoma.
+
+
+Past Medical History:
+Rectal cancer, s/p chemotherapy and radiation
+
+Past Surgical History:
+
+2013-01-30 00:00:00 Lower anterior resection with end colostomy
+Lysis of adhesions x 2 (15 yrs. ago)
+Hx. of volvulus 15 yrs. prior with surgical treatment
+Multiple C-sections
+
+Social History:
+Lives at home alone with dog. health care aid from AM to 6 PM.
+One of 7 children stays with mother from night until sun up.
+Remote hx of smoking as per report, patient denies.
+
+
+Family History:
+Mother expired brain anuerysm at age 65
+Son with diabetes
+
+Physical Exam:
+Upon admission:
+
+98.6  112/42  57  16  99% room air
+
+Gen: Non-toxic
+Chest: Clear to auscultation bilaterally
+CV: Regular rate and rhythm
+Abd: Soft, non-tender, left lower quadrant stoma present
+
+
+Pertinent Results:
+Operative note:
+Cecal carcinoma.
+
+OPERATION:
+1.  Lysis of adhesions (extensive).
+2.  Right hemicolectomy.
+
+Cardiology Report ECG Study Date of 2013-01-30 00:00:00  12:31:40 PM
+Ventricular bigeminy. Native beats are with slight right axis
+deviation. Right
+bundle-branch block. ST segment elevations in leads V4-V6 of
+uncertain
+significance. Compared to the 123 Any St.us tracing of 2013-01-30 00:00:00 right
+axis deviation
+and ventricualr ectopy have newly appeared.
+TRACING #1
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+91 140 108 400/448.71 85 96 61
+
+Echo 2013-01-30 00:00:00:
+Conclusions:
+The left atrium is normal in size. Left ventricular wall
+thicknesses are
+normal. The left ventricular cavity size is normal. LV systolic
+function
+appears depressed with inferior/inferolateral/apical
+akinesis/hypokinesis.
+[Intrinsic left ventricular systolic function is likely more
+depressed given
+the severity of valvular regurgitation.] The aortic valve
+leaflets are mildly
+thickened. There is no aortic valve stenosis. No aortic
+regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Moderate (2+)
+mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened.
+Moderate [2+] tricuspid regurgitation is seen. There is moderate
+pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+The
+interatrial septum is bowed to the right.
+
+Chest X-Ray 2013-01-30 00:00:00:
+IMPRESSION: Moderate-sized left-sided pleural effusion with
+retrocardiac opacification likely due to atelectasis. Lungs
+otherwise clear.
+
+Admission labs:
+2013-01-30 00:00:00 11:18AM BLOOD Hct-30.2*
+2013-01-30 00:00:00 07:40AM BLOOD Plt Ct-389
+2013-01-30 00:00:00 07:40AM BLOOD Glucose-114* UreaN-19 Creat-0.7 Na-136
+K-5.0 Cl-101 HCO3-26 AnGap-14
+2013-01-30 00:00:00 07:40AM BLOOD Calcium-8.4 Phos-4.4 Mg-2.3
+
+Cardiac enzymes:
+2013-01-30 00:00:00 04:13PM BLOOD CK-MB-36* MB Indx-18.6* cTropnT-0.91*
+2013-01-30 00:00:00 10:28PM BLOOD CK-MB-21* MB Indx-15.1* cTropnT-1.02*
+2013-01-30 00:00:00 05:43AM BLOOD CK-MB-24* MB Indx-13.3* cTropnT-1.05*
+2013-01-30 00:00:00 01:51AM BLOOD CK-MB-NotDone cTropnT-1.23*
+2013-01-30 00:00:00 01:51AM BLOOD CK(CPK)-36
+
+Discharge labs:
+2013-01-30 00:00:00 10:20AM BLOOD WBC-10.9 RBC-4.08* Hgb-12.0 Hct-36.0
+MCV-88 MCH-29.4 MCHC-33.3 RDW-14.6 Plt Ct-373
+2013-01-30 00:00:00 07:20AM BLOOD PT-27.3* INR(PT)-2.8*
+2013-01-30 00:00:00 10:20AM BLOOD Plt Ct-373
+2013-01-30 00:00:00 07:52PM BLOOD Glucose-78 UreaN-16 Creat-0.5 Na-138
+K-3.8 Cl-106 HCO3-23 AnGap-13
+2013-01-30 00:00:00 07:52PM BLOOD Calcium-7.6* Phos-2.6* Mg-1.9
+2013-01-30 00:00:00 07:45AM BLOOD Triglyc-113 HDL-27 CHOL/HD-4.6 LDLcalc-74
+
+Brief Hospital Course:
+Ms. Migdal had no intra-operative complications,
+post-operatively she was noted to have PVC's with bigeminy,
+without anginal symptoms; cardiac enzymes were cycled and
+elevated. A cardiology consult was placed for further management
+of the NSTEMI. She was transferred to the intensive care unit
+for close monitoring.
+
+Neuro: NAD, A&Ox3 throughout her hospital stay, including
+through her NSTEMI.  Immediately post-op patient was given a
+morphine PCA.  On POD2 the PCA was d/c'd and pain was
+well-controlled with Tylenol.  On discharge she had been pain
+free for several days.
+
+CV: Echo demonstrated depressed LV systolic function with
+inferior apical hypokinesis. She was started on beta-blockade,
+and transfused PRBC's to maintain her hematocrit > 30. She was
+also started on an oral statin and when she became normotensive
+it was recommended to also at low dose ace inhibitor. POD 7, she
+developed atrial fibrillation with hypotension which responded
+to an Amiodarone drip, she was then transitioned to oral
+Amiodarone. Cardiology determined that she would benefit from
+anticoagulation therapy, she received one dose of Coumadin, her
+INR increased to 4.8. She was given 1u FFP with f/u INR of 3.5.
+Coumadin was then held and her INR trended down slowly over the
+remainder of her hospital stay.  She was discharged on 0.5mg
+coumadin qhs with strict instructions to see her PCP on Jermia Migdal.
+At discharge she was given prescriptions for ASA 81, amiodarone
+taper, toprol XL, sivastatin, and instructions to discuss
+starting an ACE-inhibitor with her PCP.
+
+GI/GU: NPO until POD2 when she was advanced to clears.  Passed
+flatus on POD4 but was kept on sips due to NSTEMI/ICU stay. POD7
+diet advanced to regular and supplemented with Ensure.  At
+discharge, colostomy was working well.
+
+Skin: POD11 a 4cm diameter pressure ulcer was found at midline
+upper back.  This was sharply debrided at the bedside and ulcer
+was seen by surgery team as well as wound care nurse.  Patient
+discharged with wound care regimen:
+
+Change dressing Every 3 days, start 2013-01-30 00:00:00.  Clean wound bed with
+commercial wound cleanser.  Apply Duoderm wound gel to wound
+bed. Apply no sting barrier wipes to peri-wound skin.  Place
+Allevyn foam dressing to site
+
+MSK: PT evaluated patient and recomomended home PT, which we
+arranged.
+
+Medications on Admission:
+Toprol
+Ritalin
+Vitamin B 12
+Senna
+Benadryl
+
+Discharge Medications:
+1. Toprol XL 25 mg Tablet Sustained Release 24 hr 2013-01-30 00:00:00: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+2. Amiodarone 200 mg Tablet 2013-01-30 00:00:00: One (1) Tablet PO BID (2 times
+a day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+3. Amiodarone 200 mg Tablet 2013-01-30 00:00:00: One (1) Tablet PO once a day
+for 2 weeks: Start after finishing 7 days of amiodarone 200mg
+twice daily.
+Disp:*14 Tablet(s)* Refills:*0*
+4. Coumadin 1 mg Tablet 2013-01-30 00:00:00: 0.5 Tablet PO at bedtime: **
+Clarify dose with primary care physician **.
+Disp:*14 Tablet(s)* Refills:*0*
+5. Simvastatin 40 mg Tablet 2013-01-30 00:00:00: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR Jordanne Oligney: One (1)
+Tablet,Rapid Dissolve, DR Migdal DAILY (Daily).
+Disp:*30 Tablet,Rapid Dissolve, DR(s)* Refills:*0*
+7. Blood test  Migdal: One (1)   every other day: Start 2013-01-30 00:00:00
+PT, INR
+Fax results to Dr.Migdal, test@mail.com.
+Disp:*30 * Refills:*2*
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) test@mail.com: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+9. Acetaminophen 500 mg Tablet test@mail.com: Two (2) Tablet PO TID (3
+times a day).
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Rectal cancer
+NSTEMI with atrial fibrillation
+Post-operative ileus
+Post-operative anemia
+Stage II pressure ulcer
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Notify MD or return to the emergency department if you
+experience:
+
+*Increased or persistent pain
+*Fever > 101.5
+*Nausea, vomiting, or abdominal distention
+*If ostomy outpus increase or decrease over 24 hours
+*If incision or upper back wound develop redness or drainage
+*Bleeding or bruising from any part of the body
+*Shortness of breath or chest pain
+*Any other symptoms concerning to you
+
+You may shower and wash incision with soap and water, be sure
+back wound is covered with occlusive dressing
+
+Please take all medications as directed
+
+You will need to speak with Dr. Migdal regarding your
+Coumadin and when to start taking it, please be sure to call his
+office on Monday, 2013-01-30 00:00:00, call test@mail.com for an
+appointment
+
+Be sure to eat small frequent meals, drink fluids and Ensure
+throughout the day
+
+You may take Tylenol every 4 to 6 hours as needed for pain
+
+Followup Instructions:
+Follow-up with your PCP, Migdal. Migdal on Monday, 2013-01-30 00:00:00 via
+the telephone, call test@mail.com.
+
+Follow-up with Dr. Migdal in 2013-01-30 00:00:00 weeks, call test@mail.com
+for an appointment.
+
+
+
+Completed by:2013-01-30 00:00:00

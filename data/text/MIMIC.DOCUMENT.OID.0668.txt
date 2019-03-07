@@ -1,0 +1,291 @@
+Admission Date:  2009-01-01 00:00:00              Discharge Date:   2009-01-01 00:00:00
+
+Date of Birth: 1985-12-28 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine / Iodine; Iodine Containing
+
+Attending:Gerod Capranica
+Chief Complaint:
+abdominal pain, nausea and vomiting
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+
+HPI: Patient is a 47-year-old female with h/o metastatic breast
+cancer to the liver and bone (currently on treatment with
+Navelbine), h/o pancreatitis secondary to hypertriglyceridemia
+who presents with nausea, vomiting and abdominal pain. States
+she woke up this AM with severe, diffuse abdominal pain
+radiating across the front of her abdomen. No radiation to her
+back. Pain was 2009-01-01 00:00:00 and assoicated with frequent emesis.
+Patient immediately came to the ER. Denies fevers of chills. No
+diarrhea or constipation. Last BM was last night. Last treatment
+with navelbine was one week ago. Patient says she was febrile to
+101.3 two days ago, was seen in ER for backpain but no new
+fractures were seen on MRI. Was sent home after bcx were drawn
+for close follow-up with heme/onc. Blood cultures show NGTD.
+.
+In ER patient was given IV dilaudid and phenergan without much
+improvement in nausea or pain. She was afebrile with nl HR. She
+was given 3 L NS. Amylase was 406, lipase 1191, WBC 30.5.
+Abdominal CT was done and showed acute pancreatitis with
+extensive inflammatory stranding surrounding the entire pancreas
+without focal fluid collections. Increased mets in liver were
+seen and stable lytic and sclerotic bone lesions were also
+noted.
+.
+Currently patient is in severe pain and having episodes of
+emesis. She feels dizzy with some numbness in nose and
+fingertips. Husband states that she has had some peripheral
+neuropathy for chemo, but she states this is a different
+feeling.
+
+
+Past Medical History:
+
+Past Medical History:
+Metastatic Breast ca- undergone chemo w/ adriamycin/cytoxan,
+then taxol. Also with 5FU/leukovorin and Zometa. Currently on
+therapy with Navelbine
+s/p radiation to the T4 region for mets this year
+s/p ccy
+h/o ovarian clot- requiring coumadin, was post Taxol therapy
+hypertrigylceridemia
+pancreatitis in 2009-01-01 00:00:00. Had elevated triglycerides at that time
+and told it was genetic.
+
+
+Social History:
+Social History:
+Married with 3 children. Denies any T/A/D
+Used to drink occasiounally
+
+
+Family History:
+Family History:
+Aunt with breast cancer on father's side. Mother with bladder
+cancer. Uncle with unknown cancer.
+
+
+Physical Exam:
+Tc 100.0 BP 122/74 P 102 R 22 O2 sat 96% RA
+Gen: A& O x3 in severe pain and having episodes of emesis
+HEENT: MMM, anicteric sclera, patient is able to feel me
+touching her face, even though she feels it is numb
+Neck: supple
+Cardio: tachycardic with regular rhythm, nl S1 S2, no m/r/g
+Pulm: few crackles at bases and scattered expiratory wheezes but
+moving air well
+Abd: soft, distended, pain on light palpation diffusely,
+hypoactive; BS in all 4 quadrants; no bruising seen on abd or
+flank
+Ext: no edema; 2+ PT pulses, warm extremities
+Neuro: A& O x3
+muscle strength grossly intact in all four extremities
+patient does not feel light touch in her fingertips bilaterally
+but is able to move her fingers. Extremities are warm.
+
+
+Pertinent Results:
+2009-01-01 00:00:00 12:54PM BLOOD WBC-30.5*# RBC-UNABLE TO  Hgb-12.6
+Hct-30.0* MCV-UNABLE TO  MCH-UNABLE TO  MCHC-UNABLE TO
+RDW-UNABLE TO  Plt Ct-206
+2009-01-01 00:00:00 05:01AM BLOOD WBC-32.1* RBC-4.01* Hgb-12.7 Hct-34.3*
+MCV-85 MCH-31.5 MCHC-37.0* RDW-18.7* Plt Ct-172
+2009-01-01 00:00:00 09:01AM BLOOD WBC-24.4* RBC-3.60* Hgb-11.3* Hct-30.9*
+MCV-86 MCH-31.3 MCHC-36.5* RDW-18.9* Plt Ct-139*
+2009-01-01 00:00:00 12:54PM BLOOD Neuts-53 Bands-31* Lymphs-4* Monos-4
+Eos-0 Baso-0 Atyps-0 Metas-3* Myelos-5* NRBC-1*
+2009-01-01 00:00:00 05:01AM BLOOD Neuts-67 Bands-16* Lymphs-5* Monos-3
+Eos-0 Baso-1 Atyps-0 Metas-5* Myelos-3*
+2009-01-01 00:00:00 12:54PM BLOOD PT-12.7 PTT-22.6 INR(PT)-1.1
+2009-01-01 00:00:00 05:01AM BLOOD PT-13.7* PTT-23.5 INR(PT)-1.3
+2009-01-01 00:00:00 12:54PM BLOOD Glucose-107* UreaN-9 Creat-0.7 Na-141
+K-3.5 Cl-105 HCO3-22 AnGap-18
+2009-01-01 00:00:00 05:01AM BLOOD Glucose-133* UreaN-7 Creat-0.6 Na-137
+K-3.1* Cl-102 HCO3-20* AnGap-18
+2009-01-01 00:00:00 09:01AM BLOOD Glucose-123* UreaN-8 Creat-0.6 Na-136
+K-2.9* Cl-106 HCO3-21* AnGap-12
+2009-01-01 00:00:00 12:54PM BLOOD ALT-38 AST-40 LD(LDH)-809* AlkPhos-124*
+Amylase-406* TotBili-0.6
+2009-01-01 00:00:00 05:01AM BLOOD ALT-25 AST-31 Amylase-205* TotBili-1.0
+2009-01-01 00:00:00 12:54PM BLOOD Lipase-1191*
+2009-01-01 00:00:00 05:01AM BLOOD Lipase-437*
+2009-01-01 00:00:00 09:01AM BLOOD Calcium-7.1* Phos-1.9* Mg-1.3*
+2009-01-01 00:00:00 05:01AM BLOOD Calcium-7.1* Phos-2.2* Mg-1.3*
+2009-01-01 00:00:00 12:54PM BLOOD Calcium-9.2 Cholest-375*
+2009-01-01 00:00:00 12:54PM BLOOD Triglyc-2736* HDL-39 CHOL/HD-9.6
+LDLmeas-PND
+2009-01-01 00:00:00 10:32AM BLOOD Lactate-1.5 K-2.6*
+2009-01-01 00:00:00 02:12PM BLOOD Lactate-1.2
+2009-01-01 00:00:00 10:32AM BLOOD freeCa-1.08*
+2009-01-01 00:00:00 03:11AM BLOOD WBC-11.8* RBC-2.84* Hgb-8.6* Hct-24.8*
+MCV-88 MCH-30.3 MCHC-34.6 RDW-18.2* Plt Ct-238
+2009-01-01 00:00:00 03:11AM BLOOD Amylase-96
+2009-01-01 00:00:00 03:11AM BLOOD Lipase-126*
+.
+CXR 2009-01-01 00:00:00:
+No airspace consolidations or pleural effusions are identified.
+However, increased vascular markings and peripheral interstitial
+lines suggest tiny degree of fluid overload. Some of this
+appearance is enhanced by lower lung volumes. The right
+hemidiaphragm continues to be slightly elevated. The tip of a
+right central venous catheter overlies the right atrium. No
+pneumothorax. No pleural effusions. The cardiac and mediastinal
+contours are unchanged.
+.
+Abd CT 2009-01-01 00:00:00:
+1. Acute pancreatitis with extensive inflammatory stranding
+surrounding the entire pancreas without focal fluid collections,
+pseudocyst, s123 Any St. vein thrombosis or s123 Any St. artery aneurysm.
+
+2. Slight interval increase in the size of the multiple liver
+metastatic lesions.
+
+3. Stable mixed lytic and sclerotic bone lesions.
+.
+Abd CT 2009-01-01 00:00:00:
+IMPRESSION:
+1. Interval development of left-sided pleural effusion with
+associated atelectasis and interval increase in degree of
+peripancreatic stranding and effusion with no evidence of
+pancreatic necrosis. No evidence of retroperitoneal hemorrhage.
+No pseudoaneurysm identified in the pancreatic bed.
+2. Unchanged appearance of multiple hepatic lesions.
+3. Interval apparent development of a right-sided 4.5 cm adnexal
+cyst.
+.
+Bcx 2009-01-01 00:00:00, 2009-01-01 00:00:00: no growth
+Ucx 2009-01-01 00:00:00: no growth
+Stool c. diff 2009-01-01 00:00:00, 2009-01-01 00:00:00: no growth
+
+Brief Hospital Course:
+47-year-old female with h/o metastatic breast cancer to the
+liver and bone, currently on treatment with Navelbine and h/o
+pancreatitis secondary to hypertriglyceridemia who presented
+with nausea, vomiting and abdominal pain which appeared
+secondary to acute pancreatitis.
+.
+*Acute Pancreatitis: Patient presented with severe abdominal
+pain,nausea and vomiting.  In the ER she was given IV dilaudid
+and phenergan without much improvement in nausea or pain. She
+was afebrile with a nl HR.  Amylase was 406, lipase 1191 and WBC
+30.5. Abdominal CT was done and showed acute pancreatitis with
+extensive inflammatory stranding surrounding the entire pancreas
+without focal fluid collections. Increased mets in the liver
+were seen and stable lytic and sclerotic bone lesions were also
+noted. Her pancreatitis was likely secondary to
+hypertriglyceridemia (Trig 2736), but could have been secondary
+to Navelbine treatment.  Patient had an initial admission
+Pilger score of 2. She was given 3L of NS in the ER.
+  After admission, she received aggressive IVF hydration,
+dilaudid PCA for pain control and anti-emetics.  She was given 2
+L NS at 200 cc/hr initially. When her hct was found to be
+higher, it suggested her fluid requirement was not being met so
+her fluids were increased to 500cc/hr.  Her calcium dropped to
+7.1 on 2009-01-01 00:00:00 and her K+ to 2.6. Her pain was not well
+controlled on the PCA and she had continued N/V.  She was
+transferred to the MICU for monitoring.  She was empirically
+started on flugyl and cipro for high fevers, but there was no CT
+evidence of necrotizing pacnreatitis.  In the ICU she had close
+electrolyte monitoring and received IVFs.  Her dilaudid PCA was
+changed to fentanyl.  Her N/V and pain improved and WBC trended
+down. Repeat abd CT was done on 2009-01-01 00:00:00 and showed interval
+developement of left sidedd pleural effusion and increase in
+degree of peripanreatic stranding and effusion with no evidence
+of necrosis. While the CT showed more stranding, the patient
+improved clinically. Her diet was advanced and she was started
+on Tricor for her hypertriglyceridemia.  Her amylase, lipase,
+WBC and triglycerides trended down over her stay.  She was
+discharged home in stable condition.
+
+.
+* Diarrhea: She developed diarrhea in the MICU which improved
+after arrival to the floor. 2 sets of c. diff toxin were
+negative.
+.
+
+*h/o metastatic breast CA: Patient had known metastatic breast
+cancer and was being treated with Navelbine as an outpatient.
+Her abdominal CT showed increased liver mets. Her cancer care
+was deferred to her outpatient doctors.
+.
+*H/o ovarian clot: Patient had a known ovarian clot for which
+she was on coumadin . Coumadin was initially held out of concern
+that she might require surgery.  It was re-started upon
+discharge.
+
+
+
+
+Medications on Admission:
+Navelbine
+Ativan prn
+Coumadin 1mg QD
+Neurontin 300 HS
+Oxycontin 80mg UPMCE
+Vocodin prn
+Recently on Neulasta for neutropenia, last dose 1 week ago
+Protonix qd
+Zofran prn
+.
+
+
+Discharge Medications:
+1. Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed for nausea.
+Disp:*40 Tablet(s)* Refills:*0*
+2. Zofran 4 mg Tablet Sig: One (1) Tablet PO every eight (8)
+hours.
+Disp:*40 Tablet(s)* Refills:*2*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours) for
+2 weeks.
+Disp:*28 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. OxyContin 40 mg Tablet Sustained Release 12HR Sig: One (1)
+Tablet Sustained Release 12HR PO twice a day for 1 months.
+Disp:*60 Tablet Sustained Release 12HR(s)* Refills:*0*
+5. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO
+QD ().
+Disp:*30 Tablet(s)* Refills:*1*
+6. Diphenoxylate-Atropine 2.5-0.025 mg Tablet Sig: 1-2 Tablets
+PO Q8H (every 8 hours) as needed for diarrhea for 1 weeks.
+Disp:*40 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Acute pancreatitis
+Hypertriglicidemia
+Metastatic Breast Cancer
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted to the hospital with Acute Pancreatitis.
+Please return to the hospital if you develop shortness of
+breath, chest pain or severe nausea/vomiting/diarrhea. If you
+are unable to eat or drink fluid due to nausea and vomiting
+please return to the hospital. Please call your doctor if you
+have any questions about your symptoms.
+You should advance your diet slowly. Concentrate on taking in
+fluids and then bland foods such as rice, bread, and fruits such
+as bananas. Please take medications as prescribed.
+
+Followup Instructions:
+Please call your PCP Pilger test@mail.com to make a follow-up
+appointment for next week.
+
+
+

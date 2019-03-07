@@ -1,0 +1,264 @@
+Admission Date:  2007-04-05 00:00:00              Discharge Date:   2007-04-05 00:00:00
+
+Date of Birth: 1934-03-27 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Etoshia Szlachta
+Chief Complaint:
+LLQ Pain and BRBPR
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+81 y/o M w/ h/o AAA s/p repair, colon ca s/p sigmoidectomy,
+diverticulitis, prostate cancer, and non-small cell lung cancer
+p/w 4 days of LLQ pain.  Patient states that for the past four
+days he has had a band like abdominal pain across his lower
+abdomen.  On day of admission his home health aide noted bright
+red blood in his stools and so patient referred to the ED.
+.
+In the ED, initial vs were: VS 97.8 106 129/83 18 100%. Patient
+with BRB on DRE and mild LLQ pain (intermittent).  HR improved
+with 1L NS.  CT A/P done in ED showed no acute abdominal
+pathology c/w patient's symptoms.  Patient was observed and had
+one further episode of BRBPR in the ED prior to ICU transfer.
+Repeat Hgb went from 10.9 on arrival to 8.2 (baseline Hgb
+2007-04-05 00:00:00).
+.
+On arrival to the ICU, patient comfortable with stable VS.  On
+further questioning, denies any recent f/c/n/v/ns/diarrhea/
+constipation/weight gain or weight loss/chest pain/syncope or
+other complaints.  Denies melena.
+Review of systems:
+(+) Per HPI
+(-) Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing.  Denies dysuria,
+frequency, or urgency. Denies arthralgias or myalgias. Denies
+rashes or skin changes.
+
+Past Medical History:
+Past Medical History:
+1) Non Small Cell Lung Cancer: found during 2007-04-05 00:00:00
+hospitalization, s/p LUL lobectomy 2007-04-05 00:00:00, complicated by left
+recurrent laryngeal nerve palsy.
+2) Abdominal Aorta Aneurysm: s/p repair 2007-04-05 00:00:00
+3) Colon Carcinoma: s/p sigmoid colectomy 2007-04-05 00:00:00
+4) Prostate cancer:  s/p radical prostatectomy 2007-04-05 00:00:00
+5) 3 vessel CAD w/ hx remote MI in 2007-04-05 00:00:00 - no stents
+6) Hypercholestermia
+7) h/o recurrent small bowel obstructions
+8) Diverticulitis
+9) HTN
+10) Hypercholesterolemia
+11) Squamous cell cancer of face surgically resected and getting
+XRT.
+
+Social History:
+Lives alone but has a HHA/VNA.  Son is nearby.
+He has two children and seven grandchildren.
+123 Any St.usly he worked for the electric company as a street lamp
+worker.  Habits: 20 pack year smoking history, quit 20 years
+ago. Quit alcohol 50 years ago, drank scotch "for a long time."
+Denies any
+other drug use. Not currently sexually active.
+
+Family History:
+His son is a diabetic. Brother died of myocardial infarction in
+his 70s. He had a brother with a myocardial infarction in his
+80s. His mother died of cardiogenic shock in her 80s. His father
+also died from "heart problems."
+
+Physical Exam:
+On admission:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Labs on Admission:
+2007-04-05 00:00:00 06:25PM BLOOD WBC-8.2 RBC-3.30* Hgb-9.7* Hct-27.9*
+MCV-84 MCH-29.2 MCHC-34.6 RDW-16.1* Plt Ct-203
+2007-04-05 00:00:00 06:25PM BLOOD PT-13.1 PTT-22.8 INR(PT)-1.1
+2007-04-05 00:00:00 12:29AM BLOOD WBC-7.0 RBC-3.34* Hgb-9.9* Hct-28.2*
+MCV-84 MCH-29.6 MCHC-35.1* RDW-16.0* Plt Ct-145*
+2007-04-05 00:00:00 12:40AM BLOOD Hct-26.2*
+2007-04-05 00:00:00 09:41AM BLOOD Hct-27.9*
+2007-04-05 00:00:00 06:25PM BLOOD Glucose-135* UreaN-28* Creat-1.2 Na-137
+K-4.8 Cl-103 HCO3-21* AnGap-18
+.
+Imaging:
+2007-04-05 00:00:00 CT Abdomen/Pelvis
+Impression:
+1. Status post sigmoid colectomy and prostatectomy. No
+small-bowel
+obstruction. Moderate fecal load, limiting the evaluation of
+intraluminal
+colonic mass but no obstructing mass is noted. No colonic wall
+thickening.  No acute diverticulitis.
+2. Right inguinal hernia with a loop of non-obstructed small
+bowel.
+Fat-containing left inguinal hernia.
+3. Interval progression of T12 compression fracture since 2007-04-05 00:00:00
+with now
+almost complete loss of vertebral height, but minimal
+retropulsion into the spinal canal.
+4. Stable left adrenal nodule. Cholelithiasis without acute
+cholecystitis.  Unchanged increased lung base interstitial
+marking suggestive of pulmonary fibrosis.
+5. Status post AAA repair with persistent thrombosed Jayra Spuhler.
+6. If clinical concern remains high for colonic mass, recommend
+followup with colonoscopy.
+.
+2007-04-05 00:00:00 CXR
+Cardiac size is top normal. There is no change in diffuse
+emphysema and
+peripheral reticular abnormality, left greater than right,
+consistent with
+pulmonary fibrosis. There is evidence of loss of volume in the
+left lung
+consistent with left upper lobe wedge resection. Mild increase
+opacity of the left lower lobe is likely atelectasis. There is
+no pneumothorax or pleural effusion. There are no new lung
+abnormalities suggestive of pneumonia.
+.
+2007-04-05 00:00:00: colonoscopy: Diverticulosis of the whole colon. Large
+amount of old blood and clots were seen throughout the colon,
+but not in the terminal ileum. This is likely a right-sided
+diverticular bleed. No active, ongoing bleeding at present.
+Limited view of mucosa given extensive old blood.
+
+Brief Hospital Course:
+Acute blood loss anemia 2007-04-05 00:00:00 GIB: The patient was initially
+admitted to the MICU for a GI bleed.  Serial hematocrits were
+stable after receiving 2 units of PRBCs from 2007-04-05 00:00:00
+(admission)-2007-04-05 00:00:00 and he was transitioned to the regular medical
+floor. Pt was maintained with 2 large bore IVs, active type and
+screen, consented and crossmatched. His home aspirin and
+antihypertensives were held. GI was consulted and recommended
+colonoscopy for the morning on 2007-04-05 00:00:00.  Colonoscopy showed
+multiple diverticuli and bleeding (see above). Overnight on
+2007-04-05 00:00:00 pt had 2 episodes large volume BRBPR with HR in 110s.
+Pt recieved 2U of PRBCs and did not have further bleeding until
+2007-04-05 00:00:00 when he started to have melanotic stools. His hematocrit
+was trending down and he was transfused to a hematocrit of >28.
+His melana resolved and GI felt an EGD would not be necessary at
+this time. It was felt his melana was residual blood from his
+123 Any St.us bleed. In total pt recieved 6 123 Any St. throughout
+hospitalization.
+
+# Dementia: continued namenda
+
+# Hypertension: lisinopril and metoprolol were held. They were
+held upon discharge as well and based on patient's outpatient
+blood work and blood pressure readings, the decision should be
+made in the outpatient to restart these medications.
+
+# CAD: aspirin was held
+
+# SC nodule: pt was noted to have a small subcutaneous nodule
+very low in LLQ. Pt stated that it had been present for many
+years (though pt is variable historian). Management deferred to
+primary care provider.
+
+# Prostate/Lung/Colon/Skin cancer: management deferred to outpt
+providers.
+
+# HLD: continued lipitor
+
+Medications on Admission:
+Lipitor 10mg daily
+lisinopril 5mg daily
+metoprolol 25mg UPMCE
+namenda 10mg UPMCE
+aspirin 81mg daily (started in last 3-4 weeks)
+
+Discharge Medications:
+1. Memantine 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Outpatient Lab Work
+Please check Hematocrit Spuhler, 2007-04-05 00:00:00 and send results to
+Dr. Etoshia Szlachta at 2007-04-05 00:00:00.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE VNA
+
+Discharge Diagnosis:
+primary: rectal bleeding
+secondary: htn, hypercholesterolemia
+
+
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+
+
+Discharge Instructions:
+You were admitted for bleeding for bloody bowel movements. You
+had a colonoscopy which showed out-pouchings of your colon
+(called diverticulosis) without active bleeding or polyps. The
+bleeding initially probably came from one of those outpouchings
+but we could not tell which one. After your colonoscopy, you
+started having bleeding in your stool again. This time the
+bleeding slowed down considerably. Your blood levels remained
+stable. It was felt the minimal blood in your stool was residual
+blood from your 123 Any St.us bleed. You should follow up with your
+outpatient doctor for a re-check of your blood level.
+
+You also had some difficulty with shortness of breath. A CT scan
+was performed that did not show any acute concerning causes of
+shortness of breath. This may be due to underlying lung disease.
+Your oxygen levels were normal while walking. You should follow
+up with your doctor for further managment.
+
+When you go home please continue your home medications with the
+following changes:
+1. HOLD Lisinopril 5 daily
+2. HOLD Metoprolol 25 mg UPMCE
+3. HOLD Aspirin 81 mg daily
+****These two medications should be re-adjusted at your follow
+up visit on UPMCE. Your blood pressure was not elevated and
+with concern for bleeding, these were not re-started.***
+4. START Protonix 40 mg twice a day. This will help decrease the
+acid in your stomach.
+
+It is important that you keep all of your doctor's appointments.
+
+
+Followup Instructions:
+You have the following appointment arranged for you:
+Name: Spuhler,[**First Name3 (LF) **] B.
+Appointment: Spuhler, 2007-04-05 00:00:00, at 3:00 PM at Location: CARDIOLOGY
+ASSOCIATES OF GREATER 123 Any St.
+Address: 123 Any St.,[**Numeric Identifier 802**]
+Phone: 2007-04-05 00:00:00
+
+The GI doctors Jayra Spuhler they did not need to follow up with you. If
+you ever need to see them in the future the number to call
+Phone: test@mail.com . The doctor you saw in the hospital was
+Jayra Spuhler, MD.
+
+
+

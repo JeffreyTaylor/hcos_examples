@@ -1,0 +1,660 @@
+Admission Date:  2010-02-05 00:00:00              Discharge Date:   2010-02-05 00:00:00
+
+Date of Birth: 1981-10-05 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Keyri Stralka
+Chief Complaint:
+transfer from cath lab for acute pulmonary edema s/p cath
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization with Drug Eluting Stent Placement.
+
+
+History of Present Illness:
+73 yo male with past medical history significant for CAD s/p
+CABG, insulin-dependent diabetes mellitus, hypertension,
+hypercholesterolemia, and peripheral vascular disease PVD was
+admitted to UPMCE from UPMCE with after having had
+2010-02-05 00:00:00 substernal chest pain. Patient was initially admitted to
+UPMCE on 2010-02-05 00:00:00 with a COPD exacerbation and a right
+lower lobe pneumonia, being treated with IV antibiotics,
+steroids, and nebulizer treatment. On 2010-02-05 00:00:00, patient
+experienced 2010-02-05 00:00:00 substernal chest pain with associated bilateral
+arm numbness and troponin I of 11. He initially received
+morphine and ativan without relief and then received 5mg IV
+metoprolol and IV nitroglycerine with relief. On 12.20, patient
+found to have troponin I with 83.41 and was transferred to UPMCE
+for cardiac catheterization.
+.
+At cardiac cath, patient found to have the following: 3 vessel
+native coronary artery disease; LMCA 50% distal in-stent
+restenosis; LAD occluded proximally; LCX 60% at its origin with
+occluded OM branches except for OM3 which was occluded distally;
+RCA known to be occluded and not selectively engaged; LIMA-LAD
+widely patent to distal LAD. SVG-RCA was known to be occluded
+and was not engaged selectively.
+The SVG-D-OM had an ulcerated 80% stenosis at the diagnoal
+origin and
+widely patent OM stent. Patient had a drug eluting stent placed
+(Cypher 3.5 x 18) to the SVG-Diag-OM. 170cc dye used during
+procedure and hemodynamics not performed (Aortic pressure 145/74
+with HR 73). Post cath course complicated by development of
+acute shortness of breath, diaphoresis, and respiratory
+distress, thought likely secondary to flash pulmonary edema.
+Patient started on a NRB and received 60mg furosemide IV total
+(20 then 40), morphine 5mg, and was started on a nitro drip for
+elevated blood pressures to SBPs to 190s.
+.
+Upon arrival to the floor, patient was started on BiPap but had
+persistent respiratory distress with use of accessory muscles
+and increased CO2 retention, as seen on ABG (7.29 / 59 / 160).
+Patient was intubated with anesthesia and started on propafol
+for sedation. With increased sedation, patient also became
+hypotensive to SBPs 70s-80s and was started on dopamine for
+blood pressure support.
+
+
+Past Medical History:
+- Hypertension
+- Hypercholesterolemia
+- IDDM, c/b ?diabetic neuropathy, retinopathy
+- CAD with 5-vessel CABG in 2010-02-05 00:00:00 (LIMA->LAD, SVG->PDA,
+SVG->D1->OM1)
+- Carotid Artery Stenosis: 2010-02-05 00:00:00 carotid u/s: diffuse
+calcified bilateral plaque making a technically difficult study,
+however, this was most consistent with bilateral 40-59%
+stenosis.
+- PVD: disease of the right common iliac, anterior tibial and
+posterior tibial.
+- 2010-02-05 00:00:00 CVA- loss of vision in right field of eyes, diminished
+memory and attention
+- Back pain due to compressed vertebrae
+- CRI (Cr was in )
+- h/o nephrolithiasis
+
+
+Social History:
+ Tobacco - Quit smoking 30 years ago; 80-100 PPY smoking history
+28 year history with 6 PPD
+EtOH - occasional, once a year
+Denies illicit drug use
+Retired Electrical Engineer
+Lives with wife, daughter, and two grandchildren (ages 3 and
+7yo)
+
+
+Family History:
+Mother & Father, both deceased secondary to cancer
+
+Physical Exam:
+T 95.6 / HR 73 / BP 112/54 / PO2 97%
+Dopa 5 / Propafol 20
+Vent Settings - AC - FiO2 .6 / TV 550 / Set RR 14 / Total RR 16
+/ PEEP 5
+Gen: lying in bed, sedated
+HEENT: MMM
+NECK: Supple, thick neck, difficult to assess JVD
+CV: RRR with normal S1 and S2; 2010-02-05 00:00:00 harsh, late-peaking systolic
+murmur
+LUNGS: diffuse bilateral crackles, increased at the bases
+bilaterally, diffuse expiratory wheezes throughout
+ABD: obese, soft, NT, ND. NL BS.
+EXT: 1+ edema to mid-shins bilaterally with 2+ DP/PT dopplerable
+pulses BL; right femoral sheath in place with 1+ left femoral
+pulse; no hematoma, ecchymoses, or bruising
+SKIN: No lesions
+NEURO: Alert and oriented to time and person
+PSYCH: Listens and responds to questions appropriately, pleasant
+
+
+
+Pertinent Results:
+2010-02-05 00:00:00 04:17PM   HGB-13.7* calcHCT-41 O2 SAT-98
+2010-02-05 00:00:00 04:17PM   GLUCOSE-205* K+-4.3
+2010-02-05 00:00:00 04:17PM   TYPE-ART O2 FLOW-15 PO2-165* PCO2-54*
+PH-7.34* TOTAL CO2-30 BASE XS-2
+2010-02-05 00:00:00 04:56PM   PT-19.4* PTT-68.6* INR(PT)-1.8*
+2010-02-05 00:00:00 04:56PM   PLT SMR-HIGH PLT COUNT-469*#
+2010-02-05 00:00:00 04:56PM   NEUTS-89.6* BANDS-0 LYMPHS-6.8* MONOS-3.2
+EOS-0.1 BASOS-0.2
+2010-02-05 00:00:00 04:56PM   WBC-17.6*# RBC-4.39* HGB-13.0* HCT-39.3*
+MCV-90 MCH-29.7 MCHC-33.2 RDW-14.4
+2010-02-05 00:00:00 04:56PM   CALCIUM-8.8 PHOSPHATE-5.4*# MAGNESIUM-2.3
+2010-02-05 00:00:00 04:56PM   CK-MB-60* MB INDX-8.6* cTropnT-4.20*
+proBNP-2687*
+2010-02-05 00:00:00 04:56PM   CK(CPK)-701*
+   RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  2010-02-05 00:00:00 9:17 PM
+
+CHEST (PORTABLE AP)
+
+Reason: please re-eval postition of ngt and ett (was ~ 6cm above
+cor
+
+UNDERLYING MEDICAL CONDITION:
+73 year old man with IDDM and COPD who was admitted to the CCU
+after presumed flash pulmonary edema , intubated, s/p tube
+repositioning
+REASON FOR THIS EXAMINATION:
+please re-eval postition of ngt and ett (was ~ 6cm above Irita Smylie)
+
+CHEST: Status post intubation for flash pulmonary edema. Check
+endotracheal tube position.
+
+COMPARISON: Film performed at 18:45 same day.
+
+Tip of the endotracheal tube is in good position, 4.5 cm above
+the carina. There is blunting of both costophrenic angles which
+is new consistent with bilateral pleural effusions. There is new
+focal opacity behind the left side of the heart consistent with
+atelectasis or infiltrate. Tip of the NG tube is in the stomach.
+
+IMPRESSION: Tubes in good position.
+
+Interval development of new bilateral pleural effusions and new
+left lower lobe opacity. There is moderate pulmonary vascular
+redistribution, likely due to the supine technique.
+CARDIAC CATH - 2010-02-05 00:00:00
+BRIEF HISTORY:
+This 72 year old gentleman with known coronary artery disease
+status
+post CABG with LIMA to LAD, SVG to D and OM, SVG to RCA. He
+subsequently
+had cypher stents placement to the LMCA/LAD and SVG to D and OM.
+He is
+transferred from outside hospital following admission for
+pneumonia and
+was noted to have NSTEMI after complaining of chest pain.
+
+INDICATIONS FOR CATHETERIZATION:
+Coronary artery disease, NSTEMI
+
+PROCEDURE:
+Left Heart Catheterization: was performed by percutaneous entry
+of the
+right femoral artery, using a 5 French left Smylie catheter,
+advanced
+to the ascending aorta through a 5 French introducing sheath.
+Coronary Angiography: was performed in multiple projections
+using a 5
+French JL4 and a 5 French JR4 catheter, with manual contrast
+injections.
+Graft Angiography: of 1 saphenous vein bypass grafts was
+performed using
+a 5 French left amplatz catheter, with manual contrast
+injections.
+Arterial Conduit Angiography:  of a left internal mammary artery
+graft
+was performed using a preformed Irita Smylie catheter, with manual
+contrast
+injections.
+Percutaneous coronary revascularization was performed using
+placement of
+drug-eluting stent(s).
+Conscious Sedation:  was provided with appropriate monitoring
+performed by
+a member of the nursing staff.
+
+HEMODYNAMICS RESULTS BODY SURFACE AREA:  m2
+  HEMOGLOBIN: gms %
+  FICK
+**PRESSURES
+AORTA {s/d/m} 145/74/105
+**CARDIAC OUTPUT
+HEART RATE {beats/min} 75
+RHYTHM SINUS
+
+OTHER HEMODYNAMIC DATA:      The oxygen consumption was assumed.
+
+
+
+
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**RIGHT CORONARY
+1) PROXIMAL RCA   DIFFUSELY DISEASED 100
+
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**LEFT CORONARY
+5) LEFT MAIN   TUBULAR 50
+6) PROXIMAL LAD   DIFFUSELY DISEASED 100
+12) PROXIMAL CX   TUBULAR 60
+
+**ARTERIOGRAPHY RESULTS TO SEGMENTS MORPHOLOGY % STENOSIS
+LOCATION
+**BYPASS GRAFT
+28) SVBG #1     DIFFUSELY DISEASED 100
+29) SVBG #2     TUBULAR 80
+32) LIMA     NORMAL
+
+
+**PTCA RESULTS
+  SVG-D-OM
+**BASELINE
+STENOSIS PRE-PTCA 2010-02-05 00:00:00
+**TECHNIQUE
+PTCA SEQUENCE 1
+GUIDING CATH 6AL-1
+GUIDEWIRES FILTER
+INITIAL BALLOON (mm) 3.5
+FINAL BALLOON (mm) 3.75
+# INFLATIONS 2
+MAX PRESSURE (PSI) 300
+**RESULT
+STENOSIS POST-PTCA 0
+SUCCESS? (Y/N) Y
+
+PTCA COMMENTS:     Initial angiography revealed an ulcerated,
+hazy
+lesion in the SVG to Diagonal with jump OM at the takeoff of the
+
+diagonal.  The initial strategy was to direct stent after
+thrombectomy
+with distal protection.  An Keyri Stralka-1 Guide provided good support.
+Bivalirudin was used.  The 4 French RX Angioject catheter was
+used with
+two passes in an antegrade fashion with moderate debulking of
+the
+lesion.  A  3.5 x 18 mm Cypher stent was deployed at 18 ATM.  A
+3.75 x
+13 mm Powersail balloon was inflated twice at 20 ATM.  Final
+angiography
+revealed normal flow, no dissection and 0% residual stenosis in
+the
+stent.  The patient tolerated the procedure well and developed
+transient
+chest pain with balloon inflations.  He complained of dyspnea
+during the
+case and was administered furosemide.  Despite diuresis, he
+developed
+increased shortness of breath in the holding area and was then
+transferred to the CCU for further management of volume overload
+CHF.
+
+
+TECHNICAL FACTORS:
+Total time (Lidocaine to test complete) = 1 hour 13 minutes.
+Arterial time = 1 hour 13 minutes.
+Fluoro time = 25 minutes.
+Contrast injected:
+          Non-ionic low osmolar (isovue, optiray...), vol 170
+ml, Indications - Renal
+Premedications:
+          ASA 325 mg P.O.
+Anesthesia:
+          1% Lidocaine subq.
+Anticoagulation:
+Other medication:
+          Bivalirudin bolus 80mg iv
+          Bivalirudin drip 105 mg/hr iv
+          Fentanyl 50 mcg iv
+          Furosemide 20 mg iv
+          Nitroglycerine bolus 200mcg ic
+          Versed 0.5 mg iv
+Cardiac Cath Supplies Used:
+          3.75 GUIDANT, POWERSAIL, 13
+          6F CORDIS, Keyri Stralka 1 (90CM)
+          4F POSSIS, ANGIOJET XMI RX, 135CM
+          .014 UPMCE, FILTER WIRE EZ 190 CM
+          3.5 CORDIS, CYPHER RX, 18
+          - ALLEGIANCE, CUSTOM STERILE PACK
+          - POSSIS, ANGIOJET PUMPSET
+          - GUIDANT, PRIORITY PACK 20/30
+
+
+COMMENTS:
+1. Selective coronary angiography of this right dominant system
+demonstrated 3 vessel native coronary artery disease. The LMCA
+had 50%
+distal in-stent restenosis. The LAD was occluded proximally. The
+LCX had
+60% at its origin with occluded OM branches except for OM3 which
+was
+occluded disteally. The RCA was known to be occluded and
+therefore was
+not selectively engaged. The LIMA-LAD was widely patent to
+distal LAD.
+The SVG-RCA was known to be occluded and was not engaged
+selectively.
+The SVG-D-OM had an ulcerated 80% stenosis at the diagnoal
+origin and
+widely patent OM stent.
+2. Limited resting hemodynamics were performed. The systemic
+arterial
+pressures were elevated measuring 145/74mmHg.
+3. Successful PTCA and Stenting of the SVG to Diagonal-OM were
+performed
+with distal protection using a 3.5 x 18 mm Cypher stent
+(postdilated to
+3.75 mm) .  Final angiography revealed normal flow, no
+dissection and 0%
+residual stenosis.  (See PTCA Comments).
+
+FINAL DIAGNOSIS:
+1. Native 3 vessel coronary artery disease with patent LIMA-LAD,
+known
+occluded SVG-RCA and known 80% stenosis in SVG-D-OM.
+2. Mildly elevated systemic arterial pressures.
+3. Successful PTCA and Stenting of the SVG-D-OM with Cypher UPMCE.
+
+
+TTE - 2010-02-05 00:00:00
+PATIENT/TEST INFORMATION:
+Indication: Coronary artery disease.
+Height: (in) 72
+Weight (lb): 280
+BSA (m2): 2.46 m2
+BP (mm Hg): 79/43
+HR (bpm): 62
+Status: Inpatient
+Date/Time: 2010-02-05 00:00:00 at 10:51
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2006W050-0:17
+Test Location: West Echo Lab
+Technical Quality: Suboptimal
+
+
+
+
+REFERRING DOCTOR: DR. Keyri Stralka
+
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *6.7 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *6.6 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: *6.4 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 5.3 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 3.6 cm
+Left Ventricle - Fractional Shortening: 0.32 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: >= 55% (nl >=55%)
+Aorta - Valve Level: 3.6 cm (nl <= 3.6 cm)
+Aorta - Ascending: 3.3 cm (nl <= 3.4 cm)
+Mitral Valve - E Wave: 0.7 m/sec
+Mitral Valve - A Wave: 0.8 m/sec
+Mitral Valve - E/A Ratio: 0.88
+Mitral Valve - E Wave Deceleration Time: 366 msec
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Dilated LA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Suboptimal
+technical quality, a focal LV wall motion abnormality cannot be
+fully
+excluded. Overall normal LVEF (>55%). No resting LVOT gradient.
+
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in
+aortic root. Normal ascending aorta diameter. Focal
+calcifications in
+ascending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+Eccentric AR jet directed toward the anterior mitral leaflet.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+Mild mitral
+annular calcification. Mild thickening of mitral valve chordae.
+Calcified tips
+of papillary muscles. No MS. Trivial MR. Prolonged (>250ms)
+transmitral E-wave
+decel time. LV inflow pattern c/w impaired relaxation.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with
+physiologic PR. Normal main PA. No Doppler evidence for PDA
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Suboptimal
+image quality - poor parasternal views. Suboptimal image quality
+- poor apical
+views.
+
+Conclusions:
+Acoustic windows were technically suboptimal. The left atrium is
+dilated. The
+right atrium is moderately dilated. There is mild symmetric left
+ventricular
+hypertrophy. The left ventricular cavity size is normal. Due to
+suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Mild
+(1+) aortic regurgitation is seen. The aortic regurgitation jet
+is eccentric,
+directed toward the anterior mitral leaflet. The mitral valve
+leaflets are
+mildly thickened. There is no mitral valve prolapse. Trivial
+mitral
+regurgitation is seen. The left ventricular inflow pattern
+suggests impaired
+relaxation. There is no pericardial effusion.
+
+
+
+
+
+Brief Hospital Course:
+ASSESSMENT:
+73 yo male with known coronary artery disease, hypertension,
+hyperlipidemia, tobacco abuse, and obesity s/123 Any St.es) 5109**] to
+SVG-Diag-OM, complicated by congestive heart failure, acute
+pulmonary edema, hypotension, and respiratory failure s/p
+intubation.
+.
+1. CARDIAC
+Coronary Artery Disease
+Patient was found to have an 80% ulcerated SVG-D-OM lesion which
+was stented with a  Cypher 3.5 x 18. Patient was chest pain free
+for the duration of his hospitalization. Patient was placed on
+aspirin, plavix, high-dose statin, and started back on his home
+dose of valsartan 160mg daily and hydrochlorothiazide 25mg PO
+daily. Patient was also started on Toprol XL 50 mg daily.
+Patient had 123 Any St.usly been taking atenolol 25mg PO bid but was
+switched to metoprolol given patient's chronic renal
+insufficiency. Patient recommended to discuss this change with
+his primary care physician and primary cardiologist.
+.
+Pump
+Patient's initial presentation of acute pulmonary edema during
+catheterization was thought likely secondary to his hypertension
+and diastolic heart failure. He was initially hypertensive and
+started on a nitro drip. As he was sedated and intubated, his
+blood pressure decreased and hwas started on dopamine for
+pressure support. Once extubated, patient again developed
+hypertension and he was re-started on his home medicines of
+valsartan 160mg and hydrochlorothiazide 25mg daily. He was also
+started on Toprol XL 50 mg QD. Patient was noted in 123 Any St.us
+records to have an EF of 45%, by report from prior cardiology
+notes. TTE during this admission demonstrated EF of 55% with 1+
+AR. Patient was on Smylie upon admission, unclear from our records
+or patient history whether he has been tried on an ACE inhibitor
+such as ramipril. Patient recommended to discuss with his
+primary care physician and primary cardiologist whether he
+should be on an ACE inhibitor such as ramipril.
+.
+Rhythm
+Patient remained in normal sinus rhythm for the duration of his
+admission and was monitored with telemetry.
+.
+2. Respiratory Failure
+Patient initially with respiratory distress after cath, likely
+secondary to flash pulmonary edema secondary to hypertension and
+congestive heart failure. Patient was initially intubated for
+respiratory distress and received lasix for aggressive diuresis
+and was extubated one day later without complication. Upon
+discharge, patient was stable on room air.
+.
+3. Hypercholesterolemia
+Patient was initiated on high dose statin therapy with
+atorvastatin 80mg PO daily.  He should have another lipid panel
+checked in 30 days and his liver function and CK followed by his
+PCP.
+.
+4. Pneumonia
+Patient was transferred from OSH with findings of right lower
+lobe pneumonia, per report. Patient received a 5 day course of
+antibiotic therapy with ceftriaxone/ azithromycin for 3 days
+then 2 days of levofloxacin. Patient symptomatically improved
+with decreased cough and sputum production by discharge.
+.
+5. Diabetes Mellitus
+Patient received insulin drip for a short time while he was
+intubated and was quickly transitioned to his outpatient insulin
+regimen of 25U NPH in the morning, 25U at bedtime, and sliding
+scale at meals.  It was noted that patient also required high
+doses of insulin on the sliding scale in addition to his NPH
+dosing and pt also reports that he often takes greater than 18
+units per day on his own sliding scale.  No adjustments were
+made to his regimen while he was an inpatient here, but this
+issue should be addressed as an outpatient.
+.
+6. Acute on Chronic Renal Insufficiency with Mild Proteinuria
+Patient noted to have chronic renal insufficiency with baseline
+Cr ~1.5, likely secondary to diabetes mellitus. During this
+admission, his creatinine bumped slightly to 1.8, thought likely
+secondary to prerenal causes with diuresis and decreased forward
+flow. Upon discharge, patient's creatinine had improved to 1.4.
+.
+Patient also noted to have mild proteinuria with a
+protein/creatinine ratio of .3. His chronic renal insufficiency
+and mild proteinuria are thought to be likely secondary to his
+diabetes mellitus but he was recommended to have a further
+work-up of his renal insufficiency by his primary care
+physician.
+.
+Patient will follow up with his PCP and his cardiologist Dr.
+Smylie.
+
+
+Medications on Admission:
+Home Meds:
+Imdur 30mg PO daily
+Lipitor 20mg PO daily
+Diovan - 160/25 PO daily
+Nexium 40mg PO daily
+Pletal 100mg PO bid
+Atenolol 25mg PO bid
+NPH 25U in the AM - 20U at suppertime - 20U qhs
+10U Humalog in the morning + sliding scale
+.
+Transfer Meds:
+Aspirin 325mg PO daily
+Atenolol 50mg PO bid
+Atorvastatin 20mg PO daily
+Azithromycin 500mg IV qAM
+Cilostazol 100mg PO bid
+Clopidogrel 75mg PO qAM
+Docusate 100mg PO bid
+Enoxaparin 110mg SC q12h
+Insulin
+Methylprednisolone 60mg I q12h
+Pantoprazole 40mg PO daily
+Valsartan 160mg PO qAM
+Zolpidem 5mg PO qhs
+Fluticasone/Salmeterol 1inh UPMCE
+Tiotropium 1 inh qAM
+Ceftriaxone 1mg IV qAM
+Nitro gtt @ 20mcg
+
+
+Discharge Medications:
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+
+PRIMARY:
+1. Coronary artery disease
+- 2010-02-05 00:00:00 - CABG (LIMA-LAD; SVG-PDA; SVG-D1-OM1)
+.
+SECONDARY:
+1. Chronic Renal Insufficiency (baseline Cr 1.4)
+2. Peripheral Vascular Disease
+3. Obesity
+4. IDDM complicated neuropathy and retinopathy
+5. Hypertension
+6. Hypercholesterolemia
+7. Carotid Stenosis
+8. CVA in 2010-02-05 00:00:00 with residual loss of vision in right field of
+eyes, diminished memory and attention
+9. Back pain r/t compressed vertebral
+10. Nephrolithiasis
+
+
+Discharge Condition:
+Good - Patient is ambulating, tolerating oral intake, and back
+to his baseline condition.
+
+
+Discharge Instructions:
+Please take all medications as prescribed. While it is important
+for you to take all of your medications, it will be especially
+important for you to take your aspirin and plavix every day. You
+are recommended to take plavix for one year after your discharge
+from the hospital.
+.
+If you have any symptoms of fevers, chills, night sweats,
+light-headedness, chest pressure or pain, shortness of breath,
+calf pain, or calf swelling, please go to the nearest emergency
+room.
+.
+Due to your high blood pressure and heart disease, please try to
+adhere to a heart-healthy, low sodium diet.
+
+Followup Instructions:
+
+Please go to your follow-up appointment with Dr. Keyri Stralka
+Smylie on Monday 2010-02-05 00:00:00 at 3:30pm.  His phone number is
+test@mail.com.
+.
+Please also follow-up with your cardiologist Dr. Keyri Stralka
+Smylie on 2010-02-05 00:00:00 at 11:20am.  His phone number is
+test@mail.com.
+.
+When you meet with your primary cardiologist and your primary
+care physician, Irita Smylie discuss the following issues with them:
+- evaluation of your sleep apnea and scheduling for a sleep
+study
+- further evaluation and work-up for your renal insufficiency
+and mild proteinuria (small amounts of protein in your urine).
+- taking a medication such as ramipril for your blood pressure
+and kidney protection
+- please note that pt is on NPH 25 UPMCE, but as per pt report,
+requires nearly 18 units at home on his sliding scale and also
+required additional doses while an inpatient.  Due to his short
+length of stay, no changes were made to his regimen.  A better
+outpatient regimen is needed for Mr. Smylie to control his
+diabetes.
+
+
+
+Completed by:2010-02-05 00:00:00

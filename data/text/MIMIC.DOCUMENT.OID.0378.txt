@@ -1,0 +1,283 @@
+Admission Date:  2011-11-16 00:00:00              Discharge Date:   2011-11-16 00:00:00
+
+Date of Birth: 1970-11-16 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Neosporin Scar Solution / adhesive bandage
+
+Attending:Charlene Baliko
+Chief Complaint:
+hyperglycemia
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Ms. Xayavong is a 50 y.o. woman with IDDM c/b retinopathy and
+proteinuria on insulin pump (followed at Xayavong by Dr. Charlene Baliko
+Xayavong) p/w hyperglycemia in setting of emesis and diarrhea x1D.
+Per pt, she felt hyperglycemic at 5AM whe she noticed she was
+urinating more frequently. At that time, her FS in 300s (despite
+being within normal limits yesterday, normally 100s-120s):
+subsequently 390 at 5am, 400s after breakfast, self-bolused
+insulin and continued to be in 400 all day when she decided to
+visit her PCP.  Josyah Xayavong reports nonbloody emesis and nonbloody loose
+stools throughout the day, and reports feeling dehydrated.  Pt's
+last meal was at 9pm yesterday. Denies fevers/chills, current
+nausea or abdominal pain or myalgias. Reports polyuria, but no
+pyuria/hematuria/dysuria. Denies any chest pain/pressure, chest
+palpiations, radiating pain, SOB, pleuritic pain.  Denies
+episodes of diaphoresis.  No recent sick contacts, unusual diet
+or recent travel.  No recent changes in insulin or medications.
+No recent antibiotic use.
+
+In the ED, initial VS T 100.4, HR 102, BP 111/42, RR 18, O2 99%
+RA.  FS in triage was 452.  Labs notable for lactate initially
+4.1, WBC 18, BS 406 @ 1850 w/ anion gap 26.  Effective Posm=300.
+ Lipase, ALT/AST/AlkP within normal limits.  CXR w/o acute
+pulmonary process.  Pt disconnected her Insulin pump @ 2110.
+She received 4L NS, initially 10 units insulin and was
+subsequently started on insulin drip @ 7units/hour @2115.
+
+On arrival to the MICU, pt was stable, with decreased nausea and
+no further emesis or loose stools.  A&Ox3, in no acute distress,
+mentating well. Tmax 100.6F.  Insulin drip decreased to
+5units/hr @2320 given FS 219 down from 289 in one hr.
+Subsequently decreased to 3units/hr at 0030 with FS 165.
+Lactate decreased to 2.5 and AG began to close.
+
+Review of systems:
+Per HPI.  Denies headache, changes in vision/double vision,
+sinus tenderness, rhinorrhea or sore throat. Denies rashes or
+peripheral edema.
+
+
+Past Medical History:
+-Diabetes type 1 c/b retinopathy and proteinuria:  followed at
+Xayavong by Dr. Charlene Baliko Xayavong.  Most recent HbA1C 8.6% in
+09/2011-11-16 00:00:00. Most recently admitted with DKA in 2011-11-16 00:00:00 in setting
+of viral gastroenteritis.
+-Osteoarthritis: mainly small joints of the hands, evaluated in
+rheumatology clinic.
+-h/o acute EtOH hepatitis: in setting of statin and alcohol use
+-s/p tubal ligation (2011-11-16 00:00:00)
+-s/p right rotator cuff surgery for impingement (2011-11-16 00:00:00)
+-s/p abdominal hernia repair (2011-11-16 00:00:00)
+
+Social History:
+Social History: Denies tobacco and illicits.  2 EtOH/wk.  Pt
+lives with her husband, has four children in Josyah Xayavong.  She is a
+substitute HS teacher.
+
+Family History:
+Family History:  Notable for father with stroke and MI @80 yrs.
+Mother with HTN.  Brother and maternal aunts and uncles with
+Josyah Xayavong.  No known FH of early MI.
+
+
+Physical Exam:
+ADMISSION EXAM:
+T 100.4, HR 102, BP 111/42, RR 18, O2 99% RA.
+General: Alert, oriented, no acute distress
+HEENT: Dry mucous membranes.  Sclera anicteric, oropharynx
+clear, EOMI w/o nystagmus, PERRL.
+Neck: Supple, no LAD.  No carotid bruits.
+CV: 3/6 systolic murmur with respirophasic variation best heard
+at LLSB.  Regular rate and rhythm, normal S1 + S2; no s3/s4; no
+rubs, gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly.  Negative Charlene Baliko sign. No suprapubic
+tenderness.
+GU: no foley
+Ext: Warm, well perfused, 3+ DP pulses BL, no clubbing, cyanosis
+or edema.
+Neuro: CNII-XII intact, grossly normal sensation,  gait
+deferred. Moving all 4 extremities.
+.
+DISCHARGE EXAM:
+T 97.4 BP 128/70 HR 70 RR 18 99% RA
+GEN: Alert/awake, no acute distress
+HEENT: MMM, oropharynx clear without erythema or exudates
+HEART: 3/6 systolic murmur best heard at LLSB. RRR nl s1/s2
+Lungs: Clear to auscultation bilaterally, no wheezes/rales
+Abdomen: Soft, NTND, bowel sounds present
+
+Pertinent Results:
+ADMISSION LABS:
+2011-11-16 00:00:00 06:50PM BLOOD WBC-18.0*# RBC-4.48 Hgb-12.5 Hct-38.3
+MCV-86 MCH-27.9 MCHC-32.7 RDW-12.1 Plt Ct-282
+2011-11-16 00:00:00 06:50PM BLOOD Neuts-89.6* Lymphs-7.1* Monos-2.9 Eos-0.2
+Baso-0.2
+2011-11-16 00:00:00 06:50PM BLOOD Glucose-406* UreaN-24* Creat-1.1 Na-138
+K-4.6 Cl-98 HCO3-19* AnGap-26*
+2011-11-16 00:00:00 10:33PM BLOOD Calcium-8.3* Phos-2.5* Mg-1.7
+2011-11-16 00:00:00 07:01PM BLOOD Lactate-4.6*
+2011-11-16 00:00:00 06:50PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-1000 Ketone-150 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+DISCHARGE LABS:
+2011-11-16 00:00:00 05:50AM BLOOD WBC-10.7 RBC-3.83* Hgb-10.4* Hct-32.2*
+MCV-84 MCH-27.2 MCHC-32.3 RDW-12.4 Plt Ct-252
+2011-11-16 00:00:00 05:50AM BLOOD Neuts-59.2 Lymphs-33.9 Monos-4.4 Eos-2.1
+Baso-0.4
+2011-11-16 00:00:00 05:50AM BLOOD Glucose-146* UreaN-9 Creat-0.8 Na-141
+K-4.4 Cl-105 HCO3-32 AnGap-8
+2011-11-16 00:00:00 11:00AM BLOOD Calcium-8.6 Phos-3.0 Mg-1.8
+
+MICROBIOLOGY:
+2011-11-16 00:00:00: BCX ngtd
+2011-11-16 00:00:00: BCX ngtd
+
+IMAGING:
+2011-11-16 00:00:00 CXR: The lungs are well expanded and clear. The
+mediastinum is
+unremarkable. The cardiac silhouette is within normal limits for
+size. No
+effusion or pneumothorax is noted. The visualized osseous
+structures are
+unremarkable.
+
+2011-11-16 00:00:00 EKG: Sinus rhythm. Diffuse low voltage. Compared to the
+123 Any St.us tracing of 2011-11-16 00:00:00 the rate has decreased. The atrial
+morphology has changed, no longer reflecting right atrial
+abnormality. Clinical correlation is suggested.
+
+Brief Hospital Course:
+Ms. Xayavong is a 50 yo F with diabetes mellitus on insulin pump
+who was admitted for diabetic ketoacidosis felt to be most
+probably related to a viral gastroenteritis.
+
+# Diabetic Ketoacidosis:
+Patient was initially admitted to the intensive care unit with
+anion gap acidosis, urinary ketones, and with volume de123 Any St.n
+as well as lactic acidosis. Aside from leukocytosis, initial
+infectious work up was unremarkable and ECG showed no signs of
+acute coronary event. Patient denied recent changes in insulin
+or medications and it was felt that DKA was triggered by a viral
+gastroenteritis.  Patient was started on IV insulin drip until
+glucose decreased to less than 200 and anion gap began to close.
+ Lactate levels fell from 4.6 to 2.5. When blood glucose was
+165, so was started on 5% dextrose w/0.45% NS at 200cc/hr. Her
+blood glucose was monitored with q1-2 fingersticks. She received
+total of ~5L of IVF in ED/MICU. Pt began tolerating regular
+diet, gap closed, and so insulin drip and IVF were discontinued.
+Xayavong was consulted and recommended starting patient back on
+her home insulin pump as patient was tolerating diet without
+nausea/vomiting. She will be followed by Xayavong after her
+discharge.
+
+# Leukocytosis:  She presented with WBC 18 and T=100.4F in the
+ED with Tmax on floor 100.6F.  It was thought to be secondary to
+DKA related inflammatory response and likely viral
+gastoenteritis as her blood cultures and CXR were negative.  She
+had no other focal signs of infection. Her GI symptoms improved
+in the hospital and she was able to tolerate her diabetic diet
+well.  Her leukocytosis resolved with hydration alone.
+
+# Dehydration: On admission, she appeared dehydrated with dry
+mucous membranes, likely from nausea and vomiting in conjuction
+with osmotic diuresis secondary to hyperglycemia.  Her
+creatinine was originally up to 1.1, but resolved after fluid
+resuscitation.
+
+# Anemia:  Pt's admission Hct 38.3-->31.7.  Most likely
+dilutional drop, as no apparent sources of bleed. Looking back
+on records, her baseline hct is around 32. 2011-11-16 00:00:00 consider iron
+studies and other anemia work up as an outpatient.
+
+# Hypertension: As patient was dehydrated and her blood pressure
+was normal, home lisinopril was held in the hospital. She was
+instructed to restart her lisinopril at 20 mg daily at the time
+of discharge, and to uptitrate it as instructed by her PCP.
+
+Transitional Issues:
+[ ] Follow up with Xayavong for management of IDDM
+[ ] Blood pressure check at next visit and increase lisinopril
+back to 40 mg daily if needed
+[ ] Consider work up for anemia
+[ ] Consider repeat echocardiogram to eval for mitral
+regurgitation
+
+Medications on Admission:
+Lisinopril 40 mg PO daily
+ASA 325 daily
+INSULIN PUMP
+Vit D/Ca daily
+
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Insulin Pump Sig: as directed by Xayavong  Miscellaneous once a
+day.
+3. lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Calcium-Vitamin D  Oral
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis:
+Diabetic Ketoacidosis
+Viral Gastroenteritis
+
+Secondary diagnosis:
+Type I diabetes mellitus
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. Xayavong,
+it was a pleasure to take care of you at UPMCE. You were admitted because of high blood sugars
+and diabetic ketoacidosis. You were started on insulin drip and
+admitted to ICU for close monitoring of your electrolytes and
+blood sugar. Your sugars improved with insulin drip and you were
+able to transition back to your insulin pump when you could
+start eating again. Your nausea and vomiting resolved.
+
+Please continue to monitor your blood sugars closely at home.
+Please keep the Xayavong and PCP appointments made for you. If you
+cannot make them, please call the office and reschedule the
+appointments.
+
+Your Lisinopril was stopped in the hospital because your blood
+pressure was low. Please change your lisinopril dose to 20 mg
+daily (half a tablet of 40 mg) until you see Dr. Xayavong on 2011-11-16 00:00:00, and take it as instructed afterwards.
+
+You are taking full dose aspirin at this time. We do recommend
+that you take baby aspirin (81 mg daily) to decrease the risk of
+bleeding. Please discuss this further with your primary care
+physician.
+
+Followup Instructions:
+Name: Xayavong, Josyah Xayavong NP
+Location: Xayavong DIABETES CENTER
+Address: ONE 123 Any St.,[**Numeric Identifier 711**]
+Phone: test@mail.com
+Appointment: WEDNESDAY 2011-11-16 00:00:00 AT 12PM
+.
+Department: PASTOR MEDICAL GROUP
+When: FRIDAY 2011-11-16 00:00:00 at 1 PM
+With: DR. Charlene Baliko test@mail.com
+Building: 123 Any St., MA) 123 Any St.
+Campus: OFF CAMPUS     Best Parking: On Street Parking
+.
+Department: DIGESTIVE DISEASE CENTER
+When: TUESDAY 2011-11-16 00:00:00 at 9:30 AM test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: Main Garage
+.
+Department: ENDO SUITES
+When: TUESDAY 2011-11-16 00:00:00 at 9:30 AM
+
+
+

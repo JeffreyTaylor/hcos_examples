@@ -1,0 +1,403 @@
+Admission Date:  2011-05-28 00:00:00              Discharge Date:   2011-05-28 00:00:00
+
+Date of Birth: 1955-05-22 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Zytaevius Wilson
+Chief Complaint:
+Maroon stools
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Full hx as per ICU admit note. Briefly, this is a 72 year old
+man with a past medical history significant for metastatic
+gastric cancer (tolerating adriamycin after failing multiple
+regimens), localized prostate cancer, bilateral cephalic vein
+thromboses in the setting of coumadin therapy in 2011-05-28 00:00:00, and
+portacath thrombus in 2011-05-28 00:00:00 who presented with four days
+of dark stools and hematocrit drop from 37 to 24, and
+intermittent abdominal pain and nausea, after being discharged
+to nursing facility on 2011-05-28 00:00:00 on chronic lovenox therapy.
+.
+In the ICU, the pt underwent an EGD with showed a fungating mass
+with stigmata of recent bleeding of malignant appearance was
+found in the antrum of the stomach. There was an ulcer within
+the mass, with an adherent clot. The ulcer was injected.
+However, after the procedure the patient continued to have
+bleeding and an angiography was performed. The GDA was embolized
+with coils and Gelfoam slurry. Subsequently the patient has been
+doing well and no more drop in the hct was noted. He was
+transfused a total of 4 U PRBC per the blood bank record, the
+last one on 2011-05-28 00:00:00.
+.
+The patient is currently doing well and denies any further
+abdominal pain or nausea/vomiting. He reports 2 cream-colored BM
+today.
+.
+ROS: Otherwise negative for dysuria, CP, SOB. He has been able
+to tolerate liquids and solid food. He endorses a weight loss of
+144 to 126 pounds in the last 2 months.
+
+
+Past Medical History:
+-Gastric cancer diagnosed in 2011-05-28 00:00:00; found on workup of
+iron-deficiency anemia with metastsis to lymph nodes and liver
+treated initiially with two cycles of ELF chemotherapy with
+disease progression followed by weekly irinotecan stopped
+secondary to toxicity. Started Taxol 2011-05-28 00:00:00 discontinued due to a
+drug-eruptive rash. Started Adriamycin 2011-05-28 00:00:00, last dose in
+2011-05-28 00:00:00.
+-Hypertension
+-Prostate cancer, Zytaevius Wilson 3+4 tx with watchful waiting
+-Right portacath associated SVC thrombus and removal 2011-05-28 00:00:00
+with new port placed on left at same time. Bilateral cephalic
+vein thrombosis in 2011-05-28 00:00:00
+
+
+Social History:
+He is from 123 Any St.. He is married, wife is a nurse in the OR at
+UPMCE. He used to smoke, quit 24 years
+ago, smoked for 25 plus years. Used to drink approximately one
+bottle of vodka a day, quit in 2011-05-28 00:00:00. No IV drug use.
+
+Family History:
+Per Elissabe Derbyshire, mother died of breast cancer at age 36, brother died of
+pancreatic cancer at age 69, other brother died of prostate
+cancer, and his father died of a myocardial infarction. He had
+one son and he died of a stroke.
+
+Physical Exam:
+T:99.6 BP:109/59 HR:76 RR:19 O2saturation: 100% on 2L nasal
+canula
+Gen: Pleasant elderly man in no apparent distress. Laying in
+bed. Appears slightly older than stated age.
+HEENT: Slight conjunctival pallor. No scleral icterus. Slightly
+dry mucous membranes.
+NECK: Supple. No cervical or supraclavicular lymphadenopathy. No
+JVD.
+CV: RRR. Normal S1 and S2. No murmurs, rubs or Derbyshire
+ap123 Any St.ted.
+LUNGS: Clear to auscultation bilaterally. Decreased breath
+sounds in lower lung fields, bilaterally. No wheezes, crackles,
+or rhonci ap123 Any St.ted.
+ABD: Distended, but soft. Normal active bowel sounds in all four
+quadrants. Nontender. No guarding or rebound. Liver edge not
+palpated. Guaiac deferred/noted in ER to be positive.
+EXT: Warm and well perfused. No clubbing or cyanosis. No lower
+extremity edema, bilaterally. 2+ dorsalis pedis and radial
+pulses, bilaterally.
+
+
+Pertinent Results:
+2011-05-28 00:00:00 11:15AM BLOOD WBC-12.5*# RBC-2.72*# Hgb-7.5*#
+Hct-23.8*# MCV-88 MCH-27.7 MCHC-31.6 RDW-19.9* Plt Ct-765*
+2011-05-28 00:00:00 12:00AM BLOOD WBC-9.7 RBC-3.53* Hgb-10.8* Hct-30.5*
+MCV-87 MCH-30.5 MCHC-35.3* RDW-17.1* Plt Ct-322
+2011-05-28 00:00:00 11:15AM BLOOD Neuts-77.0* Lymphs-16.7* Monos-5.4
+Eos-0.3 Baso-0.6
+2011-05-28 00:00:00 12:32AM BLOOD Neuts-78.0* Bands-0 Lymphs-10.7*
+Monos-9.9 Eos-1.0 Baso-0.4
+2011-05-28 00:00:00 11:15AM BLOOD PT-15.7* PTT-36.9* INR(PT)-1.4*
+2011-05-28 00:00:00 12:32AM BLOOD PT-17.0* PTT-28.3 INR(PT)-1.6*
+2011-05-28 00:00:00 11:15AM BLOOD Glucose-123* UreaN-26* Creat-1.7* Na-145
+K-4.9 Cl-113* HCO3-22 AnGap-15
+2011-05-28 00:00:00 12:00AM BLOOD Glucose-150* UreaN-5* Creat-1.6* Na-138
+K-3.0* Cl-106 HCO3-22 AnGap-13
+2011-05-28 00:00:00 11:15AM BLOOD ALT-35 AST-35 CK(CPK)-47 AlkPhos-75
+Amylase-96 TotBili-0.3
+2011-05-28 00:00:00 12:36AM BLOOD ALT-21 AST-25 LD(LDH)-365* AlkPhos-64
+TotBili-0.3
+2011-05-28 00:00:00 11:15AM BLOOD cTropnT-0.04*
+2011-05-28 00:00:00 11:15AM BLOOD Calcium-9.0 Phos-4.0 Mg-2.7*
+2011-05-28 00:00:00 12:36AM BLOOD Albumin-2.8* Calcium-8.1* Phos-2.3*
+Mg-2.2
+2011-05-28 00:00:00 12:00AM BLOOD Calcium-8.1* Phos-2.7 Mg-2.1
+2011-05-28 00:00:00 10:28AM BLOOD Ammonia-25
+2011-05-28 00:00:00 12:32AM BLOOD TSH-0.91
+2011-05-28 00:00:00 11:41AM BLOOD Glucose-123* Na-143 K-4.1 Cl-111
+calHCO3-23
+.
+2011-05-28 00:00:00 EKG
+Sinus rhythm. Normal ECG. Compared to the 123 Any St.us tracing of
+2011-05-28 00:00:00 the rate is normal.
+.
+2011-05-28 00:00:00 Embolization:
+IMPRESSION: Vascular mass at the gastric antrum and proximal
+duodenum level supplied by the GDA. The GDA was embolized with
+coils and Gelfoam slurry. No active extravasation of contrast
+was seen.
+.
+2011-05-28 00:00:00 MRI
+MRI OF THE BRAIN: There is no evidence of acute brain ischemia
+or intracranial hemorrhage. No structural, signal, or
+enhancement abnormalities are noted within the brain parenchyma.
+Apparent signal and enhancement abnormality in the inferior
+frontal lobes bilaterally are most consistent with artifact from
+the adjacent cribriform plates. Calcification in the choroid
+plexus as well as choroidal vasculature is noted bilaterally.
+There is no hydrocephalus. The craniocervical junction is
+normal. There is thickening of multiple ethmoid air cells. No
+fluid is noted within the mastoid air cells or other paranasal
+sinuses.
+
+MRA OF THE BRAIN: There is no evidence of aneurysmal dilation,
+significant stenosis, or arteriovenous malformation.
+
+IMPRESSION: No definite signal or enhancement abnormalities
+within the brain parenchyma are definitely seen. The 123 Any St.inary
+read suggested some abnormalities thought to be within the
+medial temporal lobes and within the gyri recti of the frontal
+lobes; the former is thought to represent choroid plexus
+vasculature and the latter artifact arising from adjacent
+cribriform plates, a common finding when a 3T scanner is used.
+.
+2011-05-28 00:00:00 CXR
+CHEST, ONE VIEW: Comparison with 2011-05-28 00:00:00. Low lung volumes
+may accentuate vascular structures. No pleural effusion or
+pneumothorax. Probable minimal subsegmental atelectasis at the
+left lung base. No pleural effusion or pneumothorax. Right PICC
+is seen at the proximal portion of the SVC. Embolization coils
+in the epigastric region are noted.
+
+IMPRESSION: Minimal subsegmental atelectasis at the left lung
+base.
+.
+2011-05-28 00:00:00 CT Head
+FINDINGS: There is no evidence of hemorrhage, shift of normally
+midline structures, or infarction. Zytaevius Wilson-white matter
+differentiation is preserved. There is no hydrocephalus. Small
+hypodensities in bilateral thalami may be old lacunes and were
+present on head CT, 2011-05-28 00:00:00. The visualized paranasal sinuses
+and mastoid air cells are clear.
+
+IMPRESSION: No evidence of hemorrhage or infarction. Again,
+please note that non-contrast head CT is relatively insensitive
+for detection of metastatic disease and contrast-enhanced MRI is
+recommended if this is a clinical concern.
+.
+2011-05-28 00:00:00 EEG
+IMPRESSION: Abnormal EEG due to the mildly slow and disorganized
+
+background. This suggests an encephalopathy. No areas of
+prominent
+focal slowing were evident, and there were no epileptiform
+features.
+.
+2011-05-28 00:00:00 RUE U/S
+FINDINGS: Grayscale and Doppler sonElissabe Derbyshire of the right internal
+jugular, subclavian, axillary, and right brachial veins
+demonstrate normal compressibility and waveforms. Examination of
+the contralateral internal jugular vein and subclavian vein also
+demonstrates normal waveforms and compressibility. The right
+cephalic vein is not imaged on this examination and likely
+remains clotted. A central venous line is observed coursing
+through the right brachial veins and is unremarkable.
+
+IMPRESSION: No evidence of deep vein thrombosis of the right
+internal jugular, subclavian, or axillary veins. No findings
+consistent with SVC syndrome.
+.
+2011-05-28 00:00:00 MRV
+Lower portions of both the right and left internal jugular veins
+are widely patent, as are both the right and left
+brachiocephalic veins. The SVC is patent as well. There is mild
+narrowing of the SVC in its mid portion, although it is
+difficult to determine whether this represents a nondistended
+state or a functional stenosis/stricture.
+
+The left subclavian vein appears patent along its entire course.
+
+Right subclavian vein is non-visualized for a segment of
+approximately 1-2 cm lateral to the the lung apex, presumably
+secondary to prior stenosis/thrombus. More proximally and
+distally, flow is seen within this vessel.
+
+Small bilateral pleural effusions are present. A mass is seen
+within the left lobe of the liver on the coronal SSFSE images.
+
+IMPRESSION:
+1. No evidence of SVC conclusion. Mild narrowing may be present
+in the mid portion of the SVC, although we cannot assess whether
+this is truly anatomic stenosis or simply physiogical due to
+nondistension.
+2. Short segment of partial obstruction versus stenosis in the
+central portion of the right subclavian vein.
+3. Patent appearance of the visualized portions of both the
+right and left internal jugular veins as well as the
+brachiocephalic veins.
+
+
+Brief Hospital Course:
+Assessment/Plan: 72 year old man with a past medical history
+significant for metastatic gastric cancer, thrombotic events,
+and MSSA bacteremia who was recently discharged to a nursing
+home on lovenox, admitted with 4d of dark, guiaiac positive
+stools and 12 point Hct drop, now s/p ICU stay with 4 123 Any St.
+transfusion and unsuccessfull EGD with epinephrine injection
+into bleeding gastric mass and subsequently embolization.
+.
+#) GI bleed:
+Known gastric cancer with hypercoaguable state. Placed on
+lovenox upon discharge on 2011-05-28 00:00:00. Hematocrit noted to have
+decreased from 36.8 on 2011-05-28 00:00:00 to 23.8 on admission. Dark stools
+over the four days PTA. Guaiac positive in ED. Hct continued to
+trend down and he was transfused several units of PRBCS. He
+underwent an EGD that showed a large gastric mass with central
+ulceration and recent bleeding. His hct continued to trend down
+thereafter, and he was therefore transferred to Angiography for
+embolization therapy, which he received on 2011-05-28 00:00:00. His hct has
+been stable since that procedure.
+.
+#) Prior MSSA infection:
+Blood cultures on 2011-05-28 00:00:00 grew MSSA in 2011-05-28 00:00:00 bottles. Urinalysis
+and chest xray negative. TTE negative for vegetations and TEE
+deferred.
+Given his prior history of deep vein thrombosis, upper extremity
+ultrasounds were obtained and notable for bilateral cephalic
+vein DVTs. Surveillance for infected clots negative. PICC line
+was placed on 2011-05-28 00:00:00 for antibiotic administration. Will need
+to continue Nafcillin for four weeks (high dose at 2 gm IV every
+4 hours), day 1 2011-05-28 00:00:00, with last doses on 2011-05-28 00:00:00. Scheduled
+to follow-up with Dr. Elissabe Derbyshire in the UPMCE clinic on 2011-05-28 00:00:00
+at 0900 AM.
+.
+#) Hypercoagulability:
+Extensive personal and presumed family history of thromboses,
+with port-associated thrombus requiring port removal with
+placement of a new left-sided port in 2011-05-28 00:00:00, followed by
+SVC thrombus requiring TPA in 2011-05-28 00:00:00. On 123 Any St.us admission
+in 2011-05-28 00:00:00, upper extremity ultrasounds were obtained that
+were notable for bilateral upper extremity cephalic vein DVTs.
+His INR was therapeutic on admission, but in late 2011-05-28 00:00:00,
+subthera[** Location **] for short period. Placed on lovenox, as deemed
+"coumadin failure". Megace was discontinued during last
+admission due to its potential prothrombotic characteristics. At
+continuned high risk for thromboses. In setting of GI bleed,
+held lovenox and will continue to hold for now per his
+oncologist Dr. Zytaevius Wilson..
+.
+#) Metastatic gastric cancer:
+Followed by nurse 123 Any St.us hospitalization in 2011-05-28 00:00:00-2011-05-28 00:00:00, noted to be
+guaiac positive and required one unit of packed red blood cells.
+
+.
+#) Chronic renal insufficiency: Cr on admission noted to be 1.6.
+ He had been down to 1.1 on prior admission but has been as high
+as 1.8 in the past.  His creatinine did not change with IVF and
+no renal abnormalities were found on renal ultrasound.
+- renally dose all medications
+.
+#) Mental status change: He was noted to be acutely disoriented
+the night after he was transferred from the ICU.  No obvious
+cause was found for his disorientation and his mental status
+cleared over the next 24 hours.  With neurology consulting, he
+was started empirically on keppra for seizure prevention as his
+presentation was most consistent with a post-ictal state
+although EEG did not show seizure activity.  He will follow-up
+with Dr. Derbyshire as an outpatient.  No structural cause for
+seizure was found on MRI.
+.
+#) Diarrhea: he was noted to have increasing diarrhea around the
+time that he had mental status change.  He was negative X 3 for
+c.diff but as he had been on long-term antibiotics and had
+low-grade fevers/inc WBC count, he was started empirically on
+flagyl for a 7 day course and his diarrhea and fevers resolved.
+- we started him on potassium supplementation on discharge as he
+has been relatively hypokalemic.  His serum chemistries should
+be checked approximately every other day until stable and
+continued on potassium supplementation until his potassium is
+stable.
+
+Medications on Admission:
+-Acetaminophen 325 mg Tablet 1-2 Tablets PO Q4-6H PRN
+-Pantoprazole 40 mg Tablet PO qd
+-Nafcillin in D2.4W 2 g/100 mL; 2 grams IV Q4H for 24 days (last
+dose 2011-05-28 00:00:00)
+-Baclofen 10 mg PO tid
+-Docusate Sodium 100 mg UPMCE PRN
+-Enoxaparin 60 mg/0.6 mL Syringe; Sixty mg SC q12hr
+-Prochlorperazine 10 mg PO q8hr PRN nausea
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed for pain.
+2. Nafcillin 2 gm IV Q4H
+24 day dose; last dose on 2011-05-28 00:00:00
+3. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO twice a
+day.
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+5. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 3 days: through 2011-05-28 00:00:00.
+6. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig:
+15-30 MLs PO QID (4 times a day) as needed for heartburn.
+7. Heparin Flush (10 units/ml) 2 ml IV DAILY:PRN
+10 ml NS followed by 2ml of 10 units/ml heparin each lumen daily
+and PRN. Inspect site every shift.
+8. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+GI Bleed
+Seizure
+Infectious Diarrhea
+Chronic Renal Insufficiency
+Anemia
+
+
+Discharge Condition:
+Hemodynamically stable. Ambulatory.
+
+
+Discharge Instructions:
+You were admitted with a gastrointestinal bleed.  This bleed was
+from being on a blood thinner.  We have stopped this blood
+thinner so you are now at increased risk of forming new blood
+clots.
+.
+You likely had a seizure during your admission and are now
+taking a medication to prevent more seizures.
+.
+You are also being treated for infectious diarrhea.  Please
+continue to take the antibiotic as prescribed.
+.
+You need to continue nafcillin until 2011-05-28 00:00:00 to treat the
+bacteria in your blood found on your last hospitalization.
+.
+Please seek medical attention immediately if you develop fever,
+chills, nausea, vomiting, shortness of breath or any other
+concerning symptoms.
+
+Followup Instructions:
+Please make a follow-up appointment w/ Dr. Zytaevius Wilson within a week
+of discharge from rehab. Tel (test@mail.com.
+.
+You have a follow-up appointment with Dr. Zytaevius Wilson and Dr.
+Derbyshire on 2011-05-28 00:00:00 at 10:00 am.  Tel. (test@mail.com.
+.
+Please call test@mail.com to schedule a follow-up appointment
+with Dr. Zytaevius Wilson Derbyshire for sometime within the next month.
+ Tel (test@mail.com.
+.
+Provider: Derbyshire. Elissabe Derbyshire Phone:test@mail.com
+Date/Time:2011-05-28 00:00:00 9:00
+Provider: Zytaevius Wilson, M.D. Phone:test@mail.com
+Date/Time:2011-05-28 00:00:00 9:00
+
+
+

@@ -1,0 +1,170 @@
+Admission Date:  2006-06-19 00:00:00              Discharge Date:   2006-06-19 00:00:00
+
+Date of Birth: 1921-06-17 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Hydrochlorothiazide / Norvasc / Zestril / Bactrim Ds
+
+Attending:Cristalyn Tiensvold
+Chief Complaint:
+inability to swallow
+
+Major Surgical or Invasive Procedure:
+EGD and intubation for EGD
+
+History of Present Illness:
+76 yo woman with Schatzki's ring s/p dilation in 2006-06-19 00:00:00 with no
+symptoms until 1 mo ago, noticed increased time to pass food
+below LES (15 minutes) but night prior to presentation developed
+inability to pass food/liquids one hour after eating a meal of
+fish and chinese noodles.
+
+In the ED: She was given glucagon, nitro, and zofran. GI was
+consulted and requested ICU admission for monitoring, planning
+EGD for day of admission.
+
+Past Medical History:
+hypertension
+schatzki's ring
+anemia
+s/p hysterectomy
+depression
+
+Social History:
+remote (quit 30-40 years ago) smoking history, drinks a glass of
+wine with dinner, lives with husband, retired.
+
+Family History:
+noncontributory
+
+Physical Exam:
+Flowsheet Data as of 2006-06-19 00:00:00 06:02 PM
+Vital Signs	Hemodynamic monitoring	Fluid Balance	24 hours	Since
+12 AM
+Tmax: 36.6 ??????C (97.8 ??????F)
+Tcurrent: 36.6 ??????C (97.8 ??????F)
+HR: 100 () bpm
+BP: 156/70
+RR: 16 ()
+SpO2: 97
+Heart rhythm: SR (Sinus Rhythm)
+Respiratory
+O2 Delivery Device: None	
+
+Physical Examination
+General Appearance: Well nourished, No acute distress, Anxious,
+spitting into emesis basin
+Head, Ears, Nose, Throat: Normocephalic
+Lymphatic: No(t) Cervical WNL, No(t) Supraclavicular WNL, No(t)
+Cervical adenopathy
+Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+Peripheral Vascular: (Right radial pulse: Not assessed), (Left
+radial pulse: Not assessed), (Right DP pulse: Not assessed),
+(Left DP pulse: Not assessed)
+Respiratory / Chest: (Expansion: Symmetric), (Percussion:
+Resonant : ), (Breath Sounds: Clear : )
+Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+Extremities: Right: Absent, Left: Absent, No(t) Cyanosis, No(t)
+Clubbing
+Musculoskeletal: No(t) Muscle wasting
+Skin:  Warm, No(t) Rash:
+Neurologic: Attentive, Follows simple commands, Responds to: Not
+assessed, Oriented (to): person, place, and time, Movement:
+Purposeful, Tone: Normal
+
+
+Pertinent Results:
+2006-06-19 00:00:00 11:45AM   WBC-7.4 RBC-3.91* HGB-12.9 HCT-38.9 MCV-100*
+MCH-33.0* MCHC-33.2 RDW-13.8
+2006-06-19 00:00:00 11:45AM   NEUTS-84* BANDS-0 LYMPHS-10* MONOS-3 EOS-0
+BASOS-0 ATYPS-3* METAS-0 MYELOS-0
+2006-06-19 00:00:00 11:45AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+2006-06-19 00:00:00 11:45AM   PLT COUNT-385
+2006-06-19 00:00:00 11:45AM   PT-12.8 PTT-22.9 INR(PT)-1.1
+2006-06-19 00:00:00 11:45AM   GLUCOSE-118* UREA N-13 CREAT-0.8 SODIUM-141
+POTASSIUM-4.3 CHLORIDE-106 TOTAL CO2-22 ANION GAP-17
+
+Brief Hospital Course:
+76 F w/ Shatzki's ring presents with acute dysphagia s/p
+endoscopic disimpaction, now with evidence of new LLL infiltrate
+on CXR and slight drop in O2 sat concerning for possible
+aspiration pna
+.
+
+# Acute dysphagia
+
+s/p endoscopic disimpaction of food proximal to the shatzki's
+ring. Continuing liquid diet X 3 days followed by soft
+mechanical X 1 wk, plan for dilation procedure next week.
+.
+
+# Aspiration pneumonia
+
+New LLL process with mild hypoxia, new leukocytosis and low
+grade temperature
+concern for aspiration pna, especially in the setting of
+intubation for procedure, mediastinitis or micro perf
+possibility with small effusion, atelectasis. 7 day course of
+antibx for aspiration PNA.
+
+
+Medications on Admission:
+ocuvite daily
+xanax 0.125mg qhs
+premarin 0.3mg daily
+mirtazipine 15mg qhs
+cozaar 100mg daily
+aspirin 81mg daily
+amlodipine, pt unsure of dose
+
+Discharge Medications:
+No changes to above, the following added:
+
+1. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 6 days.
+Disp:*6 Tablet(s)* Refills:*0*
+2. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 6 days.
+Disp:*18 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Food impaction proximal to Shatzki Ring requiring intubation and
+endoscopic disimpaction
+.
+Aspiration pneumonia
+
+
+Discharge Condition:
+Stable, afebrile, room air saturations normal, culture negative,
+tolerating clear liquid diet, ambulatory and voiding without
+difficulty.
+
+
+Discharge Instructions:
+Take all medications as prescribed.  Resume your home
+medications as you were taking them, we have added only two
+antibiotics, prescriptions are included.
+
+Take liquid diet only for the next three days, if this goes
+well, may advance to a pureed diet.
+
+Return to the Emergency Room at UPMCE for: severe difficult
+swallowing, fevers, shortness of breath
+
+Followup Instructions:
+Provider: Dhatri Geisinger, MD Phone:test@mail.com
+Date/Time:2006-06-19 00:00:00 11:30
+Provider: Dhatri Geisinger ROOM 7 (ST-3) GI ROOMS Date/Time:2006-06-19 00:00:00 11:30
+Provider: Dhatri Geisinger Dhatri Geisinger, MD Phone:test@mail.com Date/Time:2006-06-19 00:00:00
+2:20
+
+
+

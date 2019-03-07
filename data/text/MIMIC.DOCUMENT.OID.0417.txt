@@ -1,0 +1,323 @@
+Admission Date:  2007-07-18 00:00:00              Discharge Date:   2007-07-18 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Ticlid
+
+Attending:Dylane Slunaker
+Chief Complaint:
+Diarrhea and hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This is a 86 y/o male with a h/o CAD, CHF (EF 30-40%), HTN, MDS,
+recent admission in 2007-07-18 00:00:00 for diarrhea and treated
+presumptively for c diff given his past history of c diff
+enterocolitis, who now presents to the ED with
+n/v/weakness/dehydration/diarrhea/epigastric abd pain x 24
+hours. Pt also had one episode of emesis (no blood) yesterday.
+He is still on his course of flagyl from recent admission, but
+has missed the last few doses due to outpt pharmacy issues.
+.
+In the Hirsh Smethers, pt was noted to have an elevated lipase and amylase
+of 557 and 900, respectively. He was also noted to have an
+elevated lactate of 3.2 and a positive u/a with 6-10 wbc's,
+trace leuks, neg nitrates. He was initially to be admitted to
+medicine, however pt dropped his SBP from 110 to 90,
+asymptomatic. Received 500 cc with good response and current SBP
+in the 100's. Received a total of 1 L NS. He was given
+Vanc/CTX/flagyl in the ED for h/o MRSA, positive u/a, and recent
+h/o c diff enterocolitis (2007-07-18 00:00:00).
+.
+Currently, through aid of daughter translating, pt denies any
+f/c/s, dizziness/lightheadedness, chest pain, SOB, palpitations,
+n/v, abdominal pain, urinary symptoms. +generalized weakness,
+but not much different from baseline. +diarrhea, no
+BRBPR/hematochezia/melena.
+.
+The patient was transferred to the medicine service 2007-07-18 00:00:00. His
+diarrhea was improving and he had no complaints at that time.
+
+Past Medical History:
+- HTN
+- CAD, 3VD s/p stents in 2007-07-18 00:00:00 and 2007-07-18 00:00:00 to LAD and OM1
+- Ischemic Cardiomyopathy with EF 40% in 2007-07-18 00:00:00
+- C. difficile enterocolitis
+- CVA's with multi123 Any St.farcts of varying ages on MRI (bilateral
+
+frontal, L temporal, R cerebellar) baseline gait apraxia and
+frontal lobe affect.
+- Peripheral vascular disease
+- Myelodysplastic Syndrome vs. refractory
+anemia/thrombocytopenia, bone marrow 2007-07-18 00:00:00
+- History of recurrent URI's
+
+
+Social History:
+Born in 123 Any St., retired x 20 yrs, lives at home with his
+wife who recently had a stroke. Sons live Hirsh Smethers, but have a
+h/o alcoholism. One daughter involved in care. Quit tobacco many
+years ago, no EtOH or illicits. Bedridden at baseline and
+completely dependent for ADL's. Baseline bowel/urinary
+incontinence.
+
+Family History:
+Non-contributory
+
+
+Physical Exam:
+VS: Tc 100.2, BP 140/70, HR 96, RR 24, SaO2 100% RA
+General: Lying in bed, NG tube. Drowsy, responds to voice with
+hello/moan. Answers yes/no questions through interpretor with
+moan. NAD.
+HEENT: NC/AT, PERRL, EOMI. MM dry, OP clear.
+Neck: Supple, flat JVP, no nuchal rigidity
+Chest: CTA anteriorly; pt with trouble cooperating fully
+CV: RRR, s1 s2 normal, no m/g/r
+Abd: Soft, voluntary guarding, NABS, no HSM; no rebound.
+Ext: No c/c/e, pulses 2+ b/l
+Neuro: Moves all four extremities freely.
+
+
+Pertinent Results:
+Labs on admission:
+2007-07-18 00:00:00 10:20AM   WBC-35.8* RBC-2.92* HGB-10.2* HCT-29.2*
+MCV-100* MCH-34.9* MCHC-35.0 RDW-17.4*
+2007-07-18 00:00:00 10:20AM   PT-18.8* PTT-29.3 INR(PT)-1.8*
+2007-07-18 00:00:00 10:20AM   NEUTS-69 BANDS-4 LYMPHS-8* MONOS-19* EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+2007-07-18 00:00:00 10:20AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-OCCASIONAL
+BURR-OCCASIONAL
+2007-07-18 00:00:00 10:20AM   PLT SMR-VERY LOW PLT COUNT-64* LPLT-1+
+2007-07-18 00:00:00 10:20AM   GLUCOSE-105 UREA N-13 CREAT-1.2 SODIUM-135
+POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-21* ANION GAP-17
+2007-07-18 00:00:00 10:20AM   ALT(SGPT)-17 ALK PHOS-83 AMYLASE-900* TOT
+BILI-0.5
+2007-07-18 00:00:00 10:20AM   LIPASE-557*
+2007-07-18 00:00:00 11:48AM   LACTATE-3.2*
+2007-07-18 00:00:00 06:01PM   ALBUMIN-2.4*
+.
+CT ABDOMEN W/CONTRAST 2007-07-18 00:00:00
+IMPRESSION:
+1.  Diffusely swollen pancreas consistent with mild pancreatitis
+without peripancreatic fluid collections noted.
+2.  Mildly atrophic kidneys with diffuse calcification of the
+renal artery ostia are noted.  MRA of the renal artery is
+recommended bilaterally if clinical suspicious for stenosis.
+3.  Diffuse rectal, sigmoid, and descending colon wall
+thickening suggestive of colitis.
+4.  Enlarged paraaortic lymph nodes noted on 123 Any St.us exam,
+unchanged and of unknown significance.
+.
+CHEST (PORTABLE AP) 2007-07-18 00:00:00
+IMPRESSION:  AP chest compared to 2007-07-18 00:00:00:
+Lungs are clear.  Heart size normal.  No pleural abnormality or
+evidence of central adenopathy.  Right hemidiaphragm is
+persistently elevated given part to interposition of the hepatic
+flexure of the colon between diaphragm and liver.
+.
+CT ABDOMEN W/CONTRAST  2007-07-18 00:00:00
+IMPRESSION:
+1. Again seen is stranding around the pancreas, consistent with
+pancreatitis. There appears to be some interval increase in the
+degree of stranding within the small bowel mesentery, and along
+the pericolic gutters. There is a small amount of fluid along
+the pericolic gutters and within the pelvis, which is slightly
+increased from the prior study. No focal abscesses are
+identified.
+2. There are bilateral pleural effusions which also have
+increased slightly in comparison to the prior study. The
+remainder of the exam is unchanged.
+.
+Blood draws were discontinued when the decision was made for
+CMO.
+
+Brief Hospital Course:
+A/P: 86 yoM with PMH CAD, ischemic cardiomyopathy, MDS, recent
+admission for presumed C. difficile colitis, admitted to the
+MICU with diarrhea and hypotension admitted to floor 2007-07-18 00:00:00. After
+family meetings to address goals of care in this patient with
+chronic pain and MDS most likely with leukemic transformation,
+not likely a candidate for therapy per hematology, the patient
+was made DNR/DNI/CMO.
+.
+1. Diarrhea. The diarrhea continued to improve with decreased
+stool number and volume on the floor. CT abdomen 2007-07-18 00:00:00 showed
+diffuse rectal, sigmoid, and descending colon wall thickening
+suggestive of colitis. With the patient's elevated WBC, there
+was concern for an infectious source. His stool cultures were
+negative x2 and C. difficile toxin was negative x3, however, the
+patient had a history of recent antibiotic use. The original
+plan with the GI consult team was to perform a colonoscopy once
+the patient was stable to elucidate the cause of the diarrhea;
+this was no longer necessary as the patient is CMO. The
+patient's initial antibiotic treatment included levofloxacin and
+flagyl on admission. The patient continued to spike fevers
+despite antibiotic treatment. Levofloxacin was discontinued and
+ceftriaxone was started to broaden coverage 2007-07-18 00:00:00. Infectious
+disease was consulted to comment on antibiotic coverage. Flagyl
+was discontinued 2007-07-18 00:00:00, with vancomycin IV started 2007-07-18 00:00:00. Vancomycin
+by mouth and imipenum was started 2007-07-18 00:00:00. The patient was continued
+on vancomycin IV and by mouth and imipenum until the decision
+was made for the patient to be CMO 2007-07-18 00:00:00. The patient was kept
+hydrated intravenously and with free water boluses through his
+feeding tube to replace his GI losses.
+.
+2. Fever/leukocytosis. The patient was started on levofloxacin
+and flagyl for presumptive infectious colitis, with antibiotic
+changes as above per ID recommendations. Blood cultures taken
+2007-07-18 00:00:00, 2007-07-18 00:00:00, 2007-07-18 00:00:00, 2007-07-18 00:00:00, 2007-07-18 00:00:00 were negative. Urine cultures 7/28,
+2007-07-18 00:00:00, 2007-07-18 00:00:00 were negative. Multiple chest x-rays were within
+normal limits. An echocardiogram did not show evidence of
+endocarditis. As above, the patient continued to spike low grade
+fevers despite treatment with antibiotics. The patient's white
+blood cells at baseline were 19-25 thought secondary to MDS. The
+white blood cell count elevated to 80s on this admission.
+Hematology felt that the patient's blood smears were concerning
+for leukemic transformation of the MDS. Cytology was sent prior
+to the decision for CMO and was pending at the time of
+discharge.
+.
+3. MDS. Hematology/oncology followed the patient during
+hospitalization. The team confirmed the diagnosis of MDS from
+his original smear. This was an atypical presentation as the
+patient was diagnosed in 2007-07-18 00:00:00 and an extended lifespan is
+inconsistent with the diagnosis of MDS. As above, the team felt
+that the patient's blood smears during the end of his
+hospitalization were concerning for leukemic transformation. The
+patient was not a good candidate for chemotherapy. Cytology was
+sent prior to the decision for CMO and was pending at the time
+of discharge.
+.
+#) Thrombocytopenia. The patient had platelets in the 40s in the
+past. On this admission, the patient's platelets dropped as low
+as 12. The thrombocytopenia was likely secondary to acute
+illness and the patient's underlying bone marrow disorder.
+DIC/Dylane Slunaker were thought unlikely although there were occasional
+schistocytes on smear. The patient was given a platelet
+transfusion 2007-07-18 00:00:00 at the time his platelets were 12. His platelets
+responded immediately afterwards but continued to drop and his
+last measurement was 31.
+.
+#) Anemia. The patient's hematocrit decreased during his
+hospital course. His baseline was low: 28-32. The anemia was
+macrocytic with recent normal B12, folate 2007-07-18 00:00:00. His low
+reticulocyte count was indicative of a hypoproliferative
+disorder, most likely secondary to MDS with likely leukemic
+transformation. He was given two transfusions 2007-07-18 00:00:00 and 2007-07-18 00:00:00 when
+his hematocrit dropped below 25. His hematocrit would respond
+appropriately immediately afterwards but continued to drop
+during hospitalization.
+.
+#) Shortness of breath. The shortness of breath was most likely
+secondary to pulmonary edema from the patient's congestive heart
+failure and bronchoconstriction. The patient was given lasix 10
+mg as needed, ipratropium nebulizers as needed, and oxygen as
+needed. The patient was discharged with nebulizers as needed.
+.
+#) Mental status. The patient was alert and oriented on
+admission. The patient's mental staus waxed and waned throughout
+admission. His mental status was most likely secondary to
+underlying dementia with superimposed infection/hospitalization.
+CT head showed prior infarct. CT head 2007-07-18 00:00:00 negative for
+increased ICP, hemorrhage.
+.
+#) Pancreatitis. The patient was found to have a chemical
+pancreatitis; he remained asymptomatic without complaints of
+epigastric pain. Amylase and lipase continued to trend down
+throughout admission. The patient was kept NPO with NJ tube
+placement 2007-07-18 00:00:00 for feeding. A RUQ ultrasound was negative for
+gallstones. The NJ tube was removed when the decision was made
+for CMO.
+.
+#) Elevated INR. The patient had an increased INR to 1.8 in the
+MICU, likely in setting of nutritional deficiency from diarrhea.
+He was given vitamin K 5 mg SC x 3 doses in the MICU. His INR
+continued to remain elevated throughout hospitalization.
+.
+#) CAD. The patient had no active symptoms and remained stable.
+Initially he was continued on aspirin, plavix, metoprolol, and
+his ace-inhibitor. Aspirin and plavix were discontinued when the
+patient was thrombocytopenic and in anticipation of possible
+colonoscopy with biopsies. His antihypertensive treatment was
+discontinued when the decision was made for CMO.
+.
+#) Congestive heart failure. The patienet was initially
+hypovolemic secondary to diarrhea. The patient was continued on
+maintenance IVF and free water boluses through his NJ tube once
+placed. The patient's low albumin was counterproductive to keep
+fluids in the intravascular space. The patient became
+transiently fluid overloaded and given lasix 10 mg x2 with
+effective diuresis. IVF and free water boluses were stopped when
+the patient became CMO.
+.
+#) Pain. The patient at baseline had pain with movement of his
+extremities. There was increased pain with movement of the right
+upper extremity, films were taken of the wrist, elbow, and
+shoulder without evidence of destructive disease or any acute
+issues. The patient was treated with tylenol and morphine with
+good effect. The patient was continued morphone elixer upon
+discharge.
+.
+#) Hiccups. The patient at times complained of intractable
+hiccups. Thorazine was given with good effect. This was
+continued through the patient's CMO status.
+.
+#) F/E/N. The patient's tube feeds were continued through the NG
+tube from the MICU, transiently stopped for placement of an NJ
+tube per GI recommendations, and restarted. The patient's
+albumin continued to drop, although the patient was at goal tube
+feeds. Electrolytes were repleted as necessary. The NJ tube was
+discontinued when the decision was made for CMO.
+.
+#) Precautions. The patient was placed on MRSA precautions were
+a positive swab 2007-07-18 00:00:00.
+
+Medications on Admission:
+1. Aspirin 81 mg qd
+2. Metoprolol 50 mg UPMCE
+3. Clopidogrel 75 mg qd
+4. Pantoprazole 40 mg qd
+5. Calcium Carbonate 400 mg tid
+6. Vit D 800 units qd
+7. Flagyl 500 mg tid
+8. Lisinopril 5 mg qd
+9. Lipitor 40 mg qhs
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary:
+Colitis
+Myelodysplastic syndrome with likely leukemic transformation
+Thrombocytopenia
+Anemia
+.
+Secondary:
+History of cerebrovascular infarct
+
+
+Discharge Condition:
+Afebrile, vital signs stable. Comfortable.
+
+
+Discharge Instructions:
+After discussion with family members, the decision was made for
+the goal of patient care to be comfort measures only. The
+patient is being transferred to an extended care facility with
+hospice for comfort measures.
+
+Followup Instructions:
+None
+
+
+

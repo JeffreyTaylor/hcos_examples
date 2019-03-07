@@ -1,0 +1,420 @@
+Admission Date:  2012-06-14 00:00:00              Discharge Date:   2012-06-14 00:00:00
+
+
+Service: NEUROLOGY
+
+Allergies:
+Penicillins
+
+Attending:Jabrell Bunns
+Chief Complaint:
+Right hand weakness and dysarthria - "code stroke"
+
+Major Surgical or Invasive Procedure:
+tPA administration
+
+History of Present Illness:
+Mr. Wierzbicki is a 86-year-old right-handed man presenting with
+dysarthria and right hand weakness on a background of
+collagenous colitis and irregular heart rhythm, coronary artery
+disease and numerous other problems.
+
+Mr. Wierzbicki was at home at [**First Name4 (NamePattern1) 1173**] Wierzbicki this morning. He awoke
+normally and ate breakfast according to his typical routine. He
+then sat down to watch television. He was holding the remote
+control in his right hand. On trying to change channel, the
+remote control fell out of his hand, which he then noticed that
+he could not move. He thinks that his voice became slower and
+less clear at about the same time. There was no headache, his
+leg was not weak, he could understand and speak, but said that
+others found him difficult to understand. The [**First Name4 (NamePattern1) 1173**] Wierzbicki
+staff called his PCP's coverage who noted normal vitals and
+recommended coming to the ED.
+
+His functional status: Uses a walker, needs help with washing,
+dressing, has meals prepared for him. Cognitive: quite intact.
+
+Review of systems is positive for shortness of breath that has
+been present for two years, worse over the last few days and
+worse still this morning. He knows that his heart is irregular.
+There is no chest pain or recent episode of chest pain. No
+recent infections, fever, chills. All other review of systems
+negative
+except as above.
+
+Time Code Stroke called: 12:34
+Time Neurology at baseline for evaluation: 12:39
+Time (and date) the patient was last known well: 30/5/11, 10:00
+NIH Stroke Scale Score: 4
+Contraindications to t-PA: None
+t-57506: Y
+Time given: 13:09
+
+I was present during the CT scanning and reviewed the images as
+they were captured.
+
+NIHSS:
+NIH SS:
+1a. Level of Consciousness: 0
+1b. LOC questions: 0
+1c. LOC commands: 0
+2. Best gaze: 0
+3. Visual: 0
+4. Facial palsy: 0
+5a. Motor arm, left: 0
+5b. Motor arm, right: 2
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7. Limb ataxia: 1
+8. Sensory: 0
+9. Best language: 0
+10. Dysarthria: 1
+11. Extinction and inattention: 0
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. Abdominal abscess - The patient had an abdominal abscess that
+
+grew pseudomonas aeruginosa which was drained and treated with
+antibiotics in 10/2012-06-14 00:00:00.
+2. Prostate cancer - This was diagnosed in 2012-06-14 00:00:00. The patient was
+
+treated with radiation therapy. Prostate cancer has now
+reoccurred with a pelvic mass and possible bone met. Being
+treated with Lupron therapy by Dr. Wierzbicki.
+3. Basal and squamous cell skin cancers
+4. CAD status post stent x6 (last was eight years ago),
+Cardiologist is Dr. Jabrell Bunns.
+5. Hypertension
+6. Hypothyroidism
+7. Bilateral hearing loss - The patient wears hearing aids
+bilaterally. He reports that his hearing loss is greater in the
+left ear than the right.
+8. Headaches
+9. Diverticulitis - 2012-06-14 00:00:00
+10. Orthostatic hypotension and micturition syncope
+11. Dysphagia, negative barium swallow in 2012-06-14 00:00:00, both liquids and
+solids EGD shows pulsatile extrinsic compression from aberrant
+subclavian artery and possible left-sided aortic arch
+12. Glaucoma, at least from 2012-06-14 00:00:00, blind in left eye.
+13. Osteopenia
+14. Collagenous colitis, dx in 2012-06-14 00:00:00
+15. Hearing loss is marked, using bilateral hearing aids at home
+16. Possible prior TIA. Patient presented to hospital in ?
+123 Any St. several years ago with neurologic symptoms. He was told
+that he did not have a stroke. Per son.
+
+PAST SURGICAL HISTORY:
+1. Status post drainage of abdominal abscess - 2012-06-14 00:00:00
+2. Status post removal of basal cell and squamous cell skin
+cancers
+3. Status post appendectomy - Appendix was ruptured at the time
+of this surgery in 2012-06-14 00:00:00.
+4. Status post bilateral carpal tunnel repair
+
+Social History:
+Lives at UPMCE, [**First Name4 (NamePattern1) 1173**] Wierzbicki. Wife is 84. Son, Cherrye Wierzbicki,
+is HCP and power of attorney. Smoked ~ 60 pack year. Smoked 2012-06-14 00:00:00
+ppd for ~50 years, quit 2012-06-14 00:00:00. Rare EtOH.
+
+
+Family History:
+Father with coronary disease in 60s. Mother and brother with
+hypertension. His sister has hypertension and cancer of unknown
+origin.
+
+
+Physical Exam:
+Exam on admission:
+Vitals:
+97.9 F   70 BPM   155/64 mmHg   18 breaths   98% 3L NC
+
+General Appearance: Comfortable, no apparent distress.
+HEENT: NC, OP clear, MMM.
+Neck: Supple. No bruits.
+Lungs: CTA bilaterally. Mild wheeze
+Cardiac: Irregular. Normal S1/S2. No M/R/G.
+Abdominal: Soft, NT, BS+
+Extremities: Trophic changes throughout, most marked at ankles.
+Onychomycosis.
+GU: Foley in place.
+
+Neurologic:
+
+Mental status:
+Awake and alert, cooperative with exam, normal affect.
+Orientation: Oriented to person, place, date and context.
+Language: Normal fluency, comprehension, repetition, naming. No
+paraphasic errors.
+
+Cranial Nerves:
+I: Not tested.
+II: Right pupil, round and reactive. Left pupil irregular and
+fixed at about 5 mm, distended scleral vessel at limbus of Jabrell Bunns.
+Visual fields are full to confrontation on the right and, the
+left eye is blind.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+Mouth
+appeared asymmetric due to denture.
+VIII: Hearing diminished bilaterally.
+IX, X: Palatal elevation symmetric.
+Jabrell Bunns: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Posture normal and no truncal ataxia.
+
+Tone normal in arms, mildly increased in both legs.
+
+Power
+    D   B   T   WE  WF  FE  FAb | IP  Q   H   AT G/Jabrell Bunns Wierzbicki TF
+R   4   4+  4-  0   0   0   0   | 5   5   5   5  5   5   5
+L   5   5   5   5   5   5   5   | 5   5   5   5  5   5   5
+
+Reflexes: B  T  Br Pa Ac
+Right     1  1  0  0  0
+Left      1  1  0  0  0
+(reenforcement not attempted)
+Toes up on left and down on right.
+
+Sensation intact to light touch, pinprick bilaterally, but
+mildly
+diminished over right hand. Vibration, joint position mildly
+impaired at feet.
+
+Normal finger nose on left, normal Jabrell Bunns on left (feet not
+tested).
+
+Gait:
+Deferred.
+
+
+Pertinent Results:
+2012-06-14 00:00:00 03:43PM BLOOD WBC-10.2 RBC-3.89* Hgb-11.2* Hct-34.7*
+MCV-89 MCH-28.8 MCHC-32.2 RDW-16.1* Plt Ct-211
+2012-06-14 00:00:00 12:40PM BLOOD PT-13.3 PTT-24.1 INR(PT)-1.1
+2012-06-14 00:00:00 02:40PM BLOOD Fibrino-483*
+2012-06-14 00:00:00 12:40PM BLOOD Glucose-124* UreaN-29* Creat-1.3* Na-145
+K-4.2 Cl-109* HCO3-25 AnGap-15
+2012-06-14 00:00:00 04:18PM BLOOD %HbA1c-6.2* eAG-131*
+2012-06-14 00:00:00 03:43PM BLOOD Triglyc-62 HDL-25 CHOL/HD-2.4 LDLcalc-24
+
+EKG: Sinus rhythm with atrial premature beat and ventricular
+premature beat. Left bundle-branch block. Since the 123 Any St.us
+tracing of 2012-06-14 00:00:00 intra-atrial conduction delay is less
+prominent and further intraventricular conduction delay is
+present.
+
+CT head: No acute intracranial process. Specifically, there is
+no CT
+evidence of a large vascular territorial infarction, although
+MRI is a more sensitive test to rule out acute ischemia or
+infarction, particularly in the setting of extensive chronic
+small vessel ischemic disease.
+
+There are scattered, tiny, punctiform calcifications,
+superficially located in the sulci of the right cerebral
+hemispheres (e.g. 2:12), likely representing old healed
+neurocysticercosis.
+
+MRI of head:
+1. Numerous bilateral, left greater than right, cortical
+infarcts, acute.
+2. No evidence of hemorrhage.
+3. Moderate atherosclerotic involvement of the vessels of the
+head and neck, particularly of the proximal left internal
+carotid artery.
+
+Echocardiogram:
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is
+moderate regional left ventricular systolic dysfunction with
+basal inferior akinesis and hypokinesis of the inferolateral and
+lateral walls. There is milder hypokinesis of the remaining
+segments (LVEF = 35%). No masses or thrombi are seen in the left
+ventricle. Right ventricular chamber size and free wall motion
+are normal. The ascending aorta is mildly dilated. Mild (1+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Moderate
+(2+) mitral regurgitation is seen. There is mild pulmonary
+artery systolic hypertension. Significant pulmonic regurgitation
+is seen. The end-diastolic pulmonic regurgitation velocity is
+increased suggesting pulmonary artery diastolic hypertension.
+The main pulmonary artery is dilated. There is no pericardial
+effusion.
+
+IMPRESSION: Moderate regional left ventricular systolic
+dysfunction, c/w CAD (LCx distribution). Mild aortic
+regurgitation. Moderate mitral regurgitation. Mild pulmonary
+hypertension. Compared with the report of the prior study
+(images unavailable for review) of 2012-06-14 00:00:00, LV function has
+significantly deteriorated (although on the left ventriculogram
+from 2012-06-14 00:00:00 the LV function appears to be similar to today's
+echocardiogram).
+
+Brief Hospital Course:
+Mr. Wierzbicki is an 86 year-old right-handed man with a history of
+hypertension, CAD s/p stents x 6, cardiac arrhythmia, prostate
+cancer with pelvic recurrence and possible metastasis,
+collagenous colitis, and dysphagia who developed right upper
+extremity weakness (most prominent in the distal extremity) and
+dysarthria on the day of admission. He received tPA
+approximately 3 hours after the onset of his symptoms. Head CT
+did not demonstrate an acute intracranial hemorrhage, but head
+MR revealed numerous acute, bilateral, cortical infarcts,
+particularly in the area of the left precentral gyrus. The
+patient's history and examination were consistent with a
+cortical stroke, resulting in a "cortical hand" and mild
+dysarthria. Echocardiogram did not demonstrate thrombi,
+vegetations, or other masses, though there was moderate regional
+LV systolic dysfunction. EKG was notable for atrial and
+ventricular premature beats with LBBB, and telemetry revealed
+PVCs and runs of ventricular tachycardia. Given the frequent
+PVC's and non-sustained Vtach's, cardiology was consulted who
+recommended titrating up metoprolol as tolerated and restarting
+low dose lisinopril once safe from stroke perspective.  He was
+also recommended to maintain K+ > 4.0 and Mg2+ > 2.0.
+
+Due to the bilateral nature of the infarcts and the presence of
+cardiac arrhythmias, the stroke was likely caused by
+thromboemboli of cardiac origin. There may have been
+contributions from hypercoagulability of inflammation
+(collagenous colitis) and dehydration.
+
+While hospitalized, the patient underwent swallowing
+evaluations, which revealed small amounts of aspiration while
+swallowing. As a result, he was kept NPO and received home
+medications and enteral nutrition through a Dobhoff tube. After
+a follow-up swallowing evaluation suggested advancement to PO
+nectar-thick liquids and soft solids, his PO diet was advanced
+appropriately, and his Dobhoff tube was removed.
+
+Due to worsened shortness of breath, he also received albuterol
+nebulizers q6h prn with improvement in his breathing as well as
+furosemide boluses. Per family, his dyspnea has been
+long-standing and does not appear to have any clinical
+correlates including CXR and O2 saturation.
+
+During his stay, Mr. Wierzbicki dysarthria mostly resolved,
+though he continued to have distal right upper extremity
+weakness at the level of the wrist and fingers. Given the
+bilateral infarcts consistent with embolic strokes, Coumadin was
+discussed with family and he was started on Coumadin with
+aspirin bridging.  Patient's aspirin should be discontinued once
+Coumadin therapeutic with INR > 2.0.  Also, given the Jabrell Bunns, he
+was started on low dose Simvastatin 10mg once daily.
+
+Patient was also found to have urinary tract infection on 2012-06-14 00:00:00
+and was started on ciprofloxacin.  Given that this is a
+complicated UTI, he will be treated with 10 days of ABX. He will
+be following up with Dr. Jabrell Bunns (neurologist) as an
+outpatient.
+
+Medications on Admission:
+- Lupron injections, every four months, last on 2012-06-14 00:00:00
+- Levothyroxine 25 mcg
+- ASA 81 mg
+- Lisinopril 2.5 mg
+- Bisacodyl 10 mg PR PRN constipation
+- Loperamide 2 mg QD PRN diarrhea
+- APAP 1000 mg Q8H PRN pain
+- Milk of Mag., PRN
+- Fleets enema PRN
+- Toprol XL 100 mg QD
+- Vitamin D3 800 U QD
+- Cholestyramine 4 g QD
+- Simvastatin 20 mg QD
+- Travatan 0.004 % OD QD
+- Ca Carbonate 500 mg chew TID
+- Colace 100 mg QD
+
+Discharge Medications:
+1. senna 8.8 mg/5 mL Syrup Sig: One (1) Tablet PO BID (2 times a
+day).
+2. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+3. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+4. acetaminophen 650 mg/20.3 mL Solution Sig: One (1)  PO Q6H
+(every 6 hours) as needed for pain or fever.
+5. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. therapeutic multivitamin     Liquid Sig: One (1) Tablet PO
+DAILY (Daily).
+7. budesonide 3 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO TID (3 times a day).
+8. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+9. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 7 days: Please stop once patient's INR > 2.0 and Coumadin
+therapeutic.
+10. cholestyramine-sucrose 4 gram Packet Sig: One (1) Packet PO
+DAILY (Daily).
+11. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for shortness of breath.
+12. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+13. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime):
+Goal INR 2~3 and please stop ASA once INR > 2.0.
+15. metoprolol tartrate 25 mg Tablet Sig: 2.5 Tablets PO BID (2
+times a day).
+16. ciprofloxacin 250 mg Tablet Sig: Two (2) Tablet PO Q24H
+(every 24 hours) for 9 days: started on 2012-06-14 00:00:00 for UTI.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Stroke - embolic strokes likely from cardiac arrhythmia
+Urinary tract infection
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+Neuro deficit: Patient has unreactive left eye.  Mild dysarthria
+and complains of dyspnea but this is chronic.  R hand weakness -
+wrist extenstion 2012-06-14 00:00:00 and some flexion of fingers but "cortical
+hand."
+
+Discharge Instructions:
+You were admitted to the hospital as "code stroke" for acutely
+weakened right hand and slurring of speech.  Given the acute
+presentation and NIHSS score of 4, he received IVtPA and was
+initially admitted to the ICU.  His MRI showed multiple,
+bihemis123 Any St. strokes likely embolic etiology.  He was monitored
+on telemetry which showed multi-focal atrial tachycardia and
+PVC's hence cardiology was also consulted who recommended
+titrating up metoprolol as tolerated.  Given the embolic
+strokes, Coumadin was discussed with the patient and family and
+he was started on Coumadin with ASA bridging this admission.
+ASA should be discontinued once Coumadin therapeutic (INR 2~3).
+
+He was also found to have urinary tract infection during this
+admission and was started on ciprofloxacin 500mg once daily on
+2012-06-14 00:00:00.  Patient is returning to [**First Name4 (NamePattern1) 1173**] Wierzbicki where he resided
+before admission and will receive physical and occupation
+therapy.
+
+Followup Instructions:
+Please follow-up with Dr. Jabrell Bunns, neurologist who oversaw
+your care during this admission on 2012-06-14 00:00:00 2:30 pm
+123 Any St., Neurology Clinic
+
+Provider: Cherrye Cherrye Wierzbicki, MD,PHD57506:test@mail.com
+Date/Time:2012-06-14 00:00:00 10:00
+Provider: Cherrye Wierzbicki, LPN Phone:test@mail.com Date/Time:2012-06-14 00:00:00
+10:30
+
+                             Cherrye Wierzbicki Wierzbicki MD, 57506
+
+Completed by:2012-06-14 00:00:00

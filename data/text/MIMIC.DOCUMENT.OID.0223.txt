@@ -1,0 +1,81 @@
+Admission Date:  2012-04-30 00:00:00     Discharge Date:  2012-04-30 00:00:00
+
+Date of Birth: 1979-04-26 00:00:00 00:00:00     Sex:  M
+
+Service:  Cardiac Surgery
+
+CHIEF COMPLAINT:  Chest pain, 3-vessel disease on
+catheterization.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 66-year-old
+male transferred from UPMCE to the UPMCE status post catheterization,
+revealing 3-vessel cardiac disease.
+
+The patient presented to UPMCE with gradually
+increasing chest pain over the past three to four months to
+the point that he had chest pain with minimal exertion.
+
+PAST MEDICAL HISTORY:
+1.  Known coronary artery disease, status post
+catheterization 10 years ago at UPMCE.
+2.  Heavy smoker.
+3.  Hypertension.
+4.  Gastroesophageal reflux disease/peptic ulcer disease.
+5.  Wegener granulomatosis with complete resolution.
+6.  Glaucoma.
+
+PAST SURGICAL HISTORY:  Perforated ulcer.
+
+MEDICATIONS ON ADMISSION:  Lisinopril 20 mg p.o. q.d.,
+Prilosec 20 mg p.o. q.d., Cosopt eyedrops, Alphagan eyedrops,
+Travatan eyedrops, lansoprazole 50 mg p.o. q.d.
+
+ALLERGIES:  No known drug allergies.
+
+HOSPITAL COURSE:  The patient underwent an elective coronary
+artery bypass graft times three on 2012-04-30 00:00:00 with grafts
+being a left internal mammary artery to left anterior
+descending artery, saphenous vein graft to ramus, and
+saphenous vein graft to posterior descending artery.  He was
+extubated on the day of surgery.  On postoperative day one,
+his nasogastric tubes were discontinued.
+
+He was transferred to the regular floor on postoperative day
+one.  He subsequently had a smooth postoperative course.  His
+pacing wires were discontinued on postoperative day three.
+
+By postoperative day, he was ambulating well.  He was
+comfortable on p.o. pain medication, and he was ready for
+discharge home.
+
+MEDICATIONS ON DISCHARGE:
+1.  Lasix 20 mg p.o. q.d. (for one week).
+2.  KCL 20 mEq p.o. q.d. (for one week).
+3.  Colace 100 mg p.o. b.i.d.
+4.  Zantac 150 mg p.o. b.i.d.
+5.  Enteric-coated aspirin 325 mg p.o. q.d.
+6.  Alphagan eyedrops.
+7.  Lopressor 50 mg p.o. b.i.d.
+8.  Nicoderm patch 22 mg q.d.
+9.  Percocet one to two tablets p.o. q.4-6h. p.r.n.
+
+DIHuskaE FOLLOWUP:  Follow up with primary care physician,
+123 Any St.es) **] in
+four weeks.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable.
+
+DISCHARGE STATUS:  Discharged to home.
+
+
+
+
+                          123 Any St.es) 408**], M.D.  5350
+
+Dictated By:Zeus Huang
+
+MEDQUIST36
+
+D:  2012-04-30 00:00:00  15:09
+T:  2012-04-30 00:00:00  15:31
+JOB#:  5350

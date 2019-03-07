@@ -1,0 +1,194 @@
+Admission Date:  2010-07-30 00:00:00              Discharge Date:   2010-07-30 00:00:00
+
+Date of Birth: 1934-03-27 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Gwena Hopely
+Chief Complaint:
+Left non-small cell lung cancer diagnosed in 6/2010-07-30 00:00:00.
+
+
+Major Surgical or Invasive Procedure:
+2010-07-30 00:00:00: bronchoscopy and mediastonoscopy
+2010-07-30 00:00:00: LUL segmentectomy, LLL wedge resection
+
+
+History of Present Illness:
+Mr. Spuhler is a 77-year-old gentleman, referred by Dr. Gwena Hopely
+Spuhler to Dr. Gwena Hopely for advice and options regarding a
+carcinoma of the lung detected during recent hospitalization for
+coronary disease and a large aortic aneurysm in 2010-07-30 00:00:00. A
+lesion in the left lung was discovered in the upper lobe and a
+needle biopsy confirmed non-small cell carcinoma.  He underwent
+a PET scan, which showed extreme hypermetabolism with an SUV of
+17 at the site of the lung primary lesion.  There is sparse
+uptake within the mediastinum, not considered of pathologic
+significance, as well as active inflammation around the
+abdominal graft.
+
+He presented to UPMCE on 2010-07-30 00:00:00 for an operation to address his
+left non-small cell lung cancer.
+
+
+Past Medical History:
+Significant for coronary disease, status
+post an infarction.  He has aortic aneurysm, increased serum
+cholesterol, prostate cancer, and carcinoma of the sigmoid
+colon.
+
+PAST SURGICAL HISTORY:  Sigmoid colectomy in 2010-07-30 00:00:00, radical
+prostatectomy in 2010-07-30 00:00:00, and the tube graft repair of his
+abdominal
+aortic aneurysm.
+
+
+Social History:
+He has substantial prior smoking history, just recently quit.
+He has no active alcohol issues.
+
+
+Physical Exam:
+VITAL SIGNS:  Weight of 148 pounds.  He is afebrile, blood
+pressure 140/83, pulse 74 and regular, and room air saturation
+is
+95%.
+LUNGS:  His lung fields are surprisingly clear.
+HEART:  Regular rhythm and rate without murmur or gallop.
+NECK:  There were no carotid bruits.
+ABDOMEN:  Soft and nontender with good healing ridge along the
+wound.
+EXTREMITIES:  He has no peripheral edema.
+
+
+Brief Hospital Course:
+The patient presented to UPMCE on the day of planned surgery.
+He was noted to have significant bradycardia prior to starting
+the operation.  He did undergo a flexible bronchoscopy and
+mediastinoscopy that was complicated by substantial
+intraoperative bleeding.  He was subsequently ruled out for a
+cardiac event, and remained
+hemodynamically and neurologically stable on POD#1. On HD#3, the
+decision was made to proceed with a segmental resection given
+the T2 size of the lesion and his limited baseline lung
+function. Please refer to both operative notes of 2010-07-30 00:00:00 and
+2010-07-30 00:00:00 for further details of the procedures. An epidural was
+placed for postoperative pain control on 2010-07-30 00:00:00. Two left-sided
+chest tubes were placed intraoperatively, and a post-operative
+chest radiograph showed a moderate left sided pneumothorax.
+
+On 2010-07-30 00:00:00, he was transfused 1 unit of packed RBCs for a
+hemtocrit of 27.6. The Acute Pain Service continued to follow
+the patient for management of the epidural catheter. He was
+admitted to the CSRU for a day after surgery and was transferred
+to the floor on 2010-07-30 00:00:00 after he was deemed to be stable. His chest
+tubes were placed to water seal, and a chest radiograph showed
+very slight increase in left pneomothorax.
+
+On 2010-07-30 00:00:00, his anterior chest tube which was placed
+intraoperatively was removed without incident, and his second
+tube was put to bulb suction. A chest radiograph that was done
+after these changes were made showed no acute or concerning
+changes in the left pneumothorax. His epidural catheter was
+removed and he was given oral pain medications.
+
+On 2010-07-30 00:00:00, the patient's foley catheter was discontinued, but the
+patient failed to void 12 hours after removal. He was
+administered tamsulosin and his foley catheter was replaced. A
+PA and lateral chest radiograph showed decreased left-sided
+pneumothorax and interstitial edema since the prior examination,
+with small bilateral pleural effusions.
+
+On 2010-07-30 00:00:00, he underwent a video swallow study which revealed a
+left vocal cord paralysis. The speech consultant recommended the
+following:
+1.  Diet of thin liquids and soft solids
+2. Swallow w/chin tucked to chest for all consistencies
+3.  Pills whole in applesauce
+4.  ENT consult to evaluate vocal cord mobility to r/o Left
+    vocal cord paresis/paralysis
+
+An otolaryngology consult was obtained for evaluation and
+treatment for this condition, the recommendation which were to
+observe strict chin-tuck adherence and strict aspiration
+precautions as the patient was thought to be at great aspiration
+risk; and twice-daily proton pump inhibitor. A chest radiograph
+performed on 2010-07-30 00:00:00 showed further improvement in the small
+left apical pneumothorax and improvement in the interstitial
+edema.
+
+On 2010-07-30 00:00:00, he underwent another voiding trial after his foley
+was discontinued, and this time, he voided 500cc. The patient
+was discharged to rehabilitation facility in good condition,
+with instructions for follow-up care with thoracic surgeon, Dr.
+Gwena Hopely, and otolaryngologist, Dr. Gwena Hopely.
+
+
+
+Medications on Admission:
+Include atenolol, Lipitor, Percocet, and an aspirin.
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every four
+(4) hours as needed.
+2. Insulin Regular Human 100 unit/mL Solution Sig: 2010-07-30 00:00:00 units
+Injection ASDIR (AS DIRECTED).
+3. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 7 days.
+4. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO twice a day.
+6. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for pain. Tablet(s)
+7. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO HS (at bedtime).
+8. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed.
+9. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Rehabilitation and Nursing Center - UPMCE
+
+Discharge Diagnosis:
+Left lung lesion
+Coronary artery disease
+History of prostate cancer
+History of colon cancer
+History of abdominal aortic aneurysm
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You may resume your pre-hospital medications.
+Call Dr. Gwena Hopely or come to the emergency room if you have:
+* fever above 100.5
+* nausea, vomiting or diarrhea that doesn't stop
+* chest pain, shortness of breath, or dizziness
+* any other symptoms that concern you.
+
+
+Followup Instructions:
+See Dr. Gwena Hopely in clinic in 2010-07-30 00:00:00 weeks. Call test@mail.com for an
+appointment.
+
+See otolaryngologist Dr. Spuhler in clinic in 3 weeks. Call
+test@mail.com for an appointment.
+
+
+
+Completed by:2010-07-30 00:00:00

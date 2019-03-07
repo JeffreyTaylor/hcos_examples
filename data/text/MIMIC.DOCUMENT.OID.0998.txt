@@ -1,0 +1,465 @@
+Admission Date:  2008-07-19 00:00:00              Discharge Date:   2008-07-19 00:00:00
+
+Date of Birth: 1972-08-26 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Cefazolin / Vicodin / Oxycodone
+
+Attending:Donaldo Chaca
+Chief Complaint:
+Confusion
+
+Major Surgical or Invasive Procedure:
+1) Intubation
+2) Lumbar Puncture
+3) TEE
+4) PICC Line
+
+
+History of Present Illness:
+The patient is a 47 year old female with a history of type II
+diabetes on insulin, peripheral vascular disease, hepatitis C
+and recent admission for septic right knee on fluconazole for
+Abdalrahman Gill parapsilosis who presents from home with one day of
+confusion.  Per her husband she was in her ususal state of
+health on the morning prior to presentation.  She took her blood
+pressure and took all of her medications.  She ate a normal
+breakfast and then went to bed in the early afternoon saying
+that she had she had a headache and was feeling nauseated.  She
+vomitted once (bilious material) in the early afternoon but then
+was able to eat dinner.  Per her husband she does not usually
+have headaches so this was an unusual complaint.  She did not
+note any fevers, chills, neck pain, back pain, worsening leg
+pain, abdominal pain, difficulty urinating or anything other
+symptoms.   She was last noted to be at her usual mental status
+at approximatley 7 PM on the evening prior to admission.  She
+did not sleep well that night.  At 9 AM her husband woke up and
+noticed that she was lying in bed and had soiled herself and was
+not making sense.  He called 911 and she was taken to UPMCE.   He does not think that she took any medications for
+her pain other than tylenol, although does note that she has
+been using a fentanyl patch and dilaudid post-operatively.
+
+She was initially taken to UPMCE.  Blood glucose in the
+field was 239.  Her initial vitals were T: 99.0, HR 86, BP:
+224/86, RR: 16, O2: 95% on RA.  She received narcan 0.8 mg IV,
+ativan 1 mg IV, zofran 4 mg IV.  She had a CT of the head which
+compared to prior dated 2008-07-19 00:00:00 showed many white matter
+lesions involving both cerebral hemispheres and with the
+greatest involvement in the subcortical white matter.
+Differential includes septic emboli, cholesterol emboli and less
+likely encephalitis.  She was transferred to our hospital for
+neurologic evaluation.
+
+In the ED, initial vs were: T: 98.9 HR: 95 BP: 185/75 RR: 16 O2:
+99% on RA.  She had an LP which was notable for an opening
+pressure of 20 cm.  She received vancomycin 1 gram IV x 1,
+gentamycin 200 mg IV x 1 (3 mg/kg), and acyclovir 700 mg IV x 1
+(10 mg/kg).  She has not yet received fungal coverage.  She was
+seen by the neurology consult service who recommended a broad
+workup for systemic causes of delerium including infectious
+workup, toxicology screening, thiamine, folate and
+multivitamins.  she was transferred to the MICU for further
+management.
+
+On arrival to the MICU she is oriented to person but otherwise
+does not respond to questions.  She responds that her head
+hurts.  She is agitated and moving in the bed.  Unable to obtain
+review of systems.
+
+Past Medical History:
+Type 2 diabetes since age 25. insulin-dependent
+Peripheral artery disease s/p bypass-left lower extremity
+Hypertension
+Hypercholesterolemia
+Hepatitis C
+C. parapsilosis right knee arthritis s/p open biopsy and
+synovectomy on 2008-07-19 00:00:00 currently on fluconazole
+Alcohol Abuse
+
+Social History:
+30 pack year smoking history, quit five years ago.  Per my
+interview no current alcohol or drug use but per neurology
+interview she generally drinks 2008-07-19 00:00:00 - 1 pint of "100 proof"
+daily.  Last drink was at least one day prior to admission.  No
+history of DTs or withdrawal seizures.  Also smokes marijuana
+daily.  Lives with her husband and 8 year old child.  Works as a
+cash administrator.
+
+
+Family History:
+No known history of early neurologic deficits
+
+
+Physical Exam:
+Admission Physical Exam:
+Vitals: T: 99.8 BP: 147/78 P: 124 R: 18 O2: 97% on RA
+General: Alert to person only, agitated, does not respond to
+questions appropriately, moving all extremities
+HEENT: PEERLA, Sclera anicteric, MM dry, dentition poor,
+oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley draining clear yellow urine
+Ext: warm, well perfused, 1+ pulses, no clubbing, cyanosis or
+edema, multiple excorations.  Right knee with staples, incision
+clean, dry, intact without erythema.  Right lateral knee with
+area of fluctuance, erythema, without warmth.
+Rectal/Vaginal: Abdalrahman Gill present
+Neurologic: PERRL, EOMI, no facial droop, moving all
+extremities, withdraws to pain symmetrically, reflexes 2+ and
+symmetric
+
+
+Pertinent Results:
+ADMISSION:
+
+Chemistries:
+GLUCOSE-277* UREA N-16 CREAT-1.2* SODIUM-142 POTASSIUM-4.0
+CHLORIDE-106 TOTAL CO2-14* ANION GAP-26*
+
+ALT(SGPT)-16 AST(SGOT)-26 CK(CPK)-59 ALK PHOS-81 TOT BILI-0.2
+
+LIPASE-157*
+
+CK-MB-NotDone cTropnT-0.01
+
+CALCIUM-9.5 PHOSPHATE-3.3 MAGNESIUM-1.8
+
+AMMONIA-36 ACETONE-SMALL OSMOLAL-315*
+
+TSH-0.35
+
+Lactate-1.4
+
+Type-Gill pO2-52* pCO2-32* pH-7.38 calTCO2-20* Base XS--4
+
+Hematology:
+
+WBC-11.9* HCT-36.8 353
+
+NEUTS-86.4* LYMPHS-9.8* MONOS-1.9* EOS-1.6 BASOS-0.2
+
+Urine Studies:
+COLOR-Yellow APPEAR-Clear SP Gill-1.013 BLOOD-MOD NITRITE-NEG
+PROTEIN-100 GLUCOSE-NEG KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG
+PH-6.5 LEUK-NEG
+RBC-2008-07-19 00:00:00* WBC-2008-07-19 00:00:00 BACTERIA-OCC YEAST-NONE EPI-0-2
+
+Toxicology:
+ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-POS barbitrt-NEG
+tricyclic-NEG
+
+URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG cocaine-NEG
+amphetmn-NEG mthdone-NEG
+
+Cerebrospinal Fluid:
+PROTEIN-53* GLUCOSE-170
+WBC-2 RBC-248* POLYS-42 LYMPHS-43 MONOS-15
+WBC-2 RBC-608* POLYS-54 LYMPHS-28 MONOS-18
+=============================
+DISCHARGE LABS:
+Cr 1.2
+WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+7.2 2.46* 7.7* 23.4* 95 31.2 32.8 13.7 363
+
+Imaging:
+Portable CXR 2008-07-19 00:00:00: Study is limited due to underpenetration
+and
+respiratory motion. The patient is also rotated. Cardiac
+silhouette is
+likely mildly enlarged. Mediastinal and hilar contours are
+grossly
+unremarkable. The lungs are grossly clear. No sizable pleural
+effusion or
+pneumothorax is seen; however, the extreme right costophrenic
+angle is
+excluded from field of view.
+
+Transthoracic Echocardiogram 2008-07-19 00:00:00: The left atrium and right
+atrium are normal in cavity size. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and global
+systolic function (LVEF>65%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. Tissue Doppler imaging suggests a normal left
+ventricular filling pressure (PCWP<12mmHg). Right ventricular
+chamber size and free wall motion are normal. The diameters of
+aorta at the sinus, ascending and arch levels are normal. The
+aortic valve leaflets (?#) appear structurally normal with good
+leaflet excursion. No masses or vegetations are seen on the
+aortic valve, but cannot be fully excluded due to suboptimal
+image quality.. No aortic regurgitation is seen. The mitral
+valve appears structurally normal with trivial mitral
+regurgitation. There is no mitral valve prolapse. No masses or
+vegetations are seen on the mitral valve, but cannot be fully
+excluded due to suboptimal image quality. The pulmonary artery
+systolic pressure could not be determined. There is no
+pericardial effusion.
+
+EEG 2008-07-19 00:00:00: The patient was recorded entirely in stages I and II
+of
+sleep. It appeared that medication effect was evident both in
+stages I
+and II of sleep. Whether the presence of the seemingly excessive
+amount
+of sleep and the absence of full wakefulness was a pathological
+condition or simply a manifestation of medication cannot be
+determined
+from this record. No discharging features were, however, seen in
+the
+record. There was no evidence for non-convulsive status, as
+well.
+
+Transesophageal Echocardiogram 2008-07-19 00:00:00: No atrial septal defect
+is seen by 2D or color Doppler. Overall left ventricular
+systolic function is normal (LVEF>55%). There are simple
+atheroma in the aortic arch and descending thoracic aorta. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No masses or vegetations are seen on
+the aortic valve. No aortic valve abscess is seen. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. No mass or vegetation is seen on the mitral valve.
+Trivial mitral regurgitation is seen. No vegetation/mass is seen
+on the pulmonic valve. There is no pericardial effusion.
+
+MRI Brain 2008-07-19 00:00:00: Extensive white matter abnormalities involving
+the posterior distribution as well as extending to involve the
+frontal and parietal lobes in a watershed distribution. Given
+the conciliation of these findings, these are again most
+concerning for posterior reversible encephalopathy syndrome.
+Again differential considerations include a toxic or metabolic
+process.
+
+Microbiology:
+CSF 2008-07-19 00:00:00: No growth to date
+Blood cultures 2008-07-19 00:00:00, 2008-07-19 00:00:00 (mycolytic), 2008-07-19 00:00:00, 2008-07-19 00:00:00 - no
+growth to date
+Urine Cultures 2008-07-19 00:00:00, 2008-07-19 00:00:00 - no growth to date
+
+\
+
+Brief Hospital Course:
+47 yo woman with ho DM II on insulin (last A1C 5), PVD, Hep C,
+and recent admission for septic R knee on fluconazole for
+Abdalrahman Gill parapsilosis who presented to ED on 2008-07-19 00:00:00 for confusion
+x 1 day.
+
+# Delerium: Patient found to have multiple new white matter
+lesions on CT that were initially thought to be infectious in
+etiology. Patient was admitted to MICU for alcohol withdrawl
+with very high BPs as well as DKA with AG. Infectious w/u of CNS
+was negative with negative CSF and blood cx. An MRI head was
+done for further evaluation of these lesions. Because of very
+high BPs in MICU (probably due to severe DTs) and classic MRI
+findings, the diagnosis of Posterior Reversible
+Leukoencephalopathy (PRES) was made. Patient's pressures were
+aggressively treated with goal systolics in 150s (close to her
+baseline at home). Upon aggressive BP reduction, patient's
+mental status significantly improved. On the floor the patient
+continued to have a waxing and Donaldo Chaca delerium. Tight blood
+pressure control continued with goal SBPs in the 150s. Neurology
+followed the patient and recommended to continue close blood
+pressure management with goal pressures 130s-150s systolic, as
+well as to continue Fluconazole for fungal septic arthritis, and
+continue close blood glucose management. These instructions were
+followed. As blood pressure was stabilized to target levels with
+multiple antihypertensive medications, tight glucose control was
+obtained with Insulin Fixed and Sliding Scale, and antifungal
+treatment continued, the patient's mental status showed
+significant gradual improvement. Upon discharge on 2008-07-19 00:00:00, the Pt was alert and oriented X3, alert, interactive, and
+appropriate. Patient has outpatient follow with Dr. Donaldo Chaca
+in the dept of neurology.
+
+# Type II Diabetes/Diabetic Ketoacidois:  On preentation the
+patients anion gap was 23 with UA positive for ketones and
+positive serum acetone.  Osmolar gap was 10 which was not
+suggestive of a toxic ingestion and her lactate was not
+elevated.  Toxicology screen was negative with exception of
+benzodiazepines.  Renal function within normal limits.  Although
+she is a type II diabetic it was felt that her acidosis was most
+likely secondary to her diabetes versus alcoholic ketosis versus
+starvation ketosis.  She was started on in insulin drip and
+received aggressive IV hydration.  She was subsequently
+transitioned back to a regimen of lantus with a regular insulin
+sliding scale.  Her blood sugars remained elevated and her
+insulin regimen required titration while in the ICU. While on
+the floor the patient was started on in a humalog insulin
+sliding scale, with fixed dose of glargine in the morning.  This
+fixed dose and sliding scale was adjusted to obtain tight
+control of her blood sugars.  Upon discharge, tight control was
+obtained with most fingersticks between 100-200. Outpatient dose
+of glargine increased from 18 units qAM to 45 units qAM. Suggest
+continued uptitration as needed. Patient discharged on humalog
+sliding scale. Would suggest restarting glyburide and stopping
+humalog when discharged from rehab.
+
+# Hypertension: Her blood presusres were grossly elevated on
+presentation in the setting of missing her antihypertensive
+medications and alcohol withdrawal.  She was initially treated
+with IV medications and subsequently transitioned to an oral
+regimen which was uptitrated.  At the time of MICU discharge she
+was on a regimen of lisinopril 40 mg daily, HCTZ 25 mg daily,
+labetolol 400 mg TID and hydralazine 30 mg PO QID.  At home her
+blood pressures typically run in the 150s to 180s systolic per
+her husband.  On the floor her blood medications were titrated
+and altered to meet target goals of 130s-150s systolic.  Upon
+discharge her blood pressure medications were Amlodipine 5mg
+daily; Metoprolol 50 mg q6hours; HCTZ 25 mg daily; Hydralazine
+25 mg q6hours; Lisinopril 40mg daily.  Instructions have been
+provided in the discharge worksheet for how to continue to
+titrate down these blood pressure medications as tolerated, in
+order to maintain target BP levels and to simplify the
+outpatient medication regimen.
+
+# Fungal Knee Infection:  Cultures from 2008-07-19 00:00:00 grew Abdalrahman
+Gill for which she has been on fluconazole.  She is
+followed here by our infectious disease service. Given the
+concerning lesions on her head CT she underwent an evaluation
+for endocarditis including TTE and TEE which were negative for
+vegitation.   On presentation there was an area of fluctance on
+the right lateral knee with erythema and warmth concerning for
+infection. This area was later aspirated by orthopedics and
+found to grow Abdalrahman Gill parapsilosis.  Fluconazole is being
+continued and the patient will likely require a course of
+fluconazole that requires several months. She will continue to
+be seen by orthopedics and infectious diseases as an outpatient
+following discharge, and she has outpatient follow-up
+appointments scheduled.
+
+# Nutrition:  Patient was on tube feeds via NGT in the MICU.
+Upon discharge she was tolerating a PO diet without difficulty
+and had successfully passed a speech and swallow evaluation.
+
+Patient was a FULL code on this admission.
+
+Medications on Admission:
+Home Medications (per husband, unclear what she is actually
+taking):
+Glyburide 5 mg UPMCE
+Hydrochlorothiazide 25 mg daily
+Atenolol 25 mg daily
+Lisinopril 40 mg daily
+Fentanyl patch (might be wearing)
+Fluconazole 400 mg daily
+Diazepam (empty)
+Senna PRN
+Enoxaparin 30 mg UPMCE
+Lantus 18 U daily
+Dilaudid 2-4 mg PO Q4H:PRN
+Tylenol 1000 mg PO Q6H:PRN
+Omeprazole 20 mg daily
+
+
+Discharge Medications:
+1. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO
+DAILY (Daily).
+4. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+5. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+6. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours).
+8. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours).
+9. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+10. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours).
+11. Insulin Glargine  Subcutaneous
+12. Humalog  Subcutaneous
+13. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+1) Posterior Reversible Leukoencephalopathy
+2) Alcoholic ketoacidosis
+3) Hypertensive Crisis
+4) Septic arthritis
+5) Delerium
+
+
+Discharge Condition:
+Stable, afebrile.
+
+
+Discharge Instructions:
+You were admitted to the medical intensive care unit (MICU)
+because of confusion and severe alcohol withdrawl. Because of
+your alcohol withdrawl, your blood pressures were dangerously
+high. These high blood pressures caused brain damage and were
+likely the cause of your persistent confusion. You are being
+discharged UPMCE rehabilitation facility in good
+condition, with stable vital signs. While you were hospitalized
+your blood pressure was managed with medications which lowered
+it to a safe level. As your blood pressure improved your mental
+status improved.  During your hospitalization you were also
+treated with Fluconazole for an infection in your knee. Also
+during your hospitalization, we managed your blood sugars with
+insulin. Your blood sugars were persistently elevated and
+required close management to bring them to a safe level.
+.
+Please proceed to the Emergency Department with any new or
+otherwise concerning symptoms such as, delerium, shortness of
+breath, fever, chest pain, or other concerning symptoms.
+.
+STOP taking:
+--Atenolol
+--Dilaudid
+--Fentanyl patch
+--Lovenox
+--Glyburide: you can discuss restarting this medication with
+your primary care physician after discharge from rehab.
+
+CHANGES to meds:
+--lantus increased to 45 units every morning
+
+NEW meds:
+--Metoprolol
+--Hydralazine
+--Amlodipine
+--Folic acid
+--Multivitamin
+--Lidocaine patch
+.
+You have multiple outpatient follow-up appointments scheduled
+below.  Please follow-up with all outpatient appointments as
+scheduled.
+
+Followup Instructions:
+You have appointments with the following Providers:
+
+ Abdalrahman Gill, MD Phone:test@mail.com Date/Time:2008-07-19 00:00:00
+11:00
+
+Provider:
+Abdalrahman Gill. Abdalrahman Gill & [**Doctor Last Name 6516**] Phone:test@mail.com Date/Time:2008-07-19 00:00:00
+4:30
+
+Provider:
+Abdalrahman Gill, MD Phone:test@mail.com Date/Time:2008-07-19 00:00:00 2:15
+
+Provider:
+Abdalrahman Gill Abdalrahman Gill, MD  Phone: test@mail.com on 2008-07-19 00:00:00
+
+
+
+Completed by:2008-07-19 00:00:00

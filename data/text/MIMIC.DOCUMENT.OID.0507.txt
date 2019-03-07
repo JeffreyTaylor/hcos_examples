@@ -1,0 +1,682 @@
+Admission Date:  2007-10-26 00:00:00              Discharge Date:   2007-10-26 00:00:00
+
+Date of Birth: 1989-08-20 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+Codeine / Streptokinase / Iodine / Bee Pollens / Narcan
+
+Attending:Chelsen Ludwinski
+Chief Complaint:
+"worst headache of life"
+
+Major Surgical or Invasive Procedure:
+2007-10-26 00:00:00 Cerebral Angiogram
+2007-10-26 00:00:00 Right EVD placement
+2007-10-26 00:00:00 Right EVD catheter replacement
+2007-10-26 00:00:00 IVC filter placement
+2007-10-26 00:00:00 Ventriculoperitoneal Shunt
+
+
+History of Present Illness:
+This is a 59 year old man on Aspirin and Coumadin for Atrial
+Fibrillation/CVA who was medflighted from UPMCE today
+following worst headache of life 24 hours ago with a INR of 4
+and head CT consistent with extensive Subarachnoid Hemorhage.
+The patient was given Vitamin K 10 mg and Factor 7 to reverse
+his INR.  Upon arrival the patient and his daughter stated that
+he has over the past day developed a left facial droop, slurred
+speech and a droopy left eye. He has had some weakness in his
+bilateral upper extremities that he has had since his care
+accident approximately 3 weeks ago and his very bad fall three
+days ago.  His right arm is in a cast.
+
+Past Medical History:
+Type II Diabetes on oral agents
+Systemic Lupus Erythematosus
+Coronary Artery Disease s/p MI in 2007-10-26 00:00:00
+Hepatitis C
+COPD with emphysema and asthmatic component (FEV1 60% 123 Any St.ted
+2007-10-26 00:00:00)
+Diastolic Congestive Heart Failure EF 55% in 2007-10-26 00:00:00
+Seizure disorder
+TIA 199
+Colon Cancer s/p resection in 2007-10-26 00:00:00 without chemotherapy
+s/p abdominal trauma with subsequent splenectomy and amputation
+of digits of his left hand
+Hyperlipidemia
+Hypertension
+h/o cocaine abuse
+Neuropathy and chronic pain on methadone
+Chronic Atrial Fibrillation on Coumadin
+Obstructive Sleep Apnea on home CPAP
+Left Total Knee Replacement 2007-10-26 00:00:00
+
+
+Social History:
+On disability, former mechanic. Quit smoking 2007-10-26 00:00:00. Denies EtOH,
+h/o cocain abuse, none since 2007-10-26 00:00:00.
+
+
+Family History:
+Adopted - Unknown birth family hx
+
+Physical Exam:
+Admission Exam:
+***************
+T: 96.3, BP: 142/78, HR: 98, R: 22, O2Sats:98% on 4 liters
+Gen: comfortable, slurred speech
+HEENT:left facial droop and left ptosis, atraumatic Pupils:  %mm
+
+EOMs5 mm bilaterally non reactive
+Neck: Supple.
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert to person and place only
+Orientation: Oriented to person, place, and NOT date.
+Recall: unable to perform
+Language: Speech is slow and slurred
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light,5
+mm NON REACTIVE bilaterally.
+III, IV, VI: Extraocular movements intact on right, 3rd/4th/6th
+nerve palsy on LEFT, disconjugate gaze
+V, VII: Facial strength LEFT facial droop
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+Chelsen Ludwinski: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength- antigravity x 4. Pronator drift- unable to
+perform- right arm cast and residual bilateral arm weakness from
+fall/car accident- antigravity
+
+Sensation: Intact to light touch bilaterally.
+
+Reflexes: Toes downgoing bilaterally
+
+Coordination: Unable to perform
+
+Discharge Exam:
+***************
+Gen: Trach/PEG placed, NAD
+HEENT: Left facial droop with left ptosis
+Neck: Supple.
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert to person and place only
+Orientation: Oriented to person, place, and NOT date.
+Recall: unable to perform
+Language: Speech is slow and slurred
+
+Cranial Nerves:
+I: Not tested
+II: Pupils 4mm -> 3mm on right, EOMs 5 mm bilaterally non
+reactive, rotated externally
+III, IV, VI: Extraocular movements intact on right, 3rd/4th/6th
+nerve palsy on LEFT, disconjugate gaze
+V, VII: Facial strength LEFT facial droop
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+Chelsen Ludwinski: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength - in right arm and leg.  Pronator drift -
+unable to perform- right arm cast and residual bilateral arm
+weakness from fall/car accident- antigravity
+
+Sensation: Intact to light touch bilaterally.
+
+Reflexes: Toes downgoing on right, equivocal on left
+
+Coordination: Could not perform
+
+
+Pertinent Results:
+2007-10-26 00:00:00 ANGIOGRAM:
+1.  Tiny 1-2 mm questionable infundibulum versus questionable
+broad-based
+focal ectasia versus tiny aneurysms noted at the level of the
+anterior
+communicating artery and right middle cerebral artery
+bifurcation.
+2.  Evaluation of the right external carotid artery, left
+internal carotid
+artery, left external carotid artery, right vertebral artery,
+and left
+vertebral artery demonstrates no definite evidence of aneurysms
+or vascular malformations.
+
+
+2007-10-26 00:00:00 CT HEAD W/O CONTRAST:
+Status post ventriculostomy catheter placement from a right
+frontal approach with tip in the third ventricle;
+stable-to-slight increase in extent of subarachnoid hemorrhage
+with layering intraventricular hemorrhage within the occipital
+horns of the lateral ventricles
+
+2007-10-26 00:00:00 ECHOCARDIOGRAM:
+The left atrium is moderately dilated and elongated. The right
+atrium is markedly dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is mildly
+dilated. Overall left ventricular systolic function is mildly
+depressed (LVEF= 45-50 %) secondary to hypokinesis of the
+basal-mid inferior wall, and inferior/anterior septum. The LV
+apex and distal anterior wall appeared normokinetic, although
+their function may be overestimated given significantly
+foreshortened apical views. The right ventricle is mildly
+dilated with borderline normal free wall function. The aortic
+root is mildly dilated at the sinus level. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+2007-10-26 00:00:00 CXR FINDINGS:
+As compared to the 123 Any St.us radiograph, the nasogastric tube has
+been advanced.  The tip of the tube now projects over the
+gastroesophageal junction.  To ensure correct position in the
+stomach, the tube must be advanced by another 10 cm. Unchanged
+position of the endotracheal tube.  Unchanged moderate
+cardiomegaly with mild fluid overload.  The extent and severity
+of the pre-existing right lower lung parenchymal opacity is
+unchanged.
+
+2007-10-26 00:00:00 CT HEAD W/O CONTRAST (9:27 AM)
+CONCLUSION:
+1. Interval increase of the hemorrhage at the mid brain compared
+to the 123 Any St.us study, concerning for hemorrhage within the mid
+brain versus expanding hemorrhage at the interpeduncular
+cistern.
+2. Interval increase in the size of the ventricles as described
+above,concerning for hydrocephalus.
+
+2007-10-26 00:00:00 CT UP EXT W/O Study Date (9:27 AM)
+IMPRESSION:
+1.  Comminuted and impacted right medial clavicle fracture.
+2.  Severe emphysema.
+3.  Multinodular thyroid can be further evaluated by ultrasound,
+if clinically indicated.
+
+2007-10-26 00:00:00 CT HEAD W/O CONTRAST Study Date of (2:05 PM)
+CONCLUSION:
+1. The hemorrhage at the midbrain has seems to have increased in
+size compared to the study from earlier this morning.
+2. There is an increased amount of intraparenchymal hemorrhage
+around the catheter site.
+3. The size of the ventricles is unchanged compared to the study
+performed
+earlier this morning.
+
+2007-10-26 00:00:00 PORTABLE HEAD CT W/O CONTRAST (7:45 AM)
+CONCLUSION:
+1.  Subarachnoid and intraventricular hemorrhage, unchanged
+compared to the 123 Any St.us study.
+2.  No new evidence of hemorrhage, mass effect, or acute
+infarction.
+3.  Intraparenchymal hemorrhage around the catheter site is
+stable compared to the 123 Any St.us study.
+4.  Size of the ventricles is unchanged compared to the 123 Any St.us
+study.
+
+2007-10-26 00:00:00 CHEST (PORTABLE AP) (10:22 AM)
+IMPRESSION:
+AP chest compared to 2007-10-26 00:00:00 through 5: Relatively symmetric
+infiltrative abnormality in the lower lungs is probably
+pulmonary edema.  123 Any St.us right lower lobe pneumonia is
+improving.  Pleural effusions are small if any.
+Moderate-to-severe cardiomegaly is longstanding.  ET tube in
+standard placement.  Nasogastric drainage tube passes into the
+stomach and out of view.  No pneumothorax.
+
+2007-10-26 00:00:00 EKG
+Atrial fibrillation with controlled ventricular response. Poor R
+wave
+progression. Non-specific ST-T wave changes in the inferior and
+anterolateral leads. Compared to the 123 Any St.us tracing of 2007-10-26 00:00:00
+the ventricular response is slower.
+
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+88 0 96 test@mail.com6
+
+2007-10-26 00:00:00 CT HEAD W/O CONTRAST (4:42 PM)
+IMPRESSION:  No significant change since the prior study.  No
+evidence of new hemorrhage, mass effect, or infarction.
+
+2007-10-26 00:00:00 CHEST (PORTABLE AP) (5:20 PM)
+FINDINGS:  In comparison with the study of 2007-10-26 00:00:00, there is again
+substantial
+enlargement of the cardiac silhouette with only mild elevation
+of pulmonary venous pressure.  This suggests cardiomyopathy or
+pericardial effusion. Endotracheal and nasogastric tubes remain
+in good position.  The
+hemidiaphragms are more sharply seen, consistent with clearing
+of the 123 Any St.us pulmonary edema.  Mild atelectatic changes may
+be present.
+
+2007-10-26 00:00:00 Neurophysiology Report EEG
+IMPRESSION: This is an abnormal continuous ICU monitoring study
+due to
+generalized slowing of the background activity with 3-5 theta
+and superimposed 1-1.5 Hz delta. There are frequent bursts of
+generalized sharp waves with maximal amplitude over the frontal
+regions often with shifting laterality in terms of maximal
+amplitude. These findings are suggestive of moderate to severe
+encephalopathy with potential underlying epileptogenic cortex.
+Compared to the 123 Any St.us day's study, the generalized sharp
+waves are slightly less frequent and now they are more blunted
+in their appearance
+
+2007-10-26 00:00:00 Neurophysiology Report EEG
+IMPRESSION: This is an abnormal continuous ICU EEG monitoring
+study due to a slow background of 2007-10-26 00:00:00 theta with superimposed
+2007-10-26 00:00:00 Hz delta. Frontally
+maximal, generalized sharp waves are frequently seen. The
+background activity becomes discontinuous after 16:00 to 00:45
+with alternating pattern of one to two second severe EEG
+suppression and two to three seconds of diffuse 5 Hz theta
+predominantly over frontal-central areas, superimposed with 2-3
+Hz delta. These finds are suggestive of severe encephalopathy
+with potential underlying epileptogenic cortex.
+
+2007-10-26 00:00:00 CTA HEAD W&W/O C & RECONS (10:33 AM)
+IMPRESSION:
+1.  Improvement/stable subarachnoid and intraventricular
+hemorrhage as
+described above.
+2.  Patent Circle of 123 Any St.. Patent carotid and vertebral
+arteries and their major branches with no evidence of stenosis.
+3.  Again seen is the small 1- to 2-mm aneurysm at the level of
+the ACA and right MCA bifurcation, as seen 123 Any St.usly on the
+cerebral angiography from 2007-10-26 00:00:00. No evidence of vasospasm.
+
+2007-10-26 00:00:00 BILAT LOWER EXT VEINS PORT (2:24 PM)
+IMPRESSION:  No sonJrew Kochanowski evidence for lower extremity deep
+vein thrombosis.
+
+2007-10-26 00:00:00 CHEST PORT. LINE PLACEMENT (5:55 PM)
+FINDINGS:  In comparison with the study of earlier in this date,
+there has
+been placement of a left subclavian catheter that extends to the
+upper-to-mid portion of the SVC.  No evidence of pneumothorax.
+The left basilar
+opacification is slightly less prominent. Other monitoring and
+support devices remain in place.
+
+2007-10-26 00:00:00 CHEST (PORTABLE AP) (4:08 AM)
+FINDINGS:  In comparison with the study of 2007-10-26 00:00:00, there is
+continued prominence of the cardiac silhouette without definite
+pulmonary vascular congestion.  There is now increasing
+opacification at the right base with poor definition of the
+hemidiaphragm.  This suggests pleural effusion and atelectasis.
+Less prominent opacification is seen at the left base.  No
+evidence of pneumothorax.
+
+2007-10-26 00:00:00 CHEST (PORTABLE AP) (4:39 AM)
+IMPRESSION: AP chest compared to 2007-10-26 00:00:00 - Right lower lobe
+consolidation has improved.  There is no pulmonary edema.
+Moderate cardiomegaly has improved since 2007-10-26 00:00:00.  Pleural
+effusions are small on the right, if any.  Configuration of the
+diaphragm suggests COPD.
+ET tube in standard placement.  Left subclavian line ends at the
+junction of brachiocephalic veins and an enteric tube ends in
+the upper stomach.
+
+2007-10-26 00:00:00 CXR: FINDINGS:  As compared to the 123 Any St.us radiograph,
+there is constant appearance of the heart and the lung
+parenchyma.  No interval appearance of new parenchymal
+opacities.  Unchanged moderate cardiomegaly without overt
+pulmonary edema.  The monitoring and support devices are
+constant.
+
+2007-10-26 00:00:00 CXR: FINDINGS:  As compared to the [** Location **]us radiograph,
+there is no relevant change.  Unchanged monitoring and support
+devices.  Unchanged appearance of the lung parenchyma.
+Unchanged appearance of the cardiac silhouette.  No
+pneumothorax, no pleural effusions.
+
+2007-10-26 00:00:00 CXR:
+IMPRESSION:  Status post tracheostomy and PEG placement, both of
+which appear in appropriate position.  Apparent increase in
+right pleural effusion is likely due to patient rotation with
+respect to the film.
+
+2007-10-26 00:00:00 CXR:
+FINDING: Pulmonary vascular congestion with associated
+peribronchial cuffing appears unchanged.  When compared to a
+similarly positioned radiograph of 2007-10-26 00:00:00 at 4:50
+a.m., there has been apparent increase in confluent opacity in
+the right infrahilar region.  This area is difficult to compare
+to the more recent radiograph of 12:50 p.m. on the same date,
+but may be improved since that time.  Differential diagnosis
+includes asymmetrical pulmonary edema, aspiration, and less
+likely a focal infection.
+
+2007-10-26 00:00:00 CXR:
+IMPRESSION: Right-sided pleural effusion, small to moderate in
+size.  Otherwise, unchanged examination of the chest.
+
+2007-10-26 00:00:00 BILATERAL LOWER VEIN:
+IMPRESSION:  Nonocclusive thrombus within the left common
+femoral vein.  The remainder of the veins of both legs are
+normal.
+
+2007-10-26 00:00:00 CT HEAD W/O CONTRAST IMPRESSION:
+1.  Ventriculoperitoneal shunt terminating in the frontal Chelsen Ludwinski
+of the right lateral ventricle, as compared to within the third
+ventricle on prior examination.
+2.  New small foci of air within the right frontal Chelsen Ludwinski of the
+lateral
+ventricle, likely due to recent instrumentation.
+3.  Overall, decreased amount and density of [** Location **]usly seen
+subarachnoid and intraventricular hemorrhage.  No mass effect or
+evidence of herniation. Stable ventricular size.
+4.  Increased opacification of the right mastoid air cells
+
+2007-10-26 00:00:00 CT HEAD W/O CONTRAST IMPRESSION:  Stable examination
+(since 2007-10-26 00:00:00 study)
+
+2007-10-26 00:00:00 CXR - The ET tube tip is approximately 7 cm above the
+carina.  The gastrostomy projecting over the stomach consistent
+with feeding tube.  Heart size and mediastinum are unchanged.
+Left lower lobe opacity is unchanged, associated with small
+amount of pleural effusion concerning for infectious process.
+No new abnormalities demonstrated.
+
+2007-10-26 00:00:00 CXR - IMPRESSION:
+1.  Left lower lung improved.
+2.  Mild pulmonary edema which is more evenly distributed on the
+study, but overall unchanged.
+
+2007-10-26 00:00:00 CXR
+FINDINGS:  In comparison with study of 2007-10-26 00:00:00, the left
+hemidiaphragm is not as sharply seen, raising the possibility of
+atelectasis or even developing
+consolidation at the left base.  Remainder of the study is
+essentially within normal limits and the monitoring and support
+devices are unchanged.
+
+
+Brief Hospital Course:
+60 y/o M on aspirin and coumadin for Afib presents s/p worst
+headache of his life with SAH found on head CT. His INR was
+elevated to 4 and was actievely reversed with factor 7 and
+vitamin K. He was intubated and an EVD was placed in the ED at
+the bedside. He was then admitted to neurosurgery and went for
+an angiogram for evaluation of aneurysm. Angiogram was negative
+for any aneurysm. Post angiogram, the patient on exam withdrew
+all four extremities to noxious stimuli. His INR was stable at
+1.0.
+
+On 2007-10-26 00:00:00, patient opened his eyes to voice, but had CN 3, 4 and
+6th nerve palsy. He followed simple commands in bilateral hands
+and feet. His EVD was elevated to 20cmH2O. The EVD stopped
+functioning twice overnight but this was quickly resolved when
+flushed.
+
+On 2007-10-26 00:00:00 the EVD again stopped working, but the patient remained
+neurologically stable. A Head CT revealed a new hemorrhage along
+the catheter tract. It was decided to replace the EVD, which was
+performed without complication. Post placement CT revealed good
+catheter positioning. His dilantin level was subtherapeutic so
+he was re-bolused.fluid volume balance - 2 liters negative. The
+serum sodium was uptrending so ICU increased intravenous fluids.
+The patient stopped moving Left upper and left lower extremity.
+
+On 2007-10-26 00:00:00, The patient was febrile to 103 with tachycardia to 150s
+in Atrial flutter. Femoral Alcius was placed. A diltiazem
+continuous IV drip was initiated. The patient was pan cultured.
+The External Ventricular Drain was clamped at 5 pm and later
+unclamped due to elevated intercranial pressures.  The patient's
+EVD was left open at 10 above tragus.
+
+On 2007-10-26 00:00:00, The external ventricular drain was open at 10 abouve
+tragus.  The serum sodium was 155 and the serum BUN was 30.  The
+patient's intravenous fluid was increased to NS at 100cc/hr.
+The dilantin level was checked and repleted. Per the epilepsy
+attending the EEG much improved from teh day prior and there
+were no seizures noted.  Recomendations were made to maintain
+the Dilantin level higher at 20.On exam, the patient was able to
+eye open to voice. The pupils were 5mm and non reactive. Left
+ptosis, dysconjugate gaze continued.  The patients left upper
+extremity exhibited no movement. The left lower extremity
+withdrew to noxious stimulus. The right upper extremity the
+patient moves fingers to commands, localizes and moves his right
+lower extremity on the bed
+
+On 2007-10-26 00:00:00, The EEG without seizures.
+
+On 2007-10-26 00:00:00, The EEG showed no seizures and was stable consistent
+with severe encephalopathy.  The CTA Head showed no vasospasm.(
+premedicated with 100 hydrocort/50 bendryl) for decreased exam.
+Free water 300 q 6 hours for elevated serum sodium of  152.  The
+goal goal serum sodium wa 138-145.  The external ventricular
+drain was clamped at 0830 in teh morning and the patient failed
+the clamping trial in afternoon when he had a fever.  The
+dilantin level was 13.1.  The patientw as febrile to 101.3.
+Blood cultures were sent and venous femoral alcius cooling
+catheter removed.
+
+On 2007-10-26 00:00:00, The patient was febrile overnight and CSF was again
+sent which was consistent with ***.  On exam, the patient was
+slightly improved .  He was wiggling his toes to command.  He
+was able to flicker move his right hand fingers to command. The
+EVD open at 20.  The Transcranial Doppler study was limited due
+to EEG leads placement but there was no vasospasm of
+opthalmic/vertebral or extracranial carotid arteries.  The serum
+sodium was elevated at 151 and at 1730 the serum sodium was up
+to 153. The free water flushes were increased to 360 cc q 6
+hours.Late morning the patient's fever was 102.8 and a Chest XRY
+was consistent with a new right sided consolidation. A
+Bronchcoscopy was performed and a BAL was sent. IV abts
+vancomycin and cefipime was initiated for pneumonia. A EEG
+showed no seizures but consistent severe encephalopathy. Per the
+epilepsy service as there had been no seizures noted on EEG the
+EEG was discontinued. On exam ,the patient opened eyes to voice.
+ The right pupil was 5-4.5mm reactive and the left pupil 5mm NR.
+ The Right Upper Extremity exhibited flicker finger movement to
+command and was casted.  The patient moved toes bilaterally to
+command/briskly.  There was no movement in the left upper
+extremity which was stable.
+
+On 2007-10-26 00:00:00, patient was seen to have a stable examination, he was
+following simple commands on his RLE, w/d RUE, spontaneous on
+the LLE and no movement on his LUE. He was febrile throughout
+the day and was cooled with a cooling blanket. His Na increased
+from 151 to 153, free water was increased. His vancomycin was
+also increased to 1250mg QD. He was placed on a dilt gtt for
+a-fib and was being converted to PO. He was recultured for his
+fevers. U/A was negative.
+On 2007-10-26 00:00:00 he was again febrile. Sputum Cultures from the 11th
+including a BAL were positive for staph and yeast.  WBC cont to
+increase to 24.3. Na was stable at 150 and dilantin was
+corrected to 10.8. An MRI/MRA were ordered to evaluate for
+vascular malformation and prognostication. A family meeting was
+scheduled for 2007-10-26 00:00:00 but Dr Chelsen Ludwinski met with the patient's daughter
+in advance and Dr Jrew Kochanowski spoke to the patient's wife on the
+phone. Everyone was in agreement that they would like to proceed
+with a trach and peg. This was scheduled for 2007-10-26 00:00:00.
+Overnight he was febrile and was suddenly hypotensive to the
+60s. He required Neo for a short while but this was then weaned
+off. CSF was sent for culture. In the AM 2007-10-26 00:00:00 he was
+neurologically stable. His trach and peg were placed at the
+bedside.
+
+On 2007-10-26 00:00:00 patient developed fevers again and his scheduled VPS
+procedure was posponed. VPS placement was accomplished on 2007-10-26 00:00:00.
+
+The patient was seen 2007-10-26 00:00:00: restarted FW bolus, thick
+secretions-febilre 103 right after PICC, central line removed,
+blood/sputum sent, sputum resulted in GPC in clusters with
+sensitivities pending.  Over the course of the 2007-10-26 00:00:00, the
+patient spiked fevers on a nightly basis for which Vancomycin
+was restarted, and tailored for supratheraputic value.
+Hypernatremia was noted to improve over this time on Free Water
+flush (149-146-141 over the course of 2007-10-26 00:00:00 days).  Lovenox was
+also restarted for DVT with a coumadin bridge both for DVT and
+AFib history.
+
+A VPS tap resulted in the findings of a leukocytosis in the CSF
+(100 WBC with 89 neutro) without any organisms seen, and normal
+protein/glucose.  ID was consulted regarding the patients
+continued fevers, with recommendation to continue Vanco for
+total course of 2007-10-26 00:00:00 days given [** Location **]us Cx of GPC x2 from
+sputum.  Over 2007-10-26 00:00:00 evening patient remained afebrile with
+decreasing serum leukocytosis.
+
+Spoke with Orthopedics regarding right cast, which had been
+placed in 2007-10-26 00:00:00 s/p an ORIF procedure for MVA-related
+fracture.  Plan to remove the cast on 2007-10-26 00:00:00 with repeat XRays.
+
+Patient remained afebrile and stable from a respiratory and
+neurological standpoint. He was discharged to rehab on 2007-10-26 00:00:00.
+
+
+Medications on Admission:
+1. Acetaminophen 650 mg PO Q6H
+2. Albuterol Inhaler 2007-10-26 00:00:00 PUFF IH Q4H:PRN wheeze
+3. Aspirin 325 mg PO DAILY
+4. Captopril 100 mg PO TID
+5. CloniDINE 0.1 mg PO BID
+6. Docusate Sodium 100 mg PO BID
+7. Fluoxetine 60 mg PO DAILY
+8. Gabapentin 600 mg PO QID
+9. HydrALAzine 25 mg PO Q6H
+10. HYDROmorphone (Dilaudid) 4-8 mg PO Q3H:PRN severe pain
+Please wean off medication as tolerated, you can take tylenol
+alone to help wean off.  All future prescriptions from
+outpatient chronic care provider. Jrew Kochanowski not take medication other
+than prescribed
+11. Hydroxychloroquine Sulfate 200 mg PO BID
+12. Methadone 10 mg PO BID  (10mg at 8am, 10mg at noon)
+13. Methadone 20 mg PO BID  (20mg at 6pm, 20mg at 10pm)
+14. Metoprolol Tartrate 50 mg PO BID
+15. Omeprazole 20 mg PO BID
+16. Pravastatin 40 mg PO DAILY
+17. Prochlorperazine 10 mg PO Q6H:PRN nausea
+18. Senna 1 TAB PO BID:PRN constipation
+19. Spironolactone 25 mg PO DAILY
+20. Tizanidine 4 mg PO QHS
+21. Torsemide 50 mg PO 12PM
+22. Warfarin 2.5 mg PO QHS redose per coumadin clinic
+
+Discharge Medications:
+1. Acetaminophen (Liquid) 650 mg PO Q6H:PRN headache/pain
+2. Albuterol Inhaler 2007-10-26 00:00:00 PUFF IH Q4H:PRN wheezing
+3. Docusate Sodium 100 mg PO BID
+4. HYDROmorphone (Dilaudid) 0.125-1 mg IV Q4H:PRN headache
+for breakthru pain; hold rr < 12
+Only give this medication if the patient has not already been
+dosed PO Dilaudid to avoid over-administration of narcotics.
+wean off medication as tolerated, you can take tylenol alone to
+help wean off.  All future prescriptions from outpatient chronic
+care provider.
+5. Gabapentin 600 mg PO TID
+home medication
+6. Fluoxetine 60 mg PO DAILY
+7. Metoprolol Tartrate 100 mg PO BID
+Hold for HR < 60bpm
+8. Pravastatin 40 mg PO DAILY
+9. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL UPMCE
+10. Fluticasone Propionate 110mcg 2 PUFF IH UPMCE
+11. Nystatin Oral Suspension 5 mL PO QID:PRN thrush
+12. Senna 1 TAB PO HS
+13. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY
+14. Artificial Tear Ointment 1 Appl BOTH EYES QID dry eyes
+15. Tizanidine 4 mg PO HS
+16. Bisacodyl 10 mg PO/PR DAILY
+17. Diltiazem 60 mg PO QID
+Hold HR < 60 and SBP < 100.
+18. Enoxaparin Sodium 60 mg SC Q12H
+19. HYDROmorphone (Dilaudid) 2-4 mg PO Q6H:PRN headache
+hold for lethargy and rr < 12
+20. Ibuprofen Suspension 400-800 mg PO Q8H:PRN fever
+please alternate with tylenol
+21.  Glargine 45 Units Q24H
+Insulin SC Sliding Scale using REG Insulin
+22. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+23. Vancomycin 750 mg IV Q 12H
+24. Warfarin 7.5 mg PO DAILY16 Duration: 1 Doses
+INR goal 2007-10-26 00:00:00
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Subarachnoid Hemorrhage
+Hydrocephalus
+Non-occlusive L common femoral artert DVT
+Hypernatremia
+PNA
+Respiratory failure
+Dysphagia
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+?????? Continue all other medications you were taking before surgery,
+unless otherwise directed
+?????? You make take Tylenol or prescribed pain medications for any
+post procedure pain or discomfort.
+
+What activities you can and cannot do:
+?????? When you go home, you may walk and go up and down stairs.
+?????? Keep your incision dry until staple removal.
+?????? No heavy lifting, pushing or pulling (greater than 5 lbs) for
+1 week (to allow groin puncture to heal).
+
+What to report to office:
+?????? Changes in vision (loss of vision, blurring, double vision,
+half vision)
+?????? Slurring of speech or difficulty finding correct words to use
+?????? Severe headache or worsening headache not controlled by pain
+medication
+?????? A sudden change in the ability to move or use your arm or leg
+or the ability to feel your arm or leg
+?????? Trouble swallowing, breathing, or talking
+?????? Numbness, coldness or pain in lower extremities
+?????? Temperature greater than 101.5F for 24 hours
+?????? New or increased drainage from incision or white, yellow or
+green drainage from incisions
+?????? Bleeding from groin puncture site
+
+*SUDDEN, SEVERE BLEEDING OR SWELLING
+(Groin puncture site) Lie down, keep leg straight and have
+someone apply firm pressure to area for 10 minutes. If bleeding
+stops, call our office. If bleeding does not stop, call 911 for
+transfer to closest Emergency Room!
+
+- Lovenox bridge to Coumadin, INR goal 2007-10-26 00:00:00
+- Vancomycin thru 2007-10-26 00:00:00
+- Cast follow-up due for 2007-10-26 00:00:00 with Ortho
+
+
+Followup Instructions:
+Please follow up with Dr. Jrew in 4 weeks with a non contrast
+head CT. This appointment can be scheduled by calling the
+neurosurgery office at test@mail.com.
+
+cast for 2007-10-26 00:00:00. Please call test@mail.com.
+
+
+
+Completed by:2007-10-26 00:00:00

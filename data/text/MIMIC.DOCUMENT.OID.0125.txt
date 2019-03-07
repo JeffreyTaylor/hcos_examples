@@ -1,0 +1,170 @@
+Admission Date:  2014-12-31 00:00:00              Discharge Date:   2014-12-31 00:00:00
+
+Date of Birth: 1983-12-25 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Amiodarone / Quinidine / Procainamide / Quinine / Codeine
+
+Attending:Jalya Werdehausen
+Chief Complaint:
+hypotension, hyperkalemia
+
+Major Surgical or Invasive Procedure:
+Hemodialysis catheter placement
+
+History of Present Illness:
+Mr. Huntley is a 78-year-old male with a history of ventricular
+fibrillation arrest in 2014-12-31 00:00:00, status post ICD placement, dilated
+cardiomyopathy,
+atrial fibrillation, hypertension, and CVA who presented to the
+UPMCE ED complaining of 8 lb weight gain with increased edema of
+LE over one week despite compliance with medications.  Decreased
+po intake over past week.  No SOB, chest pain, syncope, fatigue.
+Found to be hypotensive and hyperkalemic in the ED.  ROS
+positive for epistaxis (was taking Afrin for this), occasional
+nausea and nonbloody/nonbilious vomitting.
+
+Past Medical History:
+1.  Ventricular fibrillation arrest in 2014-12-31 00:00:00 - has had ICD
+placement.
+2.  Dilated cardiomyopathy.  Echocardiogram in 2014-12-31 00:00:00
+showed an ejection fraction of 20% with inferoapical
+hypokinesis plus right ventricular hypokinesis.
+3.  Atrial fibrillation, status post DC cardioversion in
+2014-12-31 00:00:00, on coumadin.
+4.  Hypertension.
+5.  Hypothyroidism.
+6.  Cerebral vascular accident in 2014-12-31 00:00:00.
+7.  Rheumatoid arthritis.
+8.  Positive lupus anticoagulant.
+
+
+Social History:
+Mr. Huntley lives with his wife.  Alazah Huntley denies any tobacco or drug
+use.  He does note occasional alcohol use.
+
+
+Physical Exam:
+T 97.0.  Blood pressure 84/54.  Heart rate 81.  Respiratory rate
+10.  Oxygen
+saturation 100% on RA.  In general, in no acute
+distress, alert and oriented times three, overweight man.  Head,
+eyes, ears, nose and throat:  Normocephalic, atraumatic.  Pupils
+are equal,
+round, and reactive to light and accommodation.  Oropharynx
+is pink without lesions, mucous membranes dry. Nares with dry
+blood.  Neck is supple.  Unable to determine JVD secondary to
+excess soft tissue at neck.  No lymphadenopathy.  Chest clear to
+auscultation
+bilaterally.  Cardiovascular:  RRR, S1, S2
+are faint.  A 2/6 systolic ejection murmur at the apex.
+Abdomen soft, nontender, nondistended.  Extremities:  1+
+pitting edema bilaterally.  No clubbing or cyanosis.
+Dorsalis pedis pulses are 1+ bilaterally.  Neurologically,
+alert and oriented times three.  Cranial nerves II through
+III are intact.  Strength is 2014-12-31 00:00:00 in upper and lower
+extremities bilaterally.  Sensation to light touch is intact.
+Deep tendon reflexes are decreased bilaterally but equal.
+
+
+Pertinent Results:
+2014-12-31 00:00:00 01:30PM   PT-25.5* PTT-56.8* INR(PT)-4.1
+2014-12-31 00:00:00 01:30PM   NEUTS-94.2* BANDS-0 LYMPHS-2.3* MONOS-3.0
+EOS-0.4 BASOS-0
+2014-12-31 00:00:00 01:30PM   WBC-10.0 RBC-2.45*# HGB-8.1*# HCT-24.3*#
+MCV-99* MCH-33.0* MCHC-33.3 RDW-15.5
+2014-12-31 00:00:00 01:30PM   DIGOXIN-0.3*
+2014-12-31 00:00:00 01:30PM   TSH-3.3
+2014-12-31 00:00:00 01:30PM   calTIBC-267 FERRITIN-786* TRF-205
+2014-12-31 00:00:00 01:30PM   ALBUMIN-4.0 CALCIUM-8.5 PHOSPHATE-10.8*#
+MAGNESIUM-2.3 IRON-104
+2014-12-31 00:00:00 01:30PM   CK-MB-22* MB INDX-3.7 cTropnT-0.36*
+2014-12-31 00:00:00 01:30PM   LIPASE-96*
+2014-12-31 00:00:00 01:30PM   ALT(SGPT)-38 AST(SGOT)-46* CK(CPK)-595* ALK
+PHOS-192* AMYLASE-137* TOT BILI-0.6
+2014-12-31 00:00:00 01:30PM   GLUCOSE-123* UREA N-272* CREAT-5.4*#
+SODIUM-126* POTASSIUM-7.5* CHLORIDE-92* TOTAL CO2-16* ANION
+GAP-26*
+2014-12-31 00:00:00 02:02PM   LACTATE-1.8 K+-7.5*
+2014-12-31 00:00:00 02:02PM   TYPE-Huntley PO2-60* PCO2-42 PH-7.21* TOTAL
+CO2-18* BASE XS--10 COMMENTS-GREEN TOP
+2014-12-31 00:00:00 03:54PM   K+-6.6*
+2014-12-31 00:00:00 05:00PM URINE  RBC-1 WBC-2 BACTERIA-FEW YEAST-NONE
+EPI-4
+2014-12-31 00:00:00 05:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+2014-12-31 00:00:00 05:00PM URINE  COLOR-Straw APPEAR-Clear SP Huntley-1.011
+2014-12-31 00:00:00 05:00PM URINE  U-PEP-MULTIPLE P IFE-NO MONOCLO
+OSMOLAL-371
+2014-12-31 00:00:00 05:00PM URINE  HOURS-RANDOM UREA N-577 CREAT-89
+SODIUM-27 TOT PROT-15 PROT/CREA-0.2
+2014-12-31 00:00:00 10:40PM   PT-33.0* PTT-150* INR(PT)-6.9
+2014-12-31 00:00:00 10:40PM   PLT COUNT-79*
+2014-12-31 00:00:00 10:40PM   WBC-7.4 RBC-2.52* HGB-8.2* HCT-24.1* MCV-96
+MCH-32.7* MCHC-34.2 RDW-15.2
+2014-12-31 00:00:00 10:40PM   PEP-NO SPECIFI
+2014-12-31 00:00:00 10:40PM   calTIBC-264 HAPTOGLOB-143 FERRITIN-761*
+TRF-203
+2014-12-31 00:00:00 10:40PM   TOT PROT-6.6 CALCIUM-8.1* PHOSPHATE-5.2*#
+MAGNESIUM-1.8 URIC ACID-3.4 IRON-90
+2014-12-31 00:00:00 10:40PM   CK-MB-20* MB INDX-3.9 cTropnT-0.34*
+2014-12-31 00:00:00 10:40PM   LD(LDH)-326* CK(CPK)-517* TOT BILI-0.7
+2014-12-31 00:00:00 10:40PM   GLUCOSE-140* UREA N-135* CREAT-2.8*#
+SODIUM-137 POTASSIUM-4.0 CHLORIDE-98 TOTAL CO2-26 ANION GAP-17
+
+Brief Hospital Course:
+In ED, noted to have renal failure, K+ 7.5 with EKG changes,
+given HCO3, 1L IVF, insulin, kayexelate, and transferred to
+MICU.
+.
+In MICU, interrogation of ICD showed no VT or VF but multiple
+episodes of NSVT. Pt tolerated two treatments of HD for
+uremia/hyperkalemia. He was started on
+hydrocortisone/fludrocortisone for adrenal insufficiency. Pt was
+evaluated for retroperitoneal hematoma/femoral hematoma w/
+femoral US/Abd CT which and showed femoral hematoma. He received
+3 units of PRBCs for decreased HCT and femoral hematoma. 2014-12-31 00:00:00
+during HD treatment, pt developed VT w/ recurrent ICD shocks,
+rhythm converted to VF, received lidocaine and amiodarone
+boluses, ICD was reprogrammed. Pt then transferred to CCU
+service for further observation.  While in the CCU pt had
+further episodes of VT and so antiarrhythmic regimen was
+changed.
+Patient became hypotensive in am of 2014-12-31 00:00:00 felt to be septic
+secondary to line sepsis from femoral cath. Patient started on
+Neo for pressure support. Patient mental status continued to
+deteriorate throughout day and into night. After lengthy
+discussion with family,family wished to make patient CMO.
+Patient ICD was turned off on 2014-12-31 00:00:00 so it would still pace but
+would not intervene if patient had arrythmia. Patient kept on
+morphine drip for comfort and all other meds d/c'd. The patient
+became more hypotensive and expired on 2014-12-31 00:00:00.
+
+Medications on Admission:
+Home meds: lasix 120 UPMCE, prilosec, diovan 80, coumadin,
+allopurinol 100, synthroid 25, prednisone 5, aldactone, dig
+.125, astelin
+
+Discharge Medications:
+NA
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+NA
+
+Discharge Condition:
+NA
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+
+Completed by:2014-12-31 00:00:00

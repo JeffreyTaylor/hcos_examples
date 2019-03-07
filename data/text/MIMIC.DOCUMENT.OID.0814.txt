@@ -1,0 +1,156 @@
+Admission Date:  2012-06-14 00:00:00              Discharge Date:   2012-06-14 00:00:00
+
+Date of Birth: 1938-06-14 00:00:00 00:00:00             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Adelai Burruano
+Chief Complaint:
+Dyspnea on Exertion with abnormal stress test
+
+Major Surgical or Invasive Procedure:
+Coronary Artery Bypass Graft x 3(LIMA->LAD, SVG->LCX, OM1)
+2012-06-14 00:00:00
+
+History of Present Illness:
+This 77F has a history of HTN had increased DOE and had a +ETT.
+She underwent cardiac cath on 2012-06-14 00:00:00 at UPMCE which revealed:
+LVEF of 80%, 60%LM Stachowski., 70% mid LAD, 80% LCX, 80%OM1, 60% RCA.
+ She is now admitted for elective CABG.
+
+Past Medical History:
+Hypertension
+Diverticulosis
+Cervical cancer
+R breast cancer-s/p R mastectomy 2012-06-14 00:00:00
+Skin cancer s/p removal
+
+Social History:
+Lives alone
+Cigs: none
+ETOH: occasional
+
+Family History:
++CAD
+
+Physical Exam:
+Elderly WF in NAD
+HEENT: NC/AT, PERLA, EOMI, oropharynx benign
+Neck: supple, FROM, no lymphadenopathy or thyromegaly, carotids
+2+= bilat. without bruits.
+Lungs: Clear to A+P
+CV: RRR without R/G/M, nl. S1, S2
+Abd: +BS, soft, nontender without masses or hepatosplenomegaly.
+Ext.: no C/C/E, pulses 2+= bilat.
+Neuro: nonfocal
+
+Pertinent Results:
+Echo 2012-06-14 00:00:00: PRE-CPB: Left ventricular wall thickness, cavity
+size, and systolic function are normal (LVEF>55%). There are
+simple atheroma in the descending thoracic aorta. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. No aortic regurgitation is seen. The mitral valve
+leaflets are moderately thickened. Trivial mitral regurgitation
+is seen. There is a small pericardial effusion. POST-CPB No
+changes from pre-CPB
+CXR 2012-06-14 00:00:00: Tiny right apical pneumothorax and small layering
+bilateral pleural effusion are unchanged. Moderate cardiomegaly
+stable. Lateral view shows subcutaneous emphysema in the right
+anterior thoracoabdominal wall is unchanged. Left lower lobe
+atelectasis has improved. Moderate cardiomegaly is stable.
+2012-06-14 00:00:00 11:44AM BLOOD WBC-5.7 RBC-1.43*# Hgb-4.4*# Hct-12.7*#
+MCV-89 MCH-30.4 MCHC-34.3 RDW-13.1 Plt Ct-73*#
+2012-06-14 00:00:00 12:54PM BLOOD WBC-13.2* RBC-3.90* Hgb-11.7* Hct-33.3*
+MCV-85 MCH-29.9 MCHC-35.0 RDW-13.1 Plt Ct-145*
+2012-06-14 00:00:00 05:20AM BLOOD WBC-9.5 RBC-2.94* Hgb-8.9* Hct-25.8*
+MCV-88 MCH-30.2 MCHC-34.4 RDW-13.5 Plt Ct-269
+2012-06-14 00:00:00 12:54PM BLOOD PT-14.8* PTT-37.3* INR(PT)-1.3*
+2012-06-14 00:00:00 12:54PM BLOOD UreaN-16 Creat-0.7 Cl-113* HCO3-22
+2012-06-14 00:00:00 05:20AM BLOOD Glucose-115* UreaN-16 Creat-0.8 Na-140
+K-4.7 Cl-101 HCO3-31 AnGap-13
+
+Brief Hospital Course:
+The patient was a same day admit and on 2012-06-14 00:00:00 and she underwent a
+Coronary Artery Bypass Graft x 3(LIMA->LAD, SVG->LCX, OM1). She
+tolerated the procedure well and was transferred to the CSRU for
+invasive monitoring in stable condition on Propofol and Neo. She
+was weaned from sedation, awoke neurologically intact and was
+extubated on the postop night. On post-op day one she was
+transferred to the floor. Beta blockers and diuretics were
+initiated. Diuretics were adjusted towards pre-op weight. Her
+chest tubes were removed on post-op day two and epicardial
+pacing wires on post-op day three. Following chest tube removal,
+a small right-sided apical pneumothorax was seen. On post-op day
+four a right-side chest tube was placed with serial chest x-rays
+throughout rest of hospital course. Besides from the small
+pneumothorax, she made a good recovery. Her chest tube was
+removed on post-op day six and the post-pull chest x-ray
+revealed no pneumothorax. Physical therapy followed patient
+during entire post-op course for strength and mobility. She
+appeared to be doing well and was discharged on post-op day
+seven.
+
+Medications on Admission:
+ASA 325 mg PO daily
+Atenolol 25 mg PO daily
+Zocor 40 mg PO daily
+
+Discharge Medications:
+1. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+4. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Propoxyphene N-Acetaminophen 100-650 mg Tablet Sig: One (1)
+Tablet PO Q6H (every 6 hours) as needed.
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 7 days.
+7. Potassium Chloride 10 mEq Capsule, Sustained Release Sig:
+Four (4) Capsule, Sustained Release PO Q12H (every 12 hours) for
+7 days.
+8. Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+10. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. Health Care Center
+
+Discharge Diagnosis:
+Coronary artery disease s/p Coronary Artery Bypass Graft x 3
+PMH: Hypertension, Diverticulosis, Cervical Cancer, R Breast
+Cancer s/p Mastectomy, Skin Cancer s/p removal
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+Do not drive for 4 weeks.
+Do not lift more than 10 lbs. for 2 months.
+Shower daily, let water flow over wounds, pat dry with a towel.
+Do not use lotions, creams, or powders on wounds. Do not take
+bath.
+Call our office for sternal drainage, temp>101.5.
+
+Followup Instructions:
+Provider: Dijohn Stachowski,Dijohn Stachowski Dijohn Stachowski.  test@mail.com  Follow-up
+appointment should be in 1 week
+Provider: Dijohn Stachowski,Dijohn Stachowski  test@mail.com  Follow-up appointment
+should be in 1 month
+Provider: Dijohn Stachowski,[**First Name3 (LF) **] E.  test@mail.com  Follow-up
+appointment should be in 2 weeks
+
+
+Completed by:2012-06-14 00:00:00

@@ -1,0 +1,592 @@
+Admission Date:  2010-05-09 00:00:00              Discharge Date:   2010-05-09 00:00:00
+
+Date of Birth: 1945-11-10 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Codeine / Nsaids / Levaquin
+
+Attending:Ahmi Kilkeary
+Chief Complaint:
+transfer s/p pericardial window
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+In brief, this is a 34 yoF with hypertrophic cardiomyopathy,
+multiple atrial arrhythmias including atrial tachycardia, atrial
+fibrillation, left atrial tachycardia, and AVNRT s/p recent
+pulmonary vein isolation procedure 2010-05-09 00:00:00 c/b peristent atrial
+tachycardia, respiratory failure and pneumonia who was
+readmitted to UPMCE on 2010-05-09 00:00:00 with chest pain and shortness of
+breath.  She initially presented to an OSH w/ intermittent 2010-05-09 00:00:00
+chest pain radiating to the arms associated with SOB. CT chest
+was negative for PE or dissection. She was found to have a
+pericardial effusion with RV compression as well as a
+pericardial clot on TTE.  She was sent to the OR for pericardial
+window on 2010-05-09 00:00:00 which showed "fluid under pressure" without
+complication. She was extubated on POD 1 without incident.  She
+had elevated CVPs and was diuresed with improvement in CVPs from
+30s->20s.  Post-op, also had Atach w/ 2010-05-09 00:00:00 and was loaded with IV
+amio. Her home dose verapamil also initiated with improved HR
+control.  Chest tube was discontinued today, 2010-05-09 00:00:00.  Patient
+continues to breath comfortably, but with significant O2
+requirement.
+.
+Currently, the patient complains of discomfort at prior chest
+tube site as well as very mild SOB but improving.  She denies
+any other complaints at this time.
+
+
+Past Medical History:
+# Hypertrophic cardiomyopathy.
+- Cardiac MR on 2010-05-09 00:00:00 with asymmetric LVH with maximal wall
+thickness of 19mm at mid septum with focal hyperenhancement
+consistent with hypertrophic CM. EF 55%.
+# SVT with A fib, left atrial tach and AVNRT s/p pulmonary vein
+isolation on 2010-05-09 00:00:00.
+# Questionable history of WPW
+# Tobacco use with bronchitis and associated multifocal a tach.
+
+# Anxiety
+# Obesity
+# Asthma, ?COPD
+.
+Cardiac History:
+The patient initially presented with syncope at age of l2. At
+l3, the patient was seen at UPMCE for history of
+syncope, chest pain and progressive exercise intolerance. She
+was found to have hypertrophic cardiomyopathy. She was
+subsequently cathed. Left
+ventricular end diastolic pressure was found to be 20. She was
+then started on chronic Verapamil therapy. At age l6, she
+experienced cardiac arrest secondary to complex tachycardia. She
+was successfully resuscitated. Repeat catheterization showed
+left ventricular end diastolic pressure of 36-40 without outflow
+tract obstruction. EP showed inducible atrial flutter with a
+rapid ventricular blood pressure. She was felt to have a rapid
+antegrade
+conduction and possible pre-excitation. She was started on
+Norpace. Since then, the patient has been stable on Verapamil
+and Norpace with occasional palpitations, chest pain and light
+headedness.
+.
+
+Social History:
+Currently on disability. 40 pack-year smoker (2ppd x20 years)
+quit since recent bronchitis. No EtOH. Regular marijuana use.
+
+Family History:
+Family history remarkable for hypertrophic cardiomyopathy and
+congenital aortic stenosis s/p cardiac surgery during infancy.
+No family history of sudden cardiac death or premature CAD.
+
+
+Physical Exam:
+VS  97.2, 97/71, 79, 26, 94% 6LNC
+Gen: Obese, pale appearing female in NAD
+HEENT: NCAT. MMM. OP clear. EOMI. PERRL.
+Neck: Supple. R IJ CVL CDI.  Cannot assess JVP.
+CV: Sutures at substernal surgical site dressed, CDI. Distant
+heart sounds. Irreg irreg. Normal S1 and S2. No M/R/G.
+Pulm: Decreased BS at bases w/ faint crackles bilat.
+Abd: Obese, Soft, nontender. No organomegaly or masses.
+Ext: Trace bilateral lower extremity edema. Cool extremities. 2+
+DP pulses bilat.
+Neuro: A&Ox3. Moving all extremities.
+
+
+Pertinent Results:
+2010-05-09 00:00:00 09:15AM BLOOD WBC-17.4*# RBC-3.19* Hgb-9.6* Hct-30.2*
+MCV-95 MCH-30.1 MCHC-31.9 RDW-13.5 Plt Ct-696*#
+2010-05-09 00:00:00 05:01AM BLOOD WBC-28.7* RBC-4.27 Hgb-12.4 Hct-40.3
+MCV-95 MCH-29.1 MCHC-30.8* RDW-17.1* Plt Ct-403
+2010-05-09 00:00:00 08:09AM BLOOD WBC-32.9* RBC-4.30 Hgb-12.4 Hct-40.3
+MCV-94 MCH-28.9 MCHC-30.9* RDW-16.3* Plt Ct-432
+2010-05-09 00:00:00 06:00AM BLOOD WBC-33.0* RBC-4.42 Hgb-12.7 Hct-41.3
+MCV-94 MCH-28.8 MCHC-30.8* RDW-16.4* Plt Ct-481*
+2010-05-09 00:00:00 12:07PM BLOOD WBC-38.4* RBC-4.42 Hgb-12.6 Hct-42.9
+MCV-97 MCH-28.6 MCHC-29.4* RDW-16.2* Plt Ct-510*
+2010-05-09 00:00:00 02:00AM BLOOD PT-20.0* PTT-29.0 INR(PT)-1.9*
+2010-05-09 00:00:00 02:00AM BLOOD PT-19.5* PTT-26.4 INR(PT)-1.8*
+2010-05-09 00:00:00 02:39AM BLOOD Fibrino-515*# D-Dimer-3283*
+2010-05-09 00:00:00 11:11AM BLOOD FDP-0-10
+2010-05-09 00:00:00 03:10PM BLOOD Glucose-148* UreaN-11 Creat-1.0 Na-130*
+K-3.6 Cl-93* HCO3-25 AnGap-16
+2010-05-09 00:00:00 02:20AM BLOOD ALT-25 AST-33 LD(LDH)-457* AlkPhos-102
+Amylase-21 TotBili-0.6
+2010-05-09 00:00:00 02:00AM BLOOD ALT-1061* AST-967* LD(LDH)-676*
+AlkPhos-98 TotBili-0.7
+2010-05-09 00:00:00 12:07PM BLOOD Lipase-653*
+2010-05-09 00:00:00 05:20AM BLOOD Lipase-245*
+2010-05-09 00:00:00 03:56AM BLOOD Lipase-192*
+2010-05-09 00:00:00 02:20AM BLOOD Lipase-140*
+2010-05-09 00:00:00 09:15AM BLOOD cTropnT-<0.01
+2010-05-09 00:00:00 02:00AM BLOOD Calcium-9.0 Phos-2.7 Mg-1.7
+2010-05-09 00:00:00 02:00AM BLOOD calTIBC-296 VitB12-1702* Folate-19.2
+Ferritn-1506* TRF-228
+2010-05-09 00:00:00 05:20AM BLOOD Hapto-195
+2010-05-09 00:00:00 12:07PM BLOOD Triglyc-311*
+2010-05-09 00:00:00 05:41AM BLOOD TSH-2.2
+2010-05-09 00:00:00 05:01PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2010-05-09 00:00:00 04:20PM BLOOD Lactate-16.2*
+2010-05-09 00:00:00 10:01PM BLOOD Lactate-5.9*
+2010-05-09 00:00:00 01:56AM BLOOD Lactate-2.3*
+2010-05-09 00:00:00 06:30AM BLOOD ASPERGILLUS GALACTOMANNAN ANTIGEN-
+TEST
+2010-05-09 00:00:00 06:30AM BLOOD B-GLUCAN-Test
+2010-05-09 00:00:00 05:04AM BLOOD WBC-16.5* RBC-2.74* Hgb-8.0* Hct-26.1*
+MCV-95 MCH-29.2 MCHC-30.7* RDW-21.0* Plt Ct-467*
+2010-05-09 00:00:00 02:20AM BLOOD WBC-26.4* RBC-2.73* Hgb-8.0* Hct-25.6*
+MCV-94 MCH-29.3 MCHC-31.2 RDW-18.2* Plt Ct-379
+2010-05-09 00:00:00 03:09AM BLOOD WBC-20.8* RBC-3.15* Hgb-9.3* Hct-29.6*
+MCV-94 MCH-29.5 MCHC-31.4 RDW-18.5* Plt Ct-447*
+2010-05-09 00:00:00 05:04AM BLOOD PT-21.5* INR(PT)-2.0*
+2010-05-09 00:00:00 04:39AM BLOOD Glucose-99 UreaN-10 Creat-1.0 Na-128*
+K-4.4 Cl-93* HCO3-24 AnGap-15
+2010-05-09 00:00:00 05:04AM BLOOD Glucose-106* UreaN-15 Creat-1.1 Na-128*
+K-4.6 Cl-94* HCO3-23 AnGap-16
+2010-05-09 00:00:00 02:20AM BLOOD ALT-25 AST-33 LD(LDH)-457* AlkPhos-102
+Amylase-21 TotBili-0.6
+2010-05-09 00:00:00 04:39AM BLOOD Calcium-8.7 Phos-3.0 Mg-1.8
+
+TTE 2010-05-09 00:00:00:
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size. There is mild global left ventricular hypokinesis
+(LVEF = 50%). Right ventricular chamber size is normal. with
+borderline normal free wall function. There is mild pulmonary
+artery systolic hypertension. There is a small pericardial
+effusion with an echodense anterior epicardial collection. No
+right atrial or right ventricular diastolic colla123 Any St. seen.
+
+IMPRESSION: Small pericardial effusion without echo signs of
+tamponade. Anterior echodense epicardial collection, likely
+representing a thrombus.
+
+Compared with the prior study (images reviewed) of 2010-05-09 00:00:00,
+the findings are similar.
+
+Cardiac MR:
+There was normal epicardial fat distribution. The myocardium
+appeared to have homogenous signal intensity without evidence of
+myocardial fatty infiltration. The pericardial thickness was
+mildly thickened, without CMR evidence of significant
+accumulation of thrombus within the pericardial space. There was
+a small pericardial effusion and bilateral small to moderate
+pleural effusions. There was a moderate degree of epicardial fat
+anterior to the right ventricle, which measured up to 16mm in
+thickness in the anterior interventricular groove. The origins
+of the left main and right coronary arteries were identified in
+their customary positions. The indexed diameters of the
+ascending and descending thoracic aorta were normal. The main
+pulmonary artery diameter index was mildly increased. The left
+atrial AP dimension was moderately increased. The right and left
+atrial lengths in the 4-chamber view were moderately and
+severely increased, bilaterally. The coronary sinus diameter was
+normal.
+The left ventricular end-diastolic dimension index was normal.
+The end- diastolic volume index was normal. The calculated left
+ventricular ejection fraction was normal at 67% with normal
+regional systolic function. There was no abnormal septal motion
+to suggest constriction, although this cannot be excluded. The
+anteroseptal wall thickness was mildly thickened and the
+inferolateral wall thickness was normal, to a degree which met
+criteria for asymmetric left ventricualr hypertrophy (greater
+than 1.5:1). The left ventricular mass index was normal. The
+right ventricular end-diastolic volume index was normal. The
+calculated right ventricular ejection fraction was normal at
+64%, with normal free wall motion.
+
+Quantitative Flow
+There was no significant intra-cardiac shunt. Aortic flow
+demonstrated no significant aortic regurgitation. The calculated
+mitral valve regurgitant fraction was consistent with moderate
+to severe mitral regurgitation. The resultant effective forward
+LVEF was mildly reduced at 46%. The right ventricular stroke
+volume and pulmonic flow demonstrated no significant pulmonic
+and moderate tricuspid regurgitation.
+
+Myocardial Fibrosis
+There was regional hyperenhancement in the anteroseptum and
+inferoseptum at the right ventricular insertion site, consistent
+with hypertrophic cardiomyopathy. There was no focal
+hyperenhancement in the ventricular or atrial free walls to
+suggest myocardial injury or perforation.
+
+Pulmonary Vein MR Angiography
+Three right-sided pulmonary veins and two left-sided pulmonary
+veins were identified, all entering the left atrium and free of
+focal stenoses (dimensions listed above). The multiplanar
+reconstructions confirmed the above findings. There was a mild
+decrease in the cross-sectional area of the left lower pulmonary
+vein (28%) without CMR evidence of obstruction.
+
+Additional Findings
+Mild hilar lymphadenopathy and a borderline enlarged pretracheal
+lymph node measuring 22 x 14 mm were seen.
+
+Impression:
+1. Normal left ventricular cavity size with normal regional left
+ventricular systolic function. The LVEF was normal at 67%. The
+effective forward LVEF was mildly reduced at 46%. No CMR
+evidence of prior myocardial scarring/infarction. Late
+gadolinium contrast-enhanced CMR images demonstrating areas of
+hyperenhancement in the anteroseptum and inferoseptum as
+described above.
+2. There is no CMR evidence of myocardial rupture or significant
+thrombus within the pericardium. The pericardium is mildly
+thickened. A small pericardial effusion was seen. There is a
+moderate amount of epicardial fat in the anterior
+interventricular groove.
+3. Normal right ventricular cavity size and systolic function.
+The RVEF was normal at 64%.
+4. Moderate to severe mitral regurgitation. Moderate tricuspid
+regurgitation.
+5. The indexed diameters of the ascending and descending
+thoracic aorta were normal. The main pulmonary artery diameter
+index was mildly increased.
+6. Moderate right and severe left atrial enlargement.
+7. Normal size and orientation of the pulmonary veins without
+CMR evidence of pulmonary vein stenosis. There was a mild
+decrease in the cross-sectional area of the left lower pulmonary
+vein.
+8. No evidence of pericardial constriction found.
+
+Compared to the prior study of 2010-05-09 00:00:00, the mitral and
+tricuspid regurgitation has worsened, and the pericardial
+effusion is new.
+
+LENIS:
+1. No evidence of DVT in either lower extremity.
+
+CT chest w/contrast 2010-05-09 00:00:00:
+. Mild cardiogenic pulmonary edema characterized by the presence
+of scattered ground-glass opacities, septal thickening, and
+cardiomegaly, particularly the left atrium.
+2. Bibasilar atelectasis with adjacent small right more than
+left pleural effusion.
+3. A right upper lobe consolidation with cavitation worrisome
+for pneumonia.
+4. A left upper lobe wedge-shaped non-enhancing opacity
+worrisome for pulmonary infarct secondary to a coexistent
+pulmonary embolism.
+Further evaluation to exclude or confirm coexistent pulmonary
+embolism is recommended. Information was telephoned to Dr.
+[**First Name8 (NamePattern2) 1863**] Gruszka at approximately 4:30 p.m.
+5.The lymph nodes are rather enlarged for a cardiogenic cause
+like heart
+failure.Other causes including neoplam should be investigated.
+
+CT abd/pelvis 2010-05-09 00:00:00:
+. Consolidation within the right middle lobe has the appearance
+of pneumonia. Direct comparison to the prior chest CT is not
+possible. There are two non enhancing foci within the
+atelectatic changes of the both lower lobes which might
+represent foci of infection.
+
+2. Interval increase in moderate right and small left pleural
+effusion.
+
+3. Free fluid in the pelvis presacral space possibly due to CHF.
+
+4. No intraabdominal source of infection is identified.
+
+Right heart cath 2010-05-09 00:00:00:
+1.  In the cath laboratory holding area before the procedure
+began Ms.
+Gruszka became hypoxic with pulse oximetery showing saturations
+85-95%.
+Coincident with the hypoxic she had junctional bradycardia with
+a
+ventricular rate of approximately 20 bpm.  She was given
+atropine and
+transcutaneous pacing pads were applied.  Transcutaneous pacing
+was
+begun with electrical capture of the ventricle, however she soon
+became
+pulseless.  CPR was promptly begun.  She recieved several
+epinephrine IV
+boluses.  Multiple attempts were made for arterial access
+without
+success.  She was intubated without difficultly by Dr. Gruszka
+from
+anesthesia.  Compressions were continued throughout this time,
+stopping
+only to check pulses.  An echocardiogram was done that showed no
+
+reaccumulation of pericardial fluid.  She regained her pulse
+intermittently throughout this period.  She was started on
+continous
+epinephrine, levophed, and neosyne123 Any St.e infusions.  Possible
+hyperkalemia was treated with CaCl, insulin, and bicarbonate.
+Bilateral
+breath sounds were present thoughout the event. Ultrasound was
+used to
+access the right axiallary vein.
+2.  The patient was then moved from the holding area into the
+catheterization laboratory.  Resting hemodynamics revealed an
+elevated
+mean right atrial pressure of 37 mmHg.  There was pulmonary
+arterial
+hypertension with a pulmonary artery pressure of 72/38
+(systolic/diastolic in mmHg).  Mean pulmonary capillary wedge
+pressure
+was markedly elevated at 39 mmHg.  Cardiac index was perserved
+at 2.6
+l/min/m2.
+3.  Floroscopy was performed to confirm endotrachial tube
+position.  At
+this time there was noted to be a large right pleural fluid
+collection
+and possible pneumothorax.  The pulmonary service promptly
+placed a
+chest tube.
+4.  Given the elevated filling pressures and liklihood of
+minimal
+diuresis given the presumed insult to her kidneys during the
+arrest,
+renal was called and placed a left femoral hemodyalsis catheter
+to be
+used upon transfer to the CCU.
+5.  Before transfer to CCU she had adequate blood pressure and
+vasopressors were weened to minimal levels.
+6.  Drs. Gruszka and Jacklon Gruszka present throughout all events above.
+Report
+given to Drs. Gruszka, Jacklon Gruszka, and the CCU housestaff who will
+continue
+care.
+
+RUQ U/S:
+Unremarkable study. No cholelithiasis.
+
+Brief Hospital Course:
+34 yo F with hypertrophic cardiomyopathy, multifocal atrial
+tachycardia, atrial fibrillation, left atrial tachycardia, and
+AVNRT, obesity, anxiety s/p recent pulmonary vein isolation
+procedure admitted with chest pain and shortness of breath found
+to have a pericardial effusion with compression of RV now s/p
+pericardial window w/ improved heart rate control but persistent
+volume overload.
+.
+# pericardial effusion:  She received a pericardial window on
+2010-05-09 00:00:00 with multiple follow up echocardiograms showing no
+reacculmulation of the fluid. The fluid was negative for all
+infectious and malignant studies.
+.
+# Rhythm. History of multiple atrial tachyarrhythmias s/p recent
+failed ablation.  Anticoagulated w/ coumadin as outpt. Patient
+was initially controlled with verapamil and was then loaded with
+amiodarone. She was initially in normal sinus rhythm but then
+converted to atrial fibrillation. He rate control was changed to
+metoprolol and titrated up with good effect. She was continued
+on a heparin drip during her admission and restarted on her
+coumadin. For control of her rate, patient was titrated up to
+100mg PO TID of metoprolol, increased to 200mg PO BID of
+amiodarone, and started on verapamil 40mg TID. The EP service
+was following the patient, and no indication for emergent AV
+ablation/pacemaker placement during this hospitalization,
+however, may consider this at a later date. Prior to procedure,
+R PICC and US evaluation of carotid and subclavian vessels will
+need to be done.  She was reanticoagulated with heparin bridge
+to coumadin and on day of discharge INR was 2.0
+.
+# Pump
+Hypertrophic cardiomyopathy w/o obvious obstruction on ECHO. The
+patient appeared to be volume overloaded on presentation to the
+CCU and initially responded well to IV lasix. However, she
+eventually became more resistant to lasix and started to retain
+fluid. However, her fluid status became unclear as her labs
+appeared consistent with hypovolemia but her exam was consistent
+with hypervolemia. She was sent to the cath lab on 2010-05-09 00:00:00 for a PA
+line. She was given 1 unit of FFP prior to reverse an elevated
+INR. She was found in the holding area pulseless and in
+bradycardic PEA arrest. She was actively coded for approximately
+1 hour with multiple rounds of epi and atropine. She was
+intubated during this time.  She regained a perfusing rhythm. A
+PCWP taken at that time was 40, confirming her volume overload
+status. She was begun on CVVH for aggressive fluid removal.
+Approximately 10-12L was removed in this fashion with subsequent
+improvement in her hypoxia with weening to room air.
+.
+# Respiratory failure: The patient was initially hypoxic due to
+volume overload and then was intubated during her PEA arrest.
+Fluid was removed with CVVH and she was extubated approximately
+6 days later. However, 2 days after that, she had what appeared
+to be an aspiration event with subsequent hypoxia requiring
+reintubation.  Intubation was complicated by pneumothorax for
+which she had a right chest tube placed on 2010-05-09 00:00:00.  She was
+treated for an aspiration pneumonia with aztreonam and
+clindamycin for a total 10 day course. She again extubated and
+did well, eventually weaning to room air.
+.
+# anterior commisure granuloma
+In the setting of her intubations, she developed hoarseness.
+ENT was consulted who felt patient had a anterior commissure
+granuloma.  They recommended PPI therapy and outpatient followup
+after discharge to ensure resolution of the granuloma.  She
+shoul call test@mail.com to schedule an appointment
+.
+# Acute Renal Failure due to acute tubular necrosis: The patient
+developed anuric renal failure after her PEA arrest from
+hypotension associated ATN. She was initially management with
+CVVH with good effect. A right IJ tunnelled triple lumen
+catheter was placed. She was eventually transitioned to daily
+HD. Her Cr continued to improve 1.1 at time of discharge.  Renal
+consult team felt that she was unlikely to require dialysis in
+the future and R IJ HD line was removed on day of discharge.
+She was given 1 unit of FFP prior to removal of this line as her
+INR was 2.0.
+.
+# Leukocytosis and Fever
+The patient has had a persistent leukocytosis with intermittent
+fevers initially. She was diagnosed with a RML/RLL pneumonia,
+likely aspiration based and completed a 10 day course of
+aztreonam and clindamycin. However, her leukocytosis persisted.
+No positive culture had been obtained at the time of this
+writing including multiple sets of blood cultures, urine
+cultures, sputum cultures, a BAL, culture of pleural fluid,
+b-glucan, galactomannan, urine legionella, c.diff x3, and a
+viral DFA. At the time of this writing, the source of her
+leukocytosis is unclear. She did exhibit enlarged lymph nodes on
+a CT chest, which may be reactive or related to an unclear
+malignancy. She should have a follow up chest CT in
+approximately 3 months.
+.
+# Pancreatitis: On 2010-05-09 00:00:00, the patient noted new onset abdominal
+pain and a CT abdomen noted peripancreatic inflammation,
+confirmed by chemical pancreatitis. A RUQ U/S showed no gall
+stones or cholecystitis. The pancreatitis was likely drug
+related, possibly related to the flagyll that she was given
+earlier in her pneumonia course. The flagyl was stopped and the
+pancreatitis resolved.
+.
+# left groin wound
+slow healing site of catheterization from PVI but on day of
+discharge did not appear infected (nontender, no spreading
+erythema, no purulent drainage).  Some white granulation tissue
+present.  Groin wound should be monitored for progression.
+.
+# Communication: Fiance [**Doctor Last Name **] test@mail.com or uncle Jacklon Gruszka
+test@mail.com
+
+Medications on Admission:
+Montelukast 10 mg Daily
+Sertraline 150 mg Daily
+Aspirin 325 mg Daily
+Bupropion 75 mg Daily
+Amiodarone 200 mg 3 times a day
+Acetaminophen 160 mg/5 mL PO every 6 hours as needed
+Pantoprazole 40 mg Daily
+Clonazepam 1 mg 4 times a day
+Verapamil 360 mg Daily
+Trazodone 200 mg at bedtime as needed
+Percocet 5-325 mg 1-2 Tablets twice a day as needed
+
+Discharge Medications:
+1. Sertraline 50 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+2. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Bupropion 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed.
+6. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) as needed.
+7. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed.
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+11. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed.
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+13. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day): hold for SBP<85 with symtpoms or HR<60.
+14. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+15. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+16. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+17. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every
+4 hours) as needed for pain.
+18. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours): for use while having back pain.
+19. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO DAILY16 (Once
+Daily at 16): goal INR 2010-05-09 00:00:00.
+20. Verapamil 40 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours): hold for SBP<85 with symptoms.
+21. Loperamide 2 mg Capsule Sig: 2010-05-09 00:00:00 Capsules PO QID (4 times a
+day) as needed for diarrhea: 4mg for first episode, 2mg for
+subsequent episodes.
+22. Zyprexa Zydis 5 mg Tablet, Rapid Dissolve Sig: 0.5-1 Tablet,
+Rapid Dissolve PO four times a day as needed for nausea.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary:
+Pericardial effusion/tamponade
+Hypertrophic cardiomyopathy
+PEA arrest
+Acute tubular necrosis requiring temporary hemodialysis
+atrial tachycardia
+aspiration pneumonia
+acute pancreatitis
+surgical wounds in chest (from chest tube) and left groin (from
+ablation)
+
+
+Discharge Condition:
+Stable - SBP low 85-95 occassionally symptomatic but improving
+with lower dose of verapamil (40mg TID) and metoprolol 100mg
+TID.
+
+
+Discharge Instructions:
+You were admitted with chest pain and found to have fluid around
+your heart.  This was treated with a surgery to drain the fluid.
+During your hospital stay you suffered a cardiac arrest.  This
+had multiple complications but you have recovered very well from
+these complications.  We are sending you to a rehabillitation
+facillity to help you regain your strength.
+For your heart failure:
+Weigh yourself every morning, Jacklon Gruszka MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+.
+If you experience chest pain, shortness of breath, fevers,
+severe lightheadedness, or any other new or concerning symptoms,
+please contact your PCP or come to the emergency room.
+
+Followup Instructions:
+Please followup with your PCP Gruszka. Gruszka on Tuesday 2010-05-09 00:00:00
+at 3pm.
+call 2010-05-09 00:00:00 if this is a problem.
+.
+check BUN/creatinine on monday or tuesday (2010-05-09 00:00:00 or 2010-05-09 00:00:00) - if
+greater than 15/1.1 please have patient followup in the
+nephrology clinic (test@mail.com
+.
+Please followup with Dr. Ahmi Kilkeary on 2010-05-09 00:00:00 at 1:40pm.
+ Please call (test@mail.com if this is a problem.  We will
+contact Dr.Jacklon Gruszka office to see if you can be seen sooner
+by one of his colleagues.  Their office will contact you to
+reschedule
+
+
+

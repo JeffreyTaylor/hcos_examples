@@ -1,0 +1,73 @@
+Admission Date:  2012-08-19 00:00:00     Discharge Date:  2012-08-19 00:00:00
+
+Date of Birth: 1963-08-06 00:00:00 00:00:00     Sex:  F
+
+Service:  Neurosurgery
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 61-year-old
+female with a history of brain tumor.  MRI scan showed right
+cerebellar mass.
+
+PAST MEDICAL HISTORY:  Past medical history includes breast
+cancer with lumpectomy in 2012-08-19 00:00:00, carpal tunnel syndrome, sleep
+apnea, gastroesophageal reflux disease.
+
+PAST SURGICAL HISTORY:  123 Any St.us surgery included lumpectomy
+in 2012-08-19 00:00:00, hysterectomy in 2012-08-19 00:00:00, thyroid nodule excision.
+
+ALLERGIES:  The patient had no known drug allergies.
+
+PHYSICAL EXAMINATION ON ADMISSION:  On physical examination,
+this was an obese woman in no acute distress.  HEENT was
+anicteric.  A well-healed incision.  Chest was clear to
+auscultation.  Cardiac revealed S1 and S2, a regular rate and
+rhythm.  Abdomen was obese, soft, a well-healed midline
+incision.  Extremities revealed slight edema of the bilateral
+lower extremities, nonpitting, easily palpable dorsalis pedis
+and posterior tibialis pulses.
+
+HOSPITAL COURSE:   The patient was admitted on 2012-08-19 00:00:00, status post right suboccipital craniotomy for resection
+of cerebellar mass.  There were no intraoperative
+complications.
+
+Postoperatively, the patient was monitored in the Surgical
+Intensive Care Unit where she was awake, alert, and oriented
+times three, moved all extremities with good strength.  No
+drift.  Lungs were clear to auscultation.  A regular rate and
+rhythm.
+
+The patient was transferred to the regular floor on
+postoperative day one in stable condition. Her face was
+symmetric.  Extraocular movements were full.  Followed 3-step
+commands, awake, alert, and oriented times three.  The
+patient was seen by Physical Therapy and found to require
+three to four days of Physical Therapy treatment prior to
+discharge to home.  The patient did receive that treatment,
+and is now stable for discharge home.
+
+MEDICATIONS ON DISCHARGE:  Her medications at the time of
+discharge were Decadron taper off over two weeks time,
+Percocet one to two tablets p.o. q.4h. p.r.n, Zantac 150 mg
+p.o. b.i.d.  She is also on Lopressor 50 mg p.o. b.i.d.
+
+DISCHARGE DISPOSITION:  Vital signs were stable, and the
+patient was afebrile at the time of discharge.
+
+DISCHARGE FOLLOWUP:  The patient was to follow up in the
+Brain Tumor Clinic in one week for staple removal and follow
+up in the Brain Tumor Clinic with Dr. Jadius Kaputa.
+
+CONDITION AT DISCHARGE:  Her condition was stable at the time
+of discharge.
+
+
+
+                          Jadius Kaputa, M.D.  21457
+
+Dictated By:Jadius Kaputa
+
+MEDQUIST36
+
+D:  2012-08-19 00:00:00  10:01
+T:  2012-08-19 00:00:00  13:47
+JOB#:  21457

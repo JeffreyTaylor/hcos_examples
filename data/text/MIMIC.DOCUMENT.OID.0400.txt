@@ -1,0 +1,549 @@
+Admission Date:  2005-05-13 00:00:00              Discharge Date:   2005-05-13 00:00:00
+
+Date of Birth: 1953-05-13 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Unasyn / Oxycodone
+
+Attending:Arvydas Sumling
+Chief Complaint:
+ICD firing, CHF exacerbation
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+64 year old male with PMHx of severe non-ischemic cardiomyopathy
+with EF 25%, s/p ICD placement 2005-05-13 00:00:00, mild-mod MR/TR, DM, ICD,
+Afib on coumadin, gout, hypothyroidism, CKD p/w vtach and ICD
+firing.  Last Wednesday he returned from 123 Any St. which is where
+he spends most of the year.  He went to clinic to see Dr. Chawn
+day prior to admission and appeared volume overloaded, admitted
+to running out of his prescriptions for at least 2 weeks.  He
+also had not been adhering to low salt diet. Amiodarone was
+started in clinic for device discharges, noted to have seven
+episodes of VF and VT on device check yesterday.  This morning,
+his ICD fired again and was advised to go to ED.  He felt no sx
+when his ICD fired, butper report from wife, he appeared to have
+seizure activity during this morning's shock.
+.
+In the ED, VS were 98.2 73 119/67 20 100%.  He was noted to be
+fluid overloaded on exam.  Seen by EP in the ED who recommended
+amiodarone loading for multiple episodes of VT/VF.
+.
+On arrival to floor, he complains of being tired.  No chest
+pain, shortness of breath, nausea, vomiting.  His lower
+extremities are swollen but he says this is stable.  Also has
+chronic orthopnea.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+palpitations, syncope or presyncope.
+
+
+Past Medical History:
+Nonischemic cardiomyopathy, LVEF 15-20%
+ICD placement for primary prevention of sudden cardiac death
+Diabetes mellitus type 2 insulin dependent
+Gout
+Peripheral neuropathy
+Chronic atrial fibrillation
+Chronic kidney disease
+Elevated transaminases, unknown etiology
+Umbilical hernia repair, 2005-05-13 00:00:00
+Gallstone pancreatitis s/p ERCP (2005-05-13 00:00:00)
+Internal hemorrhoids
+Hemoglobin C carrier
+
+
+Social History:
+The patient is originally from 123 Any St. currently living with his
+wife.  Returned to 123 Any St. this past fall, but came back to US
+after severe gout flare of his foot.  No smoking.  He quit
+alcohol use, no IV drug use.  He says his diet is generally
+difficult because he
+feels like any food he eats causes gout flare
+.
+
+
+Family History:
+No first-degree relatives with coronary artery disease.  His
+mother had breast cancer.
+.
+
+
+Physical Exam:
+Admission:
+VS: 99.9 112/69 76 20 97% RA
+GENERAL: obese M in NAD. Oriented x3. Mood, affect appropriate.
+
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVD to level of mandible.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. 2/6 systolic murmur, no r/g. No
+thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. crackles at bases
+bilaterally, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominal bruits.
+EXTREMITIES: +bilateral 3+ pitting edema to above knees.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right:  DP 2+ PT 2+
+Left:  DP 2+ PT 2+
+.
+On Discharge:
+Temp Max: 99.9 Current: 98.9 HR: 76-84 BP: 92-102/58-64 RR: 18,
+O2 Sat: 99% RA
+24 hour I= 920  O= 1300
+8 hour  I= 150 O= 400
+Gen: more awake, alert, appropriate with questions, still
+talking softly. NAD.
+HEENT: sclera slightly icteric. MM dry. neck supple, JVP 10cm
+CV: PMI located in 5th intercostal space, heart sounds distant,
+regular, S1S2, faint systolic murmur
+RESP: clear
+ABD: non-distended, soft, hypoactive BS, no tenderness, unable
+to ap123 Any St.te liver margin.
+EXTR: skin thickened, dry, no open areas, no edema, no joint
+tenderness or erythema.
+NEURO: A/O, quiet, MAE.
+Pulses:
+Right: DP 1+ PT 1+
+Left: DP 1+ PT 1+
+Skin: intact, dry skin
+
+Pertinent Results:
+CBC:
+2005-05-13 00:00:00 05:15PM BLOOD WBC-6.5 RBC-3.84* Hgb-12.1* Hct-32.5*
+MCV-85# MCH-31.6# MCHC-37.3* RDW-16.7* Plt Ct-48*#
+2005-05-13 00:00:00 07:59AM BLOOD WBC-5.0 RBC-4.80 Hgb-14.6 Hct-40.4 MCV-84
+MCH-30.4 MCHC-36.2* RDW-16.2* Plt Ct-188
+2005-05-13 00:00:00 04:06AM BLOOD WBC-6.9 RBC-3.81* Hgb-11.9* Hct-31.7*
+MCV-83 MCH-31.2 MCHC-37.5* RDW-16.4* Plt Ct-185
+2005-05-13 00:00:00 07:10AM BLOOD WBC-11.3* RBC-4.47* Hgb-13.7* Hct-37.6*
+MCV-84 MCH-30.6 MCHC-36.5* RDW-17.3* Plt Ct-144*
+2005-05-13 00:00:00 07:15AM BLOOD WBC-10.3 RBC-4.03* Hgb-12.3* Hct-33.8*
+MCV-84 MCH-30.5 MCHC-36.4* RDW-17.4* Plt Ct-159
+2005-05-13 00:00:00 09:20AM BLOOD WBC-10.8 RBC-3.94* Hgb-12.3* Hct-32.9*
+MCV-84 MCH-31.2 MCHC-37.4* RDW-17.4* Plt Ct-163
+.
+Coags:
+2005-05-13 00:00:00 07:16PM BLOOD PT-38.2* PTT-47.7* INR(PT)-4.0*
+2005-05-13 00:00:00 06:05AM BLOOD PT-34.5* PTT-45.0* INR(PT)-3.5*
+2005-05-13 00:00:00 07:45AM BLOOD PT-22.8* PTT-36.7* INR(PT)-2.1*
+2005-05-13 00:00:00 04:00AM BLOOD PT-16.2* PTT-31.0 INR(PT)-1.4*
+2005-05-13 00:00:00 03:45AM BLOOD PT-21.8* PTT-150* INR(PT)-2.0*
+2005-05-13 00:00:00 09:13PM BLOOD PT-22.8* PTT-84.8* INR(PT)-2.1*
+2005-05-13 00:00:00 03:46AM BLOOD PT-34.0* PTT-54.3* INR(PT)-3.5*
+2005-05-13 00:00:00 09:20AM BLOOD PT-31.2* INR(PT)-3.1*
+.
+BMP:
+2005-05-13 00:00:00 04:00PM BLOOD UreaN-37* Creat-2.2* Na-138 K-3.7 Cl-96
+HCO3-29 AnGap-17
+2005-05-13 00:00:00 09:25PM BLOOD Glucose-159* UreaN-33* Creat-1.8* Na-134
+K-3.9 Cl-97 HCO3-28 AnGap-13
+2005-05-13 00:00:00 07:50PM BLOOD Glucose-149* UreaN-36* Creat-2.2* Na-133
+K-3.9 Cl-94* HCO3-29 AnGap-14
+2005-05-13 00:00:00 04:00AM BLOOD Glucose-103* UreaN-32* Creat-2.6* Na-133
+K-3.9 Cl-90* HCO3-34* AnGap-13
+2005-05-13 00:00:00 03:45AM BLOOD Glucose-178* UreaN-34* Creat-2.5* Na-128*
+K-3.0* Cl-88* HCO3-29 AnGap-14
+2005-05-13 00:00:00 05:00PM BLOOD Glucose-167* UreaN-39* Creat-2.2* Na-128*
+K-3.5 Cl-88* HCO3-29 AnGap-15
+2005-05-13 00:00:00 09:20AM BLOOD Glucose-121* UreaN-60* Creat-2.8* Na-129*
+K-4.5 Cl-90* HCO3-29 AnGap-15
+.
+LIVER FUNCTION TESTS:
+2005-05-13 00:00:00 07:10AM BLOOD ALT-14 AST-33 CK(CPK)-240 AlkPhos-98
+TotBili-2.6*
+2005-05-13 00:00:00 03:47AM BLOOD ALT-11 AST-67* LD(LDH)-250 CK(CPK)-400*
+AlkPhos-126 TotBili-4.4* DirBili-2.9* IndBili-1.5
+2005-05-13 00:00:00 03:46AM BLOOD ALT-10 AST-64* LD(LDH)-330* AlkPhos-204*
+TotBili-2.5*
+.
+Minerals:
+2005-05-13 00:00:00 07:10AM BLOOD Calcium-7.5* Phos-2.8 Mg-1.5*
+2005-05-13 00:00:00 07:50PM BLOOD Calcium-7.9* Phos-3.1 Mg-1.9
+2005-05-13 00:00:00 04:00AM BLOOD Calcium-8.5 Phos-3.5 Mg-2.5
+2005-05-13 00:00:00 04:12PM BLOOD Calcium-8.8 Phos-2.8 Mg-1.9
+2005-05-13 00:00:00 07:10AM BLOOD Calcium-8.2* Phos-4.0 Mg-2.0
+.
+########################################################
+MICRO:
+2005-05-13 00:00:00: URINE CULTURE (Final 2005-05-13 00:00:00):    NO GROWTH
+2005-05-13 00:00:00: MRSA SCREEN (Final 2005-05-13 00:00:00):    No MRSA isolated.
+2005-05-13 00:00:00:
+   FECAL CULTURE (Final 2005-05-13 00:00:00):    NO SALMONELLA OR SHIGELLA
+FOUND.
+
+   CAMPYLOBACTER CULTURE (Final 2005-05-13 00:00:00):    NO CAMPYLOBACTER
+FOUND.
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final 2005-05-13 00:00:00):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+2005-05-13 00:00:00:
+Staph aureus Screen (Final 2005-05-13 00:00:00):
+      STAPH AUREUS COAG +.    RARE GROWTH.
+Staphylococcus species may develop resistance during prolonged
+therapy with quinolones.   Therefore, isolates that are
+initially susceptible may become resistant within three to four
+days after initiation of therapy.  Testing of repeat isolates
+may be warranted. This isolate is presumed to be resistant to
+clindamycin based on the detection of inducible resistance .
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------       R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------     1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+###################################################
+IMAGING:
+CXR:
+2005-05-13 00:00:00:
+IMPRESSION:
+1. No pneumothorax.
+2. Stable mild vascular engorgement
+3. Unchanged moderate-to-severe cardiomegaly.
+.
+2005-05-13 00:00:00: IMPRESSION: No acute cardiopulmonary process
+.
+2005-05-13 00:00:00: SINGLE FRONTAL VIEW OF THE CHEST: Left-sided pacer lead
+ends in the expected location of the right ventricle, unchanged.
+A left-sided chest tube ends near the apex. There is no
+pneumothorax. Right-sided catheter remains in the upper SVC.
+There is gaseous distention of the stomach. Otherwise, little
+change from the prior study.
+.
+U/S gallbladder and liver:
+2005-05-13 00:00:00: IMPRESSION:
+1. Normal liver echotexture, without biliary dilatation.
+2. Irregular appearance of the gallbladder wall, but without
+ultrasound
+suggestion of active cholecystitis.
+.
+KUB: 2005-05-13 00:00:00:
+There is marked distention of a small bowel loop and transverse
+colon due to ileus. No evidence of fecal impaction. Air-fluid
+levels cannot be assessed.  This is a single supine portable
+view of the abdomen.
+##################################################
+ECHO:
+2005-05-13 00:00:00:
+The left atrium is moderately dilated. The right atrium is
+markedly dilated. Left ventricular wall thicknesses are normal.
+Overall left ventricular systolic function is severely depressed
+(LVEF= 25%) with inferior/inferolateral akinesis/severely
+hypokinesis and hypokinesis elsewhere. The right ventricular
+cavity is dilated with borderline normal free wall function.
+[Intrinsic right ventricular systolic function is likely more
+depressed given the severity of tricuspid regurgitation.] The
+aortic valve leaflets (3) are mildly thickened. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. Moderate to severe [3+]
+tricuspid regurgitation is seen. There is moderate pulmonary
+artery systolic hypertension. The end-diastolic pulmonic
+regurgitation velocity is increased suggesting pulmonary artery
+diastolic hypertension. There is no pericardial effusion.
+.
+2005-05-13 00:00:00
+Moderate to severe spontaneous echo contrast is seen in the body
+of the left atrium. Moderate to severe spontaneous echo contrast
+is present in the left atrial appendage. Moderate spontaneous
+echo contrast in the LV as well.No atrial septal defect is seen
+by 2D or color Doppler. Overall left ventricular systolic
+function is severely depressed (LVEF= 20 %). with moderate
+global RV free wall hypokinesis. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic stenosis. Mild (1+) aortic regurgitation is seen. Mild
+(1+) mitral regurgitation is seen. There is no pericardial
+effusion. Dr. Grochowski was notified in person of the results on
+2005-05-13 00:00:00 at 1030am.
+.
+2005-05-13 00:00:00:
+There is a small, mobile, echodense mass associated with a
+catheter/pacing wire in the right atrium (best seen in subcostal
+views). Differential diagnosis includes a fibrin strand,
+thrombus or vegetation. Left ventricular wall thicknesses are
+normal. The left ventricular cavity is mildly dilated. There is
+severe global hypokinesis (EF 25%), with worse contraction of
+the inferior/inferolateral walls. Right ventricular chamber size
+is normal. There is mild global free wall hypokinesis. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Trace aortic regurgitation is seen.
+Trivial mitral regurgitation is seen. There is no pericardial
+effusion.\
+.
+2005-05-13 00:00:00:
+LVOT VTI in baseline pacing mode = 10.7 cm
+RV pacing alone: LVOT VTI = 11.5 cm
+LV-RV 10 msec offset: LVOT VTI = 12.8 cm
+LV-RV 20 msec offset: LVOT VTI = 13.3 cm
+LV tip to ring (LV-RV offset 0 msec): LVOT VTI = 14.0 cm
+LV tip to ring (LV-RV offset 30 msec): LVOT VTI = 12.3 cm
+LV ring to RV coil (LV-RV offset 0 msec): LVOT VTI = 13.2 cm
+LV ring to RV coil (LV-RV offset 30 msec): LVOT VTI = 11.2 cm
+LV tip to RV coil (LV-RV offset 0 msec): LVOT VTI = 13.3 msec
+
+
+
+
+Brief Hospital Course:
+64 year old male with PMHx of severe non-ischemic cardiomyopathy
+with EF 25%, s/p ICD placement 2005-05-13 00:00:00, mild-mod MR/TR, DM, ICD,
+Afib on coumadin, gout, hypothyroidism, CKD p/w vtach and ICD
+firing, also with decompensated CHF.
+
+# VT/VF and ICD firing: evaluated by EP in the ED and started on
+400 mg amiodarone TID for amio loading for 7 days, then changed
+to 400 mg daily daily x 1 month. Likely 2005-05-13 00:00:00 volume overload and
+electrolyte abnormalities, resolved after diuresis.  Will
+continue amiodarone as outpatient and decrease to 200mg Daily
+after 1 month.  EP also saw the patient and adjust his lead
+placement.  ECHO on 2005-05-13 00:00:00 evaluated his heart function
+after change in lead placement and it showed marked improvement
+in squeeze of his vintricles.  He will be followed up in the
+outpatient by EP.
+
+# Decompensated CHF/PUMP: Pt did not take torsemide while in
+123 Any St. and also did not adhere to low Na diet.  Diuresed on
+lasix gtt with UPMCE metolazone and was euvolemic after several
+days.  CRT was considered as it would potentially benefit
+patient with low EF, wide QRS, so EP was consulted for upgrade
+to UPMCE-V pacer.  EP team unable to place lead in coronary sinus
+in cath lab due to coronary sinue anatomy.  Pt was transferred
+to surgery for epicardial placement of UPMCE-V pacer for CRT. Upon
+transfer to the floor he was placed on Levophed/Milrinone with a
+lasix gtt and these were titrated to keep MAPs >60 and UOP>30.
+His digoxin was also continued. To increase efficiency of
+systolic function and increase time in BiV pacing, he was
+betablocked with metoprolol and his pacemaker rate was increased
+to 80.  Over concerns with tachycardia, his levophed was
+switched to neosynephrine. His UOP fluctuated but remained >30
+for most of his stay in the CCU. Weaning his pressors proved to
+be a challenge however and were kept on for several days. A
+repeat ECHO on milrinone showed slightly improved EF to 20-25%.
+He was effectively diuresed and was weaned off of milrinone.  In
+the CCU he was diuresed and was net negative almost 6L.
+Initially his BP remained low and Creatinine began trending up.
+There was some concern that he was going to be milrinone
+dependent.  His UPMCE-V pacer was also adjusted and his pump
+function seemed to improve.  His BP improved as well as his
+creatinine.  At the time of discharge his fluid status was
+optimized, he was off of milrinone and doing well and he will be
+sent to Rehab.
+.
+# CORONARIES:  no ischemic changes on EKG, trop mildly elevated
+to 0.02, no sx of angina.  Monitored on tele, continued
+metoprolol.
+.
+# RHYTHM/Afib: Monitored on tele, noted to have afib.  On
+coumadin at home, however INR supratherapeutic at 4.0 so was
+held on admission.  Pt was given 5 mg vitamin K prior to EP
+attempt at BiV pacer, and again prior to epicardial lead
+placement.  Also continued digoxin. His coumadin was then
+restarted.  In the setting of amiodarone he became
+suprathera123 Any St. quickly.  His coumadin was held and on the day
+of discharge his INR was 3.1.  He will have his INR checked at
+Rehab and they will restart his coumadin at 2mg when his INR is
+between 2005-05-13 00:00:00.
+
+# Hypothyroidism: had not been taking levothyroxine, TSH 17 on
+admission, however is AOx3, no periorbital edema or concern for
+myxedema coma.  Repeat TSH was 24.  He needs to have his TSH,
+total T4, T3 resin in 1 week and follow up with endocrinology.
+
+# Elevated bilirubin:  Pt Chawn Grochowski was noted to be elevated.  It
+was trended for some time and there was concern about disease of
+the gallbladder or liver.  RUQ U/S shows no significant changes
+and no signs of infection or obstruction.  It was noted that his
+Chawn Grochowski has been chronically elevated for years and has been
+worked up in the past with no definitive diagnosis.  His LFTs
+were no longer trended and he remained asymptomatic.
+
+# HTN: We discontinued his valsartan and we uptitrated his
+metoprolol 200mg PO Daily.
+
+# gout: continued allopurinol at decreased dose in Grochowski (100 mg
+daily) and daily colchicine.
+
+# Diabetes: cont lantus and SSI with novolog
+
+#Code status: Full code (confirmed on this admission)
+
+Medications on Admission:
+ALLOPURINOL - 300 mg Tablet - 1 Tablet(s) by mouth daily
+AMIODARONE - 200 mg Tablet - one Tablet(s) by mouth daily
+COLCHICINE - 0.6 mg Tablet - 1 Tablet(s) by mouth once a day
+COMPRESSION STOCKINGS -   - Wear on both legs each night at
+bedtime 15-20mm h2o
+DIGOXIN - 125 mcg Tablet - one Tablet(s) by mouth daily on
+tues-thurs-sat
+INSULIN ASPART [NOVOLOG] -  (Prescribed by Other Provider) - 100
+unit/mL Solution - per sliding scale
+INSULIN GLARGINE [LANTUS] -  (Prescribed by Other Provider) -
+100
+unit/mL Solution - 15 units as needed or depending on sugar
+level
+LEVOTHYROXINE [LEVOXYL] - 50 mcg Tablet - 1 tablet by mouth
+daily
+- No Substitution
+METOLAZONE - 2.5 mg Tablet - one Tablet(s) by mouth in the
+morning on Tu-Th-Sa take one tablet 30 minutes prior to taking
+torsemide
+METOPROLOL SUCCINATE - 25 mg Tablet Extended Release 24 hr - ONE
+Tablet(s) by mouth daily
+TORSEMIDE - 20 mg Tablet - 4 Tablet(s) by mouth in the morning
+VALSARTAN [DIOVAN] - 40 mg Tablet - one Tablet(s) by mouth daily
+WARFARIN -  (not sure who gave him rx) - 5 mg Tablet - 1 (One)
+Tablet(s) by mouth once a day as directed to maintain INR
+2.0-3.0
+WARFARIN - 4 mg Tablet - 1 Tablet(s) by mouth daily or as
+directed
+WARFARIN - 1 mg Tablet - Take up to 4 Tablet(s) by mouth daily
+or
+as directed by coumadin clinic
+ Medications - OTC
+ACETAMINOPHEN [TYLENOL EXTRA STRENGTH] -  (OTC) - 500 mg Tablet
+-
+2 Tablet(s) by mouth only as needed
+LOPERAMIDE [ANTI-DIARRHEA] -  (Prescribed by Other Provider) - 2
+mg Tablet - 1 Tablet(s) by mouth as needed with diarrhea from
+colchicine
+MULTIVITAMIN-MINERALS-LUTEIN [CENTRUM SILVER] -  (OTC) -
+Tablet
+- 1 Tablet(s) by mouth once a day
+SODIUM BICARB-SODIUM CHLORIDE [NASA MIST] - 1 % Aerosol, Spray -
+1 spray nasal twice a day as needed for runny nose
+
+Discharge Medications:
+1. allopurinol 100 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+
+2. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. digoxin 125 mcg Tablet Sig: One (1) Tablet PO 3X/WEEK
+(TU,TH,SA).
+4. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+8. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+packet PO DAILY (Daily) as needed for constipation.
+9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+10. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily): Until 2005-05-13 00:00:00 and then decrease to 200mg PO Daily.
+11. warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM: Please hold warfarin and Check INR on Sunday 2005-05-13 00:00:00.  If
+below 3 start warfarin at 2mg.
+.
+12. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomnia.
+13. torsemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+14. metoprolol succinate 200 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+15. insulin glargine 100 unit/mL Solution Sig: Fifteen (15)
+units Subcutaneous at bedtime as needed for As needed for high
+sugar.
+16. insulin lispro 100 unit/mL Solution Sig: As per sliding
+scale  Subcutaneous QACHS.
+17. Outpatient Lab Work
+TSH, total T4, T3 resin
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+Acute on chronic systolic congestive heart failure: holding Grochowski
+because of Grochowski
+Ventricular tachycardia
+Acute on Chronic Kidney Injury
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were seen in the hospital for firing of your ICD and for
+fluid overload.  The fluid overload was most likely caused by a
+worsening of your heart failure, since you had not been taking
+medications for several weeks.  The heart failure worsening
+likely was also the cause of arrhythmias (irregular heart
+rhythms) that caused your defibrillator to fire.  For your fluid
+overload, you were treated with IV lasix and the swelling in
+your legs improved.  It will be very important to continue
+taking your medications at home to avoid having the fluid build
+up again.  You should weigh yourself every morning and call your
+doctor if weight goes up by more than three pounds in one day or
+five pounds in three days, as this can be a sign of fluid
+overload.
+
+We made the following changes to your medications:
+1. Stop taking Metolazone and valsartan
+2. Increase Metoprolol to 100 mg daily
+3. Decrease Allopurinol because of your kidney function
+4. Decrease Torsemide to 20mg per day
+6. Increase amiodarone to 400 mg daily for 10 days, then
+decrease to 200 mg
+7. STart Colace, seanna and miralax to prevent constipation
+8. STart trazadone to help you sleep.
+
+
+Followup Instructions:
+Department: CARDIAC SERVICES
+When: TUESDAY 2005-05-13 00:00:00 at 3:00 PM
+With:  DEVICE CLINIC test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+.
+Department: CARDIAC SERVICES
+When: TUESDAY 2005-05-13 00:00:00 at 3:30 PM
+With: [**First Name8 (NamePattern2) 1878**] Grochowski, NP test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+.
+Please call Dr. Grochowski and make an appoinmtent after you fax him
+the results of the thyroid lab work.
+Dr. Arvydas Sumling Chawn Grochowski
+UPMCE - Division of Endocrinology  View Map
+123 Any St., UPMCE/Rose 1
+123 Any St., [**Numeric Identifier 711**]
+Phone: test@mail.com
+Fax: test@mail.com
+
+
+

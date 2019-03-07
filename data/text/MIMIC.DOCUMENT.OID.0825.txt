@@ -1,0 +1,134 @@
+Admission Date:  2013-05-10 00:00:00              Discharge Date:   2013-05-10 00:00:00
+
+Date of Birth: 1945-05-10 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Aneesia Connal
+Chief Complaint:
+Toxic ingestion in suicide attempt
+
+Major Surgical or Invasive Procedure:
+Intubated and extubated
+
+History of Present Illness:
+29 yo male with h/o depression and ADHD who presented to ED with
+ingestion of Nyquil and ibuprofen in suicide attempt. Patient
+notes history of depression secondary to recent death of sister
+and not taking his Paxil for past 2 months. Pt was on Mass
+Health but did not complete forms and lost coverage 2 months ago
+so had no way to pay for Paxil. Per pt's mother on night of
+admission, pt called her to tell her he took some pills. He
+drove to her house and she found him to be lethargic. In ED
+given Narcan with no result. Pt intubated for airway protection
+with dose of vercuronium for agitation. Pt given 1.2 grams of
+N-acetylcysteine and activated charcoal x1. EKG showed ST at
+106, normal axis, normal intervals, TWI in III, AVF. Pt had mild
+transaminitis. Toxicology was consulted and recommended
+supportive care, including follow LFT's and re-checking EKG. Tox
+screen was only pos for amphetamines.
+
+Past Medical History:
+Depression -no 123 Any St.us psychiatric admission (PCP-Stricker. Stricker
+prescribes paxil)
+ADHD
+
+Social History:
+Lives with roommate in 123 Any St.. Plays piano, gives lessons.
+Sister died 2-3 months ago from crack overdose. No ETOH or drug
+use.
+
+Family History:
+?Bipolar disorder
+
+Physical Exam:
+PE:
+97, HR 80, BP 141/90, RR 18, Os sat 100% on vent (AC 500x18,
+PEEP 5, FiO2 0.5)
+GENL: intubated, sedated
+HEENT: Pupils sluggish 8-5 mm. no LAD, +profuse salivation
+CV: RRR no MRG
+Resp: CAT
+ABD: soft, NT, ND, +BS
+EXT: no edema, 2+ pedal pusles
+Neuro: sedated, no babinski, localizes to painful stimuli, moves
+all limbs
+
+Pertinent Results:
+2013-05-10 00:00:00 06:06AM BLOOD WBC-14.2* RBC-4.37* Hgb-13.0* Hct-36.0*
+MCV-82 MCH-29.8 MCHC-36.2* RDW-13.7 Plt Ct-205
+2013-05-10 00:00:00 08:35PM BLOOD Neuts-73.6* Lymphs-19.3 Monos-5.7 Eos-0.9
+Baso-0.6
+2013-05-10 00:00:00 06:06AM BLOOD Plt Ct-205
+2013-05-10 00:00:00 06:06AM BLOOD Glucose-94 UreaN-9 Creat-0.7 Na-141 K-3.8
+Cl-106 HCO3-28 AnGap-11
+2013-05-10 00:00:00 06:06AM BLOOD ALT-56* AST-20 LD(LDH)-165 AlkPhos-57
+TotBili-0.6
+2013-05-10 00:00:00 08:35PM BLOOD ALT-90* AST-41* AlkPhos-68 Amylase-64
+TotBili-0.5
+2013-05-10 00:00:00 08:35PM BLOOD Lipase-29
+2013-05-10 00:00:00 06:06AM BLOOD Albumin-4.2 Calcium-9.3 Phos-3.1 Mg-2.0
+2013-05-10 00:00:00 08:35PM BLOOD Osmolal-285
+2013-05-10 00:00:00 05:35AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2013-05-10 00:00:00 08:35PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2013-05-10 00:00:00 01:12AM BLOOD freeCa-1.24
+
+Brief Hospital Course:
+Patient was admitted to the UPMCE on 2013-05-10 00:00:00. He was kept
+intubated and sedeated overnight. He was extubated without
+complications on 2013-05-10 00:00:00. His LFT trended down. When he was
+extubated we confirmed with patient that he took liquid nyquil
+and ibuprofen. We restarted his Paxil at 40 mg per day.
+
+Psychiatry saw the patient and felt appropriate for in patient
+psychiatry evaluation. Pt does not want admission but Stricker
+criteria for involuntary admission. Social work was consulted
+for coping and for help with Mass Health and free care. He was
+refused by Mass Health so application accepted for Free Care at
+UPMCE so he can get his Paxil paid for.
+
+On day of discharge, pt complained of sore throat and myalgias.
+His temp was normal and WBC count slightly elevated. His WBC is
+likely related to stress response and sore throat is likely
+related to intubation. He was felt to be medically cleared for
+psychiatric hospitalization.
+
+Medications on Admission:
+Paxil 40 mg QD (not taken for past 2 mos)
+Adderal
+
+Discharge Medications:
+1. Paroxetine HCl 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. Cepacol 2 mg Lozenge Sig: 2013-05-10 00:00:00 Lozenges Mucous membrane  PRN
+(as needed).
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Depression
+S/P toxic ingestion for suicide attempt
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Follow up with Dr. Stricker.
+Will be transferred to UPMCE 4 for Inpatient Psychiatric
+eval
+
+Followup Instructions:
+Follow up with your Dr. Stricker. Take medications as prescribed.
+
+
+                             [**First Name8 (NamePattern2) 1161**] Anousha Stricker MD 6391
+

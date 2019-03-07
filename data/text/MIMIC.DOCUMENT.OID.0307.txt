@@ -1,0 +1,301 @@
+Admission Date:  2014-09-07 00:00:00              Discharge Date:   2014-09-07 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Jelisa Rohlinger
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac Catherization
+
+
+History of Present Illness:
+79 yo male w/ past medical history significant for myasthenia
+Runco complains of 2014-09-07 00:00:00 pressure like substernal chest pain
+starting yesterday while lying in bed, lasting 2 hours,
+unrelieved by tylenol or aspirin.  Associated with diaphoresis.
+No shortness of breath.  Resolved on its own. Pt had recurrence
+of pain this morning upon awakening, went to PMD's office and
+was noted to have 1-123 Any St. elevations in V2-V3, was given
+aspirin and sent to the ED.  On arrival at ED, he had 2014-09-07 00:00:00 chest
+pain with 0.123 Any St. elevation in V2, 1 mm elevation in V3, 0.5
+mmm elevation in V4 with TWI in V1-V4.  He was taken to the cath
+lab and found to have a 90% LAD occlusion that was stented, and
+a non intervenable diffusely diseased RCA.  He was also noted to
+have normal right sided heart pressures with an oxygen step up
+in the right atrium.
+
+He denied doe, pnd, orthopnea, dyspnea, edema, palpitations,
+syncope, or presyncope.
+
+Past Medical History:
+myasthenia Runco dx 2014-09-07 00:00:00
+post herpetic neuralgia left leg
+prostate cancer s/p xrt 2014-09-07 00:00:00 and resection (TURP) 2014-09-07 00:00:00
+h/o thrombocytopenia, resolved
+no history of cad, diabetes, hypercholesterolemia, or
+hypertension
+
+Social History:
+former chemical engineer, married with four children, no
+smoking, occ alcohol.
+
+Family History:
+mother: DM
+
+Physical Exam:
+Temp afebrile BP 163/82 Pulse 54 Resp 12 O2 sat 99%RA
+Gen - Alert, no acute distress
+HEENT - NCAT, PERRL, extraocular motions intact, anicteric,
+mucous membranes moist, hard of hearing L ear.
+Neck - 2+ carotid pulses b/l. No JVD, no cervical
+lymphadenopathy, no bruits
+Chest - Clear to auscultation bilaterally anteriorly and
+laterally
+CV - Normal S1/S2, RRR, no murmurs, rubs, or gallops
+Abd - Soft, nontender, nondistended, with normoactive bowel
+sounds
+Back - No costovertebral angle tendernes
+Extr - 8French fremoral sheath on right, 2+ Left femoral pulse.
+No clubbing, cyanosis, or edema. 2+ DP pulses bilaterally, 1+ PT
+pulses bilaterall.  No bruits.
+Neuro - Alert and oriented x 3, cranial nerves 2014-09-07 00:00:00 intact,
+upper and lower extremity strength 5/5 bilaterally, sensation
+grossly intact
+Skin - No rash
+
+Pertinent Results:
+cariac enzymes:
+2014-09-07 00:00:00 02:00PM   CK(CPK)-50
+2014-09-07 00:00:00 02:00PM   CK-MB-NotDone
+2014-09-07 00:00:00 02:00PM   cTropnT-0.03*
+2014-09-07 00:00:00 07:44PM   CK-MB-NotDone cTropnT-0.21*
+2014-09-07 00:00:00 07:44PM   CK(CPK)-71
+.
+2014-09-07 00:00:00 02:00PM   WBC-5.9 RBC-4.18* HGB-12.5* HCT-36.5* MCV-87
+MCH-29.9 MCHC-34.3 RDW-14.2
+2014-09-07 00:00:00 02:00PM   PLT COUNT-216
+2014-09-07 00:00:00 02:00PM   NEUTS-73.0* LYMPHS-20.5 MONOS-4.9 EOS-1.2
+BASOS-0.4
+2014-09-07 00:00:00 02:00PM   GLUCOSE-91 UREA N-11 CREAT-0.8 SODIUM-141
+POTASSIUM-3.9 CHLORIDE-105 TOTAL CO2-26 ANION GAP-14
+.
+cardiac cath 2014-09-07 00:00:00:
+**PRESSURES
+RIGHT ATRIUM {a/v/m} 6/5/5
+RIGHT VENTRICLE {s/ed} 24/6
+PULMONARY ARTERY {s/d/m} 24/10/15
+PULMONARY WEDGE {a/v/m} 13/12/9
+AORTA {s/d/m} 104/55/73
+**CARDIAC OUTPUT
+HEART RATE {beats/min} 50
+RHYTHM SINUS
+O2 CONS. IND {ml/min/m2} 125
+A-V O2 DIFFERENCE {ml/ltr} 54
+CARD. OP/IND FICK {l/mn/m2} 4.3/2.3
+**RESISTANCES
+SYSTEMIC VASC. RESISTANCE 1265
+PULMONARY VASC. RESISTANCE 112
+  FICK
+**% SATURATION DATA (FL)
+SVC LOW 56
+RA HIGH 57
+RA MID 66
+RA LOW 76
+IVC HIGH 78
+RV INFLOW 67
+RV MID 65
+RV APEX 67
+PA MAIN 66
+PA LEFT 67
+AO 100
+**ARTERIAL BLOOD GAS
+pO2 124
+pCO2 39
+pH 7.42
+
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**RIGHT CORONARY
+1) PROXIMAL RCA   DIFFUSELY DISEASED
+2) MID RCA   NORMAL
+2A) ACUTE MARGINAL   NORMAL
+3) DISTAL RCA   DISCRETE 80
+4) R-PDA   DIFFUSELY DISEASED
+4A) R-POST-LAT   DIFFUSELY DISEASED
+
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**LEFT CORONARY
+5) LEFT MAIN   NORMAL
+6) PROXIMAL LAD   DISCRETE 90
+6A) SEPTAL-1   NORMAL
+7) MID-LAD   NORMAL
+8) DISTAL LAD   NORMAL
+9) DIAGONAL-1   DIFFUSELY DISEASED
+10) DIAGONAL-2   NORMAL
+12) PROXIMAL CX   NORMAL
+13) MID CX   NORMAL
+13A) DISTAL CX   NORMAL
+14) OBTUSE MARGINAL-1   NORMAL
+15) OBTUSE MARGINAL-2   NORMAL
+16) OBTUSE MARGINAL-3   NORMAL
+
+PTCA COMMENTS:     Initial angiography revealed a 90% proximal
+LAD
+stenosis with TIMI II flow distally. We decided to treat this
+lesion
+with direct stenting. Integrillin was given prophylactically. A
+8 French
+XBLAD 3.5 guide provided excellent support. The lesion was
+crossed with
+a BMW wire without difficulty. A 2.75x23 mm Cypher DES was
+deployed at
+14 atms. The stent was postdilated with a 3.0x18 mm NC ranger
+baloon
+inflated at 14 atms twice. Subsequent angiography revealed
+compromise of
+the ostium of a moderate size diagonal and we decided to rescue
+it with
+baloon PTCA. An ACE 2.0 baloon was advanced into the diagonal
+and was
+inflated to 10 atms and then to 14 atms. Final angiography
+revealed no
+residual stenosis in the stented LAD, no dissection and TIMI III
+flow.
+The origin of the diagonal had a 30% resdiual stenosis. The
+patient left
+the lab pain free and in stable condition
+
+ECHO 2014-09-07 00:00:00:
+No atrial septal defect or patent foramen ovale is seen by 2D,
+color Doppler
+or saline contrast with maneuvers. Left ventricular wall
+thicknesses are
+normal. The left ventricular cavity size is normal. Overall left
+ventricular
+systolic function is mildly depressed (ejection fraction 40-50
+percent). Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve
+leaflets (3) are mildly thickened but not stenotic. Mild (1+)
+aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There
+is no mitral valve prolapse. Mild (1+) mitral regurgitation is
+seen. There is
+no pericardial effusion.
+
+
+Brief Hospital Course:
+Hospital course by problem:
+CAD:
+This patient's cardiac catheterization was complicated by a
+jailed diagonal artery.  He was chest pain free throughout his
+postcath course, however.  His medical regimen for secondary
+prevention of acute coronary syndrome was maximized.
+
+AF:
+He did have an episode of tachycardia that was felt to be likely
+atrial fibrillation, and he was started on anticoagulation with
+coumadin.
+
+Oxygen step up:  He had a follow up echo which showed no ASD.
+
+Hematuria and Urinary retention:
+He had an episode of hematuria associated with foley placement
+which cleared with irrigation.  He also had an episode of
+urinary retention for which he was seen by urology.  He was sent
+home with a leg bag for foley drainage and was scheduled for a
+voiding trial as an outpatient.
+
+Myasthenia Runco:
+He was maintained on his home myasthenia regimen.
+
+Medications on Admission:
+aspirin 81mg, multivitamin, cellcept 1 UPMCE, mestinon
+60tid->30tid
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD (once a day). Tablet,
+Delayed Release (E.C.)(s)
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+(once a day): Do NOT stop this medication unless instructed by a
+cardiologist.
+Disp:*30 Tablet(s)* Refills:*6*
+3. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+BID (2 times a day).
+4. Pyridostigmine Bromide 60 mg Tablet Sig: 0.5 Tablet PO Q8H
+(every 8 hours).
+5. Multivitamin     Capsule Sig: One (1) Cap PO QD (once a day).
+
+6. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Coumadin 2 mg Tablet Sig: 1-2 Tablets PO at bedtime: take 2
+tablets (4mg) on 2014-09-07 00:00:00 and 2014-09-07 00:00:00.  Then call Dr. Runco for
+further instructions.
+Disp:*60 Tablet(s)* Refills:*2*
+8. Atenolol 25 mg Tablet Sig: 0.5 Tablet PO QD (once a day).
+Disp:*15 Tablet(s)* Refills:*2*
+9. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Trazodone HCl 50 mg Tablet Sig: 0.5 Tablet PO at bedtime as
+needed for insomnia.
+Disp:*30 Tablet(s)* Refills:*0*
+11. Outpatient Lab Work
+Please check INR on 2014-09-07 00:00:00 and call Dr. Runco at (test@mail.com
+with the results.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+1. Anterior Wall STEMI
+2. Oxygenation "set-up" from left atrium to Pulmonary Artery on
+catherization. No ASD on echo.
+3. New onset Atrial Fibrillation
+4. Hematuria
+5. Urinary retention, resolved
+6. history of prostate Cancer
+7. [**First Name9 (NamePattern2) 2858**] Runco
+
+Discharge Condition:
+stable and improved
+
+Discharge Instructions:
+1. Take all medications as outlined below.  Do NOT stop taking
+plavix unless instructed to by a cardiologist.
+2. Follow up with Urology as instructed below.
+3. Do Not take any medication containing Diphenhydramine
+(Benadryl) as it may make your urinary retention worse. You can
+try to use Trazadone for insomnia.
+4. Call your Doctor or return to ED should you develop chest
+pain, difficulty breathing, palpitations, or other concerning
+symptoms.
+5. You have been started on a blood thinner called coumadin.
+You will need to have frequent blood draws to monitor the level.
+Dr. Runco will instruct you on changing the dose of coumadin with
+each blood draw.
+
+Followup Instructions:
+1. You have an appointment scheduled with Dr. [**First Name8 (NamePattern2) 1143**] Runco in
+urology for Wednesday, 2014-09-07 00:00:00 at 3:00 pm.  Please call
+test@mail.com if you need to reschedule.
+2. Provider: Jelisa Rohlinger, M.D. Where: UPMCE
+NEUROLOGY Phone:test@mail.com Date/Time:2014-09-07 00:00:00 12:00
+3. Please call Dr. Runco in cardiology at (test@mail.com by the
+end of this week to schedule a follow up appointment.
+
+
+                             Jacely Runco MD, 15377
+

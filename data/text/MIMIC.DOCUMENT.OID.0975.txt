@@ -1,0 +1,396 @@
+Admission Date:  2005-11-25 00:00:00              Discharge Date:   2005-11-25 00:00:00
+
+Date of Birth: 1983-11-25 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Sulfonamides / Vicodin
+
+Attending:Aswath Hertog
+Chief Complaint:
+Abdominal pain, diarrhea
+
+Major Surgical or Invasive Procedure:
+NG tube placement
+
+History of Present Illness:
+68 y/o male with past medical history significant for COPD, PE,
+hypertension who presents with sudden onset abdominal pain and
+diarrhea. Patient reports recent bronchitis flare treated with
+azithromycin and then levofloxacin approx 2 weeks ago. Patient
+state yesterday 4 hours after eating a restaurant salad dinner,
+he got sudden onset abdominal pain that brought him to 123 Any St.
+UPMCE ED. In this setting he was standing by the side of the
+wall and suddenly "want black" and landed on his behind on the
+floor. Patient denies LOC. Patient denies head trauma. Patient
+was noted to be in Aflutter and was cardioverted *2 with no
+success. At 123 Any St. patient reports filling 3 toilet bowels full
+of liquid diarrhea. And 123 Any St. notes NGT with brown fluid
+returning. Patient was given levo/flagyl/vanco and sent to UPMCE
+ER on levophed due to low pressures. Patient received 7 liters
+of fluid
+
+Upon transfer to UPMCE ER patient on levophed w pressures to the
+100s-130s, tachy to the 140s, satting well all the time. chest x
+ray neg, urine neg, abdominal CTA no mesenteric ischemia. WBC
+35; redosed on flagyl. Noted to have INR of 6.0. Got two units
+of FFP. Lactate from 4 to 1 with fluids.  The patient was
+transferred to the ICU.
+
+
+Past Medical History:
+1.  Atrial fibrillation/flutter diagnosed in 2005-11-25 00:00:00 on coumadin
+2.  PE in the setting of knee surgery.
+3.  Hypertension.
+4.  COPD.
+5.  Dyslipidemia.
+6.  BPH.
+7. Hypercholesterolemia
+8. s/p L TKR on 2005-11-25 00:00:00
+
+Social History:
+Social history is significant for the absence of current tobacco
+use. There is no history of alcohol abuse.
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.
+
+Physical Exam:
+General Appearance: Well nourished, No acute distress
+
+Head, Ears, Nose, Throat: Normocephalic
+
+Lymphatic: No(t) Cervical WNL, No(t) Supraclavicular WNL, No(t)
+Cervical adenopathy
+
+Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), No(t)
+S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic, No(t)
+Diastolic), JVP to jaw with HJR
+
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Present), (Left DP pulse:
+Present)
+
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Clear : , Crackles : at bases, No(t) Wheezes : )
+
+Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+
+Extremities: Right: Trace, Left: Trace, No(t) Cyanosis, No(t)
+Clubbing
+
+Musculoskeletal: No(t) Muscle wasting
+
+Skin:  Warm, No(t) Rash:
+
+Neurologic: Attentive, Follows simple commands, Responds to:
+Verbal stimuli, Oriented (to): *3, Movement: all limbs
+symmetric, voluntary, Tone: Normal
+
+
+Pertinent Results:
+Admission Labs:
+WBC-35.0*# RBC-4.53*# Hgb-14.3# Hct-41.0 MCV-91 MCH-31.6
+MCHC-34.9 RDW-14.4 Plt Ct-279#
+Neuts-95.3* Lymphs-2.7* Monos-1.5* Eos-0.2 Baso-0.1
+PT-54.9* PTT-38.1* INR(PT)-6.4*
+Glucose-146* UreaN-28* Creat-1.6* Na-140 K-4.2 Cl-111* HCO3-17*
+ALT-31 AST-26 AlkPhos-79 TotBili-0.7 Lipase-17
+cTropnT-<0.01 Albumin-3.5 Lactate-1.4
+URINE Color-Yellow Appear-Clear Sp Burtt-1.009
+URINE Blood-LG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-TR
+Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR
+RBC-2005-11-25 00:00:00* WBC-0-2 Bacteri-NONE Yeast-NONE Epi-0-2
+URINE CastHy-0-2
+
+2005-11-25 00:00:00 2:12 am URINE     Site: CATHETER
+
+                            **FINAL REPORT 2005-11-25 00:00:00**
+
+   URINE CULTURE (Final 2005-11-25 00:00:00):    NO GROWTH.
+
+2005-11-25 00:00:00 3:32 am BLOOD CULTURE
+
+                            **FINAL REPORT 2005-11-25 00:00:00**
+
+   Blood Culture, Routine (Final 2005-11-25 00:00:00):    NO GROWTH.
+
+ 2005-11-25 00:00:00 6:50 am STOOL     CONSISTENCY: LOOSE
+
+                            **FINAL REPORT 2005-11-25 00:00:00**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final 2005-11-25 00:00:00):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+
+2005-11-25 00:00:00 5:45 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+
+   FECAL CULTURE (Final 2005-11-25 00:00:00):
+      NO ENTERIC GRAM NEGATIVE RODS FOUND.
+      NO SALMONELLA OR SHIGELLA FOUND.
+
+   CAMPYLOBACTER CULTURE (Final 2005-11-25 00:00:00):    NO CAMPYLOBACTER
+FOUND.
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final 2005-11-25 00:00:00):
+      NO E.COLI 0157:H7 FOUND.
+
+   Cryptosporidium/Giardia (DFA) (Final 2005-11-25 00:00:00):
+      NO CRYPTOSPORIDIUM OR GIARDIA SEEN.
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final 2005-11-25 00:00:00):
+      DUPLICATE ORDER-ONLY ONE C. DIFFICILE IS ACCEPTED PER DAY.
+PLEASE
+      RESUBMIT A NEW SPECIMEN ON A DIFFERENT DATE IF FURTHER
+TESTING IS
+      NECESSARY.
+      TEST CANCELLED, PATIENT CREDITED.
+
+   VIRAL CULTURE (123 Any St.inary):    No Virus isolated so far.
+
+
+Discharge Labs:
+WBC-12.3* RBC-3.48* Hgb-11.5* Hct-32.0* MCV-92 MCH-33.0*
+MCHC-35.9* RDW-14.8 Plt Ct-263
+PT-28.2* PTT-25.5 INR(PT)-2.8*
+Glucose-130* UreaN-20 Creat-0.9 Na-143 K-3.7 Cl-107 HCO3-24
+ALT-30 AST-26 CK(CPK)-306* AlkPhos-68 TotBili-0.4
+Calcium-8.1* Phos-2.5* Mg-1.9
+
+Studies:
+2005-11-25 00:00:00 EKG - Possible atrial flutter with 2:1 conduction.
+Non-specific ST-T wave changes. Compared to the 123 Any St.us tracing
+of 2005-11-25 00:00:00 the atrial flutter is now present.
+
+2005-11-25 00:00:00 EKG - Narrow complex tachycardia, possibly atrial
+flutter. Compared to the 123 Any St.us tracing of 2005-11-25 00:00:00 no change.
+
+2005-11-25 00:00:00 CTA Chest, Abdomen, Pelvis - IMPRESSION:
+1. No evidence of dissection or pulmonary embolism.
+2. Severe emphysema with stable noncalcified lung nodules since
+2005-11-25 00:00:00. Followup study in six months is recommended to
+document stability.
+3. Mildly distended colon with air-fluid levels without evidence
+of pneumatosis or wall edema.
+4. Airspace opacities in the dependent portions of both lungs
+may represent atelectasis or consolidation.
+
+2005-11-25 00:00:00 CXR:
+FINDINGS: AP view of the chest in upright position was obtained.
+Low lung
+volumes. The cardiomediastinal silhouette is within normal
+limits. The aorta is mildly tortuous and calcified. There is no
+pneumothorax or pleural effusions. Emphysematous changes are
+again noted. Congestion of the pulmonary vasculature with
+increased interstitial markings consistent with mild edema.
+Bibasilar consolidations vs atelectasis. An NG tube is seen with
+the tip within the stomach.
+
+2005-11-25 00:00:00 EKG - Atrial fibrillation with moderate ventricular
+response. Occasional ventricular premature beats. Compared to
+the 123 Any St.us tracing the rhythm has changed.
+
+2005-11-25 00:00:00 EKG - Narrow complex tachycardia, probably atrial
+flutter with rapid ventricular response. Compared to the
+123 Any St.us tracing the rhythm has changed.
+
+2005-11-25 00:00:00 EKG - Sinus rhythm. Intraventricular conduction delay.
+Compared to the 123 Any St.us tracing the rate is slower and the
+rhythm is now sinus.
+
+
+Brief Hospital Course:
+Mr. Burtt is a 68 year old male with a history of PE, COPD,
+and paroxysmal afib admitted with watery diarrhea, RVR, and
+hypotension.
+
+1. Atrial fibrillation/flutter with rapid ventricular response -
+The patient was hypotensive and tachycardic on presentation and
+received 3L IVF.  When he arrived in the MICU levophed was
+stopped and the patient was started on a diltiazem gtt for afib
+with rvr.  The patient converted to normal sinus rhythm
+overnight and was switched to diltiazem 30 mg PO QID on 2005-11-25 00:00:00 and
+transferred to the general medicine floor.  On the morning of
+2005-11-25 00:00:00 the patient went back into afib with rvr and then into
+atrial flutter with sustained heart rate in the 140s.  Oral
+diltiazem was increased from 30 to 60 mg PO QID with no effect.
+Diltiazem 15 mg IV was given and the patient's SBP dropped from
+140 to 98 without any change in the heart rate.  IVF were given
+and later on in the day PO diltiazem was increased to 90 mg PO
+QID.  Overnight the patient's aflutter gradually slowed and
+early in the morning of 2005-11-25 00:00:00 the patient spontaneously converted
+back to normal sinus rhythm.  He was put back on his home dose
+of diltiazem SR 240 mg daily.
+
+2. Diarrhea - On presentation the patient was started on flagyl
+empirically for C. diff. given his recent health care and
+antibiotic exposures.  Stool was sent for C. diff.  The
+patient's diarrhea resolved quickly and flagyl was stopped on
+2005-11-25 00:00:00.  Stool tests for C. diff and other enteric pathogens were
+ultimately negative.  The patient's diarrhea may have been
+secondary to recent antibiotic exposures or to something in the
+salad that he had eaten several hours prior to its onset.
+
+3. Anticoagulation - Warfarin was held on admission given a
+supratherapeutic INR.  It was restarted at 6 mg daily on 2005-11-25 00:00:00
+and increased to 8 mg daily (the patient's regular home dose) on
+2005-11-25 00:00:00.  INR was 2.8 on the day of discharge and the patient was
+instructed to follow-up with his UPMCE clinic.
+
+4. Hypertension - The patient's home antihypertensives were
+initially held on admission secondary to hypotension.  The
+patient remained normotensive on diltizem alone.  Lisinopril was
+started on discharge and the patient was instructed to speak
+with his physician about when to restart hydrochlorothiazide.
+
+5. COPD - The patient was restarted and discharged on a steroid
+taper.  Advair and spiriva were continued per the patient's home
+regimen.  There was no evidence of pneumonia on discharge,
+however, the patient was instructed to seek medical attention if
+he developed a fever or worsening cough.
+
+6. Hypoxia: The patient had some new hypoxia in the MICU, likely
+secondary to mild pulmonary edema from fluid resuscitation.  He
+diuresed on his own and his hypoxia resolved by discharge.
+
+7. Anemia - The patient has a normocytic anemia with a
+hematocrit of 33 (stable since 2005-11-25 00:00:00).  The etiology of which is
+unclear etiology.  Colonoscopy in 2005-11-25 00:00:00 did show a polyp.  Stool
+guiacs were negative.
+
+8. Hypercholesterolemia - The patient was continued on his home
+regimen of atorvastatin.
+
+9. BPH - The patient was continued on his home regimen of
+finasteride and flomax.
+
+
+Medications on Admission:
+Aspirin 81MG Tablet daily
+Atorvastatin 10 mg Tablet  daily
+Desloratadine 5mg daily
+Diltiazem240 mg SR daily
+Finasteride 5 mg Tablet  daily
+Fluocinolone 0.025 % Cream
+Advair Diskus 500 mcg-50 mcg 1puff UPMCE
+Folic Acid 1 mg Tablet daily
+Hydrochlorothiazide 25mg daily
+DuoNeb  prn
+Lisinopril 5 mg Tablet daily
+MomDoran Burtt 50mch 2puffs daily
+Prilosec 20 mg UPMCE
+Sildenafil [Viagra] 50 mg Tablet prn
+Flomax 0.4 mg daily
+Spiriva 18 mcg
+Warfarin 8 mg Tablet daily
+Zolpidem [Ambien CR] 12.5 mg Tablet, Multiphasic Release 1
+Tablet(s) by mouth q.h.s. p.r.n.
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation 1 puff UPMCE ().
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+7. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+8. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: Two (2)
+Capsule, Sustained Release PO DAILY (Daily).
+9. Warfarin 2 mg Tablet Sig: Four (4) Tablet PO Once Daily at 4
+PM: Please follow-up at your UPMCE on 2005-11-25 00:00:00 or
+2005-11-25 00:00:00 and as directed by them thereafter.
+10. Prednisone 10 mg Tablet Sig: as directed Tablet PO once a
+day for 5 days: Please take 30 mg on 2005-11-25 00:00:00; then 20 mg daily
+on 2005-11-25 00:00:00 and 2005-11-25 00:00:00; then 10 mg on 2005-11-25 00:00:00 and 2005-11-25 00:00:00; then stop.
+Disp:*9 Tablet(s)* Refills:*0*
+11. DuoNeb 0.5-2.5 mg/3 mL Solution for Nebulization Sig: One
+(1)  Inhalation every six (6) hours as needed for shortness of
+breath or wheezing.
+12. MomDoran Burtt 50 mcg/Actuation Spray, Non-Aerosol Sig: Two (2)
+Nasal once a day.
+13. Flomax 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO once a day.
+14. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+15. Viagra 50 mg Tablet Sig: One (1) Tablet PO qd as needed for
+sexual activity.
+16. Clarinex 5 mg Tablet Sig: One (1) Tablet PO once a day as
+needed for allergy symptoms.
+17. Fluocinolone 0.025 % Ointment Sig: as directed, apply
+sparingly to affected areas  Topical twice a day.
+18. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Paroxysmal atrial fibrillation with rapid ventricular
+response
+2. Paroxysmal atrial flutter with rapid ventricular response
+3. Diarrhea
+
+Secondary Diagnoses:
+1. Chronic Obstructive Pulmonary Disease
+2. Hypertension
+3. Hyperlipidemia
+4. Benign prostatic hyperplasia
+
+
+Discharge Condition:
+Stable, satting in the low to mid 90s on room air, in normal
+sinus rhythm with a heart rate in the 70s.
+
+
+Discharge Instructions:
+You were admitted to the hospital for evaluation of diarrhea,
+low blood pressure, and atrial fibrillation with rapid heart
+rate.  You received diltiazem through an IV in the ICU and your
+heart went back into a normal rhythm.  Your heart went back into
+atrial flutter for awhile, but again went into a normal rhythm
+when you diltiazem dose was increased back to your home regimen.
+ You should follow-up with Dr. Aswath Hertog and will likely need to
+have an ablation of the electrical pathway causing this fast
+heart rhythm.
+
+Your diarrhea resolved on its own.  Tests of your stool did not
+show any evidence of infection.
+
+The following changes were made to your medications:
+1. Please also stop your hydrochlorothiazide and discuss with
+Dr. Burtt if and when you should resume it.
+2. You were also started on a prednisone taper for your COPD.
+Please continue this taper as prescribed.  Please see your
+physician immediately if you develop a temperature greater than
+100.4.
+
+Please follow-up with the physicians as directed below.  You
+will also need to follow-up with your UPMCE clinic.
+
+Please call your physician or return to the hospital if you
+develop fevers, worsening shortness of breath, chest pain, a
+rapid heart rate, or any other concerning symptoms.
+
+Followup Instructions:
+Please follow-up with your PCP, 123 Any St. on
+Tuesday, 2005-11-25 00:00:00 at 9:00 am.  Her office phone number
+is test@mail.com.
+
+Please follow-up with your cardiologist Dr. Aswath Hertog on
+Wednesday, 2005-11-25 00:00:00 at 4:20 pm.  His office phone number
+is test@mail.com.
+
+
+

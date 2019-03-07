@@ -1,0 +1,354 @@
+Admission Date:  2005-03-14 00:00:00              Discharge Date:   2005-03-14 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Morphine Sulfate
+
+Attending:Lassie Grissman
+Chief Complaint:
+Hypoxia
+
+Major Surgical or Invasive Procedure:
+1.  Intubation
+2.  Right Radial Arterial Line
+
+History of Present Illness:
+This is an 87-year-old woman with an extensive PMH including CAD
+3 vessel, HTN, CHF, mod-severe AS who presented with acute
+respiratory distress requiring intubation.  Ms. Azpeitia
+developed increasing dyspnea at home since yesterday with
+elevated blood pressure last evening (SBP > 200).  No history of
+fever, chills, cough, increased sputum or chest pain.  Her
+daughter found her this morning in acute respiratory distress
+and consequently called EMS.  At the time she was ambulating to
+the bathroom.
+.
+In the ED, initial vs were: T 97 P 60 BP 203/97 R 30 O2 sat 74%
+bag mask. Ms. Azpeitia was emergently intubated.  She was given
+lasix 60 mg IV once, per records diuresised 1150 L.  Patient
+dropped pressure to 60 systolic with propofol, improved with 750
+cc bolus and turning off propofol.  The patient was additionally
+given versed and vecuronium.  She received a total of 1.5 L NS,
+Ceftriaxone, and Levofloxacin (empiracally for PNA).  She was
+transferred to the ICU.
+.
+Patient intubated and sedated unable to give history.
+
+Past Medical History:
+1. CAD - 3 Vessel, told to have stress test but refused several
+
+years ago, last catheterization about 12 years ago per patient's
+ daughter.
+2. HTN
+3. Sick sinus syndrome s/p PPM 2005-03-14 00:00:00, replaced 2005-03-14 00:00:00
+4. CHF - last known echo EF >55% (2005-03-14 00:00:00)
+5. Hypothyroidism
+6. paced Afib - not anticoagulated
+7. Chronic lung nodules
+8. Moderate-severe aortic stenosis
+
+Social History:
+Russian speaking.  Patient lives alone and is widowed. No h/o
+tobacco, ETOH. Patient has help for cleaning and bathing, does
+some cooking, daughter does
+shopping. Walks without aid at baseline. Has frequent visitors,
+
+daughter (health care proxy) Hopson Azpeitia lives nearby: test@mail.com.
+
+Family History:
+CAD
+Mother died of appendicitis
+Four brothers died in Hopson Azpeitia
+
+Physical Exam:
+ON ADMISSION TO ED
+T: 97 P: 60 BP: 203/97 R:30 SPO2 sat 74% bag mask
+General Appearance: Intubated
+Eyes / Conjunctiva: PERRL, No(t) Pupils dilated
+Head, Ears, Nose, Throat: Endotracheal tube
+Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal),
+(Murmur: Systolic)
+Peripheral Vascular: (Right radial pulse: Not assessed), (Left
+radial pulse: Not assessed), (Right DP pulse: Not assessed),
+(Left DP pulse: Not assessed)
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Diminished: throughout)
+Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+Extremities: Right lower extremity edema: 1+, Left lower
+extremity edema: 1+
+Skin:  Not assessed
+Neurologic: Responds to: Not assessed, Movement: Not assessed,
+Sedated, Tone: Not assessed
+
+ON DISCHARGE:
+Tm: 98.2, HR: 59, BP: 136/59, SP02: 99 2L
+General:  Well appearing, sitting in chair eating breakfast
+Neck:  Elevated JVP at about 7cm
+Cardiac:  Regular rate and rhythm; 3/6 systolic ejection murmur
+Lungs:  Crackles at bases bilaterally
+Abdomen:  +BS, soft, non-tender, non-distended
+Peripheral Vascular: + Peripheral pulses
+Extremities: Trace edema bilaterally
+Skin:  Warm and dry
+
+Pertinent Results:
+On admission:
+2005-03-14 00:00:00 08:00AM BLOOD WBC-22.7* RBC-4.80 Hgb-14.7 Hct-44.8
+MCV-93 MCH-30.5 MCHC-32.8 RDW-14.3 Plt Ct-181
+2005-03-14 00:00:00 08:00AM BLOOD PT-12.9 PTT-24.6 INR(PT)-1.1
+2005-03-14 00:00:00 08:00AM BLOOD Glucose-319* UreaN-17 Creat-1.2* Na-142
+K-4.8 Cl-107 HCO3-21* AnGap-19
+2005-03-14 00:00:00 08:00AM BLOOD ALT-32 AST-33 LD(LDH)-264* CK(CPK)-63
+AlkPhos-95 TotBili-0.6
+2005-03-14 00:00:00 08:00AM BLOOD Calcium-8.6 Phos-5.9* Mg-2.4
+2005-03-14 00:00:00 08:43AM BLOOD Type-ART Tidal V-550 FiO2-60 pO2-67*
+pCO2-46* pH-7.28* calTCO2-23 Base XS--4 -ASSIST/CON
+Intubat-INTUBATED
+2005-03-14 00:00:00 08:09AM BLOOD Glucose-289* Lactate-5.9* K-4.6
+.
+Cardiac Enzymes:
+2005-03-14 00:00:00 08:00AM BLOOD cTropnT-<0.01
+2005-03-14 00:00:00 08:00AM BLOOD CK-MB-NotDone
+2005-03-14 00:00:00 02:49PM BLOOD CK-MB-NotDone cTropnT-<0.01
+2005-03-14 00:00:00 07:46PM BLOOD CK-MB-NotDone cTropnT-<0.01
+2005-03-14 00:00:00 09:31AM BLOOD proBNP-1430*
+.
+Cardiac Echo 2005-03-14 00:00:00:
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size is normal. The aortic valve leaflets are moderately
+thickened. There is severe aortic valve stenosis (valve area
+0.8cm2). Mild (1+) aortic regurgitation is seen. The mitral
+valve appears structurally normal with trivial mitral
+regurgitation. There is mild pulmonary artery systolic
+hypertension. There is an anterior space which most likely
+represents a fat pad.
+.
+Compared with the prior study (images reviewed) of 2005-03-14 00:00:00, the
+severity of aortic stenosis has progressed.
+.
+CXR 2005-03-14 00:00:00
+Lung volumes are maintained following tracheal extubation.
+Extensive
+bilateral pulmonary consolidation is heterogeneous and also has
+varied in
+radiodensity to different degrees in separate areas over the
+past two days. I suspect much of the abnormality is edema, but
+pulmonary hemorrhage and pneumonia could be making a
+contribution. Moderate cardiomegaly is stable and small
+bilateral pleural effusions have developed since the earliest
+studies on 2005-03-14 00:00:00. Transvenous right atrial and right
+ventricular pacer leads in standard placements. No pneumothorax.
+
+.
+EKG 2005-03-14 00:00:00:
+A-V sequentially paced rhythm with intrinsic A-V conduction and
+right
+bundle-branch block configuration. Compared to the 123 Any St.us
+tracing of 2005-03-14 00:00:00 there is no diagnostic interim change.
+
+Brief Hospital Course:
+Ms. Azpeitia is a pleasant 87-year-old woman with CAD, CHF,
+HTN, sick sinus syndrome s/p pacer, moderate-severe AS who
+presented to UPMCE on 2005-03-14 00:00:00 with acute respiratory distress.
+Due to her poor respiratory status she was intubated in the
+emergency department and admitted to the medical intensive care
+unit. On 2005-03-14 00:00:00, her respiratory status had improved and she was
+successfully extubated. On 2005-03-14 00:00:00, she was transferred to the
+cardiology service. Her brief hospital course was notable for:
+.
+# ACUTE RESPIRATORY DISTRESS:  Acute pulmonary edema was
+suspected as the most likely etiology of the patient's acute
+respiratory distress, in setting of diastolic dysfunction and
+moderate-severe AS.  Initially, there was concern for myocardial
+infarction however, she was ultimately ruled out with three sets
+of negative cardiac enzymes. There was also concern for
+pneumonia and initially Ms. Azpeitia was put on antibiotics.
+However, due to lack of fever, leukocytosis, and marked clinical
+improvement, antibiotics were discontinued on 2005-03-14 00:00:00.  In the
+MICU, Ms. Azpeitia was diuresed with 60 IV lasix x 1, and on
+2005-03-14 00:00:00 was restarted on her home regimen of 80 mg PO lasix. An
+arterial line was placed on 2005-03-14 00:00:00 without incident, for close
+BP observation, and this was discontinued on 2005-03-14 00:00:00, prior to
+transfer to the floor. She was successfully extubated on 2005-03-14 00:00:00.
+.
+Upon arrival on medicine floor, Ms. Azpeitia was started on
+Torsemide (eventually uptitrated to 40mg UPMCE) with good urine
+output and diminishment of rales on lung exam.  (Patient was
+diuresed with caution in light of mod-severe AS).  SP02
+continued to be 92-95% on 2L nasal cannula.  She was also
+started on Lisinopril 20mg QD for better BP control and
+afterload reduction.  Better BP control will help with pulmonary
+edema, but without valvular repair, this issue cannot be
+entirely corrected.  Both the family and the patient are aware
+of this.
+.
+# HYPERTENSION: During her hospitalization, the patient was
+noted to have labile blood pressures ranging from hypo to
+hypertensive. Hypotensive episodes occured in the setting of
+getting propofol for sedation while intubated, and hypertensive
+episodes occured primarily in the settings of anxiety, and after
+extubation.  In the MICU, Ms. Azpeitia was initially started on
+captopril, but this was changed to Lisinopril on the medicine
+floor.  Her home clonadine was stopped; home Lopressor was
+switched to Carvedilol for better alpha blockage.  Torsemide
+40mg UPMCE was started as above.  Ms. Azpeitia was also given
+lorazepam prn anxiety.
+.
+# Azpeitia: Creatinine increased to 1.2 from baseline 0.9 in the
+setting of diuresis.  It trended down to 1.0 on day of
+discharge.
+.
+# CAD: Patient with known 3 vessel disease. No history of chest
+pain and cardiac biomarkers were present.  EKG did not reveal
+any ST wave changes, though it did show some pacing
+irregularities.  ASA and simvastatin were continued.  Ms.
+Hopson Azpeitia was discharged on ASA, simvastatin, and ACE-I.
+.
+# MODERATE-SEVERE AORTIC STENOSIS:  Ms. Azpeitia had increasing
+dyspnea prior to admission, but no known history of chest pain
+or syncope.  And ECHO from 2005-03-14 00:00:00 shows an LVEF of 55% and an
+aortic valve area of 0.8cm2.  Ms. Azpeitia prefers medical
+management of AS and does not want surgery.  Her Imdur was
+stopped during admission and she was diuresis cautiously as AS
+makes her preload dependent.
+.
+# HYPOTHYROIDISM:  Levothyroxine was continued at 50mcg daily.
+.
+# RATE:  Ms. Azpeitia has a history of Afib and sick sinus
+syndrome s/p PPM.  Pacemaker was interrogated by EP during
+admission and some changes were made.  Ms. Azpeitia should
+follow up with Device Clinic in 1 month and Dr. Lassie Grissman on
+2005-03-14 00:00:00.  She was discharged on Amiodarone and Carvedilol.
+.
+#GOUT:  After aggressive diuresis, Ms. Azpeitia complained of
+symptoms consistent with gouty flare in left big toe.
+Colchicine was started at 0.6mg QD and pain begam to subside.
+Colchicine was continued on discharge.  Outpatient management of
+gout is deferred to PCP.
+
+Medications on Admission:
+meclizine 12.5mg UPMCE
+simvastatin 20 mg daily
+levothyroxine 50 mcg daily
+Lopressor 50 mg UPMCE,
+Imdur 60 mg daily at noon
+Amiodarone 200 mg daily
+Aspirin 81 mg daily
+Lasix 80 mg daily C
+Clonidine 0.1 mg, 2 tablets in Am and 1 tablet in PM.
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+7. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Torsemide 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+9. Meclizine 12.5 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+10. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+11. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed for pain/fever.
+12. Senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.
+13. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+14. Oxygen
+Continue oxygen by nasal cannula (1-6L) as needed.  Call your
+doctor Hopson Azpeitia worsens or your oxygen requirement
+increases.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary
+1.  Acute pulmonary edema in the setting of high blood pressure
+
+Secondary
+1.  Coronary artery disease
+2.  Diastolic heart failure
+3.  Sick sinus syndrome s/p pace maker
+4.  Hypothyroidism
+6.  Atrial fibrillation
+7.  Moderate-severe aortic stenosis
+
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane)
+
+
+Discharge Instructions:
+Dear Ms. Azpeitia,
+
+It was a pleasure taking care of you on this admission.  You
+came to the hospital because you were having shortness of
+breath.  In the Emergency Department your oxygen level was found
+to be very low and your blood pressure very high.  You were
+intubated (put on a ventilator) and sent to the intensive care
+unit.  We think that you had trouble Azpeitia because your
+blood pressure was high which, in relation to your other cardiac
+issues, ultimately caused fluid to accumulate in your lungs.
+.
+The following changes were made to your medications in order to
+ensure better control of your blood pressure in the setting of
+your aortic stenosis.  We also started a medication to help with
+your gout.
+1.  STOP taking Imdur 60mg daily
+2.  STOP taking Lopressor 50 mg twice a day
+3.  STOP taking Lasix 80mg daily
+4.  STOP taking Clonidine
+5.  START taking Carvedilol 12.5mg twice a day
+6.  START taking Lisinopril 20mg daily
+7.  START colchicine 0.6mg daily (for gout)
+8.  START Torsemide 40mg twice a day
+.
+At the rehab facility you will also receive Colace and Senna (to
+help you move your bowels), Tylenol as needed for pain, oxygen,
+and Heparin three times daily to prevent blood clots.
+.
+You will need to have your chemistry (electrolytes) checked in
+one week because of some of the medications we are starting.
+.
+Please keep all of your doctors' appointments.  Please take all
+of your medications as prescribed.
+.
+Weigh yourself every day and call your doctor if you gain more
+than 3 pounds.
+.
+Call your doctor or return to the hospital if you develop
+shortness of breath, chest pain, severe headache, bright red
+blood in your stool, abdominal pain, nausea, vomiting, diarrhea,
+fever or any other concerning symptoms.
+
+Followup Instructions:
+Please call your PCP Azpeitia. Azpeitia at test@mail.com to make an
+appointment in 2005-03-14 00:00:00 weeks after you are discharged from the
+rehabilitation facility.
+
+You will be called by the Device Clinic for an outpatient
+interrogation of your pacemaker one month after discharge.
+
+Cardiology, Dr. Lassie Grissman:  2005-03-14 00:00:00  09:20a
+123 Any St.
+CC7 CARDIOLOGY (SB)
+
+

@@ -1,0 +1,136 @@
+Admission Date:  2006-06-22 00:00:00              Discharge Date:   2006-06-22 00:00:00
+
+Date of Birth: 1975-06-09 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Cainin Guerber
+Chief Complaint:
+s/p fall
+
+Major Surgical or Invasive Procedure:
+2006-06-22 00:00:00: attempted laminectomy (aborted for bleeding)
+2006-06-22 00:00:00: C4-T3 laminectomy, C4-T1 fusion
+2006-06-22 00:00:00: C4-C7 anterior fusion
+
+History of Present Illness:
+74M on coumadin for a fib s/p unwitnessed fall down several
+flights of stairs, +LOC.  He was uncertain about any
+123 Any St.itating symptoms & does not remember event at all.  He
+complained of LBP & R leg pain on arrival to ED & soon
+thereafter developed paresthesias of the arms, as well as
+weakness of the right foot while in the ED.
+
+Past Medical History:
+A fib (on coumadin)
+HTN
+COPD
+BPH
+DJD
+left bell palsy
+R hipo replacement
+
+Social History:
+No toxic habits
+Married
+Moved from 123 Any St. at young age
+Retired cook.
+
+Family History:
+noncontributory
+
+Physical Exam:
+AVSS, GCS 15
+NCAT
+trachea midline, +C collar
+RRR
+CTA bilat
+soft obese nontender
+guaiac neg
+5/5 strength x4, moving all extremities in trauma bay
+
+Pertinent Results:
+On arrival:
+
+INR 8.9
+
+INJURIES:
+prevertebral, posterior paraspinal cervical hematomas
+cervical epidural hematoma, s/p cervical laminectomy 2006-06-22 00:00:00
+C spine fractures, s/p C4-C7 anterior fusion 2006-06-22 00:00:00
+T spine fractures (T2,3,11 vert bodies)
+Epidural hematoma (C5-T4 cord compression, T6-T12-no
+compression)
+R subclavian hematoma
+R retroperitoneal hematoma (psoas/iliacus) (?compression of
+femoral nerve)
+Hairline sacral fx
+
+Brief Hospital Course:
+2006-06-22 00:00:00: Admitted to TSICU following fall.
+2006-06-22 00:00:00: Reversal of anticoagulation & definitive repair of
+epidural hematomata
+2006-06-22 00:00:00: Transfer to floor
+2006-06-22 00:00:00: Cardiorespiratory arrest, reintubation & transfer back to
+TISCU
+2006-06-22 00:00:00: Removal of care & declaration of death
+
+NEURO: Lost bilat arm & RLE strength in ED secondary to
+explanding cervical epidural hematoma.  Brought to OR by spine
+team x3 (2006-06-22 00:00:00: case aborted for excessive bleeding, 2006-06-22 00:00:00:
+laminectomy & posterior fusion, 2006-06-22 00:00:00: anterior fusion).
+Neurologically intact until 2006-06-22 00:00:00 arrest, after which patient was
+unresponsive.  Followed by neurology & ortho spine teams.
+
+CV: recurrent rapid a fib throughout ICU course, controlled with
+lopressor & diltiazem.  followed by cards team.
+
+RESP: tolerated extubation easily following 3rd OR.  Apneic
+after arrest event on 2006-06-22 00:00:00.
+
+HEME: followed by hematology for continued oozing during OR
+interventions despite reversal of anticoagulation.
+
+ID: treated with zosyn for aspiration pneumonia.  see culture
+data for microbiological ID.
+
+Medications on Admission:
+coumadin, advair, atenolol, zestril, hydroxyzine, fluoxetine
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+prevertebral, posterior paraspinal hematomas
+cervical epidural hematoma, s/p cervical laminectomy 2006-06-22 00:00:00
+C spine fractures, s/p C4-C7 anterior fusion 2006-06-22 00:00:00
+T spine fractures (T2,3,11 vert bodies)
+Epidural hematoma (C5-T4 cord compression, T6-T12-no
+compression)
+R subclavian hematoma
+R retroperitoneal hematoma (psoas/iliacus) (?compression of
+femoral nerve)
+Hairline sacral fx
+respiratory arrest
+A fib
+HTN
+COPD
+aspiration pneumonia
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:2006-06-22 00:00:00

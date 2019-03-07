@@ -1,0 +1,277 @@
+Admission Date:  2009-07-19 00:00:00              Discharge Date:   2009-07-19 00:00:00
+
+Date of Birth: 1942-07-19 00:00:00 00:00:00             Sex:   M
+
+Service: ORTHO123 Any St.S
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Yelina Ferrer
+Chief Complaint:
+left hip pain
+
+Major Surgical or Invasive Procedure:
+left total hip replacement - revision
+
+
+History of Present Illness:
+Mr. Stangelo was working in his
+cellar on 2009-07-19 00:00:00 when he tripped and fell on a step
+and sustained a left subcapital hip fracture.  As you know, this
+was treated with an uncemented Osteonics Omnifit
+hemiarthroplasty
+on 2009-07-19 00:00:00.  This was performed through an
+anterolateral approach.  His postoperative course was
+uneventful.
+ Over the ensuing months, he did receive treatment from an
+orthopedic surgeon in 123 Any St., whereby he was given
+viscosupplementation injections of the left knee.  He did not
+have any improvement of his knee pain at that time.
+Subsequently, in 2009-07-19 00:00:00, he was admitted with pneumonia.  At
+that time, his hip was painful and an x-ray revealed subluxation
+of the hemiarthroplasty.  Aspiration was positive for infection.
+
+The aspiration white cell count on 2009-07-19 00:00:00 was 35,500
+with
+97% polys.  The patient was then taken to the operating room by
+Dr. Yelina Ferrer who performed a resection of the
+hemiarthroplasty, irrigation and debridement, and spacer with
+antibiotic cement.  Tissue culture on 2009-07-19 00:00:00 revealed
+coagulase negative Staphylococcus as well as propionibacterium
+acnes.  The patient was then subsequently treated with
+intravenous antibiotics and the spectrum was widened to include
+vancomycin, ceftriaxone, and azithromycin.  He was discharged on
+an antibiotic regimen of vancomycin and ceftriaxone and
+demonstrated improvement in his fevers and pain.  He completed
+five weeks of intravenous vancomycin.  He developed Clostridium
+difficile infection on 2009-07-19 00:00:00 which was treated with
+Flagyl.
+ For this reason, IV antibiotics were discontinued at five weeks
+rather than six weeks.  Mr. Stangelo now presents for assessment
+for reimplantation of the hip.
+
+
+Past Medical History:
+CAD s/p DES to RCA in 2009-07-19 00:00:00
+Prostate cancer s/p radical prostectomy 2009-07-19 00:00:00
+Hypertension
+Hypothyroidism dx early 2009-07-19 00:00:00
+Glaucoma
+s/p bilateral ankle surgery
+carpal tunnel s/p surgical release 2009-07-19 00:00:00
+s/p L hernia repair 2009-07-19 00:00:00
+
+Social History:
+Pt lives with wife in Jacquelline Stangelo, recently from nursing home. He
+denies current tobacco use or illicit drug use. Admits to
+occasional glass of wine.  Used to own a sub shot.
+
+
+Family History:
+nc
+
+Physical Exam:
+well-appearing, well nourished 78 year old male
+alert and oriented
+no acute distress
+LLE:
+ -dressing-c/d/i
+ -incision-c/d/i, +edema and ecchymosis, no drainage
+ -+AT, FHL, Stangelo
+ -SILT
+ -brisk cap refill
+ -calf-soft,nontender
+ -NVI distally
+
+Brief Hospital Course:
+ICU course:
+Pt transfered to the ICU for post op care in setting of
+hypotension. He was put on low dose pressors for hypotension
+thought to be hypovolemic in nature Stangelo surgery and blood loss.
+He was noted to have anemia and was transfered a total of 5
+UPRBC over the course of 2 days. Pt quickly improved, weaned off
+pressors, and BP and HCT stabalized. He was given Vancomycin 1g
+UPMCE for septic arthritis. He was tranfered to the ortho service
+in stable condition.
+
+The patient was admitted to the ortho123 Any St. surgery service and
+was taken to the operating room for above described procedure.
+Please see separately dictated operative report for details. The
+
+surgery was uncomplicated and the patient tolerated the
+procedure well. Patient received perioperative IV antibiotics.
+
+Postoperative course was remarkable for the following:
+
+******
+
+Otherwise, pain was initially controlled with a PCA followed by
+a transition to oral pain medications on POD#1.  The patient
+received lovenox for DVT prophylaxis starting on the morning of
+POD#1.  The foley was removed on POD#2 and the patient was
+voiding independently thereafter. The surgical dressing was
+changed on POD#2 and the surgical incision was found to be clean
+
+and intact without erythema or abnormal drainage. The patient
+was seen daily by physical therapy. Labs were checked throughout
+
+the hospital course and repleted accordingly. At the time of
+discharge the patient was tolerating a regular diet and feeling
+well.  The patient was afebrile with stable vital signs.  The
+patient's hematocrit was acceptable and pain was adequately
+controlled on an oral regimen. The operative extremity was
+neurovascularly intact and the wound was benign.
+
+The patient's weight-bearing status is weight bearing as
+tolerated on the operative extremity.
+
+
+Mr Stangelo is discharged to rehab in stable condition with
+prescriptions for lovenox and hydromorphone.
+
+
+Medications on Admission:
+tylenol, ASA, colace, flovent, levoxyl, losartan, lovenox,
+metoprolol succinate, morphine, neurontin, miralax, plavix,
+simvastatin, tramadol, brimonidine, timolol, travaprost eye
+gtts, vit B12
+
+
+Discharge Medications:
+1. Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) syringe
+Subcutaneous DAILY (Daily).
+Disp:*21 syringe* Refills:*0*
+2. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+4. Levothyroxine 175 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Timolol Maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic UPMCE
+(2 times a day).
+6. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q8H
+(every 8 hours).
+7. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+8. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+9. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+10. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+11. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO BID (2 times a day) as needed for Constipation.
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+13. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed for pain.
+Disp:*100 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Left hip osteomyelitis/septic arthritis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+1. Please return to the emergency department or notify your
+physician if you experience any of the following: severe pain
+not relieved by medication, increased swelling, decreased
+sensation, difficulty with movement, fevers greater than 101.5,
+shaking chills, increasing redness or drainage from the incision
+
+site, chest pain, shortness of breath or any other concerns.
+2. Please follow up with your primary physician regarding this
+admission and any new medications and refills.
+3. Resume your home medications unless otherwise instructed.
+4. You have been given medications for pain control. Please do
+not drive, operate heavy machinery, or drink alcohol while
+taking these medications. As your pain decreases, take fewer
+tablets and increase the time between doses. This medication can
+
+cause constipation, so you should drink plenty of water daily
+and take a stool softener (such as colace) as needed to prevent
+this side effect.  Call your surgeons office 3 days before you
+are out of medication so that it can be refilled.  These
+medications cannot be called into your pharmacy and must be
+picked up in the clinic or mailed to your house.  Please allow
+an extra 2 days if you would like your medication mailed to your
+
+home.
+5. You may not drive a car until cleared to do so by your
+surgeon or your primary physician.
+6. Please keep your wounds clean. You may shower starting five
+days after surgery, but no tub baths or swimming for at least
+four weeks. No dressing is needed if wound continues to be
+non-draining. Any stitches or staples that need to be removed
+will be taken out by the visiting nurse or rehab facility two
+weeks after your surgery.
+7. Please call your surgeon's office to schedule or confirm your
+
+follow-up appointment in four weeks.
+8. Please DO NOT take any non-steroidal anti-inflammatory
+medications (NSAIDs such as celebrex, ibuprofen, advil, aleve,
+motrin, etc).
+9. ANTICOAGULATION: Please continue your lovenox for three weeks
+
+to help prevent deep vein thrombosis (blood clots).  After
+com123 Any St.g the lovenox, please take Aspirin 325mg  TWICE  daily
+for an additional three weeks.  You may restart your plavix once
+you have finished lovenox.
+10. WOUND CARE: Please keep your incision clean and dry. It is
+okay to shower five days after surgery but no tub baths,
+swimming, or submerging your incision until after your four week
+
+checkup. Please place a dry sterile dressing on the wound each
+day if there is drainage, otherwise leave it open to air. Check
+wound regularly for signs of infection such as redness or thick
+yellow drainage.
+Staples will be removed by the visiting nurse or rehab facility
+in two weeks.
+11. VNA (once at home): Home PT/OT, dressing changes as
+instructed, wound checks, and staple removal at two weeks after
+surgery.
+12. ACTIVITY: Weight bearing as tolerated on the operative
+extremity. Posterior hip precautions. No strenuous exercise or
+heavy
+lifting until follow up appointment.
+
+Physical Therapy:
+Weight bearing as tolerated on the operative extremity.
+Posterior hip precautions.  No strenuous exercise or heavy
+lifting until follow
+up appointment.
+
+Treatments Frequency:
+Please keep your incision clean and dry. It is okay to shower
+five days after surgery but no tub baths, swimming, or
+submerging your incision until after your four week checkup.
+Please place a dry sterile dressing on the wound each day if
+there is drainage, otherwise leave it open to air. Check wound
+regularly for signs of infection such as redness or thick yellow
+drainage.
+Staples will be removed by the visiting nurse or rehab facility
+in two weeks.
+
+
+Followup Instructions:
+Provider: Jacquelline Yelina Ferrer Stangelo, 46198:test@mail.com
+Date/Time:2009-07-19 00:00:00 11:40
+
+
+
+Completed by:2009-07-19 00:00:00

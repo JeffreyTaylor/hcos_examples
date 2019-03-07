@@ -1,0 +1,185 @@
+Admission Date: 2010-11-14 00:00:00        Discharge Date: 2010-11-14 00:00:00
+
+Date of Birth: 1984-11-09 00:00:00 00:00:00        Sex:  F
+
+Service:  CSU
+
+
+Ms. Breitbach is a direct admission to the operating room for
+aortic valve surgery.  She was seen in preadmission testing
+prior to her scheduled surgery.  At the time of visit in
+preadmission testing, the patient's physical exam is as
+follows.
+
+CHIEF COMPLAINT:  Asymptomatic patient.
+
+HISTORY OF PRESENT ILLNESS:  A 79-year-old woman, with known
+AS x 9 years followed by serial echoes, the last echo with
+worsening aortic stenosis and a diminishing aortic valve
+area, referred for cath and followed by aortic valve
+replacement.  The patient had an echo done in 2010-11-14 00:00:00
+that showed an EF of 60 percent with an aortic valve area of
+0.9, and a peak gradient of 96, and a mean gradient of 60,
+with mild LVH, 1 plus AI, and 1 plus TR.  She had a cardiac
+cath done 2010-11-14 00:00:00 that showed an aortic valve gradient of
+56, with an aortic valve area of 0.5 cm2, an EF of 56
+percent, RCA 40 percent, left main 20 percent, and an LAD 30
+percent lesion.
+
+PAST MEDICAL HISTORY:  Hypertension.
+
+Aortic murmur.
+
+Hiatal hernia.
+
+GERD.
+
+Diverticulosis.
+
+Hernia repair in 2010-11-14 00:00:00.
+
+Cataract surgery in 2010-11-14 00:00:00.
+
+D and C in 2010-11-14 00:00:00.
+
+Drainage of a thyroid cyst approximately 10 years ago.
+
+MEDS AT ADMISSION:
+1. Cardizem CD 240 once daily.
+2. Hydrochlorothiazide 12.5 once daily
+3. Lipitor 10 once daily.
+4. Niferex 150 once daily.
+5. Calcium.
+6. Glucosamine.
+7. Metamucil.
+
+
+ALLERGIES:  The patient states environmental allergies, as
+well as codeine, although her reaction is simply confusion.
+
+FAMILY HISTORY:  Mother died of CAD in her 70s.  Father died
+of CAD late in life.
+
+SOCIAL HISTORY:  She lives with her husband.  She denies
+tobacco use.  Occasional alcohol use.  No other recreational
+drug use.
+
+REVIEW OF SYMPTOMS:  Noncontributory.
+
+PHYSICAL EXAM:  VITAL SIGNS:  Heart rate 86, blood pressure
+124/80, respiratory rate 20, height 5 feet 0 inches, weight
+138 pounds.  GENERAL:  Sitting up in chair, no acute
+distress.  SKIN:  Warm, dry and intact.  No lesions.  HEENT:
+Pupils equally round and reactive to light.  Extraocular
+movements intact.  Neck is supple with no JVD and no bruits,
+but she does have a radiated murmur.  Chest is clear to
+auscultation bilaterally.  Heart regular rate and rhythm with
+a IV/VI systolic ejection murmur.  Abdomen is soft,
+nontender, nondistended with normoactive bowel sounds.
+Extremities are warm and well-perfused with 1-2 plus edema,
+right greater than left.  VARICOSITIES:  None.
+Neurologically alert and oriented x 3.  Nonfocal exam.
+PULSES:  Femoral 2 plus bilaterally.  Dorsalis pedis 1 plus
+bilaterally.  Posterior tibial 1 plus bilateral.  Radial 2
+plus bilaterally.
+
+Carotid ultrasound showed less than 40 percent stenosis
+bilaterally.
+
+LABS:  White count 4.5, hematocrit 32, platelets 234, PT
+12.8, INR 1.0, sodium 139, potassium 3.2, chloride 100, CO2
+28, BUN 16, creatinine 0.8, glucose 122, ALT 13, AST 22, alk
+phos 82, amylase 78, total bili 0.5, albumin 4.0, hemoglobin
+A1C 5.1.  Chest x-ray showed no CHF or pneumonia.
+
+HOSPITAL COURSE:  On 2010-11-14 00:00:00, the patient was directly
+admitted to the operating room where she underwent an aortic
+valve replacement with a number 23 mm Breitbach-Jasye Mantzke
+tissue valve.  Her bypass time was 142 minutes with a
+crossclamp time of 102 minutes.  She tolerated the operation
+well and was transferred from the operating room to the
+Cardiothoracic Intensive Care Unit.  At the time of transfer,
+the patient was in a normal sinus rhythm at 85 beats per
+minute, with a mean arterial pressure of 67 and a CVP of 15.
+She had propofol at 20 mcg/kg/min and Neo-Synephrine at 0.15
+mcg/kg/min.
+
+The patient did well in the immediate postoperative period.
+Her anesthesia was reversed.  She was weaned from the
+ventilator and successfully extubated.  Throughout that
+period, she remained hemodynamically stable, as she did
+throughout the operative day.  However, she did require a
+Nipride drip to maintain a blood pressure between 100 and
+110.
+
+On postoperative day 1, the patient continued to be
+hemodynamically stable.  She was begun on oral medications
+and weaned off of her Nipride drip.  Additionally, her chest
+tubes were removed, and she was transferred to the floor for
+continuing postoperative care and cardiac rehabilitation.
+Once on the floor, the patient had an uneventful hospital
+course.  Her activity level was increased with the assistance
+of the nursing staff, as well as physical therapy.
+
+On postoperative day 3, her temporary pacing wires and her
+Foley catheter were removed.  Over the next 2 days, her
+activity level was further advanced with nursing and physical
+therapy assistance, and on postoperative day 6, it was
+decided that the patient was stable and ready to be
+discharged to home.
+
+DISCHARGE VITALS:  Temperature 98.3, heart rate 81--sinus
+rhythm, blood pressure 128/66, respiratory rate 22, O2 sat 94
+percent on room,  weight preoperatively 63 kg, at discharge
+60.1 kg.
+
+LAB DATA:  Hematocrit 29.4, sodium 142, potassium 3.5,
+chloride 102, CO2 34, BUN 16, creatinine 0.8, glucose 98.
+
+DISCHARGE PHYSICAL EXAM:  NEURO:  Alert and oriented x 3.
+Moves all extremities.  Follows commands.  Nonfocal exam.
+RESPIRATORY:  Lungs clear to auscultation bilaterally.
+CARDIAC:  Regular rate and rhythm, S1, S2, with no murmur.
+Sternum is stable.  Incision with Steri-Strips, open to air,
+clean and dry.  Abdomen is soft, nontender, nondistended with
+normoactive bowel sounds.  Extremities are warm and well-
+perfused with no edema.
+
+ThBreitbach is to be discharged to home with visiting nurses.
+She is to have follow-up with Dr. Breitbach in 2010-11-14 00:00:00 weeks, and
+follow-up with Dr. 123 Any St.es) **] in 4 weeks.  Additionally, she
+is to have follow-up with her primary care doctor Efram
+Breitbach once she returns to 123 Any St..
+
+DISCHARGE DIAGNOSES:  Status post aortic valve replacement
+with a number 23 Breitbach-Jasye Mantzke tissue valve.
+
+Hypertension.
+
+Gastroesophageal reflux disease.
+
+Diverticulosis.
+
+Hernia repair.
+
+Cataracts.
+
+DISCHARGED MEDICATIONS:
+1. Metoprolol 50 mg UPMCE.
+2. Colace 100 mg UPMCE.
+3. Aspirin 325 once daily.
+4. Percocet 5/325, 1-2 tabs q 4-6 hr prn.
+5.
+   Atorvastatin 10 mg once daily.
+6. Niferex 150 mg once daily.
+
+
+
+
+                        123 Any St.es) **], M.D. 3161
+
+Dictated By:Jasye Mantzke
+MEDQUIST36
+D:  2010-11-14 00:00:00 17:55:55
+T:  2010-11-14 00:00:00 10:57:54
+Job#:  3161

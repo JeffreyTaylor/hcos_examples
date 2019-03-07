@@ -1,0 +1,271 @@
+Admission Date:  2009-04-18 00:00:00              Discharge Date:   2009-04-18 00:00:00
+
+Date of Birth: 1956-04-18 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Latex / Erythromycin Base / Percocet / Vicodin / Sulfa
+(Sulfonamides) / Penicillins / Alcohol / Egg
+
+Attending:Aby Javaux
+Chief Complaint:
+35F with 6 months of headaches and intermittent dizziness who
+was found to have a 2.4cm left cerebellar brain mass
+
+Major Surgical or Invasive Procedure:
+2009-04-18 00:00:00:Left suboccipital craniotomy for tumor resection with
+cranioplasty
+
+
+History of Present Illness:
+35 year old female presents with approximately 6 months of
+headaches and intermittent dizziness. She reports no visual
+changes, no new gait disturbances, no numbness, or tingling. Her
+PCP referred her to Dr. Aby Javaux who ordered an MRI of the brain.
+She had this in 2009-04-18 00:00:00 and the study revealed a brain
+mass in the left cerebellum measuring 2.4 cm at the greatest
+diameter. Dr. Aby Javaux for
+neurosurgical
+consultation.
+
+Past Medical History:
+sarcoidosis (affecting liver and kidneys) - dx in 2009-04-18 00:00:00,
+multiple ear infections s/p multiple surgeries, s/p lymph node
+biopsy, s/p kidney biopsy, s/p cyst removal, HTN (secondary to
+sarcoidosis in kidneys), hypercholesterolemia
+
+
+Social History:
+lives alone, works as Nanny part time
+
+Family History:
+mother:died from metastatic breast CA, maternal
+grandmother and Contrella Wimbley aunt both had non-Contrella Wimbley Lymphoma,
+maternal grandfather had leukemia
+
+
+Physical Exam:
+On Discharge:
+Neurologically intact. Scalp incision clean, dry, intact. Rash
+to FA significantly improved, with only trace red pigmentation
+and non-pruritic.
+
+Pertinent Results:
+Labs on Admission:
+2009-04-18 00:00:00 01:59PM BLOOD Hct-34.9*
+2009-04-18 00:00:00 01:26AM BLOOD Plt Ct-311
+
+------------------
+IMAGING:
+-----------------
+NCHCT 2009-04-18 00:00:00(post-op): stable, with expected post-operative
+changes.
+
+MRI Head 2009-04-18 00:00:00(post-op): Expected postsurgical changes identified
+at the left posterior fossa, status post meningioma resection as
+described. There is no evidence of intracranial hemorrhage or
+ischemic changes. The 123 Any St.usly noted meningioma at the left
+posterior fossa has been resected with no evidence of residual
+mass, followup after complete reabsorption of the post-surgical
+blood products is recommended
+
+
+Brief Hospital Course:
+Patient presented electively for resection of left posterior
+fossa mass on 2009-04-18 00:00:00 and underwent left suboccipital craniotomy
+for resection of mass with cranioplasty without complications.
+123 Any St.inary pathology in the OR showed that the mass was a
+menigioma.  She was extubated in the OR and transferred to the
+ICU post-op.  Upon her post-op check she was found to be full
+strength, with PERRL, EOM's intact, no drift, and no dysmetria.
+
+On POD#1, her examination was stable, so she was transferred to
+the neurosurgery floor following her routine post-operative MRI.
+Her steroids were ordered to taper to off over four days.
+
+She was seen and evaluated by PT and OT who determined that she
+was safe to go home without services. The patient developed a
+rash on the left forearm which was initially thought to be
+cellulitis or an allergic reaction. She was placed on
+clindamycin for a couple of days. The rash was pruritic in
+nature and improved greatly with benadryl. Therefore the
+Clindamycin was discontinued. The rash subsequently improved
+
+The patient continued to have pain that was 2009-04-18 00:00:00 on 2009-04-18 00:00:00 so her
+pain regimen was adjusted accordingly. She responded well, and
+was discharged to home in good condition on 2009-04-18 00:00:00.  of note,
+the rash to her L FA was very faint and no longer pruritic at
+the time of discharge.
+
+
+Medications on Admission:
+CeleXA 20mg',Jolessa 0.15mg/30mcg',Valsartan 160mg', Lorazepam
+prn spasm,Diazepam 5mg"',Omeprazole 40mg'
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H
+(every 6 hours) as needed for itching.
+4. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed for Pain: No driving while on this medication.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: 2009-04-18 00:00:00
+Drops Ophthalmic UPMCE (2 times a day).
+7. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+8. Methocarbamol 500 mg Tablet Sig: 1.5 Tablets PO TID (3 times
+a day).
+Disp:*135 Tablet(s)* Refills:*0*
+9. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for headache.
+10. Methocarbamol 500 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+Disp:*180 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Left posterior fossa meningioma
+
+
+Discharge Condition:
+Neurologically Stable
+
+
+Discharge Instructions:
+GENERAL INSTRUCTIONS
+WOUND CARE:
+??????	You or a family member should inspect your wound every day and
+report any of the following problems to your physician.
+??????	Keep your incision clean and dry.
+??????	You may wash your hair with a mild shampoo 24 hours after your
+sutures are removed.
+??????	Do NOT apply any lotions, ointments or other products to your
+incision.
+??????	DO NOT DRIVE until you are seen at the first follow up
+appointment.
+??????	Do not lift objects over 10 pounds until approved by your
+physician.
+
+DIET
+Usually no special diet is prescribed after a craniotomy. A
+normal well balanced diet is recommended for recovery, and you
+should resume any specially prescribed diet you were eating
+before your surgery.  Be sure however, to remain well hydrated,
+and increase your consumption of fiber, as pain medications may
+cause constipation.
+
+MEDICATIONS:
+??????	Take all of your medications as ordered.  You do not have to
+take pain medication unless it is needed.  It is important that
+you are able to cough, breathe deeply, and is comfortable enough
+to walk.
+??????	Do not use alcohol while taking pain medication.
+??????	Medications that may be prescribed include:
+-Narcotic pain medication such as Dilaudid (hydromorphone).
+	-An over the counter stool softener for constipation (Colace or
+Docusate). If you become constipated, try products such as
+Dulcolax, Milk of Magnesia, first, and then Magnesium Citrate or
+Fleets enema if needed). Often times, pain medication and
+anesthesia can cause constipation.
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and
+Ibuprofen etc, as this can increase your chances of bleeding.
+??????	You are being sent home on steroid medication(taper to off),
+make sure you are taking a medication to protect your stomach
+(Prilosec, Protonix, or Pepcid), as these medications can cause
+stomach irritation.  Make sure to take your steroid medication
+with meals, or a glass of milk.
+
+ACTIVITY:
+The first few weeks after you are discharged you may feel tired
+or fatigued. This is normal. You should become a little stronger
+every day. Activity is the most important measure you can take
+to prevent complications and to begin to feel like yourself
+again. In general:
+??????	Follow the activity instructions given to you by your doctor
+and therapist.
+??????	Increase your activity slowly; do not do too much because you
+are feeling good.
+??????	You may resume sexual activity as your tolerance allows.
+??????	If you feel light headed or fatigued after increasing
+activity, rest, decrease the amount of activity that you do, and
+begin building your tolerance to activity more slowly.
+??????	DO NOT DRIVE until you speak with your physician.
+??????	Do not lift objects over 10 pounds until approved by your
+physician.
+??????	Avoid any activity that causes you to hold your breath and
+push, for example weight lifting, lifting or moving heavy
+objects, or straining at stool.
+??????	Do your breathing exercises every two hours.
+??????	Use your incentive spirometer 10 times every hour, that you
+are awake.
+
+WHEN TO CALL YOUR SURGEON:
+With any surgery there are risks of complications. Although your
+surgery is over, there is the possibility of some of these
+complications developing. These complications include:
+infection, blood clots, or neurological changes. Call your
+Physician Immediately if you Experience:
+
+??????	Confusion, fainting, blacking out, extreme fatigue, memory
+loss, or difficulty speaking.
+??????	Double, or blurred vision. Loss of vision, either partial or
+total.
+??????	Hallucinations
+??????	Numbness, tingling, or weakness in your extremities or face.
+??????	Stiff neck, and/or a fever of 101.5F or more.
+??????	Severe sensitivity to light. (Photophobia)
+??????	Severe headache or change in headache.
+??????	Seizure
+??????	Problems controlling your bowels or bladder.
+??????	Productive cough with yellow or green sputum.
+??????	Swelling, redness, or tenderness in your calf or thigh.
+
+Call 911 or go to the Nearest Emergency Room if you Experience:
+??????	Sudden difficulty in breathing.
+??????	New onset of seizure or change in seizure, or seizure from
+which you wake up confused.
+??????	A seizure that lasts more than 5 minutes.
+
+Important Instructions Regarding Emergencies and After-Hour
+Calls
+??????	If you have what you feel is a true emergency at any time,
+please present immediately to your local emergency room, where a
+doctor there will evaluate you and contact us if needed. Due to
+the com123 Any St.y of neurosurgical procedures and treatment of
+neurosurgical problems, effective advice regarding emergency
+situations cannot be given over the telephone.
+??????	Should you have a situation which is not life-threatening, but
+you feel needs addressing before normal office hours or on the
+weekend, please present to the local emergency room, where the
+physician there will evaluate you and contact us if needed.
+
+
+Followup Instructions:
+??????Please return to the office in 2009-04-18 00:00:00 days (from your date of
+surgery) for removal of your sutures and a wound check.  This
+appointment can be made with the Nurse Practitioner.  Please
+make this appointment by calling test@mail.com. If you live quite
+a distance from our office, please make arrangements for the
+same, with your PCP.
+??????You have an appointment in the Brain Tumor Clinic on 2009-04-18 00:00:00 @
+9:30am.  The Brain Tumor Clinic is located on the UPMCE of
+123 Any St.. Their phone number is
+test@mail.com. Please call if you need to change your
+appointment, or require additional directions.
+??????You will not need an MRI of the brain as this was done during
+your hospitalization
+
+
+
+Completed by:2009-04-18 00:00:00

@@ -1,0 +1,139 @@
+Admission Date:  2007-01-20 00:00:00       Discharge Date:  2007-01-20 00:00:00
+
+Date of Birth: 1958-01-20 00:00:00 00:00:00       Sex:  F
+
+Service:
+
+ADMISSION DIAGNOSIS:  Unstable angina.
+
+DISCHARGE DIAGNOSIS:
+1.  Coronary artery disease.
+2.  Status post coronary artery bypass graft times two.
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 46-year-old
+woman with a history of chest pain and positive stress test
+who is referred for cardiac catheterization.  123 Any St.usly to
+this, she has had chest pain approximately once a month with
+increasing frequency to approximately one to two times per
+week.  The pain is substernal chest pressure associated with
+left arm pain.  It usually occurs at rest and lasts between
+three to 30 minutes.  No associated shortness of breath.
+Positive for dyspnea on exertion.
+
+The patient had a positive ETT as well as a positive stress
+echocardiogram.  She had cardiac catheterization performed on
+2007-01-20 00:00:00 which revealed an ejection fraction of 60%, right
+dominant coronary artery system and 70% stenosis of the left
+main.  The patient presents for revascularization.
+
+PAST MEDICAL HISTORY:
+1.  Thirty pack year smoking history.
+2.  Hypercholesterolemia.
+3.  Renal insufficiency in the past.
+4.  Bilateral reimplantation of the ureters at age ten.
+5.  Cesarean section times two.
+6.  Pilonidal cyst.
+7.  Tonsillectomy.
+
+ALLERGIES:  The patient is allergic to sulfa and shrimp.  No
+allergy to dye.
+
+ADMISSION MEDICATIONS:
+1.  Lipitor 20 mg q.d.
+2.  Atenolol 50 mg q.d.
+3.  Wellbutrin 300 mg q.d.
+4.  Zoloft 100 mg q.d.
+5.  Multivitamin q.d.
+6.  Aspirin q.d.
+
+PHYSICAL EXAMINATION ON ADMISSION:  General:  The patient was
+a middle-aged woman in no acute distress.  HEENT:
+Normocephalic, atraumatic.  PERRL, EOMI, anicteric.  The
+throat was clear.  The neck was supple and midline without
+masses or lymphadenopathy.  Chest:  Clear to auscultation
+bilaterally.  Cardiovascular:  Regular rate and rhythm
+without murmurs, rubs, or gallops.  Abdomen:  Soft,
+nontender, nondistended without masses or organomegaly.
+Extremities:  Warm, noncyanotic, nonedematous times four.
+Neurological:  Grossly intact.
+
+LABORATORY DATA ON ADMISSION:  CBC 11.8/14.2/40.7/193.  INR
+1.0.  Chemistries 143/4.3/105/33/10/0.6.
+
+HOSPITAL COURSE:  The patient had coronary artery bypass
+graft times two on 2007-01-20 00:00:00.  The patient tolerated the
+procedure well and was transferred to the Intensive Care Unit
+on a propofol drip.  The patient was extubated without
+incident on postoperative day number one.  She was also
+maintained on a Neo drip for labile blood pressures.
+
+The patient was incredibly anxious and called out with any
+procedure as small as tape removal.  She was much more
+cooperative after Ativan was begun.
+
+On postoperative day number one, the patient was transfused 1
+unit of packed red blood cells for a hematocrit of 23.  Post
+transfusion, the hematocrit was 27.  Unable to wean Neo at
+that time.
+
+On postoperative day number two, the patient remained A paced
+with an underlying rhythm in the 70s to keep systolic blood
+pressure greater than 90.  Neo was weaned down and eventually
+to off.  Physical Therapy began work with the patient.
+
+On postoperative day number three, the patient was
+transferred to the floor without incident.  On the floor, she
+continued to do well and diuresed off quite a bit of fluid.
+In addition, she continued to work with Physical Therapy.
+The patient was cleared for discharge home on postoperative
+day number five.
+
+On postoperative day number five, the patient was discharged
+to home, tolerating a regular diet, and adequate pain control
+on p.o. pain medications and having had the chest tubes and
+wires discontinued.
+
+PHYSICAL EXAMINATION ON DISCHARGE:  The patient is a
+middle-aged woman who is intermittently quite anxious.  The
+vital signs were stable, afebrile.  The heart revealed a
+regular rate and rhythm without murmurs, rubs, or gallops.
+The chest was clear to auscultation bilaterally.  There was
+no sternal click and no sternal drainage.  The patient does
+have 1+ pedal edema bilaterally.
+
+MEDICATIONS ON DISCHARGE:
+1.  Percocet 5/325 p.r.n.
+2.  Lipitor 20 mg q.d.
+3.  Wellbutrin 150 mg b.i.d.
+4.  Zoloft 100 mg q.d.
+5.  Plavix 75 mg q.d.
+6.  Aspirin 325 mg q.d.
+7.  Colace 100 mg b.i.d.
+8.  Lasix 20 mg q.d. times five days.
+9.  Potassium chloride 20 mEq q.d. times five days.
+10. Lopressor 12.5 mg b.i.d.
+
+DISCHARGE CONDITION:  Good.  Cleared by PT for home.
+
+DISPOSITION:  To home.
+
+DISCHARGE DIET:  Cardiac.
+
+DISCHARGE INSTRUCTIONS:  The patient is discharged to home
+with VNA for cardiopulmonary checks as well as wound care.
+The patient should follow-up with her cardiologist in one to
+two weeks time and address the need for diuresis and any
+adjustment for cardiac medications at the time.  The patient
+should follow-up with Dr. Kahleil Chrosniak in four weeks time.
+
+
+
+
+                            Kahleil Chrosniak, M.D.  2907
+
+Dictated By:Kahleil Chrosniak
+MEDQUIST36
+
+D:  2007-01-20 00:00:00  10:39
+T:  2007-01-20 00:00:00  10:47
+JOB#:  2907

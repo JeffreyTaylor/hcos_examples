@@ -1,0 +1,285 @@
+Admission Date:  2006-08-18 00:00:00              Discharge Date:   2006-08-18 00:00:00
+
+Date of Birth: 1934-10-11 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Atenolol
+
+Attending:Anjelina Safewright
+Chief Complaint:
+bright red blood per rectum
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+66 yo M with mechanical AVR on [**First Name3 (LF) **], with aortic valve
+enterococcal endocarditis and ring abscess, and recent GIB
+(2006-08-18 00:00:00) after colonic polypectomy s/p 7 units pRBC and INR
+reversal, who was transferred to UPMCE MICU for management of
+hypotension and AVR abscess.
+.
+On arrival in the MICU, his hypotension had been resolved. His
+Hct remained stable, and he was placed on heparin drip for
+anticoagulation. His EKG showed PR prolongation to 400 msec.
+Repeat TEE showed heterogeneous thickening of the peri-aortic
+tissue consistent with an aortic root abscess. EP,
+cardiothorasic surgery, and ID were consulted. EP and CSURG felt
+that this could be conservatively managed until surgery, and
+recommends rehab with regular EKG. ID recommended amp + gent for
+treatment which was started. Patient was hemodynamically stable
+and transferred to the floor.
+.
+ROS: No fevers, chills, nightsweats. No chest pain,
+palpitations, shortness of breath. No abdominal pain. No urinary
+symptoms. No weakness in the extremities. No
+nausea/vomiting/diarrhea. Had resolution of dark stools and no
+more episodes of bright red blood per rectum.
+
+Past Medical History:
+-Mechanical AVR 2006-08-18 00:00:00
+-Enterococcal faecalis endocarditis diagnosed in 2006-08-18 00:00:00, AVR ring
+abscess diagnosed 2006-08-18 00:00:00
+-Hypertension
+-Hyperlipidemia
+-Ischemic colitis
+-Colonic polyps
+-GERD
+-Hiatal hernia
+-Gastritis
+-Diverticulosis
+
+Social History:
+Lives with wife in Delna Doble, MA. Former smoker. Rare ETOH.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS: 97.3 94/42 (84-94/40-60), 50 (50-71), 16, 97%RA
+8H I/O: 200 / NR
+24H I/O: test@mail.com
+GEN: sitting in chair, appears well, NAD
+HEENT: EOMI, MMM, PERRL, OP w/o exudates or erythema
+CV: RRR, S1/S2, no murmurs, mechanical valve click ap123 Any St.ted
+Lung: CTAB
+Abd: soft, NT/ND, +BS, no HSM, no rebound or guarding
+Ext: no edema, wwp, 2+ PD
+
+Pertinent Results:
+2006-08-18 00:00:00 05:53AM BLOOD WBC-4.1 RBC-2.74* Hgb-7.7* Hct-23.7*
+MCV-87 MCH-28.1 MCHC-32.4 RDW-14.6 Plt Ct-185
+2006-08-18 00:00:00 05:53AM BLOOD Neuts-68.2 Lymphs-20.3 Monos-5.2 Eos-5.4*
+Baso-0.9
+2006-08-18 00:00:00 06:21AM BLOOD Glucose-107* UreaN-19 Creat-1.2 Na-141
+K-4.6 Cl-107 HCO3-26 AnGap-13
+
+Final blood and urine cultures showed no growth.
+
+Brief Hospital Course:
+#Hypotension - Attributable to acute blood loss s/p polypectomy,
+less likely sepsis from endovascular infection or arrhythmia
+from conduction disease. Did not recur after admission.
+.
+#Acute blood loss anemia - Hematocrit remained stable after
+admission, did not require additional transfusion. Started
+heparin gtt on 2006-08-18 00:00:00 and bridged to warfarin without recurrence
+of bleeding.
+.
+#E. faecalis endocarditis/aortic ring abscess - No signs or
+symptoms of worsening infection or CHF. Surveillance cultures
+showed no growth. Continued ampicillin and gentamicin. TEE 2006-08-18 00:00:00
+showed heterogeneous thickening of the peri-aortic tissue that
+could be consistent with an aortic root abscess, and moderate
+eccentric aortic regurgitation. Consulted cardiac surgery who
+recommended medical therapy and repeat TEE 2-3 weeks. Audiology
+testing was scheduled for 2006-08-18 00:00:00 with Dr. Delna; patient was
+called with this information on the day after discharge.
+.
+#PR prolongation: PR intervals were ~350 ms. Progressed compared
+with a 2006-08-18 00:00:00 EKG. Held all nodal agents. Consulted EP who said no
+indication for temporary pacing unless proceeds to cardiac
+surgery. Will check EKGs on Mon, Wed, Fri. On discharge, PR
+interval 292 msec.
+
+
+Medications on Admission:
+Gentamicin 80 mg IV q12h
+Ampicillin 2 g IV q6h
+Warfarin 5 mg (2.4 mg Tu/Th)
+Lovastatin 10 mg qhs
+MVI
+Protonix 40 mg daily
+Feosol 5 grains UPMCE
+Vit C 250 UPMCE
+ASA 81 mg daily
+
+Discharge Medications:
+1. Lovastatin 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Ascorbic Acid 250 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO BID (2 times a day).
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Warfarin 5 mg Tablet Sig: One (1) Tablet PO 5X/WEEK
+(Anjelina Safewright,MO,WE,FR,SA).
+6. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO 2X/WEEK
+(TU,TH).
+7. Ampicillin Sodium 2 gram Recon Soln Sig: One (1) Recon Soln
+Injection Q4H (every 4 hours) for 6 weeks: Please stop on
+2006-08-18 00:00:00. .
+Disp:*QS Recon Soln(s)* Refills:*0*
+8. EKG
+Please obtain EKGs every Monday, Wednesday and Friday to monitor
+PR prolongation.
+
+Results to be reviewed by your Cardiologist or PCP.
+9. Gentamicin Sulfate (PF) 80 mg/8 mL Solution Sig: One (1)
+solution
+Solution Intravenous every twelve (12) hours: Stop 2006-08-18 00:00:00.
+Disp:*QS Solution* Refills:*0*
+10. Line care
+Maintain PICC per UPMCE HomeCare Policy.
+11. Outpatient Lab Work
+CBC w/diff, LFTs, CRP, ESR (weekly)
+Creatinine and BUN (twice weekly)
+
+For duration of antibiotic therapy. Results to be faxed to UPMCE
+UPMCE Clinic at (test@mail.com for review by Dr. Anjelina Safewright Doble.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. Home Care Services
+
+Discharge Diagnosis:
+PRIMARY:
+1. Gastrointestinal bleeding
+2. Aortic valve enterococcal endocarditis and ring abscess
+3. 1st degree AV block
+
+SECONDARY:
+1. Mechanical aortic valve status post aortic valve replacement
+2. Hypertension
+3. Dyslipidemia
+4. Ischemic colitis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+1. You were transferred to UPMCE for a gastrointestinal bleed.
+Your blood counts were stable during your admission, and you did
+not require a transfusion while admitted.  You will need to have
+blood counts checked weekly.
+
+2. You were also admitted for a blood stream infection, and you
+were found to have an infected heart valve. You were treated
+with antibiotics, which you will need to continue as an
+outpatient. One of these antibiotics can cause problems with
+hearing, so it is very important that you have a hearing test.
+You will need to have weekly labs drawn, with results faxed to
+the Infectious Diseases Clinic at UPMCE (fax: test@mail.com).
+The directions for this are:
+Ampicillin 2 g IV Q4H (STOP ON 2006-08-18 00:00:00)
+Gentamicin 80 mg IV Q12H (STOP ON 2006-08-18 00:00:00)
+
+3. You were found to have an abnormal heart rhythm while
+admitted, which was due to your infected heart valve. You will
+need to have electrocardiograms (ECGs) performed on Monday,
+Wednesday, and Friday until you have your heart surgery.  These
+results should be reviewed by either your PCP or Cardiologist.
+
+4. You were restarted on your 2006-08-18 00:00:00 for your mechanical
+valve. You will need to have regular INR checks to make sure
+that your blood is "thin enough."  These results will need to be
+faxed to your PCP, Delna Doble dosing adjusted as necessary. Your
+goal INR is 2006-08-18 00:00:00.
+
+5. It is very important that you keep all of your doctors
+Delna Doble. You will be scheduled to follow-up with
+cardiothoracic surgery, infectious disese, and your
+cardiologist.  You will also need to have a repeat transthoracic
+echocardiogram (TEE) as scheduled.
+
+6. Unless otherwise indicated, you should resume all of your
+home medications as taken. It is very important that you keep
+all of your doctors Delna Doble. The following changes to your
+medications:
+STOPPED:
+- Feosol 5 grains twice a day
+- ASA 81 mg daily
+STARTED:
+- Ampicillin 2 g IV every 4 hours
+- Gentamicin 80 mg IV every 12 hours
+
+
+Followup Instructions:
+(1)
+**Audiology testing (for gentamicin): We will call you with the
+information for this appointment.**
+
+(2)
+Name: Delna Delna Doble,MD
+Department: Internal Medicine
+When: Thursday 2006-08-18 00:00:00 at 5pm
+Location: 123 Any St. FAMILY MEDICINE CENTER
+Address: 123 Any St.,[**Numeric Identifier 6064**]
+Phone: test@mail.com
+** Please bring ALL discharge paperwork that you are sent home
+from the hospital with to this appointment for Dr. Anjelina Safewright to
+look at. Routine labs including (CBC, BUN, Cr, LFTs, CRP, ESR)
+are to be obtained and faxed to UPMCE clinic at test@mail.com.
+
+(3)
+TEE (Transesophageal Echocardiogram)
+Department: CARDIAC CATH LAB
+Phone #: test@mail.com
+When: WEDNESDAY 2006-08-18 00:00:00 at 10:00 AM
+Building: 123 Any St.
+Campus: WEST
+**Please do not eat or drink anything after midnight on the
+morning of the procedure. You may take your morning medicines
+with a small sip of water.**
+
+(4)
+Department: CARDIAC SURGERY
+When: THURSDAY 2006-08-18 00:00:00 at 1:30 PM
+With: Delna Doble Delna Doble, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+(5)
+Department: INFECTIOUS DISEASE
+When: THURSDAY 2006-08-18 00:00:00 at 9:50 AM
+With: Delna Doble, MD test@mail.com
+Building: LM UPMCE Bldg (Doble) Basement
+Campus: WEST     Best Parking: UPMCE Garage
+
+(6)
+Department: CARDIAC SERVICES
+When: THURSDAY 2006-08-18 00:00:00 at 9:00 AM
+With: Anjelina Safewright, M.D. test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+(7)
+Department: INFECTIOUS DISEASE
+When: MONDAY 2006-08-18 00:00:00 at 10:30 AM
+With: [**First Name4 (NamePattern1) 2448**] Doble, MD test@mail.com
+Building: LM UPMCE Bldg (Doble) Basement
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+
+Completed by:2006-08-18 00:00:00

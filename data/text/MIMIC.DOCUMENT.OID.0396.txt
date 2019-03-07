@@ -1,0 +1,324 @@
+Admission Date:  2005-07-07 00:00:00              Discharge Date:   2005-07-07 00:00:00
+
+Date of Birth: 1953-05-13 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Leoba Bussian
+Chief Complaint:
+Abdominal pain, nausea, and vomiting.
+
+Major Surgical or Invasive Procedure:
+ERCP x 2.
+
+
+History of Present Illness:
+60 year-old male with history significant for severe nonischemic
+hypertensive cardiomyopathy (EF 20%), ICD placement,diabetes who
+presents with abdominal pain, nausea, and vomiting since the
+morning of admission. The patient states he ate breakfast at 9
+am, and approximately one hour later, the pain began and
+continued to wax and wane throughout the day, often reaching
+2005-07-07 00:00:00. The pain was described as bandlike across his abdomen,
+without radiation to the back. No aggravating factors other than
+eating. The pain was alleviated with Morphine in the ED. The
+patient has never had this type of pain in the past. The patient
+also complained of nausea and vomiting, nonbilious/nonbloody.
+The patient denied diarrhea, melena or hematochezia. He denies
+any recent changes in his medications, recent travel, recent
+alcohol use, history of gallstones or symptoms of biliary colic.
+
+.
+In the ED, the patient received one liter NS, morphine, and a
+dose of levofloxacin. The patient was admitted to the MICU.
+.
+In the MICU he was given NS at 150cc/hr. Antibiotics were not
+continued. The biliary team saw the patient and recommended
+ERCP. The procedure was deferred due to the patient's INR. The
+patient's pain was improved on transfer.
+
+Past Medical History:
+1. Diabetes mellitus type 2, insulin dependent x 8 years
+2. Cardiomyopathy, EF 20%
+3. ICD placement
+4. Elevated transaminases, unknown etiology
+5. Chronic atrial fibrillation
+6. Chronic renal failure, most recent creatinine 1.7
+7. Umbilical hernia repair, 2005-07-07 00:00:00
+
+Social History:
+Lives with his wife, has four grown children. Not currently
+working, on disability. Used to work in contruction. No tobacco,
+alcohol, or illicits.
+
+Family History:
+No family history of heart disease.
+
+Physical Exam:
+VS: T 98.2 HR 74 BP 125/71 RR 18 O2sat 98% RA
+GEN: Awake, lying flat in bed, NAD, well developed
+HEENT: Atraumatic, mild scleral icterus, dry mucosa
+NECK: No JVD, no LAD
+CV: Soft 2005-07-07 00:00:00 holosystolic murmur, LSB, irregular rhythm, regular
+rate
+LUNGS: CTA B/L w/ good inspiratory effort
+ABD: Mildly distended, soft, tender to palpation in upper
+quadrants B/L and periumbilical. Negative Leoba Bussian sign, no
+rebound
+EXT: Warm, dry, no LE edema
+NEURO: AAOX3, follows commands, answers questions appropriately,
+no focal deficits
+
+
+Pertinent Results:
+Labwork on admission:
+2005-07-07 00:00:00 08:20PM   WBC-9.3 RBC-4.95 HGB-14.6 HCT-40.5 MCV-82
+MCH-29.5 MCHC-36.0* RDW-17.1*
+2005-07-07 00:00:00 08:20PM   NEUTS-58 BANDS-0 LYMPHS-32 MONOS-8 EOS-2
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+2005-07-07 00:00:00 08:20PM   PLT SMR-NORMAL PLT COUNT-149*
+2005-07-07 00:00:00 08:20PM   DIGOXIN-1.0
+2005-07-07 00:00:00 08:20PM   TRIGLYCER-165*
+2005-07-07 00:00:00 08:20PM   CK-MB-3 cTropnT-<0.01
+2005-07-07 00:00:00 08:20PM   CALCIUM-9.9
+2005-07-07 00:00:00 08:20PM   ALT(SGPT)-272* AST(SGOT)-485* LD(LDH)-594*
+CK(CPK)-135 ALK PHOS-188* AMYLASE-1472* TOT BILI-3.8* DIR
+BILI-2.0* INDIR BIL-1.8
+2005-07-07 00:00:00 08:20PM   GLUCOSE-140* UREA N-25* CREAT-1.9* SODIUM-134
+POTASSIUM-4.6 CHLORIDE-94* TOTAL CO2-28 ANION GAP-17
+2005-07-07 00:00:00 08:20PM   LIPASE-6160*
+.
+LIVER OR GALLBLADDER US (SINGLE ORGAN)  2005-07-07 00:00:00
+FINDINGS:  The liver displays normal echotexture and
+architecture.  No focal liver lesions are identified.  The
+hepatic veins are dialated consistent with congestive heart
+failure.  The main portal vein is patent with normal hepatopetal
+flow. The gallbladder demonstrates mild wall thickening without
+without intraluminal stone. There is a negative sonChawn Grochowski
+Chawn Grochowski sign. There is no pericholecystic fluid or gallbladder
+wall edema. There is no intra- or extra- hepatic biliary duct
+dilatation with the common bile duct measuring 5 mm. There is no
+right upper quadrant ascites. Partially visualized portion of
+the pancreatic head and neck demonstrate no acute abnormality.
+IMPRESSION:
+1.  No evidence of cholecystitis.
+2.  Prominent hepatic veins consistent with venous congestion.
+.
+CHEST (PORTABLE AP)  2005-07-07 00:00:00
+FINDINGS: There is stable cardiomegaly. Left-sided AICD device
+noted with leads unchanged. No pleural effusion or pneumothorax
+identified. There is pulmonary vascular congestion although
+slightly decreased when compared to 123 Any St.us. There is no
+evidence of free intra-abdominal air.
+.
+ECG Study Date of 2005-07-07 00:00:00
+Atrial fibrillation
+Indeterminate axis
+Low limb lead QRS voltages
+Delayed R wave progression with late precordial QRS transition
+Nonspecific T wave abnormalities
+Findings are nonspecific but clinical correlation is suggested
+for possible in
+part chronic pulmonary disease
+Since 123 Any St.us tracing of 2005-07-07 00:00:00, no significant change
+.
+ERCP  2005-07-07 00:00:00
+Impression: A plastic stent placed in the pancreatic duct was
+found in the major papilla.
+Evidence of a 123 Any St.us incomplete sphincterotomy was noted in
+the major papilla.
+Cannulation of the biliary duct was performed with a
+sphincterotome using a free-hand technique.
+A mild dilation was seen at the biliary tree.
+There was a filling defect that appeared like sludge at the
+biliary tree.
+A sphincterotomy was performed in the 12 o'clock position using
+a sphincterotome.
+Sludge was extracted successfully using a balloon catheter.
+The plastic stent was removed.
+.
+Labwork on discharge:
+2005-07-07 00:00:00 08:15AM BLOOD WBC-6.7 RBC-3.67* Hgb-11.0* Hct-30.3*
+MCV-83 MCH-29.9 MCHC-36.3* RDW-17.5* Plt Ct-104*
+2005-07-07 00:00:00 07:40AM BLOOD Glucose-131* UreaN-17 Creat-1.4* Na-139
+K-3.8 Cl-103 HCO3-24 AnGap-16
+2005-07-07 00:00:00 08:15AM BLOOD ALT-100* AST-62* LD(LDH)-251*
+AlkPhos-137* Amylase-37 TotBili-4.1*
+2005-07-07 00:00:00 07:40AM BLOOD TotBili-3.4*
+2005-07-07 00:00:00 08:15AM BLOOD Lipase-20
+
+Brief Hospital Course:
+60 year-old male with congestive heart failure (EF 20%), status
+post ICD placement, atrial fibrillation on coumadin, chronic
+renal failure presenting with abdominal pain, nausea, vomiting
+for 24 hours prior to admission and found to have pancreatitis.
+
+.
+1. Pancreatitis: Elevated amylase/lipase consistent with
+pancreatitis as the cause of the patient's abdominal pain. The
+elevated alkaline phosphatase/bilirubin was suggestive of a
+gallbladder etiology. There were no obvious gallstones seen on
+ultrasound; ERCP showed abundant sludge, however. The pancreatic
+duct was stented during the first ERCP but the common bile duct
+was unable to be cannulated; this was achieved with the second
+ERCP. During the second ERCP it was noted that the stent
+initially placed in the pancreatic duct had migrated and this
+was subsequently removed. Amiodarone is known to rarely cause
+pancreatitis; the patient's amiodarone was held and was not
+restarted on discharge. The patient remained afebrile, without
+leukocytosis, and with normal lactate. Antibiotics were
+therefore not indicated. The patient was initially maintained
+NPO with intravenous hydration but tolerated clear liquids and
+then a regular diet soon after the second ERCP. The patient's
+pancreatic enzymes trended down quickly. The patient's coumadin
+was held and the patient was transfused one unit fresh frozen
+plasma prior to ERCP. Coumadin should be held for ten days
+following ERCP and can be restarted 2005-07-07 00:00:00.
+.
+2. Elevated transaminases: The patient has a history of elevated
+transaminases and recently had an appointment in liver clinic;
+etiology remains unknown. Recent hepatitis panel negative. The
+patient's acute transaminase elevation was likely due to
+gallbladder sludge. The patient's amiodarone and statin were
+held and were not restarted prior to discharge. The patient had
+follow-up scheduled with Hepatology for further outpatient
+work-up.
+.
+3. Cardiac:
+a. Vessels: Clean coronary catheterization in 2005-07-07 00:00:00. The patient
+had no EKG changes and cardiac enzymes were within normal limits
+on this admission. The patient's statin was held in the setting
+of elevated transaminases, although unlikely secondary to
+statin.
+b. Pump: Hypertensive non-ischemic cardiomyopathy, EF 20%. The
+patient's lasix was initially held and he was hydrated with
+intravenous fluids. The patient was subsequently hypervolemic
+but diuresed well with lasix. The patient was euvolemic on
+discharge. The patient was continued on coreg. Diovan was
+initially held for concern for acute renal failure but was
+restarted when the creatinine was confirmed to be at baseline.
+c. Rhythm: Chronic atrial fibrillation, rate controlled with
+digoxin and coreg. The patient's digoxin level was within normal
+limits on admission and digoxin was continued. The patient was
+continued on coreg. Diovan was initially held for concern for
+acute renal failure but was restarted when the creatinine was
+confirmed to be at baseline. Coumadin should be held for ten
+days following ERCP and can be restarted 2005-07-07 00:00:00.
+.
+4. Diabetes mellitus, type II: Insulin-dependent, moderate
+control. The patient was given 1/2 dose of insulin 70/30 while
+NPO but restarted on his home dose when taking a regular diet.
+The patient was maintained on a humalog insulin sliding scale.
+.
+5. Chronic renal insufficiency: Recent baseline 1.4-1.7; at
+baseline. Likely secondary to diabetes and hypertension. Diovan
+was initially held for concern for acute renal failure but was
+restarted when the creatinine was confirmed to be at baseline.
+.
+6. Thrombocytopenia: Recent baseline 93-157. The patient's
+platelet count remained stable during admission. Unknown
+etiology. 2005-07-07 00:00:00 be due to liver disease. Further work-up deferred
+to the outpatient setting.
+.
+7. Anemia: Recent baseline low-30s. The patient's hematocrit
+remained stable during admission. Likely component of chronic
+renal failure. Recent iron studies were within normal limits.
+B12 and folate within normal limits on this admission. Further
+work-up deferred to the outpatient setting.
+.
+Code: Full
+.
+Disposition: Home
+
+Medications on Admission:
+Lasix 80 mg daily
+Coreg 12.5 mg UPMCE
+Diovan 80 mg daily
+Digoxin 125 mcg daily
+Coumadin - dosed per clinic
+Amiodarone 200 mg daily
+Insulin 70/30, 30 units daily
+Zocor 20 mg daily
+
+
+Discharge Medications:
+1. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+2. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Furosemide 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. Insulin NPH-Regular Human Rec 100 unit/mL (70-30) Suspension
+Sig: Thirty (30) units Subcutaneous once a day.
+6. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO 2X/DAY () as
+needed for gout.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+1. Gallstone pancreatitis status post stents to the common bile
+duct and pancreatic duct
+2. Elevated liver function tests
+3. Anemia
+4. Thrombocytopenia
+.
+Secondary:
+1. Diabetes mellitus type 2, insulin dependent x 8 years
+2. Cardiomyopathy, EF 20%
+3. ICD placement
+4. Elevated transaminases, unknown etiology
+5. Chronic atrial fibrillation
+6. Chronic renal failure, most recent creatinine 1.7
+7. Umbilical hernia repair, 2005-07-07 00:00:00
+
+
+Discharge Condition:
+Afebrile, vital signs stable.
+
+
+Discharge Instructions:
+You were hospitalized with pancreatitis. This was due to
+gallstones occluding the pancreatic and common bile ducts. You
+had two procedures to stent open the ducts responsible. You
+should discuss follow-up with gastroenterology with your primary
+care physician.
+.
+Please contact a physician if you experience fevers, chills,
+chest pain, shortness of breath, abdominal pain, nausea,
+vomiting, diarrhea, black stools or blood in your stools, or any
+other concerning symptoms.
+.
+For your congestive heart failure:
+Weigh yourself every morning, Chawn Grochowski MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: One liter per day
+.
+Please take your medications as prescribed.
+- You should hold coumadin for ten days after your ERCP (until
+2005-07-07 00:00:00).
+- You should hold amiodarone and zocor until follow-up with your
+primary care doctor.
+.
+Please keep your follow-up appointments as below.
+
+Followup Instructions:
+123 Any St.usly scheduled appointments:
+Follow-up with your primary care physician: Chawn Grochowski:
+Chawn Grochowski,Chawn Grochowski GrochowskiDate/Time:2005-07-07 00:00:00 1:00
+.
+Provider: Grochowski. Chawn Grochowski Phone:test@mail.com Date/Time:2005-07-07 00:00:00
+4:00
+.
+Provider:  Chawn Grochowski CLINIC Phone:test@mail.com Date/Time:2005-07-07 00:00:00
+3:30
+
+
+

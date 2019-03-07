@@ -1,0 +1,245 @@
+Admission Date:  2009-07-17 00:00:00              Discharge Date:   2009-07-17 00:00:00
+
+Date of Birth: 1965-12-09 00:00:00 00:00:00             Sex:   F
+
+Service: MED
+
+Allergies:
+Tetanus,Diphtheria Toxoid
+
+Attending:Drelynn Funnye
+Chief Complaint:
+lightheadedness, itching
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+69 y/o female w/ HTN, DM2, ESRD (on peritoneal dialysis) who
+presents to the EU w/complaints of itching, lightheadedness.
+Found to be hypotensive with SBP's to the 70's. The patient was
+recently discharged 2009-07-17 00:00:00 for peritonitis. Treated initially with
+cefotaxime and vanco intraperitoneally. Culture grew coag (-)
+staph and micrococcus. Continued tx. w/ vanc and had quick
+resolution of presenting symptoms including abd pain, N/V/D.
+Felt well on discharge. On Wednesday 2009-07-17 00:00:00 she had her Vancomycin
+dose. This morning she woke up and felt itchy and lightheaded
+upon standing. No loc, sob or chest pain. Denies abdominal pain.
++ vomiting on the way to the EU x 1. Denies F/C. Reports taking
+care of her own PD at home, but has not weighed herself
+recently. She feels subjectively that she took off too much
+fluid. She denies recently cloudy or bloody effluent.
+
+Now presents to the EU w/ Hypotension. SBP in the 70's, tachy
+(108), hypothermic (T=96.3). Given 25 mg Benadryl IV, Vanco 1gm
+IV, Ceftriaxone 1gm IV, and Dex 4mg IV. Left femoral line
+placed. Admitted to UPMCE for further management of hypotension,
+r/o sepsis.
+
+Past Medical History:
+PMH:
+1. End-stage renal disease (on hemodialysis from 2009-07-17 00:00:00 to 2009-07-17 00:00:00
+which was changed to peritoneal dialysis in 2009-07-17 00:00:00
+secondary to poor access). She has a history of prior
+peritonitis approximately four to five times; the last
+episode in 2009-07-17 00:00:00.
+2. Hypertension.
+3. Type 2 diabetes diagnosed in 2009-07-17 00:00:00.
+4. Status post parathyroidectomy.
+5. depression
+6. hyperlipidemia
+7. GERD
+8. Stress test 2009-07-17 00:00:00: No anginal symptoms or ischemic EKG
+changes
+
+Social History:
+No ETOHNo IVDA
+
+Family History:
+Dad - died 72yo from heart disease
+Mom - died at 74yo, had DM
+GM - DM
+
+Physical Exam:
+PE:  Vitals- HR 115, BP 94/57 (72) , T 98.7, 99% on RA
+
+Gen- chronically ill appearing, uncomfortable 2009-07-17 00:00:00 itching, NAD
+HEENT- EOMI/PERRLA, muddy sclera, no scleral icterus. mucosa
+dry.
+NECK- no JVD. no neck masses or LAD
+CV- tachy, reg rythm. Nl s1/s2. no m/r/g
+Pulm- lungs CTA bilat. no r/r/w
+Abd- obsese, soft, mild tenderness at LLQ at PD site. PD site
+without erythema or purulent drainage. well-healed scar in RLQ
+(from old PD cath). active bowel sounds. no HSM.
+Ext- no c/c/e. 2+ pulses B. 2009-07-17 00:00:00 motor strength throughout. +mild
+asterixis bilaterally
+Skin- diffusely dry, with copius linear excoriations on
+trunk/back/extremities. no ulcerations, no bleeding -
+Neuro- anxious, tearful affect at times, but alert and oriented
+x 3. communication appropriate. CN II-XII intact. Sensation and
+motor function grossly intact. gait not assessed.
+Rectal- guaiac + (per ER note)
+
+
+Pertinent Results:
+Na 141  Cl 98    BUN 38  Glu 152
+
+K 3.0  HCO3 25  Cr 10.3   Anion Gap= 18
+
+Ca: 10.8 Mg: 1.7 P: 6.8
+
+WBC 12.9  HCT 33  Plt 342 , MCV 90
+
+PT: 13.2  PTT: 26.5  INR: 1.2
+
+Lactate 4.2-->3.2
+
+Cortisol- pending
+TSH - pending
+
+AST 17 ALT 7 A/P 91 T Bili 0.4  Amylase 86  Lipase 42, Albumin
+2.8
+
+Studies:
+
+Blood Cx- pending
+
+CXR:
+Left mid zone opacity could represent atelectasis, but a
+pneumonia cannot be excluded
+
+Brief Hospital Course:
+A/P: 69 y/o female w/ HTN, DMII, ESRD req Peritoneal Dialysis
+who p/w hypotension, elevated WBC and Lactate=4.2 transferred
+initially to the UPMCE for hypotension/sepsis mgmt.
+
+1. Hypotension- Hypotension leading to hypoperfusion w/ elevated
+Lactate on admission. Possible etiologies inclue hypovolemic
+(dehydration, PD excess volume loss) vs distributive (sepsis,
+adrenal insufficiency). h/o recurrent peritonitis, most recently
+1 week ago. It was suspected that she might have an infection
+and she was started on vancomycin, ceftazidime, metronidazole
+and ceftriaxone. As she responded to fluid resuscitation, she
+was stable and transferred to the UPMCE service. She was tested
+for adrenal insufficiency with a cosyntropin stimulation test
+which was negative. At this time, all her antibiotics were
+discontinued with a negative peritoneal cytology for infection
+with the exception of Ceftazidime which she received
+intraperitoneally with her peritoneal dialysis. Her blood
+cultures remained pending and she never spiked a temperature. It
+was believed that her initial hypotension was a response to
+having dialyzed off too much fluid at home which the patient
+states occurred. Her blood pressure returned to the 140-160s and
+she was restarted on her outpatient medication of Norvasc 10 mg
+QD.
+
+2. ID- The patient was recieving Vanco for coag neg. staph on
+recent culture prior to re-admission. Rec'd last dose on 2009-07-17 00:00:00,
+and one dose in EU. She did not receive subsequent doses of
+vancomycin as her random level was elevated. The metronidazole
+500mg q8 and ceftriaxone 1g q24 were discontinued and she
+remained on the ceftazidime until the day of discharge at which
+time it was discontinued as peritonitis was unlikely. Her
+elevated lactate was believed to be secondary to her chronic
+renal failure.
+
+3. Itching- Likely secondary to Uremia. Also has mild asterixis
+on physical exam. BUN not markedly elevated (38), but Cr 10.3.
+Tbili normal; Liver enzymes normal. No new meds to suggest
+potential drug rxn. She received benadryl 25mg q4 prn and Sarna
+lotion QID prn and her itching resolved.
+
+4. ESRD- Requires chronic Peritoneal Dialysis. Performs PD
+herself at home. She continued with PD and was followed closely
+by renal. She was discharged on a different PD regimen with 2 of
+2.5% dextrose and 1 of 1.5% dextrose to decrease the likelihood
+of removing too much fluid as was believed to be the cause of
+her presenting symptoms.
+
+5. Hypercalcemia- h/o elevated PTH, likely secondary
+hyperparathyroidism from ESRD. s/p partial parathyroidectomy.
+Calcium elevated on admission. Was 123 Any St.usly on calcitonin, but
+not currently on her med list. She was instructed to continue
+the use of her Hectrol which she takes at home.
+
+6. Anemia: Baseline HCT 28-30, currently 33. Likely anemia
+secondary to ESRD/chronic dx. Recieves EPO qMonday. Guaiac + on
+admission, so upper vs. lower GI bleed also a possibility (no
+prior history). No reported h/o hematuria, hematemesis. She was
+then guaic negative and her hematrocit stablized.
+
+7. DMII: 123 Any St.usly required insulin, but reportedly has been
+off hypoglycemic agents since she lost 40 pounds w/ dialysis,
+per patient. On chart review, BG's have ranged in 100-200 range
+on 123 Any St.us admissions. She continued on a sliding Scale insulin
+regimen.
+
+8. On the second to last day before discharge, the patient
+developed diarrhea, no melena. She was given Imodim and stool
+cultures, ova and parasites, and a C.difficile toxin were sent
+and are still pending. She will be notified if they are positive
+and continued on metronidazole to treat the infection.
+
+12. Communication w/ Daughters: Health Care Proxy-
+Corwin,[**First Name3 (LF) **]; phone # test@mail.com
+
+Medications on Admission:
+Acetaminophen 325 mg, E123 Any St. Alfa 4,000 unit/mL, Amlodipine 5
+mg PO QD, Atorvastatin 40 mg PO QD, Sertraline HCl 50 mg PO QD,
+Pantoprazole 40 mg PO Q24H, Sevelamer HCl 800 mg PO TID
+,Vancomycin 1gm qweek PD x 3 weeks (from 2009-07-17 00:00:00)
+
+Discharge Medications:
+1. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+2. Sertraline HCl 50 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+3. E123 Any St. Alfa 10,000 unit/mL Solution Sig: One (1)  Injection
+2X/WEEK (MO,FR).
+Disp:*1 1* Refills:*2*
+4. Amlodipine Besylate 5 mg Tablet Sig: Two (2) Tablet PO QD
+(once a day).
+5. Sevelamer HCl 400 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+Hypotension secondary to hypovolemia, end-stage renal disease on
+peritoneal dialysis
+
+
+Discharge Condition:
+Fair.
+
+Discharge Instructions:
+Continue peritoneal dialysis with 2 x 2.5% dextrose and 1 1.5%
+dextrose.
+
+Please resume Hectrol as you were before admission.
+
+You may take Imodium if you continue to have diarrhea.
+
+Followup Instructions:
+Please schedule an appointment with Dr. Drelynn Funnye Corwin, your
+nephrologist, in 1 month by calling 1-test@mail.com.
+
+Please follow up with your primary physician Corwin 2009-07-17 00:00:00 weeks.
+
+Provider: Corwin Corwin,Aminta Corwin VOICE AND SPEECH CLINIC Where:
+PA 123 Any St. BUILDING (UPMCE COMPLEX) VOICE SPEECH & SWALLOWING
+Phone:test@mail.com Date/Time:2009-07-17 00:00:00 10:00
+Provider: Corwin Corwin,Aminta Corwin VOICE AND SPEECH CLINIC Where:
+PA 123 Any St. BUILDING (UPMCE COMPLEX) VOICE SPEECH & SWALLOWING
+Phone:test@mail.com Date/Time:2009-07-17 00:00:00 10:00
+
+
+

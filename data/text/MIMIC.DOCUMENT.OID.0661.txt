@@ -1,0 +1,390 @@
+Admission Date:  2012-08-20 00:00:00              Discharge Date:   2012-08-20 00:00:00
+
+Date of Birth: 1931-08-20 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Chike Cherf
+Chief Complaint:
+Meningioma.
+
+Major Surgical or Invasive Procedure:
+Suboccipital craniotomy for resection of tumor.
+
+History of Present Illness:
+Patient is a 53F seen today in consultation for a Midline
+posterior fossa extra-axial mass most likely consistent with a
+meningioma (DD: dural based met). the lesion is measuring
+2.2x1.2cm. She was initialy being seen in the orthopedic clinic
+s/p left TKR 2012-08-20 00:00:00, and complained of a "whooshing" sensation
+in
+the left and midline of her head. A MRI of the head was ordered
+to further evaluate. When imaging returned a newly identified
+meningioma, she was referred to Dr. Chike Cherf. Currently denies
+headache, nausea, vomiting, dizziness, seizure, or blurred
+vision.
+
+
+Past Medical History:
+PMH: HTN, Glucose intolerance, Left knee OA, Right shoulder
+impingement syndrome, HA, Trigeminal neuralgia
+
+
+Social History:
+Denies cigarettes and EtOH.
+
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+PHYSICAL EXAM on admission:
+Gen: Well developed, well nourished, comfortable, no apparent
+distress.
+HEENT:  normocephalic, atraumatic, anicteric sclerae,.
+
+Neurological Examination:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension. No dysarthria
+or
+paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3mm to 2mm
+bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+Chike Cherf: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors.
+      Grip UPMCE Tri Delt WE WF IP Quad Ham AT [**First Name9 (NamePattern2) 4973**] Scarpelli
+
+Sensation: Intact to light touch.
+
+DISCHARGE EXAM:
+As above. Neurologically intact
+
+Pertinent Results:
+Labs on Admission
+2012-08-20 00:00:00 12:36PM   PLT COUNT-263
+2012-08-20 00:00:00 12:43PM   HGB-10.3* calcHCT-31
+2012-08-20 00:00:00 12:36PM   PT-14.7* PTT-26.6 INR(PT)-1.3*
+2012-08-20 00:00:00 12:43PM   GLUCOSE-158* LACTATE-4.4* NA+-137 K+-2.8*\
+
+LABS ON DISCHARGE:
+COMPLETE BLOOD      WBC  RBC   Hgb   Hct   MCV MCH  MCHC RDW
+Plt Ct
+2012-08-20 00:00:00 06:35    9.7  3.81* 11.1* 31.9* 84  29.0 34.7 14.2
+347
+
+Chemistry
+RENAL & GLUCOSE     Glucose UreaN Creat Na  K   Cl  HCO3 AnGap
+2012-08-20 00:00:00 06:35    131*1   17    0.7   138 4.4 102 29   11
+
+
+2012-08-20 00:00:00 MRI/A Head Pre-op:
+
+1. Midline posterior fossa extra-axial mass consistent with
+meningioma
+measuring 2.2 x 1.2 cm with indentation on the adjacent
+cerebellum.
+2. Cerebellar tonsils are 5 mm below the level of foramen magnum
+which appear to be a secondary effect of compression of the
+cerebellum by the meningioma described above.
+3. Tortuous vertebrobasilar system with deformity of the left
+seventh and
+eighth nerves as well as left trigeminal nerve by tortuous left
+vertebral and basilar arteries.
+4. Soft tissue changes within the left middle ear and mastoid
+antrum.
+Clinical correlation recommended for further evaluation. CT of
+the temporal bone can help for further assessment if clinically
+indicated.
+
+MRA HEAD:
+
+The head MRA demonstrates tortuous left vertebral artery as well
+as the
+basilar artery which extends to the left cerebellopontine angle
+in position to deform the left seventh and eighth nerves as well
+as the left trigeminal nerve. There is no vascular occlusion or
+stenosis seen.
+
+IMPRESSION: Somewhat tortuous left vertebral and basilar
+arteries as
+described above. No vascular occlusion or stenosis is seen.
+
+2012-08-20 00:00:00 CTH Post op:
+
+Status post resection of posterior fossa mass. Appropriate
+post-surgical changes are seen, with no evidence of acute
+hemorrhage. There is mild effacement of the quadrigeminal
+cistern and a slight fullness to the foramen magnum, also
+secondary to surgery. No large vascular territorial infarct is
+seen.
+
+2012-08-20 00:00:00 CT Head:
+IMPRESSION: Status post placement of a right-sided
+ventriculostomy tube, with interval improvement of lateral and
+third ventriculomegaly. There is no acute intracranial
+hemorrhage or large vascular territorial infarct seen.
+
+2012-08-20 00:00:00 CT Head:
+IMPRESSION:
+1. Increased cerebral edema, with effacement of sulci and
+basilar cisterns, may be reactive.
+2. Effacement of the fourth ventricle and increased size of
+lateral and third ventricle, concerning for current or impending
+obstructive hydrocephalus.
+3. Increased fullness of foramen magnum in the setting of known
+type 1
+Chike Cherf-Chiari malformation, concerning for herniation. Recommend
+MRI to
+better evaluate these changes.
+
+2012-08-20 00:00:00:
+IMPRESSION: Stable ventriculomegaly. Stable basilar cistern and
+fourth
+ventricle effacement, non-patent fourth ventricle. No acute
+intracranial
+hemorrhage or infarct since prior study.
+
+2012-08-20 00:00:00:
+CT Head: Interval removal of the right frontal ventriculostomy
+catheter w/o change in lateral ventricular size. Tiny amount of
+hyperdense blood products along the catheter tract. Slightly
+decreased effacement of the 4th ventricle.
+
+
+Brief Hospital Course:
+2012-08-20 00:00:00 Pt admitted to neurosurgery service and underwent a
+suboccipital craniotomy for resection of meningioma. During the
+surgery pt did have aproximately 750cc of blood loss for which
+she was given PRBC intra operatively. Pt HCT remained stable
+post operatively and had no signs of continued bleeding. Post
+operatively pt was transfered to the PACU which she stayed over
+night. She remained on a nipride IV gtt to constrol SBP<140. Her
+physical exam post operatively remained unchanged and was AOx3,
+moving all extremities and had no neurological defecit. A post
+operative head ct showed no acute bleed or infarct.
+
+2012-08-20 00:00:00 Pt was seen  on morning rounds and still found to be
+somewhat hypertensive with SBP in the 170's. The pt was
+transfered to the ICU and her nipride IV gtt was increased for
+further blood pressure control. The pt also remained on q1 neuro
+checks to monitor her neurological status.
+
+2012-08-20 00:00:00 On physical exam, pt was found to be more lethargic and
+uncooperative with exam and limited following of commands. A
+stat head ct showed enlarged lateral ventricles and the presence
+of temporal horns. Pt was given 10mg of decadron IV, Mannitol
+50g IV and placed on a standing dose of mannitol 25g q6. Serum
+Na and Osm were monitored q6 and held for values >150 and 320
+respectively.
+  Pt became increasingly somnolent and was taken to the O.R for
+placement of a R frontal 2012-08-20 00:00:00. She tolerated this procedure well
+with no complications. Post operatively 2012-08-20 00:00:00 was placed at 10cm
+above the tragus. Post Crispin Scarpelli, pt was more awake and alert and back
+to her baseline.
+
+2012-08-20 00:00:00 2012-08-20 00:00:00 was effectively weaned over the weekend as her ICP
+remained less than 20 when her drained was clamped. Her exam
+continued to improve and she was more alert, responsive and
+interactive. A head ct revealed decrease ventricular size and
+good placement of 2012-08-20 00:00:00.
+
+2012-08-20 00:00:00 Pt Crispin Scarpelli was removed with issue. She was transfered to the
+floor in stable condition. A head ct was obtained 6 hours after
+Crispin Scarpelli removed and demonstrated normal sized ventricles and no
+acute hemorrhage.
+
+She was transferred to the floor.  On the morning on 2012-08-20 00:00:00 she
+was ambulating independently and had good pain control.  She was
+neurologically intact.  She was discharged to home on 2012-08-20 00:00:00
+without services.
+
+Medications on Admission:
+HYDROCHLOROTHIAZIDE - 25 mg Tablet - 1 Tablet(s) by mouth daily
+METFORMIN - 500 mg Tablet - 1 Tablet(s) by mouth daily
+
+Medications - OTC
+IBUPROFEN -  (OTC) - 200 mg Tablet - 3 Tablet(s) by mouth daily
+as needed for pain
+
+
+Discharge Medications:
+.
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+4. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Meningioma.
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+GENERAL INSTRUCTIONS
+WOUND CARE:
+??????	You or a family member should inspect your wound every day and
+report any of the following problems to your physician.
+??????	Keep your incision clean and dry.
+??????	You may wash your hair with a mild shampoo 24 hours after your
+2012-08-20 00:00:00 are removed.
+??????	Do NOT apply any lotions, ointments or other products to your
+incision.
+??????	DO NOT DRIVE until you are seen at the first follow up
+appointment.
+??????	Do not lift objects over 10 pounds until approved by your
+physician.
+
+DIET
+Usually no special diet is prescribed after a craniotomy. A
+normal well balanced diet is recommended for recovery, and you
+should resume any specially prescribed diet you were eating
+before your surgery.  Be sure however, to remain well hydrated,
+and increase your consumption of fiber, as pain medications may
+cause constipation.
+
+MEDICATIONS:
+??????	Take all of your medications as ordered.  You do not have to
+take pain medication unless it is needed.  It is important that
+you are able to cough, breathe deeply, and is comfortable enough
+to walk.
+??????	Do not use alcohol while taking pain medication.
+??????	Medications that may be prescribed include:
+o	Narcotic pain medication such as Dilaudid (hydromorphone).
+o	An over the counter stool softener for constipation (Colace or
+Docusate). If you become constipated, try products such as
+Dulcolax, Milk of Magnesia, first, and then Magnesium Citrate or
+Fleets enema if needed). Often times, pain medication and
+anesthesia can cause constipation.
+monitoring.
+??????	If you were on a medication such as Coumadin (Warfarin), or
+Plavix (clopidogrel), or Aspirin, prior to your surgery, you may
+safely resume taking when cleared at your follow up appointment
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and
+Ibuprofen etc, as this can increase your chances of bleeding.
+??????	If you are being sent home on steroid medication, make sure
+you are taking a medication to protect your stomach (Prilosec,
+Protonix, or Pepcid), as these medications can cause stomach
+irritation.  Make sure to take your steroid medication with
+meals, or a glass of milk.
+
+ACTIVITY:
+The first few weeks after you are discharged you may feel tired
+or fatigued. This is normal. You should become a little stronger
+every day. Activity is the most important measure you can take
+to prevent complications and to begin to feel like yourself
+again. In general:
+??????	Follow the activity instructions given to you by your doctor
+and therapist.
+??????	Increase your activity slowly; do not do too much because you
+are feeling good.
+??????	You may resume sexual activity as your tolerance allows.
+??????	If you feel light headed or fatigued after increasing
+activity, rest, decrease the amount of activity that you do, and
+begin building your tolerance to activity more slowly.
+??????	DO NOT DRIVE until you speak with your physician.
+??????	Do not lift objects over 10 pounds until approved by your
+physician.
+??????	Avoid any activity that causes you to hold your breath and
+push, for example weight lifting, lifting or moving heavy
+objects, or straining at stool.
+??????	Do your breathing exercises every two hours.
+??????	Use your incentive spirometer 10 times every hour,  that you
+are awake.
+
+WHEN TO CALL YOUR SURGEON:
+With any surgery there are risks of complications. Although your
+surgery is over, there is the possibility of some of these
+complications developing. These complications include:
+infection, blood clots, or neurological changes. Call your
+Physician Immediately if you Experience:
+
+??????	Confusion, fainting, blacking out, extreme fatigue, memory
+loss, or difficulty speaking.
+??????	Double, or blurred vision. Loss of vision, either partial or
+total.
+??????	Hallucinations
+??????	Numbness, tingling, or weakness in your extremities or face.
+??????	Stiff neck, and/or a fever of 101.5F or more.
+??????	Severe sensitivity to light. (Photophobia)
+??????	Severe headache or change in headache.
+??????	Seizure
+??????	Problems controlling your bowels or bladder.
+??????	Productive cough with yellow or green sputum.
+??????	Swelling, redness, or tenderness in your calf or thigh.
+
+Call 911 or go to the Nearest Emergency Room if you Experience:
+??????	Sudden difficulty in breathing.
+??????	New onset of seizure or change in seizure, or seizure from
+which you wake up confused.
+??????	A seizure that lasts more than 5 minutes.
+
+Important Instructions Regarding Emergencies and After-Hour
+Calls
+??????	If you have what you feel is a true emergency at any time,
+please present immediately to your local emergency room, where a
+doctor there will evaluate you and contact us if needed. Due to
+the com123 Any St.y of neurosurgical procedures and treatment of
+neurosurgical problems, effective advice regarding emergency
+situations cannot be given over the telephone.
+??????	Should you have a situation which is not life-threatening, but
+you feel needs addressing before normal office hours or on the
+weekend, please present to the local emergency room, where the
+physician there will evaluate you and contact us if needed.
+
+
+Followup Instructions:
+FOLLOW UP APPOINTMENT INSTRUCTIONS
+
+??????Please return to the office in 2012-08-20 00:00:00 days (from your date of
+surgery) for removal of your staples/2012-08-20 00:00:00 and a wound check.
+Although we try to be thorough, we may miss Crispin Scarpelli or
+staples. Be sure to point out any incisions, which may be
+covered by clothing at the time of suture/staple removal. This
+appointment can be made with the Nurse Practitioner.  Please
+make this appointment by calling test@mail.com. If you live quite
+a distance from our office, please make arrangements for the
+same, with your PCP.
+??????You have an appointment in the Brain Tumor Clinic on 2012-08-20 00:00:00
+at 9:30 am The Brain Tumor Clinic is located on the UPMCE
+of 123 Any St.. This is a
+multi-disciplinary appointment. Their phone number is
+test@mail.com. Please call if you need to change your
+appointment, or require additional directions.
+??????You will not need an MRI of the brain
+
+
+
+Completed by:2012-08-20 00:00:00

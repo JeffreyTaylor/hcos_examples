@@ -1,0 +1,537 @@
+Admission Date:  2008-08-27 00:00:00              Discharge Date:   2008-08-27 00:00:00
+
+Date of Birth: 1939-08-27 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents / Codeine / Zosyn / Ceftriaxone
+
+Attending:Ilva Spender
+Chief Complaint:
+Hypoxia and Eosinophilia
+
+
+Major Surgical or Invasive Procedure:
+bronchoscopy
+
+History of Present Illness:
+The patient is a 47y/o F with a PMH of EtOH abuse, recent
+hospitalization for PNA presenting with hypoxia. The patient was
+hospitalized 2008-08-27 00:00:00 after presenting with fever, chills and
+SOB. She had been staying at an etoh rehab facility on UPMCE
+starting 2008-08-27 00:00:00. She presented to UPMCE hospital on 2008-08-27 00:00:00 with
+CP and fever to 102. CXR at that time demonstrated a PNA and she
+was given a course of ceftriaxone->cefitin/azitro and prednisone
+taper. She then presented to UPMCE with similar complaints. She
+was initially treated for CAP with ceftriaxone and azithromycin
+however she began to have increased shortness of breath and
+leukocytosis. A CT with contrast was performed which showed
+worsening multi-lobar pneumonia. ID and Pulm consultation was
+obtained. Antibiotic coverage was broadened to vancomycin and
+zosyn. She was ruled out for TB and legionella. Blood cultures
+negative and induced sputum was of poor quality. She remained on
+vanc and zosyn from 2008-08-27 00:00:00 until her discharge on 2008-08-27 00:00:00. After
+developing a rash with zosyn, she was discharged on levaquin to
+complete a 10 day course.
+.
+She now presents with complaints of sudden onset worsening
+dyspnea starting the night before admission. Initial vitals: T
+98.8, HR, SBP 109/64, RR 32, O2 80% on RA. Her O2 saturation
+improved to 95% on 5L NC. CXR demonstated no acute process. CTA
+demonstrated no evidence of PE and small areas of ground glass
+opacity likely atelectasis 4 mm left lingular pleural based
+nodule on 123 Any St. read. Her BP dropped to 80s systolic following
+receipt of morphine 4mg IV. She received 1L NS with improvement
+in BP to 90s. She underwent FAST US after drop in BP which was
+negative. Cardiac enzymes were negative. She was given
+Vancomycin 1g IV X1 and Levaquin 750mg IV X1. Morphine 4mg IV x
+2, albuterol and atrovent nebs and Methylprednisolone 125mg IV
+X1. Labs demonstrated WBC 11.5 with 25% eosinophilia. Lactate
+1.8.
+.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+-Hypothyroidism
+-Biliary colic s/p lap chole in 2008-08-27 00:00:00
+-Multiple MRSA wound infections requiring hospitalization; most
+recent was in 2008-08-27 00:00:00 after lap chole
+-Allergies/asthma (remote history)
+-Recent tobacco use x2wks
+-ETOH abuse s/p detox in 2008-08-27 00:00:00
+
+Social History:
+SOCIAL HISTORY:
+-2 Children aged 18 and 15
+-Divorced
+-Alternates living with children and boyfriend
+-In touch with husband, Esias Krings Esias Krings
+-Quit smoking when 17 y/o; restarted again 14 days ago with 1/2
+PPD
+-Denies all ETOH abuse but was in detox for ETOH use in UPMCE
+-Used to work for UptoDate in UPMCE; now stays home to take
+care of her kids
+
+
+Family History:
+FAMILY HISTORY:
+Negative for pulmonary problems
+-Mother died of lymphoma at age 69
+-Father died of stomach cancer when patient was 3-years-old
+
+Physical Exam:
+Vitals: T=96.5, HR=84, BP=118/58, RR=26, O2 sat=96% on 2LNC
+GEN: Age appropriate female in NAD
+HEENT: Perrl, eomi, sclerae anicteric. MMM, OP clear without
+lesions, exudate, or erythema. Neck supple without LAD.
+CV: Nl S1+S2, no m/r/g. Pain reproducible to palpation over
+mid-sternum.
+RESP: Decreased air movement bilaterally
+ABD: S/NT/ND +bs
+EXT: No c/c/e.
+SKIN: No rashes
+
+Pertinent Results:
+CXR, 2008-08-27 00:00:00 @ 0912
+Lungs are clear with no evidence of pneumonia or congestive
+heart failure. There is no pneumothorax or pleural effusion. Old
+right 5th and 6th rib fractures are noted.
+
+CTA chest, 2008-08-27 00:00:00 @ 1022
+1. No pulmonary embolism.
+2. Near complete resolution of 123 Any St.usly noted multifocal
+pneumonia.
+3. Mildly prominent mediastinal and hilar lymph nodes, likely
+reactive,
+slightly decreased in size from prior CT.
+
+2008-08-27 00:00:00 05:45AM BLOOD WBC-10.0 RBC-3.57* Hgb-10.6* Hct-32.8*
+MCV-92 MCH-29.6 MCHC-32.1 RDW-13.5 Plt Ct-381
+2008-08-27 00:00:00 05:33AM BLOOD WBC-11.2* RBC-3.51* Hgb-10.4* Hct-32.7*
+MCV-93 MCH-29.5 MCHC-31.7 RDW-13.1 Plt Ct-366
+2008-08-27 00:00:00 08:50AM BLOOD WBC-13.9* RBC-3.68* Hgb-10.8* Hct-33.5*
+MCV-91 MCH-29.3 MCHC-32.2 RDW-13.6 Plt Ct-425
+2008-08-27 00:00:00 09:05AM BLOOD WBC-11.5* RBC-4.35 Hgb-12.8 Hct-39.5
+MCV-91 MCH-29.4 MCHC-32.3 RDW-13.2 Plt Ct-509*
+2008-08-27 00:00:00 05:45AM BLOOD Neuts-25.8* Bands-0 Lymphs-25.9 Monos-4.4
+Eos-43.3* Baso-0.6
+2008-08-27 00:00:00 05:33AM BLOOD Neuts-30* Bands-0 Lymphs-32 Monos-2
+Eos-36* Baso-0 Atyps-0 Metas-0 Myelos-0
+2008-08-27 00:00:00 08:50AM BLOOD Neuts-80.5* Lymphs-12.4* Monos-4.9
+Eos-2.0 Baso-0.2
+2008-08-27 00:00:00 09:05AM BLOOD Neuts-56.6 Bands-0 Lymphs-13.8* Monos-3.8
+Eos-25.5* Baso-0.3
+2008-08-27 00:00:00 08:50AM BLOOD PT-12.3 PTT-26.3 INR(PT)-1.0
+2008-08-27 00:00:00 05:45AM BLOOD Glucose-100 UreaN-10 Creat-0.5 Na-144
+K-4.1 Cl-108 HCO3-29 AnGap-11
+2008-08-27 00:00:00 05:33AM BLOOD Glucose-84 UreaN-8 Creat-0.4 Na-143 K-4.4
+Cl-109* HCO3-26 AnGap-12
+2008-08-27 00:00:00 08:50AM BLOOD Glucose-111* UreaN-7 Creat-0.5 Na-142
+K-4.0 Cl-109* HCO3-26 AnGap-11
+2008-08-27 00:00:00 09:05AM BLOOD Glucose-126* UreaN-8 Creat-0.6 Na-140
+K-4.1 Cl-106 HCO3-25 AnGap-13
+2008-08-27 00:00:00 10:15PM BLOOD CK(CPK)-37
+2008-08-27 00:00:00 09:05AM BLOOD ALT-17 AST-13 LD(LDH)-171 AlkPhos-44
+TotBili-0.4
+2008-08-27 00:00:00 10:15PM BLOOD CK-MB-NotDone cTropnT-<0.01
+2008-08-27 00:00:00 09:05AM BLOOD cTropnT-<0.01
+2008-08-27 00:00:00 09:05AM BLOOD CK-MB-2
+2008-08-27 00:00:00 05:45AM BLOOD Calcium-8.4 Phos-4.4 Mg-2.1
+2008-08-27 00:00:00 05:33AM BLOOD Calcium-8.2* Phos-3.8 Mg-1.9
+2008-08-27 00:00:00 08:50AM BLOOD Calcium-9.0 Phos-3.7 Mg-1.9
+2008-08-27 00:00:00 03:17PM BLOOD ANCA-NEGATIVE B
+2008-08-27 00:00:00 01:45PM BLOOD Type-ART pO2-66* pCO2-44 pH-7.38
+calTCO2-27 Base XS-0
+2008-08-27 00:00:00 01:45PM BLOOD Lactate-1.6
+2008-08-27 00:00:00 01:59PM URINE Color-Yellow Appear-Clear Sp Krings->1.035
+2008-08-27 00:00:00 01:59PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+2008-08-27 00:00:00 10:57AM OTHER BODY FLUID WBC-0 RBC-0 Polys-PND
+Lymphs-PND Monos-PND
+.
+.
+Negative:
+2008-08-27 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+EMERGENCY UPMCE
+2008-08-27 00:00:00 BLOOD CULTURE Blood Culture, Routine-PENDING
+EMERGENCY UPMCE
+URINE CULTURE (Final 2008-08-27 00:00:00):
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.
+.
+.
+.
+CTA Chest
+Final Report
+REASON FOR EXAM: Shortness of breath.
+
+COMPARISON: Chest radiograph from same date, chest radiograph
+from 2008-08-27 00:00:00, chest CT from 2008-08-27 00:00:00.
+
+TECHNIQUE: Multidetector CT images of the chest were obtained
+before and
+after administration of IV contrast as per routine pulmonary
+embolism
+protocol. Coronal and sagittal reformatted images were also
+submitted for
+interpretation.
+
+FINDINGS:
+CHEST CT WITHOUT IV CONTRAST: The non-contrast CT demonstrates
+no intramural
+hematoma within the aorta.
+
+CHEST CT WITH IV CONTRAST: There is no filling defect in the
+pulmonary
+arterial tree to suggest the present of a pulmonary embolism.
+The heart is
+normal in size and configuration. There is no pleural or
+pericardial effusion.
+123 Any St.usly noted pleural effusions have resolved. Minimal
+atherosclerotic
+calcifications of the aorta is noted. The aorta is normal in
+course and
+caliber and there i no evidence of dissection. Mildly prominent
+mediastinal
+and hilar lymph nodes are identified which measure up to 1- cm
+in short axis
+are likely reactive. Compared to the prior CT, nodes are smaller
+and likely
+relate to resolving pneumonia. Minimal soft tissue attenuating
+material within
+the anterior mediastinum may represent residual thymus. There is
+no
+pneumothorax.
+
+There has been near complete resolution of the ground glass
+opacities withi
+the lungs. There is minimal residual ground-glass patchy
+consolidation in the
+right middle lobe (3:77) and anterior segment of the right upper
+lobe (3:49).
+Additional smaller foci of ground-glass nodularity are seen but
+compared to
+prior CT, there has been significant improvement.
+
+The upper abdominal organs including the partially visualized
+liver, spleen,
+pancreas and left adrenal appear grossly unremarkable.
+
+BONE WINDOW: Osseous structures demonstrate degenerative
+changes. There is no
+definite acute displaced fracture. Again noted are right-sided
+sixth and
+fifth rib deformity which may represent old fractures.
+
+IMPRESSION:
+1. No pulmonary embolism.
+2. Near complete resolution of 123 Any St.usly noted multifocal
+pneumonia.
+3. Mildly prominent mediastinal and hilar lymph nodes, likely
+reactive,
+slightly decreased in size from prior CT.
+
+
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. Ilva Spender
+DR. Ilva Spender
+Approved: MON 2008-08-27 00:00:00 1:24 PM
+.
+.
+.
+PFTS
+Krings,Esias L. [**PT ID Number 3199**] F  47  2008-08-27 00:00:00
+
+Pulmonary Report SPIROMETRY, LUNG VOLUMES, DLCO Study Date of
+2008-08-27 00:00:00  12:59 PM
+
+
+SPIROMETRY 12:59 PM Pre drug Post drug
+    Actual Pred %Pred Actual %Pred %chg
+FVC   2.62 3.84 68
+FEV1   1.66 2.94 56
+MMF   0.90 3.22 28
+FEV1/FVC   63 76 83
+
+LUNG VOLUMES 12:59 PM Pre drug Post drug
+    Actual Pred %Pred Actual %Pred
+TLC   5.97 5.89 101
+FRC   3.11 3.25 96
+RV   2.88 2.05 141
+VC   3.12 3.84 81
+IC   2.86 2.64 108
+ERV   0.23 1.20 20
+RV/TLC   48 35 139
+He Mix Time   2.38
+
+DLCO 12:59 PM
+    Actual Pred %Pred
+DSB   23.92 21.53 111
+VA(sb)   4.81 5.89 82
+HB   10.80
+DSB(HB)   26.30 21.53 122
+DL/VA   5.46 3.65 149
+
+NOTES:
+
+No online pulmonary notes available.
+
+
+(99-402S)
+.
+.
+.
+TTE
+Conclusions
+The left atrium is elongated. No atrial septal defect is seen by
+2D or color Doppler. Left ventricular wall thickness, cavity
+size and regional/global systolic function are normal (LVEF
+>55%). Tissue Doppler imaging suggests a normal left ventricular
+filling pressure (PCWP<12mmHg). Transmitral Doppler and tissue
+velocity imaging are consistent with normal LV diastolic
+function. Right ventricular chamber size and free wall motion
+are normal. The ascending aorta is mildly dilated. The aortic
+arch is mildly dilated. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve leaflets are structurally
+normal. There is no mitral valve prolapse. Trivial mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+
+IMPRESSION: Normal regional and global biventricular systolic
+function. Normal diastolic function. Mild mitral and mild to
+moderate tricuspid regurgitation.
+
+Compared with the report of the prior study (images unavailable
+for review) of 2008-08-27 00:00:00, the severity of tricuspid and mitral
+regurgitation have increased slightly.
+  Electronically signed by 123 Any St.g
+physician Krings 2008-08-27 00:00:00 13:26
+.
+.
+.
+CXR
+Final Report
+REASON FOR EXAMINATION: Followup of the patient with parenchymal
+opacities.
+
+PA and lateral upright chest radiograph was compared to multiple
+prior studies
+dating back to 2008-08-27 00:00:00.
+
+There is gradual improvement up to practically complete
+resolution of
+bilateral right more than left opacities with only minimal left
+basilar
+opacity seen on the current study and that might represent area
+of lingular
+atelectasis. There is no pleural effusion or pneumothorax and
+the
+cardiomediastinal silhouette is stable.
+
+DR. [**First Name4 (NamePattern1) 2578**] Krings
+Approved: WED 2008-08-27 00:00:00 4:19 PM
+.
+.
+.
+Final Report
+TYPE OF EXAMINATION: Chest PA and lateral.
+
+INDICATION: Peripheral eosinophilia and questionable acute
+eosinophilic
+pneumonia. Evaluate chest.
+
+FINDINGS: PA and lateral chest views were obtained with patient
+in upright
+position. Available for comparison is the next 123 Any St.us PA and
+lateral chest
+examination obtained one day earlier.
+
+FINDINGS: Heart size and mediastinal structures are stable.
+Likewise,
+pulmonary vasculature without evidence of congestion. No signs
+of new
+parenchymal infiltrates. The minimal linear peripheral densities
+in the left
+lung base are still present, but comparison suggests that they
+have further
+regressed.
+
+Further comparison demonstrates that the most prominent acute
+infiltrates in
+the right upper lobe area of 2008-08-27 00:00:00 have disappeared and not
+reoccurred.
+
+IMPRESSION: Stable chest findings with minimal peripheral thin
+atelectasis on
+left base. Further followup is recommended to occur at longer
+intervals.
+
+DR. Ilva Spender Ilva Spender Krings
+Approved: [**Doctor First Name **] 2008-08-27 00:00:00 5:54 PM
+
+  Imaging Lab
+
+
+
+Brief Hospital Course:
+47F with remote h/o asthma p/w progressive SOB/DOE, pleuritic
+CP, fatigue, and hypoxia with eosinophilia after recent
+admission for pneumonia treated with Levofloxacin now with
+resolved infiltrates.
+.
+# Hypoxic respiratory distress with peripheral eosinophilia: The
+patient has persistent hypoxia associated with palpable sternal
+chest pain which was also pleuritic. In the ED, she was hypoxic
+to 80% on RA improved to 95% on 5L nc. CXR and CTA chest showed
+no significant infiltrate, PE, or other parenchymal lung
+disease, which was markedly improved from her last recent CT
+which showed multifocal PNA. She had peripheral eos of 25, which
+resolved for one day after ED gave 1x steroids due to concern
+for asthma flare. Notably, pt had reaction on prior admission to
+zosyn with rash, but this eosinophilia was felt to less likely
+related to that reaction given temporal history. Otherwise, ABG
+7.38/44/66 was drawn on room air with A-A gradient 28,
+suggesting either a V/Q mismatch, diffusion abnormality, or
+shunt.  An acute diffusion gradient etiology is less likely
+given CT chest without significant pathology, although given
+peripheral eosinophilia, AEP/CEP was thought to be a
+possibility. ANCA was negative. Her pleuritic CP was most
+consistent with an inflammatory vs post-infectious cause as CTA
+did not show PE. The patient reported that her pain improved
+over the course of the day (2008-08-27 00:00:00) with morphine, ketorolac, and
+acetominophen. She received albuterol and ipratropium nebs and
+her sats improved to room air without desats while walking. She
+had one episode of decreased BP overnight after 4 mg morphine,
+but she maintained good UOP, normal mental status, warm
+extremities. TTE showed mild/mod TR worsened from before but
+normal EF. Pulmonary team recommended spirometry and they
+initially felt it was unclear if peripheral eosinophilia is
+related to pulmonary process but rapid response of eos as well
+as infiltrates suggest may be related. Differential diagnosis of
+pulmonary eosinophilia includes AEP,CEP, CSS, parasitic
+infection, HP, ABPA, and Loffler's syndrome. Recent 2 wk h/o
+smoking is also c/w CEP. Parasitic infection less likely given
+lack of travel history although transient oulmonary infiltrates
+and peripheral eos consistent with parasitic infection.
+Coccidioides can also cause EP but has not had travel history.
+2008-08-27 00:00:00 have had PNA and then developed AEP related to meds recieved
+at UPMCE (CTX). ABPA less likley given lack of
+bronchiectasis. HP possible given new environment since 2008-08-27 00:00:00 but
+had initial worsneing at rehab. On the medicine floor, the pt
+did not have any episodes of desat and was maintained
+comfortably on room air, with percocet, ibuprofen, tylenol with
+improved pain relief. Eventually the pulm team bronched the
+patient after her peripheral eosinophil count increased to 27
+despite her remaining asyx with clear lungs on CXR. Bronch
+apparently (not on OMR) showed thick mucous secretions and
+concern for aspergillous vs eosinophilic PNA. Her bronch fluid
+notably showed 30-40% eos. She had blood tests sent for
+aspergillous galactomannan antibody and IgE were sent and are
+pending. She was started on 20mg prednisone for likely chronic
+eos PNA (CEP) with followup with pulmonary clinic which they
+will schedule. She will have review of her lung biopsies at that
+time as well.
+.
+# Hypothyroid: Continue home levothyroxine.
+.
+# Psych: cont home fluoxetine, trazodone prn sleep
+.
+# ETOH detox: pt recently completed detox program is drink free
+for a few weeks. no active issues.
+.
+# CODE: fullcode
+
+
+Medications on Admission:
+Levothyroxine 75 mcg Tablet 2 Tablet PO DAILY
+Fluoxetine 20 mg Capsule 2 Capsule PO DAILY
+Trazodone 50 mg Tablet 1 Tablet PO HS PRN Insomnia
+
+Discharge Medications:
+1. Levothyroxine 100 mcg Tablet Sig: 1.5 Tablets PO DAILY
+(Daily).
+2. Fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+3. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for insomnia.
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain: do not exceed 4g per day.
+5. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain: please take with food .
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every six (6) hours as needed for pain: please do not drive,
+operate heavy machinery, or perform any tasks requiring high
+level of skill while taking this medication.
+Disp:*25 Tablet(s)* Refills:*0*
+7. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*21 Tablet(s)* Refills:*0*
+8. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: 2008-08-27 00:00:00
+puff Inhalation every 4-6 hours as needed for shortness of
+breath or wheezing.
+Disp:*qs 21 days * Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+chronic eosinophilic pneumonia
+.
+Secondary:
+-Biliary colic s/p lap chole 2008-08-27 00:00:00 - lap cholecystectomy
+complicated with presumed MRSA wound infection (treated with
+vancomycin inpt and then for 10 days on oral rifampin and
+doxycycline
+-Multiple MRSA wound infections requiring hospitalization
+-Allergies/asthma (remote history), has not used albuterol in >5
+
+years
+-Recent tobacco use
+-Hypothyroidism
+- PNA in 2008-08-27 00:00:00 (no h/o recurrent pulmonary infections prior to
+this)
+
+
+Discharge Condition:
+afebrile, stable vitals, tolerating POs, ambulatory, pain
+controlled
+
+
+Discharge Instructions:
+You were admitted due to worsening shortness of breath, dry
+cough, and some pain in your chest that was worse while
+breathing in. You were found to have a high peripheral
+eosinophil count, and although your lungs improved on chest
+xray, the pulmonary team was concerned that you might have
+developed eosinophilic pneumonia. Your breathing improved during
+the hospitalization and you did not require any supplemental
+oxygenation at rest or while walking on discharge. You had a
+bronchoscopy performed which showed mucous secretions, and
+biopsies/fluid samples were obtained. You will be discharged on
+the following new medications percocet, tylenol, and ibuprofen
+for pain. You should also take prednisone for your eosinophilic
+pneumonia with albuterol/ipratropium inhaler as needed for
+shortness of breath. The pulmonary team will followup with you
+in the next 7-14 days.
+.
+Please take all medications as prescribed.
+Please attend all appointments below.
+Please do not hesitate to return to the hospital for any
+concerning symptoms at all.
+.
+
+Followup Instructions:
+Please followup with your pulmonary doctors for Esias Krings Esias Krings
+within the next 7-14 days. They will contact you with the time.
+(test@mail.com.
+
+
+

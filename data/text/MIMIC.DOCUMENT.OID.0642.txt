@@ -1,0 +1,284 @@
+Admission Date:  2008-07-26 00:00:00              Discharge Date:   2008-07-26 00:00:00
+
+Date of Birth: 1966-04-15 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Chantee Egawa
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+82 y/o F h/o DM2, carotid stent on ASA/plavix, HTN recently
+admitted and discharged from UPMCE yesterday for CHF exacerbation
+and UTI. PT became SOB ~830pm last night as she was going to
+bed. Pt's daughter noticed wheezing, given albuterol inh x2 with
+no effect. Pt then went to UPMCE Hosp where she was given 40mg
+IV lasix and placed on +bypap. Then, pt transferred to UPMCE ED.
+.
+In UPMCE Adelayne Connolly, pt noted to have BP in L.arm 100's and R arm
+190's-NOT NEW. Vitals found to be T98, HR 89, BP 159/64, RR 26,
+sat 98% on 50% FM. PT was placed on a nitro gtt and bypap was
+resumed for unclear reasons. EKG reportedly showing sinus
+rhythm. Pt started on heparin. Pt given Ca gluconate, dextrose,
+insulin for K of 5.7. PT reportedly -1.5L since episode began.
+.
+On review of symptoms, she denies any prior history of stroke,
++TIA, -deep venous thrombosis, -pulmonary embolism, bleeding at
+the time of surgery, -myalgias, -joint pains, -cough,
+-hemoptysis, black stools or red stools. He denies recent
+fevers, chills or rigors. He denies exertional buttock or calf
+pain. All of the other review of systems were negative,
+including recent fever/chills, LH/dizziness, abdominal
+pain/n/v/d/c/dysuria/joint pain or rash.
+.
+Cardiac review of systems is notable for absence of chest pain,
++dyspnea on exertion, +paroxysmal nocturnal dyspnea, +orthopnea,
+-ankle edema, -palpitations, -syncope or presyncope.
+
+
+
+Past Medical History:
+1. PVD s/p R.ICA stent
+2. DM II
+3. HTN
+4. hypothyroidism
+5. hyperlipidemia
+6. L eye detachment
+7. h/o diabetes inspidus after pregnancy - not an active issue
+8. hearing loss
+
+
+Social History:
+Pt lives at home with her husband. Social Adelayne Connolly 30 yrs ago.
+Rare ETOH.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T 99.8 , BP 154/65 , HR 84 , RR 24 , O2 99 % on bipap 50%,
+2008-07-26 00:00:00
+Gen: NAD, on bipap, somewhat somnolent but able to head nod to
+answer questions.
+HEENT: NC/AT, PERRLA, EOMI, anicteric, MMM, +cpap mask.
+Neck: Supple with JVP up to middle of SCM.
+CV: s1s2 rrr no M/R/G, but hard to assess secondary to bypap.
+Chest: b/l AE, +bypap sounds, +faint expiratory wheezing.
+Abd: +bs, soft, NT, ND
+Ext: No c/c/e. No femoral bruits. 2+pulses.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+
+
+
+Pertinent Results:
+ADMISSION LABS:
+
+2008-07-26 00:00:00 06:20AM BLOOD WBC-6.5 RBC-3.48* Hgb-10.3* Hct-30.5*
+MCV-88 MCH-29.7 MCHC-33.8 RDW-15.8* Plt Ct-199
+2008-07-26 00:00:00 05:00AM BLOOD Neuts-91.1* Lymphs-3.8* Monos-2.3 Eos-2.6
+Baso-0.1
+2008-07-26 00:00:00 06:20AM BLOOD Plt Ct-199
+2008-07-26 00:00:00 12:50PM BLOOD PTT-93.7*
+2008-07-26 00:00:00 06:20AM BLOOD Glucose-80 UreaN-51* Creat-2.1* Na-138
+K-4.4 Cl-106 HCO3-21* AnGap-15
+2008-07-26 00:00:00 05:00AM BLOOD CK(CPK)-240*
+2008-07-26 00:00:00 05:00AM BLOOD CK-MB-4 cTropnT-0.13*
+2008-07-26 00:00:00 06:20AM BLOOD Calcium-8.9 Phos-4.8* Mg-2.5
+2008-07-26 00:00:00 05:00AM BLOOD TSH-5.7*
+2008-07-26 00:00:00 08:52AM BLOOD Type-ART pO2-122* pCO2-28* pH-7.50*
+calTCO2-23 Base XS-0
+2008-07-26 00:00:00 05:06AM BLOOD K-5.7*
+
+PERTINENT LABS:
+
+WBC:  11.5 (2008-07-26 00:00:00) -> 6.0 (2008-07-26 00:00:00)
+Hct: 3.12 -> 33.3 -> 34.0
+Cr: 2.5 -> 2.6 -> 2.3 -> 1.9
+CK: 240 -> 135 -> 171 -> 223
+Troponin: 0.13 -> 0.18 -> 0.19 -> 0.16
+TSH: 5.7
+
+Urine Culture:  No growth
+Blood Culture: No growth
+
+EKG demonstrated 2008-07-26 00:00:00 with no significant change compared with
+prior dated Sinus rhythm and frequent atrial ectopy. Left atrial
+abnormality. Baseline artifact. Compared to the 123 Any St.us tracing
+of 2008-07-26 00:00:00 no diagnostic interim change.
+.
+2008-07-26 00:00:00: Sinus with PAC's. ST depressions in I, AVL, V5, V6 still
+present compared to prior 2008-07-26 00:00:00.
+.
+CXR (2008-07-26 00:00:00): Increasing moderate congestive heart failure
+
+CXR (2008-07-26 00:00:00): Improved pulmonary edema with persistent effusions,
+basilar subsegmental atelectasis, and cardiomegaly.
+
+CXR (2008-07-26 00:00:00): Interval improvement in now mild interstitial edema,
+decrease in the right pleural effusion and improved aeration of
+the left lung base.
+
+DISCHARGE LABS:
+
+2008-07-26 00:00:00 05:15AM BLOOD WBC-6.0 RBC-3.93* Hgb-11.2* Hct-34.0*
+MCV-86 MCH-28.4 MCHC-32.9 RDW-15.2 Plt Ct-207
+2008-07-26 00:00:00 12:01AM BLOOD Neuts-84.4* Lymphs-7.0* Monos-3.8
+Eos-4.5* Baso-0.4
+2008-07-26 00:00:00 05:15AM BLOOD Plt Ct-207
+2008-07-26 00:00:00 05:15AM BLOOD Glucose-77 UreaN-63* Creat-1.9* Na-137
+K-4.7 Cl-104 HCO3-21* AnGap-17
+2008-07-26 00:00:00 05:15AM BLOOD Calcium-8.8 Phos-4.3 Mg-2.5
+
+Brief Hospital Course:
+Pt is an 82 year old female with history of  diastolic CHF, HTN,
+DM2, HL, hypothyroid who was recently admitted for CHF
+exacerbation and UTI now readmitted for SOB.
+.
+# Diastolic Congestive Heart Failure: Pt had a recent ECHO
+performed at UPMCE which showed grade 2008-07-26 00:00:00 diastolic congestive
+heart failure.  It is likely that pt's current presentation was
+c/w CHF secondary to HTN/LVH. Patient had an episode of SOB on
+2008-07-26 00:00:00 and was given 20mg PO Lasix, to which her SOB resolved.
+Patient's CXR at this time was also consistent with increased
+pulmonary edema, and the CXR improved after her dose of Lasix.
+Patient's Labetalol was changed to Metoprolol HCL 12.5 mg UPMCE,
+and this was then changed to Toprol XL 25 mg daily.  She was
+also started on Lisinopril 2.5 mg daily, and her Lasix was
+increased to 40 mg daily.  Patient tolerated these medications
+changes well and did not have any episodes of orthostatic
+hypotension or further episodes of shortness of breath.
+.
+# Coronary Artery Disease/Ischemia: Pt does not have any known
+CAD or history of  MI. However, pt with extensive history of
+PVD including stent to R.ICA, right renal artery stenosis and
+various stenosis of abdominal vessels. Pt was without symptoms
+of CP on this admission, but her troponins and CK were slightly
+elevated, which was thought to be secondary to her acute on
+chronic renal failure.  Patient had an ECG performed, which was
+normal.  Her troponins decreased during this admission, and she
+was continued on her home doses of aspirin, Plavix, and
+atorvastatin.  She remained chest pain free throughout the
+duration of this hospital stay.
+
+# HTN: Pt has a history of hypertension.  Per neurology,
+patient's optimal systolic blood pressure is 120-140.  Patient
+was on nifedipine, labetalol, and Lasix at home.  Patient was
+started on Metoprolol XL 25 mg daily, Lisinopril 2.5 mg daily,
+and Lasix 40 mg daily during this hospital course, and she
+tolerated these medication changes well.  She did not have any
+acute events during this hospital stay.
+.
+# ARF. Patient's Cr was 1.2 on her last admission, and had
+increased to 2.1 upon discharge.  Patient was found to have
+right-sided renal artery stenosis.  Patient was admitted with a
+Cr of 2.6, which was likely secondary to R. RAS in the setting
+of Lasix and Bactrim therapy (for UTI).  Patient was seen by
+nephrology and vascular surgery, who advised against
+intervention on her renal artery stenosis, due to the fact that
+her right kidney had already significantly atrophied.  Patient
+was diuresed with Lasix, and her Cr. decreased to 1.9.  Patient
+remained stable during this hospital course, and did not have
+any acute events.
+.
+# Hypothyroidism: Pt's TSH was found to be elevated on her last
+admission. her Synthroid dose was increased.  She did not have
+any acute events relating to her hypothyroidism during this
+admission, and she will be seen by her PCP in Adelayne Connolly..
+.
+# Type 2 Diabetes:  Patient has a history of type 2 Diabetes.
+She was maintained on a sliding scale insulin during this
+admission, and did not have any acute events while in the
+hospital.
+.
+# Code:  full. Discussed with pt's husband and family.
+.
+
+
+Medications on Admission:
+1. Atorvastatin 80 mg daily
+2. Clopidogrel 75 mg Tablet QOD, alternate days with aspirin.
+3. Aspirin 325 mg QOD, alternate days with plavix.
+4. Levothyroxine 112 mcg daily.
+5. Nifedipine 30 mg Tablet SR daily
+6. Labetalol 100 mg Tablet daily
+7. Fosamax 70 mg Tablet once a week.
+8. Lasix 20 mg daily.
+9. Bactrim DS 160-800 mg Tablet UPMCE for 7 days.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Acute Renal Failure
+Acute on Chronic Diastolic Heart Failure
+Renal Artery Stenosis
+Hypertention
+
+
+Discharge Condition:
+Stable. No O2 requirement, BP=140/72, HR= 67, O2 sat 92% on RA
+Able to ambulate 300 feet
+BUN=63
+Creat= 1.9
+K 4.7
+Hct=34
+
+
+Discharge Instructions:
+You had an episode of acute congestive heart failure. You were
+given diuretics to remove the extra fluid and no longer need
+oxygen. Your kidneys were evaluated by a nephrology team and it
+was determined that you did not need a stent in your renal
+artery.
+Medication changes:
+Levothyroxine was increased to 112 mcg daily
+Lisinopril was changed to Cozaar 25mg daily
+Furosemide was increased to 40 mg daily
+You should take your Aspirin and Plavix every day
+Your blood sugars were high here in the hospital so we have been
+giving you insulin twice a day. You probably will not need this
+after discharge from rehab.
+.
+
+Weigh yourself every morning, Adelayne Connolly MD if weight > 3 lbs in 1 day
+or 6 pounds in 3 days.
+Adhere to 2 gm sodium diet: information was given to you during
+your hospital stay regarding diet/exercise/medications and
+monitoring of your fluid status.
+Fluid Restriction: 1.5 liters (about 6 glasses per day)
+
+Followup Instructions:
+Neurology:
+Provider: Chantee Egawa, M.D. Phone:test@mail.com
+Date/Time:2008-07-26 00:00:00 1:00
+Cardiology:
+Provider: Adelayne Connolly, MD Phone:test@mail.com Date/Time:2008-07-26 00:00:00
+11:20
+Primary care:
+Provider: Adelayne Connolly, MD. Phone: test@mail.com Date/Time:
+2008-07-26 00:00:00 at 2:15pm.
+Nephrology:
+Adelayne Connolly, MD Phone: (test@mail.com Date/Time: Friday
+2008-07-26 00:00:00 at 9am.
+
+
+
+Completed by:2008-07-26 00:00:00

@@ -1,0 +1,479 @@
+Admission Date:  2008-07-22 00:00:00              Discharge Date:   2008-07-22 00:00:00
+
+Date of Birth: 1966-04-15 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Chantee Egawa
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+82 y/o F h/o DM2, carotid stent on ASA/plavix, HTN a/w 4 days hx
+of worsening SOB. There is some at rest, but more noticable at
+exertion. Developed orthopnea, PND, but she did not notice
+swelling in her lower extremities. She noticed that today she
+had chest tightness, but no chest pain.
+.
+ROS: no n/v/d/fevers, chills, or URI. No blood in stools, there
+have been no changes in her diet or her thyroid medications.
+
+
+Past Medical History:
+1. PVD s/p 123 Any St. stent
+2. DM II
+3. HTN
+4. hypothyroidism
+5. hyperlipidemia
+6. L eye detachment
+7. h/o diabetes inspidus after pregnancy - not an active issue
+8. hearing loss
+
+Social History:
+SH: Denies tobacoo history. Minimal alcohol use. Lives with
+husband, very supportive family.
+
+Family History:
+noncontributory
+
+Physical Exam:
+Admission Physical Exam:
+PE: 185/54, 77, 38, 99% NR
+Gen: resp distress, WDWN.
+HEENT: peerla, eomi, ncat on non-rebreather;
+Neck: L carotid bruit
+Heart: s4, no r/g
+lungs: diffuse crackles
+ABd; +BS/S/NT/ND/no masses
+Back; no CVAT
+Ext: no c/c, 2+ pitting edema
+
+
+Pertinent Results:
+Cath 2008-07-22 00:00:00:
+COMMENTS:
+1. Access was obtained via the RFA in a retrograde fashion.
+2. Resting hemodynamics showed central aortic hypertension with
+a 30
+mmHg gradient to the RFA, a 15 mmHg gradient to the right
+subclavian and
+a 100 mmHg gradient to the left subclavian artery.
+3. Thoracic Aorta: Type I arch without critical lesions.
+4. Abdominal aorta: Mild disease with a modest lesion in the
+distal
+aorta.
+5. RLE: The CIA had a 70% stenosis.
+6. LLE: The CIA had no critical lesions.
+7. Subclavian artery: The RSCA was normal. The LSCA had a
+tubular,
+calcified 95% at the origin. There is retrograde flow from the
+Adelayne Connolly but
+not the vertebral artery.
+8. Carotid/vertebral arteries: The RCCA was normal. The ICA had
+a 99%
+calcified type C lesion. The ICA filled the ipsilateral MCA and
+mildly
+filled the ACA with competitive flow from the Chantee Egawa. The right
+vertebral
+artery was small and diffusely diseased. The LCCA was normal.
+The Chantee Egawa
+had a 95% had a 60% tubular stenosis. The ICA filled the
+ipsilateral ACA
+and MCA with contralateral filling of the ACA. The left
+vertebral artery
+was patent without lesions and filled the cerebellar and PCAs
+bilaterally.
+9. Successful PTCA and stenting of the 123 Any St. with a 6-8 mm
+Acculink
+stent. Final angiography showed a 10% residual stenosis, no
+dissection
+and normal flow (see PTA comments).
+.
+2008-07-22 00:00:00 07:45AM   WBC-11.6* RBC-4.26 HGB-12.5 HCT-37.6 MCV-88
+MCH-29.4 MCHC-33.3 RDW-16.5*
+2008-07-22 00:00:00 07:45AM   NEUTS-91.4* BANDS-0 LYMPHS-4.7* MONOS-2.6
+EOS-1.0 BASOS-0.2
+2008-07-22 00:00:00 08:15AM URINE  RBC-2008-07-22 00:00:00* WBC->50 BACTERIA-MANY
+YEAST-NONE EPI-2008-07-22 00:00:00
+2008-07-22 00:00:00 08:15AM URINE  BLOOD-SM NITRITE-NEG PROTEIN-500
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-MOD
+.
+2008-07-22 00:00:00 07:45AM   CK(CPK)-243*
+2008-07-22 00:00:00 07:45AM   cTropnT-0.05*
+2008-07-22 00:00:00 07:45AM   CK-MB-5 proBNP-8412*
+2008-07-22 00:00:00 03:00PM   CK(CPK)-170*
+2008-07-22 00:00:00 03:00PM   cTropnT-0.05*
+2008-07-22 00:00:00 09:49PM   CK(CPK)-144*
+2008-07-22 00:00:00 09:49PM   CK-MB-4 cTropnT-0.06*
+
+2008-07-22 00:00:00 09:49PM   TSH-17*
+.
+
+CXR 2008-07-22 00:00:00
+
+FRONTAL CHEST RADIOGRAPH
+
+INDICATION: 82-year-old woman with dyspnea and cough.
+
+COMPARISON: 2008-07-22 00:00:00.
+
+FINDINGS: Cardiac silhouette is enlarged. There is widening of
+the right
+paratracheal stripe. There is a mild interstitial edema. No
+focal
+consolidation or pneumothorax is present. Osseous structures are
+diffusely
+demineralized.
+
+IMPRESSION: Mild interstitial edema.
+
+2008-07-22 00:00:00 ECHO
+This study was compared to the report of the prior study (images
+not available) of 2008-07-22 00:00:00.
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal IVC
+diameter (<2.1cm) with >55% decrease during respiration
+(estimated RA pressure (0-5mmHg).
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+Overall normal LVEF (>55%). TDI E/e' >15, suggesting
+PCWP>18mmHg. Transmitral Doppler and TVI c/w Grade III/IV
+(severe) LV diastolic dysfunction. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AS. Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Mild thickening of mitral valve
+chordae. Calcified tips of papillary muscles. Mild (1+) MR. LV
+inflow pattern c/w restrictive filling abnormality, with
+elevated LA pressure.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: Frequent atrial premature beats.
+Conclusions
+The left atrium is mildly dilated. The estimated right atrial
+pressure is 0-5 mmHg. There is moderate symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Tissue Doppler imaging suggests an increased left
+ventricular filling pressure (PCWP>18mmHg). Transmitral Doppler
+and tissue velocity imaging are consistent with Grade III/IV
+(severe) LV diastolic dysfunction. Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present.
+There is no aortic valve stenosis. Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen. The left ventricular inflow
+pattern suggests a restrictive filling abnormality, with
+elevated left atrial pressure. There is moderate pulmonary
+artery systolic hypertension. There is a trivial/physiologic
+pericardial effusion.
+
+Compared with the report of the prior study (images unavailable
+for review) of 2008-07-22 00:00:00, the left ventricular thickness has
+increased and the severity of diastolic dysfunction has
+worsened.
+
+2008-07-22 00:00:00 RENAL DOPPLER
+INDICATION: 82-year-old female with hypertensive urgency.
+Evaluate for renal
+artery stenosis.
+
+COMPARISON: Abdomen CT, 2008-07-22 00:00:00.
+
+FINDINGS: The right kidney is again noted to be atrophic
+measuring only 7.4
+cm on today's exam. The left kidney measures 10.0 cm. There is
+no
+hydronephrosis and no stones or solid masses are identified in
+either kidney.
+
+DOPPLER EXAMINATION: Note is made that the Doppler study is very
+technically
+limited due to the patient's atrophic right kidney and the
+patient's inability
+to hold her breath. Color Doppler and pulsed wave Doppler images
+were
+obtained. In the right kidney, there is arterial and venous flow
+documented;
+however, spectral waveforms could not be obtained that could be
+evaluated for
+renal artery stenosis. On the left kidney, arterial waveforms of
+the main
+renal artery demonstrate sharp upstrokes. Arterial waveforms of
+the
+intraparenchymal arteries do not demonstrate any measurable
+diastolic flow.
+This lack of diastolic flow may be due to the technical
+limitations of this
+study. Appropriate venous flow is identified in the left main
+renal vein.
+
+IMPRESSION:
+1. No hydronephrosis. Atrophic right kidney. No stones or renal
+masses
+identified.
+2. Very technically limited Doppler exam documents arterial and
+venous flow
+in each kidney, but spectral waveforms cannot be evaluated for
+renal artery
+stenosis.
+
+2008-07-22 00:00:00 RENAL MRI/MRA
+INDICATION: Diffuse severe atherosclerotic disease with diabetes
+and multiple
+stent placements. Assess for renal artery stenosis.
+
+COMPARISON: CT of the abdomen and pelvis of 2008-07-22 00:00:00.
+
+TECHNIQUE: Multiplanar T1- and T2-weighted images of the abdomen
+were
+obtained, including 3D dynamic images obtained prior to, during,
+and after the uneventful intravenous administration of 0.1
+mmol/kg of gadolinium-BOPTA. Multiplanar 2D and 3D reformatted
+images and subtraction images were generated and reviewed on an
+independent workstation.
+
+MRA OF THE KIDNEYS AND AORTA: There is a large atheromatous
+plaque at the
+origin of the right renal artery, which results in severe right
+renal artery stenosis. As expected, the right kidney is smaller
+than the left in size, measuring about 7 cm in craniocaudad
+dimension (an estimate from axial images and slice thickness).
+There is cortical thinning of the right kidney as well. In
+contrast, the left kidney measures approximately 10.9 cm,
+without cortical thinning. There are two left renal arteries,
+without stenosis.
+
+The celiac axis demonstrates a severe stenosis just beyond its
+origin.
+Contrast does not opacifies the proximal most 2.6 cm of SMA
+lumen, which could be related to a stent at this locale.
+Alternatively, if no stent has been placed in this area, the
+finding represents occlusion. There is flow in the SMA beyond
+this level. The inferior mesenteric artery is patent. There is
+moderate atherosclerotic stenosis of the proximal right common
+iliac artery, and severe atherosclerotic stenosis of the
+proximal left common iliac artery.
+
+The imaged portions of the liver, spleen, pancreas, gallbladder,
+and adrenal glands are normal. There are small rounded
+nonenhancing lesions of the left kidney, which are compatible
+with cysts. The largest of these is hyperintense on pre-contrast
+T1-weighted images, indicating hemorrhagic or proteinaceous
+contents. This lesion is in the lower pole of the left kidney
+and measures 1.5 cm.
+
+There are several foci of heterogeneous signal intensity in the
+subcutaneous fat of the buttocks, corresponding to calcified
+injection granulomas as seen on the prior CT of 2008-07-22 00:00:00. There
+is an L1 vertebral body compression fracture, mentioned on prior
+chest radiographs.
+
+Multiplanar reformatted images were essential in delineating the
+anatomy and pathology in this case.
+
+IMPRESSION:
+1. Severe plaque at the origin of the right renal artery,
+resulting in severe right renal artery stenosis. The right
+kidney is smaller in size, with cortical thinning.
+2. No stenosis of the two left renal arteries.
+3. Severe atherosclerotic disease elsewhere within the abdomen,
+including
+severe celiac stenosis just beyond its origin, a moderate
+stenosis at the
+proximal right common iliac artery and a severe stenosis of the
+left proximal common iliac artery.
+4. The proximal superior mesenteric artery is not visualized
+over a 2.6 cm
+segment, but please correlate to the patient's history. If a
+stent is present in this locale, this finding may be
+stent-related. If there is no history of stent placement, the
+findings are compatible with occlusion. The superior mesenteric
+artery demonstrates flow beyond this 2.6 cm segment.
+5. Patent Adelayne Connolly.
+
+
+Brief Hospital Course:
+#Acute on chronic diastolic CHF - The reason for the patient's
+decompensation remains unclear, although inadequate thyroid
+supplementation may have been a contributing factor. Cardiac
+markers were negative x 3. TTE revealed diastolic dysfunction
+with preservation of LVEF. The patient was placed on a 750 cc
+fluid restriction and given loop diuresis with improvement in
+her symtoms. She demonstrated adequate RA oxygenation prior to
+discharge. She will be discharged with lasix 20 mg daily, VNA to
+check daily weights and BP, and instructions to call her
+physician regarding Adelayne Connolly the dose of lasix should she
+gain weight or feel subjectively more short of breath.
+.
+#Orthostatic hypotension - The patient had an episode of
+hypotension BP 92/40 upon standing which produced presyncopal
+symptoms. Her BP rose to 116/60 after 500 cc NS. Her labetalol
+dose was decreased to 100 mg daily.
+.
+#Acute renal failure - Patient's renal failure was felt to be
+multifactorial, resulting from prerenal azotemia in the setting
+of overdiuresis, UTI, and gadolinium administration for MRA. MRA
+was remarkable for right renal stenosis. Lisinopril was held in
+the setting of ARF, and may be restarted at the discretion of
+outpatient providers. VNA will draw electrolytes and BUN/Cr two
+days after admission, prior to an appointment with Dr. Chantee Egawa
+Connolly of Connolly Dept. Nephrology.
+.
+#UTI - The patient was partially treated for UTI with Bactrim,
+but was given only half the prescribed dose. She was given
+Bactrim to complete a 7 day course.
+.
+#Hypothyroidism - TSH was elevated at 17, and the patient's dose
+of synthroid was increased from 88 mcg to 112 mcg daily. TSH
+should be rechecked in 6 weeks as an outpatient.
+.
+# HTN - Per recommendations from neurology, patient's SBP goal
+was 140-160 to optimize cerebral perfusion. Continued on
+nifedipine and labetalol (at a reduced dose as above).
+Lisinopril was held in the setting of ARF. MRA revealed right
+RAS.
+.
+# DM 2- Well-controlled on a RISS
+.
+# Nutrition - Given a low-Na, heart-healthy diet
+.
+# PPx: SC Heparin for DVT prophylaxis
+
+Medications on Admission:
+1. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO QOD ():
+Alternate days with aspirin.
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO QOD ():
+Alternative days with plavix.
+4. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily). Disp:*30 Tablet(s)* Refills:*2*
+5. Nifedipine 30 mg Tablet Sustained Release Sig: Two (2) Tablet
+Sustained Release PO DAILY (Daily).
+6. Labetalol 200 mg qAM, 100 mg qPM Tablet Sig: One (1) Tablet
+PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+7. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.
+
+
+Discharge Medications:
+1. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO QOD ():
+Alternate days with aspirin.
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO QOD ():
+Alternative days with plavix.
+4. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Nifedipine 30 mg Tablet Sustained Release Sig: Two (2) Tablet
+Sustained Release PO DAILY (Daily).
+6. Labetalol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.
+8. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Bactrim DS 160-800 mg Tablet Sig: One (1) Tablet PO twice a
+day for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Partners Adelayne Connolly
+
+Discharge Diagnosis:
+Primary
+1) Acute on chronic diastolic heart failure
+2) Acute renal failure
+3) Right renal artery stenosis
+4) Urinary tract infection
+
+Secondary
+1) Diabetes mellitus type II
+2) Hypertension
+3) Peripheral vascular disease
+4) Hypothyroidism
+5) Hyperlipidemia
+
+Discharge Condition:
+good.
+
+Discharge Instructions:
+You were admitted to the hospital with extra fluid that built up
+because of congestive heart failure. Your symptoms improved with
+lasix, a diuretic (water pills). You were diagnosed with a
+urinary tract infection which was partially treated with
+antibiotics. Please continue taking Bactrim 1 tablet twice daily
+for 7 days (through 2008-07-22 00:00:00).
+
+Please begin taking lasix 20 mg once daily. Your labetalol dose
+was decreased to 100 mg once daily. Your synthroid was increased
+to 112 mcg once daily. Please refrain from taking lisinopril
+until you are seen at your follow-up appointment. You may
+continue your other medications as prescribed.
+
+Please ensure that your weight and blood pressure are checked
+daily. If you gain more than 3 pounds or if you notice that you
+are increasingly short of breath, please call your physician
+immediately regarding whether you may need to take a higher dose
+of lasix. However, all shortness of breath is not necessarily
+due to extra fluid, so you may be advised to come to the office
+or to the Emergency Department for further evaluation.
+
+Please attend a follow-up appointment with Dr. Connolly colleague
+Dr. Connolly on Wednesday 2008-07-22 00:00:00 at 10:00 AM. The office
+phone number is test@mail.com. Please bring your discharge
+paperwork with you so that you may discuss your recent
+medication changes at this appointment.
+
+We were unable to schedule a follow up appointment with the
+Connolly Diabetes Center Department of Nephrology. Please call the
+office of Dr. Chantee Egawa Connolly at (test@mail.com to schedule an
+appointment when it is convenient for you.
+
+Please call your phyisican or return to the Emergency Department
+if you experience lightheadeness, dizziness, loss of
+consciousness, falls, chest pain, palpitations, shortness of
+breath, worsening cough, abdominal pain, or vomiting.
+
+Followup Instructions:
+Please arrange a follow-up appointment for this week with Dr.
+Connolly of the Connolly Diabetes Center Department of Nephrology.
+The office phone number is (test@mail.com.
+
+Please attend a follow-up appointment with Dr. Connolly colleague
+Dr. Connolly on Wednesday 2008-07-22 00:00:00 at 10:00 AM. The office
+phone number is test@mail.com.
+.
+Provider: Adelayne Connolly Phone:test@mail.com Date/Time:2008-07-22 00:00:00 10:30
+Provider: Chantee Egawa, M.D. Phone:test@mail.com
+Date/Time:2008-07-22 00:00:00 1:00
+
+
+
+Completed by:2008-07-22 00:00:00

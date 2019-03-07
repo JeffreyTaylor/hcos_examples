@@ -1,0 +1,173 @@
+Admission Date:  2011-02-13 00:00:00              Discharge Date:   2011-02-13 00:00:00
+
+Date of Birth: 1992-09-24 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Conlan Norley
+Chief Complaint:
+Weakness / confusion
+
+Major Surgical or Invasive Procedure:
+Placement of a SVC tunnelled hemodialysis catheter
+Placement of a subclavian central line
+Placement of a percutaneous cholecystostomy
+Intubation
+Placement of a femoral central line
+
+
+History of Present Illness:
+This 75 year old man with a past medical history significant for
+CVA, atrial fibrillation, and chronic renal insufficiency
+presented with worsening confusion & agitation x 1 day.  He also
+had headache, nausea, unsteady gait, dyspnea on exertion, and
+dizziness.  His wife called the patient's primary care doctor
+who referred them to the emergency department.  According to the
+patient's wife these symptoms had been getting progressively
+worse over the past 3 weeks.  The patient denied pruritis, chest
+pain, shortness of breath, or abdominal pain.
+.
+The patient was seen by his PCP Sparling 2011-02-13 00:00:00 (3 days prior to
+admission), and at that time had malise, fatigue, poor a123 Any St.e,
+difficulty walking, and nausea.  He had an unchanged MRI of his
+head at that time, and his BUN/cr were elevated but close to his
+baseline 78 & 5.7 respectively).  During that office visit he
+denied shortness of breath, chest pain, abdominal pain, nausea,
+or diarrhea.  He did mention that he had started taking
+amitriptyline one week prior.
+
+Past Medical History:
+- cerebrovascular accident with residual aphasia
+- atrial fibrillation
+- hypertension
+- chronic renal insufficiency (creat baseline 5.0-5.3)
+- Anemia
+- Gout
+
+Social History:
+lives with wife, lives on 123 Any St. with elevator
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: afebrile, vital signs stable
+HEENT: NCAT, PERRL, anicteric, EOMI, MMM
+Neck: supple, no LAD, no JVD, no carotid bruits
+Resp: Bibasilar crackles
+Cards: RRR nl S1 S2, no m/g/r
+Abd: nl BS, soft NT, ND, no HSM
+Ext: no edema, +2DP/PT
+Neuro: A&Ox3 but at times confused about history, CN II-XII
+intact, 5/5 strength throughout, nl sensation.
+
+Pertinent Results:
+ADMISSION LABS:
+CBC: WBC 7.3, Hgb 9.9, Hct 31.1, plt 142
+     N:78.1 L:13.7 M:4.5 E:3.1 Bas:0.7
+Chem7: Na 138, K 4.6, Cl 98, HCO3 25, BUN 84, Cr 6.6, glc 136,
+AG 20
+    base line BUN (), Cr ()
+Ca: 11.8 Mg: 2.3 P: 4.9
+PT: 19.7  PTT: 35.4  INR: 2.5
+UA: SG 1.013, tr blood, Prot 100
+CK: 30      Trop-*T*: 0.03
+.
+RADIOLOGY:
+2011-02-13 00:00:00 CT Head: no intracranial bleed
+2011-02-13 00:00:00 Renal u/s: no hydronephrosis. Evidence of bilateral
+chronic renal parenchymal disease
+2011-02-13 00:00:00 CXR: Right IJ line. Cardiomegaly.
+2011-02-13 00:00:00 CXR: New patchy right infrahilar opacity.
+2011-02-13 00:00:00 RUQ u/s: Distended gallbladder, pericholecystic fluid.
+2011-02-13 00:00:00 HIDA: c/w cholecystitis
+2011-02-13 00:00:00 CXR: new LLL atelectasis & ? patchy consolidation.
+2011-02-13 00:00:00 CT head: limited, no definite evidence of acute
+intracranial hemorrhage or mass effect.
+2011-02-13 00:00:00 CXR: Improved LLL opacity.  New moderate-sized layering
+right pleural effusion.
+2011-02-13 00:00:00 CTA: No pulmonary embolism. Bibasilar consolidations,
+left greater than right. Bilateral pleural effusions.
+Cardiomegaly.
+2011-02-13 00:00:00 LE U/S: No evidence of deep venous thrombosis.
+
+MICROBIOLOGY:
+2011-02-13 00:00:00 SPUTUM - S aureus and rare yeast
+2011-02-13 00:00:00 BLOOD CULTURE INPATIENT Pending
+2011-02-13 00:00:00 BLOOD CULTURE INPATIENT Pending
+2011-02-13 00:00:00 SPUTUM - S aureus (Sparling gent, tetra, vanco)
+2011-02-13 00:00:00 UCX neg
+2011-02-13 00:00:00 BLOOD CULTURE INPATIENT Pending
+2011-02-13 00:00:00 BLOOD CULTURE ( MYCO/F LYTIC BOTTLE) INPATIENT
+Pending
+2011-02-13 00:00:00 BLOOD CULTURE INPATIENT Pending
+2011-02-13 00:00:00 BLOOD CULTURE ( MYCO/F LYTIC BOTTLE) INPATIENT
+Pending
+2011-02-13 00:00:00 BLOOD CULTURE INPATIENT Pending
+2011-02-13 00:00:00 BCX - ENTEROCOCCUS FAECIUM (Sparling vanco)
+2011-02-13 00:00:00 Bile CX neg
+2011-02-13 00:00:00 BCX neg x 2
+2011-02-13 00:00:00 BCX neg x 1
+2011-02-13 00:00:00 BILE CX neg
+2011-02-13 00:00:00 BCX neg x 2
+2011-02-13 00:00:00 BCX neg x 2
+
+Brief Hospital Course:
+75 yo M with PMH of CVA, Afib, CRI p/w confusion/agitation,
+nausea, weakness, and acute on chronic renal failure.  Admitted
+for acute dialysis and work up of confusion.  Hospital course
+complicated by two episodes of aspiration pneumonia
+necessitating ICU admission and a left frontal-parietal stroke
+resulting in right hemiparesis and persitant delerium.  He was
+noted to be hypercalcemic with elevated 1,25-vit D levels and
+associated with a new renal mass and enlarged spleen.  This was
+felt to be related to a paraneoplastic syndrome likely from a
+lymphoma with renal and s123 Any St. involvement.  On his second ICU
+transfer the patient remained pressor dependent despite
+treatment with antibiotics and stress dose steroids.  Given his
+overall poor prognosis for meaningful recovery, his family
+decided to withdrawl care.  The patient was maintained on
+minimal sedation while pressors were stopped and he was
+extubated.  He passed away within minutes of stopping his
+vasopressors.
+
+Medications on Admission:
+MVI
+Stool softener
+Iron 65mg po q day
+Diovan 160mg
+Diltiazem 180mg
+Allopurinol 100mg
+Furosimide 40mg
+Prevacid 30mg
+Coumadin 3mg 5 times per week
+Epogen q week
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+End stage renal failure from HTN
+CVA
+Atrial Fib
+Aspiration pneumonia
+Sepsis
+Hypercalcemia of malignancy (?lymphoma)
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+

@@ -1,0 +1,187 @@
+Admission Date:  2010-05-15 00:00:00              Discharge Date:   2010-05-15 00:00:00
+
+Date of Birth: 1938-05-14 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:Isobel Turse
+Chief Complaint:
+palpitations
+
+Major Surgical or Invasive Procedure:
+s/p DC - cardioversion on 2010-05-15 00:00:00
+
+
+History of Present Illness:
+In brief, 45 yo woman with history of SVT (long R-P) followed
+for 5 years, episodes monthly, usually lasting > 1 hr with
+recent ED presentation for new AFib.   She was symptomatic with
+palpitations and shortness of breath with the AFib.  She
+underwent DCCV last week and discharged home on ASA with
+outpatient Echo and EP study scheduled for 2010-05-15 00:00:00 and 2010-05-15 00:00:00,
+respectively.  Given h/o SVT there is a possibility that the SVT
+may have triggered AF.  She now presents with recurrent AFib
+with dyspnea and mild chest tightness.  No fevers.  In ED she
+was in AFib with HR 110-120, BP in 70's.
+
+Past Medical History:
+SVT
+AFib
+? Marfan's syndrome
+left upper extremity radiculopathy
+polypectomies
+dilatation curettage
+difficulty with conceive a pregnancy
+
+Social History:
+Lives at home.  Has three year old son.  Deforrest Portela tobacco, ivdu.
+
+Family History:
+mother with Deforrest Portela syndrome - h/o aortic dissection
+
+Physical Exam:
+VS: 97.8F  HR 59  BP 81/49(79-81/48-51)  24  97%RA
+Gen: Portela, comfortable, thin, tall young female, NAD
+HEENT: Clear OP, MMM
+NECK: Supple, No LAD, No JVD
+CV: irregularly irregular, nl S1, S2. No murmurs, rubs or
+gallops
+LUNGS: CTA, BS BL, No W/R/C
+ABD: Soft, mild tenderness RLQ, no guarding or rebound,
+nondistended, no HSM.
+EXT: No edema. 2+ DP pulses BL
+SKIN: No lesions
+NEURO: nonfocal
+
+Pertinent Results:
+2010-05-15 00:00:00  WBC-5.2 RBC-4.53 Hgb-14.7 Hct-42.1 MCV-93 MCH-32.3*
+MCHC-34.8 RDW-13.1 Plt Ct-277# Neuts-42.1* Lymphs-48.9*
+Monos-6.6 Eos-1.8 Baso-0.6
+2010-05-15 00:00:00  WBC-3.6* RBC-3.37* Hgb-10.9* Hct-31.4* MCV-93
+MCH-32.3* MCHC-34.7 RDW-13.3 Plt Ct-182
+.
+2010-05-15 00:00:00 08:00PM BLOOD PT-11.9 PTT-28.9 INR(PT)-1.0
+.
+2010-05-15 00:00:00  Glucose-99 UreaN-22* Creat-0.8 Na-140 K-3.5 Cl-106
+HCO3-19*
+2010-05-15 00:00:00  Glucose-93 UreaN-11 Creat-0.6 Na-138 K-3.8 Cl-107
+HCO3-23
+.
+2010-05-15 00:00:00 08:00PM BLOOD CK(CPK)-55 CK-MB-NotDone cTropnT-<0.01
+2010-05-15 00:00:00 06:40AM BLOOD CK(CPK)-40 CK-MB-NotDone cTropnT-<0.01
+.
+2010-05-15 00:00:00 TTE Echocardiogram: The left atrium is normal in size.
+The estimated right atrial pressure is 11-15mmHg. Left
+ventricular wall thickness, cavity size, and systolic function
+are normal (LVEF 60%). No masses or thrombi are seen in the left
+ventricle. There is no ventricular septal defect. The right
+ventricular cavity is dilated. Right ventricular systolic
+function is normal. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve leaflets are mildly thickened.
+The mitral valve leaflets are mildly myxomatous. The mitral
+valve leaflets are mildly elongated. There is mild mitral valve
+prolapse. Moderate (2+) mitral regurgitation is seen. The mitral
+regurgitation jet is eccentric. The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+.
+ELECTROCARDIOGRAM PERFORMED ON: 2010-05-15 00:00:00 13:11:16
+Atrial fibrillation. Compared to tracing #1 no change.
+.
+ELECTROCARDIOGRAM PERFORMED ON: 2010-05-15 00:00:00 22:49:52
+Normal sinus rhythm. Evidence of prior anteroseptal myocardial
+infarction.
+Compared to tracing #2 atrial fibrillation is no longer present.
+
+
+
+Brief Hospital Course:
+45 yo F hx SVT, Afib p/w palpitations and dyspnea, noted to be
+in recurrent AFib.
+.
+# Afib - recent cardioversion for AFib, now returns with
+recurrence. Rate is fairly well controlled. Thyroid studies wnl.
+ Patient underwent DC cardioversion, but had recurrent atrial
+fibrillation post-procedure.  She was started on flecainide
+after attempt at cardioversion with low dose beta-blocker.  She
+converted back into sinus rhythm that same night.  She was
+discharged on flecainide 50mg po bid and metoprolol.  She is to
+scheduled outpatient exercise (non-imaging) stress test in one
+week after discharge from the hospital.  She has outpatient
+follow-up for possible EP study with Dr. Isobel Turse in the next
+couple of weeks.  She was discharged with Isobel Turse Portela of hearts
+monitor.  She had TTE Echo with mitral regurgitation and
+prolapse and was instructed to take pre-procedure antibiotics
+for any dentalwork.  PCN allergy so given prescription for
+clindamycin.
+.
+# Dyspnea - most likely related to AFib, and resolved on
+admission after bring her heart rate down.  No evidence of
+pulmonary edema or infiltrate on CXR. D-dimer negative.  No JVD,
+and bedside echo in ED without pericardial effusion.  Breathing
+comfortably on room air throughout hospitalization.
+.
+# Dispo - patient was discharged to home with EP follow-up, Isobel Turse
+of hearts monitor and stress test.
+
+
+Medications on Admission:
+ASA 325mg qday
+MVI
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+3. Flecainide 50 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+4. Clindamycin HCl 300 mg Capsule Sig: Two (2) Capsule PO once
+prior to dentalwork.
+Disp:*6 Capsule(s)* Refills:*2*
+5. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO twice a
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+atrial fibrillation
+supraventricular tachycardia
+mitral regurgitation/mitral valve prolapse
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please call Dr.Deforrest Portela office or 911 if you experience
+chest pain, shortness of breath, dizziness, palpitations,
+numbness, weakness or other concerning symptoms.
+.
+We have started a new medication called metoprolol 12.5mg twice
+daily as well as Flecainide.  Please continue your aspirin as
+prescribed.  The cardiologists want you to have an exercise
+stress test in one week as you have started flecainide.  Please
+schedule this test after discharge from the hospital.
+.
+You should take clindamycin prior to any dental procedures as
+instructed.
+.
+You have been set up with Isobel Turse Portela of Hearts monitor
+
+Followup Instructions:
+Provider: Isobel Turse, M.D. Phone:test@mail.com
+Date/Time:2010-05-15 00:00:00 3:40
+.
+We have ordered an exercise stress test (non-imaging).  Please
+call test@mail.com to schedule this test to be done within the
+next week as 123 Any St.usly instructed by the cardiologists.
+
+
+
+Completed by:2010-05-15 00:00:00

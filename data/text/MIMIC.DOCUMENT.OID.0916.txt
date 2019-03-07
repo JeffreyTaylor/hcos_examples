@@ -1,0 +1,538 @@
+Admission Date:  2007-11-05 00:00:00              Discharge Date:   2007-11-05 00:00:00
+
+Date of Birth: 1994-11-05 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril
+
+Attending:Ishaal Biasella
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mr. Sanantonio is a 47 year old male with HIV( last CD4 301 2007-11-05 00:00:00),
+ESRD on PD, dilated cardiomyopathy (EF 30%) who presents with
+cough and SOB. Patient notes being in his usual state of health
+until ~ 2 am this morning when he awoke with severe cough and
+SOB. He notes chronic SOB x 3-4 months but does note feel this
+was significantly worse recently. He notes chronic cough due to
+cigarette smoking but did not note significant change in his
+cough until waking up the morning of admission. Since the
+coughing began this am it has been productive of frothy white
+sputum. Denies any blood or other colors. He notes fevers and
+chills for months but no changes recently. Denies any recent
+travel or sick contacts. Juanalberto Sanantonio denies any significant LE swelling.
+He denies orthopnea or PND. He has not taken any of his HAART
+regimen or Bactrim ppx for the last month as he ran out of
+prescriptions. The only medications he has been taking are
+cinacalcet, clonidine, and sevelamer.
+.
+In ED, 98.6, 177/134, 116->140, 20, 100% RA(?). Exam notable for
+bibasilar crackles and wheezes. Labs remarkable for leukocytosis
+to 11,600, anemia with Hct of 26, . ABG on RA was 7.45/35/60.
+Lactate 1.8->1.2. BUN/Cr 68/16.5. CXR showed diffuse ground
+glass opacities. Head CT was unremarkable with the exception of
+mastoid opacification. ECG showed sinus tach to 140s. He
+received azithromycin 500 mg po, bactrim DS 1 tab po, 60 mg of
+po prednisone, 1 gram of IV ceftriaxone, atrovent nebulizer,
+benzonatate 100 mg, morphine 4 mg IV, ativan 2 mg IV, and reglan
+5 mg IV. CTA showed no evidence of PE but did show diffuse
+infiltrates, consolidations, and moderate edema.
+.
+ROS was positive as above. In addition, he does note a HA
+beginning this am. He denies any vision changes, numbness, or
+weakness. He does not make any urine at baseline. He has been
+doing his PD regularly and his last ultrafiltrate this morning
+was ~990 cc. He denies any chest pain, abdominal pain, diarrhea.
+He notes constipation and has not had a BM in several days. He
+denies any nausea, vomiting.
+
+
+Past Medical History:
+HIV with a CD4 360 in 2007-11-05 00:00:00, viral load 45,900 at that time
+End-stage renal disease secondary to HIV nephropathy. on PD
+Anemia
+Secondary hyperphosphatemia.
+Sickle cell trait.
+Polysubstance abuse - including cocaine
+Dilated cardiomyopathy (last EF 30% on 2007-11-05 00:00:00)
+HTN
+Atrial fibrillation following cocaine use.
+
+
+Social History:
+-Cocaine use; last use 4d ago
+-h/o EtOH abuse; 1 drink a month now
+-smokes 1 PPD x 35 yrs
+-works as a waiter
+-lives with friends
+-receives care and medications through UPMCE
+Center.
+
+
+Family History:
+Significant for ethanol abuse in the mother as well as diabetes
+and multiple myeloma.  Negative for renal disease.
+
+
+Physical Exam:
+Vitals - T: 98.3 BP: 133/99 HR: 95 RR: 20 02 sat: 96% RA
+GENERAL: NAD/ comfortable
+HEENT: EOMI, PERRL, OP - no exudate, no erythema, JVD not
+ap123 Any St.ted
+CARDIAC:no m/r/g ap123 Any St.ted, nl S1, S2
+LUNG: decreased BS at bases bilaterally, CTA-B/L
+ABDOMEN: slightly distended, NT, soft, PD catheter in place
+EXT: no c/c/e
+NEURO: non-focal
+SKIN: no rashes noted
+
+
+Pertinent Results:
+Admission:
+2007-11-05 00:00:00 02:30PM BLOOD WBC-11.6*# RBC-2.67* Hgb-9.1* Hct-26.0*
+MCV-97 MCH-34.2* MCHC-35.2* RDW-14.6 Plt Ct-437
+2007-11-05 00:00:00 02:30PM BLOOD Neuts-79.6* Lymphs-11.7* Monos-7.1
+Eos-1.3 Baso-0.4
+2007-11-05 00:00:00 09:04PM BLOOD PT-13.1 PTT-31.0 INR(PT)-1.1
+2007-11-05 00:00:00 02:30PM BLOOD  WBC-11.6* Lymph-12* Abs Sanantonio-1392 CD3%-83
+Abs CD3-1162 CD4%-18 Abs CD4-253* CD8%-61 Abs CD8-850*
+CD4/CD8-0.3*
+2007-11-05 00:00:00 02:30PM BLOOD Glucose-90 UreaN-68* Creat-16.5*# Na-138
+K-3.6 Cl-98 HCO3-28 AnGap-16
+2007-11-05 00:00:00 09:04PM BLOOD ALT-13 AST-37 LD(LDH)-447* CK(CPK)-1224*
+AlkPhos-94 TotBili-0.3
+2007-11-05 00:00:00 09:04PM BLOOD CK-MB-22* MB Indx-1.8 cTropnT-0.24*
+2007-11-05 00:00:00 03:45AM BLOOD CK-MB-23* MB Indx-1.3 cTropnT-0.23*
+2007-11-05 00:00:00 01:14PM BLOOD CK-MB-33* MB Indx-1.1 cTropnT-0.22*
+2007-11-05 00:00:00 06:40AM BLOOD CK-MB-43* MB Indx-1.0 cTropnT-0.25*
+2007-11-05 00:00:00 09:04PM BLOOD Albumin-3.0* Calcium-9.4 Phos-5.3*
+Mg-1.4*
+2007-11-05 00:00:00 06:40AM BLOOD calTIBC-191* Ferritn-300 TRF-147*
+2007-11-05 00:00:00 09:04PM BLOOD HIV Ab-POSITIVE
+2007-11-05 00:00:00 09:04PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2007-11-05 00:00:00 04:34PM BLOOD pO2-60* pCO2-35 pH-7.45 calTCO2-25 Base
+XS-0
+2007-11-05 00:00:00 02:34PM BLOOD Lactate-1.8
+2007-11-05 00:00:00 04:34PM BLOOD Lactate-1.2
+2007-11-05 00:00:00 04:34PM BLOOD O2 Sat-88Test
+
+2007-11-05 00:00:00 06:10AM BLOOD WBC-5.5 RBC-2.79* Hgb-9.4* Hct-26.9*
+MCV-96 MCH-33.6* MCHC-34.8 RDW-15.9* Plt Ct-464*
+2007-11-05 00:00:00 06:10AM BLOOD Neuts-51.6 Bands-0 Lymphs-32.1
+Monos-11.4* Eos-4.4* Baso-0.6
+2007-11-05 00:00:00 06:25AM BLOOD PT-13.0 PTT-31.8 INR(PT)-1.1
+2007-11-05 00:00:00 06:10AM BLOOD Glucose-114* UreaN-75* Creat-16.8* Na-135
+K-3.4 Cl-93* HCO3-24 AnGap-21*
+2007-11-05 00:00:00 06:10AM BLOOD CK(CPK)-720*
+2007-11-05 00:00:00 06:05AM BLOOD CK(CPK)-1247*
+2007-11-05 00:00:00 06:25AM BLOOD CK(CPK)-2352*
+2007-11-05 00:00:00 01:14PM BLOOD CK(CPK)-3127*
+2007-11-05 00:00:00 03:45AM BLOOD CK(CPK)-1824*
+2007-11-05 00:00:00 06:10AM BLOOD Calcium-8.0* Phos-5.8* Mg-1.9
+2007-11-05 00:00:00 06:40AM BLOOD calTIBC-191* Ferritn-300 TRF-147*
+
+                              Result              Reference
+Range/Units
+COCAINE/METABOLITES           NONE DETECTED       SEE BELOW
+NG/ML
+
+REP. LIMIT 20
+ANALYSIS BY ENZYME-LINKED IMMUNOSORBENT ASSAY (Ishaal Biasella).
+
+Test                          Result              Reference
+Range/Units
+COCAINE AND METABOLITES       TNP                 REP. LIMIT 20
+NG/ML
+CONFIRMATION (COCAINE)
+
+FOLLOWING ORAL OR NASAL INTAKE OF 2 MG/KG: UP TO 200 NG/ML.
+
+Test                          Result              Reference
+Range/Units
+COCAETHYLENE                  TNP                 REP. LIMIT 20
+NG/ML
+(COCAINE/ETHANOL BY-PRODUCT)
+BENZOYLECGONINE (COCAINE      TNP                 REP. LIMIT 50
+DEGRADATION PRODUCT)
+
+ **FINAL REPORT 2007-11-05 00:00:00**
+
+   Rapid Respiratory Viral Antigen Test (Final 2007-11-05 00:00:00):
+      Respiratory viral antigens not detected.
+      SPECIMEN SCREENED FOR: ADENO,PARAINFLUENZA 1,2,3 INFLUENZA
+A,B AND
+      RSV.
+      This kit is not FDA approved for the direct detection of
+respiratory
+      viruses in specimens; interpret negative result with
+caution..
+      Refer to respiratory viral culture for further
+information.
+
+   VIRAL CULTURE (Final 2007-11-05 00:00:00):
+      No respiratory viruses isolated.
+      Culture screened for Adenovirus, Influenza A & B,
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus..
+      Detection of viruses other than those listed above will
+only be
+      performed on specific request. Please call Virology at
+test@mail.com
+      within 1 week if additional testing is needed.
+
+2007-11-05 00:00:00 4:01 pm SPUTUM     Site: INDUCED      Source: Induced.
+
+   LEGIONELLA CULTURE (123 Any St.inary):    NO LEGIONELLA ISOLATED.
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      2007-11-05 00:00:00):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+ GRAM STAIN (Final 2007-11-05 00:00:00):
+      <10 PMNs and >10 epithelial cells/100X field.
+      Gram stain indicates extensive contamination with upper
+respiratory
+      secretions. Bacterial culture results are invalid.
+      PLEASE SUBMIT ANOTHER SPECIMEN.
+
+   RESPIRATORY CULTURE (Final 2007-11-05 00:00:00):
+      TEST CANCELLED, PATIENT CREDITED.
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      2007-11-05 00:00:00):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+
+   FUNGAL CULTURE (123 Any St.inary):
+      GRAM STAIN OF THIS SPECIMEN INDICATES CONTAMINATION WITH
+      OROPHARYNGEAL SECRETIONS AND INVALIDATES RESULTS.
+      Specimen is only screened for Cryptococcus species. New
+specimen is
+      recommended.
+
+   ACID FAST SMEAR (Final 2007-11-05 00:00:00):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (123 Any St.inary):
+
+2007-11-05 00:00:00 2:40 pm Influenza A/B by DFA
+      Source: Nasopharyngeal aspirate.
+
+                            **FINAL REPORT 2007-11-05 00:00:00**
+
+   DIRECT INFLUENZA A ANTIGEN TEST (Final 2007-11-05 00:00:00):
+      Negative for Influenza A viral antigen.
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final 2007-11-05 00:00:00):
+      NEGATIVE FOR INFLUENZA B VIRAL ANTIGEN.
+
+ Blood Culture, Routine (Final 2007-11-05 00:00:00):    NO GROWTH.
+
+Imaging:
+CXR 2007-11-05 00:00:00
+IMPRESSION: Improvement of the right upper lobe opacification.
+Given short
+time interval of clearance suggests aspiration. Otherwise,
+diffuse
+ground-glass opacities bilaterally are similar in appearance.
+
+CXR 2007-11-05 00:00:00
+IMPRESSION: Focal progression of disease in the right upper lobe
+and
+bilateral pleural effusions (more clearly seen on chest CT)
+favor a general
+bacterial infection over PCP.
+
+ECHO 2007-11-05 00:00:00
+The left atrium is dilated. There is severe symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. There is severe global left ventricular hypokinesis
+(LVEF = 30-35 %). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. There
+are three aortic valve leaflets. The aortic valve leaflets are
+moderately thickened. There is no aortic valve stenosis. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Mild to
+moderate (2007-11-05 00:00:00+) mitral regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+Compared with the prior study (images reviewed) of 2007-11-05 00:00:00,
+the aorta does not appear as dilated on the current study. The
+other findings are similar.
+
+CTA 2007-11-05 00:00:00
+IMPRESSION:
+1. Extensive bilateral airspace opacification, with severe
+consolidation in
+right upper lobe, less extensive consolidation in the left upper
+lobe, and
+diffuse ground- glass opacity in the lower lobes bilaterally.
+These findings
+suggest an advanced infectious process such as PCP or CMV
+pneumonia, less
+likely bacterial pneumonia.
+
+2. No evidence of pulmonary embolism.
+
+3. Moderately extensive mediastinal and hilar lymphadenopathy,
+likely
+reactive to the pulmonary process.
+
+4. Mild pulmonary edema and small pleural effusions.
+
+CXR 2007-11-05 00:00:00
+IMPRESSION: Diffuse air space opacification, which may represent
+
+pulmonary edema or diffuse pneumonia (including PCP).
+
+CT Head 2007-11-05 00:00:00
+IMPRESSION:
+1. No acute intracranial hemorrhage or mass effect. MRI is more
+sensitive
+for detection of intracranial malignancy.
+2. Near complete opacification of the right mastoid air cells.
+Please
+correlate clinically for evidence of otitis media or
+mastoiditis.
+
+
+Brief Hospital Course:
+47 year old male with HIV(CD4 301), ESRD on PD, dilated
+cardiomyopathy(EF 30%) here with diffuse pulmonary ground glass
+opacities, consolidations, and pulmonary edema.
+
+# SOB/hypoxia:
+The day of admission the patient awoke with cough and SOB that
+had acutely worsened. He noted 3-4 months of SOB prior. He
+reportedly had a lot of salt over the 2007-11-05 00:00:00 holiday and
+missed some of his lisinopril doses.  Of note, he has not had
+his HAART or Bactrim ppx for the last month as he ran out of
+prescriptions. He states he has been doing his PD regularly. In
+the ED he was notable for bibasilar crackles and wheezes with
+labs significant for leukocytosis of 11,600, anemia with Hct of
+26. ABG on RA was 7.45/35/60. Lactate 1.8->1.2. BUN/Cr 68/16.5.
+CXR showed diffuse ground glass opacities. Head CT was
+unremarkable with the exception of mastoid opacification. ECG
+showed sinus tach to 140s. He received azithromycin 500 mg po,
+bactrim DS 1 tab po, 60 mg of po prednisone, 1 gram of IV
+ceftriaxone, atrovent nebulizer, benzonatate 100 mg, morphine 4
+mg IV, ativan 2 mg IV, and reglan 5 mg IV. CTA showed no
+evidence of PE but did show diffuse infiltrates, consolidations,
+and moderate edema. He was transferred to the MICU due to his
+respiratory status.
+.
+In the MICU, the patient was initially treated with Bactrim and
+steroids. ID was consulted and an induced sputum was sent for
+PCP and DFA for 2007-11-05 00:00:00 was also sent, that eventually returned
+negative. Given the fact that the likelihood of PCP was low
+given that CD4 > 250. Bactrim and steroids were stopped, and he
+conitued on IV ceftriaxone and azithromycin for CAP. Nephrology
+also followed the patient for his PD and fluid was taken off.
+CHF regimen also changed to carvedilol and stopped CCB. His
+respiratory status improved.  The patient continued to improve
+and completed a 10 day course of antibiotics for CAP with
+azithro and cefpodoxime. He also had repeat PCP and legionella
+that was negative. Additionally, viral screen showed was
+negative.
+
+# Tachycardia: The patient was 123 Any St.usly noted to have sinus
+tachycardia on ECG. Given acute presentation, MI was on the list
+of potential etiologies however ECG and enzymes were not
+consistent with this picture. There is question whether he has
+been compliant with his diltiazem, as he was both tachycardic
+and hypertensive on presentation. Given his cardiomyopathy his
+CCB was changed to carvedilol.  A serum cocaine tox show was
+negative.
+
+#Elevated CK: The patient's CK continued to trend upward during
+his admission. The cause was thought to potentially be due to
+infectious insult vs. sickle cell trait (elevated LDH at
+baseline as well). The patient's CK trended upwards to 4170 on
+2007-11-05 00:00:00.  The CK then trended down and was 720 on discharge.
+.
+# HTN: Persistently hypertensive during admission, and was
+continued on his clonidine. The patient's ciltiazem was
+discontinued and he was started on coreg.
+.
+# Dilated cardiomyopathy: The patient's CE were negative. An
+ECHO was performed this admission had showed an EF of 30-35%.
+The patient was started on coreg.  The patient should have
+follow-up with cardiology.
+
+# HIV: ID consulted for this morning. Patient has been
+non-compliant with medications in the past, His CD4 count was
+251 on admission.  His HAART was held given that he had not been
+taking the medications in the last month.  He has no h/o OI and
+was not started on ppx.  He was restarted on his HAART regimen
+on 2007-11-05 00:00:00 and also started on Bactrim ppx.
+
+# ESRD: The patient was followed by renal and continued on
+peritoneal dialysis.
+
+# Hyperparathyroidism: Thought to be secondary to renal disease,
+on cinecalcet. Patient noted not being compliant with this
+medication at times as well (due to insurance issues).
+.
+# Anemia, The patient's baseline hct high 20s - low 30s, highly
+variable.  He has a h/o sickle cell trait. There was no evidence
+of bleed, or hemolysis (although LDH is elevated, but this is
+chronic).  His Hct was trended throughout the admission.
+.
+# FEN: advance diet as tolerated
+.
+# PPx: heparin sc. PPI.
+
+# ACCESS: PIV, 18G x 2.
+
+# CODE: FULL, confirmed with patient
+
+# COMM: Juanalberto Sanantonio Juanalberto Sanantonio (aunt) test@mail.com. Juanalberto Sanantonio Juanalberto Sanantonio (friend)
+test@mail.com
+
+
+Medications on Admission:
+RITONAVIR 100 mg once a day (not taken for 1 month)
+ZIDOVUDINE 300 mg once a day (not taken for 1 month)
+FOSAMPRENAVIR 1400 mg once a day (not taken for 1 month)
+LAMIVUDINE 50 mg daily (not taken for 1 month)
+TENOFOVIR DISOPROXIL FUMARATE 300 mg Tablet q week (not taken
+for 1 month)
+DILTIAZEM SR 240 mg daily (not taken for 1 month)
+TRIMETHOPRIM-SULFAMETHOXAZOLE 400 mg-80 mg once a day (not taken
+for 1 month)
+OMEPRAZOLE 20 MG DAILY prn
+LACTULOSE 30 mL prn
+CINACALCET 60 mg UPMCE
+CLONIDINE 0.1 mg UPMCE
+SEVELAMER 3 pills with each meal
+
+
+Discharge Medications:
+1. Azithromycin 250 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours) for 4 days.
+Disp:*8 Tablet(s)* Refills:*0*
+2. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+3. Cinacalcet 30 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+4. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H
+(every 8 hours) as needed.
+5. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+6. Sevelamer Carbonate 800 mg Tablet Sig: Three (3) Tablet PO
+TID W/MEALS (3 TIMES A DAY WITH MEALS).
+7. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal UPMCE (2 times a day).
+Disp:*qs * Refills:*2*
+10. Fosamprenavir 700 mg Tablet Sig: Two (2) Tablet PO Q24H
+(every 24 hours).
+Disp:*60 Tablet(s)* Refills:*2*
+11. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1)
+Tablet PO QFRI (every Friday).
+Disp:*4 Tablet(s)* Refills:*2*
+12. Zidovudine 100 mg Capsule Sig: Three (3) Capsule PO DAILY
+(Daily).
+Disp:*90 Capsule(s)* Refills:*2*
+13. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+14. Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24 hr(s)* Refills:*2*
+15. Lamivudine 100 mg Tablet Sig: 0.5 Tablet PO once a day.
+Disp:*15 Tablet(s)* Refills:*2*
+16. Calcitriol 0.5 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+17. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours) for 4 days.
+Disp:*8 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Community Aquired Pneumonia
+
+Seconday:
+HIV
+End-stage renal disease
+Dilated cardiomyopathy (last EF 30% on 2007-11-05 00:00:00)
+hyperparathyroidism
+Anemia
+Secondary hyperphosphatemia
+HTN
+Atrial fibrillation
+Sickle cell trait
+s/p R inguinal hernia repair 2007-11-05 00:00:00
+
+
+Discharge Condition:
+stable, ambulating, satting well on room air
+
+
+Discharge Instructions:
+It was a pleasure taking care of you while you were in the
+hospital.  You were admitted to UPMCE because of an infection in
+your lung.  You were treated with antibiotics and improved. You
+were continued on antibiotics for a total of 10 days. Your
+respiratory status improved and you felt much better.  You were
+ruled out for PCP, Juanalberto Sanantonio, and other infectious diseases.
+
+You were also restarted on your HAART and Bactrim for PCP
+Juanalberto Sanantonio.
+
+Please follow the medications prescribed below.
+New Medications:
+1) Bactrim SS 1 tab daily
+2) Flonase
+3) Restart your HAART therapy as 123 Any St.us:
+RITONAVIR 100 mg once a day
+ZIDOVUDINE 300 mg once a day
+FOSAMPRENAVIR 1400 mg once a day
+LAMIVUDINE 50 mg daily
+TENOFOVIR DISOPROXIL FUMARATE 300 mg Tablet q week
+4) Nicotine patch
+5) Azithromycin 10 days total
+6) Cefpodoxine 10 days total
+7) Carvedilol 6.25mg UPMCE
+8) Calcitriol 0.5mcg
+
+Your Diltiazem was discontinuned.
+
+Please follow up with the appointments below.
+
+Please call your PCP or go to the ED if you experience chest
+pain, palpitations, shortness of breath, nausea, vomiting,
+fevers, chills, or other concerning symptoms.
+
+Followup Instructions:
+Please follow-up with your PCP Sanantonio 2007-11-05 00:00:00 weeks
+PCP: Juanalberto Sanantonio,Juanalberto Sanantonio Juanalberto Sanantonio. test@mail.com
+
+Please follow up with the 123 Any St. PD Clinic
+Telephone: test@mail.com
+
+Provider: Juanalberto Sanantonio, MD Phone:test@mail.com Date/Time:2007-11-05 00:00:00
+9:00
+
+
+
+Completed by:2007-11-05 00:00:00

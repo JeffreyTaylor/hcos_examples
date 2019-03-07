@@ -1,0 +1,408 @@
+Admission Date:  2008-10-30 00:00:00              Discharge Date:   2008-10-30 00:00:00
+
+Date of Birth: 1991-11-21 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Bleomycin / Bactrim
+
+Attending:Durelle Arnick
+Chief Complaint:
+Fever
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+45 yo M with a long history of recurrent Hodgkin's lymphoma s/p
+auto and allogeneic transplant with recurrence on monthly
+chemotherapy admitted after he presented for scheduled
+chemotherapy with fevers to 101 in clinic and transferred to the
+ICU for persistent hypotension after bronchoscopy.
+.
+The patient initially presented to clinic on 2008-10-30 00:00:00 for
+scheduled Gemzar, navelbine and decadron therapy. He was found
+to have a fever to 101. On review of systems at that time the
+patient did admit to feeling fatigued and generally unwell
+possibly with a component of pleuritic chest pain and dry cough.
+CXR at that time revealed an evolving RLL and lingular/LUL
+infiltrate. He was admitted for further evaluation with CXR and
+CT chest concerning for evolving pneumonia. The patient was
+started on Vancomycin, Cefepime and Voriconazole. During his
+hospital stay, the patient did have relative hypotension as at
+baseline to the range of sbp 90's with tachycardia to the low
+100's. The patient did have individual sbp measurements
+overnight prior to transfer as low as 80's, reportedly fluid
+responsive.
+.
+The patient was brought to the ICU for elective bronchoscopy.
+During the procedure, the patient received 1mg midazolam and a
+bolus of 25mcg of fentanyl. Post-procedure the patient was
+persistently hypotensive to the range of sbp 78-82 with intact
+mentation though some complaints of feeling tired and mildly
+lightheaded. His hypotension was refractory to 1L of NS. The
+patient was kept in the UPMCE for further monitoring.
+.
+Of note, the patient has a history of multiple episodes of
+pneumonia in the past most recently with fungal pnuemonia based
+upon positive galactomannan in 2008-10-30 00:00:00.
+.
+ROS: Denies any recent sick contacts. Notes mild pleuritic chest
+pain and nausea. No emesis, abdominal pain, diarrhea, brbpr,
+urinary complaints.
+
+Past Medical History:
+Past medical/surgical history:
+Hodgkin's disease (see below)
+Hypothyroidism
+Asthma
+s/p biliary stent (see below)
+Hepatitis B core+
+.
+Oncologic history:
+1. Diagnosed with stage IIB Hodgkin's lymphoma in 12/99,
+completed ABVD for four cycles with the last 1 2008-10-30 00:00:00 cycles
+without bleomycin due to pulmonary toxicity, followed by
+consolidative mantle radiation therapy.
+2. Relapsed in 2008-10-30 00:00:00 treated with ICE x2 cycles, high-dose
+Cytoxan for stem cell mobilization followed by CBV with
+autologous stem cell transplant on 2008-10-30 00:00:00.
+3. Relapsed in 2008-10-30 00:00:00 treated with ESHAP x 1 cycle in preparation
+for allo stem cell transplant, which he underwent on 2008-10-30 00:00:00
+from a sibling related donor with fludarabine and Cytoxan
+conditioning. Transplant complicated by liver GVHD confirmed by
+a biopsy on 2008-10-30 00:00:00 treated with prednisone. Also noted to be
+hepatitis B core antibody positive at that time and began on
+lamivudine to prevent reactivation.
+4. Evidence for recurrent disease and status post a donor
+lymphocyte infusion on 2008-10-30 00:00:00 with a second one on 2008-10-30 00:00:00.
+5. Further progression of his disease in 2008-10-30 00:00:00 and treated with
+ESHAP x 2 cycles on 2008-10-30 00:00:00 and 2008-10-30 00:00:00.
+6. Enrolled on the DC/DLI protocol and received these infusions
+in mid 2008-10-30 00:00:00 with progressive disease particularly in his lung
+base.
+7. Outpatient regimen of Rituxan and gemcitabine with
+unfortunately progressive symptoms and then followed with two
+more cycles of ESHAP in 2008-10-30 00:00:00 and 2008-10-30 00:00:00 with an
+excellent response to therapy.
+8. Enrolled on an experimental protocol at the UPMCE involving
+anti-CTLA-4 antibody with donor lymphocyte infusions support
+with relatively stable disease.
+9. Further progression of his disease over several months with
+particularly increasing abdominal involvement and treated with
+another cycle of ESHAP in 2008-10-30 00:00:00.
+10. Treated with CEP chemotherapy on 2008-10-30 00:00:00 with a donor
+lymphocyte infusion on 2008-10-30 00:00:00 at 1 x 108 T cells per kilogram
+with marked GVHD of the liver with increased transaminases and
+bilirubin requiring CellCept and prednisone with eventual
+resolution.
+11. Following discontinuation of his immune suppression and no
+further GVHD, noted for further progression of his disease, he
+was treated with CEP chemotherapy on 2008-10-30 00:00:00, 2008-10-30 00:00:00, and
+2008-10-30 00:00:00 with a response to treatment. Also requiring periodic
+thoracenteses of now recurrent pleural effusions.
+12. Status post DLI on 2008-10-30 00:00:00 at a dose of 1 x 10(8) T cells
+per kilogram.
+13. Presented in 2008-10-30 00:00:00 with increased liver function tests and
+bilirubin with infiltration of the pancreatic head with
+intrahepatic biliary ductal dilatation. He had a biliary stent
+placed. This was changed in 2008-10-30 00:00:00.
+14. Treated with Day 1,2,3 only of CEP starting on 2008-10-30 00:00:00 with
+evidence for disease response on CT scan from 2008-10-30 00:00:00.
+15. Rescanned in 2008-10-30 00:00:00 with progression of disease and then
+received two more cycles of CEP on 2008-10-30 00:00:00 and 2008-10-30 00:00:00 with CT
+scan on 2008-10-30 00:00:00 with response to therapy.
+16. Consideration of another DLI, but developed progression of
+disease with recurrent hydronephrosis. Treated with another
+cycle of CEP on 2008-10-30 00:00:00. D8 held due to low counts. During
+this admission, also had thoracentesis for pleural effusions.
+17. Planned evaluation for H-DAC inhibitors at UPMCE.
+
+
+Social History:
+Had been working full time as a child psychologist for the
+123 Any St. public school system, now on disability. He lives in
+123 Any St.. He has an son, cared for by his ex-wife. Deina Himmel is in a
+relationship with a woman, who often helps him with logistics of
+treatment and of activities of daily living. He denies alcohol,
+smoking, or drug use.
+
+Family History:
+Father had "lymphoma of bone," DM, HTN
+
+Physical Exam:
+Vitals: T: 101 BP: 100/49 P: 120 R: 22 SaO2: 95%
+General: Awake, alert, NAD, pleasant, appropriate, cooperative.
+
+HEENT: NCAT, PERRL, EOMI, no scleral icterus, MMM, no lesions
+noted in OP
+Neck: supple, no significant JVD or carotid bruits ap123 Any St.ted
+Pulmonary: L sided rales up to inferior edge of scapula, CTA on
+right
+Cardiac: RR, nl S1 S2, no murmurs, rubs or gallops ap123 Any St.ted
+Abdomen: soft, NT, ND, normoactive bowel sounds, no masses or
+organomegaly noted
+Extremities: No edema, 2+ radial, DP pulses b/l
+Lymphatics: No cervical or supraclavicular lymphadenopathy noted
+
+Skin: no rashes or lesions noted.
+.
+
+
+Pertinent Results:
+2008-10-30 00:00:00 labs:
+146  116  51  101   AGap=15
+
+3.1  18  3.4
+Ca: 7.5 Mg: 1.6 P: 3.0
+ALT: 20 AP:  Tbili: 0.2 Alb:
+AST: 16 LDH: 368 Dbili:  TProt:
+Durelle Arnick:  Lip:
+
+Source: Line-PICC
+ 93
+6.2  7.8  42 D
+
+ 22.6
+ N:91 Band:2 L:2 M:4 E:1 Bas:0
+
+Neuts: TOXIC GRANULATION Poiklo: 1+ Ovalocy: 1+ Tear-Dr:
+OCCASIONAL
+Plt-Est: Very Low
+
+PT: 10.2  PTT: 22.5  INR: 0.8
+
+Source: Line-PICC
+
+2008-10-30 00:00:00 labs:
+137  101  20     AGap=13
+-------------< 94
+3.3  26  1.2      Ca: 9.7 Mg: 1.7 P: 3.1
+estGFR: 65 / >75 (click for details)
+
+ALT: 11 AP: 40 Tbili: 0.3 Alb: 3.7 AST: 16 LDH: 216 Dbili: 0.1
+
+     9.9
+6.2 >----< 9.9  165
+     28.9
+N:70 Band:0 L:18 M:12 E:0 Bas:0 Anisocy: 1+ Macrocy: 1+ Plt-Est:
+Normal Gran-Ct: 4660
+
+CT Chest:
+1. Overall improving patchy ground-glass opacities within the
+lungs
+bilaterally. Slight increased opacities involving anterior right
+upper and
+right middle lobes. Findings again suggestive of infection.
+2. Unchanged mediastinal mass.
+3. Slight decrease in size of right lower lobe mass.
+4. Slight decrease in size of incompletely evaluated
+retroperitoneal
+lymphadenopathy.
+5. Tiny perihepatic ascites.
+
+CT Abd:
+1. Overall, stable retroperitoneal disease burden.
+2. Slight improvement in some regions of consolidation within
+the lungs,
+although there is increased ground-glass opacity seen in the
+upper lobe of
+both the right and left lungs. This may be secondary in part to
+regions of
+improving aeration when compared to prior consolidation,
+although some regions which appear to have worsening
+ground-glass opacity may be secondary to atypical infection
+including processes such as PCP, Deina Himmel other
+infectious/inflammatory processes.
+3. Unchanged appearance of mediastinal masses.
+4. Multiple hypodense foci seen within the spleen and liver.
+These
+presumably may be secondary to Hodgkin involvement, and while
+somewhat more prominent than on prior examination, they do not
+appear to be new.
+5. Moderately severe narrowing of the s123 Any St. vein, without
+total occlusion at this time. In addition, there is
+moderate-to-severe narrowing of the mid portal vein as well.
+
+PATHOLOGY
+
+Sigmoid colon biopsy:
+1.  Diffuse regeneration of the crypts, consistent with a
+healing process (see note).
+2.  No viral inclusions, granulomas or tumor seen.
+3.  Immunostain is negative for CMV with satisfactory control.
+
+Renal biopsy, needle: Consistent with "acute tubular necrosis",
+see note.
+
+Bone marrow and core biopsy:
+1.  Markedly hypocellular marrow with left-shifted myelopoiesis,
+dysmegakaryo123 Any St., and mild eosinophilia, see note.
+2.  No Hodgkin lymphoma seen.
+Note: Overall the findings are suggestive of acute marrow injury
+from secondary causes such as medications, toxic/metabolic,
+immune insult etc.  Please correlate with clinical and other
+laboratory, including cytogenetic findings.
+
+
+Brief Hospital Course:
+ASSESSMENT: 45-year-old man with a history of Hodgkin's disease
+status post multiple disease relapses after auto and allo SCT,
+most recently treated with Gemzar, Navelbine and Decadron on 30
+day cycle, who presented with fever to 101 prior to chemotherapy
+administration.
+.
+## Fever/Pneumonia: CT findings suggested pneumonia as source of
+fevers. He was initally treated with levoquin, but this was
+changed to vancomycin cefepime/voriconizole for broader
+coverage. Beacause of concern for sepsis, the patient was
+transferred to UPMCE for bronchoscopy which revealed thick white
+secretions c/w pna. Small blood in one of BAL samples was likely
+due to trauma. Following bronchoscopy, the patient's SBP dropped
+to 60s with Versed so got 500 cc bolus with improvement to
+80s-90s. Post bronchoscopy CXR showed slight worsening of RLL
+infiltrate. Sputum cultures were negative.  Pt was started in
+extended course of Abx.  The patient had a repeat bronchoscopy
+on 2008-10-30 00:00:00, with BAL cultures showing just oropharyngial flora and
+no PCP.  Deina Himmel remained afebrile off antibiotics prior to
+discharge.
+Pt continued home salmeterol and albuterol for asthma
+.
+## Hypotension: Pt was noted to be hypotensive during his
+admission.  He had a history of chronic steroid use which had
+been discontinued. It was felt that his hypotension was possibly
+due to adrenal insufficiency and he was restarted on stress dose
+steroids with marked improvement in hemodynamic response. Pt
+became nauseated and did not take prednisone or other oral meds
+and was noted to have additional episodes of hypotension
+2008-10-30 00:00:00.
+He was switched to PO prednisone on 2008-10-30 00:00:00 and was discharged on
+prednisone 10 mg daily.
+- Consider tapering off prednisone as an outpatient.
+.
+## Diarrhea: 2008-10-30 00:00:00, pt reported having several loose stools.  He
+was started on flagyl with concern for c. difficile.  GI was
+consulted and the patient was subsequently started on PO
+vancomycin, however c. dif testing was negative x 3.  Flex sig
+was recommended done on 2008-10-30 00:00:00 showing normal mucosa in the
+sigmoid colon (biopsied).
+.
+## Acute Renal Failure:  On 2008-10-30 00:00:00, pt was noted to have a non-gap
+metabolic acidosis with a creatinine of 1.5.  He was started on
+IV fluids with bicarb, however renal function progressively
+worsened despite hydration.  Renal service was consulted.  A
+vanco level was 57. Potentially nephrotoxic medications were
+held, (including acyclovir).  Dialysis was initiated on 2008-10-30 00:00:00.
+Renal biopsy done on 2008-10-30 00:00:00 c/w ATN.  He continued on dialysis
+until 2008-10-30 00:00:00 and his HD line was removed on 2008-10-30 00:00:00.  Creatinine was
+stable around 3.4 off dialysis.
+- Follow electrolytes
+- Outpatient renal f/u scheduled.
+.
+## Hodgkin's lymphoma: The patient had a history of multiple
+relapses. He was scheduled to receive Gemzar, Navelbine and
+Decadron. Treatment was initially on hold given possible
+infectious issues.  However, there was concern that renal
+failure, diarrhea and rising LDH may be related, however renal
+and GI biopsies were not consistent with lymphoma.
+.
+# Hypotension. Hemodynamically stable; thought to be due to
+adrenal insufficiency. Pt was on hydrocortisone but switched to
+Prednisone.  Was stable but had additional hypotension on 2008-10-30 00:00:00 so
+was restated on high dose steroids- now on 10 mg
+methylprednisolone daily.
+.
+# HBV core Ab positive. Continue lamivudine therapy.  Dosing was
+adjusted for CrCl.
+- Readjust dose per renal function.
+.
+# FEN: Regular diet.  2008-10-30 00:00:00 TPN initiated due to poor PO intake.
+Stopped 2008-10-30 00:00:00.
+.
+# Access: L portocath
+.
+# Contact: HCP, Deina Himmel Deina Himmel, father of patient,
+test@mail.com.
+
+Medications on Admission:
+Acyclovir 200 mg q8hrs
+Albuterol prn
+Levothyroxine 75 mcg daily
+Salmeterol 50 mcg UPMCE
+Lamivudine 100 mg daily
+Lorazepam 1 mg q8hrs prn
+Oxycodone 10 mg q6hrs prn
+Prednisone 10 mg daily
+Olanzapine 2.5 mg qhs prn
+Multivitamin
+
+Discharge Medications:
+1. 3 in 1 commode
+2. Rolling walker
+3. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Salmeterol 50 mcg/Dose Disk with Device Sig: 2008-10-30 00:00:00 Disk with
+Devices Inhalation Q12H (every 12 hours).
+5. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for Anxiety, insomnia, nausea.
+Disp:*20 Tablet(s)* Refills:*0*
+6. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours)
+as needed.
+Disp:*20 Tablet(s)* Refills:*0*
+7. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+UPMCE (2 times a day).
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+10. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+every four (4) hours.
+11. Lamivudine 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q12H (every
+12 hours).
+Disp:*120 Capsule(s)* Refills:*0*
+13. Methyl Salicylate-Menthol 15-15 % Ointment Sig: One (1) Appl
+Topical PRN (as needed).
+14. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Pneumonia, Hodgkin's disease
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted with fevers, pneumonia, low blood pressure,
+low platelets, and acute kidney failure.
+Please follow up in oncology clinic to check your blood cell and
+platelet counts tomorrow.
+
+Followup Instructions:
+Provider: Deina Himmel Phone: test@mail.com, extansion # 1
+Date: 2008-10-30 00:00:00 2:00 PM
+
+Provider: Deina Himmel, MD Phone:test@mail.com
+Date/Time:2008-10-30 00:00:00 9:00 AM
+
+Provider: Deina Himmel  Phone: test@mail.com
+Date/Time: 2008-10-30 00:00:00 2:30 PM
+
+
+
+Completed by:2008-10-30 00:00:00

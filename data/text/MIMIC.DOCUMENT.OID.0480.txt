@@ -1,0 +1,397 @@
+Admission Date:  2012-05-19 00:00:00              Discharge Date:   2012-05-19 00:00:00
+
+Date of Birth: 1944-03-07 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Zaid Dugan
+Chief Complaint:
+Hypothermia, altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+49M with HBV, HCV and ESRD 2012-05-19 00:00:00 HIV on dialysis for 25 years
+presents with purulent drainage from around the peritoneal
+dialysis catheter with an exposed cuff.  He dialyzes himself at
+home and follows up at UPMCE Clinic sporadically.  He presented
+to UPMCE Clinic today and was sent to UPMCE ED for the exposed
+catheter cuff and exit site infection.  The peritoneal dialysis
+catheter is working and he reports clear output.
+
+The patient denies fevers, chills, nausea, vomitting, abdominal
+pain, diarrhea. He does not recall last bowel movement. He
+reports decreased a123 Any St.e and weight loss but unsure how much.
+He was dialyzed last night.
+
+The patient is a very poor historian.  There is a note in his
+paperwork from Alison that he was admitted to UPMCE from 2012-05-19 00:00:00
+to 2012-05-19 00:00:00 but it does not state why.  The patient reports that
+it was for infection of his peritoneal dialysis catheter and he
+was treated with antiobiotics.
+
+On initial evaluation in the ED, the patient was reportedly very
+somnolent and unresponsive to sternal rub but then aroused
+without intervention and was able to answer questions.  CD4
+count was 273 2 years ago and the patient is reportedly
+non-compliant with his medications.
+
+Past Medical History:
+* HIV
+- diagnosed HIV+ in 2012-05-19 00:00:00 while he was in Guantanamo Bay.  He
+received political asylum.  He feels his HIV infection was the
+result of receipt of blood transfusions as a result of injuries
+sustained while being interrogated in a jail in 123 Any St.. He
+sustained several gunshot
+wounds and lacerations, as well as blunt trauma. He reported
+having CMV retinitis of the R eye that was diagnosed in 2012-05-19 00:00:00. It
+was treated with a ganciclovir implant, but was further
+complicated by chronic pain that resulted in enucleation.  He
+also had a work up for a pulmonary nodule in 2012-05-19 00:00:00, that
+ultimately was felt to be consistent with latent TB infection,
+and he was treated with 6 months of INH therapy in one report,
+up to a year in another.  He also had pneumococcal sepsis in
+2012-05-19 00:00:00."
+* Hepatitis B
+* Venous thromboembolism
+* Depressive disorder & anxiety
+* CMV infection
+* History of tuberculosis
+* chronic kidney disease stage V due to HIV, on peritoneal
+dialysis, followed at 123 Any St. on 123 Any St. St.
+* Chronic constipation
+* h/o XRT at MEEI for SCC in his left ear
+* Hypertension
+* Syphilis 2012-05-19 00:00:00 l993 c/b neurosyphilis, treated with IV
+penicillin x10days
+* Hepatitis C antibody positive
+* s/p PD catheter placement 2012-05-19 00:00:00, numerous HD catheters and AV
+fistulas; all failed
+
+
+Social History:
+Tobacco 2012-05-19 00:00:00 PPDx 20 years, no ETOH, unemployed and lives alone
+in an apartment and he has CMA nursing help at home. No crack
+use
+or other drug use.
+
+
+Family History:
+Noncontributory to HIV/MS changes
+
+
+Physical Exam:
+On admission:
+Vitals: 96.7 (92.8 on repeat) 66 156/98 22 100% 3L
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: bilateral crackles at lung bases R>L, decreased breath
+sounds
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+normoactive bowel sounds, some purulence produced with milking
+of
+skin around catheter, no surrounding cellulitis, no palpable
+masses
+DRE: patient refused
+Ext: RUE/LUE AVF sites thrombosed per patient, LLE/RLE
+(?removed)
+AVG sites
+
+Pertinent Results:
+ADMISSION LABS
+--------------
+2012-05-19 00:00:00 03:30PM BLOOD WBC-3.5* RBC-2.66* Hgb-7.6* Hct-24.0*
+MCV-90 MCH-28.6 MCHC-31.6 RDW-22.4* Plt Ct-57*
+2012-05-19 00:00:00 03:30PM BLOOD Neuts-88* Bands-0 Lymphs-10* Monos-2
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 NRBC-2*
+2012-05-19 00:00:00 06:47PM BLOOD PT-11.9 PTT-29.5 INR(PT)-1.0
+2012-05-19 00:00:00 04:00AM BLOOD  WBC-3.1* Lymph-12* Abs Alison-372 CD3%-75
+Abs CD3-278* CD4%-14 Abs CD4-52* CD8%-58 Abs CD8-214
+CD4/CD8-0.2*
+2012-05-19 00:00:00 03:30PM BLOOD Glucose-101* UreaN-30* Creat-8.9* Na-137
+K-4.9 Cl-98 HCO3-30 AnGap-14
+2012-05-19 00:00:00 03:30PM BLOOD ALT-78* AST-90* LD(LDH)-516* AlkPhos-251*
+Amylase-104* TotBili-0.2
+2012-05-19 00:00:00 04:00AM BLOOD Calcium-7.5* Phos-5.3* Mg-1.9
+2012-05-19 00:00:00 03:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+.
+MICROBIOLOGY
+------------
+2012-05-19 00:00:00 02:00PM ASCITES  WBC-3* RBC-0 POLYS-0 LYMPHS-68*
+MONOS-0 MESOTHELI-16* MACROPHAG-16* OTHER-0
+2012-05-19 00:00:00 03:30PM   WBC-3.5* RBC-2.66* HGB-7.6* HCT-24.0* MCV-90
+MCH-28.6 MCHC-31.6 RDW-22.4*
+.
+2012-05-19 00:00:00 2:00 pm PERITONEAL FLUID
+
+   GRAM STAIN (Final 2012-05-19 00:00:00):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (123 Any St.inary):    NO GROWTH.
+
+   ANAEROBIC CULTURE (123 Any St.inary):    NO GROWTH.
+.
+Blood cultures 2012-05-19 00:00:00 x 2: pending, no growth to date
+.
+2012-05-19 00:00:00 12:55 am SPUTUM     Site: INDUCED
+
+   GRAM STAIN (Final 2012-05-19 00:00:00):
+      >25 PMNs and >10 epithelial cells/100X field.
+      Gram stain indicates extensive contamination with upper
+respiratory
+      secretions. Bacterial culture results are invalid.
+      PLEASE SUBMIT ANOTHER SPECIMEN.
+
+   RESPIRATORY CULTURE (Final 2012-05-19 00:00:00):
+      TEST CANCELLED, PATIENT CREDITED.
+
+   LEGIONELLA CULTURE (123 Any St.inary):    NO LEGIONELLA ISOLATED.
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      2012-05-19 00:00:00):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+
+   FUNGAL CULTURE (123 Any St.inary):
+      GRAM STAIN OF THIS SPECIMEN INDICATES CONTAMINATION WITH
+      OROPHARYNGEAL SECRETIONS AND INVALIDATES RESULTS.
+      Specimen is only screened for Cryptococcus species. New
+specimen is
+      recommended.
+
+   ACID FAST SMEAR (Final 2012-05-19 00:00:00):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (123 Any St.inary):
+.
+2012-05-19 00:00:00 4:00 am IMMUNOLOGY      Source: Venipuncture.
+
+                            **FINAL REPORT 2012-05-19 00:00:00**
+
+   HIV-1 Viral Load/Ultrasensitive (Final 2012-05-19 00:00:00):
+      88 copies/ml.
+.
+2012-05-19 00:00:00 2:00 pm SWAB      EXIT SITE DRAINAGE.
+
+   WOUND CULTURE (123 Any St.inary):
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS).    HEAVY GROWTH.
+.
+IMAGING
+-------
+Chest X-ray on admission: IMPRESSION: Right perihilar hazy
+opacity which may reflect asymmetric pulmonary edema, but
+infection also is in the differential. Small bilateral pleural
+effusions. Limited evaluation of the right lung apex.
+.
+CT head on admission:
+1. No acute intracranial process.
+2. Near-complete opacification of the bilateral mastoid air
+cells, unchanged on the left, but new on the right.
+3. Increased size and number of lucencies within the calvaria
+should be
+correlated clinically with any history of malignancy, and a bone
+scan can be obtained for further evaluation. This finding was
+communicated to Dr. Zaid Dugan Dr. Alison at 12:20 a.m. via
+telephone on 2012-05-19 00:00:00.
+4. Extensive paranasal sinus disease, as described above.
+5. Extensive chronic small vessel ischemic disease, not
+significantly changed compared to 2012-05-19 00:00:00.
+.
+CXR 2012-05-19 00:00:00:
+As compared to the 123 Any St.us radiograph, there is increased
+parenchymal opacity in the right perihilar lung areas. Although
+unilateral pulmonary edema would be more likely than pneumonia,
+pneumonia cannot be excluded on grounds of the radiologic
+appearance.  Unchanged size of the cardiac silhouette. Unchanged
+vascular stent.
+
+
+Brief Hospital Course:
+49 year old Haitian male with poorly controlled HIV (last CD4
+count 273 in 2012-05-19 00:00:00, in-house level 52), HBV coinfection and a
+history of longstanding peritoneal dialysis who presented 2012-05-19 00:00:00
+with mental status change, hypotension, and hypothermia.
+.
+ACTIVE ISSUES
+-------------
+# Pneumonia: community acquired pneumonia vs. PCP pneumonia,
+patient is on prophylactic Bactrim at home.  He presented with
+hypothermia and altered mental status.  CD4 count was noted to
+be 52.  Patient was initially on vancomycin/zosyn for empiric
+coverage, then switched to PO moxifloxacin for planned five day
+course after blood cultures remained negative.   Chest X-ray
+showed perihilar opacity.  Patient will continue bactrim
+prophylaxis upon discharge.  Sputum cultures were obtained but
+were contaminated.  Infectious disease was consulted and
+recommended the above antibiotic therapy, as well as continuing
+prophylactic Bactrim.
+.
+# HIV: CD4 count measured at 52 during admission, viral load 88
+copies.  Patient was continued on his home HAART regimen, as
+well as prophylactic Bactrim.  Patient will likely require
+re-evaluation of his HAART regimen upon discharge.
+.
+# Pancytopenia: patient was noted to be pancytopenic during his
+hospital stay, and it is unclear if this is chronic.  This may
+be related to his HIV, or other etiology, however this was not
+worked up further due to patient's insistence to be transferred
+to UPMCE Hospital.
+.
+# Bradycardia: on 2012-05-19 00:00:00 patient had a pause on telemetry (8
+seconds) with transient hypotension to the 80s and hypoxia to
+the 80s which recovered within seconds.  Later in the evening he
+had two episodes of bradycardia to the high 20s which was
+self-limited within seconds and asymptomatic.  Electrolytes,
+cardiac enzymes and EKG were within normal limits; a cardiology
+consult was obtained and no further evaluation or intervention
+was recommended.
+.
+# Head imaging abnormality: patient was noted to have lucencies
+in the calvarium on head CT.  This was not worked up further due
+to patient's insistence to be transferred to UPMCE Hospital.
+.
+# End-stage renal disease on peritoneal dialysis: patient
+presented with concern for peritoneal dialysis port site
+infection, with purulent fluid coming from the site.  Cultures
+were obtained via diagnostic paracentesis and were 123 Any St.inarily
+negative upon discharge.  Patient is on Calcitriol 0.5 and
+sinacalcet 150 mg daily.  Renal was consulted for performance of
+peritoneal dialysis while patient was hospitalized.  CBC should
+be trended for further signs of infection.
+.
+# Anemia: likely combination of bone marrow suppression as well
+as chronic kidney disease.  The patient recieved one unit RBCs
+for Hct 22.9 with an appropriate bump to 26.9.  Epoeitin was
+held given concern for possible malignancy on head CT.
+.
+INACTIVE ISSUES
+---------------
+# Hypertension: patient is on lisinopril and amolodipine at
+home.  His home blood pressure medications were resumed after
+they were initially held due to his presenting sepsis-like
+picture.
+.
+TRANSITION OF CARE
+------------------
+# Follow-up: patient will be discharged to UPMCE Hospital per
+his request.  Patient will require antibiotics to finish course
+of antibiotics for community acquired pneumonia.  Blood cultures
+and peritoneal cultures are currently pending and will need to
+be followed up.  There was also concern for malignancy of CT
+head that will need to be followed up.  This was not addressed
+during the UPMCE hospital stay given his refusal for further
+work-up.  He should receive CBC and Chem10 every day for
+monitoring.  Epoietin is being held at the current time due to
+the concern for malignancy on CT head.  This should be
+re-evaluated in the near future.
+.
+# Code status: presumed full
+.
+# CONTACT: patient, Frenchie Alison (HCP) test@mail.com
+.
+
+
+Medications on Admission:
+Calcium Carbonate 600''
+Lamivudine 50'
+E123 Any St. Alfa [**Numeric Identifier 385**] monthly SQ
+Gentamicin cream apply daily to the exit site
+Lisinopril 10'
+Norvasc 10' (hold for hypotension)
+PhosLo 3 tabs with meals 667'''
+Potassium Salts 10'
+Prilosec 20'
+Rocaltrol 0.5 mcg'
+Sensipar 150'
+Viread 300 PO Qweek
+Zerit 15'
+Zyprexa 5'
+
+Discharge Medications:
+1. lamivudine 10 mg/mL Solution Sig: Fifty (50) milligrams PO
+DAILY (Daily).
+2. calcium carbonate 600 mg (1,500 mg) Tablet Sig: One (1)
+Tablet PO twice a day.
+3. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. PhosLo 667 mg Capsule Sig: One (1) Capsule PO three times a
+day: Please give with meals.
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+7. calcitriol 0.5 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+8. cinacalcet 30 mg Tablet Sig: Five (5) Tablet PO DAILY
+(Daily).
+9. tenofovir disoproxil fumarate 300 mg Tablet Sig: One (1)
+Tablet PO 1X/WEEK (MO).
+10. stavudine 15 mg Capsule Sig: One (1) Capsule PO Q24H (every
+24 hours).
+11. olanzapine 2.5 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+12. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+13. moxifloxacin 400 mg Tablet Sig: One (1) Tablet PO daily ()
+for 5 days.
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary diagnosis:
+Community-acquired pneumonia
+Bradycardia
+
+Secondary diagnosis:
+delirium/ metabolic encephalopathy
+HIV/AIDS
+chronic kidney disease stage V, on peritoneal dialysis
+Anemia of chronic disease
+Hypertension
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. Alison,
+
+It was a pleasure caring for you at the UPMCE.  You came for further evaluation of altered
+mental status and hypothermia.  Further testing showed that you
+had a pneumonia, for which you are being treated with
+antibiotics.  There was also concern for infection of your
+peritoneal dialysis insertion site.  Cultures were obtained from
+this area, and revealed no evidence of infection.  You are now
+being discharged to UPMCE Hospital for further treatment.
+Dr. Frenchie at UPMCE Hospital was contactFrenchie Alison and accepted the
+patient for transfer.
+
+The following changes have been made to your medications:
+
+We STARTED Bactrim
+We STARTED moxifloxacin, which should be taken for five days
+total
+We STOPPED Epoeitin for the time being, which should be further
+re-evaluated in the future
+
+Followup Instructions:
+Please call Dr. Zaid Dugan office at test@mail.com to
+schedule a follow-up appointment in ~2 weeks after discharge.
+
+                             Frenchie Alison MD 60864
+

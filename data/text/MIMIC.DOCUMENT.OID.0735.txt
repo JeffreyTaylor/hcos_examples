@@ -1,0 +1,197 @@
+Admission Date:  2012-06-18 00:00:00              Discharge Date:   2012-06-18 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Enalapril
+
+Attending:Cordelra Jarosek
+Chief Complaint:
+Bright red blood per rectum x 2
+
+Major Surgical or Invasive Procedure:
+Colonoscopy on 2012-06-18 00:00:00
+
+
+History of Present Illness:
+86 yo woman with h/o diverticulosis and Hylda Imburgia tear/PUD
+on PPI, Imburgia/MDS presents with BRBPR. Pt was in her usual
+health until 3am today when she woke up to have a BM. While
+having BM, noted "blood pouring out," filling the entire toilet.
+She went back to bed and then had the urge to have another BM
+and had more bloody stools and came to the ED. Pt denies passing
+bloody clots, abdominal pain, n/v, f/c, chest pain, SOB. She
+does report feeling dizzy and weak. Denies dysuria, frequency,
+bladder, fullness, or urgency. Since in emergency room, has not
+had any more bloody stools.
+.
+In ED, VS BP 193/100-->135/80, HR 90s. Received 1.35L of NS. GI
+made aware. Received Protonix and Ciprofloxacin 500mg x i. No NG
+lavage in ED.
+
+
+
+Past Medical History:
+1. UGIB from gastric ulcer/Hylda Imburgia tear on EGD 2012-06-18 00:00:00 on
+Protonix.
+2. Diverticulosis-last colonoscopy 2012-06-18 00:00:00 showing diverticulosis
+in entire colon.
+3. Hypertension.
+4. Myeloproliferative disorder/[**First Name9 (NamePattern2) 5319**] Cordelra Jarosek. Baseline
+includes white blood cell count of 15 to 20, hematocrit in the
+mid forties, platelets close to one million. The patient did
+not tolerate hydrea. She is on aspirin.
+5. Status post cholecystectomy.
+6. Status post resection for bowel strangulation.
+7. Hypothyroidism.
+8. Hemorrhoids
+
+
+Social History:
+Lives alone, no alcohol/tob/drugs, distant tobacco use about 20
+years abck
+
+
+Family History:
+The patient's mother died of peritonitis.
+The patient's father had an unknown cancer.  No history of
+gastrointestinal bleeding in the family
+
+Physical Exam:
+PE: VS 96.7, 135/70, 14, 92% on RA
+GEN: NAD, pleasant, lying in bed
+SKIN: Face with pink
+HEENT: Perrla, EOMI, anicteric sclerae, mmm
+NECK: supple
+LUNGS: crackles up to 1/2 up bilaterally, otherwise clear. No
+wheezing or rhonchi
+HEART: S1S2 normal, RRR, no m/r/g
+ABD: soft, nt, nd, +BS, per ED note, guaiac +, dark brown
+stools. + external hemorrhoids-not overtly bleeding.
+EXT: no e/c/c, DP 2+ bilat
+NEURO: AOX 3. CN 2-12 intact, moving extremities.
+
+
+Pertinent Results:
+ECG: NSR at 74, LAD, nl axis, poor R wave progression, no ST/T
+wave changes. No changes from 123 Any St.us ECG.
+.
+Imaging: There is mild stable cardiomegaly and a tortuous
+calcified thoracic aorta. The pulmonary vasculature is normal.
+The lungs are clear without evidence of focal consolidation or
+pneumothorax. There is persistent elevation of the left
+hemidiaphragm.
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+
+Brief Hospital Course:
+A/P: 86yo F with h/o gastritis/Cordelra Jarosek tear,
+diverticulosis presenting with hematochezia.
+.
+# Acute blood loss anemia/diverticular bleed: Given multiple
+diverticulosis found on c-scope in 2012-06-18 00:00:00 and painless abdomen,
+thought to be most likely secondary to diverticular bleeds.  Hct
+remained on the floor for two day, and pt underwent a bowel prep
+with Golytely and noted to have a small blood passing with prep,
+but hct/hemodynamics remained stable. Pt underwent colonoscopy
+on 2012-06-18 00:00:00 and noted to have large amount of bleeds from
+left-sided colon and severe diverticulosis and a three point hct
+drop from 35 to 32 but  stayed hemodynamically stable.  Pt was
+transferred to UPMCE for closer monitoring and IR was made aware
+for possible embolization in case pt continued to bleed.  Pt
+stopped bleeding in UPMCE and was tranfused with 1 unit of PRBC.
+The following day, she was transferred back to the floor as
+active bleeding stopped and hemodynamics stabilized.  On the
+floor, pt received 1 more unit of PRBC for hct <32 but did not
+further have BRBPR.  Surgery was consulted to explain risks of
+possible colectomy emergently as well as for elective procedure
+for prophylaxis for any furture diverticular bleeds.  Pt decided
+to consider emergent surgery if needed but deferred elective
+surgery.  After one unit of PRBC, pt's hct bumped appropriately
+and remained stable.  After ~48 hours of stable hct, pt was
+discharged home.
+.
+# Myeloproliferative disorder/Imburgia: Pt was treated with ASA
+and therapeutic phlebotomy as outpatient.  Held aspirin in the
+setting of GIB.
+.
+# Hypothyroidism: 123 Any St.us TSH checked in 2012-06-18 00:00:00 elevated but free
+T4
+normal and no outpatient f/u check.  Continued levoxyl 88mcg and
+recheck TSH, free T4 as outpatient.
+.
+# HTN: Pt was hypertensive in the ED and restarted amlodipine on
+the floor.  On transfer to UPMCE, amlodipine was discontinued for
+relatively low blood pressure. Restarted amlodipine on the day
+of discharge as BP was noted to be elevated.
+.
+# Gastritis/recent [**Doctor First Name 325**] [**Doctor Last Name **] tear- PPI UPMCE
+.
+# UTI: Although pt was asymptomatic, she was treated with three
+days of ciprofloxacin.  Ucx was consistent with contamination.
+.
+# FEN: NPO with IVF and started clears and advanced diet to
+cardiac diet once hct stabilized.
+.
+# PPX: Pneumoboots, PPI.
+.
+# CODE: DNR/DNI
+
+
+Medications on Admission:
+1. Amlodipine 5 mg Tablet Qday
+2. Levothyroxine 88 mcg Qday
+3. Pantoprazole 40 mg Daily
+4. Aspirin 81 mg PO once a day
+
+
+Discharge Medications:
+1. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+3. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for sleep.
+4. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Primary diagnoses:
+Blood loss anemia
+Diverticular bleeds
+.
+Secondary diagnoses:
+Cordelra Jarosek Imburgia
+Hypertension
+
+
+Discharge Condition:
+Stable, no active bleeding from rectum
+
+
+Discharge Instructions:
+Return to emergency department if you develop bright red bloody
+stools, chest pain, shortness of breath, lightheadedness,
+weakness, or any other worrisome symptoms. Keep your follow-up
+appointments and take medications as instructed. Do not take
+aspirin until you see Dr. Cordelra Jarosek for
+appointment next week. He would like to see you next week but
+his schedule is full next week and he will arrange an
+appointment.
+
+Followup Instructions:
+Provider: Hylda Imburgia, MD Phone:test@mail.com
+Date/Time:2012-06-18 00:00:00 11:00
+Provider: Cordelra Jarosek, M.D. Date/Time:2012-06-18 00:00:00 2:20
+
+
+

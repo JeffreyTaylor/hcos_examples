@@ -1,0 +1,308 @@
+Admission Date:  2012-11-26 00:00:00              Discharge Date:   2012-11-26 00:00:00
+
+Date of Birth: 1959-11-20 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Oxycodone
+
+Attending:Kearstan Sakovich
+Chief Complaint:
+.
+Right patellar fracture
+.
+
+Major Surgical or Invasive Procedure:
+.
+1. open reduction internal fixation for right patellar fracture
+.
+2. Cardiac catheterization
+.
+
+
+History of Present Illness:
+CC:test@mail.com.
+HPI: 39 yo M w h/o G6PD deficiency, DM2, s/p ORIF (intubated
+during procedure) for R patella fx. Post-surgical course
+complicated by 02 desat to the 80's on RA and post-op pain.  Pt.
+required 6L FM 02 to incr. sats to the 90's. Additionally, EKG
+showed diffuse ST depressions and TWI.  Pt. was transferred to
+the UPMCE for observation and management of hypoxia. The pt. had
+an epidural placed for pain control which has now been d/c'd. He
+is now transferred to UPMCE for further workup of EKG changes and
+possible cardiac catheterization.  He denies any chest pain or
+SOB during this hospitalization.
+.
+ROS: Pt. denies headaches, SOB, CP(although he does describe a
+few episodes of chest pain with excercise and at rest in the
+past). Denies N/V, denies diarrhea, admits to constipation and
+reflux as inpatient.
+.
+
+
+Past Medical History:
+.
+- OSA(newly diagnosed)
+- G6PD deficiency
+- DM 2
+- h/o genital herpes
+- R patella fx: occurred while playing basketball on 2012-11-26 00:00:00.
+Underwent ORIF of R knee on 2012-11-26 00:00:00 due to non-UPMCE.
+- s/p repair of R ruptured patellar tendon in 2012-11-26 00:00:00
+.
+
+Social History:
+.
+SOCIAL HISTORY: He is currently working as a realtor. He does
+not smoke, never smoked in the past, but does drink alcohol
+socially.
+.
+
+
+Family History:
+.
+FAMILY HISTORY:
+No fam hx of CAD or cancer.
+.
+
+
+Physical Exam:
+.
+PHYSICAL EXAM:
+Vitals: 140/84 68 100%RA FS 153
+Gen: NAD, AAOx3
+HEENT: EOMI, PERRL
+Cardio: distant heart sound, normal S1/S2, no murmurs.
+Resp: CTA bilat. no wheezes, crackles
+Abd: NT/ND, BS normoactive
+Ext: R knee immobilizer in place, 1+ edema on right. L leg
+non-edematous.
+.
+
+
+Pertinent Results:
+.
+EKG: NSR@ 79, nl axis, nl intervals, <1mm STE in V1, V2, STD in
+II, III, aVF, V4-V6, TWF in I, TWI in II, III, V3-V6
+.
+IMAGING:
+CXR: bilateral airspace disease (R>L) c/w pulm edema vs.
+aspiration
+.
+XRAY RIGHT KNEE, THREE VIEWS 2012-11-26 00:00:00: There is a transverse
+fracture through the lower third of the patella with
+approximately 2.3 cm of distraction. There are several adjacent
+bony fragments. A large knee effusion is present. Bony
+mineralization is normal. No radiopaque foreign bodies are
+identified. There is diffuse generalized edema in the
+surrounding soft tissues. The distal femur and proximal tibia
+are intact. The alignment of the knee is preserved.
+
+IMPRESSION: Transverse fracture of the right patella as above.
+.
+Right LE Duplex, 2012-11-26 00:00:00:
+Limited study.  No evidence of deep venous thrombosis within the
+
+right common femoral, proximal superficial femoral and calf
+veins.
+.
+ECHO, 2012-11-26 00:00:00:
+The left atrium is mildly elongated. Left ventricular wall
+thickness, cavity size, and systolic function are normal
+(LVEF>55%). Regional left ventricular wall motion is normal.
+Tissue velocity imaging demonstrates an E/e' <8 suggesting a
+normal left ventricular filling pressure (<12mmHg). Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic regurgitation. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse. The pulmonary artery systolic
+pressure could not be determined. There is no pericardial
+effusion.
+IMPRESSION: Preserved global and regional biventricular systolic
+function.
+.
+Cardiac cath, 2012-11-26 00:00:00:.
+1. Selective coronary angiography of this right dominant system
+revealed
+no angiographically apparent coronary artery disease. The LAD,
+LCX, and
+RCA were patent without disease. The LMCA had 20% ostial
+stenosis.
+2. Limited hemodynamics demonstrated LVEDP of 13mmHg.
+FINAL DIAGNOSIS:
+1. Coronary arteries are normal.
+.
+
+
+Brief Hospital Course:
+39 yo M w h/o G6PD deficiency, DM2, s/p ORIF (intubated during
+procedure) for R patella fx. Post-surgical course complicated by
+02 desat to the 80's on RA and post-op pain with EKG changes.
+
+MICU course:
+**Enzymes consistently negative.  Cards to do cardiac
+catheterization for concern for left main disease.  Of note
+t-wave abnormalities persisted throughout his stay in the unit.
+Patient was started on aspirin, lipitor, acei, and beta-blocker.
+
+**Patient had low-grade fever that orthopedics attributed to
+knee operation.  Patinet was kept on Cefazolin per orthopedics.
+**Hematology consulted regarding the safety of asa and G6PD
+deficiency.  They felt that it was OK to give a trial of the ASA
+and then assess.  HCT was stable.
+**Elevated creatinine was attributed to large muscle mass and
+not believed to be due to any pathologic process in the setting
+of a normal GFR.
+**Oxygen requirement decreased during his stay and it was not
+believed to have had a PE given the short surgery and clinical
+improvement.
+.
+Hospital Course:
+#) Hypoxia: The patient desatted to the 80's on RA and required
+6L 02 after surgery.  His O2 requirement gradually decreased and
+eventually was 100% 02 sat on RA. Chest xray showed mild pulm.
+edema and elevated left hemi-diaphragm.  His O2 requirement was
+thought initially to be 2012-11-26 00:00:00 oversedation from pain medications
+in the post-operative setting along with history of obstructive
+sleep apnea.  His O2 requirement improved quickly and PE was not
+thought to be likely.
+.
+#) EKG changes: The patient's EKG showed diffuse fixed 1mm ST
+elevations and TWI that persisted on followup EKGs. However, it
+was unclear whether these changes are new (no EKGs on record in
+our records or UPMCE).  The patient has been asymptomatic and
+denies any chest pain or SOB. He does report mild chest pain a
+few weeks back while excercising and at rest.  He was monitored
+on telemetry and seen by the cardiology consult who felt his EKG
+findings were concerning for possible left main disease.  He was
+transferred to the cardiology service for cardiac
+catheterization.  His cardiac enzymes were cycled and were
+negative, and he was monitored on telemetry.  He was started on
+an aspirin, BB, statin, and ACEI during his hospitalization and
+continued upon discharge.  His cardiac cath showed no evidence
+of coronary disease but concern for possible compression of the
+left main root, possibly anomalous coronary anatomy.  He was
+scheduled for an outpatient cardiac MRI to further evaluate this
+possibility and follow up in cardiology clinic.
+.
+#) Elevated Creatinine: The patient was admitted with a Cr of
+1.6. Records obtained from UPMCE show his baseline crt. is 1.5.
+His calculated CrCl was normal and the elevated Cr was thought
+to be 2012-11-26 00:00:00 the patient's large muscle mass.
+.
+#) HTN: The patient had no history of documented HTN. However,
+the patient had SBP in the 160's while at UPMCE.  He was started
+on a BB and ACEI given his EKG changes and concern for cardiac
+disease.
+.
+#) Type II DM: The patient's outpatient oral hypoglycemics were
+stopped upon admission and he was maintained on an insulin
+sliding scale.  He was briefly put on Glargine for control of
+elevated blood sugars but this was discontinued before his
+discharge.
+.
+#) Fevers: The patient had fevers to 101 in the post-operative
+period.  His fever curve trended down.  Blood and urine cultures
+were negative.  A chest xray showed evidence of atelectasis and
+the patient was encouraged to continue incentive spirometry.  A
+right lower extremity Duplex was negative for DVT.  He was
+continued on Cefazolin per recommendations of the orthopedic
+service.  This was discontinued and the patient had no further
+fevers.
+.
+#) s/p ORIF of left patellar fracture: The patient was followed
+by the orthopedic surgery service.  He was fitted with a brace
+for the right leg and was scheduled for followup in 2 weeks with
+orthopedics for further adjustment of the brace.  He was given a
+short course of pain medication for his right knee pain after
+surgery and he will followup with orthopedics in 2 weeks.
+.
+#) G6PD deficiency: Stable during this hospitalization.  Sulfa
+drugs were avoided, as were dietary triggers.
+Hematology/oncology was called before starting aspirin but they
+felt that the patient had a low likelihood of hemolysis with
+aspirin.  The patient was started on aspirin and monitored for
+signs and lab evidence of hemolysis.  His hematocrit was stable
+and he tolerated the aspirin well.  He was continued on an
+aspirin as an outpatient.
+.
+#) FEN: Cardiac heart-healthy, G6PD deficiency diet
+.
+#) Code: Full Code
+
+
+Medications on Admission:
+.
+MEDS (home):
+Glyburide 5mg qd
+.
+
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Glyburide 5 mg Tablet Sig: One (1) Tablet PO once a day.
+5. HYDROmorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain for 7 days.
+Disp:*35 Tablet(s)* Refills:*0*
+6. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*90 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+.
+Primary:
+1. patellar fracture s/p ORIF
+.
+Secondary:
+1. diabetes type II
+2. hypertension
+3. G6PD deficiency
+.
+.
+
+
+Discharge Condition:
+.
+stable. hypoxia resolved.
+.
+
+
+Discharge Instructions:
+.
+1. Please continue to take your new blood pressure medications
+as prescribed.
+2. Please continue physical therapy as instructed.
+3. Attend you follow up appoinments as below.
+.
+If you experience any numbness or tingling or weakness in your
+lower extremity or if you have fevers, chills, shortness of
+breath, chest pain or other worrisome symptoms please seek
+medical attention.
+.
+
+Followup Instructions:
+.
+Please followup with orthopedics for your patellar fracture:
+Provider: Kaydra Peral GATES, RNC MSN Phone:test@mail.com
+Date/Time:2012-11-26 00:00:00 10:10
+.
+You have an appointment scheduled to see your primary care
+physician, Peral. [**First Name8 (NamePattern2) 796**] Peral, at UPMCE on
+Monday, 2012-11-26 00:00:00 at 8:30am.
+.
+
+
+
+Completed by:2012-11-26 00:00:00

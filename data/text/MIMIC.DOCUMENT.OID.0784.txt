@@ -1,0 +1,232 @@
+Admission Date:  2009-03-14 00:00:00     Discharge Date:  2009-03-14 00:00:00
+
+Date of Birth: 1981-03-14 00:00:00 00:00:00     Sex:  F
+
+Service:  Medicine
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 29-year-old
+female with end-stage renal disease on hemodialysis, who was
+admitted to the Medical Intensive Care Unit from the
+Emergency Department with sepsis.  The patient was in her
+usual state of health until after her usual Monday
+hemodialysis session.  The session lasted three hours and was
+complicated by line thrombosis.
+
+Upon arriving home, she felt profoundly fatigued, was
+vertiginous, and had diffuse long bone pain, felt febrile,
+and was nauseated, and vomited once.  She also noted mild
+shortness of breath with mild pleuritic chest pain.  The
+patient took Tylenol with no relief.
+
+On the morning of 2009-03-14 00:00:00, she presented to the
+Emergency Department and was found to have a blood pressure
+of 90/60, which was responsive to 1 liter of normal saline.
+The patient had generalized weakness and mild abdominal pain.
+A left external jugular central line was attempted, but
+became infiltrated and was removed with resulting hematoma.
+A successful right femoral line was then placed.  Her
+temperature was 101 with a white blood cell count of 35.8.
+She was transiently hypoxic briefly requiring a face mask to
+sustain an oxygen saturation of greater than 90%.  She was
+also found to have a potassium of 9.2.  She was given insulin
+D50, calcium gluconate, and bicarbonate.  An EKG showed
+peaked T waves with widening of the QRS intervals.  Patient
+was taken for hemodialysis during which time blood cultures
+were drawn and Vancomycin was given empirically.
+
+REVIEW OF SYSTEMS:  Diarrhea.  Patient traveled to 123 Any St.,
+nausea, weakness, mild headache, mild photophobia.  Patient
+has gained 30 pounds and lost 30 pounds over the past year.
+Patient denied shortness of breath, chest pain, dysuria, neck
+stiffness, abdominal pain, sick contacts, vision changes, and
+leg pain.
+
+PAST MEDICAL HISTORY:
+1. End-stage renal disease secondary to IgA nephropathy
+diagnosed 12 years ago.  Patient has been on hemodialysis
+since 2009-03-14 00:00:00 status post multiple A-V graft revisions.
+2. Right Permacath for the past four months status post trial
+of peritoneal dialysis.  Patient is on the renal transplant
+list.
+3. Hypertension.
+4. Major depressive disorder on Zoloft and Seroquel.
+5. Pseudotumor cerebri in 2009-03-14 00:00:00.
+6. Positive PPD status post INH in 2009-03-14 00:00:00.
+7. Left ovarian cyst removal.
+8. Hyperkalemia status post A-V graft thrombus in 2009-03-14 00:00:00.
+
+MEDICATIONS:
+1. Renagel t.i.d.
+2. Nephrocaps q.d.
+3. Sertraline 150 mg p.o. q.h.s.
+4. Atenolol 25 mg p.o. b.i.d.
+5. Zestril 5 mg p.o. b.i.d.
+6. Epogen with hemodialysis.
+7. Seroquel 100 mg p.o. q.d.
+
+ALLERGIES:  Patient has a questionable allergy to Vancomycin,
+which causes pruritus.
+
+SOCIAL HISTORY:  The patient lives with her mother and
+sister.  She works as a cytotechnologist.  She denies
+smoking.  She has limited alcohol use, and she denies any
+drug use.
+
+FAMILY HISTORY:  No significant family history.
+
+PHYSICAL EXAM ON ADMISSION:  Temperature was 101.0, blood
+pressure 156/104, heart rate 101, respiratory rate 22, and
+oxygen saturation 98% on 2 liters.  In general, the patient
+was alert and oriented times three in no acute distress.
+HEENT:  Facial rash consistent with acne.  Pupils are equal,
+round, and reactive to light.  Extraocular muscles are
+intact.  Visual fields were full bilaterally.  Conjunctivae
+were injected diffusely on the right.  Oropharynx showed no
+lesions.  Neck was supple without bruits, masses, or
+thyromegaly.  There was no lymphadenopathy.  Cardiovascular:
+Nondisplaced PMI, S1 greater than S2, no murmurs, rubs, or
+gallops.  Pulmonary:  Clear to auscultation bilaterally, no
+wheezes or egophony.  Abdomen:  Normoactive bowel sounds,
+soft, nontender, nondistended, no hepatosplenomegaly, no
+masses, and no bruits.  Groin:  Right femoral line clean,
+dry, and intact.  Extremities:  No clubbing, cyanosis, or
+edema.  2+ dorsalis pedis and radial pulses bilaterally.
+Skin:  No rashes or bruises.  Neurologic:  Motor 2009-03-14 00:00:00 in all
+extremities.  Sensation grossly intact to light touch.
+Patellar and brachial reflexes 1+ bilaterally.  Cranial
+nerves II through XII are grossly intact.  No meningismus in
+the neck, no photophobia.
+
+LABORATORY STUDIES:  White blood cell count 35.1 with 22%
+bands, hematocrit 46.3, platelets 159.  INR 1.5.  Sodium 130,
+potassium 6.4, chloride 90, bicarbonate 23, BUN 32,
+creatinine 9.6, glucose 70, calcium 11.6, magnesium 1.9.  CK
+45.  Lactate 7.8.  AST 40, ALT 17, alkaline phosphatase 126,
+total bilirubin 1.0, amylase 40, lipase 22.
+
+Chest x-ray showed no abnormalities.
+
+EKG showed junctional rhythm with rate at 74 beats per minute
+with a few retrograde P waves versus third degree block with
+ventricular escape.  There is a wide QRS with marked T waves,
+increase.
+
+Patient was admitted to the Medical Intensive Care Unit for
+further workup.
+
+HOSPITAL COURSE:
+1. Bacteremia:  Blood cultures from 2009-03-14 00:00:00 were 2009-03-14 00:00:00
+positive for Staphylococcus aureus.  Patient was continued on
+Vancomycin until speciation and specificities were obtained.
+On 2009-03-14 00:00:00, Staphylococcus aureus was found to be
+methicillin sensitive.  Therefore, the patient was switched
+to oxacillin, and maintained on oxacillin throughout her
+hospital stay.
+
+Her Permacath was removed on 2009-03-14 00:00:00, and the tip was
+sent for culture, which came back positive for
+methicillin-sensitive Staph aureus.  Blood cultures were
+obtained daily until 2009-03-14 00:00:00.  Blood cultures from
+2009-03-14 00:00:00 showed 1/4 bottles positive for Staphylococcus
+aureus.  Blood cultures from the 5th and onward were negative
+for any bacterial growth.
+
+The patient underwent transthoracic echocardiogram to rule
+out endocarditis, which was negative.  The patient then
+underwent transesophageal echocardiogram to rule out
+endocarditis.  This too showed no valvular vegetations.  The
+patient defervesced, and blood pressure responded immediately
+to fluid resuscitation.  The patient will be discharged on a
+course of total of 14 days of oxacillin from the first
+negative blood cultures.
+
+2. Access:  The patient's Permacath was removed as well as
+her femoral catheter that was placed in the Emergency
+Department.  It was thought that the patient should be left
+without any access for several days so that her bacteremia
+was cleared.  Patient was dialyzed intermittently with a
+femoral catheter, which was then removed after dialysis.
+
+On 2009-03-14 00:00:00, the patient had negative blood cultures for
+four days.  Therefore, she went to the OR for tunneled
+Permacath for dialysis.  In addition, a PICC line was placed
+for continued oxacillin as an outpatient.  The patient
+tolerated these procedures well.
+
+3. End-stage renal disease:  Patient was dialyzed as needed
+in-house.  Her initial hyperkalemia on presentation responded
+well to Kayexalate with resolution of her EKG changes.  The
+patient was continued on Renagel and amphojel.  She continued
+to have hypercalcemia and hyperphosphatemia with some
+hyponatremia that was all thought to be due to her end-stage
+renal disease and that was resolved with dialysis.  PTH was
+obtained, which was 1,055.
+
+4. Left neck hematoma:  The patient was noted to have a large
+hematoma at the site of the external jugular venous attempt
+and thrombosis.  This increased in size during her hospital
+stay.  Therefore, the patient underwent repeated ultrasound
+evaluation to ensure that there was no compromise of the
+vessels in that area.  Ultrasounds were negative for any
+obstruction of flow in the vessels, and did show a large
+hematoma.  Patient also underwent CT of the neck which showed
+a large hematoma with no compromise of vessels.  The hematoma
+began to reabsorb.  The patient's pain was treated with
+oxycodone and OxyContin, and was resolving by the time of
+discharge.
+
+5. Patient initially complained of diarrhea and abdominal
+pain.  She had three Clostridium difficile toxins, which were
+negative.  Her diarrhea resolved without any treatment.
+
+6. Psychiatry:  The patient was maintained on Zoloft and
+Seroquel.
+
+7. Hypertension:  The patient had elevated blood pressures on
+days when she was not dialyzed up to 160/110.  Patient was
+maintained on her outpatient regimen of atenolol and Zestril.
+
+DISCHARGE STATUS:  Home.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE DIAGNOSES:
+1. Methicillin-sensitive Staphylococcus aureus bacteremia.
+2. Methicillin-sensitive Staphylococcus aureus line
+infection.
+3. End-stage renal disease.
+4. Hematoma.
+5. Hypercalcemia.
+6. Hyperphosphatemia.
+
+DISCHARGE MEDICATIONS:
+1. Protonix 40 mg one p.o. q.d.
+2. B complex.
+3. Vitamin C.
+4. Folic acid one p.o. q.d.
+5. Quetiapine 100 mg p.o. q.d.
+6. Sevelamer 800 mg two tablets p.o. t.i.d.
+7. Atenolol 25 mg one p.o. b.i.d.
+8. Lisinopril 5 mg one p.o. q.d.
+9. Sertraline 100 mg 1-1/2 tablets p.o. q.d.
+10. Docusate sodium 100 mg one p.o. b.i.d.
+11. Percocet 5/325 mg p.o. 1-2 tablets every six hours as
+needed for pain.
+12. Oxacillin 2 grams IV q.4h. for eight days.
+
+FOLLOWUP:  The patient is to followup with her primary care
+physician, Duchene. Duchene in one week.  She is to followup with
+Cheryse Duchene at UPMCE on 2009-03-14 00:00:00 at
+11 a.m.
+
+
+
+                          Chayne Oleaga, M.D.  14815
+
+Dictated By:Chayne Oleaga
+
+MEDQUIST36
+
+D:  2009-03-14 00:00:00  17:30
+T:  2009-03-14 00:00:00  07:09
+JOB#:  14815

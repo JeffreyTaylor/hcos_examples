@@ -1,0 +1,253 @@
+Admission Date:  2006-05-21 00:00:00              Discharge Date:   2006-05-21 00:00:00
+
+Date of Birth: 1942-05-21 00:00:00 00:00:00             Sex:   F
+
+Service: UROLOGY
+
+Allergies:
+Aspirin / Motrin / Trilisate / Naprosyn / Toradol / Vicodin /
+Percocet / Indocin / Dilaudid / Zomig
+
+Attending:Lilleigh Mumaugh
+Chief Complaint:
+Kidney stone
+
+Major Surgical or Invasive Procedure:
+Left pyeloscopy with laser lithotripsy and stent exchange,
+2006-05-21 00:00:00, Dr. Lilleigh Mumaugh
+Flexible sigmoidoscopy, 2006-05-21 00:00:00, GI service.
+PICC, 2006-05-21 00:00:00
+
+
+History of Present Illness:
+Ms. Crabbs is a 69-year-old female
+who presented in 2006-05-21 00:00:00 with an obstructing 5-mm left UPJ
+stone with mild hydronephrosis.  She was managed at that time
+with stent placement and delayed stone management given acute
+diverticulitis at that time.  The patient presented on admission
+for
+definitive stone management and she elected to undergo
+ureteroscopy with laser lithotripsy and stent change. Of
+note, on preoperative testing she had a white count of 19.0.
+Given concern for diverticulitis, she was given ceftriaxone
+and Flagyl before the time of surgery and was scheduled to be
+admitted for observation.
+
+
+Past Medical History:
+NIDDM, HTN, hypercholesterolemia
+
+Incisional ventral hernia repair 2006-05-21 00:00:00
+TAH '2006-05-21 00:00:00
+R knee arthroscopy
+
+
+Social History:
+non-contributory
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Discharge Exam:
+AVSS
+Gen: NAD
+CV: RRR
+Resp: CTA-B
+Abd: obese, s/nt/nd; no CVA tenderness bilaterally
+Extr: no c/c/e
+T/L/D: PICC in place
+
+Pertinent Results:
+2006-05-21 00:00:00 06:20AM BLOOD WBC-10.7 RBC-3.29* Hgb-8.7* Hct-26.2*
+MCV-80* MCH-26.4* MCHC-33.1 RDW-15.8* Plt Ct-371
+2006-05-21 00:00:00 06:20AM BLOOD Glucose-140* UreaN-22* Creat-1.6* Na-137
+K-3.6 Cl-109* HCO3-16* AnGap-16
+2006-05-21 00:00:00 06:20AM BLOOD ALT-19 AST-13 LD(LDH)-198 AlkPhos-75
+TotBili-0.3
+2006-05-21 00:00:00 03:00PM BLOOD Lactate-0.9 Na-134* K-3.5 Cl-109
+
+2006-05-21 00:00:00 7:28 pm STOOL     CONSISTENCY: LOOSE      Source:
+Stool.
+
+   FECAL CULTURE (Pending):
+
+   CAMPYLOBACTER CULTURE (Pending):
+
+   OVA + PARASITES (Pending):
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final 2006-05-21 00:00:00):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+
+2006-05-21 00:00:00 3:49 pm BLOOD CULTURE      2 OF 2.
+
+   Blood Culture, Routine (123 Any St.inary):
+      PSEUDOMONAS AERUGINOSA.    FINAL SENSITIVITIES.
+         DR Lilleigh Mumaugh REQUESTED SENSITIVITIES TO AZTREONAM AND
+COLISTIN 2006-05-21 00:00:00.
+         RESISTANT TO AZTREONAM sensitivity testing performed by
+[**First Name8 (NamePattern2) 3029**]
+         Crabbs.  SENT TO MAYO LABORATORIES FOR COLISTIN
+SUSCEPTIBILITY.
+      YEAST, PRESUMPTIVELY NOT C. ALBICANS.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+AMIKACIN--------------     4 S
+CEFEPIME--------------    16 I
+CEFTAZIDIME-----------    16 I
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------  =>16 R
+PIPERACILLIN----------       R
+PIPERACILLIN/TAZO-----    64 S
+TOBRAMYCIN------------  =>16 R
+
+   Aerobic Bottle Gram Stain (Final 2006-05-21 00:00:00):
+      GRAM NEGATIVE ROD(S).
+      REPORTED BY PHONE TO Crabbs, [**First Name3 (LF) **] @ 1621 ON
+2006-05-21 00:00:00.
+
+   Anaerobic Bottle Gram Stain (Final 2006-05-21 00:00:00):
+      REPORTED BY PHONE TO DR. Lilleigh Mumaugh PAGER [**Numeric Identifier 4470**] @
+0707 ON
+      2006-05-21 00:00:00.
+      BUDDING YEAST.
+      GRAM NEGATIVE ROD(S).
+
+2006-05-21 00:00:00 8:49 pm BLOOD CULTURE      Source: Line-PIV #2.
+
+   Blood Culture, Routine (123 Any St.inary):
+      YEAST, PRESUMPTIVELY NOT C. ALBICANS.
+
+   Anaerobic Bottle Gram Stain (Final 2006-05-21 00:00:00):    BUDDING
+YEAST.
+
+2006-05-21 00:00:00 8:15 pm BLOOD CULTURE      Source: Line-radial artery.
+
+   Blood Culture, Routine (123 Any St.inary):
+      YEAST.
+
+   Anaerobic Bottle Gram Stain (Final 2006-05-21 00:00:00):    BUDDING
+YEAST.
+
+2006-05-21 00:00:00 6:08 am BLOOD CULTURE      Source: Line-radial artery.
+
+   Blood Culture, Routine (123 Any St.inary):
+      YEAST.
+
+   Anaerobic Bottle Gram Stain (Final 2006-05-21 00:00:00):    BUDDING
+YEAST.
+
+BCx 2006-05-21 00:00:00: NGTD
+
+2006-05-21 00:00:00 6:37 pm URINE      Source: CVS.
+
+                            **FINAL REPORT 2006-05-21 00:00:00**
+
+   URINE CULTURE (Final 2006-05-21 00:00:00):
+      YEAST.    10,000-100,000 ORGANISMS/ML..
+
+
+Brief Hospital Course:
+Ms. Crabbs was admitted after siagnostic pyeloscopy, left
+ureteroscopy with laser
+lithotripsy, left ureteral stent exchange on 2006-05-21 00:00:00. In the
+PACU, developed fever to 103 and rigors, brought to ICU for
+observation and broad spectrum antibiotics. Blood cultures
+identified yeast and multi-drug resistant pseudomonas, urine
+culture identified yeast; PICC placed 2006-05-21 00:00:00; managed with zosyn
+and micafungin and followed by ID team. Opthomology examined her
+and found no evidence of fungal infection of the eye. She noted
+loose stools over the last few months, started on low-residue
+diet and seen by nutririon; flexible sigmoidoscopy identified
+polyps, started on immodium with improvement of loose stools, to
+follow-up in GI fellow's clinic for colonoscopy and biopsy
+reports within the next month. Her metformin has been held given
+Cr >1.4, diabetes managed with addition of an insulin sliding
+scale. Foley removed POD4 and voiding without difficulty.
+
+At discharge patient without pain and improvement in loose
+stools, afebrile with no leukocytosis, tolerating low-residual
+diet, FSBS under 250, ambulating without assistance, and voiding
+without difficulty. She is being traanferred to UPMCE for
+continued IV antibiotics and diabetes management under care of
+her PCP who is an ID specialist, Dr. Lilleigh Mumaugh. She will
+follow-up with Dr. 123 Any St.n
+of her antibiotics, call for appointment.
+
+Medications on Admission:
+MEDS:
+Metformin 1000mg UPMCE
+Lisinopril/HCTZ 20mg/12.5mg daily
+Glipizide XL 10mg DAILY
+Lipitor 80mg DAILY
+Atenolol 25mg DAILY
+
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for Pain, fever.
+4. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for wheeze.
+5. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for wheeze.
+6. Glipizide 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO
+DAILY (Daily).
+9. Insulin Lispro 100 unit/mL Solution Sig: Sliding scale
+Subcutaneous ASDIR (AS DIRECTED): continue until able to restart
+metformin.
+10. Micafungin 50 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous DAILY (Daily) for 1 weeks.
+11. Piperacillin-Tazobactam-Dextrs 4.5 gram/100 mL Piggyback
+Sig: One (1)  Intravenous Q6H (every 6 hours) for 1 weeks.
+12. Loperamide 2 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily) as needed for PRN diarrhea.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Fungemia, bactermia, sigmoid polyp
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Continue IV zosyn and micafungin as prescribed until urine and
+blood cultures are finalized, check LFTs weekly while on these
+medications, antibiotics and duration per accepting physician
+Crabbs. Kaliq Crabbs. Call Dr. Lilleigh Mumaugh to schedule stent removal,
+test@mail.com. Call GI clinic to schedule colonoscopy,
+test@mail.com.
+
+Followup Instructions:
+Call Dr. Kaliq for stent removal and with any urological
+questions.
+test@mail.com
+Call GI clinic to schedule colonoscopy and review biopsy results
+within 1 month with Dr. Lilleigh Mumaugh Crabbs (Fellow's clinic)
+test@mail.com.
+
+
+

@@ -1,0 +1,237 @@
+Admission Date:  2007-01-01 00:00:00              Discharge Date:   2007-01-01 00:00:00
+
+Date of Birth: 1991-12-28 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Cearra Szymonik
+Chief Complaint:
+dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+2007-01-01 00:00:00 MVR (25/33 ON-X mechanical valve)
+
+
+History of Present Illness:
+55 yo M with long history of myxomatous MV and chronic MR.
+Serial echos showed increased LA/LV dimensions and and severe MR
+and normal EF. Referred for surgery.
+
+Past Medical History:
+MR/MVP, Migraines, Ankylosing spondylitis, GI bleed (10 years
+ago), Hyperlipidemia, HTN, B hernia repair
+
+Social History:
+works as architect
+quit tobacco 27 years ago
+no etoh
+
+Family History:
+mother with MVR @ age 70
+father with MI/CVA @ age 87
+
+Physical Exam:
+NAD HR 70 RR 12 BP 118/70
+NAD
+Lungs CTAB
+Heart RRR 3/6 Systolic
+Abdomen benign
+Extrem no edema, warm
+Superficial BLE aricosities
+
+Pertinent Results:
+2007-01-01 00:00:00 08:20AM BLOOD WBC-10.4 RBC-4.26* Hgb-13.0* Hct-36.3*
+MCV-85 MCH-30.4 MCHC-35.7* RDW-14.0 Plt Ct-385
+2007-01-01 00:00:00 08:05AM BLOOD WBC-13.8* RBC-4.31* Hgb-13.0* Hct-37.5*
+MCV-87 MCH-30.1 MCHC-34.6 RDW-13.9 Plt Ct-327#
+2007-01-01 00:00:00 08:20AM BLOOD Plt Ct-385
+2007-01-01 00:00:00 08:20AM BLOOD PT-30.7* PTT-52.6* INR(PT)-3.2*
+2007-01-01 00:00:00 07:35AM BLOOD PT-21.9* INR(PT)-2.1*
+2007-01-01 00:00:00 08:05AM BLOOD PT-20.8* PTT-33.7 INR(PT)-2.0*
+2007-01-01 00:00:00 07:10AM BLOOD PT-19.4* INR(PT)-1.9*
+2007-01-01 00:00:00 09:03AM BLOOD PT-14.4* PTT-27.8 INR(PT)-1.3*
+2007-01-01 00:00:00 08:20AM BLOOD Glucose-102 UreaN-25* Creat-0.7 Na-134
+K-4.3 Cl-96 HCO3-30 AnGap-12
+
+CHEST (PA & LAT)  2007-01-01 00:00:00 9:16 AM
+
+CHEST (PA & LAT)
+
+Reason: r/o inf, eff
+
+UNDERLYING MEDICAL CONDITION:
+56 year old man s/p mvr
+REASON FOR THIS EXAMINATION:
+r/o inf, eff
+HISTORY: 56-year-old male status post mitral valve replacement.
+Evaluate for infection, effusion.
+
+COMPARISON: 2007-01-01 00:00:00.
+
+CHEST, PA AND LATERAL: Retrosternal gas and a small air-fluid
+level are seen on the lateral view, probably related to recent
+sternotomy. The left basilar atelectasis has improved. However,
+there is a persistent small left pleural effusion. There is also
+a probable small right pleural effusion. The lung fields are
+clear. Cardiomediastinal contours are normal. Sternotomy wires
+and artificial mitral valve are unchanged.
+
+IMPRESSION:
+1. Retrosternal gas and air-fluid level, probably related to
+recent sternotomy.
+2. Persistent small left pleural effusion and probable small
+right pleural effusion.
+
+UPMCE ECHOCARDIOGRAPHY REPORT
+
+Makin, Cheryllynne       UPMCE [**Numeric Identifier 3830**]       TTE
+(Complete) Done 2007-01-01 00:00:00 at 4:01:56 PM      [** Location **]INARY
+Referring Physician     Cheryllynne Makin Information
+Cheryllynne Makin, [**First Name3 (LF) 175**]
+UPMCE
+123 Any St., [**Numeric Identifier 711**]  Status: Outpatient DOB: 1991-12-28 00:00:00 00:00:00
+Age (years): 56 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Left ventricular function. Mitral valve disease.
+Mitral valve prolapse. Preoperative assessment.
+ICD-9 Codes: 424.1, 424.0
+Test Information
+Date/Time: 2007-01-01 00:00:00 at 16:01    Interpret MD: Cheryllynne Makin,
+MD
+Test Type: TTE (Complete) SonCheryllynne Makin:
+Doppler: Full Doppler and color Doppler Test Location: Echo Lab
+Contrast: None Tech Quality: Adequate
+Tape #:  Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD or PFO by 2D, color
+Doppler or saline contrast with maneuvers.
+
+LEFT VENTRICLE: Moderately dilated LV cavity. [Intrinsic LV
+systolic function likely depressed given the severity of
+valvular regurgitation.]
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending, transverse and descending thoracic
+aorta with no atherosclerotic plaque.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Mild
+to moderate (2007-01-01 00:00:00+) AR. Eccentric AR jet directed toward the
+anterior mitral leaflet.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Moderate/severe MVP. Severe (4+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+
+
+Brief Hospital Course:
+He was taken to the operating room on 2007-01-01 00:00:00 where he underwent a
+mechanical MVR. He was transferred to the ICU in stable
+condition. He was extubated later that day. He was transferred
+to the floor on POD #1. He was started on coumadin for his
+mechanical mitral valve. He had some atrial fibrillation for
+which his beta blocker was increased and he converted to sinus
+rhythm. He did well postoperatively. He awaited a therapeutic
+INR and was ready for discharge on POD #5. Dr. Makin (Spoke
+to Cearra Szymonik at his office) will follow his coumadin.
+
+Medications on Admission:
+Remicade Q6W, Folate 1mg QD, Methotrexate 10mg QW, Univasc 15mg
+QD, Zantac 150 QD, Lipitor 10mg Makin, [**First Name3 (LF) **] 81 QD, MVI 1 QD Vit E
+1000 IU QD, Fish oil 1000mg QD, Fioricet 50-325-40 1-2PRN,
+Celebrex 100mg QD
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day: Check
+INR 2007-01-01 00:00:00 with results to Dr. Makin.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Moexipril 7.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Multi-Vitamin HP/Minerals     Capsule Sig: One (1) Capsule PO
+once a day.
+10. Vitamin E 1,000 unit Capsule Sig: One (1) Capsule PO once a
+day.
+11. Fish Oil 1,000 mg Capsule Sig: One (1) Capsule PO once a
+day.
+12. Propoxyphene N-Acetaminophen 100-650 mg Tablet Sig: One (1)
+Tablet PO Q6H (every 6 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+13. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H
+(every 12 hours) for 5 days.
+Disp:*10 Packet(s)* Refills:*0*
+14. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+MR/MVP, Migraines, Ankylosing spondylitis, GI bleed (10 years
+ago), Hyperlipidemia, HTN, B hernia repair
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds or driving until follow up with
+surgeon.
+Coumadin to be followed by Dr. Makin. Have INR checked 2007-01-01 00:00:00
+with results called to Dr. Makin. Goal INR 2.5-3.5 for
+mechanical mitral valve.
+
+Followup Instructions:
+Dr. Makin 2 weeks
+Dr. Makin 4 weeks
+Dr. Cearra Szymonik 2 weeks
+
+Already scheduled appointments:
+Cheryllynne Makin, MD (Rheumatologist) Phone:test@mail.com
+Date/Time:2007-01-01 00:00:00 5:00
+
+
+
+Completed by:2007-01-01 00:00:00

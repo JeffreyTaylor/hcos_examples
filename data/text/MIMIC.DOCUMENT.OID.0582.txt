@@ -1,0 +1,272 @@
+Admission Date:  2011-08-06 00:00:00              Discharge Date:   2011-08-06 00:00:00
+
+Date of Birth: 1927-08-06 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Herlaine Kaempfe
+Chief Complaint:
+Fall
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+80F Russian-speaking with hx of afib on coumadin, HTN lung ca
+s/p left pneumonectomy,  with recent fall and L humerus fx 3D
+ago presents after fall ~3hrs PTA. Pt is unable to give h/o
+events surrounding fall and it was unwitnessed. Per ED, was
+walking to the  kitchen to the kitchen to get a glass of water
+and had a mechanical fall. Unclear if LOC. Denies cp or sob but
+unable to tell whether she had LOC. Only c/o neck pain.
+.
+VS in ED: 97.8 88 132/76 18 95% RA.   CT scan w/o acute bleed.
+INR 3.2.  Lots of bleeding from posterior head laceration to
+which staples and a dressing were placed.  Hct 28 but unclear
+baseline.  Pt had tonic clonic seizure in ED, witnessed at 7am,
+"self-limited generalized tonic-clonic seizure that lasted
+approximately 2 minutes" .  Given 1 mg lorazepam. ECF with NSR
+55 NANI, no acute changes. Being admitted to ICU for close
+monitoring and serial Hct.  Responsive now.  Also received FFP
+and Vit K 10 mg *1.  Stable, AVSS.
+.
+On the floor, she was seen by neurology and reported pain at her
+head laceration site. To them, she reports around 3 AM this
+morning, she was ambulating to kitchen when she experienced a
+sudden loss of balance and fell to the floor, hitting her head
+on a nearby door. She denies loss-of-consciousness, or any
+dizziness, lightheadedness, vertigo, diplopia, or parasthesias
+at the time of the event. No prodromal symptoms. She was unable
+to stand for about 30 minutes following the event due to a
+shoulder fracture from a 123 Any St.us fall, 4 days earlier after
+slipping on cardboard at a grocery store. She reported to
+neurology that she wishes to be discharged home.
+
+
+Past Medical History:
+- Afib on coumadin
+- Lung Ca s/p L pneumonectomy
+- HTN
+- GERD 2011-08-06 00:00:00 hiatal hernia
+- Depression
+- Degenerative disc disease, possible spinal stenosis
+- Prolapsed uterus
+- orthostatic hypotension
+- s/p salpingo-oophorectomy
+- s/p TKA 2011-08-06 00:00:00
+
+Social History:
+Lives independently at home. Tobacco denies, EtOH denies.
+
+
+Family History:
+Father died at 57 of head and neck cancer, mother at 72 of
+kidney cancer.
+
+Physical Exam:
+ADMISSION
+Vitals: 96.8, 71, 153/64, 100/2L, 21
+General: Alert, oriented (per neuro note), no acute distress
+HEENT: dry MM head with dressing in place, c/d/i
+Neck: supple, JVP not elevated
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley  in place
+Neuro: CNs intact, equal hand grip and strength 123 Any St. (123 Any St.es) **]
+123 Any St.es) **]: left arm in sling
+
+DISCHARGE
+Vitals:  97.3 174/74 64 20 99%RA
+General: NAD, comfortable
+HEENT: PERRL, MMM, OP clear, dressing in place over head c/d/i
+Neck: supple, no point tenderness, no JVP, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: RRR, nl S1/S2, no murmurs, rubs, gallops
+Abdomen: Soft, NT/ND, naBS, no rebound tenderness or guarding
+Neuro: CNs II-XII wnl, 2011-08-06 00:00:00 motor in RUE/RLE/LLE; LUE w 2011-08-06 00:00:00 hand
+grip; sensory grossly intact distal to fracture; 2+ radial/dp/pt
+pulses b/l
+
+Pertinent Results:
+2011-08-06 00:00:00 06:00AM BLOOD WBC-10.4# RBC-2.94*# Hgb-9.2* Hct-27.7*#
+MCV-94 MCH-31.4 MCHC-33.3 RDW-14.3 Plt Ct-416
+2011-08-06 00:00:00 06:05AM BLOOD WBC-7.1 RBC-2.76* Hgb-8.5* Hct-25.4*
+MCV-92 MCH-30.7 MCHC-33.3 RDW-15.0 Plt Ct-383
+2011-08-06 00:00:00 06:00AM BLOOD Glucose-119* UreaN-34* Creat-1.4* Na-140
+K-4.3 Cl-106 HCO3-25 AnGap-13
+2011-08-06 00:00:00 06:05AM BLOOD Glucose-105* UreaN-18 Creat-0.9 Na-143
+K-3.8 Cl-107 HCO3-30 AnGap-10
+
+2011-08-06 00:00:00 CT Head w/o Contrast
+No acute intracranial process. Soft tissue contusion/laceration
+along the right posterior convexity.
+
+2011-08-06 00:00:00 CT Cspine w/o Contrast
+1. No acute fracture.
+2. Multilevel degenerative changes in the cervical spine worst
+at C5-C6 and C6-C7.
+
+2011-08-06 00:00:00 MRI Head w and w/o Contrast
+1. No anatomic explanation for seizure.
+2. Thickening and enhancement along the falx cerebri without
+characteristics suggestive of hematoma. Followup with MRI is
+recommended.
+3. Right scalp hematoma and occipital scalp laceration.
+
+Brief Hospital Course:
+HOSPITAL COURSE
+This is a 80-year old F with recent mechanical fall complicated
+by L humerus fracture who presented for this admission with a
+repeat mechanical fall complicated by head laceration and
+seizure, without intacranial abnormality on imaging, seizure
+thought to be secondary to head trauma, remaining
+hemodynamically stable
+.
+ACTIVE
+# Status Post Fall: Patient presented in the setting two falls;
+first fall (1wk prior to presentation) she broke her L humerus
+and was managed conservatively as an outpatient; second fall she
+incurred a head laceration; reported it as a mechanical fall
+without LOC; in ED she had seizure (as described below) and was
+initially admitted to ICU; CT unremarkable, MRI only w thickened
+falx cerebri; L humeral fracture conservative management was
+continued.  Laceration was initially complicated by heavy
+bleeding; patient had INR reversed, required 2 units pRBCs, and
+wound stabilized.  Patient was evaluated by PT/OT who
+recommended rehab.  Patient remained hemodynamically stable.
+
+# s/p Seizure: As above, patient with tonic/clonic seizure in
+setting of head trauma; CT unremarkable, MRI only w thickened
+falx cerebri; patient was evaluated by neurology who felt that
+seizure was most likely 2011-08-06 00:00:00 trauma and there was no indication
+for anti-epileptic indication.  Thickened radiology recommended
+re-evaluation of falx cerebri in future.
+.
+# Afib: Coumadin initially held in setting of heavy bleeding.
+Given two recent falls, inpatient team discussed with PCP
+stopping the patient's coumadin.  PCP agreed and coumadin was
+stopped.  Patient remained in normal sinus rhythm.  Metoprolol
+was continued.
+.
+INACTIVE
+# GERD: Continued continue prilosec.
+.
+# HTN: Continued HCTZ, diovan.
+.
+# HLD: Continued zetia.
+.
+TRANSITIONAL
+1. Code status - Patient remained full code for duration of
+hospitalization
+2. Pending - No labs were pending at time of discharge
+3. Transition of Care - Patient discharged to UPMCE Rehab for
+further management with copy of discharge summary.  Case
+discussed with PCP.  Bernon Lederer above, follow-up MRI head was
+recommended to further evaluate thickening of falx cerebri
+
+Medications on Admission:
+prilosec 20mg daily
+calcium vitamin D 500/400 tab
+toprol xl 50mg daily
+coumadin 2mg daily
+hctz 25mg daily
+ferrous sulfate 325mg daily
+diovan 160mg daily
+vitamin D 1000 units daily
+zetia 10mg daily
+folic acid 1mg daily
+
+
+Discharge Medications:
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+2. Calcium 500 + D 500 mg(1,250mg) -400 unit Tablet Sig: One (1)
+Tablet PO once a day.
+3. Toprol XL 50 mg Tablet Extended Release 24 hr Sig: One (1)
+Tablet Extended Release 24 hr PO once a day.
+4. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO
+once a day.
+5. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+6. valsartan 40 mg Tablet Sig: Five (5) Tablet PO DAILY (Daily).
+
+7. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q4H (every 4 hours)
+as needed for pain for 2 weeks.
+10. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day) for 2 weeks.
+11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+12. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+Primary:
+Mechanical Fall
+
+SECONDARY:
+Head trauma
+Anemia secondary to bleeding
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Ms. Lederer--
+
+It was a pleasure taking care of you at UPMCE.
+You were admitted after falling and cutting your head.  During
+your hospital stay you had a seizure.  You were evaluated by
+medicine and neurology doctors.  CT and MRI of your head did not
+show any signs of bleeding.  Your seizure was likely a result of
+hitting your head, so you do not need to be on anti-seizure
+medications.
+
+Given your recent falls and bleeding, we spoke with your primary
+care physician and stopped your coumadin.
+
+During the course of your hospitalization, the following changes
+were made to your medications:
+-STOPPED coumadin
+-STARTED percocet as need for pain
+-STARTED bowel regimen
+
+Followup Instructions:
+Department: ORTHOPEDICS
+When: THURSDAY 2011-08-06 00:00:00 at 7:20 AM
+With: ORTHO XRAY (SCC 2) test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: ORTHOPEDICS
+When: THURSDAY 2011-08-06 00:00:00 at 7:40 AM
+With: Bernon Lederer, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+

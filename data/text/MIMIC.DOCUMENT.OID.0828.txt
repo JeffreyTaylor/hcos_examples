@@ -1,0 +1,405 @@
+Admission Date:  2009-07-03 00:00:00              Discharge Date:   2009-07-03 00:00:00
+
+Date of Birth: 1922-07-03 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Dilaudid / Iodine-Iodine Containing
+
+Attending:Kiyrah Esher
+Chief Complaint:
+tachypnea, hypoxia
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+30 YO F w ESRD 2009-07-03 00:00:00 DM1 on HD M/W/F s/p recent admission for
+contrast allergy who presented with SOB after missing her HD
+session yest. Went to HD today but was found to be tachypneic to
+the 30s w bibasilar rales. EMS gave 15L NRB 97%. Upon arrival,
+the patient was 88% on RA. Exam was notable for bibasilar
+crackles. She was started on BiPap and given 80IV lasix and
+nitro paste, Ca gluconate for peaked T-waves, 20u regular
+insulin. Renal was contactKayeleigh Sower and plan to do HD when she arrives
+to the MICU.
+.
+Upon arrival to the MICU, the patient reports improved SOB with
+the Bipap mask. She was noted by nursing to have an episode of
+rigors without fever.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough. Denied chest pain or tightness,
+palpitations. Denied nausea, vomiting, diarrhea, constipation or
+abdominal pain. No recent change in bowel or bladder habits. No
+dysuria. Denied arthralgias or myalgias.
+
+
+Past Medical History:
+- ESRD since 2009-07-03 00:00:00 HD through L IJ Tunnelled line
+- Peritonitis 2009-07-03 00:00:00
+- Type I DM complicated by neuropathy and nephropathy
+- Bilateral cataract surgeries
+- Ventral Hernia, repaired 2009-07-03 00:00:00
+
+Social History:
+The patient lives with her mother. Lives with her mother, +
+tobacco history, social ETOH, marijuana use noted in history.
+
+Family History:
+DM type II.
+
+Physical Exam:
+ While transfer to floor from MICU 2009-07-03 00:00:00 : Vitals: T: 97.1 BP:
+120/70 P:47 R:16 18 O2:97%
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+SKIN: no pus currently seen around HD line. With no fluctuance,
+draining fluid, or erythema
+.
+
+
+
+
+Pertinent Results:
+Admission Labs:
+2009-07-03 00:00:00 01:36PM BLOOD WBC-10.1# RBC-4.20 Hgb-12.8 Hct-38.5
+MCV-92 MCH-30.4 MCHC-33.1 RDW-15.8* Plt Ct-203
+2009-07-03 00:00:00 01:36PM BLOOD Neuts-77.9* Lymphs-14.4* Monos-3.3
+Eos-3.5 Baso-1.0
+2009-07-03 00:00:00 01:36PM BLOOD Glucose-568* UreaN-78* Creat-11.6*#
+Na-129* K-5.6* Cl-90* HCO3-17* AnGap-28*
+2009-07-03 00:00:00 04:43PM BLOOD Calcium-9.2 Phos-4.1 Mg-3.0*
+2009-07-03 00:00:00 09:05AM BLOOD Vanco-32.2*
+2009-07-03 00:00:00 01:43PM BLOOD Glucose-490* Lactate-2.1* Na-132* K-5.4*
+Cl-92* calHCO3-24
+
+.
+
+.
+Imaging:
+CXR 2009-07-03 00:00:00:
+1. Increase in interstitial prominence and new development of
+small bilateral pleural effusions consistent with moderate
+pulmonary edema. Patchy opacities are most likely related to
+confluent edema, though infection is not excluded.  Repeat
+radiography after diuresis is recommended.
+2. Stable appearance of hemodialysis catheter.
+.
+Micro: No growth to date at wound culture 123 Any St.inary -no growth
+to date
+Blood and urine cultures- No growth to date
+.
+Reports: EKG 2009-07-03 00:00:00
+Sinus rhythm. Possible left atrial abnormality. Poor R wave
+progression.
+Consider prior anteroseptal myocardial infarction. Hyperacute T
+waves in the
+anterior leads raise concern for hyperkalemia or acute
+myocardial ischemia.
+Clinical correlation is suggested. Compared to the 123 Any St.us
+tracing of 2009-07-03 00:00:00
+the rate has decreased. Poor R wave progression and hyperacute T
+waves are seen
+on the current tracing.
+TRACING #1
+
+
+Read by: Sower,[**First Name3 (LF) **] D.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+87 170 78 test@mail.com 73
+
+.
+ CXR 2009-07-03 00:00:00
+UNDERLYING MEDICAL CONDITION:
+   30 year old woman missed dialysis yesterday with crackles and
+hypoxia/
+REASON FOR THIS EXAMINATION:
+   assess for pulmonary edema
+
+
+
+Final Report
+PATIENT HISTORY: 30-year-old female who missed dialysis
+yesterday.
+
+TECHNIQUE AND FINDINGS: Portable AP chest radiograph
+demonstrates a left
+subclavian hemodialysis catheter with its tip at cavoatrial
+junction.
+Compared with 2009-07-03 00:00:00, there is increase in perihilar and
+bibasilar
+interstitial markings and small bilateral pleural effusions
+consistent with
+moderate pulmonary edema. The cardiomediastinal silhouette is
+unchanged in
+appearance. Patchy opacities are superimposed on parasagittal
+interstitial
+pattern bilaterally.
+
+IMPRESSION:
+1. Increase in interstitial prominence and new development of
+small bilateral
+pleural effusions consistent with moderate pulmonary edema.
+Patchy opacities
+are most likely related to confluent edema, though infection is
+not excluded.
+Repeat radiography after diuresis is recommended.
+2. Stable appearance of hemodialysis catheter.
+
+The study and the report were reviewed by the staff radiologist.
+
+.
+EKG 2009-07-03 00:00:00
+Sinus rhythm. Consider left ventricular hypertrophy although may
+be
+non-diagnostic given patient's age. Delayed R wave progression
+may be due to
+left ventricular hypertrophy, normal variant or possible prior
+anterior wall
+myocardial infarction although is non-diagnostic. Inferolateral
+lead ST-T wave
+changes are non-specific but clinical correlation is suggested.
+Since the
+123 Any St.us tracing of 2009-07-03 00:00:00 lateral limb lead ST-T wave changes
+appear slightly
+more prominent.
+
+
+.
+Discharge Labs
+.
+2009-07-03 00:00:00 06:55AM BLOOD WBC-6.1 RBC-3.88* Hgb-11.6* Hct-34.7*
+MCV-89 MCH-29.9 MCHC-33.5 RDW-15.8* Plt Ct-149*
+2009-07-03 00:00:00 05:29AM BLOOD WBC-6.9 RBC-4.15* Hgb-12.2 Hct-36.9
+MCV-89 MCH-29.5 MCHC-33.2 RDW-15.9* Plt Ct-165
+2009-07-03 00:00:00 05:29AM BLOOD Neuts-67.3 Lymphs-23.8 Monos-4.0 Eos-4.2*
+Baso-0.7
+2009-07-03 00:00:00 04:43PM BLOOD Neuts-80.3* Lymphs-13.4* Monos-2.7
+Eos-3.0 Baso-0.6
+2009-07-03 00:00:00 06:55AM BLOOD Plt Ct-149*
+2009-07-03 00:00:00 05:29AM BLOOD Plt Ct-165
+2009-07-03 00:00:00 05:29AM BLOOD PT-13.3 PTT-27.9 INR(PT)-1.1
+2009-07-03 00:00:00 04:43PM BLOOD Plt Ct-195
+2009-07-03 00:00:00 06:55AM BLOOD Glucose-415* UreaN-33* Creat-6.5* Na-135
+K-4.1 Cl-92* HCO3-32 AnGap-15
+2009-07-03 00:00:00 05:29AM BLOOD Glucose-212* UreaN-33* Creat-7.4* Na-135
+K-3.9 Cl-91* HCO3-32 AnGap-16
+2009-07-03 00:00:00 09:29PM BLOOD Glucose-46* UreaN-32* Creat-6.7*# Na-136
+K-3.6 Cl-90* HCO3-35* AnGap-15
+2009-07-03 00:00:00 04:43PM BLOOD Glucose-343* UreaN-78* Creat-12.0* Na-133
+K-4.5 Cl-93* HCO3-25 AnGap-20
+2009-07-03 00:00:00 06:55AM BLOOD Calcium-8.6 Phos-4.7* Mg-2.5
+2009-07-03 00:00:00 05:29AM BLOOD Calcium-8.8 Phos-4.4# Mg-2.3
+2009-07-03 00:00:00 09:29PM BLOOD Calcium-9.2 Phos-2.8 Mg-2.4
+2009-07-03 00:00:00 09:05AM BLOOD Vanco-32.2*
+2009-07-03 00:00:00 04:43PM BLOOD ASA-NEG Ethanol-NEG Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+2009-07-03 00:00:00 11:52PM BLOOD HoldBLu-HOLD
+2009-07-03 00:00:00 01:43PM BLOOD Type-Sower pH-7.33* Comment-GREEN TOP
+2009-07-03 00:00:00 05:56AM BLOOD Lactate-1.1
+2009-07-03 00:00:00 05:06PM BLOOD Lactate-2.2*
+2009-07-03 00:00:00 01:43PM BLOOD Glucose-490* Lactate-2.1* Na-132* K-5.4*
+Cl-92* calHCO3-24
+2009-07-03 00:00:00 01:43PM BLOOD Hgb-13.4 calcHCT-40 O2 Sat-95 COHgb-2
+MetHgb-0
+2009-07-03 00:00:00 01:43PM BLOOD freeCa-1.03*
+
+Brief Hospital Course:
+BRIEF MICU COURSE:
+ MICU Ms. Sower was admitted to the ICU with pulmonary edema
+after missing HD.  She underwent HD and UF the day of admission
+and had another session of UF on 2009-07-03 00:00:00.  She was hypertensive
+overnight and received both IV and PO Labetolol.  After her UF
+session on 2009-07-03 00:00:00 her blood pressure was 110s-130s systolic.
+She was put on her Lisinopril 10mg daily, Lasix 60mg daily and
+Carvediolol 25mg UPMCE per renal recommendations.  She was noted
+to have pus coming from her HD line and was given Vancomycin per
+HD protocol.  She was cultured from her HD line.  Her
+hyperkalemia resolved after UF.
+.
+FLOOR : 30 YO F w ESRD 2009-07-03 00:00:00 DM1 now with tachypnea, hypoxia and
+hyperkalemia in the setting of missing HD. Was admitted to the
+MICU intially where she was dialyzed and her fluid
+status/tachypnea improved and was transferred to the floor.
+.
+#Tachypnea, hypoxia. Likely related to missing HD although
+initially a  underlying respiratory infection cannot be
+excluded. On transfer to the floor she complained of no
+tachypnea and seemed comfortable with no complaints. Patient
+tolerated room air well and complains of no shortness of breath.
+UF recieved yesterday (2009-07-03 00:00:00) with improvement in tachypnea.
+Repeat CXR post-UF to eval for clearance on patchy infiltrates
+on CXR- showed bilateral parenchymal opacities have decreased in
+extent and severity with only a ground-glass like pattern of
+opacities seen diffusely throughout the middle and lower lung
+zones. Urine/blood /HD entry site cultures-no growth to date.
+.
+# Hyperkalemia. Likely related to lack of HD. HD with UF as
+above . Repeat post-HD-potassium levels were normal  Repeat EKG-
+no curent EKG peaked T waves which were present on 2009-07-03 00:00:00 EKG's.
+F/u 2009-07-03 00:00:00 EKG - no more peak T waves seen, offical results are
+pending.
+.
+# Hyperglyemia. No gap.
+- insulin sliding scale with home regimen- Blood sugars were
+initially above 350 however were then controlled under 200-250.
+
+.
+# Pus around HD line.-no pus was seen around HD line on the
+floors. With no fluctuance, draining fluid, or erythema.
+Vancomycin 1.5g with hD per renal fellow- discontinued per
+renal. F/u cultures- no growth to date. Bacitracin admin. only
+with dialysis to HD entry site recommended.
+.
+# ESRD.
+- continued home meds.Ordered Folic acid home dose. Contnued
+Sevelemer 800mg TID per renal.
+.
+# HTN.   Continued home meds  including home dose lisinopril
+daily in addition to already ordered  home dose carvedilol, and
+lasix (60mg daily)
+
+
+Medications on Admission:
+. Aspirin 81 mg Tablet, PO DAILY
+2. Carvedilol 12.5 mg Two (2) Tablets PO BID
+3. Cinacalcet 30 mg PO DAILY
+4. Docusate Sodium 100 mg Capsule PO BID
+5. E123 Any St. Alfa 10,000 unit/mL Solution Sig: One (1) INJ qweek
+6. Insulin Aspart Subcutaneous
+7. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) Units
+qday
+8. Latanoprost 0.005 % Drops Ophthalmic HS (at bedtime).
+9. Sevelamer HCl 400 mg 2 tabs TID W/MEALS
+10. B Complex-Vitamin C-Folic Acid 1 mg PO DAILY
+11. Lisinopril 10 mg Tablet PO once a day.
+
+
+Discharge Medications:
+1. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units
+Subcutaneous once a day: Please admin AM.
+2. Novolog 100 unit/mL Solution Sig: One (1) unit  Subcutaneous
+four times a day: Please follow prior home sliding scale
+attatched. .
+3. Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+6. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+8. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+10. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+11. Bacitracin Zinc 500 unit/g Ointment Sig: One (1) Appl
+Topical QID (4 times a day) as needed for drainage: Please
+admin. to hemodialysis entry site only with dialysis .
+Disp:*0 * Refills:*0*
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+13. Travatan 0.004 % Drops Sig: One (1) drop Ophthalmic at
+bedtime.
+14. E123 Any St. Alfa 10,000 unit/mL Solution Sig: One (1) injection
+Injection once a week.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+ Acute Pulmonary Edema
+Hyperkalemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure to care for you as your doctor.
+.
+You were brought to the hospital because of diffuculty
+breathing,a high potassium level and having excess fluid in your
+system. We felt like this was caused by being fluid overloaded
+due to missing a dialysis appointment. You were admitted to the
+intensive care unit where you had fluid taken off with dialysis
+and were given support for your breathing. After these measures
+your breathing and potassium levels improved and you were
+transferred to the general floors. We observed you and you were
+medically stable to be discharged.
+.
+We made the following changes to your home medication list:
+We added Bacitracin which is a topical antibiotic which should
+be administered to your hemodialysis entry site before dialysis.
+We added Lasix 60mg daily. This will help keep your body fluid
+level appropiate.
+.
+Please take your other home medications as prescribed before
+coming to the hospital.
+.
+Please follow your dialysis schedule as you were before coming
+to the hospital.
+.
+Please weigh yourself daily and if you gain more than 3 pounds
+in one day contact your primary care physician.
+.
+Please follow up with the following outpatient appointments
+below:
+
+Followup Instructions:
+Name: Sower, [**First Name7 (NamePattern1) 1008**] Kiyrah Esher Sower
+Date: 2009-07-03 00:00:00  10:40AM
+Location: UPMCE UPMCE
+Address: 123 Any St., 123 Any St.,[**Numeric Identifier 711**]
+Phone: test@mail.com
+Fax: test@mail.com
+.
+Provider:Kayeleigh Sower RN
+Date:Teusday 2009-07-03 00:00:00, 3PM
+Location :Sower
+Service: Diabetes Clinic
+Phone Number:: test@mail.com
+.
+Department: HEMODIALYSIS
+When: FRIDAY 2009-07-03 00:00:00 at 7:30 AM
+.
+Department: UPMCE HEALTH CENTER
+When: FRIDAY 2009-07-03 00:00:00 at 10:40 AM
+With: Kayeleigh Sower, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+.
+Department: PODIATRY
+When: TUESDAY 2009-07-03 00:00:00 at 9:20 AM
+With: Kayeleigh Kiyrah Esher Sower, DPM test@mail.com
+Building: Ba 123 Any St.
+Campus: WEST     Best Parking: 123 Any St. Garage
+
+
+

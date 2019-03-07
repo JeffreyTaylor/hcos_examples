@@ -1,0 +1,141 @@
+Admission Date:  2011-12-24 00:00:00     Discharge Date:  2011-12-24 00:00:00
+
+
+Service:  MICU
+
+CHIEF COMPLAINT:  Hypotension times one day.
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 89 year old
+African-American female admitted in 2011-12-24 00:00:00 after v-fib arrest.
+The patient was defibrillated in the field which was
+complicated by anoxic encephalopathy and the patient has
+remained vent dependent with PEG at JMR since.  The patient
+had a large occiput decub debrided on day prior to admission
+and was subsequently noted to have persistent hypotension
+with IVF at 75 cc per hour and atrial fibrillation at a rate
+greater than 100.  Today labs returned showing white blood
+cell count of 50, hematocrit 17, platelets 42 with a systolic
+blood pressure in the 80s.  Temperature was 98.4, heart rate
+76, respiratory rate 19.  The patient was started on dopamine
+and was not given vanc/ceftaz 1 gm which had been ordered,
+but not given.  The patient was transferred to UPMCE for
+further management.  In the emergency room blood pressure was
+99/49, heart rate 142, temperature 100.6 rectally.  The
+patient's blood pressure then dropped to 40/palp and heart
+rate was 130.  EKG at that time showed a-fib with rapid
+ventricular rate.  The patient was cardioverted into a slower
+rate, but still with a-fib.  The patient's blood pressure
+returned to 120/60.  The patient was started on
+Neo-Synephrine in the emergency room as well.  There were
+several central line attempts made in the left subclavian,
+right groin, then left groin with success.  The patient was
+given 2 liters of normal saline and then transferred to the
+MICU.
+
+PAST MEDICAL HISTORY:  Significant for v-fib arrest
+complicated by anoxic encephalopathy and vent dependent since
+2011-12-24 00:00:00.  Seizures status post status epilepticus in the past.
+Anemia.  A-fib with CHF.  Status post PEG.  Chronic renal
+insufficiency.  GI bleed/gastric AVM.  Severe PHTN.
+Thrombocytopenia.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON TRANSFER:  Amiodarone 200 mg p.o. q.day,
+Neurontin 600 mg t.i.d., Flagyl 500 mg p.o. t.i.d.,
+omeprazole 20 mg p.o. b.i.d., Colace 100 mg p.o. b.i.d.,
+captopril 25 mg p.o. t.i.d., Lopressor 12.5 mg p.o. b.i.d.,
+multivitamin, Tylenol, Darvocet, Klonopin.
+
+SOCIAL HISTORY:  The patient 123 Any St.usly lived with family.
+Now the patient is vent dependent at JMR.  No tobacco in the
+past.  Social ETOH.
+
+PHYSICAL EXAMINATION:  The patient was an obese,
+African-American female, trached, unresponsive, in
+decerebrate positioning, in no apparent respiratory distress.
+Vital signs were temperature 98.4, heart rate 70, blood
+pressure 115/40.  Vent setting AC tidal volume 600,
+respiratory rate 15, PEEP 5, FiO2 50%.  The patient was
+sating 100%.  HEENT: 4 to 5 cm occiput decub to skull about
+8 mm deep.  Pupils nonreactive, left about 5 mm, right
+approximately 3 mm, fixed.  Anicteric.  Positive pallor.
+Neck trached, no lymphadenopathy, JVP not seen secondary to
+habitus.  Difficult range of motion, but not meningitic.
+Chest symmetrical, good air exchange and minimal expiratory
+wheezes bilaterally.  CV irregularly irregular heart rate,
+normal S1, S2, no murmurs, rubs or gallops.  Abdomen:
+decreased bowel sounds, moderately distended with
+reproducible umbilical hernia.  OB positive.  Extremities had
+no clubbing cyanosis, positive 2 to 3+ edema, no splinter
+hemorrhages.  Sacral decub to muscle.  Neuro comatose,
+decerebrate, positive corneal reflex/gag, decreased tone in
+lower extremities, upgoing toe on right, equivocal on left.
+No biceps or patellar deep tendon reflexes elicited.
+
+LABORATORY DATA:  White blood cell count 58, hematocrit 20,
+platelets 47, MCV 107.  Chest x-ray within normal limits.
+KUB no pneumoperitoneum.
+
+HOSPITAL COURSE:  The patient's hypotension was treated with
+Levophed which had been changed from Neo-Synephrine.  The
+patient also had head CT and was started on ceftriaxone and
+vancomycin.  The patient was also started on Cipro.  Multiple
+blood cultures, urine cultures and fecal cultures were taken.
+Swabs of the occipital decub and sacral decub were taken.
+Head CT was negative for any acute intracranial process.
+There was new pansinusitis.  There was evidence of a
+decubitus ulcer to bony calvarium.  There was cerebral
+atrophy.  There was old right frontal lucency which may be
+chronic epidural hematoma.  Neurology was consulted who
+commented on the patient's prognosis.  They concluded that
+her exam currently was consistent with only minimal brain
+function and that she had lost most of her brainstem function
+also.  The patient had an EEG done that showed no seizure
+activity.  The patient was noted to have facial twitching
+which was felt to be myoclonus which is not uncommon after
+anoxic brain injury.
+
+Although the patient did not meet criteria for brain death,
+her prognosis was very poor and there was very little chance
+of significant functional recovery, given the severity of her
+injury and the long period of time for recovery that she had
+already declared herself.  A family meeting was set up with
+Dr. Boozer who the MICU team had consulted from the ethics
+committee.  The patient had six sons and daughters, five of
+whom were present during this meeting.  It was agreed during
+this meeting to make the patient DNR/DNI and that she would
+not want to be continued to be sustained through life support
+if there was no chance of meaningful recovery.  It was
+decided at the end of the meeting that the missing sibling
+would be contactArlondo Boozer and if she was in agreement with the rest
+of the siblings, the patient would be made CMO.
+
+After several days, all siblings agreed to make the patient
+CMO.  On 2011-12-24 00:00:00 at approximately 10:00 p.m. Levophed was
+discontinued.  Morphine drip was started.  The patient was
+taken off the ventilator and put on a trach collar.  The
+patient expired at approximately 2:55 a.m. on 2011-12-24 00:00:00.
+There were no heart sounds on exam.  There were no
+spontaneous respirations.  Pupils were fixed and dilated.
+The patient's family was present and refused autopsy at this
+time.
+
+FINAL DIAGNOSIS:  Pulmonary arrest.
+
+CONDITION ON DISCHARGE:  Deceased.
+
+
+
+
+
+
+                          Ardynn Roelofsen, M.D.  4264
+
+Dictated By:Ardynn Roelofsen
+
+MEDQUIST36
+
+D:  2011-12-24 00:00:00  08:52
+T:  2011-12-24 00:00:00  18:00
+JOB#:  4264

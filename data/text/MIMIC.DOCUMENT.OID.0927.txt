@@ -1,0 +1,283 @@
+Admission Date:  2009-01-22 00:00:00     Discharge Date:
+
+Date of Birth:                  Sex:  M
+
+Service:
+HISTORY OF PRESENT ILLNESS:  This is a 54-year-old gentleman
+with past medical history significant for end stage renal
+disease, peritoneal dialysis times one year, status post
+glomerular nephritis and renal transplant times three and
+aortic valve replacement secondary to calcific aorta who
+admission, also comes in with a little bit of back pain and
+some chills.  She denied any localizing symptoms, no cough,
+no chest pain, no shortness of breath, no abdominal pain, no
+flank pain.  He did have some mild nausea earlier the day of
+admission which seemed to have resolved.  He called his
+primary care physician and was told to go to the Emergency
+Room.  The day prior to admission the patient had an MRA to
+and third finger on his right hand.
+
+PAST MEDICAL HISTORY:  Included end stage renal disease
+status post peritoneal dialysis times one year, post
+glomerular nephritis, renal transplant times three, chronic
+anemia, hypertension, aortic valve replacement secondary to
+calcific aorta, otitis and GI polyps.
+
+MEDICATIONS:  Prednisone 3.75 mg q d, Atenolol 25/50,
+RenaGel, TUMS, aluminum hydroxide, Prilosec, Coumadin 5 mg
+and 3 mg, alternating.
+
+ALLERGIES:  Captopril which gave him a rash and talcum
+powder.
+
+FAMILY HISTORY:  Significant for father having esophageal
+carcinoma.  Patient denied any alcohol or drug use.  No
+smoking history.  Occupation:  Patient is a plastic surgeon
+and was practicing doing his surgery two weeks prior to
+admission.
+
+PHYSICAL EXAMINATION:  In the Emergency Room included a
+temperature of 101.7, heart rate 112, blood pressure 153/112.
+This is a pleasant white man lying in bed, appeared pretty
+sick looking.  HEENT:  Pupils are equal, round, and reactive
+to light and accommodation.  Oropharynx was clear.  Anicteric
+sclera.  Neck was supple, no lymphadenopathy.  Chest was
+clear to auscultation bilaterally.  Cardiovascular was tachy,
+regular rate and rhythm, grade 3/6 systolic ejection murmur
+heard best at the apex.  GI was soft, nontender, non
+distended, normoactive bowel sounds.  GU, no CVA tenderness,
+no flank pain.  Musculoskeletal:  Patient had right second
+and third finger ischemic at the fingertips, otherwise no
+cyanosis, no clubbing, no edema.  Skin with no evidence of
+any rashes.  Neuro, patient was alert, oriented.
+
+LABORATORY DATA:  On admission included a white count of
+12.6, hematocrit 29.4, platelet count 91,000, Chem 7 of
+138/4.9, 99/25, BUN and creatinine 48/13.4, glucose 91,
+calcium 9.1, phosphorus 4.0, magnesium 1.7.  Differential on
+the white count was 71% polys, 10% bands, 14 lymphs, no eos,
+no basos.  Peritoneal fluid had two white cells, 19 RBC, 60
+PMNs, 30 lymphs, 20 monos.  Gram stain with no PMNs, no
+organisms.  Urinalysis cannot be done because patient did not
+make any urine.  Chest x-ray was clear on admission.
+
+HOSPITAL COURSE:  On 2009-01-22 00:00:00 the patient had some respiratory
+failure and hypotension.  As patient developed fevers,
+chills, with no obvious source of infection but developed
+some hypoxia, overnight was on nasal cannula, however, in the
+morning had increased respiratory rate and decreased O2
+saturations with PH of 7.16 and increasing somnolence.  The
+patient had CT scan to evaluate his questionable abdominal
+source, however, the patient was then admitted to the medical
+ICU because he became hypotensive in the 70's but responded
+to minimal IV fluids.  The patient was started on some
+Vancomycin, Gentamycin and Flagyl for his ongoing fevers.  In
+the medical ICU the patient was noted to be hypotensive and
+also with an increased metabolic acidosis probably secondary
+to sepsis.  The patient was started on some Neo-Synephrine
+and Levophed for aggressive blood pressure control as well as
+some aggressive fluid management.  The patient also started
+on Levofloxacin for coverage and antibiotics.  The patient
+was then on Levo, Flagyl, Gent and Vancomycin.  The patient
+also was found to be in DIC with an elevated PT, PTT.  If the
+platelets were lower, the patient needed to receive some
+fresh, frozen plasma anticoagulation factors as well as some
+platelets for this support.  The patient had right groin line
+placed as well as a left femoral line placed and some
+peripheral IVs as well.  Later on that evening at 4:30 p.m.
+on 2009-01-22 00:00:00 the patient became bradycardic with heart rate in the
+30's with a low blood pressure.  The patient was given
+Atropine .5 mg, an amp of Epi with resolving of increased
+heart rate, blood pressure and patient was also given Calcium
+and some bicarb.  Then patient went into VT with the rate at
+about 200, was shocked about 200-300 joules and then was back
+in sinus rhythm with rate of 140 with a little bit of
+hypotension.  The patient had his electrolytes repleted.  The
+patient was found to be over breathing the ventilation with
+high respiratory rates despite the sedation with Fentanyl and
+Ativan.  Therefore, patient was paralyzed to maximize
+ventilation.  The patient was also changed off the different
+pressors with Levophed and Vasopressin.  The patient was then
+given hemodialysis instead of his peritoneal dialysis for the
+next couple of days.  The patient was continued on his
+antibiotic regimen of Ceftriaxone, Vancomycin, Levofloxacin,
+Flagyl as well as Vancomycin for his unknown source.  The
+patient then had a pulmonary bronchoscopy to evaluate to see
+if there is any bacterial pneumonia but the patient had no
+evidence of anything on bronchoscopy.  Bronchial alveolar
+lavage was done which in turn was negative.  The patient also
+had a TEE for further evaluation with questionable
+endocarditis, however, no vegetations were seen on the
+patient's aortic valve.  The patient was cultured numerous
+times in terms of his blood cultures as well as sputum
+cultures as well as peritoneal dialysis fluid, however, no
+source ended up ever growing out anything.
+
+COMPLICATED MEDICAL ICU COURSE:
+1.  ID:  Septic shock.  Etiology of the septic shock was not
+entirely clear as chest x-ray, CT scans were just compatible
+with ARDS and multifocal pneumonia.  However, no bug ever
+grew out.  The patient was continued on Vancomycin,
+Gentamycin, Levofloxacin, Ceftriaxone.  TEE was performed to
+rule out endocarditis, however, was negative.  The patient
+was continued on various pressors to support his blood
+pressure given the septic picture, such as Levophed and
+Vasopressin.  As the patient remained in house, the patient
+ended up developing some C. diff colitis, probably secondary
+to all the antibiotics he was on.  The patient was given a 10
+day course of po Vancomycin per his NG tube as well as being
+continued on the other antibiotics.  The patient had his
+peritoneal dialysate fluid as well as various sputum cultures
+and blood cultures sent for any temperature spike that he had
+had.  Nothing had ever grown out of any of these cultures.
+The patient was continued on Levofloxacin, Flagyl, Vanco,
+Gentamycin for 14 day course total.  The patient had all his
+medications renally dosed as patient has end stage renal
+disease.  The patient had various tipped catheters of his
+central lines changed over wires as well as re-sited and tips
+were sent for culture, however, nothing ever grew out as
+well.  The patient had CT scan of his abdomen times two which
+revealed a left iliopsoas abscess which eventually was
+drained, however, no bug or any white cells were found in
+that abscess.  As well, patient had evidence on abdominal CT
+scan of an enlarged gallbladder which was drained, however,
+just revealed normal biliary substances with no bacteria, no
+PMNs.  The only thing that ever grew back besides the C. diff
+colitis was a sputum culture that was positive for MRSA on
+2009-01-22 00:00:00.  The patient had various other negative blood cultures,
+sputum cultures as stated before under the ID aspect of this.
+
+2.  Renal:  The patient was end stage renal disease, was
+started on hemodialysis as he first was admitted to the
+Medical Intensive Care Unit, however, eventually the patient
+went over to peritoneal dialysis as he did at home.  The
+patient was continued pretty much on his outpatient regimen,
+however, while on dialysis the patient developed some glucose
+intolerance from the high Dextrose levels found in the
+peritoneal dialysis fluid.  The patient was started on an
+insulin drip and blood sugars were monitored closely while
+patient was on peritoneal dialysis requiring different
+insulin doses daily.  Eventually patient was placed on an NPH
+dose as well as insulin being added to his peritoneal
+dialysis fluid.  Currently patient is pretty much on his own
+home dialysate as well as home dialysis schedule.
+
+3.  Respiratory:  Patient was ventilator dependent on
+admission to medical ICU on 2009-01-22 00:00:00.  The patient remained on
+the ventilator for full support until finally extubated on
+2009-01-22 00:00:00.  The patient was very much sedated from all the
+medications that we gave him including Fentanyl, Ativan as
+well as paralysis.  So it took awhile to wean the patient of
+the ventilator due to the excessive sedation.  However,
+patient finally weaned on 2009-01-22 00:00:00 while minimal Fentanyl and
+Ativan drips which eventually were shut off and was able to
+sat well on nasal cannula O2 as well as a face mask.  After
+patient was admitted to the Medical Intensive Care Unit and
+ventilated, the patient developed an ARDS type of picture and
+he was vented in a way to keep his total volumes low for
+decreased lung injury.  The patient remained on the
+ventilator as I stated before until 2009-01-22 00:00:00 when he was
+extubated and patient had some satting.
+
+4.  GI:  As stated before, the patient had C. diff cultures
+which eventually were positive.  The patient was started and
+completed a 14 day regimen of po Vancomycin and eventually
+had a repeat C. diff culture which was negative.  The patient
+also developed evidence of some lower GI bleed as well as he
+has had melenic stools as well as an upper GI bleed with
+positive NG lavage.  The patient had a colonoscopy done while
+in house on 2009-01-22 00:00:00 which showed some evidence of some ischemic
+colitis as well as a couple of polyps.  The patient had some
+Epinephrine injected into the part of the colon which was
+actively bleeding at the time.  The patient's hematocrit
+remained stable after that and evidence of the GI bleed
+seemed to have decreased.  The patient had evidence of some
+pancreatitis with rising amylase and lipase levels which
+probably was attributed to his septic picture.  The patient
+also had a minimal elevation in his LFTs but with
+normalization of his total bilirubin and his alkaline
+phosphatase, therefore it was thought that this was due to
+sepsis rather than a primary source of the gallbladder at the
+time until patient finally had the gallbladder drained which
+revealed that it was indeed just due to his npo status and
+having an enlarged gallbladder rather than having infectious
+cholangitis or such.
+
+5.  Heme:  Patient was admitted to the Medical Intensive Care
+Unit in sepsis.  The patient was in a DIC type of picture.
+The patient required excessive platelets as well as blood
+transfusions as well as other coagulation factors for support
+of his DIC picture.  The patient also had to be on Heparin
+for an AVR replacement which he had had done 123 Any St.usly so
+PTT was monitored pretty closely.
+
+6.  Cardiovascular:  The patient had a history of
+hypertension when he came in.  He was on Atenolol.  The
+patient needed aggressive pressor support as well as fluid
+boluses to maintain his blood pressure while he was in the
+septic picture.  The patient was on Neo-Synephrine as well as
+Levophed as well as some Vasopressin for support of his blood
+pressure control.  The patient was weaned off of all pressors
+on 2009-01-22 00:00:00 and was hemodynamically stable, not requiring anymore
+pressor support.  Blood pressure at times was maintained with
+some fluid boluses as patient sometimes got a little bit
+hypotensive while he started peritoneal dialysis.  However,
+that seemed to have resolved as we changed his peritoneal
+dialysate to make his fluid status pretty much even.
+
+7.  Fluids, Electrolytes & Nutrition:  The patient was
+started on TPN while in house and after extubation patient
+was on tube feeds.  The patient has been tolerating tube
+feeds well, started on Neo-Pro for further nutrition while on
+tube feeds.  He was started on Criticare and tolerated it
+well.
+
+8.  Endocrine:  The patient had evidence of glucose
+intolerance secondary to the high Dextrose as well as the
+sepsis picture, as well as the chronic Prednisone that
+patient was taking at home.  The patient was started, as I
+said before, on an insulin drip which was titrated to keep
+his blood sugars tightly controlled between 90 and 110,
+however, eventually patient was weaned off the insulin drip
+and was given NPH insulin as well as insulin and his PD fluid
+for better blood glucose control.  Currently patient was
+getting the insulin and the PD fluid as well as sliding scale
+for control with fingersticks checked every two hours while
+undergoing the peritoneal dialysate.  The patient was
+continued on stress dose steroids for the chronic Prednisone
+he took at home.  He was started on 100 mg qid of Hydrocort
+and eventually was weaned down to 15 mg tid of Hydrocort and
+eventually 10 mg of Prednisone.
+
+9.  Musculoskeletal/Neuro:  The patient was paralyzed after
+the intubation as the patient got hypotensive as well as
+patient was given high dose steroids.  The patient, after
+being taken off the paralysis and being tailored down on the
+steroids, the patient continued to be extremely weak and
+fairly less spontaneous movements.  After extubation the
+patient slowly gained a little bit of strength back as the
+Fentanyl and Ativan were wearing down as well as stronger as
+when he was having some physical therapy.  The patient
+remained extremely weak, had very little spontaneous
+movements and difficulty speaking.  The patient will need
+aggressive physical therapy to get back to his baseline as
+patient is a plastic surgeon and was fully active prior to
+coming into the hospital.
+
+I will update any further events that occur after this
+dictation on an addendum and will summarize the ID course at
+that seems to have been his major issue during this
+admission.
+
+
+
+
+                      DR.Bethani,[**First Name3 (LF) **] 11-647
+
+Dictated By:Dejoun Duffiney
+
+MEDQUIST36
+
+D:  2009-01-22 00:00:00  13:09
+T:  2009-01-22 00:00:00  09:37
+JOB#:  7452

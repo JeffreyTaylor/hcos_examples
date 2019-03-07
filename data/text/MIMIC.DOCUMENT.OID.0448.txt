@@ -1,0 +1,170 @@
+Admission Date:  2006-01-09 00:00:00              Discharge Date:   2006-01-09 00:00:00
+
+Date of Birth: 1965-01-06 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Dewayne Frinks
+Chief Complaint:
+DKA/Uremia
+
+Major Surgical or Invasive Procedure:
+EGD
+
+History of Present Illness:
+52 yo man with DM 1 and triopathy as well as PVD and CRI
+(followed by transplant) p/w 3 days of hyperglycemia, and N/V of
+coffee-ground emesis this am. Patient denies infectious symptoms
+or cardiac symptoms. Of note, had a stress test 3 days ago read
+as normal. EKG in ED with lateral ST depressions and + troponin
+(trending down).
+
+Past Medical History:
+1. Diabetes mellitus type 2 x 35 years.
+2. Triopathy.
+3. Chronic renal insufficiency.
+4. Chronic anemia.
+5. Hypertension.
+6. Hypercholesterolemia.
+7. Depression
+
+
+Family History:
+non-contributory
+
+Brief Hospital Course:
+A/P: 52 yo male w/ DM 1, depression admitted for DKA, developed
+ARF, gastritis, r/o for MI, now stable.
+.
+DKA - The pt was placed in an insulin dip and was transferred to
+MICU.  In the MICU his sugars came under control and the patient
+was eventually transitioned to fixed doses of insulin with a
+Humalog SS with Symmonds consult input. His sugars were well
+controlled. It remained unclear as to what caused the pt's DKA;
+it was felt that he may not have been compliant with his home
+regimen 2006-01-09 00:00:00 to depression.
+.
+Acute on CRI - The patient was found to have an acute increase
+in his baseline creatinine thought to arise from dehydration.
+His serum creatinine began to decrease with aggressive fluid
+hydration.  Nephrology followed the patient. The pt stayed in
+the hospital for venous mapping, to help initiate the process of
+moving towards HD. He was set up for an appointment with renal
+transplant on discharge.
+.
+CAD/HTN - The pt was found to have EKG changes in the ED with
+elevated serum troponin but in the setting of renal failure.  He
+ruled out for MI with negative cardiac enzymes x 3. He had an
+echo that shows a depressed EF from prior echo, but this was in
+the setting of an acidosis. Metoprolol was increased to 50mg UPMCE
+for better BP control.
+.
+Depression - Pt appears obviously depressed and expressed little
+confidence in medical and psychotherapy. This may have
+contributed to his current presentation.  He has tried
+medication in the past but did not find them to be helpful. A
+psychiatry consult was called who urged the pt to seek o/p
+psychiatric help.
+.
+Coffee Ground Emesis - The pt was found to have gastritis on EGD
+but no source of active large bleed.  He was started on a high
+dose PPI. He was transfused one unit PRBCs in MICU.
+.
+Anemia - Per renal, will start procrit [**Numeric Identifier 949**] units 3x/week
+.
+Proph - Hep SC, PPI
+.
+FEN - con't to replete Mg and K.  Diabetic diet.
+.
+Code - Full.   HCP is wife.
+.
+
+Discharge Medications:
+1. Calcitriol 0.25 mcg Capsule Sig: Three (3) Capsule PO DAILY
+(Daily).
+2. Calcium Acetate 667 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+3. E123 Any St. Alfa 10,000 unit/mL Solution Sig: 10,000 units
+Injection QMOWEFR (Monday -Wednesday-Friday).
+Disp:*qs units* Refills:*2*
+4. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+5. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: Ten (10)
+units Subcutaneous twice a day: QAM and QHS.
+Humalog sliding scale as attached.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+DKA
+GIB
+Acute on chronic renal failure
+NSTEMI in setting of likely demand ischemia
+Depression
+
+
+Discharge Condition:
+Stable and improved
+
+Discharge Instructions:
+Please call your doctor or return to the ER if you have any
+fevers or chills, any difficulty breathing, any chest pain,
+abdominal pain, or if your depression worsens in any way. Please
+maintain good foot care.
+.
+Please take all your medications as directed. Bring your
+medication list to your appointments.
+.
+MEDICATION CHANGES:
+1. Stop taking: Zestril.
+2. New med: Protonix 40mg twice a day.
+3. New med: Metoprolol 50mg twice a day.
+4. Increase in med dose: Procrit 10,000U three times a week
+5. Increase in med dose: Lipitor 40mg once a day
+6. Change in insulin schedule:
+a. Take 10mg NPH every morning and every night before bed
+b. Follow a new Novalog insulin sliding scale, attached. Bring
+this sliding scale to your Symmonds follow up appointment.
+.
+Do not take aspirin or NSAIDS for now, given your GI bleed. You
+can discuss this, as well as when to stop taking Pantoprazole,
+with Dr. Symmonds (GI doctor).
+
+Followup Instructions:
+1. PCP Jewell Symmonds Jewell Symmonds, 2006-01-09 00:00:00 at 11:20 with [**First Name8 (NamePattern2) 2020**] Symmonds at
+Dr.123 Any St.. test@mail.com
+
+.
+
+2. Symmonds - Dr. Symmonds - Symmonds, 2006-01-09 00:00:00 at 12pm. UPMCE
+Clinic 123 Any St.. test@mail.com
+
+.
+
+3. Dr. Dewayne Frinks - Thursday, 2006-01-09 00:00:00 at 9:30am with Dr.
+123 Any St.. test@mail.com
+
+.
+
+4. GI - test@mail.com, 2006-01-09 00:00:00 at 2:20pm with Dr. Symmonds.
+123 Any St.. test@mail.com
+
+.
+
+5. Transplant: Jewell Symmonds Symmonds, MD. Where: LM UPMCE CENTER Phone:test@mail.com Date/Time:2006-01-09 00:00:00 2:00
+
+
+                             Jewell Symmonds MD, 11178
+

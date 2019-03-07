@@ -1,0 +1,376 @@
+Admission Date:  2011-10-13 00:00:00              Discharge Date:   2011-10-13 00:00:00
+
+Date of Birth: 1979-10-13 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Lasix
+
+Attending:Aslean Kohns
+Chief Complaint:
+Chest pain, shortness of breath
+
+Major Surgical or Invasive Procedure:
+2011-10-13 00:00:00 Aortic Valve Replacement(21mm Porcine). Mitral Valve
+Replacement(29mm Porcine). Two Vessel Coronary Artery Bypass
+Grafting utilizing the LIMA to LAD, and vein graft to obtuse
+marginal.
+2011-10-13 00:00:00 Cardiac Catheterization
+
+
+History of Present Illness:
+Mr. Holwerda is a 76 year old male with chronic diastolic
+congestive heart failure(aortic stenosis, mitral regurgitation)
+and chronic atrial fibrillation who presented to outside
+hospital with progressive shortness of breath and chest pain for
+the last six months. He admits to occasional rest pain as well.
+During that admission, he was found to be anemic and transfused
+with several units of PRBC's. Endoscopy found a nonbleeding AV
+malformation in the proximal duodenum. Given his above cardiac
+status, he was transferred to the UPMCE for further evaluation
+and treatment.
+
+Past Medical History:
+-Coronary Artery Disease, prior PCI
+-Aortic Stenosis
+-Mitral Regurgitation
+-Chronic Diastolic Congestive Heart Failure
+-Cerebrovascular Disease, prior TIA's, s/p right carotid stent,
+s/p Right CEA
+-Hypertension
+-Dyslipidemia
+-Chronic Atrial Fibrillaton
+-Chronic Renal Insufficiency
+-COPD
+-Anemia
+-History of GIB, AV Malformation(duodenum)
+-BPH, s/p TURP
+
+
+Social History:
+Lives alone. Quit tobacco about one months ago, prior heavy
+tobacco use. He denies ETOH.
+
+Family History:
+Father died at age 36 from MI.
+
+Physical Exam:
+Admit PE: 5'2011-10-13 00:00:00"   67.1 kg
+T afebrile, BP 169/90, HR 69, R 20, 93% on 2L
+thin male in NAD
+PERRL, EOMI, oropharynx benign
+neck supple, no JVD, no carotid bruits
+irreg, irreg, 3/6 systolic murmur at RUSB and LLSB
+lungs clear anteriorly
+abdomen soft, slightly distended, non tender with normoactive
+bowel sounds
+extremities cool, no edema, decreased distal pulses
+alert and oriented, cn2-12 grossly intact, no focal deficits
+noted
+
+Pertinent Results:
+2011-10-13 00:00:00 05:47AM BLOOD WBC-8.8 RBC-2.98* Hgb-9.5* Hct-27.1*
+MCV-91 MCH-32.0 MCHC-35.2* RDW-16.3* Plt Ct-189
+2011-10-13 00:00:00 05:15PM BLOOD WBC-5.7 RBC-3.47* Hgb-10.6* Hct-29.8*
+MCV-86 MCH-30.7 MCHC-35.7* RDW-15.7* Plt Ct-214
+2011-10-13 00:00:00 05:58AM BLOOD PT-18.6* PTT-33.5 INR(PT)-1.7*
+2011-10-13 00:00:00 05:47AM BLOOD Plt Ct-189
+2011-10-13 00:00:00 05:15PM BLOOD Plt Ct-214
+2011-10-13 00:00:00 05:15PM BLOOD PT-15.5* PTT-114.6* INR(PT)-1.4*
+2011-10-13 00:00:00 05:58AM BLOOD Glucose-90 UreaN-25* Creat-1.7* Na-136
+K-4.2 Cl-104 HCO3-26 AnGap-10
+2011-10-13 00:00:00 05:15PM BLOOD Glucose-134* UreaN-25* Creat-1.8* Na-135
+K-3.5 Cl-100 HCO3-26 AnGap-13
+2011-10-13 00:00:00 12:40PM BLOOD ALT-24 AST-29 LD(LDH)-243 AlkPhos-70
+TotBili-0.5
+2011-10-13 00:00:00 05:58AM BLOOD Calcium-8.6 Mg-1.9
+2011-10-13 00:00:00 12:40PM BLOOD %HbA1c-5.6
+
+Holwerda,Jovonta [**PT ID Number 3266**] M  76  2011-10-13 00:00:00
+
+Cardiology Report ECG Study Date of 2011-10-13 00:00:00  10:16:10 AM
+
+
+Atrial fibrillation with controlled ventricular response.
+Diffuse
+non-specific ST-T wave changes. Compared to the 123 Any St.us tracing
+of 2011-10-13 00:00:00
+the rhythm is now atrial fibrillation and the other findings are
+similar.
+
+
+Read by: Holwerda,[**First Name3 (LF) **] V.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+59 0 90 470/468 0 71 -32
+
+UPMCE ECHOCARDIOGRAPHY REPORT
+
+Holwerda, Jovonta       UPMCE [**Numeric Identifier 3267**]       TEE (Complete)
+Done 2011-10-13 00:00:00 at 9:40:48 AM      FINAL
+Referring Physician     Jovonta Holwerda Information
+Jovonta Holwerda, [**First Name3 (LF) 1097**] W.
+UPMCE
+123 Any St., [**Numeric Identifier 711**]  Status: Inpatient DOB: 1979-10-13 00:00:00 00:00:00
+Age (years): 76 M  Hgt (in): 71
+BP (mm Hg): 128/66  Wgt (lb): 136
+HR (bpm): 68  BSA (m2): 1.79 m2
+Indication: intraop management for AVR/MVR/CABG.
+ICD-9 Codes: 440.0, 424.1, 424.0, 786.05, 786.51, 799.02
+Test Information
+Date/Time: 2011-10-13 00:00:00 at 09:40    Interpret MD: Jovonta Holwerda, MD
+
+Test Type: TEE (Complete) SonJovonta Holwerda: Aslean Kohns Holwerda, MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW2-: Machine: 2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.1 cm  <= 4.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.6 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.5 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.8 cm
+Left Ventricle - Fractional Shortening:  *0.16  >= 0.29
+Left Ventricle - Ejection Fraction:  45% to 50%  >= 55%
+Aorta - Annulus:  2.2 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.0 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.6 cm  <= 3.0 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aorta - Arch:  2.7 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.7 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.9 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  14 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  13 mm Hg
+Aortic Valve - LVOT pk vel:  0.50 m/sec
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *0.7 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. Mild spontaneous echo
+contrast in the body of the LA. No mass/thrombus in the 123 Any St. (123 Any St.es) **] 123 Any St.es) **]
+LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+Mildly depressed LVEF.
+
+LV WALL MOTION: Regional left ventricular wall motion findings
+as shown below; remaining LV segments contract normally.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. Normal aortic arch
+diameter. Simple atheroma in aortic arch. Mildly dilated
+descending aorta. Complex (>4mm) atheroma in the descending
+thoracic aorta.
+
+AORTIC VALVE: ?# aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Severe AS (AoVA
+<0.8cm2). Moderate (2+) AR. Eccentric AR jet directed toward the
+anterior mitral leaflet.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Myxomatous mitral valve leaflets. Mild mitral annular
+calcification. MR vena contracta is >=0.7cm Severe (4+) MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized. Mild [1+]
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. Results were personally reviewed with the MD
+caring for the patient.
+Conclusions
+PREBYPASS
+
+1. The left atrium is moderately dilated. Mild spontaneous echo
+contrast is seen in the body of the left atrium. No
+mass/thrombus is seen in the left atrium or left atrial
+appendage. No atrial septal defect of PFO is seen by 2D or color
+Doppler.
+
+2. There is moderate symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed (LVEF= 45-50 %). The
+remaining left ventricular segments contract normally.
+
+3. Right ventricular chamber size and free wall motion are
+normal.
+
+4. There are simple atheroma in the aortic arch. The descending
+thoracic aorta is mildly dilated. There are simple atheroma in
+the descending thoracic aorta. There are complex (>4mm) atheroma
+in the descending thoracic aorta.
+
+5. The aortic valve leaflets are moderately thickened. There is
+severe aortic valve stenosis (area <0.8cm2). Moderate (2+)
+aortic regurgitation is seen. The aortic regurgitation jet is
+eccentric, directed toward the anterior mitral leaflet.
+
+6. The mitral valve leaflets are moderately thickened. The
+mitral valve leaflets are myxomatous. The mitral regurgitation
+vena contracta is >=0.7cm. Severe (4+) mitral regurgitation is
+seen.
+
+7. There is no pericardial effusion.
+
+8. Dr. Aslean Kohns was notified in person of the results on 2011-10-13 00:00:00
+at 827.
+
+POSTBYPASS
+
+1. Patient is on phenylephrine infusion
+
+2. A well seated, well functioning valve is seen in the mitral
+position. No perivalvular leak is noted. Mean gradient 3.1 mmHg.
+
+3. A well seated, well functioning valve is seen in the aortic
+position. No perivalvular leak is noted. Mean gradient is 5.4
+mmHg.
+
+4. Aortic contour is smooth after decannulation
+
+5. EF is 50%.
+
+6. All other portions of the exam remain unchange.
+
+7. Dr. Aslean Kohns notified at 1227
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by 123 Any St.g
+physician Holwerda 2011-10-13 00:00:00 13:45
+
+
+
+
+Brief Hospital Course:
+Mr. Holwerda was admitted to the cardiology service with chronic
+diastolic heart failure and unstable angina. Cardiac
+catheterization revealed severe three vessel coronary artery
+disease. It was also notable for moderate-severe aortic
+stenosis, severe pulmonary arterial hypertension and mild
+biventricular diastolic dysfunction. LV gram was deferred
+secondary to his renal dysfunction. Cardiac surgery was
+therefore consulted and further evaluation was performed.
+Echocardiogram confirmed aortic stenosis but also revealed
+severe mitral and tricuspid regurgitation. Additional workup
+included a carotid ultrasound which found a totally occluded
+left internal carotid artery with a patent right internal
+carotid artery stent. He otherwise remained pain free on medical
+therapy and was eventually cleared for surgery.
+
+On 2011-10-13 00:00:00, Dr. Aslean Kohns performed aortic and mitral valve
+replacements along with coronary artery bypass grafting surgery.
+For surgical details, please see separate dictated operative
+note. Following the operation, he was brought to the CVICU for
+invasive monitoring. Extubated on POD #1 and developed melanotic
+stools, has pre existing AVM in the duodeum, hematocrit remained
+stable was started on protonix with no further issues.  Beta
+blockade and amiodarone started postoperatively when he was in
+normal sinus rhythm but atrial fibrillation returned was treated
+with cardizem.  He developed bradycardia and all av nodal
+blocking agents were discontinued, coumadin started and
+electrophysiology consult.  Plan to hold av nodal blocking
+agents and monitor rhythm that is atrial fibrillation 50-60 and
+follow up with cardiologist as outpatient.  Antihypertensives
+were titrated for blood pressure management.  His foley catheter
+was removed twice with failure to void and urinary retention,
+remains in place at discharge and plan to follow up with
+outpatient urologist.  He was ready for discharge to rehab on
+post op day 8.
+
+
+Medications on Admission:
+Transfer Meds: Protonix 40 qd, Cardizem 240 qd, Metoprolol 12.5
+tid, Finasteride 5 qd, Fexofenadine 60 UPMCE, MVI, Ferrous Sulfate
+300 UPMCE, Sulcralfate 1 tid, Flomax 0.4 qd, Lovenox
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+7. Diuril 250 mg/5 mL Suspension Sig: One (1)  PO once a day for
+7 days.
+8. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed.
+9. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO twice a day.
+10. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day:
+please dose based on INR - goal 2.0-2.5 for atrial fibrillation
+.
+11. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Life Care Center - 123 Any St.
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p CABG
+Aortic Stenosis s/p AVR
+Mitral Regurgitation s/p MVR
+Bradycardia
+Urinary retention
+Cardiomyopathy
+Cerebrovascular Disease, prior TIA's, prior carotid stent, s/p
+RCEA
+Hypertension
+Dyslipidemia
+Chronic Atrial Fibrillaton
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+1) Shower daily. Wash incisions with soap and water. No creams,
+lotions, or ointments to incisions.
+2) No driving for at least one month.
+3) No lifting more than 10 lbs for at least 10 weeks.
+4) Please call cardiac surgeon office if there is concern for
+sternal wound infection or fever greater than 100.
+5) Please follow up with PCP for radiographic follow up on
+sclerotic lesion right clavicle
+6) Sternal staples may be removed at rehab on 2011-10-13 00:00:00 or call
+test@mail.com if questions or concerns
+7) Hold all betablockers and ca channel blockers until follow up
+with cardiologist due to bradycardia
+
+Followup Instructions:
+Please call to schedule all appointments
+Dr. Aslean Kohns in 4 weeks test@mail.com
+Dr. Holwerda after discharge from rehab
+Dr. Jovonta after discharge from rehab
+Dr Holwerda (Urologist) on 2011-10-13 00:00:00 at 1:50 PM.
+(test@mail.com
+
+
+
+Completed by:2011-10-13 00:00:00

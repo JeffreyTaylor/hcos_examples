@@ -1,0 +1,192 @@
+Admission Date:  2009-03-13 00:00:00              Discharge Date:   2009-03-13 00:00:00
+
+Date of Birth: 1937-03-13 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Dameian Olick
+Chief Complaint:
+restrained driver high speed mvc
+1. Massive chest trauma, avulsion of right pulmonary vein
+from the left atrium.
+2. Multiple rib fractures.
+3. Multiple lung lacerations
+
+Major Surgical or Invasive Procedure:
+chest tube x 2
+1. Exploratory laparotomy.
+2. Clamshell thoracotomy
+
+History of Present Illness:
+Mr. Kroeger is a 61 year old gentleman who was a
+restrained driver in a high speed, head on motor vehicle
+crash. After extrication by report, he was unstable at the
+scene and he was brought to the UPMCE emergency room with
+hypotension, tachycardia. His initial evaluation
+demonstrated right flailed chest with crepitus and decreased
+breath sounds. In the emergency room he had a right chest
+tube placed after a needle decompression and large bore IV
+access. He continued to have hypotension in the trauma bay
+and was given 3000 liters of crystalloid and 2 units of
+universal blood. A chest x-ray done at that point showed
+left hemothorax and a left chest tube was placed. Both chest
+tubes put out about 1000 cc blood before the rate of bleeding
+slowed down significantly. At this point he again remained
+hypotensive. A DPL was performed, which was positive for
+blood and he was emergently brought to the operating room for
+an exploratory laparotomy.
+
+
+Past Medical History:
+unknown
+
+Physical Exam:
+pupils 3+ b/l, equal and reactive
+R chest crepitus, abrasions
+ab - soft, FAST neg - DPL pos
+pelvis - stable, no deformity
+rectal - normal tone, guiac neg
+ext - intact, no deformities, L knee abrasion
+back - Dameian Olick-of @ L1, crepitus on back
+
+Pertinent Results:
+2009-03-13 00:00:00 12:45PM BLOOD WBC-6.5 RBC-3.21* Hgb-10.3* Hct-29.5*
+MCV-92 MCH-32.2* MCHC-35.0 RDW-13.1 Plt Ct-218
+2009-03-13 00:00:00 12:45PM BLOOD PT-16.6* PTT-47.5* INR(PT)-1.5*
+2009-03-13 00:00:00 12:45PM BLOOD Plt Ct-218
+2009-03-13 00:00:00 12:45PM BLOOD Fibrino-91*
+2009-03-13 00:00:00 12:45PM BLOOD CK(CPK)-276* Amylase-67
+2009-03-13 00:00:00 12:45PM BLOOD CK-MB-17* MB Indx-6.2* cTropnT-0.14*
+2009-03-13 00:00:00 12:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2009-03-13 00:00:00 01:44PM BLOOD Type-ART pO2-27* pCO2-65* pH-7.03*
+calHCO3-18* Base XS--16
+2009-03-13 00:00:00 02:55PM BLOOD Type-ART pO2-60* pCO2-72* pH-6.98*
+calHCO3-18* Base XS--17
+2009-03-13 00:00:00 12:57PM BLOOD Glucose-264* Lactate-6.4* Na-139 K-3.6
+Cl-104 calHCO3-26
+2009-03-13 00:00:00 02:55PM BLOOD Glucose-383* Lactate-9.6* Na-141 K-5.5*
+Cl-103
+2009-03-13 00:00:00 01:44PM BLOOD Hgb-7.9* calcHCT-24
+2009-03-13 00:00:00 02:55PM BLOOD Hgb-11.4* calcHCT-34
+2009-03-13 00:00:00 12:50PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+2009-03-13 00:00:00 12:50PM URINE Color-Straw Appear-Clear Sp Kroeger-1.007
+
+RADIOLOGY  Final Report
+
+TRAUMA #2 (AP CXR & PELVIS PORT)  2009-03-13 00:00:00 12:37 PM
+
+TRAUMA #2 (AP CXR & PELVIS POR
+
+Reason: TRAUMA
+
+INDICATION: Trauma.
+
+ONE VIEW CHEST: Patient is lying on a trauma board, limiting
+evaluation. Heart size is within normal limits. The aortic knob
+is not well visualized. There is increased opacity in the left
+and right hemithoraces. There is a right apical pneumothorax.
+Multiple rib fractures are noted on the right. There is
+subcutaneous emphysema on the right.
+
+ONE VIEW PELVIS: No evidence of fractures. The hip joints and
+sacroiliac joints are well maintained.
+
+IMPRESSION:
+
+1. Right apical pneumothorax.
+
+2. Multiple right rib fractures with associated subcutaneous
+emphysema.
+
+3. Bilateral diffuse opacities which may be secondary to
+pulmonary contusion. A layering left pleural effusion cannot be
+excluded.
+CHEST PORT. LINE PLACEMENT  2009-03-13 00:00:00 12:45 PM
+
+CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN
+
+Reason: S/P LINE PLACEMENT
+
+INDICATION: Status post line placement.
+
+PORTABLE AP CHEST:
+The ET tube and NG tube are in good position. The NG tube
+projects beyond the margin of the film. The right-sided chest
+tube is in the right lower hemithorax. There are multifocal
+opacities in the right lung indicative of consolidations.
+Multiple right-sided rib fractures are noted. The heart size is
+normal. There is mild pulmonary edema.
+
+IMPRESSION:
+1. Irregular opacities in the right lung, right-sided
+consolidations could be likely secondary to
+aspiration/effusions.
+2. Mild pulmonary edema.
+3. Multiple right-sided rib fractures.
+4. Subacute emphysema on the right.
+5. ET and NG tube are in good position
+   RADIOLOGY  Final Report
+
+-77 BY DIFFERENT PHYSICIAN  2009-03-13 00:00:00 3:55 PM
+
+CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN
+
+Reason: POST MORTEM INSTRUMENT COUNT
+
+INDICATION: Postmortem instrument count.
+
+COMPARISONS: Comparison is made to a plain film performed two
+hours earlier the same day.
+
+AP chest radiograph shows diffuse subcutaneous emphysema as well
+as bilateral consolidations throughout both lungs. There is
+evidence of multiple sequential rib fractures on the right side
+along with flail chest. Two chest tubes are seen within the
+right lung with tips pointed towards the right base. Right-sided
+central line is seen overlying the area of the SVC. Endotracheal
+tube is seen with the tip at the level of the clavicles. A
+surgical sta123 Any St. seen in the right neck. A linear metallic
+shadow seen overlying the trachea above the level of the
+clavicles, possibly representing needle.
+
+AP film of the pelvis shows a left-sided femoral line. No
+metallic hardware is identified on this film.
+
+IMPRESSION: Metallic linear structure seen overlying the trachea
+above the level of the clavicles, possibly representing a
+needle. Surgical staples seen overlying the right neck.
+
+Brief Hospital Course:
+(please refer to op note)
+Pateitn was taken emergently to the operating room an attempt to
+provide cardiopulmonary bypass, The patient continued to
+exsanguinate and evaluation of the
+injury demonstrated that the right pulmonary veins had
+avulsed from the left atrium and that there was massive
+defect within the heart. All attempts to control bleeding,
+achieve cardiopulmonary bypass and maintain resuscitation.
+They were unable to maintain vital signs. After many attempts
+to resuscitate, he had no myocardial function, no vitals and
+he was pronounced at 3:15 p.m. by the trauma surgery
+attending.
+
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+. Massive chest trauma, avulsion of right pulmonary vein
+from the left atrium.
+
+
+Discharge Condition:
+expired
+
+
+Completed by:2009-03-13 00:00:00

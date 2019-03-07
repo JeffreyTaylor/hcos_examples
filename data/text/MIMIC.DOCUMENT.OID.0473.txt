@@ -1,0 +1,563 @@
+Admission Date:  2007-09-15 00:00:00              Discharge Date:   2007-09-15 00:00:00
+
+Date of Birth: 1989-08-20 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Streptokinase / Iodine / Bee Pollens
+
+Attending:Jovanna Weckbacher
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+57M with PMH of atrial fibrillation on coumadin, systolic +
+diastolic CHF, CAD h/o MI, COPD on 4L home O2, 4 prior
+intubations for pneumonia, p/w less than 24 hours of shortness
+of breath.  He was recently admitted from 7/21-27/10 for
+shortness of breath and was treated for a CHF exacerbation.  His
+lasix 160 mg TID was changed to torsemide 100 mg QD and
+spironolactine 12.5 mg QD, under the direction of his
+cardiologist Dr. [**First Name8 (NamePattern2) 397**] Kochanowski.  Echo was stable (or even improved
+MR) compared to prior; EF 30%.  His captopril was also increased
+from 12.5 TID to 50 mg TID.  He reports that in the past he had
+taken as much as 100 mg TID.
+.
+He reports SOB started yesterday evening after doing well for
+several days at home after discharge.  His symptoms were helped
+somewhat with use of BIPAP overnight.  He says his O2 req now is
+6L from 4L.  He denies cough, F/C, chets pain, N/V, and change
+in BMs. He says he has been taking torsemide 100 mg and
+spironolactone 12.5 mg QD since discharge, and has been strict
+with his diet.  He does report high diastolic BP above 90-110,
+which is suboptimal.
+.
+On initial interview at admission, his cardiac review of
+symptoms is positive for 2007-09-15 00:00:00 pillow orthopnea, SOB, DOE with 30
+feet walking and less than 12 stairs, and generalized fatigue.
+.
+In the ED, VS were T 98.1, BP 140/71, HR 91, RR 28, 100% on 6L
+NC.  He was given vancomycin 1 g x 1 and levofloxacin 750 mg IV
+x 1.  He did not yet receive lasix in the ED.  EKG showed AFib,
+HR 89, poor R wave progression, no ST changes.
+
+
+Past Medical History:
+Type II Diabetes on oral agents
+Systemic Lupus Erythematosus
+Coronary Artery Disease s/p MI in 2007-09-15 00:00:00
+Hepatitis C
+COPD with emphysema and asthmatic component (FEV1 60% 123 Any St.ted
+2007-09-15 00:00:00)
+Diastolic Congestive Heart Failure EF 55% in 2007-09-15 00:00:00
+Seizure disorder
+TIA 2007-09-15 00:00:00
+Colon Cancer s/p resection in 2007-09-15 00:00:00 without chemotherapy
+s/p abdominal trauma with subsequent splenectomy and amputation
+of digits of his left hand
+Hyperlipidemia
+Hypertension
+h/o cocaine abuse
+Neuropathy and chronic pain on methadone
+Chronic Atrial Fibrillation on coumadin
+Obstructive Sleep Apnea on home CPAP
+Left Total Knee Replacement 2007-09-15 00:00:00
+
+
+Social History:
+Pt lives with his wife, daughter, son and granddaughter. Jrew Kochanowski is
+on disability. He used to be a diesel mechanic.  He served in
+123 Any St. and was badly injured in an explosion. The patient quit
+smoking in 2007-09-15 00:00:00, 4ppd x 20yrs. "Cheats" with cigars on occasion.
+Last cigar was smoked in 2007-09-15 00:00:00. No alcohol abuse. History of
+cocaine abuse, but has been clean since 2007-09-15 00:00:00. Denies current
+recreational drug use.
+
+
+Family History:
+Adopted
+
+Physical Exam:
+VS in the ED: T 98.1, BP 140/71, HR 91, RR 28, 100% on 6L NC
+VS on the floor: T 96.4, BP 160/90, HR 80, RR 18, 95% on 5L NC
+9did not see admission weight documented yet)
+General: comfortable in bed; conversant, speaking in full
+sentences
+HEENT: sclera anicteric, MMM, oropharynx clear
+Neck: thick, no LAD, no ap123 Any St.ble JVD
+Lungs: crackles halfway up on right; good air movement; no r/r/w
+CV: irregularly irregular, no murmurs ap123 Any St.ted
+Abdomen: obese, soft, NTND, scar, bowel sounds present, no
+rebound/guarding
+Ext: WW, 2+ pulses, no clubbing or cyanosis, no lower extremity
+edema, pneumoboots in place
+.
+Discharge PE:
+VS: AF, P: 80s, BP: 120s-130s/80s, RR: 18, O2 Sat: 98% on 4L
+Gen: well-appearing, obese, middle aged male in NAD. Oriented
+x3.
+Neck: Supple with no elevation JVP.
+CV: Regular rate, normal S1, S2. No m/r/g. No S3 or S4.
+Chest: CTAB, no wheezes, rales, crackles
+Abd: Soft, NTND. No HSM or tenderness.
+Ext: no edema, 2+ pulses in DP, PT, and radial bilaterally
+
+Pertinent Results:
+ADMISSION LABS:
+2007-09-15 00:00:00 11:50AM BLOOD WBC-13.2* RBC-3.33* Hgb-9.3* Hct-29.2*
+MCV-88 MCH-28.1 MCHC-32.0 RDW-17.1* Plt Ct-444*
+2007-09-15 00:00:00 11:50AM BLOOD Neuts-77.1* Lymphs-14.5* Monos-6.3
+Eos-1.6 Baso-0.6
+2007-09-15 00:00:00 11:50AM BLOOD PT-34.4* PTT-31.9 INR(PT)-3.5*
+2007-09-15 00:00:00 11:50AM BLOOD Glucose-160* UreaN-15 Creat-1.1 Na-140
+K-4.2 Cl-98 HCO3-33* AnGap-13
+2007-09-15 00:00:00 07:16PM BLOOD ALT-250* AST-491* LD(LDH)-686*
+CK(CPK)-42* AlkPhos-107
+2007-09-15 00:00:00 11:50AM BLOOD proBNP-[**Numeric Identifier 3941**]*
+2007-09-15 00:00:00 11:05AM BLOOD Calcium-8.7 Phos-3.8 Mg-2.0
+
+OTHER STUDIES:
+2007-09-15 00:00:00 07:15AM BLOOD calTIBC-289 Ferritn-92 TRF-222
+2007-09-15 00:00:00 07:16PM BLOOD VitB12-841
+2007-09-15 00:00:00 07:16PM BLOOD TSH-0.46
+
+ADMISISON EKG: AFib, HR 89, poor RWP, no ST changes.  Unchanged
+from prior.
+
+2007-09-15 00:00:00 ADMISSION CXR: no read yet.  opacity on right; c/w
+volume overload vs. PNA
+
+2007-09-15 00:00:00 TTE: The left atrium is moderately dilated. No left
+atrial mass/thrombus seen (best excluded by transesophageal
+echocardiography). The right atrium is moderately dilated. The
+estimated right atrial pressure is 10-15mmHg. The left
+ventricular cavity is moderately dilated. There is moderate
+global left ventricular hypokinesis with relative preservation
+of apical setments. (LVEF = 30%). The right ventricular cavity
+is moderately dilated with moderate global free wall
+hypokinesis. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. Mild to moderate (2007-09-15 00:00:00+) mitral
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+Compared with the prior study (images reviewed) of 2007-09-15 00:00:00,
+the severity of mitral regurgitation and the estimated pulmonary
+artery systolic pressure are slightly reduced. Biventricular
+cavity sizes and systolic function are similar.
+
+CT head: 2007-09-15 00:00:00:
+FINDINGS: There is no evidence of hemorrhage, infarction, or
+masses. There
+is no shift of midline structures. Ventricles and sulci are
+slightly
+prominent, could be due to atrophy.
+
+Visualized portion of the paranasal sinuses and mastoid air
+cells are within normal limits. Osseous structures appear
+normal.
+
+IMPRESSION: Normal study.
+.
+Abd US: 2007-09-15 00:00:00:
+IMPRESSION:
+1. No gallstones and no biliary dilatation. Mild hepatomegally.
+2. Small right pleural effusion.
+3. Small simple right renal cyst.
+.
+EKG on 2007-09-15 00:00:00 demonstrated atrial fibrillation with no
+significant change compared with prior dated 2007-09-15 00:00:00.
+.
+2D-ECHOCARDIOGRAM 2007-09-15 00:00:00:
+The left atrium is moderately dilated. No left atrial
+mass/thrombus seen (best excluded by transesophageal
+echocardiography). The right atrium is moderately dilated. The
+estimated right atrial pressure is 10-15mmHg. The left
+ventricular cavity is moderately dilated. There is moderate
+global left ventricular hypokinesis with relative preservation
+of apical setments. (LVEF = 30%). The right ventricular cavity
+is moderately dilated with moderate global free wall
+hypokinesis. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. Mild to moderate (2007-09-15 00:00:00+) mitral
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+.
+Compared with the prior study (images reviewed) of 2007-09-15 00:00:00,
+the severity of mitral regurgitation and the estimated pulmonary
+artery systolic pressure are slightly reduced. Biventricular
+cavity sizes and systolic function are similar.
+.
+CARDIAC CATH 2007-09-15 00:00:00:
+1. Selective coronary angiography in this right dominant system
+demonstrated no flow limiting lesions. The LMCA had no
+angiographically apparent disease. The LAD had mild plaquing
+throughout and the distal LAD was noted to be a small vessel.
+The Cx had mild plaquing throughout. The RCA had mild plaquing
+throughout. There was a pseudostenosis of the PL branch at an
+area of hyperacute angulation which made there appear to a 40%
+stenosis in the R-PL branch.
+2. Limited resting hemodynamics revealed elevated left and right
+sided filling pressures. The RVEDP was 22 mmHg and the PCWP was
+24 mmHg. There was moderate pulmonary hypertension with a PASP
+of 48 mmHg. The central aortic pressure was 102/65 mmHg. The
+cardiac index was low at 1.6 l/min/m2.
+
+FINAL DIAGNOSIS:
+1. Coronary arteries have no flow limiting lesions.
+2. Moderate diastolic ventricular dysfunction.
+3. Moderate pulmonary hypertension.
+
+
+Brief Hospital Course:
+- 123 Any St.us to tx to MICU:
+DIASTOLIC and SYSTOLIC CHF:
+Mr. Kochanowski was admitted with a CHF exacerbation (acute on chronic
+diastolic and new systolic). He received doses of antibiotics in
+the ED for question of a pneumonia on admission CXR, though
+these were not continued on the floor because clinically he did
+not have a pneumonia (no fever, no cough or sputum).  He was
+treated with doses of lasix 80 mg IV PRN the first several days
+of admission and continued on his home dose of torsemide 100 mg
+QD.  His spironolactone was increased from 12.5 mg to 25 mg.
+
+He was re-admitted three days after his last hospital discharge,
+at which point he was treated for CHF, COPD and HAP.  On that
+discharge on 2007-09-15 00:00:00, his weight was stable on torsemide 100 mg
+and spironolactone 12.5 mg.  His CHF exacerbation was thought to
+be related to elevated diastolic blood pressure, and his
+captopril had been titrated from 12.5 mg TID to 50 mg TID with
+goal DBP < 80.  He was at goal by discharge, yet Mr. Kochanowski
+reported elevations in his DBP from 90-100's at home in the days
+between admissions.  He denied non-compliance with diet and
+medications, and reports that he often gets acute onset SOB in
+the evenings "just as I am getting ready for bed."
+
+MICU 123 Any St. COURSE
+# AMS: When came to until, thought possible seizure vs. infx,
+vs. metabolic vs. HTN.  A head ct r/o bleed, and a metabolic
+work up (tsh, b12, rpr) and infx work up (cxs) were negative.
+EEG was not done.  A neuro c/s was called.  Ultimately, we feel
+this was likely 2007-09-15 00:00:00 overmedication, and he will need to be
+followed up in the outpt arena for titration of his sedating
+medications and a possible wean.  A check of his anti-seizure
+meds was normal (carbamazepine of 14.1).
+.
+#. Acute on chronic systolic + diastolic CHF and HTN: While on
+the MICU service, we had originally stopped all of his home
+antihypertensives given the hypertensive emergency that he
+presented with.  He was placed on a nitro-drip and required
+labetalol IV prn.  Over time, his blood pressure returned to
+baseline and his home medications were restarted.  However, the
+pt's home doses had to be held multiple times for hypotension,
+so we decreased his dose of diltiazem.  Given the CHF, we
+continued the metoprolol, captopril, spironolactone,
+simvastatin, isosorbide dinitrate, and the dose will likely have
+to be continually titrated on the floor.  Mr. Kochanowski also went
+for cardiac cath on Monday 2007-09-15 00:00:00 due to relatively recently
+diagnosed systolic component, which showed clean coronaries.  We
+continued for daily weights, 1500 cc fluid restriction.
+.
+#. ANEMIA: considered to have ACD per heme in prior notes. Hct
+stable here. no further episodes of rectal bleeding, continued
+the pt on stool softeners (as he was as an outpatient), and we
+were getting UPMCE Hcts, and maintained an active T/S.
+.
+#. Afib/History of PE & DVT/anticoagulation: Goal INR 2.5 - 3.5
+per OMR.
+- heparin gtt was started after cath--> can bridge to coumadin.
+.
+#. COPD: chronic COPD
+- stable symptoms. Awaiting pulm rehab as an outpatient.
+#. Diabetes: diet controlled currently
+#. Obstructive sleep apnea: home Bipap machine hooked up
+#. Insomnia: continue on home dose of tizanidine and oxazepam.
+#. SLE: continue on home dose of plaquenil.
+# Chronic pain: On methadone recently decreased from 20 mg QID
+to 10 mg QID under direction of Dr. Jovanna Weckbacher.  Trying to wean
+medications as above, will have to follow up with Dr. Jovanna Weckbacher
+regarding status of this.
+.
+UPMCE C (Cardiology Floor) Hospital Course:
+#. Acute on chronic systolic + diastolic CHF: Patient was
+agressively diuresed on torsemide 100 mg po BID and lasix iv as
+needed to acheive negative output of at least 2 liters per day.
+Prior to discharge, his torsemide was increased to 150 mg po BID
+and he was no longer requiring iv lasix. He was  He was
+clinically euvolemic with no crackles on lung exam, no JVD.
+Blood pressure was aggressively managed with several medications
+and prevented further worsening of his volume status. He lost
+about 11 kg on the cardiology floor. His discharge weight was
+100.7 kg (from 111 kg on transfer to the floor).
+.
+# AMS: On transfer to the floor, he was confused and lethargic
+but AAOx3. His altered mental status was likely secondary to
+medications. He had no focal neuro deficits and his CT head was
+negative. His methadone was decreased from 10 mg po q6h to 5 mg
+po q6h and then to 5 mg po q6h prn. He tolerated this adjustment
+without compliant. His tizanidine was decreased from 4 mg po qHS
+to 2 mg po qHS and oxazepam from 30 mg po qHS to 15 mg po qHS
+and finally to 10 mg po qHS. His pregabalin was decreased from
+100 mg po tid to 25 mg po tid. Once he returned to baseline
+mental status, he was complaining of neuropathic pain and he was
+restarted on his home dose of 100 mg po tid. He remained clear
+and coherent.
+.
+#. ANEMIA: Work-up has been done as an outpatient and the
+etiology is likely anemia of chronic disease. His hematocrit
+remained at baseline throughout his stay.
+.
+#. Afib/History of PE & DVT/anticoagulation: He was in
+rate-controlled atrial fibtillation for most of his stay. He was
+anti-coagulated on coumadin 17.5 mg po qD. He had an jump in his
+INR to 7 and his coumadin was held for 2 days until it dropped
+below 3. He was restarted on coumadin 7.5 mg po qD. He will
+follow up with the coumadin clinic at UPMCE where he
+already has established care.
+.
+#. COPD: Remained stable throughout the hospital stay. He uses 4
+L NC at home and he did no require extra oxygen while
+hospitalized. He was given albuterol PRN and ipratropium for
+wheezing as well as advair diskus. His COPD medications were not
+altered and he was discharged on his home medications. He will
+have pulmonary rehabilitation as an outpatient.
+.
+#. Diabetes: diet controlled, stable. No interventions this
+hospitalization.
+.
+#. Obstructive sleep apnea: continued to use CPAP at night.
+.
+# Chronic pain: was well controlled on methadone 5 mg po q6h
+prn. His pregabalin was initially decreased to 25 mg po tid and
+then increased back to 100 mg po tid when he was complaining of
+neuropathic pain.
+.
+# Hx of seizures: His was continued carbamazepine at 400 mg po
+tid. There was concern that he dose may have been too high given
+the elevated lab levels. Neuro was actively involved in this
+case and asked that he be continued on his home dose. Neuro recs
+
+
+Medications on Admission:
+1. Spironolactone 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily):
+Take a half pill.  Take in the morning.
+Disp:*15 Tablet(s)* Refills:*2*
+2. Captopril 50 mg Tablet Sig: One (1) Tablet PO three times a
+day.
+Disp:*90 Tablet(s)* Refills:*2*
+3. Methadone 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours).
+Disp:*112 Tablet(s)* Refills:*0*
+4. Torsemide 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Carvedilol 25 mg Tablet Sig: Two (2) Tablet PO twice a day.
+6. Isosorbide Dinitrate 40 mg Tablet Sig: One (1) Tablet PO
+three times a day.
+7. Warfarin 17.5 mg once a day
+8. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: 1-2 puffs Inhalation Q6H (every 6 hours) as
+needed for shortness of breath or wheezing.
+9. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+10. Ipratropium Bromide 0.02 % Solution Sig: 2007-09-15 00:00:00 puff Inhalation
+Q6H (every 6 hours) as needed for shortness of breath or
+wheezing.
+11. Carbamazepine 400 mg Tablet Sustained Release 12 hr Sig: One
+(1) Tablet Sustained Release 12 hr PO three times a day.
+12. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+13. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain.
+
+14. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+15. Oxazepam 15 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+16. Pregabalin 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+17. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+
+18. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO BID (2 times
+a day) as needed for heartburn.
+19. Tizanidine 4 mg Capsule Sig: One (1) Capsule PO at bedtime.
+
+20. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+21. Cyanocobalamin 1,000 mcg Tablet Sig: One (1) Tablet PO once
+a day.
+
+Discharge Medications:
+1. Carbamazepine 400 mg Tablet Sustained Release 12 hr Sig: One
+(1) Tablet Sustained Release 12 hr PO three times a day.
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+5. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H
+(every 8 hours) as needed for constipation.
+6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+9. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation four times a day as needed for cough/
+wheezing.
+10. Captopril 25 mg Tablet Sig: Four (4) Tablet PO TID (3 times
+a day).
+11. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+12. Ipratropium-Albuterol 0.5 mg-3 mg(2.5 mg base)/3 mL Solution
+for Nebulization Sig: One (1) neb Inhalation every 4-6 hours as
+needed for wheezing.
+13. Carbamazepine 200 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+14. Pregabalin 25 mg Capsule Sig: Four (4) Capsule PO TID (3
+times a day). Capsule(s)
+15. Oxazepam 10 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime).
+Disp:*30 Capsule(s)* Refills:*0*
+16. Metoprolol Tartrate 50 mg Tablet Sig: Three (3) Tablet PO
+BID (2 times a day).
+Disp:*180 Tablet(s)* Refills:*1*
+17. Torsemide 100 mg Tablet Sig: 1.5 Tablets PO BID (2 times a
+day).
+Disp:*90 Tablet(s)* Refills:*1*
+18. Tizanidine 2 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+Disp:*30 Tablet(s)* Refills:*0*
+19. Hydralazine 25 mg Tablet Sig: Three (3) Tablet PO QID (4
+times a day).
+Disp:*360 Tablet(s)* Refills:*1*
+20. Warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO Once Daily
+at 4 PM.
+Disp:*90 Tablet(s)* Refills:*0*
+21. Lactulose 10 gram/15 mL Syrup Sig: 30-60 MLs PO TID (3 times
+a day).
+Disp:*900 ML(s)* Refills:*1*
+22. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+23. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+24. Isosorbide Dinitrate 20 mg Tablet Sig: Three (3) Tablet PO
+Q8H (every 8 hours).
+Disp:*4 Tablet(s)* Refills:*1*
+25. Diltiazem HCl 60 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+Disp:*120 Tablet(s)* Refills:*1*
+26. Cyanocobalamin (Vitamin B-12) 1,000 mcg Tablet Sustained
+Release Sig: One (1) Tablet Sustained Release PO once a day.
+27. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO twice a day.
+
+28. Methadone 10 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6
+hours) as needed for pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA Assoc. of UPMCE
+
+Discharge Diagnosis:
+Primary Diagnoses:
+(1) Acute on chronic systolic + diastolic CHF
+(2) Acute altered mental status- now resolved.
+(3) Hypertension
+
+Secondary Diagnoses:
+(1) Anemia of chronic disease
+(2) Stable COPD
+
+
+Discharge Condition:
+On 4L NC which is baseline home O2, denies shortness of breath.
+Blood pressures running ~120/80.  Discharge weight is 221.5 lbs
+(100.7 kg).
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Weigh yourself every morning, Jrew Kochanowski MD if weight goes up more
+than 3 lbs.
+
+You were admitted to the hospital with a congestive heart
+failure flare.  We think this happened because your blood
+pressure was too high.   Your blood pressure medications have
+been changed and it was better controlled in the hospital.
+Please check your blood pressure regularly and keep a log of
+your blood pressures. Please bring this log to your appointments
+with your doctor.
+
+You were started on a diuretic called spironolactone that last
+time you were in the hospital, and the dose of this was
+increased this admission.  This medication increases the
+potassium in your blood. You do not need to take as much
+potassium any more.  Please only take what is on this new
+medication list. We started a medication called torsemide and
+stopped furosemide. Torsemide is a stronger diuretic than
+furosemide and this is why the dose is lower.
+
+While you were in the hospital, you experienced an several days
+of confusion or a change in your mental status. You had a CT of
+your head to look for a stroke. This test was negative. You did
+not have a stroke. We think your change in mental status was due
+to your medications. Your doses of methadone, oxazepam, and
+tizanidine were decreased. Your dose of lyrica was decreased for
+several days but then was increased when your mental status
+improved.
+
+At your last appointment, we discussed you going to pulmonary
+rehab by UPMCE. Please speak to your primary doctor,
+Dr. Jovanna Weckbacher about going to pulmonary rehab.
+
+Medication Changes:
+DECREASED Warfarin from 17.5 mg to 7.5 mg by mouth every day
+DECREASED methadone from 20 mg to 5 mg by mouth every 6 hours
+DECREASED oxazepam from 30 mg to 10 mg by mouth at night
+DECREASED tizanidine 2 mg by mouth at night
+STOPPED Carvedilol 50 mg po twice a day
+STOPPED Furosemide 160 mg po three times a day
+STOPPED Potassiun Chloride 20 mg po once a day
+INCREASED Isosorbide Dinitrate 40 mg po three times a day
+ADDED Metoprolol tartrate 150 mg twice a day
+ADDED Torsemide 150 mg twice a day
+ADDED Spironalactone 25 mg once a day
+ADDED Hydralazine 75 mg by mouth four times a day
+ADDED Diltiazem HLC 60 mg four times a day
+
+
+Followup Instructions:
+You have the following appointments:
+
+Department: CARDIAC SERVICES
+When: TUESDAY 2007-09-15 00:00:00 at 3:00 PM
+With: [**First Name8 (NamePattern2) 1878**] Kochanowski, NP test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: UPMCE
+When: WEDNESDAY 2007-09-15 00:00:00 at 10:00 AM
+With: Jrew Jovanna Weckbacher Kochanowski, [**First Name3 (LF) **] test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: PULMONARY FUNCTION LAB
+When: WEDNESDAY 2007-09-15 00:00:00 at 4:10 PM
+With: PULMONARY FUNCTION LAB test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+

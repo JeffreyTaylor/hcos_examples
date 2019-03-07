@@ -1,0 +1,265 @@
+Admission Date:  2009-10-01 00:00:00              Discharge Date:   2009-10-01 00:00:00
+
+Date of Birth: 1960-10-01 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:Jayceeon Aronstein
+Chief Complaint:
+sdfsda
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Hollon is a 75 y.o. female with pertinent history of MDS x 2
+years, chronic anemia requiring blood transfusions (last
+transfusion 1 wk prior to admission), and recent admission for
+melanotic stools w/ neg GI workup. Pt was recently discharged
+2009-10-01 00:00:00 from UPMCE following admission for GIB, and subsequent
+stabilization w/o intervention. Following discharge reports that
+she was feeling tired and weak, with decreased a123 Any St.e. +for
+black, tarry stools (states she has had this intermittently x
+6-8 weeks). Denies BRBPR. No abdominal pain. Went to Heme/onc
+clnic on day of admission and was found to have a HCT of 10.
+Sent to ED where she was af, hr 120, bp 122/56, received 2U PRBC
+(with appropriate Hct rise 2009-10-01 00:00:00), and 2L NS. She had been on
+Cipro for treatment of asymptomatic UTI x 1day which was changed
+on hospital day 2 to Cefepime since she was considered to be
+functionally neutropenic with an ANC of 320 and declining. She
+was seen in the unit by GI who performed a push enteroscopy on
+2009-10-01 00:00:00 despite recent negative EGD and found no source of bleeding
+to mid jejunum. She continued to have melenic stools but vitals
+remained stable. Despite having no 123 Any St.us cardiac history, she
+also developed a mild troponin leak that peaked at 1.04 and CK's
+of 160's with 17MB. She was never symptomatic and was treated
+medically with aspirin and B-blocker. In total she was
+transfused another 4 units PRBC's with appropriate increase in
+Hct from 17.4-29.3, which has been stable for the last 12 hours
+
+
+
+Past Medical History:
+1) MDS-evaluated 2009-10-01 00:00:00 for anemia leukopenia and fatigue seen by
+DR. Jayceeon Aronstein with bone bx=nondiagnostic. Cont to be followed and
+started on procrit for anemia. In 2009-10-01 00:00:00 repeat biopsy revealed
+similar patttern to 123 Any St.us but for unclear reason was
+diagnosed with MDS. Pt had moderate response to procrit. in 2009-10-01 00:00:00
+pt developed more profound anemia and at that point developed
+guaiac positive stools and has required occasional transfusion.
+
+2) Melena/guaiac positive stools, s/p workup positive only for
+ileal diverticulosis. 2009-10-01 00:00:00 Colonoscopy- Diverticulosis of the
+entire colon
+Otherwise normal Colonoscopy to cecum
+2009-10-01 00:00:00 EGD- Normal EGD to second part of the duodenum
+2009-10-01 00:00:00 SBFT Ileodiverticulosis without evidence of diverticulitis.
+No source of bleeding identified within the small bowel.
+2009-10-01 00:00:00 Colonoscopy- Polyps in the proximal ascending colon,
+mid-ascending colon and transverse colon (polypectomy)
+Diverticulosis of the sigmoid colon
+Otherwise normal Colonoscopy to cecum
+Capsule Enteroscopy
+1. Erythema and pethiciae in the duodenum
+2. Small non bleeding ileal diverticulum
+3. No site of GI bleding
+
+3) Osteoarthritis
+4) diphtheria in 2009-10-01 00:00:00 treated with penicillin
+5) repeatedly positive PPD due to work-related TB exposures and
+negative CXR (per pt's report)
+6) a CVA in 2009-10-01 00:00:00 that led to right-sided hemiparesis (minimal
+residual) and increased distractibility
+7) a fall in 2009-10-01 00:00:00 that caused a right wrist fracture
+8) hypothyroidism
+9) history of cystitis
+10) cataracts
+11) HTN
+12) hypercholesterolemia
+13) back pain
+14) hip fx, s/p surgery 2009-10-01 00:00:00
+
+
+Social History:
+Pt lives alone in senior living facility. She has someone who
+helps her with her grocery shopping, laundry, and her son Atilio Hollon
+helps her out also when needed. Used to work as a PN. Her Niece
+is her proxy, as she lives the closest - pt. has two sons, but
+they are further away. She lives alone in a 1 bedroom at a
+senior living facility. She smoked 2009-10-01 00:00:00 PPD x 60 years, and used
+to drink 4-5 drinks/night, but her last drink was months ago, as
+she "lost her taste for it." She denies any IVDU.
+
+Family History:
+non-contributory: She had 7 brothers and sisters.  1 brother
+died of colon CA, and one sister also died of colon CA.  Her
+mother died in her late 60s from
+CAD and obesity.  Her father had a cerebral hemorrhage.
+
+
+Physical Exam:
+t 98.7, hr 86, bp 120/48, r18 100% 2L NC
+PERRLA. Pale sclera.
+Diffuse white lesions of tongue.
+7cm JVP. No cervical/sm/sc LA
+Regular s1,s2. no m/r/g
+LCA b/l
++bs. soft. nt. nd. Liver margin palpable at lower costochondral
+border.
+No le edema.
+2+ dp pulses b/l.  Pale palms.
+
+
+Pertinent Results:
+CBC:
+2009-10-01 00:00:00 09:36PM   WBC-1.7* RBC-2.04*# HGB-5.9*# HCT-17.4*#
+MCV-85 MCH-28.8 MCHC-33.9 RDW-16.9*
+2009-10-01 00:00:00 05:20PM   PLT SMR-LOW PLT COUNT-100* LPLT-2+
+2009-10-01 00:00:00 05:20PM   HYPOCHROM-NORMAL ANISOCYT-OCCASIONAL
+POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL OVALOCYT-OCCASIONAL
+
+Chemistries:
+2009-10-01 00:00:00 11:00AM   GLUCOSE-114* UREA N-54* CREAT-1.6* SODIUM-138
+POTASSIUM-3.7 CHLORIDE-108 TOTAL CO2-20* ANION GAP-14
+2009-10-01 00:00:00 11:00AM   LD(LDH)-242 CK(CPK)-62 TOT BILI-0.5
+2009-10-01 00:00:00 11:00AM   CK-MB-NotDone cTropnT-0.21*
+
+Coags:
+2009-10-01 00:00:00 11:00AM   PT-13.8* PTT-25.0 INR(PT)-1.2
+
+UA:
+
+2009-10-01 00:00:00 07:10PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-MOD
+2009-10-01 00:00:00 07:10PM URINE  RBC-0-2 WBC-21-50* BACTERIA-MANY
+YEAST-NONE EPI-0-2
+2009-10-01 00:00:00 07:10PM URINE  COLOR-Straw APPEAR-Clear SP Hollon-1.014
+
+CXR: No acute cardiopulmonary process
+
+ECG: 100 bpm, nl axis, nl intervals, sinus, STd in II,F,V3-V6,
+new compared to ecg of 2009-10-01 00:00:00
+
+Brief Hospital Course:
+1. Atilio Hollon Pt has undergone extensive endoscopic workup which has
+all been negative, although she continued to have melenic stools
+now with no BM x 5d. Difficult to assess what proportion of
+anemia is due to GIB versus progressoin of her MDS. History of
+four known RBC antigens to match versus. She received "weakly
+incompatible" blood, although hemolysis labs neg. Four units
+cross typed and matched in blood bank waiting but Hct remained
+stable >72 hours but no BM so couldn't assess for melena. She
+was discontinued aminocaproic acid and GI recommended tagged RBC
+scan if pt rebleeds.
+
+2. Elevated troponin- Pt small troponin leak with ST depressions
+on ECG consistent with demand ischemia in the setting of anemia.
+ECG changes now resolved and planned to transfuse as above and
+medically manage with B-Blocker but hold on ASA due to bleeding
+risk.
+
+3. UTI- although asymptomatic and afebrile, pt is neutropenic
+and was being treated more aggressively as neutropenic fever
+with Cefepime 2g IV q8h day discontinued 2009-10-01 00:00:00 since UA clear. No
+need for further antibiotic treatment was advised.
+
+4. MDS-Pt cont declining ANC with otherwise stable cell lines.
+Decline coincides with starting Cefepime and metoprolol although
+leukopenia is no a major SE of these meds. Plan was to start pt
+on thalidomide after discharge today and will need weekly
+procrit and CBC checks by VNA.
+
+5. Hypothyroidism-cont on outpatient dose levothyroxine
+
+6. Oral thrush-appears to have resolved after using Nystatin S
+and S.
+
+7. LBP-likely due to MDS. Well controlled on percocet elixir
+although pt not requiring greater than every 24 hours while in
+hospital.
+
+
+Medications on Admission:
+1. Levothyroxine Sodium 125 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+4. Propoxyphene N-Acetaminophen 100-650 mg Tablet Sig: One (1)
+Tablet PO Q8H (every 8 hours) as needed.
+5. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) as needed.
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day).
+7. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+8. Ciprofloxacin 500mg po qday
+
+Discharge Medications:
+1. Levothyroxine Sodium 125 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+2. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 2-5 MLs
+PO Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*300 ML(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+7. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+8. Aminocaproic Acid 500 mg Tablet Sig: Four (4) Tablet PO Q6H
+(every 6 hours).
+Disp:*480 Tablet(s)* Refills:*2*
+9. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day).
+Disp:*2700 ML(s)* Refills:*2*
+10. Procrit 40,000 unit/mL Solution Sig: One (1) 40,000u dose
+Injection once a week.
+Disp:*12 syringes* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Anemia
+Urinary tract infection
+
+
+Discharge Condition:
+Hematocrit and Vitals stable
+
+Discharge Instructions:
+If you experience any fever, chills, nausea, vomiting, bloody or
+black stool, or increasing diziness you should call your doctor
+and if he/she is not available you should go to the emergency
+room. You will also start on your Thalidomide therapy today
+after leaving the hospital which you should take as prescribed
+by Dr. Jayceeon Aronstein.
+
+Followup Instructions:
+Please schedule an appointment with Dr. Jayceeon Aronstein
+in the next 1-2 weeks for post hospitalization follow-up.
+Provider: Atilio Hollon, MD Where: UPMCE
+HEMATOLOGY/ONCOLOGY Phone:test@mail.com Date/Time:2009-10-01 00:00:00 2:00
+
+
+

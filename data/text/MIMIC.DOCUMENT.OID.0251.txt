@@ -1,0 +1,147 @@
+Admission Date:  2013-03-29 00:00:00              Discharge Date:   2013-03-29 00:00:00
+
+Date of Birth: 1951-03-21 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Letisha Maltry
+Chief Complaint:
+Left rib pain/LUQ pain
+
+Major Surgical or Invasive Procedure:
+2013-03-29 00:00:00 Left Thoracentesis
+2013-03-29 00:00:00 Left Chest tube insertion
+
+
+History of Present Illness:
+67 yo M s/p CABG/MVR 2013-03-29 00:00:00 with complicated post op course, dc'd
+home3/16, returned to 123 Any St. 2013-03-29 00:00:00 c/o LUQ/chest pain. Also c/o some
+SOB secondary to pain.
+
+Past Medical History:
+CAD s/p CABGx2 2013-03-29 00:00:00, PPM, multiple PCI, NIDDM, GERD s/p dilation
+of esophageal stricture, proxysmal A.fib, HTN
+
+Social History:
+retired communications technician
+
+
+Family History:
+NC
+
+Physical Exam:
+98.0 test@mail.com 16
+NAD
+Lungs with decreased breath sounds bilaterally with crackles at
+both bases
+CV RRR
+Sternum C/D/I
+Abd benign
+Extrem without edema
+Pain to palpation at left rib cage
+
+Pertinent Results:
+2013-03-29 00:00:00 07:10AM BLOOD WBC-4.7 RBC-3.39* Hgb-9.5* Hct-29.9*
+MCV-88 MCH-27.9 MCHC-31.7 RDW-14.6 Plt Ct-183
+2013-03-29 00:00:00 07:10AM BLOOD Plt Ct-183
+2013-03-29 00:00:00 02:54AM BLOOD PT-14.0* PTT-37.3* INR(PT)-1.2*
+2013-03-29 00:00:00 07:10AM BLOOD Glucose-126* UreaN-23* Creat-1.3* Na-136
+K-4.1 Cl-104 HCO3-26 AnGap-10
+2013-03-29 00:00:00 05:45AM BLOOD Glucose-112* UreaN-32* Creat-1.5* Na-136
+K-3.6 Cl-99 HCO3-29 AnGap-12
+2013-03-29 00:00:00 04:45AM BLOOD UreaN-46* Creat-1.6* K-3.8
+2013-03-29 00:00:00 02:54AM BLOOD Creat-2.0* Na-131* K-4.1 Cl-96 HCO3-27
+AnGap-12
+
+Brief Hospital Course:
+Mr. Ratajczak was admitted to Cardiac surgery. Interventional
+pulmonology performed a left thoracentesis for 750 cc
+serosanguinous fluid.Thoracic surgery was consulted and
+recommended a left chest tube and TPA which was performed.
+Pleural fluid cultures showed MSSA for which he was placed on
+nafcillin. Infectious diseases recommended 6 weeks of Nafcillin.
+CT scan on 2013-03-29 00:00:00 showed imporved effusion and VATS was cancelled.
+Chest tube was dc'd without incident on 2013-03-29 00:00:00. CXR on 2013-03-29 00:00:00 showed
+no increase in the effusions, and he was ready for discharge on
+2013-03-29 00:00:00.
+
+Discharge Medications:
+1. Nafcillin in D2.4W 2 g/100 mL Piggyback Sig: Two (2) grams
+Intravenous Q6H (every 6 hours).
+Disp:*240 grams* Refills:*2*
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*0*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day). Tablet(s)
+7. Pioglitazone 15 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+9. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)
+as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+10. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: 0.5 Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+11. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day:
+Until dc'd by Dr. Ratajczak.
+12. Lantus  Subcutaneous
+13. Outpatient Lab Work
+Weekly CBC, Bun/Creatinine, LFTs while on Nafcillin
+Results to Dr. Letisha Maltry test@mail.com
+14. Heparin Lock Flush 100 unit/mL Solution Sig: PICC flush per
+protocol  Intravenous DAILY (Daily) as needed.
+Disp:*1 vial* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE VNA
+
+Discharge Diagnosis:
+Left pleural effusion
+s/p Redo sternotomy, CABG x 2, MVRepair 2013-03-29 00:00:00
+PMH:
+CAD s/p CABGx2 2013-03-29 00:00:00, PPM, multiple PCI, NIDDM, GERD s/p dilation
+of esophageal stricture, proxysmal A.fib, HTN, HLD
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+No lifting more than 10 pounds for 10 weeks from surgery.
+No driving while taking narcotic pain medicine.
+
+
+Ratajczakp Instructions:
+Dr. Ratajczak  as prior to admission
+Dr. 123 Any St.es) **] in 2 weeks
+UPMCE clinic with nurse practitioner (Darika Ratajczak if
+possible)
+test@mail.com
+Dr. Ratajczak in 2013-03-29 00:00:00 weeks
+DR. Letisha Maltry (Infectious Disease) Phone:test@mail.com
+Date/Time:2013-03-29 00:00:00 9:00
+
+
+
+Completed by:2013-03-29 00:00:00

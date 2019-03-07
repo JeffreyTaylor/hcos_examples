@@ -1,0 +1,227 @@
+Admission Date:  2014-03-25 00:00:00              Discharge Date:   2014-03-25 00:00:00
+
+Date of Birth: 1969-03-23 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Juanetta Nuesca
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Patient is 72 year Spanish speaking male with PMHx of
+Parkinson's Disease who presents to the ED for complaints of
+shortness of breath. Per patient daughter he was at his baseline
+health until night prior to admission when patient described
+shortness of breath and sensation that his airways were blocked.
+Patient was seen at UPMCE a few weeks ago for similar symptoms.
+Per daughter etiology of shortness of breath was not identified
+and thought breathing difficulty could be due to anxiety.
+Patient denies any chest pain or diaphoresis and is symptoms do
+not seem to coorelate with any medications. He has noticed no
+change in his speech or any trouble with swallowing or eating
+and drinking foods.
+During this episode of shortness of breath at home patient
+seemed anxious and paramedics were called. While they were
+present,
+he had brief unresponsiveness and was found to be in atrial
+fibrillation. A nasal trumpet was placed with return of
+responsiveness and of sinus rhythm. He was brought to UPMCE. On
+arrival to ICU patient comfortable denies any shortness of
+breath. He has a nasal trumpet in place. His O2Sat remains above
+90% on room air but appears to drop when patient falls asleep.
+Patient denies any swelling of his throat or airway, he just
+feels congested in his nasal passages.
+.
+ROS: Patient denies any CP, HA, n/v, fevers, chills, cough,
+abdominal pain. Patient is urinating normally and besides
+constipation has normal bowel movements. His Parkinson's has
+gotten worse over the last year but no acute worsening over the
+past few months.
+
+
+Past Medical History:
+Parkinson's disease, diagnosed at age 66, followed by Dr.
+Ottman
+at UPMCE
+PCP is Ottman. Ottman at UPMCE
+
+
+Social History:
+Lives with wife and sister-in-law, who have been limiting his
+activities more recently, though he did go out of the house once
+last week by himself. Able to do laundry, for example, b/c did
+it last week but not allowed by his wife (per daughter). No
+tobacco, EtOH, drug use.
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+T 98.1 BP 127/74 HR 77 O2Sat 93%-94% on RA
+Gen: NAD
+Heent: PERRL, EOMI, OP clear no pharyngeal swelling, nasal
+trumpet in place, MM dry.
+Neck: supple, no LAD
+Lungs: CTA B/L
+Cardiac: RRR S1/S2 no murmurs
+Abd: soft NTND NABS
+Ext: FROM, no edema
+Neuro: AAOx3, patient with resting tremors of UE and LE b/l,
+normal reflexes, sensory grossly intact
+
+
+Pertinent Results:
+2014-03-25 00:00:00 BLOOD WBC-12.1* RBC-4.53* Hgb-14.1 Hct-40.9 MCV-90
+MCH-31.0 MCHC-34.4 RDW-13.7 Plt Ct-258
+2014-03-25 00:00:00 BLOOD Neuts-86.4* Bands-0 Lymphs-9.7* Monos-3.1 Eos-0.6
+Baso-0.2
+2014-03-25 00:00:00 BLOOD PT-12.1 PTT-24.7 INR(PT)-1.0
+2014-03-25 00:00:00 BLOOD Glucose-130* UreaN-12 Creat-0.9 Na-136 K-4.0
+Cl-97 HCO3-25 AnGap-18
+2014-03-25 00:00:00 BLOOD CK(CPK)-103
+2014-03-25 00:00:00  BLOOD cTropnT-<0.01
+2014-03-25 00:00:00 BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+
+2014-03-25 00:00:00 BLOOD WBC-7.9 RBC-4.77 Hgb-14.6 Hct-42.4 MCV-89
+MCH-30.7 MCHC-34.5 RDW-13.8 Plt Ct-274
+2014-03-25 00:00:00 BLOOD Glucose-92 UreaN-15 Creat-0.8 Na-138 K-4.3 Cl-101
+HCO3-30 AnGap-11
+2014-03-25 00:00:00 BLOOD Calcium-9.1 Phos-4.1# Mg-2.4
+
+Imaging:
+CT neck (2014-03-25 00:00:00): No soft tissue neck mass. Patent upper airway.
+Calcified granuloma in the lung.
+CT head (2014-03-25 00:00:00): No acute intracranial hemorrhage. No mass
+effect.
+Neck soft tissues (2014-03-25 00:00:00): There is no comparison. Upper airway
+is visualized, with a nasal airway tube terminating above the
+hyoid bone. There is no significant soft tissue swelling. There
+is no abnormal soft tissue calcification.
+CXR (2014-03-25 00:00:00): Mild cardiomegaly. Left pleural effusion and
+bibasilar atelectasis.
+
+
+Brief Hospital Course:
+Mr. Ottman is a 72 y/o male with h/o Parkinson's disease who
+presents from home with shortness of breath, now resolved.
+.
+## Shortness of Breath: The patient was admitted and had one
+recurrent episode on his first night of admission which
+unimproved by Parkinson's meds. We hypothesized that his
+underlying Parkinson's disease may be contributing to these
+episodes. The episode was relieved by a small dose of Ativan;
+there appeared to be a large component of anxiety to the
+episodes, but that is unlikely to be the sole cause, as he does
+have objectively unusual breathing. He was evaluated by
+Neurology during his admission who recommended continuing his
+medical regimen for Parkinson's.
+- The patient will follow up in Pulmonary Clinic with Dr. Juanetta Nuesca
+Ottman. PFTs are planned as an outpatient.
+- The patient reportedly had an episode of atrial fibrillation
+per EMS; however, this did no recur while hospitalized.
+- The patient was discharged with clonazepam to use as needed
+during these episodes as this seemed to give relief.
+- He will have an outpatient sleep study as well to evaluate for
+sleep apnea.
+.
+## Parkinson's Diease. The patient was continued on his usual
+medication regimen.
+.
+## Cardiac. Patient with reported atrial fibrillation per EMS
+but none seen while in-house. It is doubtful that this was true
+a fib; it is more likely he had MAT secondary to respiratory
+distress.
+- PCP could consider outpatient holter monitor if deemed
+necessary.
+.
+## PPx: The patient was given a bowel regimen, tylenol as
+needed, an H2 blocker, and heparin SC.
+.
+## FEN: He tolerated a regular diet.
+.
+## Comm: Daughter: [**First Name8 (NamePattern2) 1439**] Christyanna Ottman test@mail.com
+.
+## Dispo: As the patient was stable hemodynamically without
+further evidence of respiratory distress, he was discharged to
+home from the MICU.
+
+Medications on Admission:
+sinemet 25/100mg tid (7am, 11am, 5pm)
+sinemet 50/200mg qid (7am, 11am, 5pm, 10pm)
+klonopin 0.25mg daily (7pm)
+seroquel 0.25mg UPMCE (11am, 10pm)
+citalopram 20mg daily
+ranitidine 150mg UPMCE
+mirapex 0.5/1/0.5/1mg
+
+
+Discharge Medications:
+1. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO every eight
+(8) hours as needed for anxiety or respiratory distress: Take
+one tablet as needed for respiratory difficulty or anxiety. If
+respiratory distress is not relieved, contact your doctor.
+Ottman:*90 Tablet(s)* Refills:*0*
+2. Pramipexole 0.25 mg Tablet Sig: Two (2) Tablet PO bid @ 7am
+and 5pm ().
+3. Pramipexole 1 mg Tablet Sig: One (1) Tablet PO bid @ 11am and
+10pm ().
+4. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+5. Citalopram 20 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)).
+6. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+7. Carbidopa-Levodopa 50-200 mg Tablet Sustained Release Sig:
+One (1) Tablet PO QID (4 times a day).
+8. Carbidopa-Levodopa 25-100 mg Tablet Sustained Release Sig:
+One (1) Tablet PO TID (3 times a day).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Dyspnea, resolved
+Parkinson's disease
+
+
+Discharge Condition:
+Afebrile, normotensive, comfortable on room air
+
+
+Discharge Instructions:
+Please take your medications as prescribed. Please call your
+doctor or return to the emergency room should you have any of
+the following symptoms: fever > 101, chills, difficulty
+breathing, passing out, dizziness, falls, abdominal pain, chest
+pain, or any other concerns.
+.
+You have been evaluated for your shortness of breath. We think
+that your shortness of breath and trouble breathing is related
+to your Parkinson's disease. You Parkinson's can give you the
+sensation of trouble breathing which can make you feel anxious.
+We are prescribing a medicine which will help with the anxiety.
+
+Followup Instructions:
+You should follow up with your primary care doctor, Dr. Ottman,
+within one week. Please call his office at test@mail.com to
+schedule this appointment.
+.
+You should also follow up with a lung specialist within 2014-03-25 00:00:00
+weeks. Please call test@mail.com to schedule an appointment with
+Dr. Juanetta Nuesca. You should have outpatient studies including a
+sleep study and pulmonary function testing.
+
+
+
+Completed by:2014-03-25 00:00:00

@@ -1,0 +1,317 @@
+Admission Date:  2013-07-20 00:00:00              Discharge Date:   2013-07-20 00:00:00
+
+Date of Birth: 1960-07-14 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Kanan Listerman
+Chief Complaint:
+Pt transferred from OSH for treatment of odontoid fracture
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mr. Bagshaw is a 79yo male with PMH significant for CHF, atrial
+fibrillation, and CRI who presents from OSH with odontoid
+fracture s/p mechanical fall. Per patient, he fell on Thursday
+after he tried to get up from his bed. He admits to hitting his
+head on the floor. He was brought to UPMCE UPMCE Hospital
+and was found to have an odontoid fracture. He was transferred
+to UPMCE for further work-up.
+.
+In the UPMCE ED his initial vitals were T 96.2 BP 81/60 AR 106
+RR 16 O2 sat 92% RA. He received Levaquiin 750mg IV x1 and was
+started on Levophed which was turned off upon transfer to the
+floor. He had repeat imaging which confirmed the fracture. He
+denies any fevers, chills, chest pain, SOB, dizziness, abdominal
+pain, or bloody/black tarry stools. He does admit to a
+productive cough over the past 3-4 weeks.
+.
+Of note, patient was recently admitted to UPMCE UPMCE
+Hospital from 2013-07-20 00:00:00 after he oresented with history of
+recurrent dizziness and his blood pressure was found to be in
+the low 70's. He underwent several studies including a Holtor
+monitor, echo, and PFTs. He was suggested to be discharged to
+rehab but the patient refused.
+
+
+Past Medical History:
+1)Hypertension
+2)Atrial fibrillation s/p ICD placement @ UPMCE
+3)CHF
+4)COPD
+5)Type 2 DM
+6)Chronic renal failure, secondary to tubulointerstitital
+nephritis
+7)Anemia
+8)Bilateral pleural effusions
+9)Hypothyroidism
+10)Hx of gastrointestinal bleed secondary to anticoagulation
+11)Hiatal hernia
+12)GERD
+13)hx of abnormal LFTs
+14)Osteoporosis
+15)Gout
+16)Hx of lead poisoning, job related
+
+
+Social History:
+Lives with nephew in Durango Bagshaw, MA. Bedbound at baseline. Denies
+current tobacco, alcohol, or IVDA.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Physical Exam
+vitals T 97.4 BP 90/47 AR RR 24 O2 sat 97%
+Gen: Patient lying in bed, does not appear to be in acute
+distress
+HEENT: MMM, cervical collar in place, unable to assess JVD
+Heart:
+Lungs: Course breath sounds anteriorly, scattered crackles
+posteriorly, decreased BSs at bases posteriorly R>L
+Abdomen: soft, NT/ND, +BS
+Extremities: 2013-07-20 00:00:00+ pitting edema bilaterally, 2+ DP/PT pulses
+
+
+Pertinent Results:
+2013-07-20 00:00:00 03:35AM   PT-13.1 PTT-28.0 INR(PT)-1.1
+2013-07-20 00:00:00 03:35AM   PLT COUNT-237
+2013-07-20 00:00:00 03:35AM   NEUTS-95* BANDS-0 LYMPHS-0 MONOS-5 EOS-0
+BASOS-0
+2013-07-20 00:00:00   WBC-25.4* HGB-12.7* HCT-37.0* MCV-92
+2013-07-20 00:00:00   CALCIUM-8.1* PHOSPHATE-3.9 MAGNESIUM-2.5
+2013-07-20 00:00:00    GLUCOSE-155* UREA N-109* CREAT-3.9* SODIUM-133
+POTASSIUM-4.4 CHLORIDE-97 TOTAL CO2-20*
+2013-07-20 00:00:00   TSH-5.5*
+2013-07-20 00:00:00   LACTATE-1.9
+2013-07-20 00:00:00  URINE  negative
+.
+Relevant Imaging:
+1)CT Head (2013-07-20 00:00:00): No acute intracranial hemorrhage. Abnormal
+orientation of the dens corresponds to dens fracture, visualized
+
+on the C-spine CT.
+.
+2)CT C-spine (2013-07-20 00:00:00): Type II dens fracture.  Posterior offset of
+C1 over C2 could indicate possible ligamentous injury.
+.
+OSH Imaging:
+1)CT C-spine (2013-07-20 00:00:00): Odontoid base fracture with 3mm posterior
+displacement of the odontoid tip.
+.
+2)CT Head (2013-07-20 00:00:00): No acute intracranial abnormality is present.
+There are small vessel ischemic changes of periventricular white
+matter and findings of atrophy.
+.
+3)Holtor monitor (2013-07-20 00:00:00): Patient appears to be in a-fib with V
+paced rhytm with occasional PVCs, rare ventricular couplets, no
+VT.
+.
+4)PFTs (2013-07-20 00:00:00): FEV1 markedly reduced. FEV1/FVC ratio is normal.
+No improvement with bronchodilators. Severe restrictive and
+obstructive lung defect.
+.
+5)ECHO (2013-07-20 00:00:00): Diffuse cardiomyopathy. EF~ 10-15%. Moderate
+RA/RV chamber size abnormality. No pericardial effusion. Severe
+mitral regurgitation and severe tricuspid regurgitation. Mild to
+moderate aortic imcompetence.
+.
+6)RUQ U/S (2013-07-20 00:00:00): No acute abnormalities.
+
+
+Brief Hospital Course:
+A/P: Mr. Bagshaw is a 79yo male with PMH as listed above who
+presents with odontoid fracture and hypotension. His admission
+was complicated by MRSA parotitis and MRSA bacteremia. He failed
+evaluation by speech and swallow secondary to aspiration. The
+patient made it clear to family and the medical team that he did
+not want any "tubes" or to be kept alive by a machine. He had an
+episode on 2013-07-20 00:00:00 when he desaturated to the low 80's with SBP
+in the 70s. He declined intubation and transfer to the MICU. His
+goals of care were advanced to CMO. Below is a brief summary of
+his hospital course by problem.
+.
+1)Hypotension: The patient was found to be hypotensive with
+SBPs~80 in ED. He was given 3L of NS and BP now in 90's. Per
+PCP's office and OSH records, baseline SBP is 80-90's. Of note,
+he was recently admitted to OSH with hypotension and dizziness.
+He had multi123 Any St.aging tests as described above, none of which
+were very revealing. Despite this, there was concern for
+possible underlying infection given his leukocytosis with WBC
+elevated to 25. He was found to have parotitis with cultures
+positive for MRSA. He also had 2013-07-20 00:00:00 positive blood cultures for
+MRSA.
+.
+#) MRSA bacteremia/parotitis: As above. He was started on
+vancomycin. He received 1mg IV vancomycin x 2 on 2013-07-20 00:00:00 due to
+communication errors (dose should have been x1) and his dose was
+elevated on 2013-07-20 00:00:00 to 150. Given his depressed renal function and
+decreased ability to clear the vancomycin, he will likely have
+the antibiotic in his system at a supra/therapeutic level for
+several days. His vancomycin level on discharge was 18.3. To
+receive one dose tonight (2013-07-20 00:00:00) and one final dose on 2013-07-20 00:00:00.
+.
+2)Odontoid fracture: Patient found to have odontoid fracture as
+a result of a mechanical fall. He was transferred to UPMCE for
+further management. He was seen by Dr. Bagshaw (ortho-spine) who
+did not feel that the patient is candidate for halo given his
+age and morbidity associated with this procedure. Therefore, it
+was decided to treat conservatively with cervical collar. When
+goals of care were changed to CMO, the patient requested to have
+the collar removed. He is fully aware of the potential risks
+associated with this.
+.
+3)Bilateral pleural effusions: Patient has history of bilateral
+pleural effusions since 2013-07-20 00:00:00 as per OSH records. He presented
+on this admission with predominantly R sided effusion, which is
+likely loculated on his CXR. He admits to productive cough over
+past few weeks but denies any fevers, chills, or other systemic
+symptoms.  It was thought most likely secondary to CHF and no
+further work-up was pursued.
+.
+4)Chronic renal insufficiency: Patient is known to have renal
+insufficiency, thought to be secondary to tubulointerstitial
+nephritis and longstanding hypertension. Per OSH reports, he is
+refusing dialysis. He confirmed his decision on admission.
+.
+5)Hyponatremia/Hypernatremia: He presented with Na~131 on
+admission. Baseline Na per OSH records is in mid-high 130's.
+Patient appeared volume overloaded on physical exam, and his
+hyponatremia was thought most likely secondary to underlying
+CHF. Could also be abnormal in light of CRI. Over the course of
+admission, the patient became hypernatremic, likely secondary to
+volume de123 Any St.n due to decreased PO intake. He was repleted
+gently with IVF given his low EF and Na was slowly trending back
+down.
+.
+6)Anion gap metabolic acidosis: He also presented with an
+elevated anion gap of 17. Uremia is the most likely cause given
+elevated creatinine. He had a normal lactate.
+.
+7)CHF: Patient known to have dilated cardiomyopathy. Recent echo
+reveals EF~10-15%. He is on diuretics as outpatient. There is
+also evidence of volume overload which is suggested by bilateral
+LE edema. His recent complaint of dizziness and chronic
+hypotension is likely due to underlying CHF and very poor
+cardiac output. Home indapanide was held for hypotension.
+.
+8)Atrial fibrillation: Patient in sinus rhythm on admission. Per
+OSH records he self converts in and out of AF. s/p ICD placement
+at UPMCE. He has been anticoagulated in the past but was stopped
+secondary to severe bleeding. Well rate controlled. Patient on
+Amiodarone as outpatient. Amiodarone was continued.
+.
+9)COPD: Per recent PFTs has severe restrictive and obstructive
+disease at baseline. He is on several inhalers as an outpatient.
+He has excellent oxygen saturations on physical exam. He was
+treated here with atrovent nebs.
+.
+10)Type 2 DM: Last hemoglobin A1C ~6.2. Diet controlled at home.
+He was controlled by a humalog insulin sliding scale here.
+.
+11)Hypothyroidism: Patient on Levoxyl as outpatient. Per OSH
+records he has been found to be subtherapeutic. He was continued
+on levothyroxine at 50mcg daily.
+.
+12)GERD/hiatal hernia: He was continued on a PPI, as per his
+outpatient regimen.
+.
+13) Comfort care: Goals of care were advanced to comfort
+measures only. His medication regimen was adjusted accordingly
+but all PO meds and antibiotics continued. ICD was deactivated
+by EP. He is written for PO liquid morphine, though he continues
+to deny symptoms of pain. He is being transferred to [**First Name4 (NamePattern1) 6030**]
+Bagshaw for hospice care.
+
+Medications on Admission:
+Medications at home:
+Amiodarone 400mg PO BID
+Allopurinol 100mg PO daily
+Levoxyl 0.05mg PO daily
+Indapamide 2.5mg PO daily
+Omeprazole 20mg PO daily
+Lipitor 80mg PO daily
+Spiriva
+
+
+Discharge Medications:
+1. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+Inhalation every 4-6 hours as needed.
+2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed.
+4. Scopolamine Base 1.5 mg Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal every seventy-two (72) hours as needed for cough.
+5. Morphine Concentrate 20 mg/mL Solution Sig: 1-5 mg PO Q2H
+(every 2 hours) as needed for pain.
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain/fever.
+7. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2)
+ML Intravenous DAILY (Daily) as needed.
+8. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+9. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO once a
+day.
+10. Vancomycin 1,000 mg Recon Soln Sig: One (1) gram Intravenous
+q3 days for 2 doses: please give one dose tonight (2013-07-20 00:00:00) and one
+dose on 2013-07-20 00:00:00.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary
+1) Odontoid fracture
+2) Failure to thrive
+.
+Secondary
+1) Hypertension
+2) Atrial fibrillation
+3) CHF
+4) Type II Diabetes
+5) Chronic kidney disease secondary to tubulointersitial
+nephritis
+6) Anemia
+7) Hypothyroidism
+8) GERD
+9) Osteoporosis
+
+
+Discharge Condition:
+fair
+
+
+Discharge Instructions:
+You were admitted to the hospital for a neck fracture after a
+mechanical fall. You were evaluated by orthopedic surgery who
+felt that you were not a surgical candidate and recommended a
+cervical collar for stabilization of your neck. It was also
+noted during your hospitalization that you have parotitis that
+is culture positive for MRSA. You also had positive blood
+cultures with 1/4 bottles growing MRSA. You were started on
+vancomycin for this. You were evaluated by speech and swallow
+therapists who determined that you are at high risk of
+aspirating food. After discussion with you and your nephew the
+decision was made to transfer goals of care to keeping you
+comfortable. You will be discharged today to a medical facility
+closer to your family for hospice care.
+
+Followup Instructions:
+n/a
+
+
+                             Durango Bagshaw MD 32754
+

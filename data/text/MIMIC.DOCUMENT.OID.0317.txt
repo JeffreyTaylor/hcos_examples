@@ -1,0 +1,396 @@
+Admission Date:  2014-08-26 00:00:00              Discharge Date:   2014-08-26 00:00:00
+
+Date of Birth: 1952-08-26 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Pneumovax 23
+
+Attending:Kristiann Wheelen
+Chief Complaint:
+c diff colitis
+
+Major [**First Name3 (LF) 2900**] or Invasive Procedure:
+none
+
+History of Present Illness:
+HPI: The patient is a 66-year-old male who is known to have C.
+difficile colitis and was admitted to the Gold surgery service
+in
+3/2014-08-26 00:00:00. He was referred to UPMCE for weakness, rigidity,
+lethargy, decreased level of interaction, and anorexia. About a
+week ago, he began having diarrhea. He has been on metronidazole
+500mg po BID for several weeks.
+
+In the ED, his initial vital signs were 97.3 129 146/93 18 99RA.
+His heart rate stabilized to 80-90s after 2 liters of IVF. At
+around 23:30, he became acutely hypotensive to SBP of 80s-90s,
+maintaining his heart rate in the 90s. ICU bed was arranged for
+close monitoring.
+
+
+Past Medical History:
+- Paroxysmal Atrial Fibrillation
+- History of C diff colitis
+- Bipolar Affective Disorder
+- History of resolved hepatitis B
+- History of rheumatic heart disease
+- History of right MCA aneurysm clipped in 2014-08-26 00:00:00 at UPMCE
+- History of pernicious anemia
+- Gastroesophageal reflux disease
+
+Social History:
+He lives with his wife.  Questionable history of alcohol abuse
+(did abuse alcohol >20 years ago).  He has not smoked for one
+month but 123 Any St.usly has a 40 pack year history.  123 Any St.usly on
+2L O2 at home but not prior to this hospitalization.
+
+
+Family History:
+His father had lung cancer and his mother had congestive heart
+failure.
+
+Physical Exam:
+PHYSICAL EXAM on admission:
+     97.3 129->90 146/93->80/50 18 99RA
+Gen: thin male, NAD, no icterus, expressive aphasia, but A&0 x 3
+HEENT: NC/AT, EOMI, PERRLA bilat., dry MM, without cervical LAD
+on my exam
+Cor: RRR without m/g/r, no JVD, no bruits
+Lungs: CTA bilat.
+Sabillon: +BS, soft, distended with tympany, NT, no masses, no
+hernias
+Ext: cold hands and feet, no edema, palpable pulses
+
+PE: at discharge
+Gen: grey, pale, mask faces, tremmer (pin wheel), expressive
+aphasia, but AOx3
+HEENT: PERRL, EMOI
+COr: RRR
+Lungs: CTA
+Abd: +BS, still distended but improved, not "soft"
+skin: calor and rubo s/p cellulitis from back spreading around
+to front bilaterally, improved with antibiotics.
+decubitus ulcer stage 3 maybe 4.
+ext: cold, no edema
+
+Pertinent Results:
+2014-08-26 00:00:00 02:41PM   WBC-14.6*# RBC-4.20*# HGB-13.6*# HCT-41.2#
+MCV-98 MCH-32.4* MCHC-33.0 RDW-15.9*
+2014-08-26 00:00:00 02:41PM   NEUTS-66 BANDS-10* LYMPHS-14* MONOS-7 EOS-0
+BASOS-0 ATYPS-2* METAS-0 MYELOS-1*
+2014-08-26 00:00:00 02:41PM   LIPASE-21
+2014-08-26 00:00:00 02:41PM   ALT(SGPT)-9 AST(SGOT)-30 ALK PHOS-201* TOT
+BILI-1.3
+2014-08-26 00:00:00 02:41PM   GLUCOSE-138* UREA N-22* CREAT-0.9 SODIUM-137
+POTASSIUM-3.6 CHLORIDE-98 TOTAL CO2-27 ANION GAP-16
+
+2014-08-26 00:00:00 Abdominal CT:IMPRESSION: Wall thickening in the
+descending and sigmoid colon, including
+the rectum with mesenteric stranding consistent with colitis.
+Interval
+increase in large amount of free intra- abdominal and mesenteric
+fluid.
+
+2014-08-26 00:00:00 Renal Ultrasound :
+CONCLUSION: No evidence of renal abnormalities. Large volume of
+ascites
+noted.
+
+2014-08-26 00:00:00 Abdominal CT: IMPRESSION:
+1. Increased size of bilateral simple pleural effusions with
+increased
+bibasilar dependent atelectatic changes.
+2. Large volume abdominal pelvic ascites which appears grossly
+stable.
+3. Evaluation of bowel loops is limited by lack of IV and oral
+contrast.
+Given this limitation, there is no evidence for obstruction or
+bowel
+perforation.
+4. Shrunken liver with nodular contour. Status post
+cholecystectomy.
+5. 4mm left pulmonary nodule. Per Fleichner society guidelines,
+recommend
+2014-08-26 00:00:00 month follow up chest CT if patient has risk factors for
+pulmonary
+malignancy.
+
+2014-08-26 00:00:00 Abdominal CT:
+IMPRESSION:
+  1. Unchanged bilateral pleural effusions with associated
+atelectasis.
+
+2. Nodular, cirrhotic liver with no focal lesions on this
+single-phase study.
+There is again moderate ascites, with large gastric varices.
+
+3. Normal appearance of intra-abdominal loops of small and large
+bowel. No
+evidence for colitis or enteritis.
+
+4. Diffuse superficial soft tissue induration, consistent with
+cellulitis.
+There is no air in the soft tissues to suggest a more aggressive
+process such
+as necrotizing fasciitis, although this cannot be excluded by
+imaging.
+
+
+
+
+Brief Hospital Course:
+Mr. Sabillon was admitted to the intensive care unit and
+underwent vigorous fluid resuscitation and maintained on IV
+Flagyl and PO Vancomycin.  He was seen by the infectious disease
+service for further input in the treatment of his prolonged C
+Diff colitis and they recommended continued treatment with
+Flagyl and Vancomycin plus stopping any narcotics as he was at a
+high risk of developing toxic megacolon.
+His initial blood and urine cultures were negative and stool for
+C Diff was positive.
+His blood pressure improved with fluids and he did not require
+any pressor support.
+Vancomycin retention enemas were added for persistent diarrhea
+and he underwent serial abdominal CT's to assess any colonic
+changes. His abdominal exam over 3-4 days showed mild lower
+abdominal tenderness and mild distention therefore continued
+conservative non operative treatment with antibiotics was
+planned.
+
+Due to his prolonged period of poor nutrition/NPO,
+hyperalimentation was started on 2014-08-26 00:00:00 and eventually he had a
+PICC line placed in the left antecubital on 2014-08-26 00:00:00 for TPN and
+antibiotics.
+
+Of note, Mr. Sabillon platelet count gradually decreased since
+his admission from 130K to a low of 49K. His HIT was negative
+and SRA is still pending.  The hematology service was consulted
+and felt that it was multifactorial including secondary to
+cirrhosis, sepsis and anemia of chronic disease.  Heparin was
+not contraindicated and over the course of his hospitalization
+his platelet count gradually increased to the 90K range.
+
+Transfer to the Sabillon floor occured on 2014-08-26 00:00:00 and Lasix was
+started to try to help with fluid mobilization.  His PE showed
+2014-08-26 00:00:00+ peripheral edema as well as scrotal edema and some ascites.
+ He was treated with Lasix on a prn basis and his BUN/Cr
+remained stable (22/0.5).
+
+A superficial abdominal cellulitis was noted on 2014-08-26 00:00:00 beginning
+on both flank areas and extending to the lower abdomen with no
+connection to his sacral decubitus. He was started on broad
+coverage antibiotics including Vancomycin and Zosyn without
+improvement.  He was subsequently changed to Daptomycin,
+Ciprofloxicin and Flagyl with some improvement.  Due to the
+addition of broad spectrum antibiotics his oral Vancomycin was
+increased to QID.  He had no evidence of diarrhea and no change
+in his abdominal exam. Recommendations from the infectious
+disease service recommends cipro/flagyl/ dapto until 2014-08-26 00:00:00 (10
+days total).
+
+Pt c diff colitis has responded well to PO vanco. Pt will
+continue on 125 UPMCE until 2014-08-26 00:00:00 when Kristiann Wheelen 125 TIDx7d, 125
+BIDx7d, 125 qdx7d, 125 qodx7d, 125 q3dx14d.
+
+The Neurology service was consulted during this admission for
+evaluation of his bilateral hand tremors which seemed a bit
+worse.  Although Parkinson's disease could not be ruled out his
+current situation precluded a definite assessment and they
+recommended an out patient follow up with Dr.Jamayia.  His
+Depakote continues at his home dose with a level of 53.
+
+A speech and swallow evaluation was also done to assess the
+ongoing question od possible aspiration.  His baseline diet was
+ground solids however over the last week he was tolerating
+nectar thick liquids and pureed with no evidense of aspirating.
+He remains on TPN while his diet is being slowly advanced.
+Continue on nector thickness liquids and TPN until cleared to
+advance, with one to one supervision.
+
+Mr Jamayia Sabillon also impaired skin integrity on his R buttocks first
+seen 2014-08-26 00:00:00
+
+2014-08-26 00:00:00 Assessment by 2014-08-26 00:00:00 nurse 2014-08-26 00:00:00: Sacral/coccygeal
+unstageable pressure ulcer that is a DTI. Ulcer has evidence of
+healing with necrotic area measuring 2 cm x 1 cm but affected
+area measures 5 x 2 with ulcer on (R) buttock of 1 cm and more
+linear ulcers on (L).Drainage is sero sang moderate amount. ALSO
+there are superficial erosions on soft tissue of buttocks that
+are caused by moisture and fungal rash.The area causes pain. ID
+recommended Cipro/flagyl / Dapso treatment and standard 2014-08-26 00:00:00
+care.
+
+
+
+
+Medications on Admission:
+Zantac 150 mg po qd
+Seroquel 25 mg po qhs
+Heparin 5000u sc bid
+Flagyl 500 mg po bid
+Nystatin i po qid
+Depakote 1000 mg po qhs
+Albuterol neb inh q6h prn
+MVI qd
+digoxin 0.125mg po qd
+flecainide 50mg po q12h
+ASA 325mg po qd
+
+
+Discharge Medications:
+1. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+2. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for SOB/wheeze/cough.
+3. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as
+needed for SOB/wheeze/cough.
+4. Divalproex 500 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO QHS (once a day (at bedtime)).
+
+5. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Flecainide 50 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours).
+7. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical UPMCE
+(2 times a day) as needed for rash.
+9. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed for oral thrush.
+10. Vancomycin 125 mg Capsule Sig: One (1) liquid PO QID (4
+times a day) for 2 months: Pt should be on 125 QID until 2014-08-26 00:00:00,
+then taper to 125 qdx7d, 125 qodx7d, 125 q3dx14d.
+Disp:*240 liquid* Refills:*0*
+11. Metoprolol Tartrate 5 mg/5 mL Solution Sig: One (1)
+Intravenous Q6H (every 6 hours).
+12. Metronidazole in NaCl (Iso-os) 500 mg/100 mL Piggyback Sig:
+One (1)  Intravenous Q8H (every 8 hours): Continue till 2014-08-26 00:00:00.
+13. Ciprofloxacin in D5W 400 mg/200 mL Piggyback Sig: One (1)
+Intravenous Q12H (every 12 hours): Continue till 2014-08-26 00:00:00.
+14. Daptomycin 500 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous Q24H (every 24 hours): Continue until 2014-08-26 00:00:00.
+15. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain.
+16. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR.
+17. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: One (1) ML
+Intravenous PRN (as needed) as needed for line flush.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE & Rehab Center - UPMCE
+
+Discharge Diagnosis:
+c diff colitis.
+Please continue on antibiotics:
+continute PO vanco 125 four times a day until 2014-08-26 00:00:00 when Kristiann Wheelen
+125 three times a day x7days, 125 twice a day x7days, 125 per
+day x7days, 125 every other day x7days, 125 every third day
+x14days.
+
+Cellulitis
+ciprofloxacin / flagyl/ dapto until 2014-08-26 00:00:00
+
+Nutrician, 1 to 1 feeding to prevent aspiration on nectar
+thickened liquids. Please continue TPN until safe to advance
+diet
+Continue on nector thickness liquids and TPN until cleared to
+advance
+
+
+Discharge Condition:
+improving
+
+
+Discharge Instructions:
+c diff colitis.
+Please continue on antibiotics:
+continute PO vanco 125 four times a day until 2014-08-26 00:00:00 when Kristiann Wheelen
+125 three times a day x7days, 125 twice a day x7days, 125 per
+day x7days, 125 every other day x7days, 125 every third day
+x14days.
+
+Cellulitis
+ciprofloxacin / flagyl/ dapto until 2014-08-26 00:00:00
+
+Nutrician, 1 to 1 feeding to prevent aspiration on nectar
+thickened liquids. Please continue TPN until safe to advance
+diet
+
+Ulcer: Continue pressure relief measures per pressure
+ulcer guidelines. Patient is on a 1st Step mattress
+Continue with current 2014-08-26 00:00:00 care as per [** Location **]us note.
+Commercial 2014-08-26 00:00:00 cleanser cleanse  all open wounds. Pat the
+tissue dry. Apply moisture barrier  antifungal ointment Apply a
+piece of Aquacel AG to ulcer
+Apply 1 pack of 4 x 4 gauze. Secure with 1 piece of pink hytape
+across the center.
+
+Do not cover the superficial areas on lower buttocks with gauze.
+Treat with Miconazole powder and Criticaid clear anti fungal 3 x
+a day.
+
+Suspend heels off the bed with pillows under his calf.If these
+do
+not stay in place then order Waffle boots from distribution.
+Notify MD Jamayia Sabillon care nurse Jamayia Sabillon or skin deteriorates.
+
+You have had c diff colitis.
+Please continue on antibiotics, cipro/flagyl/ dapto until 2014-08-26 00:00:00
+continute PO vanco 125 UPMCE until 2014-08-26 00:00:00 when Kristiann Wheelen 125 TIDx7d,
+125 BIDx7d, 125 qdx7d, 125 qodx7d, 125 q3dx14d.
+Continue on nector thickness liquids and TPN until cleared to
+advance
+
+Please call your doctor or nurse practitioner or return to the
+Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or
+tightness.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your
+medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea,
+or other reasons. Signs of dehydration include dry mouth, rapid
+heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a
+bowel movement.
+
+*You experience burning when you urinate, have blood in your
+urine, or experience a discharge.
+
+*Your pain in not improving within 8-12 hours or is not gone
+within 24 hours. Call or return immediately if your pain is
+getting worse or changes location or moving to your chest or
+back.
+
+*You have shaking chills, or fever greater than 101.5 degrees
+Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern
+you.
+
+
+Followup Instructions:
+
+
+Provider: Jamayia Sabillon,Jamayia Kristiann Wheelen Sabillon SPECIALTIES CC-3 (NHB)
+Phone:test@mail.com Date/Time:2014-08-26 00:00:00 3:45
+
+Provider: Jamayia Sabillon. Jamayia Sabillon & [**Doctor Last Name **] Phone:test@mail.com
+Date/Time:2014-08-26 00:00:00 1:00
+
+Provider: Kristiann Wheelen, M.D. Phone:test@mail.com
+Date/Time:2014-08-26 00:00:00 2:40
+
+
+

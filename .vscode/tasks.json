@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build hcos.getting_started",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/netcore/hcos.getting_started/hcos.getting_started.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

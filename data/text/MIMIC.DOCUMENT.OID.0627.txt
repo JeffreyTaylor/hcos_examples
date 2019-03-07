@@ -1,0 +1,385 @@
+Admission Date:  2007-04-02 00:00:00              Discharge Date:   2007-04-02 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Dalonte Seraile
+Chief Complaint:
+hypoglycemia
+
+Major Surgical or Invasive Procedure:
+none.
+
+History of Present Illness:
+Ms Albor is an 88 year old Cantonese-dialect speaking female, who
+presents from UPMCE Center (nursing home) for
+hypoglycemia.
+
+Around noon on day of admission, staff at her nursing home
+noticed she had become less responsive and was unable to move
+her extremities.  Finger stick was 96. She had just been
+administered SC heparin for DVT prophylaxis.  Given concern for
+a stroke, paramedics were called.  When they arrived, her
+glucose was apparently low and glucagon was administered.  An IO
+was placed in the left leg and an amp of D50 was administered.
+She was brought to the ED, where blood sugar was noted to be 16.
+ She received another amp of D50.  Glucose improved transiently
+but again came down to 40.  Intravenous dextrose (D10W) was
+started.  She had improvement, but several additional
+hypoglycemic episodes.
+
+Her white count was noted to be 15,000, and a lactate was 4.0.
+Her blood pressure remained normotensive.  Her temperature was
+99.6.  She had a CT head and abdomen/pelvis which revealed no
+infectious focus.  She does have ulcers of dorsum of both lower
+extremities which were treated with keflex 2 weeks prior; these
+are dry and non-seeping.  Recently she also had a diagnosis of
+DVT after a hospitalization in 2007-04-02 00:00:00 for left hip fracture,
+for which an ORIF was performed.  She was started on coumadin
+and completed a course of coumadin on 2007-04-02 00:00:00.  Since then, she
+has been transitioned to SC heparin for prophylaxis.  There is
+no history of hypoglycemia prior to this episode; she has no
+known history of diabetes; there is no reason to suspect
+surreptious insulin use.  She does not use Chinese herbal
+medications.  She denies dry skin, fevers, changes in bowel
+movements.  She has lost 10 lbs of weight while at the nursing
+home following the hip fracture and surgery.  Review of systems
+otherwise negative.
+
+Endocrine was consulted who recommended several lab tests,
+include C-peptide, sulfonylurea level, beta-hydroxybutyrate.
+
+She was admitted to the MICU given her recurrent hypoglycemia
+for management and further workup.  At time of transfer, her
+vitals revealed a HR of 88, a temp of 99.6, SaO2 of 98% on RA.
+
+
+Past Medical History:
+Dementia
+Hypertension
+GERD
+Osteoporosis
+Ulcers on Dorsi of feet
+left hip ORIF 2007-04-02 00:00:00 c/b DVT
+
+
+Social History:
+Up until 2007-04-02 00:00:00, lived independantly in UPMCE near
+123 Any St. Common where she managed her own affairs - there was an
+aide that visited her 1 hour / day.  She fractured her hip in
+2007-04-02 00:00:00 of this year requiring hospital admission; following ORIF
+she developed a DVT for which she required anticoagulation.  She
+was transitioned to UPMCE (nursing home) for the
+last two months given her fracture.  She has a grand-daughter
+(Hannalise Albor) who accompanies her today.  Her daughter is the
+health-care proxy who lives in the area.  She is Cantonese and
+speaks a Cantonese dialect.  She denies smoking or drinking.
+
+
+Family History:
+NC
+
+
+Physical Exam:
+On admission:
+HR 85, BP 150/70, RR 12, 98% RA, RR 12
+In General, she is an active, alert Chinese female, who is
+oriented to person, but is unaware why she is in the hospital.
+She has an underlying diagnosis of dementia, but is able to
+answer questions pleasantly and appropriately via her
+grand-daughter, who interprets.  Occasionally she is agitated.
+Cardiovascularly, she has a normal JVP, with a normal rate and
+regular rhythm.
+Pulmonary exam reveals clear lungs bilaterally.
+Abdomen is soft, nontender, and nondistended with normoactivel
+sounds and no palpable masses.
+Extremity exam is remarkable for subacute dorsal ulcers on both
+feet that are black and non-seeping, and dry.
+
+Discharge PE:
+PE:
+VS: 98.7 131/83 (110-130/74-82) 79 (79-86) 20 98RA FSG 106-148
+General: well appearing, eldery Chinese female
+CV: SEM loudest at USB, RRR, S1 S2
+lungs: clear to auscultation b/l, good air movement, no wheezes,
+rhonchi, crackles
+abdomen: soft, nontender, nondistended, +BS
+extremities: dry LE, no LE edema, 2+ DP pulses
+feet: dorsal ulcers on both feet; black scab now 123 Any St.g off
+with remnants of collagenase seen, no purulence noted
+Neuro: moving all extremities spontaneously, able to follow
+commands
+
+
+Pertinent Results:
+Admission labs:
+
+2007-04-02 00:00:00 01:40PM BLOOD WBC-14.6* RBC-3.87* Hgb-11.5* Hct-36.4
+MCV-94 MCH-29.6 MCHC-31.5 RDW-14.1 Plt Ct-461*
+2007-04-02 00:00:00 01:40PM BLOOD Neuts-90.8* Lymphs-5.4* Monos-3.6 Eos-0.2
+Baso-0.1
+2007-04-02 00:00:00 01:40PM BLOOD Plt Ct-461*
+2007-04-02 00:00:00 12:21AM BLOOD ESR-95*
+2007-04-02 00:00:00 03:41AM BLOOD ESR-85*
+2007-04-02 00:00:00 01:40PM BLOOD Glucose-99 UreaN-18 Creat-0.6 Na-142
+K-4.2 Cl-106 HCO3-23 AnGap-17
+2007-04-02 00:00:00 01:40PM BLOOD ALT-19 AST-30 AlkPhos-124* TotBili-0.3
+2007-04-02 00:00:00 01:40PM BLOOD Albumin-3.9 Calcium-9.6 Phos-3.4 Mg-2.2
+2007-04-02 00:00:00 12:21AM BLOOD %HbA1c-5.5 eAG-111
+2007-04-02 00:00:00 12:21AM BLOOD TSH-0.16*
+2007-04-02 00:00:00 03:41AM BLOOD Free T4-1.3
+2007-04-02 00:00:00 12:21AM BLOOD Cortsol-9.9
+2007-04-02 00:00:00 03:41AM BLOOD CRP-54.7*
+
+Discharge labs:
+
+2007-04-02 00:00:00 07:50AM BLOOD WBC-6.4 RBC-4.33 Hgb-12.6 Hct-41.4 MCV-95
+MCH-29.1 MCHC-30.5* RDW-14.4 Plt Ct-447*
+2007-04-02 00:00:00 07:50AM BLOOD PT-13.3* PTT-31.2 INR(PT)-1.2*
+2007-04-02 00:00:00 07:50AM BLOOD Glucose-132* UreaN-17 Creat-1.1 Na-139
+K-4.6 Cl-108 HCO3-19* AnGap-17
+2007-04-02 00:00:00 07:50AM BLOOD Calcium-9.5 Phos-3.9 Mg-2.2
+
+2007-04-02 00:00:00 03:41AM BLOOD PROINSULIN-PND
+2007-04-02 00:00:00 07:20PM BLOOD C-PEPTIDE-PND
+2007-04-02 00:00:00 07:20PM BLOOD SULFONAMIDES-PND
+2007-04-02 00:00:00 07:20PM BLOOD INSULIN-PND
+2007-04-02 00:00:00 07:20PM BLOOD BETA-HYDROXYBUTYRATE-Test Name
+
+Imaging:
+Plain films of feet:
+FINDINGS: AP, lateral, and oblique views of the feet are
+obtained. There are mild degenerative changes. There are no bony
+erosions to suggest
+osteomyelitis or periostitis. However, bone scan or MRI would be
+more
+sensitive for this finding if clinically indicated.
+
+Studies:
+CT head
+IMPRESSION: No evidence of acute intracranial process.
+
+CT abd/pelvis:
+IMPRESSION:
+1. No evidence of acute intra-abdominal process based on this
+somewhat
+limited exam.
+2. Significant fecal loading extending all the way to the
+rectum.
+3. Compression fracture of L3 of unknown age.
+
+CT abdomen/pelvis:
+IMPRESSION:
+1. No evidence of acute intra-abdominal process based on this
+somewhat
+limited exam.
+2. Significant fecal loading extending all the way to the
+rectum.
+3. Compression fracture of L3 of unknown age.
+
+CT head:
+IMPRESSION: No evidence of acute intracranial process.
+
+Plain films pelvis:
+IMPRESSION: Status post ORIF of a left proximal femoral fracture
+without
+evidence of hardware complications. No new acute fracture noted.
+
+
+CXR:
+IMPRESSION: Mild retrocardiac atelectasis.
+
+Brief Hospital Course:
+88 year old Chinese female with acute, recurrent hypoglycemia in
+the setting of leukocytosis, lactatemia, low grade temperatures,
+and potential infectious focus.
+
+# Hypoglycemia: Pt presented from nursing home with severe
+hypoglycemia to 10s.  Despite several doses of D50 blood sugars
+remained 40s-90s at ED.  She does not have history of DM, does
+not take insulin or hypoglycemic agents, and does not have
+history of hypoglycemia.  She was started on D10 drip which was
+continued in ICU untiil sugars were consistently in 100s.  Drip
+was stopped and sugars remained in normal range.  She was
+tolerating po without difficulty.  Endocrine was curbsided in ED
+who recommended sending pro-insulin, sulfonylurea, C-peptide,
+beta-hydroxybutyrate levels.  TSH and cortisol were checked
+given concern for panhypopituitarism.  AM cortisol was wnl; TSH
+was low but free T4 within normal range.  There was some
+suspicion that she may have accidentally been administered
+insulin at rehab, which the rehab denied. Possible infectious
+causes were investigated but CXR and U/A were unremarkable.
+Blood cultures were sent, which are both no growth to date.  EKG
+was unremarkable.  Only possible source of infection were ulcers
+on dorsum of both feet which were treated per below.
+
+While on the floor, the patient's blood sugars were checked
+every four hours initially, then spaced out to q8h.  The patient
+maintained her sugars between 85-200.  After discharge, it was
+found that the patient's c-peptide levels were elevated.  The
+patient's grand daughter and the patient's PCP were both
+Hannalise Albor, as there is concern that the patient may have an
+insulinoma.  The patient was scheduled for an appt to see an
+endocrinologist at Albor on 2007-04-02 00:00:00.  The patient's grand
+daughter was cautioned re: the signs and symptoms of
+hypogylcemia and instructed to give the patient juice and
+immediately bring her to the ED for evaluation.
+
+# leukocytosis:  The patient presented with an elevated white
+count and lactate; an ifectious work-up was negative, except for
+the ulcers on her feet b/l (see below).  It was thought that her
+white count could have been due to hypoglycemic state.  She was
+ultimately started on bactrim/keflex for presumed cellulitis.
+However, on transfer to the floor, the decision was made to d/c
+antibiotics, as the patient remained afebrile.  The patient is
+also s/p ORIF--> there was a thought of posisbly having infected
+hardware in the setting of elevated CRP/ES; however, plain film
+of the hip was negative for any acute hardware complications.
+Her CRP and ESR should be repeated as an outpatient.
+
+# Cellulitis: Pt had an ulcer on dorsum of each feet with dried
+blood; no active purulent draiange.  While in the MICU, it was
+noted that the surrounding skin was erythematous and warm to
+touch.  After lactate had normalized, she was started on bactrim
+and keflex for cellulitis.  Inflammatory markers (ESR, CRP) were
+checked which were elevated.
+
+While on the floor, the patient was seen by podiatry who
+recommended wet to dry dressing for the R ulcer, and collagenase
+for  ulcer.  A plain film of her feet were both negative for
+osteomyelitis or any fractures.  Because the patient was
+afebrile with white count normalizing, the patient's antibiotics
+were discontinued.  It was thought that her initial elevated
+white count could be a stress response to the state of
+hypoglycemia.
+.
+# foot ulcers: While in the MICU, it was initially thought there
+was some surrounding erythema that could be consistent with
+cellulitis around each foot ulcer, and the patient was started
+on Bactrim/Keflex.   On the floor, the patent had plain films of
+her feet which were normal.  Podiatry was consulted and
+recommended collagenase to the L ulcer and wet to dry dressings
+to the R foot ulcer.  Ultimately, the patient's Bactrim/Keflex
+were both stopped.
+.
+# Dementia:  The patient was continued on her home exelon.
+.
+# Osteoporosis:  The patient is s/p hip fracture complicated by
+DVT s/p 3 months of coumadin.  The patient was continued on
+heparin SC while in patient, as well as calcium and Vitamin D.
+
+# HTN:  The patient is on lasix at home.  While in house the
+patient's Lasix was held.  She was instructed to restart her
+Lasix as an outpatient.  This should also be followed up as an
+outpatient.
+
+Transitional Issues:
+- The patient was found to have an elevated C-peptide, which
+suggests that there was endogenous insulin secretion; she will
+have to have an endocrine evaluation, including imaging, to
+assess for an insulinoma. The patient's PCP was Hannalise Albor with
+this information, as was the patient's grand daughter Hannalise Albor.
+The patient was made a follow-up appt with Albor for further
+work up of this insulinoma on Thursday, 2007-04-02 00:00:00.  The patient's
+granddaughter was also cautioned about the signs/symptoms of
+hypoglycemic events and that fast administration of sugar is
+necessary, as well as immediately calling an ambulance and
+bringing the patient to the emergency room for evaluation.
+
+- The patient will need to have a CRP/ESR repeated as an
+outpatient.
+
+- The patient is not currently on a bisphosphonate in the
+setting of her recent hip fracture.  This is something that
+should be followed up as an outpatient.
+
+Medications on Admission:
+Enlive 198 ml UPMCE
+heparin SC TID
+calcium with Vit D 600mg/200IU
+docusate 100 mg UPMCE
+rivastigmine 3 mg UPMCE
+senna 2 tabs UPMCE
+oxycodone 10 mg TID
+lasix 20 mg daily
+
+
+Discharge Medications:
+1. Enlive Liquid 0.037-1.04 gram-kcal/mL Liquid Sig: One Hundred
+Ninety Eight (198) mL PO twice a day.
+2. Caltrate 600 + D 600 mg(1,500mg) -400 unit Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO once a day.
+3. docusate sodium 100 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+4. rivastigmine 3 mg Capsule Sig: One (1) Capsule PO twice a
+day.
+5. senna 8.6 mg Tablet Sig: Two (2) Tablet PO twice a day.
+6. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+7. collagenase clostridium hist. 250 unit/g Ointment Sig: One
+(1) Appl Topical DAILY (Daily): please apply to L foot ulcer.
+Disp:*1 tube* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+primary diagnosis:
+hypoglycemia
+dementia
+
+secondary diagnosis:
+status post hip fracture
+history of deep vein thrombosis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. Albor,
+
+It was a pleasure taking care of you while you were hospitalized
+at UPMCE.  You were admitted to the hospital because you were
+found to have a low blood sugar.  We gave you fluids to help
+increase the levels of sugar in your blood.
+
+We also initially gave you some antibiotics for the ulcers on
+your feet.  However, because you were doing well, we decided to
+stop these antibiotics.
+
+The physical therapists also evaluated you and recommended
+twenty four hour care at home.
+
+We made the following changes to your medications:
+START collagenase once daily to left foot ulcer
+STOP oxycodone for pain control
+
+Please follow up with both your primary care doctor and the feet
+specialists (podiatrists).  Please see below for your
+appointments.
+
+Followup Instructions:
+Name: Albor,[**First Name3 (LF) **] K.
+Address: 123 Any St.,[**Numeric Identifier 2853**]
+Phone: test@mail.com
+When: Albor, 2007-04-02 00:00:00:30 PM
+
+Name: Albor,Hannalise Dalonte Seraile Albor
+Location: UPMCE Medical Center/ Dept of Podiatry
+Address: 123 Any St.,[**Numeric Identifier 4743**]
+Phone: test@mail.com
+When: Albor, 2007-04-02 00:00:00:15 AM
+
+
+
+Completed by:2007-04-02 00:00:00

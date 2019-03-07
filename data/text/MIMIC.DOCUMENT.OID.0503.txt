@@ -1,0 +1,317 @@
+Admission Date:  2006-01-16 00:00:00              Discharge Date:   2006-01-16 00:00:00
+
+Date of Birth: 1950-12-09 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Losartan / Aspirin / Lisinopril-Hctz
+
+Attending:Janelie Batory
+Chief Complaint:
+fever, hypotension
+
+Major Surgical or Invasive Procedure:
+Hemodialysis MWF
+
+
+History of Present Illness:
+Pt is a 69 y/o female with ESRD, bed bound, humeral and femoral
+fracture who was recently admitted to ICU with enterobacter/
+klebsiella/Pseudomonas UTI and bacteremia on Gent, Cefepime via
+PICC who was admitted with increased change in mental status,
+less responsive and fever x 1 day. Patient got HD on 2006-01-16 00:00:00
+and when she came to the ED on 2006-01-16 00:00:00, her SBP was found to be in
+the 80s. Patient got 1.5L NS and BP returned to SBP 120s. Her
+lactate was 1.0. ID and renal consulted and ID recommended
+continuing patient on meropenum, linezolid, and Gentamycin.
+Patient got vancomycin in ED.
+.
+History obtained from son on Transfer, he states that pt was
+discharged on saturday, sunday she felt weak and was somnolent.
+After dialysis on monday she became more lethargic and
+unresponsive and was transferred to UPMCE ED.  She got
+"antibiotics" and IVF in ED and ICU and she became more
+responsive.  In Chynia Lafon, pt remained afebrile and pressures
+improved with IVF.  She was transferred to the regular floor for
+further management.
+
+
+Past Medical History:
+1. Type 2 diabetes mellitus
+2. Diabetic nephropathy resulting in ESRD for which she is on
+HD Mon, Wed, and Fri.
+3. Status post left femur fracture
+4. Hyponatremia
+5. Hypercholesterolemia
+6. Unsteady gait
+7. Cataracts
+8. Back pain
+9. Hypertension
+10.Anemia of chronic disease
+11. S/P L shoulder hemiarthroplasty following a left humeral
+fracuture in 2006-01-16 00:00:00- Course was complicated by a PEA arrest
+secondary to PE. 2006-01-16 00:00:00 new humerus fracture
+12. PE 2006-01-16 00:00:00 leading to PEA arrest
+13. Hospitalization 2006-01-16 00:00:00 for Sepsis (negative work-up) treated
+
+empricially with Vanc
+14. h/o C-diff 2006-01-16 00:00:00, Urine citrobacter (tx w/Cipro)
+.
+
+Social History:
+Lives with son who is very involved and well informed regarding
+
+her care needs. Non smoker. No EtOH.  Pt most recently at UPMCE
+rehab prior to transfer here.  Pt has family members at Chynia Lafon
+bedside 24 hours per day.
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals Tmax/Tc 99.1 BP 102/54 HR 107 RR 20 O2sat 92%RA
+.
+GEN:
+HEENT: anicteric bilateral cataracts, OP clear
+Neck: no LAD
+Chest:  diffuse rhonci bilaterally ant and laterally.
+CVR: Regular rhythm, tachy, nl S1, S2, no murmor
+ABD: obese, NT/ND
+EXT: Left UE in sling.  3+ pitting edema in LUE, RUE with trace
+edema. Bilaterally lower extremities with 2+ edema.
+Neuro:  Pt awake and alert, not very talkative.
+Skin:  very thin skin, multiple areas of
+LINES:  R AC PICC site without warmth,erythema or tenderenss.  R
+chest HD line without erythema or tenderenss.
+
+Pertinent Results:
+CT Head: No intracranial hemorrhage or mass effect is
+identified. No
+interval change from the prior study.
+.
+CXR: No evidence of pneumonia.
+2006-01-16 00:00:00 05:21PM   GLUCOSE-180* UREA N-25* CREAT-2.7* SODIUM-141
+POTASSIUM-4.9 CHLORIDE-102 TOTAL CO2-29 ANION GAP-15
+2006-01-16 00:00:00 05:21PM   CALCIUM-8.1* 2006-01-16 00:00:00-4.1 MAGNESIUM-1.6
+2006-01-16 00:00:00 08:17PM   LACTATE-1.0
+2006-01-16 00:00:00 05:21PM   WBC-10.5 RBC-3.42* HGB-10.8* HCT-33.1* MCV-97
+MCH-31.7 MCHC-32.8 RDW-21.1*
+2006-01-16 00:00:00 05:21PM   NEUTS-66 BANDS-3 LYMPHS-9* MONOS-10 EOS-7*
+BASOS-0 ATYPS-2* METAS-2* MYELOS-1*
+
+Tagged WBC scan 2006-01-16 00:00:00:
+IMPRESSION: Mild increased tracer activity in the distal portion
+of left femur and left humerus likely consistent with either
+mild infection or a healing fracture.
+
+Femur XRAy:INDICATION:  End-stage renal disease with femur
+fracture.  Two images of the left femur were compared to
+2006-01-16 00:00:00.  There has been no significant change from
+the 123 Any St.us study which includes a healing supracondylar
+fracture that is impacted with some mild medial displacement.
+The left hip joint appears unchanged with resorption of the
+femoral neck without a demonstrable fracture line.  Per
+discussion with nuclear medicine, the tagged white blood cell
+study suggests osteomyelitis of the distal femur at the fracture
+site.  On plain radiograph, there is no discrete evidence for
+osteomyelitis but the significant diffuse osteopenia limits the
+sensitivity of detection.
+
+IMPRESSION:  Unchanged healing supracondylar fracture and marked
+osteopenia
+
+Humerus Xray (bilateral): Two images of the left humerus and two
+images of the right humerus were reviewed.  There has been
+increased angulation and further displacement of the left
+comminuted distal periprosthetic humerus fracture.  Evaluation
+for osteomyelitis is limited by diffuse osteopenia.  Given this
+limitation, no signs of osteomyelitis are present.  The right
+humerus appears normal apart from the significant osteopenia and
+again, no signs of osteomyelitis are present.
+
+CXR 2006-01-16 00:00:00: right after ?aspiration (labored breathing)
+Compared with 2006-01-16 00:00:00 and allowing for differences in
+positioning, there is probable mild cardiomegaly.  The aorta is
+unfolded.  The superior mediastinal silhouette is prominent and
+the trachea at the level of the neck may be narrowed.  There is
+no CHF, focal infiltrate or effusion.  A dual lumenright- sided
+catheter, dual lumen, is present.
+
+CXR 2006-01-16 00:00:00 (1 day after ?aspiration):1.  Subsegmental
+atelectasis, without other evidence for acute pulmonary process.
+3.  Small pulmonary nodule at left base, of uncertain
+significance.  This was not visible on prior x-rays and was not
+described on the 2006-01-16 00:00:00 torso CT. Recommend attention to this
+area on followup films.
+
+
+Brief Hospital Course:
+69 y/o female with PMH notable for ESRD on HD present with
+recent episodes of sepsis of unclear source.  Pt was originally
+admitted to the ICU with hypotension and fevers,.  She quickly
+responded to IVF and was pancultured and imaged.  She was stable
+and thus transferred to the wards for further management and
+diagnosis.  Her course was complicated by a period of AMS and
+tachypnea to the 40s likely 123 Any St.ated by an aspiration event.
+The spontaneously resolved after 2 days and was not
+radiographically evident.  Of note, the patient aspirates all
+but fluids per the last swallow evaluation.  However, the
+patient clearly refused NG tube and feedign tube and she and her
+family wish for her to eat.  She may require furhter evaluation,
+but swallow eval had to be aborted at UPMCE due to vomiting
+prior to evaluation.
+
+1) Fever/Hypotension - Initial ddx includes sepsis vs. volume
+de123 Any St.n at dialysis.  BP responeded to IVF.  She was started
+on meropenum/linezolid in the ICU.  Quickly after presentation
+pt was normotensive and was transferred to the floor.  AFter
+blood cultures were negative for >48 hours, linezolid was
+discontinued.  Per ID recs, pt underwent a tagged WBC scan to
+see if there was another source of infection.  Repeat u/a and
+culture were also sent.  Plastic surgery was consulted regarding
+her decub wounds on the calfs, they did not recommend doing a
+debridement.
+
+*Patient does not make much urine, and her symptoms are likely
+secondary from urinary tract infections -> urosepsis given poor
+hygine.  Spoke with UPMCE rehab and family regarding the need
+for good hygeine which may help with recurrent infections.
+
+* Now ? whether multifocal osteomyleitis has incited these
+multiple episodes of sepsis.  Treatment is medical -Continue to
+treat with meropenem per ID x 1 week.
+
+2) ?Osteo: See tagged wbc scan above.  Ortho consult suggests
+that to definitively differentiate btw tumor and healing
+fracture is MRI.  Given that she has no known right humeral fx,
+this is likely osteo vs tumor.  Orthopedics deems pt poor
+operative candidate this the treatment is medical; will not
+pursue MRI at this time.  Continue meropenem x 1 week.
+
+3) ESRD - Renal followed patient in house with TIW dialysis.
+
+4) Diabetes - Continued outpatient regimine of glargine and
+RISS.
+
+5) History of PE - On coumadin 2mg qhs, INR subtherapeutic on
+admission however last admission INR of 14.6 on 5 mg coumadin so
+coumadin was increased gently to 3 mg qhs.  Will require
+monitoring.
+
+6) Anasarca/humeral fracture/bilateral calf decub ulcers -
+Chronic issues in this essentially bed bound patient.  Unchanged
+during this admission.  Please refer to 123 Any St.us discharge
+summaries for 123 Any St.us workups. Continue wound care, plastics
+will not debride.
+
+7) FEN: Hypernatremia likely due to dialysis (dehydration); will
+require free water orally versus IV to manage.  Nectar
+prethickened liquids and purees for food (see page 1)
+
+8) Code: Full
+
+9) Communication - son  Chynia Lafon test@mail.com
+
+Medications on Admission:
+Meds on transfer:
+Linezolid 600 mg IV Q12H
+Acetaminophen 325-650 mg PO Q4-6H:PRN
+Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN
+Meropenem 500 mg IV Q24H
+Ascorbic Acid 500 mg PO BID
+Multivitamins 1 CAP PO DAILY
+Calcium Acetate 667 mg PO TID W/MEALS
+Heparin 5000 UNIT SC TID
+Warfarin 2 mg PO HS
+Insulin SC  (per Insulin Flowsheet)
+Zinc Sulfate 220 mg PO DAILY
+Ipratropium Bromide Neb 1 NEB IH Q6H:PRN
+.
+Meds on admission:
+1. Ascorbic Acid 500 mg PO BID
+2. Folic Acid 1 mg Tablet PO DAILY
+3. Zinc Sulfate 220 mg Capsule PO DAILY
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+
+5 to 6 hours) as needed for fever or pain.
+6. Multivitamin Capsule Sig: One (1) Cap PO DAILY (Daily).
+7. Warfarin 2 mg Tablet PO HS
+8. Ipratropium Bromide 0.02 % One (1) neb
+Q6H
+9. Albuterol Sulfate 0.083 % Solution (1) neb
+Q6H (every 6 hours) as needed.
+10. Insulin Glargine Fifteen (8U)
+units Subcutaneous at bedtime.
+12. Gentamicin
+13. Cefepime 1 g
+14. Phoslo 667 mg tid w/ meals
+
+
+Discharge Medications:
+1. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+2. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+4. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+5. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+6. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+7. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime).
+8. Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed.
+9. Clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane
+ QID (4 times a day).
+10. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) inj
+Injection TID (3 times a day).
+11. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two
+(2) ML Intravenous  DAILY (Daily) as needed: 2 ml IV DAILY:PRN
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units
+heparin) each lumen Daily and PRN. Inspect site every shift.  .
+
+12. Meropenem 500 mg Recon Soln Sig: Five Hundred (500) mg
+Intravenous  once a day for 7 days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - Acute Rehab
+
+Discharge Diagnosis:
+Sepsis
+Hypotension
+Osteomyelitis
+ESRD
+Diabetes Mellitus type 2
+Obesity
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+* Return to hospital for change in respiratory status, chest
+pain, change in mental status or other concernign symptoms.
+
+* Follow-up with your appoitnments
+
+* Take all medications as described
+
+Followup Instructions:
+1) Dr. Janelie Batory Lafon, MD Date/Time:2006-01-16 00:00:00 11:30
+123 Any St. (test@mail.com  need to bring family
+member to interpret
+
+2) Dr. Janelie Batory.D., PH.D.
+Date/Time:2006-01-16 00:00:00 1:30
+123 Any St., medical specialties  (test@mail.com
+
+
+Completed by:2006-01-16 00:00:00

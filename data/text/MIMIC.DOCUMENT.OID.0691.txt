@@ -1,0 +1,123 @@
+Unit No:  [**Numeric Identifier 5115**]
+Admission Date: 2011-06-13 00:00:00
+Discharge Date: 2011-06-13 00:00:00
+Date of Birth: 2001-06-11 00:00:00 00:00:00
+Sex:  F
+Service:  Lubrano
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 69 year old
+woman with history of alcoholic hepatitis and GERD who
+presented with sudden onset of abdominal pain, mostly
+epigastric, accompanied by some nausea and vomiting, chills,
+no fevers. Last bowel movement was the day prior. She was
+passing gas. No chest pain, no shortness of breath. No
+melena.
+
+PAST MEDICAL HISTORY:
+1. Alcoholic hepatitis.
+2. Hypertension.
+3. Gastroesophageal reflux disorder.
+4. Hypercholesterolemia.
+5. Anxiety.
+6. History of ventral hernia repair.
+
+
+ALLERGIES:  Sulfa.
+
+MEDICATIONS:
+1. Atenolol 100 mg daily.
+2. Hydrochlorothiazide 25 mg a day.
+3. Multivitamin.
+4. Prilosec 40 mg a day.
+5. Folic acid 1 mg a day.
+6. Protonix 40 mg a day.
+
+
+PHYSICAL EXAMINATION:  Pleasant, cooperative, in mild
+distress. Regular rate and rhythm. Clear to auscultation
+bilaterally. Abdomen is soft, tender to palpation ino the
+epigastric area. Rectal exam - guaiac negative, no masses.
+
+Labs include white blood cell count of 17, hematocrit of 44,
+BUN of 7, creatinine of 0.9. AST is 106, ALT 419, alkaline
+phosphatase 147, total bilirubin 4.4. Amylase 850, lipase
+3234. LDH 408.
+
+STUDIES:  CT of the abdomen showed pancreatitis with regions
+of relative hypo enhancement in the pancreas, a distended
+gallbladder with stone, and distended cystic duct. No
+intrahepatic ductal dilation.
+
+HOSPITAL COURSE:  The patient was admitted to the ICU and was
+treated with fluid resuscitation. NPO. Gastroenterology
+consultation was obtained. By the next day, her enzymes were
+improved. The ERCP was held, in consideration that the
+patient had probably already passed the stone and was now
+improving. Her abdominal examination and her labs continued
+to improve until 2011-06-13 00:00:00 when, already on the floor, the
+patient started complaining of increased abdominal pain. The
+abdomen showed some distension and the patient's hematocrit
+dropped down from 31 to requiring blood transfusion. She
+underwent emergent CT scan, which showed pseudoaneurysm in
+adjacent to an SMA. The patient underwent angio, which
+revealed a pseudoaneurysm which was coming off from branches
+from the SMA, as well as having a feeder from PDA. They were
+able to embolize this pseudoaneurysm, as well as embolize the
+feeder from SMA, but not from the PDA.
+
+The patient returned to the ICU, where her blood pressure was
+initially controlled with nitroglycerin drip. Over the next
+couple of days, the patient's condition has improved. Her
+hematocrit remains stable. It was not requiring any
+transfusion. Her abdomen, although still mildly distended,
+was soft. She was passing gas and having bowel movements. Her
+diet was advanced, initially to clears, and the patient went
+to a regular diet, which she tolerated well. She started to
+ambulate, initially with help, then on her own. She was
+transferred to the floor. The vascular service was consulted.
+Their CT was obtained on 2011-06-13 00:00:00, which showed no
+changes in the pseudoaneurysm, with hematocrits remaining
+stable. The patient was otherwise doing fine. The feeling was
+that the patient does not need any procedures at this point.
+
+On 2011-06-13 00:00:00, the patient is afebrile. Vital signs are
+stable. The abdomen is soft, non distended. Tolerating a
+regular diet and ambulating without help. No concerns.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISPOSITION:  The patient is discharged home. The patient
+will follow up with Dr. Lubrano in 2 weeks for discussing
+cholecystectomy at a later date. The patient will also follow
+up with Dr. Baseemah Monfiston next week.
+
+DISCHARGE MEDICATIONS:
+1. Tylenol 1-2 tabs p.o. every 4-6 hours p.r.n. pain.
+2. Ativan 1 mg p.o. at bedtime p.r.n..
+3. Protonix 40 mg p.o. daily.
+4. Lopressor 75 mg p.o. daily.
+
+
+DISCHARGE DIAGNOSES:
+1. Gallstone pancreatitis.
+2. Hypertension.
+3. Gastroesophageal reflux disorder.
+4. Alcoholic hepatitis.
+5. Hypercholesterolemia.
+6. Anxiety.
+7. SMA pseudoaneurysm status post bleeding and embolization.
+
+
+
+
+                        Djordje Lubrano Lubrano, 16788
+
+Dictated By:Baseemah Monfiston
+MEDQUIST36
+D:  2011-06-13 00:00:00 12:11:22
+T:  2011-06-13 00:00:00 12:51:11
+Job#:  16788
+
+
+

@@ -1,0 +1,325 @@
+Admission Date:  2011-08-12 00:00:00              Discharge Date:   2011-08-12 00:00:00
+
+Date of Birth: 1949-01-01 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Audreyanna Bersche
+Chief Complaint:
+Bradycardia (slow heart rate)
+
+Major Surgical or Invasive Procedure:
+Implantation of a Pacemaker (UPMCE VDD type single lead)
+
+
+History of Present Illness:
+Mr. Eversyn Anschutz is a 74 yo Anschutz-speaking male with ESRD
+on HD, h/o mild CAD, hypertension, dyslipidemia, diastolic
+dysfunction, who presented to hemodialysis today and was found
+to be bradycardic. He completed hemodialysis without any
+complications and had 2.5L of fluid removed.  He had a heart
+rate of ~38 (35-40 per report) and was asymptomatic. He denied
+having any 123 Any St.us episodes of bradycardia. He denied any chest
+pain, palpitations, shortness of breath, leg swelling,
+lighheadedness, diziness, nausea, or vomiting. He was sent to
+the emergency room for further evaluation.
+.
+In the ER his VS were T98.7F, BP 189/81mmHg, HR 40, RR 24, SpO2
+97% RA. His physical exam was normal; orthostasis, valsalva were
+not done. He received aspirin 81 mg. Hct was at his baseline of
+35, cardiac enzymes were CK: 103, MB: 7 and Trop-T: 0.27.
+Cardiology was consulted and suggested admission to CCU for
+monitoring and possible PPM in AM. Prior to transfer to CCU: HR
+34, BPM 190/80 mmHg, SpO2 99% RA, RR 18.
+.
+He has had one hospital admission (2011-08-12 00:00:00) for bradycardia in the
+past in the setting of severe hyperkalemia (K=8.9).  At that
+time he was treated with atropine and ended up with a
+wide-complex tachycardia requiring intubation and pressors.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+PAST CARDIOVASCULAR HISTORY:
+1. CARDIAC RISK FACTORS: - Diabetes, + Dyslipidemia, +
+Hypertension
+2. CARDIAC HISTORY:
+-CABG: None.
+-PERCUTANEOUS CORONARY INTERVENTIONS: None.
+-PACING/ICD: None.
+- CAD - cath here in 2011-08-12 00:00:00 with moderate ramus intermedius
+disease (discrete 50% stenosis) and mild diastolic ventricular
+dysfunction
+- History of atrial fibrillation with [**Year (4 digits) 5438**] documented once in the
+ED in 2011-08-12 00:00:00
+- H/o bradycardia and WCT as above in HPI
+- ETT 2011-08-12 00:00:00: Atypical symptoms in the absence of ischemic ECG
+changes or reversible defects by thallium to the acheived low
+level of exercise
+
+Social History:
+Pt lives alone, wife has passed away, retired. [**Year (4 digits) 589**] speaking
+only. Current smokes 2011-08-12 00:00:00 cigs/day for 60yrs, 2011-08-12 00:00:00/wk EtOH, no
+ilicit drug use.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VITAL SIGNS - Temp 97.6F, BP 159/73mmHg, 42 HR, RR 13, O2-sat
+98% RA
+GENERAL - well-appearing man in NAD, Oriented x3, comfortable,
+Mood, affect appropriate.
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear,
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+NECK - supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS - Diffuse wheezing throughout lung fields, specifically in
+right posterior lungs, resp unlabored, no accessory muscle use.
+No rales/rhonchi/crackles
+HEART - PMI located in 5th intercostal space, midclavicular
+line. Regular rhytm, bradycardic, normal S1, S2. No m/r/g
+auscultated, although difficult to hear due to diffuse wheezing.
+ No thrills, lifts. No S3 or S4.
+ABDOMEN - NABS, slightly distended with large kidneys palpable
+bilaterally, liver palpable in center of the abdomen as likely
+shifted due to kidney size, no rebound/guarding. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials,
+DPs), No c/c/e. No femoral bruits.  Lower legs both newly
+wrapped by home nurse due to stasis ulcers, not unwrapped at
+this time.
+LYMPH - no cervical, axillary, or inguinal LAD
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength
+2011-08-12 00:00:00 throughout, sensation grossly intact throughout, DTRs 2+ and
+symmetric, cerebellar exam intact, gait not assessed
+PULSES:  Right: Carotid 2+ Femoral 2+ Popliteal Left: Carotid 2+
+Femoral 2+ Popliteal 2+ (DP and PT not assessed due to wrapping,
+will do in am before procedure)
+
+Pertinent Results:
+Admission Labs (2011-08-12 00:00:00):
+WBC-7.1 HGB-11.3* HCT-35.6* PLT-207
+GLUCOSE-88 UREA N-24* CREAT-4.3* SODIUM-140 POTASSIUM-3.9
+CHLORIDE-98 TOTAL CO2-28 ANION GAP-18
+CALCIUM-8.9 PHOSPHATE-3.2 MAGNESIUM-1.7
+CK-MB-7, cTropnT-0.27*, CK(CPK)-103
+PT-13.2 PTT-39.1* INR(PT)-1.1
+
+CXR (2011-08-12 00:00:00):
+Compared with 2011-08-12 00:00:00, a single lead right-sided pacemaker is in
+place, with lead tip over right ventricle. Otherwise, no
+significant change is detected. No pneumothorax identified.
+Pleural effusion again noted. Right upper zone calcified
+granuloma again noted.
+
+ECG (2011-08-12 00:00:00): Sinus rhythm with 2nd degree AV block with 2:1
+conduction and occasional ectopic beats.  Prolonged PR, RBBB and
+LAFB.
+
+Brief Hospital Course:
+Mr. Eversyn Anschutz is a 74 yo Anschutz-speaking male with h/o
+ESRD on HD, HTN, HL, and mild CAD who presented with
+asymptomatic bradycardia and underwent pacemaker placement.
+
+# Bradycardia - Patient presented with bradycardia consistent
+with 2nd degree AV block.  His heart rates were in the 30's-40's
+at this time.  He received a UPMCE single-lead pacemaker.
+He had difficult access for the pacemaker, and required multiple
+sticks on the right side.  He ended up having it placed via
+axillary access on the right side, with some bleeding during the
+procedure.  His pacemaker was in the correct place via follow-up
+CXR and an interrogation the morning after the procedure showed
+a normally functioning pacemaker.  He had one episode of chest
+pain after an attempt at pacemaker insertion that was associated
+with no ECG changes and no elevation in cardiac enzymes.  This
+pain was not thought to be cardiac-related.
+
+# Hypertension - Patient with persistent hypertension while in
+the CCU.  His BP was highest post-dialysis, as he does not take
+his medications the morning before dialysis.  We increased his
+dose of clonidine 0.2mg po daily to 0.2mg po bid.  We continued
+his lisinopril, diovan, amlodipine, and HCTZ.  His BP stabilized
+by the time of discharge on these medications, although he would
+likely benefit from outpatient BP monitoring.
+
+# CAD -  Patient with history of coronary artery disease (last
+cath 2011-08-12 00:00:00 showed 50% lesion of ramus intermedius)who presented
+with asymptomatic bradycardia.  It was felt that his bradycardia
+was unlikely to be related to current ischemia, and patient's
+ECG was not suggestive of ischemia or infarct.  He was continued
+on aspirin 81mg po daily and he was started on simvastatin 40mg
+po daily.
+
+# Pump - Last echo in 2011-08-12 00:00:00 showed mildly depressed systolic
+function, with LVEF = 55% and inferior/inferolateral
+hypokinesis.  It was felt that his pump would benefit most from
+optimal blood pressure control.
+
+# Chronic Kidney Disease Stage V on HD - patient dialyzed MWF
+while in house, and has follow-up with dialysis clinic.  His
+electrolytes were monitored and repleted, and calcium acetate
+and nephrocaps were continued.  Aspirin 81mg po daily was also
+continued.
+
+# Peripheral 2011-08-12 00:00:00 Disease - patient with significant
+peripheral 2011-08-12 00:00:00 disease and recently seen by 2011-08-12 00:00:00 here
+at UPMCE.  He missed an appointment for arterial studies
+(noninvasive) which he was an inpatient, and it was attempted to
+get these studies as an inpatient but they were not completed
+before discharge.  The studies were ordered again as an
+outpatient.
+
+Asthma/COPD -  Patient with long-standing asthma and COPD with
+wheezing at baseline.
+He presented with diffuse wheezing that improved with his home
+medications and albuterol.
+
+Medications on Admission:
+ADMISSION MEDICATIONS:
+Calcium acetate 667 mg po TID
+Hysocyamine sulfate 0.375 mg PO Daily
+Ondansetron 8 mg PO PRN nausea
+Donepezil 5 mg PO QHS
+Citalopram 10 mg PO Daily
+Clonazepam 0.5 mg PO QHS
+Lisinopril 20 mg PO BID
+Fexofenadine 180 mg PO Daily
+NephroCaps 1 cap po Daily
+Tiotropium bromide 18 mcg 2 puff PO Daily
+Montelukast 10 mg PO Daily
+Valsartan 80 mg PO Daily
+Amlodipine 7.5 mg Daily
+B Complex-Vitamin C - Folic Acid 1 mg capsule Daily
+Clonidine 0.2mg po daily
+HCTZ 12.5mg po daily
+Aspirin 81 mg PO Daily
+SL Nitroglycerin prn
+
+Discharge Medications:
+1. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+2. Hyoscyamine Sulfate 0.375 mg Capsule, Sust. Release 12 hr
+Sig: One (1) Capsule, Sust. Release 12 hr PO DAILY (Daily).
+3. Ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO Q8H (every 8 hours) as needed for for nausea.
+
+4. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+5. Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+6. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day
+(at bedtime)).
+7. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. Fexofenadine 60 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+9. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+10. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+11. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+13. Amlodipine 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+14. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. Clonidine 0.1 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+Disp:*120 Tablet(s)* Refills:*1*
+16. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO
+DAILY (Daily).
+17. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+18. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain.
+
+19. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+20. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours) as needed for for pain.
+21. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary diagnosis:
+Second degree heart block
+
+Secondary diagnoses:
+End Stage Renal Disease on Hemodialyis
+COPD/Asthma
+Coronary Artery Disease
+Hypertension
+Dyslipidemia
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted to the hospital due to a slow heart rate
+(bradycardia).  You were given a pacemaker (UPMCE VDD) in
+order to speed up your heart rate.  You will need to keep the
+dressing over the pacer clean and dry for one week until you go
+to the device clinic. You should wear a sling for 24 hours after
+your pacemaker placement.  You cannot shower but may take a bath
+as long as the
+dressing stays dry. You cannot lift your right arm over your
+head for 6 weeks, no swimming or tennis. No carrying more than 5
+pounds for 6 weeks with your right arm. Please see the discharge
+instructions regarding pacemakers that was given to you at
+discharge.
+
+Please call Dr. Anschutz if you notice any increasing swelling,
+bruising, bleeding or increasing pain at the pacer site. If the
+pacer site is sore, you can take Tylenol. Also call Dr. Anschutz
+for fevers, chills, dizziness, chest pain or trouble breathing.
+
+You were started on simvastatin 40mg by mouth daily to help
+lower your cholesterol and prevent your risk of heart attacks in
+the future.  In addition, your dose of clonidine was doubled
+because your blood pressure was high during your hospital stay.
+
+Followup Instructions:
+Please follow-up at your dialysis clinic on Anschutz, 2011-08-12 00:00:00 as [** Location **]usly scheduled.  Your dialysis clinic should draw
+a vancomycin level AFTER dialysis and should give you one dose
+of vancomycin if your level is low.  After that, you will not
+need any more vancomycin.
+
+Please schedule an appointment with the cardiology device clinic
+(test@mail.com) in 1 week.  This clinic will help make sure your
+pacemaker is working correctly.
+
+Please schedule an appointment with your primary care doctor,
+Dr. Anschutz in the next 2 weeks.  The phone number is
+test@mail.com.
+
+Provider: Eversyn Anschutz LAB Phone:test@mail.com Date/Time: 2011-08-12 00:00:00
+8:00
+(for venous imaging of the lower extremities)
+
+Provider: Eversyn Anschutz, DPM Phone:test@mail.com
+Date/Time:2011-08-12 00:00:00 2:45
+(Podiatry)
+
+Provider: Eversyn Anschutz Eversyn Anschutz, MD Phone:test@mail.com Date/Time:
+2011-08-12 00:00:00 8:40 (Transplant Medicine)
+
+
+

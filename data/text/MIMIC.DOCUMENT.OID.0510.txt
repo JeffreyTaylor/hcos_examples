@@ -1,0 +1,383 @@
+Admission Date:  2014-12-16 00:00:00              Discharge Date:   2014-12-16 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Axell Koz
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Tracheostomy
+Central Line Placement
+
+
+History of Present Illness:
+This is a 84 y/o with h/o ESRD, A fib, who comes to the
+Emergency Department after being found on HD with increasing
+shortness of breath. Patient found to be 10L positive, but they
+were unable to take enough fluid off so they took off 2L.
+Patient describes that over the last few weeks, she has been
+feeling a little more short of breath. She reports one "big
+pillow" orthopnea and cannot lie flat due to shortness of
+breath. No PND. Pt is non-ambulatory so it is difficult to tell
+how far she can walk before getting SOB.
+She denies any fever, cough, diarrhea, chest pain, chills,
+nausea, vomit. Of note, pt was recently admitted for debridement
+of her heel ulcers. Also, of note, pt recently had a PMIBI that
+was negative for ischemia and showed an EF of 60%.
+
+
+Past Medical History:
+1. ESRD on HD since 2014-12-16 00:00:00 (Dr. Gronowski;
+2. MRSA bacteremia from fistula 2014-12-16 00:00:00
+2. Atrial Fibrillation
+3. Renal Mass on CT since 2014-12-16 00:00:00
+4. Right Hip Erosive Arthritis; now s/p R hip
+surgery(hemiarthroplasty) complicated by mental status changes
+and decreased BP
+5. Osteoporosis
+6. Anemia
+7. Asthma
+8. GERD
+9. Hypertension
+10. PVD/Heel Ulcers - refusing angio
+11. C.Diff 2014-12-16 00:00:00 treated with Flagyl. C.Diff positive on 2014-12-16 00:00:00 at
+
+nursing home.
+12. Poor PO Intake
+13. Depression
+14. Low Phos, Mag, and Potassium
+15. b/l non-healing heel ulcers
+16. Ischemic left leg
+
+
+Social History:
+Pt currently lives at rehab center but prior to fracture lived
+alone in 123 Any St. with a house cleaner who comes several times a
+week to clean her house. Pt reports quiting smoking 8 years ago.
+However, the patient does have a 60+ pack year history of
+smoking. Pt has occasional alcohol use.
+
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+98.6 BP 126/70 HR 84 RR 30 Sats 100%
+General: Patient in non aparent distress
+HEENT: Dry mucosa, JVD 7 cm, neck supple
+Heart: iregularly irregular. Systolic eyection murmur in the
+apex 2014-12-16 00:00:00
+Lungs: Decrease breath sounds bilaterally. dullness to
+percussion on the left side. poor air movement.
+Abdomen: BS+, g-tube in place, soft, non tender, non distended.
+
+Extremities: 3+ edema to mid thighs; + sacral edema; skin ulcers
+on bilateral heels - no s/s of infection (erythema/pururlence),
+but with tenderness to palpation.  Pt has pain to palpation over
+L>R hip that is chronic.  RUE with chronic edema
+
+Changes on Discharge exam"
+trach in place.
+Face with some baseline asymmetry but elevates symetrically for
+smile, brow raise.
+RUE still edemetous but HD fistula working, decreased
+tenderness, appearance c/w lymphedema of arm.
+
+Pertinent Results:
+2014-12-16 00:00:00
+MIBI: IMPRESSION: 1. Normal myocardial perfusion. 2. Normal left
+ventricular cavity size and function. LVEF of 60%.
+.
+2014-12-16 00:00:00
+LEFT DECUBITUS AND LATERAL RADIOGRAPHS: Again seen is a
+left-sided PICC line terminating in the SVC. Large left pleural
+effusion with associated atelectasis is again seen. A small
+right-sided pleural effusion and associated atelectasis is seen.
+Osseous structures remain unstable. Note is made of a calcified
+aorta. Heart and mediastinal contours cannot be adequately
+evaluated secondary to the pleural effusion.
+IMPRESSION:
+1. Large left pleural effusion with associated atelectasis.
+2. Small right pleural effusion with associated atelectasis
+.
+2014-12-16 00:00:00 ultrasound negative for DVT RUE
+.
+CT HEAD: IMPRESSION:
+1. No acute intracranial hemorrhage or mass effect.
+2. Probable thick secretions within the posterior nasopharynx.
+Clinically correlate.
+
+.
+CXR 2014-12-16 00:00:00:
+INDICATION: Tube placement.
+There has been interval placement of a tracheostomy tube, which
+terminates at approximately the level of the thoracic inlet. The
+cuff appears slightly wider than the adjacent tracheal lumen
+suggesting mild overdistention. There is no evidence of
+pneumomediastinum or pneumothorax, and there has otherwise been
+no significant interval change in appearance of the chest with
+the exception of the tube placement compared to the prior study
+of one day earlier.
+.
+ECHO 2014-12-16 00:00:00:
+Conclusions:
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are
+normal. The left ventricular cavity size is normal. Overall left
+ventricular systolic function is low normal (LVEF 50-55%). The
+right ventricular cavity is dilated. Right ventricular systolic
+function is borderline normal. [Intrinsic right ventricular
+systolic function may be more depressed given the severity of
+tricuspid regurgitation.] The aortic valve leaflets are
+moderately thickened. There is mild aortic valve stenosis. Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild (1+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+.
+2014-12-16 00:00:00 CTA CHEST:
+IMPRESSION:
+1. No evidence of pulmonary embolism, retroperitoneal
+hemorrhage, or intra- abdominal abscess.
+2. Moderate bilateral pleural effusions unchanged from the prior
+study. Small pericardial effusion, and small amount of ascites
+fluid. Findings are consistent with anasarca.
+3. Heavy coronary and aortic calcifications.
+4. Atrophic kidneys with bilateral cysts, consistent with
+end-stage renal disease. Some low-density lesions of the kidneys
+are not fully characterized.
+.
+LABS:
+
+2014-12-16 00:00:00 11:40AM BLOOD WBC-8.6 RBC-3.70* Hgb-10.8* Hct-34.7*
+MCV-94 MCH-29.3 MCHC-31.3 RDW-17.7* Plt Ct-308#
+2014-12-16 00:00:00 03:25AM BLOOD WBC-15.9* RBC-3.19* Hgb-9.0* Hct-28.0*
+MCV-88 MCH-28.2 MCHC-32.2 RDW-17.9* Plt Ct-493*
+2014-12-16 00:00:00 02:18AM BLOOD WBC-9.5 RBC-3.31* Hgb-9.6* Hct-30.0*
+MCV-91 MCH-28.9 MCHC-31.9 RDW-18.7* Plt Ct-391
+.
+2014-12-16 00:00:00 11:40AM BLOOD PT-15.8* PTT-47.2* INR(PT)-1.7
+2014-12-16 00:00:00 02:18AM BLOOD PT-13.8* PTT-79.3* INR(PT)-1.3
+.
+2014-12-16 00:00:00 11:40AM BLOOD Glucose-104 UreaN-18 Creat-1.5*# Na-141
+K-3.5 Cl-96 HCO3-35* AnGap-14
+2014-12-16 00:00:00 02:18AM BLOOD Glucose-108* UreaN-39* Creat-2.8* Na-138
+K-5.0 Cl-101 HCO3-27 AnGap-15
+.
+2014-12-16 00:00:00 01:00PM BLOOD ALT-13 AST-16 LD(LDH)-203 CK(CPK)-82
+AlkPhos-268* TotBili-0.2
+2014-12-16 00:00:00 03:06AM BLOOD ALT-9 AST-16 LD(LDH)-165 AlkPhos-202*
+TotBili-0.2
+.
+2014-12-16 00:00:00 01:00PM BLOOD CK-MB-NotDone cTropnT-.36*
+2014-12-16 00:00:00 11:01PM BLOOD CK-MB-NotDone cTropnT-0.35*
+.
+2014-12-16 00:00:00 02:18AM BLOOD Calcium-10.1 Phos-2.0* Mg-2.1
+.
+2014-12-16 00:00:00 02:56AM BLOOD calTIBC-113* Ferritn-518* TRF-87*
+.
+2014-12-16 00:00:00 09:24PM BLOOD TSH-3.1
+2014-12-16 00:00:00 12:12PM BLOOD PTH-46
+2014-12-16 00:00:00 03:06AM BLOOD Cortsol-10.9
+2014-12-16 00:00:00 01:00PM BLOOD Cortsol-20.7*
+2014-12-16 00:00:00 01:30PM BLOOD Cortsol-23.6*
+.
+2014-12-16 00:00:00 03:25AM BLOOD Vanco-17.7*
+.
+.
+2014-12-16 00:00:00 02:59PM BLOOD Type-ART pO2-120* pCO2-51* pH-7.37
+calHCO3-31* Base XS-3
+2014-12-16 00:00:00 06:28PM BLOOD Type-ART Temp-36.2 Rates-/14 Tidal V-350
+PEEP-5 FiO2-40 pO2-179* pCO2-48* pH-7.39 calHCO3-30 Base XS-3
+Intubat-INTUBATED
+2014-12-16 00:00:00 03:26AM BLOOD Type-ART Temp-36.2 pO2-106* pCO2-53*
+pH-7.37 calHCO3-32* Base XS-4
+
+Brief Hospital Course:
+OVERVIEW:  This is a 84 y/o female with h/o ESRD on HD, PAF on
+anticoagulation who came in with increasing shortness of breath
+and a new pleural effusion.
+.
+# Shortness of Breath:  The patient developed shortness of
+breath prior to transfer to the medical ICU.  On transfer, she
+was intubated for hypercarbic respiratory failure.  The
+differential diagnosis of this SOB included cardiac causes (MI,
+worseing CHF), and pulmonary (pna, pleural effusion, COPD).  EKG
+showed no acute changes and enzymes ruled her out for MI.  BNP
+was [**Numeric Identifier 4184**], suggesting CHF, but Echocardiogram revealed EF 50-55%
+MR1+, TR 2+.  She did not appear grossly volume overloaded and
+HD was continued, though it was occasionally suboptimal due to
+hypotension.  Pleural effusions decreased in size with continued
+HD and were too small to tap.  In the end, her resp failure was
+thought to be due to multiple causes including CHF with
+overload, underlying COPD, and deconditioning.  There was no
+overt evidence of PNA, though she had an elevated white count
+and a stable retrocardiac opacity and was treated with a course
+of antibiotics.  It was thought possible that she had early
+sepsis and she was treated emperically with vanco, ceftaz and
+flagyl.  She had one culture showing proteus (sputum 2014-12-16 00:00:00) but
+no other positive culture data.  HD was continued with good
+response, but the pt was not able to wean from the ventilator.
+HCP was Johnetta Gronowski and felt she would want at least medium term
+trach to facilitate weaning.  Failure to wean from vent was
+thought to be due to the same underlying causes that led to her
+respiratory failure.
+- patient is to continue on ventilatory support via trach and is
+to transfered to an acute rehab for further wean.
+.
+# Cardiovascular:
+Pump: patient with EF> 50% so CHF likely diastolic. The pt was
+on pressors for a majority of her ICU stay, but these were
+discontinued days prior to discharge.  Prior to her discharge
+she began to become hypertensive and metoprolol was added back
+into her regimen.  We control BP with home meds; 1.5L fluid
+restriction, low salt diet, daily weights, strict Is/Os.
+Patient during her stay continued to gradually get fluid off
+through HD with improvement in her pulmonary oxygen
+requirements.
+- Patient however remains positive throughout her stay in the
+ICU and may benefit from further volume diuresis via HD.
+.
+Rhythm: Pt has A-fib with adequate rate control, stable
+hemodynamically;
+Patient is to continue amiodarone-metoprolol.  Metoprolol can be
+titrated up as possible.  Patient was 123 Any St.usly on coumadin and
+was on heparin during this hospitalization.  She has been
+restarted on coumadin.  She is currently being bridged to
+coumadin.
+-she will need daily INR until >1.9, when heparin can be d/c'd.
+Thereafter, she will need qod INR until stable and weekly
+monitoring thereafter.
+.
+CAD: neg MIBI as above, ROMI'd at this hospitalization by
+enzymes, no EKG changes.  No active issues.  Cont on ASA,
+metoprolol.
+.
+#. Anemia: Chronic issue in setting of chronic renal failure.
+Basline mid to high 30s. Cont epo at dialysis.
+.
+#. Heel ulcers. currently with no evidence of infection; Patient
+attended by wound care nurse while in house; vit C and zinc to
+continue.
+- will need monitoring, wound care
+.
+#. ESRD: patient on receiving HD Tu,Th,Sat.
+- cont nephrocaps and phoslo and epo with HD as above.
+- monitor electrolytes
+.
+# GERD - Continued on protonix 40mg QD
+.
+#. COPD/Asthma - continued on combivent
+.
+# FEN: Pt with G-tube 2014-12-16 00:00:00 poor po intake. Consult nutrition re
+tube feed recs, Boost.
+
+# Hypotension - The etiology was unclear - she had an
+appropriate response to Gronowski stim test, wbc increased, and she
+was thought to have early sepsis.  However, she had large fluid
+shifts with HD, which caused her BP to decrease most markedly.
+As her course and volume status stabilized.  Levophed was weaned
+off 4days prior to discharge and her BP remained stable and she
+was started on low dose metoprolol and tolerated this well..
+- cont metoprolol
+.
+#MS changes - On transfer to the MICU, she had MS changes.  She
+had a negative head CT and it was thought that she had MS
+changes due to hypercarbia. The ddx also included TIA b/c the pt
+briefly had L sided weakness. She was noted to have some
+baseline facial asymmetry, but elevates her palate, brow, and
+smile symmetrically.
+The MS Johnetta Gronowski when her respiratory status improved
+with intubation.
+.
+## FEN - Probalance at 65cc/hr continuous.
+.
+## CODE - DNR/DNI. Gronowski designated as HCP. ([**First Name4 (NamePattern1) 4188**] Gronowski -
+test@mail.com). The pt is also well known to Dr.
+Gronowski, her PCP (who acted as interim HCP for a week early
+during this hospital course.
+.
+## PPX - lansoprazole, pneumoboots, heparin gtt
+.
+## Contact - [**First Name4 (NamePattern1) 4188**] Gronowski, Gronowski, is HCP.
+.
+## Dispo - To UPMCE today. Goal is weaning from vent.
+
+
+Medications on Admission:
+Amiodarone 200mg/day
+Nephrocaps 1/day
+Albuterol INh
+Atrovent Inh
+Protonix 40mg/day
+Warfarin 0.5 mg/day
+Phoslo 667 TID
+Toprol Xl 25mg/day
+Epo 5500 UNITS on HD tid/week
+Zemplar (paricalcitol)
+Venofer: once week/HD
+- recently on levaquin for PNA and flagyl for c diff??
+
+Discharge Medications:
+1. Therapeutic Multivitamin     Liquid Sig: Five (5) ML PO DAILY
+(Daily).
+2. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1) 200 mg PO
+BID: prn.
+7. Albuterol 90 mcg/Actuation Aerosol Sig: Four (4) Puff
+Inhalation Q6H (every 6 hours).
+8. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Four (4)
+Puff Inhalation QID (4 times a day).
+9. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed.
+10. Insulin Lispro (Human) 100 unit/mL Solution Sig: 1-20 units
+Subcutaneous ASDIR (AS DIRECTED): as per sliding scale.
+11. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+13. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+14. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+15. Haloperidol 0.5 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+16. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  UPMCE
+(2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Resp. Failure
+Sepsis
+ESRD
+
+
+Discharge Condition:
+To vent rehab on PS  to facilitate vent weaning.
+
+
+Discharge Instructions:
+Please return to the hospital if you develope shortness of
+breath, chest pain, or have any other concerns.
+
+Followup Instructions:
+Please follow up with your primary care physician Gronowski 2014-12-16 00:00:00 days.
+
+
+
+Completed by:2014-12-16 00:00:00

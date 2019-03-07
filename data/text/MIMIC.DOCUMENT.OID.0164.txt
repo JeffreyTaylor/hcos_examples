@@ -1,0 +1,149 @@
+Admission Date:  2005-01-09 00:00:00       Discharge Date:2005-01-09 00:00:00
+
+Date of Birth: 1946-01-03 00:00:00 00:00:00       Sex:  M
+
+Service:Oncology
+CHIEF COMPLAINT:  Short of breath times one week plus
+weakness.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 60-year-old
+male with a history of metastatic lung cancer to brain,
+failure to thrive.  He had a recent diagnosis on 2005-01-09 00:00:00 of
+lung adenocarcinoma with metastases to Clyne, [**First Name3 (LF) **],
+pericardium.  He had a recent admit for malignant pericardial
+effusion with tamponade, status post drainage on 2005-01-09 00:00:00.  Plan
+for chemotherapy after patient completes XRT.  Had an Lumbar
+puncture on 2005-01-09 00:00:00 with negative meningeal spread of cancer.
+He has noted one week prior to admission progressive increase
+He had a pulses paradoxus of 15 in the emergency department.
+No fever, chills, chest pain, cough, nausea, vomiting,
+diarrhea, abdominal pain.  He had a normal p.o. intake but
+decreased ambulation secondary to weakness post XRT.  Can go
+approximately 10 steps and then gets tired with short of
+breath.
+
+In the emergency department he got a dose of Levofloxacin for
+concern of pneumonia and bronchitis and stress dose steroids.
+
+Chest x-ray shows increased in cardiac silhouette.
+Electrocardiogram showed alternans.  Bedside echo concerning
+for tamponade.  Catheterization laboratory for pericardial
+drain placement.  Got 2500 cc's removed.
+
+PAST MEDICAL HISTORY:  Significant for hypertension,
+hypercholesterolemia, mitral valve prolapse, status post
+melanoma.  Status post resection in 2005-01-09 00:00:00 and 2005-01-09 00:00:00.  Empyema
+left lung 2005-01-09 00:00:00, status post thoracotomy and supraventricular
+tachycardia.  Lung adenocarcinoma with metastases to brain,
+[**Year (4 digits) 494**], pericardium.  Now undergoing brain XRT.  Atrial
+flutter, peripheral visual loss.
+
+An echo on 2005-01-09 00:00:00 showed EF greater than 55%
+
+MEDICATIONS ON ADMISSION:
+1.  Decadron 4 mg q AM, 2 mg q PM.
+2.  Zantac 150 mg b.i.d.
+3.  Sotalol 80 mg twice a day.
+4.  Ambien 10 mg q h.s.
+5.  Lipitor 80 mg q h.s.
+6.  Folate 1 mg q day.
+7.  Accupril 10 mg q day.
+8.  ASA 81 mg q day.
+
+ALLERGIES:  Penicillin which causes a rash.
+
+SOCIAL HISTORY:  Lives with a daughter at home.  No tobacco
+in the past 20 years, no alcohol.
+
+PHYSICAL EXAMINATION:  On admission in general no acute
+distress, pleasant, slightly tachypneic.  Vital signs 97.5,
+heart rate 94, blood pressure 99/61.  Respiratory rate 36,
+99% on 100% face mask.  Left pupil minimally reactive, down
+visual acuity.  OP clear.  Neck: No jugular venous
+distention.  Pulmonary:  Coronary artery disease bilaterally.
+Carotids:  Regular rate and rhythm.  No murmurs.  Abdomen:
+Soft, nontender, no distension.  Bowel sounds positive.
+Extremities:  No cyanosis, clubbing or edema.  2+ distal
+pulses bilaterally.  Neurological 5/5 strength bilaterally.
+Pupils reactive.
+
+Electrocardiogram on admission normal sinus rhythm,
+electrical alternans.  Normal intervals, no ST changes or
+Q-waves, diffuse T-wave changes.
+
+LABS:  White blood count 9.6, hematocrit 36.1, platelets 128.
+INR 1.3.  NA 137, K 4.6.  CL 104, CO2 20.  BUN 31, creatinine
+0.8.  Glucose 140.
+
+Chest x-ray shows increased in cardiac size, increased
+pericardial effusion.  Increased left pleural effusion.
+Lymphangitic tumor spread unchanged.  A left TTX new since
+2005-01-09 00:00:00.
+
+The patient was taken from the Emergency Room to the CCU for
+close monitoring.  Given large pericardial effusion and
+tamponade physiology.  On cardiac catheterization he
+demonstrated low pressure tamponade with equalization of
+right atrium and pericardial pressures.  After removal of
+approximately one liter of bloody fluid his right atrial and
+pericardial pressure decreased.  Procedure was notable for
+pericardial preparation and partial pneumothorax given low
+atrial/pericardial pressures and evidence of a possible small
+left pneumothorax.  For this reason the drain was pulled.
+However, subsequent review of the chest x-ray showed that the
+finding of pneumothorax was present prior to the procedure.
+Follow-up echocardiogram revealed resolution of electrical
+alternans.  CT Surgery was consulted for possibility of
+placing a pericardial window for definitive treatment of
+recurrent pericardial effusions however, it was felt that a
+procedure of this degree of invasiveness would likely lead to
+patient's deterioration rather than improvement.
+
+The decision was made that the patient would be best served
+by a balloon pericardiocentesis via catheter done by
+Cardiology however, this would require waiting until the
+pericardial effusion re-accumulated.  Recommended that the
+patient undergo q week transthoracic echocardiogram in order
+to assess the size of pericardial effusion and when deemed
+large enough the patient is to undergo balloon
+pericardiocentesis.
+
+The patient's cardiac status improved with this procedure
+however, his respiratory status remained tenuous requiring
+100% non-rebreather mask to maintain O2 saturations in the
+mid-90%  The patient had marked dyspnea on exertion
+throughout hospitalization.  It was felt that this is a
+combination of intrinsic lung damage as well as lymphangitic
+spread and some small degree of residual cardiac dysfunction.
+Other than oxygen and nebulizers there is no further
+therapeutic option for this patient at this time.  The
+patient remained on Sotalol 80 mg p.o. b.i.d. as he was as an
+outpatient for an supraventricular tachycardia and remained
+in a normal sinus rhythm throughout hospitalization.
+
+Hem/Onc.  The patient continued XRT as well as Decadron for
+palliation.  He will be followed by Hem/Onc as an outpatient.
+There were no gastrointestinal issues throughout this
+hospitalization.
+
+Infectious Disease.  The patient was not felt to be infected
+and after the initial dose of Levofloxacin in the emergency
+department antibiotics were discontinued.  The patient
+remained afebrile.
+
+Dictation will be completed with discharge diagnosis and
+discharge medications prior to discharge.
+
+
+
+
+
+
+                            Constancio Clyne m.d. 17513
+
+Dictated By:Lelamae Michielsen
+MEDQUIST36
+
+D:  2005-01-09 00:00:00  18:16
+T:  2005-01-09 00:00:00  19:22
+JOB#:  17513

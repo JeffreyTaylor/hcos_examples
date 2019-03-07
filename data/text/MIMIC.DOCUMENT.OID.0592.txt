@@ -1,0 +1,412 @@
+Admission Date:  2005-07-09 00:00:00              Discharge Date:   2005-07-09 00:00:00
+
+Date of Birth: 1931-12-14 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Adhesive Tape
+
+Attending:Kanaloa Loonsfoot
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+RIJ placement
+
+History of Present Illness:
+Ms. 123 Any St. female with PMH significant
+for HTN, HLD, and chronic UTI's who is being transferred to the
+MICU for management of hypotension. Per her son,
+the patient's home nurse noted that she had a slight temperature
+this morning. Her son noted that her a123 Any St.e was poor and was
+also incoherent. He also noted that her catheter contained urine
+that was dark and concentrated. He immediately called 911. She
+was then brought to UPMCE ED for further work-up. There is no
+report of SOB, chest pain, abdominal pain, diarrhea, or
+constipation. The son was also concerned that her catheter was
+not working well and needed to be changed.
+In the ED, initial vitals were T 102.2 BP 115/33 AR 105 RR 18 O2
+sat 94% on 3L NC. She received Vancomycin 1gm IV, Zosyn 4.5gm
+IV, and Tylenol 1gm. Her blood pressure dropped to 95/43 and
+given lack of improvement after receiving 3L NS, she is being
+transferred to the MICU for closer monitoring.
+
+Past Medical History:
+1)Para123 Any St. 2005-07-09 00:00:00 Anterior Spinal Infarct
+2)Thoracic Aneurysm Repair (2005-07-09 00:00:00)
+3)Hx of LLL Collapse/PNA s/p mucous plug removal via
+bronchoscopy
+4)HTN
+5)Hyperlipidemia
+6)GERD
+7)Suprapubic Catheter Placement / UTIs on Ppx Bactrim
+8)Fecal Incontinence
+9)Depression
+
+Social History:
+58 year tobacco history, now smoking 3 cigarettes per day,
+denies EthOH, denies drug abuse.  Widowed.  Has 3 sons.  She
+lives alone in UPMCE.
+
+Family History:
+Son has DM
+
+Physical Exam:
+vitals T 95.8 BP 117/50 AR 65 RR 23 O2 sat 95% on 3L NC
+Gen: Patient awake, responsive to commands
+HEENT: MMM, PERRLA
+Heart: RRR, no audible m,r,g
+Lungs: CTAB, scattered crackles at posterior bases
+Abdomen: Markedly distended but soft, NT, +BS
+Extremities: 1+ bilateral edema, 2+ DP/PT pulses bilaterally;
+large
+ulcer approximately 6cm in diameter over L ischium that appears
+to probe down to bone. She also has wound vac dressing in place
+on left lower extremity.
+
+
+Pertinent Results:
+2005-07-09 00:00:00 07:55PM   LACTATE-1.1
+2005-07-09 00:00:00 07:57PM   WBC-14.0*# RBC-4.76 HGB-12.6 HCT-38.8 MCV-82
+MCH-26.4* MCHC-32.4 RDW-15.9*
+2005-07-09 00:00:00 07:57PM   CALCIUM-8.3* PHOSPHATE-3.1 MAGNESIUM-2.3
+2005-07-09 00:00:00 07:57PM   GLUCOSE-120* UREA N-12 CREAT-0.5 SODIUM-138
+POTASSIUM-4.6 CHLORIDE-102 TOTAL CO2-24 ANION GAP-17
+2005-07-09 00:00:00 08:00PM URINE  RBC-0 WBC-0-2 BACTERIA-MANY YEAST-NONE
+EPI-0
+2005-07-09 00:00:00 08:00PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-9.0*
+LEUK-MOD
+2005-07-09 00:00:00 05:52AM BLOOD WBC-8.9 RBC-4.31 Hgb-11.3* Hct-36.0
+MCV-84 MCH-26.1* MCHC-31.3 RDW-15.7* Plt Ct-427
+2005-07-09 00:00:00 06:30AM BLOOD ESR-105*
+2005-07-09 00:00:00 06:55AM BLOOD ESR-80*
+2005-07-09 00:00:00 05:52AM BLOOD ESR-90*
+2005-07-09 00:00:00 05:52AM BLOOD Glucose-114* UreaN-9 Creat-0.4 Na-143
+K-4.1 Cl-104 HCO3-29 AnGap-14
+2005-07-09 00:00:00 05:52AM BLOOD Albumin-3.2* Calcium-8.5 Phos-2.8 Mg-2.5
+2005-07-09 00:00:00 07:05AM BLOOD CRP-123.6*
+2005-07-09 00:00:00 05:52AM BLOOD CRP-101.0*
+
+ECG: Sinus tachycardia. Left axis deviation. Left anterior
+fascicular block. Diffuse non-diagnostic repolarization
+abnormalities. Compared to the 123 Any St.us tracing of 2005-07-09 00:00:00
+heart rate has increased. Otherwise, no major change.
+2005-07-09 00:00:00: KUB Single AP abdominal radiograph obtained, however,
+limited as only the superior portion of the abdomen imaged. The
+imaged portion is obscured by overlying pannus, however, the
+underlying bowel loops show a nonspecific bowel gas pattern with
+mildly air-filled distended loops of colon. No intra-abdominal
+free air. Multiple left-sided rib deformities are noted.
+2005-07-09 00:00:00: Single AP chest radiograph compared to 2005-07-09 00:00:00 show
+slightly increased interstitial lung markings, which may
+represent mild edema with areas of new patchy opacity in the
+right lung base and left mid lung, which may represent
+atelectasis although aspiration/pneumonia would be difficult to
+exclude. There is no pneumothorax or pleural effusion. The
+cardiomediastinal contour is unchanged. Again seen are multiple
+left-sided rib deformities.
+
+CT Head:
+IMPRESSION:
+1. No acute intracranial hemorrhage.
+2. Moderate opacification from fluid versus mucosal thickening
+in the
+maxillary sinuses, not Denson, [**First Name3 (LF) **] reflect
+sinusitis, and
+clinical correlation is recommended.
+
+CTA Chest 2005-07-09 00:00:00
+IMPRESSION:
+1. No evidence of pulmonary embolism or aortic dissection.
+2. Mild cardiac decompensation with pulmonary vascular
+congestion but no
+alveolar edema. Small right pleural effusion.
+3. Possible small airways infection in the right middle lobe.
+4. Aneurysmal descending aorta, 4 cm. Descending aortic graft in
+place
+without complication.
+5. Enlargement of the pulmonary arteries suggesting underlying
+pulmonary
+artery hypertension.
+
+2005-07-09 00:00:00 MRI HIP
+FINDINGS:
+Please note that due to hardware failure, the complete sequences
+could not be obtained.
+There is a comminuted left proximal femur intertrochanteric
+fracture, with
+coxa varus orientation. There is a large amount of marrow edema
+within the
+proximal femur. Marrow edema and a small fracture line also
+extends into the femoral neck. However, the marrow signal in the
+femoral head appears normal. There is a small left hip joint
+effusion. The adjacent left acetabulum appears normal. There is
+a large amount of surrounding muscular edema. Also noted is
+abnormal marrow signal in bilateral ischial tuberosities, left
+greater than right. These areas of abnormal marrow signal are
+just deep to the bilateral decubitus ulcers. In the appropriate
+clinical setting, these are consistent with osteomyelitis.
+The right hip appears normal. There is no evidence of right hip
+fracture.
+A suprapubic catheter is present. There is a large amount of
+pelvic
+musculature atrophy, consistent with patient's history of
+quadri123 Any St..
+There are spinal cysts which are partially visualized on the T1
+images in the sacral spine. Due to lack of T2-weighted images,
+these cannot be further evaluated. Differential consideration
+includes Tarlov cyst.
+
+8/3 L HIP XR: IMPRESSION:
+1. Comminuted intertrochanteric fracture of the proximal left
+femur.
+
+2. Sclerosis and osseous irregularity of the left ischial
+tuberosity in the region of a vacuum drain is concerning for
+osteomyelitis. Correlation with the recently performed MRI is
+advised.
+
+2005-07-09 00:00:00 R HIP XR: Markedly limited study without definite evidence
+for acute bony injury or marked infection. If there is high
+clinical concern, cross-sectional imaging is recommended. Due to
+the patient's large size MRI may not be possible and CT scan may
+be the best alternative.  (Per discussion with radiologist after
+fracture seen on MR, fracture was 123 Any St.usly visible on this
+film as well, but was poor study)
+
+
+
+Brief Hospital Course:
+Ms. 123 Any St. female with PMH as listed
+above who presents with transient hypotension and leukocytosis.
+
+1)Hypotension: Patient initially found to be hypotensive with
+SBP~90's despite receiving 3L NS. Her baseline SBP is between
+110-120's. Upon transfer to the MICU, her BP stabilized. The
+drop in her BP may have been early sepsis physiology given
+fever, history of recurrent UTI's. She may also have some
+underlying autonomic dysregulation given para123 Any St.. She was
+started on Vancomycin and Zosyn given prior culture results
+which grew E.coli and enterococcus. After transfer to the floor
+on 2005-07-09 00:00:00 her BP remained stable SBP 110s-120s, no longer
+requiring IVF.
+
+2)Leukocytosis/fevers: Patient noted to have WBC~14.0 and
+febrile on admission. Cxray was not very revealing. Her U/A was
+positive for leukocytes and nitrites but no WBCs and urine cx
+were negative. Plastic surgery was consulted to see patient
+while she was in-house and recommended VAC dsg changes q MWF.
+She continued to spike fevers until 2005-07-09 00:00:00 on Vanc/Zosyn but
+remained afebrile for the remainder of her hospital course.
+Since her urine cultures and blood cultures were all negative,
+we explored other etiologies for her fever. She had a CTA that
+did not show a PE but did show possible PNA. She also had XRs of
+her hips to look for osteomyelitis given B/L decubitus ulcers.
+Initial XR was poor study. ESR was checked and was 105. MRI
+showed abnormal marrow signal of B/L ischial tuberosities near
+areas of decubitus ulcers c/w osteomyelitis. Zosyn was
+discontinued, vancomycin was continued and Levofloxacin was
+added for gram negative coverage for her osteo. She will need 6
+week course (5 more weeks of antibiotics). She will also need
+follow-up of inflammatory markers which trended down during
+hospital stay.
+
+3)Mental status changes: Per son, the patient was less coherent
+on day of admission. This resolved rapidly with resolution of
+hypotension and fever. CT head was negative.
+
+4)Neurogenic bladder: Patient has chronic SP foley catheter
+placement as a result of her para123 Any St.. The patient's son
+reported that her foley was not working appropriately. Urology
+was contactAldene Denson on floor and performed SP catheter change and
+wound care was consulted for ostomy bag change around catheter.
+She was also reporting increased bladder spasms since Baclofen
+was originally held in MICU. Spasms resolved with restarting
+Baclofen and she had decreased leaking around SP catheter after
+catheter/bag change.
+
+5)L trochanter ulcer: Patient is followed closely by plastic
+surgery as an outpatient. She has a wound vac on her left lower
+extremity. Wound care and plastic surgery were consulted and
+changed VAC on MWF. She was continued on Zinc sulfate. When
+findings of osteomyelitis were reported on MRI, plastics was
+again contactAldene Denson and they did not feel that further debridement
+was neccessary at that time. She will follow up in plastics
+clinic. L buttock VAC dsg changes should continue qMWF.
+
+6.) Left femur fracture: Incidentally, patient noted to have
+comminuted L intertrochanteric femur fracture on MRI. She denied
+any pain or h/o trauma. Imaging also commented on osteopenia.
+She was started on calcium and vitamin D supplements as well as
+Alendronate q week for atraumatic fracture. Ortho was consulted
+and did not recommend surgery since she was non-weight bearing
+on that leg and did not have pain. Could consider endocrine
+workup and/or bone density scan as outpatient. She will follow
+up in ortho clinic as outpatient.
+
+7)GERD: Continued on Pantoprazole.
+
+8)COPD: Pt reports she has "lung disease" but denies known h/o
+COPD and PFTs in 2005-07-09 00:00:00 were normal. She required 3L O2 NC while
+in hospital to maintain O2 sats around 94-95%. She reports that
+she was intermittently on 3L O2 at home, but it was unclear who
+started her home oxygen and what the original indication was.
+She was continued on outpatient regimen of Advair and Combivent.
+She has not seen a pulmonologist in the past, but follow up was
+arranged for PFTs and an appointment was made with Dr. Kanaloa Loonsfoot.
+
+9)Depression: Outpatient regimen was initially held given mental
+status. She was then re-started on Gabapentin, Nortriptyline,
+and Bupropion.
+
+10) Code: DNR/DNI
+
+Medications on Admission:
+Gabapentin 900mg PO TID
+Nortriptyline 50mg PO QHS
+Bupropion 100mg PO BID
+Pantoprazole 40mg PO daily
+Aspirin 81mg PO daily
+Colace 100mg PO BID
+Zinc sulfate PO daily
+Hexavitamin PO daily
+Advair 250-50
+Combivent MDI
+
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+2. Gabapentin 300 mg Capsule Sig: Three (3) Capsule PO Q8H
+(every 8 hours).
+3. Nortriptyline 25 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+4. Bupropion 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+5. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+2005-07-09 00:00:00 Disk with Devices Inhalation UPMCE (2 times a day).
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: 2005-07-09 00:00:00
+aerosols Inhalation four times a day as needed for shortness of
+breath or wheezing.
+9. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO every six (6)
+hours as needed for constipation.
+10. Hexavitamin     Tablet Sig: One (1) Tablet PO once a day.
+11. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+12. Baclofen 10 mg Tablet Sig: Four (4) Tablet PO TID (3 times a
+day).
+13. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 5 weeks: Do not take at the same time as
+your zinc. .
+Disp:*35 Tablet(s)* Refills:*0*
+14. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)
+Intravenous Q 12H (Every 12 Hours) for 5 weeks.
+Disp:*70 * Refills:*0*
+15. Sodium Hypochlorite 0.5 % Solution Sig: One (1) Appl
+Miscellaneous ASDIR (AS DIRECTED).
+16. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical PRN
+(as needed).
+17. Saline Flush 0.9 % Syringe Sig: One (1)  Injection Per NEHT
+protocol: Per NEHT protocol.
+Disp:*30 * Refills:*2*
+18. Heparin Flush 10 unit/mL Kit Sig: One (1)  Intravenous per
+NEHT protocol: Per NEHT protocol.
+Disp:*30 * Refills:*2*
+19. Outpatient Lab Work
+Please have CBC, BMP (including electrolytes and renal
+function), Vancomycin trough level, ESR and CRP checked q week
+on Wednesday or Thursday x 5 weeks. Fax results to Dr. Denson
+at test@mail.com.
+20. Home oxygen
+Continue use of home oxygen. Patient 123 Any St.usly on 3L of
+supplementary oxygen at home. She should continue to use 3L of
+oxygen via nasal cannula unless instructed not to by a
+physician.
+21. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2)
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+22. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+23. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QTHUR (every
+Thursday) as needed for hip fx.
+Disp:*4 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE/UPMCE VNA
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Osteomyelitis
+Secondary Diagnosis
+1. L proximal femur fx
+2. T8 Para123 Any St. 2005-07-09 00:00:00 Anterior Spinal Infarct 2005-07-09 00:00:00 surrounding
+thoracic aneurysm repair
+3. Thoracic Aneurysm Repair (2005-07-09 00:00:00)
+4. Hx of LLL Collapse/PNA s/p mucous plug removal via
+bronchoscopy
+5. HTN
+6. Hyperlipidemia
+7. GERD
+8. Chronic Suprapubic Catheter
+9. UTIs, was on Ppx Bactrim until 2005-07-09 00:00:00. Fecal Incontinence
+11. Depression
+12. ?COPD (PFTs normal 2005-07-09 00:00:00), intermittently on 3L home O2,
+
+
+Discharge Condition:
+Hemodynamically stable, afebrile, normotensive
+
+
+Discharge Instructions:
+You were admitted to the hospital with fever, low blood
+pressure, and confusion. This was most likely from an infection
+of the bones in your hips. We also found that you have a
+fracture of your left hip. You should not bear any weight on
+this leg and should have a repeat X ray in approximately 6 weeks
+to ensure that it is healing.
+
+We made the following changes to your medications
+1. We added Vancomycin 1g IV twice daily
+2. We added Levofloxacin 500 mg PO daily
+3. We added Calcium and Vitamin D supplements
+4. We added Alendronate 75 mg PO q week
+
+Please return to the ER or call your primary care physician if
+you have fever >101, chills, shortness of breath, chest pain, or
+pain in your hips.
+
+Followup Instructions:
+Please follow up with your primary care doctor Dr. Kanaloa Loonsfoot
+Denson. Call test@mail.com if you have any questions. He will
+see you at home. You should also have a repeat X ray of your
+left hip to ensure continued resolution of hip fracture.
+
+You will also need to have lab work done to follow safety labs
+and inflammatory markers. This will be drawn by nurses in your
+home.
+
+Please follow up with Dr. Kanaloa Loonsfoot in Pulmonary clinic. You
+have an appointment on Wednesday 2005-07-09 00:00:00 at 8am. Please
+arrive at 7:30am to complete paperwork and have pulmonary
+function tests prior to your visit.  Call test@mail.com if you
+have any questions or need to reschedule.
+
+Please follow up with Dr. Kanaloa Loonsfoot in plastic surgery/wound care
+clinic on Friday 2005-07-09 00:00:00 at 1:30pm. Call test@mail.com if you
+have any questions or need to reschedule.
+
+Please follow up with Dr. Kanaloa Loonsfoot in orthopedics clinic on
+Thursday 2005-07-09 00:00:00 at 10:00am. Call test@mail.com if you
+have any questions or need to reschedule.
+
+
+

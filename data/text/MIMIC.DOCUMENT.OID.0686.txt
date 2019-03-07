@@ -1,0 +1,227 @@
+Admission Date:  2009-03-23 00:00:00              Discharge Date:   2009-03-23 00:00:00
+
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Jouette Auwarter
+Chief Complaint:
+large intraparenchymal bleed
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Patient is a 90 yo woman with PMH of dementia, obesity, OA, DM2,
+HTN, cataracts, falls, CRF, Anemia, DNR/DNI and active UTI who
+suffered a fall at UPMCE Rehab today.  She is primarily Russian
+speaking, but also speaks some English.  She was heard to fall
+in the bathroom at 0800.  Patient denied LOC and was without any
+apparent injury.  She was put back in  bed.  some time
+thereafter she was noted to have dysarhtira, left facial droop
+and flaccid left hemiparesis in the left arm.  She was
+transfered to UPMCE for presumed CVA.
+
+She reports to me that she fell and endorses pain in her head
+and her lower back.  She endorses that she fell around the time
+of the pain, but she cannot communicate the exact sequence of
+events.
+
+At baseline she is demented but very active, walking with walker
+and conversant.  She has recently been getting treatment for UTI
+with Levaquin.  Her proxy Canden Rabin reports that her family noticed
+some mild speech impairments last week, but no focal weakness.
+This however was around the time of the positive UA and may have
+been related to infection.
+
+ROS: she is unable to offer full ROS.  She is known to have
+acitve UTI and she does endorse headache and LBP.
+
+
+Past Medical History:
+dementia, obesity, OA, DM2, HTN, cataracts, falls, CRF, Anemia
+
+
+Social History:
+She lives at UPMCE Rehab.  Her proxy is relative Canden Rabin
+Canden Rabin who can be reached at test@mail.com.  Cell:
+test@mail.com.
+
+Family History:
+N/c
+
+Physical Exam:
+T- 98 BP- 142-173/53-80  HR- 72  RR- 14  O2Sat  100 2l
+Gen: Lying in bed, NAD
+HEENT: NC/AT, moist oral mucosa
+Neck: Cervical collar in place
+Back: No skin changes.  No point tenderness entire spine and
+pelvis.
+CV: RRR, Nl S1 and S2, moderate soft ejection murmur.
+Lung: Clear to auscultation bilaterally
+aBd: +BS soft, nontender
+ext: no edema.  NO hips tenderness.
+
+Neurologic examination:
+Mental status: On arrival was reportedly only responsive to
+heavy sternal rub.  She is now awake, speaking a few words
+coherently, but mostly incoherent.  She is following many
+commands.  She regards the right side of the room better than
+the left, but does regard her left arm.  She is oriented to self
+and says UPMCE.  She cannot name the day,date or year.  She does
+not sound dysarthric but mumbles.  It is difficult as she has a
+hard collar on, and speaks Russian as her primary language.
+Difficult to assess attention, but seems to be mildly
+inattentive at least.  Cannot name watch.  Repeats.  Confuses
+right with left but does not neglect left arm.
+
+Cranial Nerves:
+Pupils equally round and trace reactive to light,3 mm
+bilaterally and surgical. Blinks to threat right, but not left.
+Does not track.  Appears to have right gaze preference.  Crosses
+past midline to left only slightly.  Face symmetric at rest,
+does not smile though.  Hearing intact grossly.  Does not
+cooperate with testing tongut, SCM, Palate, Trap.
+
+Motor:
+Normal bulk bilaterally. Tone normal right but flaccid left arm.
+No observed myoclonus or tremor She cannot cooperate with formal
+strength testing, but is
+definitely full strength in the right tricep and finger flexors.
+ Her left arm is briefly anti-gravity and withdraws weakly to
+pain, and appears significantly weaker than the right.  She has
+very brief antigravity strength of the IPs bilaterally and
+appears to withdraw relatively equally in the lower extremities.
+
+
+Sensation: Grimaces x 4, but less so in LUE. Withdraws x 4.
+
+Reflexes:
++2 and symmetric throughout. Crossed adductors.
+Toes down right and up left.
+
+Coordination: could not assess.
+Gait: could not assess.
+
+
+Pertinent Results:
+2009-03-23 00:00:00 01:10PM BLOOD WBC-8.1 RBC-3.77* Hgb-11.7* Hct-34.1*
+MCV-91 MCH-31.0 MCHC-34.2 RDW-12.7 Plt Ct-234
+2009-03-23 00:00:00 12:42AM BLOOD WBC-11.3* RBC-3.30* Hgb-10.2* Hct-29.6*
+MCV-90 MCH-30.8 MCHC-34.3 RDW-12.8 Plt Ct-253
+2009-03-23 00:00:00 01:10PM BLOOD Plt Ct-234
+2009-03-23 00:00:00 01:10PM BLOOD PT-11.9 PTT-24.4 INR(PT)-1.0
+2009-03-23 00:00:00 01:10PM BLOOD Glucose-121* UreaN-23* Creat-1.3* Na-140
+K-4.9 Cl-105 HCO3-28 AnGap-12
+2009-03-23 00:00:00 12:42AM BLOOD Glucose-154* UreaN-25* Creat-1.2* Na-139
+K-4.5 Cl-108 HCO3-23 AnGap-13
+2009-03-23 00:00:00 01:10PM BLOOD Calcium-9.2 Phos-3.8 Mg-2.3
+2009-03-23 00:00:00 05:08PM BLOOD %HbA1c-6.3*
+2009-03-23 00:00:00 05:08PM BLOOD Triglyc-73 HDL-34 CHOL/HD-3.3 LDLcalc-63
+2009-03-23 00:00:00 01:10PM BLOOD TSH-1.2
+
+HCT:
+Large intraparenchymal hemorrhage centered within the right
+parietal lobe with small amount of blood in the subjacent
+subdural and subarachnoid space. Differential include amyloid
+angiopathy, underlying neoplasm and less likely vascular
+malformation.
+
+Brief Hospital Course:
+Ms. Rabin was admitted to the ICU for closer monitoring. Her
+hospital course by problem is as follows:
+
+1) ICH: felt to be likely secondary to head trauma after her
+fall. She was maintained with a SBP goal 130-170 and MAP < 130.
+She was treated with lopressor 25 PO BID with holding
+parameters. Dilantin was initially given and then held to avoid
+confusion regarding her sedation. An EEG was ordered which
+showed generalized slowing without epileptiform discharges. Her
+secondary stroke risk factors where checked and were as follows:
+HbA1c: 6.3, HDL: 34, LDL: 63. Over the course of her first
+night, she became increasingly sedated and vomited. A stat head
+CT was done which was unchanged but she was started on mannitol
+to reduce intracerebral edema. Her OSM and Na where monitored.
+She was also maintained normothermic and normoglycemic.
+
+2) Goal's of Care-
+The patient's neurologic exam did not improve despite the above
+measures. She remained minimally responsive and unable to follow
+commands. Extensive discussion with health care proxy and family
+around benefits of placing a feeding tube ensued. The family
+decided to not place a feeding tube and make the patient for
+comfort measures only in hospice level care. The family would
+like to provide an additional 2-3 days of IV fluid support in
+hopes that the patient will survive another 10 days. The
+palliative care service and UPMCE was consulted to aide in the
+family's decision making. Recommend morphine oral concentrate
+for comfort. Hyocyamine 0.125-0.25mg SL q4h PRN for excess
+secretions. Haldol 0.5-1mg DL q4h PRN agitation. Ativan
+0.5mg-1mg q4h PRN anxiety.
+
+3) FEN/GI: She failed a swallow evaluation and would require a
+PEG for nutrition. Extensive discussion with family determined
+patient would be made for comfort measures only. She may take PO
+as she is able.
+
+Medications on Admission:
+Levaquin 250 daily
+Ativan 0.5 UPMCE
+Ativan 0.5 Q6 prn
+Olanzapine 5mg daily
+Tylenol
+Lopressor 25 UPMCE
+Alphagan 0.2% drops both eyes, 1 drop UPMCE
+Preparation H
+Trazadone 25 QHS
+Asprin 81mg daily
+Ca Carobnoate 650 UPMCE
+Vit D 1000 u daily
+Colace 250 daily
+Senna 2 tab HS
+
+Discharge Medications:
+1. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q8H
+(every 8 hours).
+2. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day).
+3. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+5. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed.
+6. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed.
+7. Morphine Concentrate 20 mg/mL Solution Sig: 5-15 mg PO q2hrs
+as needed for pain, dyspnea.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - LTC
+
+Discharge Diagnosis:
+Right Intrparenchymal Hemorrhage
+Dementia, likely Alzheimer type
+
+
+Discharge Condition:
+Hospice Care.
+
+
+Discharge Instructions:
+You were admitted for a large intracranial hemorrhage.
+
+
+Followup Instructions:
+Hospice Care for comfort
+
+
+                             Canden Rabin Canden Rabin MD 28054
+

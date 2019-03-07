@@ -1,0 +1,242 @@
+Admission Date:  2014-09-11 00:00:00              Discharge Date:   2014-09-11 00:00:00
+
+Date of Birth: 1992-09-08 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Penicillins
+
+Attending:Berkay Chadda
+Chief Complaint:
+acute L leg ischemia
+
+Major Surgical or Invasive Procedure:
+Left femoral embolectomy and vein patch angioplasty.
+
+
+History of Present Illness:
+This 55-year-old gentleman presented to our emergency room last
+night with an acutely ischemic left foot which had been present
+for several hours. He was placed on heparin with significant
+improvement in symptoms. He had absent pulses distal to the
+groin on the left with intact pulses throughout on the right. He
+is now being explored for possible embolectomy.
+
+Past Medical History:
+PMH:
+
+MI,
+HIV,
+HTN
+
+Social History:
+He denies any use of alcohol or IV drugs. He has smoked 2014-09-11 00:00:00
+packs of cigarettes per day for the last 30 years.
+
+Family History:
+non contributary
+
+Physical Exam:
+HEENT:
+No thrush. Neck is supple.
+Full range of motion. No lymphadenopathy.
+CHEST:
+is clear to auscultation bilaterally.
+HEART:
+regular rate and rhythm without gallops or rubs noted. There is
+a III/VI murmur noted at the left lower sternal border to the
+left upper sternal border.
+ABDOMEN:
+is soft, nontender, nondistended. There were
+bowel sounds noted.
+RECTAL:
+There is no stool in the vault. The fluid in the vault is occult
+blood negative.
+EXTREMITIES:
+without clubbing, cyanosis or edema.
+NUEROLOGICAL EXAMINATION:
+Awake, alert and oriented x3.
+Cranial nerves, motor examination and sensory examination were
+normal.
+The toes were down-going bilaterally.
+
+Pertinent Results:
+2014-09-11 00:00:00
+
+WBC-6.0 RBC-2.66* Hgb-11.9* Hct-31.4* MCV-118* MCH-44.7*
+MCHC-37.8* RDW-13.4 Plt Ct-184
+
+2014-09-11 00:00:00
+
+Plt Ct-184
+
+2014-09-11 00:00:00
+
+PT-12.4 PTT-27.7 INR(PT)-1.0
+
+2014-09-11 00:00:00
+
+Glucose-93 UreaN-15 Creat-0.9 Na-141 K-4.1 Cl-107 HCO3-27
+AnGap-11
+2014-09-11 00:00:00
+
+CK(CPK)-409*
+
+2014-09-11 00:00:00
+
+Calcium-8.9 Phos-2.9 Mg-1.7
+
+Cardiology Report ECG Study Date of 2014-09-11 00:00:00  11:30:44 AM
+
+
+Baseline artifact. Sinus rhythm. Q waves in the anterior leads
+consistent with prior infarction. Probable left atrial
+abnormality. Compared to the 123 Any St.us tracing of 2014-09-11 00:00:00 the
+rate is faster.
+
+Intervals Axes
+Rate PR  QRS QT/QTc  P  QRS T
+64   168 96  test@mail.com  57
+
+2014-09-11 00:00:00 2:07 PM
+
+CHEST (PRE-OP PA & LAT)
+
+Reason: pt preop vascular surgery
+
+UNDERLYING MEDICAL CONDITION:
+55 year old man with new onset pain L leg/blanching and pulses
+diminished. Arterial clot
+REASON FOR THIS EXAMINATION:
+pt preop vascular surgery
+INDICATION: Left leg blanching and decreased pulses,
+preoperative study for vascular surgery.
+
+No studies are available for comparison on PACs.
+
+AP UPRIGHT AND LATERAL VIEWS OF THE CHEST: The heart size is
+normal. The mediastinal and hilar contours are normal. The lungs
+are clear. There is no pleural effusion or pneumothorax. The
+osseous structures are unremarkable.
+
+IMPRESSION: No evidence of acute cardiopulmonary process.
+
+GENERAL URINE INFORMATION
+
+Type  Color Appear Sp Schultheis
+Straw Clear        1.008
+
+Blood Nitrite Protein Glucose Ketone Bilirub Urobiln pH  Leuks
+SM    NEG     NEG     NEG     NEG    NEG     NEG     6.5 NEG
+
+RBC WBC Bacteri Yeast Epi
+0-2 0-2 NONE    NONE   0-2
+
+
+
+
+Brief Hospital Course:
+Pt admitted on 2014-09-11 00:00:00
+
+Stared on heparin.
+
+Pt undergoes a Left femoral embolectomy and vein patch
+angioplasty. Pt tolerates the procedure well. There were no
+complications.  Flow was re-established into
+the profunda femoris first and then into the superficial femoral
+artery. Doppler interrogation demonstrated good flow in both
+branches and there was a strongly palpable dorsalis pedis pulse.
+Pt extubated in the OR. Pt transfered to the PACU in stable
+condition.
+
+Once recovered from anesthesia. Pt transfered to the PACU in
+stable condition.
+
+Once recovered from anesthesia pt transfered to the VICU
+instable condition.
+
+IV Heparin started / coumadin started.
+
+2014-09-11 00:00:00
+
+Pt delined, diet was advanced as tolerated.
+
+PT consult was obtained. Pt was allowed to get OOB to chair.
+
+2014-09-11 00:00:00 - Discharge
+
+Pt stable PTT was monitered / On Discharge pt INR not at desired
+level. Pt Bijal Schultheis on lovenox for bridge over to couamdin.
+
+On discharge pt is stable / taking PO / ambulating / pos BM /
+urinating without difficulty.
+
+
+Medications on Admission:
+lopressor 25',
+combivir,
+viramune,
+lisinopril,
+lipitor,
+aspirin
+
+Discharge Medications:
+1. Lovenox 80 mg/0.8 mL Syringe Sig: One (1) syringe
+Subcutaneous once a day: Continue lovenox daily until INR is at
+least 2.0.
+Disp:*30 syringes* Refills:*0*
+2. Outpatient Bijal Schultheis Work
+PT, INR labs every other day until INR is at least 2.0.  Please
+have the Bijal Schultheis fax the results to Dr. Berkay Chadda, MD.
+3. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours.
+Disp:*40 Tablet(s)* Refills:*0*
+4. Warfarin Sodium 5 mg Tablet Sig: One (1) Tablet PO at
+bedtime.
+Disp:*30 Tablet(s)* Refills:*6*
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+primary diagnosis
+1) Thromboembolism s/p embolectomy and vein patch angioplasty.
+
+secondary diagnosis
+2) HIV
+3) HTN
+4) h/o MI
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please resume all your home medications as before as well as the
+ones prescribed to you upon discharge from the hospital.  If you
+experience fevers, chills, leg pain, or severe bleeding from
+your incisions, please report to the emergency department.
+
+Please do not drive for one week.  Please keep your dressing on
+till Monday.  You may take a shower on Monday.  Please do not
+soak in baths or swim in pools.
+
+Please be careful with falls and bumps because of increased risk
+of bleeding with lovenox and coumadin.
+
+Followup Instructions:
+Please follow-up with Dr. Berkay Chadda in one week to follow
+up your blood coagulation times (PT/INR).  Please call (test@mail.com to make an appointment.  Dr. Berkay Chadda will also set up
+a TTE to evaluate your heart.  Thank you.
+
+Please follow-up with Dr. Berkay Chadda in 2 weeks.  Please
+call test@mail.com to make an appointment.
+
+
+
+Completed by:2014-09-11 00:00:00

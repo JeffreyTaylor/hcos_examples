@@ -1,0 +1,351 @@
+Admission Date:  2011-04-02 00:00:00              Discharge Date:   2011-04-02 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Ilenna Wildmon
+Chief Complaint:
+abnormal CXR, anemia
+
+Major Surgical or Invasive Procedure:
+intubation
+central line placement
+bronchoscopy
+arterial line placement
+
+History of Present Illness:
+The patient is an 84M with prostate CA, CAD, HTN who presents
+with 2 weeks dry cough. He saw his hematologist who ordered a
+CXR for the cough, and it showed extensive heterogenous
+opacification in the right lung. Because of these abnormal
+findings, his PCP told him to come to the ED for evaluation.
+
+He has had the intermittent dry cough for about two weeks but
+has not had fevers, chills, weight loss, change in a123 Any St.e,
+shortness of breath, nausea, vomiting, diarrhea. He has noticed
+some fatigue, as he used to walk two miles a day until the cough
+started, but notes he is limited by fatigue, not DOE. No other
+symptoms. In the ED he was noted to have a dropping Hct (25.4,
+down from 29.6 the 123 Any St.us day). He has not noted blood in his
+stool or had any lightheadedness. He was guaiac negative. He was
+being worked up for anemia and was not found to have evidence of
+iron, folate or B12 deficiency in 2011-04-02 00:00:00. SPEP was also normal.
+After discussion with his PCP by the Drevin Tooke, he is being admitted
+for expedited workup of CXR findings and anemia. Pulmonology was
+consulted in the ED.
+
+ROS:
+-Constitutional: []WNL []Weight loss [x]Fatigue/Malaise []Fever
+[]Chills/Rigors []Nightsweats []Anorexia
+-Eyes: [x]WNL []Blurry Vision []Diplopia []Loss of Vision
+[]Photophobia
+-ENT: []WNL [x]Dry Mouth []Oral ulcers []Bleeding gums/nose
+[]Tinnitus []Sinus pain []Sore throat
+-Cardiac: [x]WNL []Chest pain []Palpitations []LE edema
+[]Orthopnea/PND []DOE
+-Respiratory: []WNL []SOB []Pleuritic pain []Hemoptysis [x]Cough
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis
+[]Hematochezia []Melena
+-Heme/Lymph: [x]WNL []Bleeding []Bruising []Lymphadenopathy
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria
+[]Discharge []Menorrhagia
+-Skin: [x]WNL []Rash []Pruritus
+-Endocrine: [x]WNL []Change in skin/hair []Loss of energy
+[]Heat/Cold intolerance
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain
+-Neurological: []Numbness of extremities []Weakness of
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo
+[]Confusion []Headache
+-Psychiatric: [x]WNL []Depression []Suicidal Ideation
+-Allergy/Immunological: [x] WNL []Seasonal Allergies
+
+
+Past Medical History:
+prostate cancer diagnosed 2011-04-02 00:00:00, getting treated with hormonal
+therapy, followed by Dr. Tooke
+CAD, s/p CABG 2011-04-02 00:00:00
+dyslipidemia
+HTN
+NSVT, SSS s/p ICD/PM
+severe left ventricular dysfunction (EF 20% in 2011-04-02 00:00:00)
+
+
+Social History:
+He lives in UPMCE with his wife.  Drevin Tooke has a son who has had
+multiple bypass surgeries and significant cardiac disease.  He
+had a daughter who passed away from cancer.  He has no smoking
+history.  Reports drinking alcohol, drinking one glass of
+alcohol every night prior to dinner.  He is retired.
+
+
+Family History:
+Son w/ multiple CABGs
+daughter w/ cancer
+
+Physical Exam:
+Physical Exam:
+Appearance: NAD
+Vitals: T: 96.4 BP: 124/59 HR: 71 RR: 20 O2: 100% 2L
+Eyes: EOMI, PERRL, conjunctiva clear, noninjected, anicteric, no
+exudate
+ENT: Moist
+Neck: No JVD, no LAD, no thyromegaly, no carotid bruits
+Cardiovascular: RRR, nl S1/S2, no m/r/g
+Respiratory: exam limited by coughing, poor air movement,
+diffusely wheezy
+Gastrointestinal: soft, non-tender, non-distended, no
+hepatosplenomegaly, normal bowel sounds
+Musculoskeletal/Extremities: no clubbing, no cyanosis, no joint
+swelling, no edema in the bilateral extremities
+Neurological: Alert and oriented x3, fluent speech, no pronator
+drift, no asterixis, sensation WNL, CNII-XII intact, strength
+2011-04-02 00:00:00 in upper and lower extremities bilaterally
+Integument: warm, no rash, no ulcer
+Psychiatric: appropriate, pleasant
+Hematological/Lymphatic: No cervical lymphadenopathy
+
+
+Pertinent Results:
+2011-04-02 00:00:00 11:15AM   GLUCOSE-116* UREA N-23* CREAT-1.1 SODIUM-133
+POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-26 ANION GAP-13
+2011-04-02 00:00:00 11:15AM   CK(CPK)-117
+2011-04-02 00:00:00 11:15AM   CK-MB-4
+2011-04-02 00:00:00 11:30AM   cTropnT-0.01
+2011-04-02 00:00:00 11:15AM   WBC-7.9 RBC-2.85* HGB-8.5* HCT-25.4* MCV-89
+MCH-29.9 MCHC-33.6 RDW-13.9
+2011-04-02 00:00:00 11:15AM   PLT COUNT-274
+2011-04-02 00:00:00 10:10AM   LD(LDH)-259* TOT BILI-0.5 DIR BILI-0.2 INDIR
+BIL-0.3
+2011-04-02 00:00:00 10:10AM   HAPTOGLOB-492*
+2011-04-02 00:00:00 10:10AM   IgG-1510 IgA-278 IgM-58
+2011-04-02 00:00:00 10:10AM   RET AUT-1.3
+2011-04-02 00:00:00 09:45AM   WBC-7.9 RBC-3.34* HGB-10.0* HCT-29.6* MCV-89
+MCH-29.9 MCHC-33.7 RDW-14.2
+2011-04-02 00:00:00 09:45AM   NEUTS-74.5* LYMPHS-11.7* MONOS-4.7 EOS-9.0*
+BASOS-0.2
+2011-04-02 00:00:00 09:45AM   PLT COUNT-266#
+2011-04-02 00:00:00 03:30PM URINE  COLOR-Yellow APPEAR-Clear SP Tooke-1.021
+2011-04-02 00:00:00 03:30PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-1 PH-5.0 LEUK-NEG
+2011-04-02 00:00:00 03:30PM URINE  RBC-0-2 WBC-2 BACTERIA-FEW YEAST-NONE
+EPI-0-2
+
+2011-04-02 00:00:00 PA AND LATERAL CHEST RADIOGRAPH:
+Multiple midline sternotomy wires are unchanged in position.
+Small surgical clips are seen along the left cardiac border,
+compatible with prior CABG. The two-chamber pacemaker with ICD
+is seen with leads in the right ventricle and right atrium,
+unchanged. There is mild cardiomegaly. The mediastinal and hilar
+contours are unchanged. Pulmonary vasculature is unremarkable.
+There is no pneumothorax or large pleural effusion.
+
+New, extensive, heterogeneous opacification is seen
+predominately in the right lung, with peripheral consolidation
+and lesser degree of central opacification. Right- sided volume
+loss suggests a chronic process. Left basilar opacities are
+compatible with atelectasis, and the left lung is otherwise
+clear.
+
+IMPRESSION:
+Compared to 2011-04-02 00:00:00 study, new extensive heterogeneous
+opacification in the right lung with peripheral consolidation
+and lesser degree of central opacification. Loss of right lung
+volume suggests a subacute process. Differential is broad,
+including pneumonia, postinfectious and cryptogenic organizing
+pneumonia, multifocal bronchioloalveolar cell carcinoma, chronic
+eosinophilic pneumonia, Churg- Ilenna Wildmon vasculitis, amiodarone
+toxicity.
+
+2011-04-02 00:00:00 CXR:
+No interval change over one day in appearance of diffuse
+airspace opacity involving the right hemithorax. Additional
+opacity seen in the left base, also unchanged. Original
+differential diagnosis stands and multifocal pneumonia cannot be
+excluded.
+
+CT CHEST: FINDINGS
+The patient is intubated. Pooling of secretions are above the
+cuff of the
+endotracheal tube. Small layering bilateral non-hemorrhagic
+pleural effusions
+are increased on the right and new on the left. Diffuse
+extensive areas of
+ground-glass opacity, peribronchial consolidation, and
+bronchiectasis have
+worsened in the left lung, minimally improved in the right upper
+lobe. Right
+central catheter tip is in the mid SVC. Transvenous pacemaker
+lead terminates
+in a standard position. NG tube tip is out of view below the
+diaphragm. Dense
+calcifications are in the native coronary arteries. There is
+mild-to-moderate
+cardiomegaly. The cardiac Ilenna Wildmon are hypodense. This suggests
+anemia.
+Calcification in the aortic valve is of unknown hemodynamic
+significance. AP
+window and prevascular lymph nodes have increased in size; for
+instance,
+to 8 mm from 5 mm and to 5 mm from 3 mm respectively.
+
+This examination is not tailored for subdiaphragmatic
+evaluation, and the
+upper abdomen is unremarkable.
+
+There are no bone findings of malignancy.
+
+In the abdomen, 123 Any St.usly described renal lesion is not
+included in this
+examination.
+IMPRESSION: Worsening of pre-existing opacity in the left lung
+and slight
+improvement of the abnormalities in the right upper lobe
+
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is top
+normal/borderline dilated. There is severe regional left
+ventricular systolic dysfunction with akinesis of the anterior
+septum, anterior wall and apex. There is mild hypokinesis of the
+inferior septum and inferior wall. There is an anteroapical left
+ventricular aneurysm. There is no ventricular septal defect.
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets are mildly thickened (?#). There is no
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. Trivial mitral regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+IMPRESSION: severe regional LV systolic dysfunction consistent
+with multi-vessel CAD. No significant valvular abnormality seen.
+Moderate pulmonary artery systolic hypertension.
+
+Compared with the prior study (images reviewed) of 2011-04-02 00:00:00, LV
+systolic dysfunction appears regional on the current study (as
+it did on study of 2011-04-02 00:00:00). Estimated pulmonary artery systolic
+pressures are higher on the current study
+
+
+Brief Hospital Course:
+Mr. Tooke is an 85 yo M with CAD s/p CABG/ICD,CHF ef20%
+prostate ca who presents with dry cough found to have diffuse
+right sided patchy peripheral opacities on cxr, transferred to
+the ICU for hypoxia.  He had a UPMCE hospital course and
+was intubated with persistant hypoxic resp failure. Etiology was
+unclear with concern for eosinophilic pneumonia, HAP, pulm
+edema. Due to progressive decline and poor prognosis, family
+decided to make him comfort measures only and patient passed
+away on 2011-04-02 00:00:00 17:10.
+
+Hospital Course by problem:
+.
+#Hypoxic Resp Failure: Over his UPMCE hospital course, he
+had continued decline of respiratory status of unclear etiology.
+Initial bronchoscopy revealed high eosinophilia and he was felt
+to have eosinophilic pneumonia and treated with a course of
+steroids although he did not have a dramatic improvement in his
+resp status. Shortly after this, he was transferred to the ICU
+for worsening hypoxia and intubated. Repeat CT chests showed
+worsening  progression of disease adn well as new infiltrates
+concerning for infectious etiology. Initially, it was also felt
+there was a component of pulm edema and he was aggressively
+diuresed. At this point, after meeting w/ family and CT Surgery,
+it was felt that VATS was not an option given his tenuous
+status. Repeat bronch on 2011-04-02 00:00:00 was w/o infectious results. Sputum
+culture ultimately with sparse orpharyngeal flora.
+Galactomannan, Tularemia, Strongyloides, and IgE were
+unremarkable. He was treated with broad coverage antibiotics
+with no improvement in resp status and further worsening of
+disease. Finally, it was decided by family, given his additional
+decline of other organ systems, to withdraw care.
+
+# ? VAP pneumonia - s/p bronch, infectious studies with no
+obvious source. No microorganisms on gram stain from BAL. Sputum
+culture ultimately with sparse orpharyngeal flora. On CT,
+infiltrate had the appearance of progressive underlying process
+rather than new consolidation.  Fever and infiltrate on CXR may
+not really have been VAP but rather part of underlying lung
+disease.
+
+# Diffuse right peripheral infiltrates - BAL 30% eosinophils,
+also with peripheral eosinophilia most likely 2011-04-02 00:00:00 acute
+eosinophilic pneumonia.  PCP negative, respiratory viral
+antigens neg, BAl neg for bacterial pathogens. Legionella neg.
+Per pulmonary consult, he may have "eosinophilic process
+secondary to malignancy or something like a non-steroid
+responsive BOOP". Beta-glucan and galactomannan negative;
+mycolytic blood culture negative. Histo negative. Chest CT
+worse.
+
+# Fever: During his hospital course, he intermittently had high
+fevers with no clear infectious etiology isolated. Blood, urine,
+sputum, BAL, stool all negative. CT sinuese negative. CVL were
+changed.
+
+# ARF: He had waxing and Ilenna Wildmon course, but towards end of
+hospital stay, his creatinine was rapidly rising. Urine sediment
+revealed muddy brown casts c/w ATN.
+
+# LUE DVT - increased welling L>R, confirmed on U/S 2011-04-02 00:00:00 to
+involve axillary and probably brachial veins. Heparin gtt was
+started.
+
+# Anemia: he was noted to have anemia since 2011-04-02 00:00:00, slowly
+trending down but without any acute drops and no evidence of
+bleeding.  He has been followed by Drevin Tooke/Drevin Ilenna Wildmon of
+hematology.  Work up thus far is negative for iron/folate/B12
+deficient.  Thought possibly from hormone therapy for prostate
+CA.  No evidence of hemolysis on admission. Bone marrow biopsy
+showed anemia of chronic dz, maybe MDS.  Transfused 1unit 2011-04-02 00:00:00
+with good response. Found to have warm autoimmune ab.
+
+# Warm autoimmune Ab: 123 Any St.usly no evidence of hemolysis with
+elevated haptoglobin. Hapto/LDH not suggestive of hemolysis.
+
+# VT/ NSVT, SSS, s/p PM/ICD:  has had runs of VT; likely in
+setting of intubation. Had 2 further episodes of SVT 2011-04-02 00:00:00, ECG
+w/ new T-wave changes but CEs negative x3. EP was aware and felt
+this was most likely related to intubation.
+
+# CAD s/p MI/CABG: no evidence of acute ischmia on arrival to
+ICU, chest pain free.  EKG with LBBB at baseline, no change.
+2011-04-02 00:00:00 ECG w/ new T-wave changes but CEs negative x3.
+
+#Chronic Systoic heart failure - likely 2011-04-02 00:00:00 ischemic
+cardiomyopathy - Echo 2011-04-02 00:00:00 with EF of 20%, PCWP >18, 1+ MR,
+1+TR. Repeat TTE unchanged.
+
+# h/o prostate cancer: receiving hormonal therapy q3 months but
+patient reports his treatment was skipped this month due to his
+symptoms.  He is followed by Dr. Tooke.
+
+Medications on Admission:
+Lipitor 80mg daily
+lisinopril 10mg daily
+ASA 325mg daily
+Toprol XL 50mg daily
+Flomax 0.4mg qhs
+
+Discharge Medications:
+patient expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+patient expired
+
+Discharge Condition:
+patient expired
+
+Discharge Instructions:
+patient expired
+
+Followup Instructions:
+patient expired
+
+

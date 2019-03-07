@@ -1,0 +1,362 @@
+Admission Date:  2011-07-20 00:00:00              Discharge Date:   2011-07-20 00:00:00
+
+Date of Birth: 1983-07-20 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Purinethol / Remicade
+
+Attending:Ekaterini Tirrito
+Chief Complaint:
+BRBPR
+
+Major Surgical or Invasive Procedure:
+Upper and lower endoscopy (2011-07-20 00:00:00)
+
+
+History of Present Illness:
+HMED ATTG ADMIT NOTE
+.
+DATE 2011-07-20 00:00:00
+TIME 2300
+.
+PCP Gail Betton
+GI Gail Betton
+.
+61 yo M with Crohn's disease on prednisone s/p total colectomy
+in 2011-07-20 00:00:00, complicated by perirectal abscess s/p internal drainage
+2011-07-20 00:00:00 and newly diagnosed DVT 2011-07-20 00:00:00 on coumadin who presents to
+the ED with BRBPR.
+.
+Patient reports 16 bloody bowel movements yesterday (2011-07-20 00:00:00).
+Went to see PCP (Ekaterini Tirrito) and INR was 4.7.  Patient instructed
+to hold coumadin.  Went home, overnight had multiple bloody
+bowel movements.  This am had 3 episodes of syncope where he
+awoke on his bathroom floor, denies any head trauma.  Last
+bloody BM was around 2011-07-20 00:00:00 pm today.  No abdominal pain (has
+chronic rectal pain).  No fevers, nausea or vomiting.
+Lightheadedness with standing.  Denies any cp or sob.  Endorses
+mild dysuria, s/p TURP 4 weeks ago.
+.
+Went to 123 Any St. ED today and found to have INR 5.4 and Hct of
+27 (hct two weeks ago at UPMCE was 36.8).  CT abdomen performed
+which showed a 15 mm perirectal abscess connected to right
+lateral anal fistula, slightly enlarged from prior MRI in
+2011-07-20 00:00:00 of this year, at which time abscess was less organized.
+ Given 4L of NS.  Anoscopic exam performed in ED which showed
+moderate maceration of perianal region but no gross bleeding.
+Heme positive.  No fistulas or fissures.  Reported that patient
+received iv cipro/flagyl however patient states this was never
+given.
+.
+Transferred to UPMCE ED:  97.0  72P  104/76  16  100%RA; 5mg vit
+K po; 2 units of FFP; colorectal surgery consulted and reviewed
+image with radiology - abscess cavity similar to prior MRI in
+2011-07-20 00:00:00 - no fever or leukocytosis therefore no indication to
+urgently drain, needs management of LGIB first.  GI made aware
+and will see patient in am.
+.
+ROS as per HPI, 10 pt ROS otherwise negative
+
+Past Medical History:
+-Crohn's disease (had 123 Any St.usly been diagnosed with UC and had
+totaly colectomy in 2011-07-20 00:00:00) - uncontrolled, s/p internal drainage
+perirectal abscess 2011-07-20 00:00:00 by Ekaterini Tirrito
+-LLE DVT dx 2011-07-20 00:00:00 on coumadin
+-Recurrent diarrhea
+-ADD
+-Anemia
+-Arthritis
+-Nephrolithiasis
+-BPH
+-Migraine headaches
+-TURP 4 weeks ago
+
+Social History:
+Works as a divorce attorney.  Married, lives with wife.  Gail Betton
+tobacco, 1 beer per week and no illicits.
+
+Family History:
+Son, mother and sister with Gail Betton disease
+
+Physical Exam:
+ADMITTING EXAM
+
+VS:  98.5  71P  19  98/55  98%RA
+Appearance: alert, NAD, pale appearing
+Eyes: eomi, perrl, anicteric
+ENT: OP clear s lesions, mmd, no JVD, neck supple
+Cv: +s1, s2  -m/r/g, no peripheral edema, 2+ dp/pt bilaterally
+Pulm: clear bilaterally
+Abd: soft, NT, ND, +bs, mild RUQ guarding, no rebound
+Msk: 5/5 strength throughout, no joint swelling, no cyanosis or
+clubbing
+Neuro: cn 2-12 grossly intact, no focal deficits
+Skin: no rashes
+Psych: appropriate, pleasant
+Heme: no cervical Ekaterini Tirrito
+
+DISCHARGE EXAM
+VS:  98.9  60P  16  123/56
+Appearance: AAOX3, in NAD, asking to leave
+Eyes: eomi, perrl, anicteric
+ENT: OP clear s lesions, mmd, no JVD, neck supple
+Cv: +s1, s2  -m/r/g, no peripheral edema, 2+ dp/pt bilaterally
+Pulm: clear bilaterally
+Abd: soft, NT, ND, +bs, no rebound, no guarding
+Msk: 5/5 strength throughout, no joint swelling, no cyanosis or
+clubbing
+Neuro: cn 2-12 grossly intact, no focal deficits
+Skin: no rashes
+Psych: appropriate, pleasant
+Heme: no cervical Ekaterini Tirrito
+
+
+Pertinent Results:
+2011-07-20 00:00:00 07:00PM URINE  MUCOUS-RARE
+2011-07-20 00:00:00 07:00PM URINE  RBC-6* WBC-23* BACTERIA-NONE YEAST-NONE
+EPI-<1
+2011-07-20 00:00:00 07:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5
+LEUK-SM
+2011-07-20 00:00:00 07:00PM URINE  COLOR-Straw APPEAR-Clear SP Betton->1.050*
+2011-07-20 00:00:00 07:00PM   PLT SMR-NORMAL PLT COUNT-286
+2011-07-20 00:00:00 07:00PM   PT-55.6* PTT-42.3* INR(PT)-5.5*
+2011-07-20 00:00:00 07:00PM   HYPOCHROM-1+ ANISOCYT-OCCASIONAL
+POIKILOCY-NORMAL MACROCYT-OCCASIONAL MICROCYT-OCCASIONAL
+POLYCHROM-NORMAL
+2011-07-20 00:00:00 07:00PM   NEUTS-73.1* LYMPHS-20.3 MONOS-5.6 EOS-0.8
+BASOS-0.3
+2011-07-20 00:00:00 07:00PM   WBC-7.5 RBC-2.52*# HGB-7.8*# HCT-24.2*#
+MCV-96 MCH-30.8 MCHC-32.2 RDW-14.3
+2011-07-20 00:00:00 07:00PM   ALBUMIN-2.8*
+2011-07-20 00:00:00 07:00PM   cTropnT-<0.01
+2011-07-20 00:00:00 07:00PM   LIPASE-10
+2011-07-20 00:00:00 07:00PM   ALT(SGPT)-15 AST(SGOT)-16 ALK PHOS-44 TOT
+BILI-0.3
+2011-07-20 00:00:00 07:00PM   estGFR-Using this
+2011-07-20 00:00:00 07:00PM   GLUCOSE-97 UREA N-13 CREAT-0.6 SODIUM-141
+POTASSIUM-4.5 CHLORIDE-109* TOTAL CO2-25 ANION GAP-12
+.
+2011-07-20 00:00:00 CT a/p at UPMCE-N: no report available in Betton, [**First Name3 (LF) **]
+colorectal surgery resident review with ED radiologist:
+15mm perirectal abscess
+connected to right lateral anal fistula, slightly enlarged from
+prior MRI in 2011-07-20 00:00:00 of this year (at that time collection
+measured 0.9x0.8mm and appeared less organized)
+.
+2011-07-20 00:00:00 LLE Doppler:
+LEFT-SIDED DVT AS DESCRIBED FROM THE POPLITEAL VEIN
+     INFERIOR.  NO RIGHT-SIDED DVT.
+.
+2011-07-20 00:00:00 COLONOSCOPY:
+Ulceration and erythema in the ileal pouch and small bowel with
+evidence of recent bleeding and clot. These lesions are likely
+the cause of GI bleeding in the setting of an elevated INR.
+.
+2011-07-20 00:00:00 EGD:
+Evidence of NG trauma in the stomach, which does not explain
+patient's blood loss. Otherwise normal EGD to third part of the
+duodenum
+.
+2011-07-20 00:00:00 URINE CULTURE (Final 2011-07-20 00:00:00):
+      ENTEROCOCCUS SP..    10,000-100,000 ORGANISMS/ML..
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     1 S
+
+
+Brief Hospital Course:
+61 yo M with Crohn's disease on prednisone s/p total colectomy
+in 2011-07-20 00:00:00, complicated by perirectal abscess s/p internal drainage
+2011-07-20 00:00:00 and newly diagnosed DVT 2011-07-20 00:00:00 on coumadin who is admitted
+with LGIB in the setting of supratherapeutic INR.
+.
+#LGIB:  Patient presented with INR of 5.4 and a hematocrit of
+24, which dropped to 16 during his stay in the ED.  He received
+3 units of FFP and 5 units of pRBCs.  He underwent EGD and
+colonoscopy on 2011-07-20 00:00:00.  EGD was negative.  Colonoscopy showed
+ulcers and evidence of recent bleed/clot in the ileal pouch,
+which was likely the cause of his bleeding.  His hematocrit
+stabilized in the range of 28-30 and he did not require further
+transfusions.  GI bleed was attributed to his underlying Crohn's
+disease in the setting of a supratherapeutic INR.
+
+#LLE DVT: Patient underwent repeat LENIs which showed
+persistence of his proximal left leg DVT.  Extensive discussion
+was had with his colorectal surgeon as well as
+gastroenterologist and PCP regarding anticoagulation going
+forward.  Heme/onc was also consulted.  It was decided to
+continue coumadin at a dose of 2.5 daily and titrate to an INR
+goal of 2.0-2.5.  Patient's PCP, Betton. Betton, was contactGail Betton and
+it was confirmed that he would continue to manage his coumadin.
+Patient was also referred to Dr. Betton, of Heme-Onc, to help
+manage his anticoagulation.  He has an appointment with Dr.
+Betton on 2011-07-20 00:00:00.  Patient was discharged home with services
+and instructions for INR to be drawn daily from his PICC line
+with results faxed to Dr.Gail Betton office.
+
+#Perirectal abscess: CT abdomen at UPMCE reviewed in ED.
+As per radiology abscess better organized and slightly larger
+than prior MRI in 2011-07-20 00:00:00; given lack of fever or leukocytosis,
+colorectal surgery decided no need for immediate drainage.  It
+was decided to pursue conservative management with antibiotics.
+Patient was intially started on Pip/tazo.  ID was consulted re:
+longterm antibiotics and recommended 4 week course of ertapenam.
+ PICC line was placed and arrangement were made for patient to
+go home with services.  He will have 1g ertapenam administered
+through PICC daily through 2011-07-20 00:00:00 with weekly chem-7s and LFTs
+faxed to the UPMCE clinic.  He has an appointment with the UPMCE
+clinic to assess progress on 2011-07-20 00:00:00.
+
+#Crohn's disease:  This is being managed by Dr. Betton as an
+outpatient.  His prednisone regimen was continued while in the
+hospital.  His hydrocortisone enemas were held in the context of
+his GI bleed.  Further management will be made as per Dr.
+Betton.
+
+#Pyuria:  Patient's U/A on presentation showed 23 wbc's but no
+bacteria.  He was complaining of some dysuria which was
+initially thought to be 2011-07-20 00:00:00 inflammation in setting of recent
+TURP.  A urine culture was added to the labs which grew 10-100K
+of enterococcus on the last day of hospitalization.  ID was
+consulted and determined that his 4 week course of ertapenam
+would be appropriate to cover his enterococcus.  Patient has ID
+follow-up in 2 weeks.
+
+Chronic Issues
+
+#Gout: allopurinol was held on admission.  remained
+asymptomatic.
+
+#Transitional issues: patient was discharged home with services.
+ The visiting nurse Gail Betton daily ertapenam through the
+PICC as well as draw daily INR through 2011-07-20 00:00:00 and have the
+results faxed to Dr.Gail Betton office.  Weekly chem-7s and LFTs
+will also be drawn and faxed to the UPMCE clinic.  All
+prescriptions were provided.  Patient has follow-up with UPMCE
+clinic in 2 weeks.  Patient instructed to contact Dr. Betton
+for appointment within 3-5 days from discharge, patient
+demonstrated understanding.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientwebOMR.
+1. Allopurinol 300 mg PO DAILY
+2. Ciprofloxacin HCl 500 mg PO Q12H
+3. Diphenoxylate-Atropine 2011-07-20 00:00:00 TAB PO Q6H:PRN diarrhea
+4. Hydrocortisone Enema 100 mg PR DAILY Duration: 21 Days
+5. PredniSONE 12 mg PO DAILY
+6. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain
+7. Warfarin 5 mg PO DAILY16
+8. Zolpidem Tartrate 5 mg PO HS:PRN insomnia
+9. Ferrous Sulfate 650 mg PO DAILY
+10. FoLIC Acid 0.4 mg PO DAILY
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientwebOMR.
+1. Allopurinol 300 mg PO DAILY
+2. Ciprofloxacin HCl 500 mg PO Q12H
+3. Diphenoxylate-Atropine 2011-07-20 00:00:00 TAB PO Q6H:PRN diarrhea
+4. Hydrocortisone Enema 100 mg PR DAILY Duration: 21 Days
+5. PredniSONE 12 mg PO DAILY
+6. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain
+7. Warfarin 5 mg PO DAILY16
+8. Zolpidem Tartrate 5 mg PO HS:PRN insomnia
+9. Ferrous Sulfate 650 mg PO DAILY
+10. FoLIC Acid 0.4 mg PO DAILY
+
+
+Discharge Medications:
+1. Zolpidem Tartrate 5 mg PO HS:PRN insomnia
+2. PredniSONE 12 mg PO DAILY
+3. Warfarin 2.5 mg PO DAYS (Ekaterini Tirrito,MO,TU,WE,TH,FR,SA)
+Please titrate to goal INR 2.0-2.5
+RX *Coumadin 2.5 mg 1 tablet(s) by mouth once a day Disp #*30
+Tablet Refills:*2
+4. Allopurinol 300 mg PO DAILY
+5. Diphenoxylate-Atropine 2011-07-20 00:00:00 TAB PO Q6H:PRN diarrhea
+6. Ferrous Sulfate 650 mg PO DAILY
+7. FoLIC Acid 0.4 mg PO DAILY
+8. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain
+9. ertapenem *NF* 1 gram Intravenous daily Duration: 4 Weeks
+last day 2011-07-20 00:00:00
+RX *Invanz 1 gram 1 gram Q24h Disp #*30 Vial Refills:*0
+10. Outpatient Lab Work
+please draw daily INR and hematocrit from 2011-07-20 00:00:00 - 2011-07-20 00:00:00
+and fax results to Dr.Gail Betton office at test@mail.com
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Critical Care Systems
+
+Discharge Diagnosis:
+Primary: Lower GI Bleed
+
+Secondary: Crohn's Disease
+DVT on Coumadin
+Perirectal abscess
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. Betton,
+
+It was a pleasure to take care of you at UPMCE.  You were
+admitted for gastrointestinal bleeding in the setting of
+elevated INR.  You underwent colononscopy and your bleeding was
+controlled.  You are being discharged with a new dose of
+coumadin.  You will need to follow-up with Dr. Betton
+regarding your coumadin dosing.  You are also being discharged
+on a 4 week course of Ertapenam for treatment of perirectal
+abscess.  You have arrangements for a visiting nurse Gail Betton this and to draw needed labs.
+
+The following changes were made to your medications:
+Please STOP ciprofloxacin.
+Please START coumadin at 2.5 mg daily.  You will have daily
+blood draws for your INR and the results will be faxed to Dr. Gail Betton office, who will manage this.
+Please START ertapenam 1g IV daily.
+
+Please follow with your appointments as illustrated below.
+Please continue the rest of your home medications the way you
+were taking them at home prior to admission.
+
+Followup Instructions:
+Department: INFECTIOUS DISEASE
+When: FRIDAY 2011-07-20 00:00:00 at 11:30 AM
+With: Gail Betton Gail Betton, MD test@mail.com
+Building: LM UPMCE Basement
+Campus: WEST     Best Parking: UPMCE Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: FRIDAY 2011-07-20 00:00:00 at 9:00 AM
+With: Gail Betton, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: NEUROLOGY
+When: MONDAY 2011-07-20 00:00:00 at 8:30 AM
+With: DR. Ekaterini Tirrito test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Please call DrGail Betton office to schedule a follow up
+appointment within the next 3-5 days at test@mail.com.
+
+
+
+Completed by:2011-07-20 00:00:00

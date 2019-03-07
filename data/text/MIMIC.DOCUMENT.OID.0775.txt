@@ -1,0 +1,54 @@
+Admission Date: 2006-10-29 00:00:00          Discharge Date: 2006-10-29 00:00:00
+
+
+Service:
+
+DISCHARGE DIAGNOSES:
+1.  Ventilatory dependence.
+2.  Atrial fibrillation.
+3.  Neuropathy and weakness.
+4.  Hyperthyroidism.
+5.  Gastroesophageal reflux disease.
+6.  Status post gallbladder removal.
+
+KNOWN ALLERGIES AT THE TIME OF DISCHARGE:  1.  Levofloxacin
+causes a rash.  2.  Vancomycin causes hearing loss.  3.
+Aspirin, Celebrex and non-steroidal anti-inflammatory drugs
+the patient cannot tolerate.  4.  Gentamycin cannot tolerate
+per the patient's son.
+
+MEDICATIONS ON DISCHARGE:  1.  Vitamin C 500 q.d.  2.  Paxil
+40 mg q.h.s.  3.  Bactrim double strength one tab b.i.d.
+until 2006-10-29 00:00:00.  4.  Prednisone 60 mg q.d. until
+2006-10-29 00:00:00 per neurology request.  5.  Coumadin 3 mg po
+q.h.s. adjust to goal INR of 2.0 to 3.0.  6.  Regular insulin
+per sliding scale.  7.  Captopril 37.5 mg t.i.d.  8.  Colace
+100 b.i.d.  9.  Prevacid 30 mg q.d.  10.  Senna two tabs
+b.i.d.  11.  Digoxin 0.125 mg q.d.  12.  Synthroid 75
+micrograms q.d.  13.  Trazodone 25 mg q.h.s. prn for sleep.
+
+NUTRITIONAL NEEDS:  The patient is lactose intolerant.
+
+VENTILATORY SETTINGS:  Mrs. Dimmer has been attempted to
+use a ____________ daily for as long as she can tolerate
+usually one to four hours.  She has not required a C mode for
+the past two weeks.  When she gets fatigued she has been
+rested comfortably in IMV mode FI2 40%, PEEP of 5, pressure
+support of 5 with a set rate of 5.
+
+FOLLOW UP:  Dr. Dahliah Fleskes her primary care physician as arranged
+by Dr. Dahliah Fleskes and the Neurology Service as dictated above.
+
+
+
+
+
+
+                            Dahliah Fleskes, M.D.  20007
+
+Dictated By:Dahliah Fleskes
+MEDQUIST36
+
+D:  2006-10-29 00:00:00  10:56
+T:  2006-10-29 00:00:00  11:32
+JOB#:  20007

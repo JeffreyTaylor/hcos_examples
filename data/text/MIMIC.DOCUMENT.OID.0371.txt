@@ -1,0 +1,380 @@
+Admission Date:  2008-10-12 00:00:00              Discharge Date:   2008-10-12 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Lopressor
+
+Attending:Lekayla Ogram
+Chief Complaint:
+hematemesis
+
+Major Surgical or Invasive Procedure:
+EGD s/p sclerotherapy
+
+
+History of Present Illness:
+81y/o M with h/o diverticular bleed presented to ED with melena
+and BRBPR x1 day.  Pt felt lightheaded, but denied CP,
+palpitations, or dyspnea at rest. + DOE.  Denied N/V.  Pt was
+noted to be guaiac positive on ED exam.  Hct had dropped from
+41.9 in 2008-10-12 00:00:00 to 33.7.  NG lavage was performed, which revealed
+active bleeding that did not clear - 1000cc lavage was
+performed.  Pt was noted to have ST depressions in V2-V3 and
+elevated troponin to 0.15.  Pt was transfused 5 units PRBCs.
+EGD revealed esophageal varices and active bleeding.  Banding
+was attempted but unsuccessful.  Profuse bleeding was noted
+during EGD, and pt had episodes of frank hematemesis.  He was
+therefore intubated and sedated.
+
+In the Bashirah Venezia, pt rec'd 6 units PRBC and 5 units FFP (INR 2.9 on
+presentation).  He also rec'd protonix 40mg IV x1, sandestatin
+200mcg IV x1, levofloxacin 500mg IV x1, propofol gtt,
+succinylcholine/etomidate, vitamin K sc, and octreotide gtt.  He
+was given a total of 6 units FFP, as well, as well as a bag of
+platelets, and taken to IR for emergent TIPS.
+
+At IR, pt was noted to have small systemic-portal pressure
+gradient (10mm Hg), with elevated Pra (25mm Hg) and portal
+pressures of 35mm Hg.  Varices did not fill with injection of
+dye into the portal vein.  TIPS was not performed.
+
+Past Medical History:
+1. Atrial fibrillation on Coumadin.
+2. Type 2 diabetes, with peripheral neuropathy.
+3. Coronary artery disease status post stent 2008-10-12 00:00:00: 90% LCx, 80%
+OM2; returned with prox LCx occlusion and restenosis of OM2 -
+restented; then had in-stent thrombosis/reocclusion of LCx,
+treated successfully with PTCA.
+2008-10-12 00:00:00: NQMI and repeat catheterzation which revealed a moderate
+mid-LAD stenosis, a 30% proximal LCX stenosis, a normal RCA and
+an 80% D1 stenosis. He was treated medically.
+2008-10-12 00:00:00: Recurrent unstable angina and repeat catheterization
+revealed 30% stenosis in the mid LCX and OM 1, 50% stenosis in
+the mid LAD, and 60-70% stneoses in the distal LCX and D1. Once
+again he was treated medically.
+2008-10-12 00:00:00: NSTEMI, admitted, CK peak 462, trop peak 0.09. In the
+setting of acute bronchitis; no intervention performed.
+P-MIBI 2008-10-12 00:00:00: There is a moderate, fixed defect involving the
+basilar portion of the lateral wall. EF 52%.
+Echo 2008-10-12 00:00:00: EF > 55%. LA, RA dil. Mild regional left ventricular
+systolic dysfunction. Inferolateral akinesis and basal inferior
+akinesis. Right ventricular systolic function is probably
+presrved. 1+ MR. Moderate pulmonary artery systolic
+hypertension.
+4. Hypertension.
+5. Diverticulosis, with h/o GI bleed.
+7. Status post cataract extraction c/b infection and vision
+loss.
+8. Gastroesophageal reflux disease.
+10. History of retroperitoneal abscess.
+11. History of tuberculosis in the past status post thoracotomy.
+
+12. BPH, s/p TURP in 2008-10-12 00:00:00.
+13. Neurogenic bladder with h/o urinary retention.
+12. Emphysema, but mixed obstructive and restrictive picture
+2008-10-12 00:00:00: FEV1 67%, FVC 85%, FEV1/FVC 79%. TLC 81%, RV 74%, severely
+reduced DLCO.
+12. Lung nodule incidentally discovered on CT thorax s/p rib
+fractures, PET scan c/w benign process, awaiting interval f/u
+CT.
+13. 2008-10-12 00:00:00 Abdominal US: Diffuse heterogeneous liver, in
+conjunction with a markedly dilated portal vein suggesting
+intrinsic liver disease and likely portal hypertension.
+
+
+Social History:
+Married.  Infrequent alcohol use per pt's PCP.  Bashirah Venezia denied
+tobacco use or EtOH in ED.
+
+Family History:
+His father died at age 60 of CAD and one brother died at age 68
+of diabetes and CA.
+
+Physical Exam:
+VS:  96.8   97/55   66   20   98% AC 550x14/1.0/5
+Gen: intubated, sedated
+HEENT:  ETT in place, NGT in place, draining blood; dried blood
+on face
+CV: RRR, nl S1/S2, no murmurs ap123 Any St.ted
+Pulm: coarse breath sounds anteriorly
+Abd: soft, mildly distended, hernia palpated to R of umbilicus,
+fullness detected in LLQ, +BS
+Ext: somewhat cool feet, palpable pulses, no edema
+
+Pertinent Results:
+Admission labs:
+
+CBC:
+WBC-7.2 RBC-4.34* HGB-10.5* HCT-33.7* MCV-78* MCH-24.2*
+MCHC-31.1 RDW-16.8*
+NEUTS-66.8 LYMPHS-15.9* MONOS-3.7 EOS-13.3* BASOS-0.3  PLT
+COUNT-151
+
+electrolytes:
+GLUCOSE-109* UREA N-26* CREAT-0.8 SODIUM-139 POTASSIUM-4.6
+CHLORIDE-106 TOTAL CO2-25 ANION GAP-13
+
+cardiac enzymes:
+2008-10-12 00:00:00 09:35AM   CK(CPK)-405*
+2008-10-12 00:00:00 09:35AM   CK-MB-22* MB INDX-5.4
+2008-10-12 00:00:00 09:35AM   cTropnT-0.15*
+2008-10-12 00:00:00 05:30PM   CK-MB-19* MB INDX-6.5* cTropnT-0.07*
+
+UA:
+COLOR-Yellow APPEAR-Cloudy SP Venezia-1.016
+BLOOD-SM NITRITE-NEG PROTEIN-TR GLUCOSE-100 KETONE-NEG
+BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-MOD
+RBC-2008-10-12 00:00:00* WBC->50 BACTERIA-MOD YEAST-NONE EPI-0-2
+
+CXR:
+The ET tube is about 4.5 cm from the carina. The heart size is
+borderline normal. The aorta is tortuous. There are bilateral
+diffuse emphysema with interstitial thickening predominantly in
+the left lung. There are no pleural effusions. There is no
+pneumothorax.
+
+EKG: 80bpm, atrial fibrillation, early R wave progression; ST
+depressions in V2-V3 (1mm), nl intervals
+
+IR study: RA pressure 25mm Hg, portal pressure 35mm Hg, no
+gastroesophageal varices demonstrated; no filling of varices
+with infusion of dye into portal vein
+*********
+CT abdomen 2008-10-12 00:00:00
+1. Patent portal vein. Please note that this examination does
+not determine the direction of flow within the portal vein.
+2. Focal areas of hyperdensity and linear hypodensity within the
+right lobe of the liver, findings that likely relate to the TIPS
+attempt of one day prior.
+3. Bilateral pleural effusions and bibasilar atelectasis.
+4. Stable size of 11-mm left lower lobe pulmonary nodule.
+Continued followup is recommended.
+5. Ascites.
+6. Sigmoid diverticulosis without evidence of diverticulitis.
+7. Thickening of the bladder wall. Clinical correlation is
+recommended.
+**************
+2008-10-12 00:00:00 US LIVER
+:
+1. Heterogenous liver without evidence of focal mass.
+2. Distended portal vein that appears patent with normal flow.
+Extrahepatic vasculature system is not visualized.
+3. Mild splenomegaly.
+4. Small amount of ascites that is too small to mark for tap.
+
+****************
+CXR 2008-10-12 00:00:00
+: AP chest compared to chest films since 2008-10-12 00:00:00, most
+recently 2008-10-12 00:00:00:
+
+Heterogeneous opacification in both lower lobes has developed
+over the past 48 hours accompanied by small right pleural
+effusion. Presumptive diagnosis is aspiration. Borderline
+cardiomegaly is stable. Upper lobe pulmonary vasculature is not
+enlarged and this argues against congestive heart failure. ET
+tube, right supraclavicular central venous line in standard
+placements. Nasogastric tube passes to the region of the
+pylorus. No pneumothorax.
+
+....................
+2008-10-12 00:00:00 Video Swallow
+UNDERLYING MEDICAL CONDITION:
+81 year old man with recent extubation, question of aspiration
+REASON FOR THIS EXAMINATION:
+pls evaluate for aspiration
+INDICATION: Dysphagia, evaluate for aspiration.
+
+VIDEO OROPHARYNGEAL SWALLOW: Fluoroscopic guidance was provided
+for the performance of video swallow examination by speech
+pathologist. The patient was given thin and nectar thickened
+barium liquid, barium pudding, cookies soaked in barium, and a
+barium tablet. There was mild to moderate residue in the
+vallecula and piriform sinuses. No penetration or aspiration
+occurred during swallowing. There is normal laryngeal elevation
+and epiglottic deflection. A 12.5 mm barium tablet passes freely
+through the esophagus with transient hold up at the
+gastroesophageal junction.
+
+IMPRESSION: Mild residue in the vallecula and piriform sinuses
+without aspiration or penetration. Please refer to dedicated
+speech pathologist report for further evaluation.
+
+
+Brief Hospital Course:
+A/P:  81y/o M with variceal bleeding without underlying known
+liver disease.
+
+1.  Variceal bleeding - After attempted variceal banding and
+schlerotherapy in the ED, the patient went to IR for an emergent
+TIPS.  However, he did not have a large portal-systemic pressure
+gradient, and the varices did not fill with dye injected into
+the portal vein.  The reasons for this are unclear.  Bashirah Venezia was
+transfered to the MICU for hemodynamic monitoring.  He was
+started on a high dose PPI and octreotide drip.  He was also on
+levofloxacin for sepsis prophylaxis in the setting of upper GI
+bleed and cirrhosis.  He remained stable without any evidence of
+further bleed.  At this point, ensuring hemodynamic stability
+was paramount.  HCT's were frequently checked and maintained >
+30.  He was hypotensive, but this rapidly improved once
+extubated and off of sedation (propofol, which can cause
+hypotension).  He did not have evidence of further bleed and
+should be SCHEDULED FOR A F/U ENDOSCOPY in 2008-10-12 00:00:00 weeks. ASA may be
+restarted after EGD, but coumadin should likely be held
+indefinately d/t high risk for bleed.
+.
+2.  Liver disease - His liver disease was of unknown etiology;
+however, he had clear signs of portal hypertension with variceal
+hemorrhage.  Per his PCP, Bashirah Venezia patient has infrequent alcohol
+use.  His hepatitis serologies and autoimmune studies were
+checked and were all negative.  He was started and maintained on
+lactulose.  U/S and dopplers of portal and hepatic vessels were
+performed, which showed a heterogenous liver with no masses as
+well as a distended portal vein with normal flow.  Liver was
+consulted and followed patient closely, and while initially the
+thought was that he did not need a liver biopsy, the attending
+following the patient at discharge felt a liver biopsy would be
+helpful once the patient has recovered from this
+hospitalization.  This issue should be addressed when the
+patient goes for his outpt EGD.  Nadolol was started on 2008-10-12 00:00:00.
+.
+3. Respiratory Distress- He was initially intubated for airway
+protection in setting of hematemesis.  However, he was difficult
+to wean from the vent, and this was thought to be due to
+sedation vs. developing PNA on CXR.  He was on levofloxacin
+already for a UTI and GI prophylaxis.  Bronchoscopy was
+performed with 2008-10-12 00:00:00.  He failed several SBT but eventually was
+successfully extubated.  2008-10-12 00:00:00 revealed PMN's, GPC, and GNR's -
+however, the report stated this was c/w oropharngeal flora
+(although from Venezia, [**First Name3 (LF) **] unlikely).  However, because he was doing
+so well s/p extubation, additionaly antibiotic coverage was not
+started.  He did have some episodes of hypoxia to mid 80's,
+thought to be d/t atelectasis vs. fluid overload/effusion
+(patient recieved 2 L free water for hypernatremia).  Lasix 20
+mg IV x 2 was given with good effect.  He was maintained on Q6
+albuterol nebs and QID atrovent nebs.  By the time of discharge
+he was sating > 95% on NC and was not SOB.
+.
+4. NSTEMI: He had ST depressions in V2/V3 with positive cardiac
+enzymes.  This was likley secondary to demand ischemia in the
+setting of an acute bleed.  He was maintained on simvastatin and
+metoprolol IV was started once his blood pressure was stable.
+Once he was able to take PO, he was started on nadolol (for
+prevention of further bleed).  PLAN IS FOR STRESS TEST ONCE
+PATIENT STABALIZED AS OUTPATIENT.  Aspirin has not been
+restarted and should be held until after EGD.
+.
+4.  Diabetes mellitus - His sugars were elevated during his
+hospital course, and lantus 9 units QAM was started with good
+effect.  He was maintained on an insulin sliding scale as well.
+.
+5.  UTI - He had a positive UA in the ED, but cultures grew out
+mixed flora.  He had been started empirically on levofloxacin in
+the ED, and this was continued because it was also used as
+sepsis prophylaxis as above.  Repeat UA was normal.
+.
+6.  Atrial fibrillation - His digoxin was restarted in the MICU
+for rate control of his atrial fibrillation.  Digoxin levels
+were monitored.  His coumadin was held in the setting of GI
+bleed.  He was also started on low dose IV metoprolol once his
+blood pressure was stable, and this was transitioned to nadolol.
+ DECISION REGARDING RESTARTING COUMADIN SHOULD BE MADE BY
+CARDIOLOGY, perhaps when following up for stress test.
+.
+8.  FEN - He was initially NPO in the setting of an acute bleed.
+ Tube feeds were started once he had been without bleeding for
+48 hours.  His electrolytes were repleted (especially calcium
+given his numerous RBC transfusions).  Speech and Swallow
+evaluated the patient and a video swallow was done which showed
+that he does not aspirate and is OK to take PO.  He was started
+on a cardiac/heart healthy diet, pureed, and was told to chew
+and swallow twice before taking another mouthful of food.
+Additionally, the patient was hypernatremic and was given free
+water with only mild improvement in Na.  Further IV D5W was held
+d/t worsening respiratory status, and it was felt that once the
+patient started taking PO's again, including water, this problem
+would resolve.
+.
+9.  Prophylaxis - He was maintained on subcutaneous heparin and
+high dose PPI.
+.
+10.  Access - 20 guage peripheral
+
+10.  Code - full
+
+11.  Communication - with wife Bashirah Venezia test@mail.com.
+
+Medications on Admission:
+insulin - AM: 40 NPH, 4 humalog; dinner 10 humalog; bedtime 16
+NPH
+lisinopril 20mg po daily
+digoxin 0.125mg po daily
+coumadin - 2mg 5x/wk, 4mg q Thurs/Sun
+isosorbide dinitrate 30mg po tid
+zocor 10mg po qHS
+advair diskus 1 puff UPMCE
+combivent 2 puffs 4x/day
+diltiazem 120mg po daily
+aspirin 81mg po 2x/week
+
+Discharge Medications:
+1. Lidocaine HCl 2 % Gel Sig: One (1) Appl Mucous membrane  PRN
+(as needed).
+2. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO QHS (once a
+day (at bedtime)).
+3. Albuterol Sulfate 0.083 % Solution Sig: 2008-10-12 00:00:00  Inhalation Q4H
+(every 4 hours) as needed for wheezing.
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+QID (4 times a day).
+5. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 2 days: Please start on 2008-10-12 00:00:00 and give for 2 days.
+6. Other
+Please refer to sliding scale
+7. Zolpidem Tartrate 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed.
+8. Nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+10. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day).
+11. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+12. Insulin Glargine 100 unit/mL Cartridge Sig: Nine (9) units
+Subcutaneous at bedtime.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE & Rehab Center - UPMCE
+
+Discharge Diagnosis:
+Variceal bleed
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1) Please take all of your medications as prescribed
+2) Please call your PCP or return to the ED if you have
+hemetemesis, nausea, vomiting, BRBPR, chest pain, SOB.
+
+Followup Instructions:
+1) Please call to schedule F/U appoinment for EGD in 2008-10-12 00:00:00 weeks
+at test@mail.com or test@mail.com-8434.
+2) Please call to schedule stress test once patient stable.
+3) Please call to schdule follow up appt in 2008-10-12 00:00:00 weeks with PCP,
+Venezia. Venezia at test@mail.com.
+4) Please keep all 123 Any St.usly Bashirah Venezia, M.D. Where:
+OFF CAMPUS Phone:test@mail.com Date/Time:2008-10-12 00:00:00 11:00
+
+Provider Lekayla Ogram, M.D. Where: UPMCE
+CARDIAC SERVICES Phone:test@mail.com Date/Time:2008-10-12 00:00:00 10:00
+
+
+

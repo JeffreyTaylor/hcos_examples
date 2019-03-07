@@ -1,0 +1,278 @@
+Admission Date:  2013-03-10 00:00:00              Discharge Date:   2013-03-10 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Alijha Albiani
+Chief Complaint:
+Change in MS
+
+Major Surgical or Invasive Procedure:
+femoral line placement, PICC line placement 2013-03-10 00:00:00
+
+History of Present Illness:
+Patient is a 23 yo vent dependent male with hx of hypothyroid,
+cad s/p cabg, ef 45%, htn, ge junction lymphoma who presents
+from UPMCE rehab for change for tachypnea and tachycardia while
+recieving 1 u prbc for hct 24.4.  He was given lasix, and found
+to have new lbbb on ekg.  He was also found to be febrile 100.4.
+ He was started on levoflox.
+.
+He was febrile in the ED to 102.8, HR 90 and was initially
+normotensive 129/66 however, a few hours later became
+hypotensive (of note had rec'd 2mg iv morphine and 40 mg of
+lasix at that time).  Patient was started on the sepsis protocol
+but in the setting of profound hypotension a femoral line was
+placed. Blood and urine cultures were obtained and patient was
+given vanc, levo, flagyl.  He was also given hydrocortisone and
+levophed.
+
+
+Past Medical History:
+Hypothyroidism, CAD s/p MI 2013-03-10 00:00:00, EF 45%, HTN, BPH, Depression,
+High cholesterol, GE Junction lymphoma (s/p 3 months of
+radiation therapy with tumor size 2013-03-10 00:00:00 as before but now no
+longer candidate for
+radiation therapy) , peripheral T cell lymphoma
+
+Social History:
+Moved from 123 Any St. 10 years ago
+former engineer
+wife with alzheimer's disease
+lives alone, walks with cane
+No ETOH, tobacco
+his baseline activity -
+At baseline does not walk. Speaks in full conversations but has
+lapses of memory at times.
+
+Family History:
+No h/o CAD
+
+Physical Exam:
+Vitals: T BP 100/63 HR 59 afib 100% on AC rr 10 tv 500
+Gen: ill appearing male in no app. resp distress
+HEENT: trach, opens eyes, perrla
+Lungs: bibasilar crackles
+Heart: s1 s2 irreg irreg
+Abd: soft, peg tube in place
+Ext: 2+pedal edema to sacrum and scrotum
+Neuro: minimally responsive
+
+Pertinent Results:
+Echo: 2013-03-10 00:00:00
+LV EF 45% mild LVH mod dilated 123 Any St. (123 Any St.es) **]
+123 Any St.es) **]:a 0.7 "LV inflow pattern c/w impaired relaxation"
+nl RV size/fxn. TR gradient 29
+2013-03-10 00:00:00+MR, 2013-03-10 00:00:00+TR
+.
+Blood cx 2013-03-10 00:00:00- NGTD
+sputum cx 2013-03-10 00:00:00 >25 polys gram - rods
+staph aureus
+pseudomonas
+lactose fermenter
+.
+2013-03-10 00:00:00 blood cx- MRSA
+.
+cxray 2013-03-10 00:00:00: There are persistent bilateral pleural effusions.
+The right apical cap is unchanged. There is a right-sided PICC
+catheter terminating in the SVC.  Left-sided pleural catheter is
+again seen. There is a metallic tracheostomy tube. There is a
+persistent left basilar opacity.
+.
+
+2013-03-10 00:00:00 10:15PM PLEURAL  WBC-175* RBC-2013-03-10 00:00:00* POLYS-28*
+LYMPHS-72* MONOS-0
+2013-03-10 00:00:00 10:15PM URINE  COLOR-Straw APPEAR-Clear SP Groner-1.008
+2013-03-10 00:00:00 10:15PM URINE  RBC-0-2 WBC-0-2 BACTERIA-RARE YEAST-NONE
+EPI-0-2
+2013-03-10 00:00:00 09:27PM   LACTATE-3.1*
+2013-03-10 00:00:00 09:15PM   GLUCOSE-157* UREA N-45* CREAT-1.0 SODIUM-135
+POTASSIUM-4.5 CHLORIDE-103 TOTAL CO2-20* ANION GAP-17
+2013-03-10 00:00:00 09:15PM   CALCIUM-7.6* PHOSPHATE-2.9 MAGNESIUM-1.7
+2013-03-10 00:00:00 09:15PM   WBC-7.4 RBC-3.48*# HGB-11.8*# HCT-34.6*#
+MCV-100* MCH-34.1* MCHC-34.2 RDW-22.1*
+2013-03-10 00:00:00 09:15PM   HYPOCHROM-NORMAL ANISOCYT-3+ POIKILOCY-2+
+MACROCYT-2+ MICROCYT-2+ POLYCHROM-NORMAL SPHEROCYT-1+
+SCHISTOCY-OCCASIONAL BURR-OCCASIONAL TEARDROP-1+ BITE-1+
+ACANTHOCY-OCCASIONAL
+2013-03-10 00:00:00 09:15PM   NEUTS-78* BANDS-16* LYMPHS-4* MONOS-1* EOS-1
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+2013-03-10 00:00:00 09:15PM   PLT COUNT-119*
+2013-03-10 00:00:00 09:15PM   PT-14.6* PTT-47.3* INR(PT)-1.3*
+.
+CXR 2013-03-10 00:00:00:
+
+IMPRESSION:
+1. No change in position of left chest tube. Slight increase in
+left pleural effusion.
+2. Left PICC line has been advanced and now courses into
+proximal azygos vein as communicated by telephone to Dr.
+Groner.
+3. Large mediastinal mass which has been more fully
+characterized on CT torso of 2013-03-10 00:00:00.
+.
+Picc Line stip culture:
+WOUND CULTURE (123 Any St.inary):
+      STAPH AUREUS COAG +.    >15 colonies.
+         BEING ISOLATED FOR SENSITIVITIES.
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS).    >15 colonies.
+
+
+Brief Hospital Course:
+A/P: 92 M with end-stage ge junction lymphoma encasing trachea,
+cad s/p cabg, htn who presented with septic shock.
+.
+1. Cardiogenic / septic shock:
+The pt was admitted from the ED per sepsis protocol, with an
+elevated lactate and bp in the 80's systolic. He was
+aggressively fluid resuscitated and started on Levophed. An
+arterial bp line was placed in the ICU for better bp monitoring.
+He was off pressors on the following day with stable bp. In
+terms of the hydrocort/fludrocort, he was discharged with this
+after his recent 123 Any St.us admission for sepsis. These were
+initially started on 2013-03-10 00:00:00. They were continued for possible
+adrenal insufficiency in the setting of possible sepsis this
+admission. He can d/c the fludrocort and hydrocort and start a
+prednisone taper over 6 days.
+.
+2. Line Sepsis:
+Cx data from UPMCE Rehab showed MRSA in bld Cx, MRSA and
+Psuedomonas in sputum cx. Fever in ED, no WBC count, clear CXR.
+Came in with 2 PICC lines from rehab and a fem CVC from the ED
+which were all pulled. Pseudomonas is likely trach colonizer and
+no signs of PNA, although given the possible septic shock he was
+treated with zosyn in addition to the vancomycin intially. The
+zosyn was stopped prior to discharge since there was no sign of
+PNA.
+.
+3. Lymphoma of GE junction:
+Dr. Alijha Albiani,oncologist. Has been getting palliative chemo but is
+no longer candidate for further radiation.Per oncologist and
+MICU team, multiple conversations (last admission) had with
+family informing them of pt's extremely poor prognosis. Per
+Oncologist, pt has days to weeks left given poor prognosis,
+metastatic lymphoma now encasing carotids/major vessels in neck
+as well as affecting/deviating trachea. Family UPMCE
+hospice/palliative care, however family refused palliative care
+services on multiple occasion on last admission- will readdress
+this admission with family.
+.
+4. Atrial fibrillation:
+Rate remained well controlled off dilt. Dilt was added back at a
+lower dosage than he came in on since the bp is in the 110's
+systolic. Anti-coagulation as per below.
+.
+5. h/o PE:
+Continued anticoaguation with coumadin.
+5. hypothyroidism - continued levothyroxine.
+6. FEN- restarted tube feeds after hemodynamically stable.
+Access: PICC placed 2013-03-10 00:00:00
+Contact: Cilia Groner HCP Cilia Groner Cilia Groner test@mail.comH,
+test@mail.comCELL
+Code- CPR not indicated
+
+
+Medications on Admission:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+2. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1) PO BID (2
+times a day).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+5. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Six (6)
+Puff Inhalation Q4-6H (every 4 to 6 hours) as needed.
+6. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical UPMCE
+(2 times a day) as needed.
+7. Albuterol 90 mcg/Actuation Aerosol Sig: Six (6) Puff
+Inhalation Q4-6H (every 4 to 6 hours) as needed.
+8. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 2 days.
+9. Hydrocortisone Sod Succinate 100 mg/2 mL Recon Soln Sig: One
+(1) Recon Soln Injection Q6H (every 6 hours) for 2 days.
+10. Diltiazem HCl 60 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+11. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR (AS DIRECTED) for 2 days.
+12. Sodium Chloride 0.9% Flush 3 ml IV DAILY:PRN
+Peripheral IV - Inspect site every shift
+13. Sodium Chloride 0.9% Flush 3 ml IV DAILY:PRN
+Peripheral IV - Inspect site every shift
+14. Sodium Chloride 0.9% Flush 3 ml IV DAILY:PRN
+Peripheral IV - Inspect site every shift
+15. Heparin (Porcine) in D5W 100 unit/mL Parenteral Solution
+Sig: One (1) Intravenous ASDIR (AS DIRECTED): continue hep gtt
+until INR 2.0 while transition to coumadin.
+16. Pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous Q24H (every 24 hours).
+17. Midazolam 1 mg/mL Solution Sig: One (1) Injection Q4H
+(every 4 hours) as needed.
+18. Fentanyl Citrate (PF) 0.05 mg/mL Solution Sig: One (1)
+Injection Q4H (every 4 hours) as needed.
+19. Heparin Flush CVL (100 units/ml) 1 ml IV DAILY:PRN
+10ml NS followed by 1ml of 100 units/ml heparin (100 units
+heparin) each lumen QD and PRN. Inspect site every shift. PLS
+HOLD HEP GTT at 4am on 2013-03-10 00:00:00 FOR PICC Placement IN AM.
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Six (6)
+Puff Inhalation QID (4 times a day).
+4. Albuterol 90 mcg/Actuation Aerosol Sig: Six (6) Puff
+Inhalation Q6H (every 6 hours) as needed.
+5. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+6. Insulin Regular Human 100 unit/mL Cartridge Sig: One (1)
+Injection four times a day: Insulin sliding scale as directed.
+7. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+9. Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+10. Pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous  Q24H (every 24 hours).
+11. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+Intravenous  Q 24H (Every 24 Hours): continue for another 10
+days for total 14 day course.
+12. Morphine 2 mg/mL Syringe Sig: One (1)  Injection Q6H (every
+6 hours) as needed for pain/agitation.
+13. Prednisone 10 mg Tablet Sig: Four (4) Tablet PO once a day
+for 2 days: Days #1 and 2 of taper.
+14. Prednisone 10 mg Tablet Sig: Two (2) Tablet PO once a day
+for 2 days: Days#3 and 4 of taper.
+15. Prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day
+for 2 days: days #5 and 6 of taper.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+1. Cath tip culture positive for Coag positive staph aureus.
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+1. You are being discharged back to UPMCE Rehab.
+2. Please take your medications as prescribed.
+3. Please come to your follow-up appointments (see below).
+
+Followup Instructions:
+Follow-up appointments can be arranged through UPMCE Rehab.
+
+
+                             Cilia Groner MD 16695
+

@@ -1,0 +1,393 @@
+Admission Date:  2005-09-06 00:00:00              Discharge Date:   2005-09-06 00:00:00
+
+Date of Birth: 1945-09-06 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Zarena Hollis
+Chief Complaint:
+fever
+
+
+Major Surgical or Invasive Procedure:
+EGD
+
+History of Present Illness:
+82y/o Cambodian-speaking man with DM, HTN presents with one day
+of subjective fever and night sweats. Pt reports single episode
+of nausea with a little vomit last night, with no identifiable
+triggers. ROS positive for black stools and cough of 1 mo. Of
+note, pt had a cystoscopy on 2005-09-06 00:00:00. Denies weight changes, HA,
+cp, sob, abd pain, focal neurol deficits, abnormal bowel
+movements, hematochezia.
+
+In the ED initial vital signs were 98.6, 85, 109/64 (baseline
+sbp 150's), RR 16, SAT 100%. Exam was notable for guaic + stool.
+Neuro, abd, heart, lung exam unremarkable. Labs were notable for
+WBC to 15 (baseline 6), Hct 27.5 (baseline 41), BUN of 70, Cr of
+1.4 (baseline 1.0-1.1), AST/ALT (41/57), lactate 4.0, UCx
+pending. Patient underwent CXR was did not show any acute
+cardiopulmonary process, EKG showed sinus at 82. Foley placed,
+NG lavage showed scant flecks of coffee grounds. Protonix 40mg
+IV was given. He was type and crossed for 3Us. Patient was seen
+by GI consult, who were not concerned for acute GI bleed, but
+suggest admission to medicine with tele. Patient was admitted
+for an upper GI bleed workup. Initially slated to come to the
+floor, but he became hypotensive to 91/50, MAP <65. There was
+concern for end organ ischemia given lactate of 4. He was
+reassigned to ICU. BP improved to 123/50 after 1L bolus; 2nd
+liter hanging on transfer.
+
+Pt had a recent admission in 2005-09-06 00:00:00, he was admitted to the
+acute care surgery service for management of SBO, which resolved
+with conservative managment. CT scan showed liver and kidney
+hypodensites (see below). Due to hematuria, he had a recent
+cystoscopy where the bladder neck was unremarkable. The ureteral
+orifices were normal in position and the left was slightly
+gaping but otherwise unremarkable, tiny punctate lesions
+throughout some of the bladder mucosa, nonsuspicious,
+nonspecific potentially consistent with prior infection or
+inflammation.
+
+
+Past Medical History:
+GOUT
+DM
+HTN
+
+Social History:
+- Tobacco: smokes 2005-09-06 00:00:00 cigarettes per day
+- etOH: occasional
+- Illicits: none
+
+
+Family History:
+No family history of to suggest common UGI Bleeds.
+
+Physical Exam:
+Admission PEx:
+Vitals: 98.6, 85, 109/64, 16 @ 100%
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, many metal teeth
+
+Lungs: Diffuse expiratory wheezes
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley
+Ext: warm, well perfused, no clubbing, cyanosis or edema
+
+==========================
+
+Discharge PEx:
+V/S: 96-98.7, 160-180/76-96, 68-80, 18-20, 100% RA
+FS: 201, 146, 198, 168
+GENERAL: WDWN in NAD. Alert and oriented. No central or
+peripheral cyanosis; no jaundice, no palor.
+HEENT: NCAT. Sclera anicteric. +arcus bilat, PERRL, clear OP.
+NECK: Supple; no JVD; no LAD.
+CARDIAC: RRR, soft heart sounds, normal S1, S2; no S3, S4. No
+m/r/g.
+LUNGS: CTAB
+ABDOMEN: +BS. Soft, NTND, no rebound, no guarding. No HSM.
+GU: No foley
+EXTREMITIES: WWP, no cyanosis, no edema. 2+ pulses.
+SKIN: No rashes, bruising, lesions.
+NEURO: CN2-12 intact; 5/5 strength distally and bilaterally.
+
+
+Pertinent Results:
+Admission Labs:
+2005-09-06 00:00:00 04:00PM BLOOD WBC-15.4*# RBC-2.85*# Hgb-9.4*#
+Hct-27.2*# MCV-96 MCH-33.1* MCHC-34.7 RDW-13.8 Plt Ct-220
+2005-09-06 00:00:00 04:00PM BLOOD PT-13.5* PTT-25.7 INR(PT)-1.1
+2005-09-06 00:00:00 04:00PM BLOOD Glucose-157* UreaN-70* Creat-1.4* Na-142
+K-4.4 Cl-108 HCO3-21* AnGap-17
+2005-09-06 00:00:00 04:00PM BLOOD ALT-57* AST-41* LD(LDH)-136 AlkPhos-80
+TotBili-0.2
+2005-09-06 00:00:00 04:00PM BLOOD calTIBC-270 VitB12-530 Folate-12.3
+Hapto-274* Ferritn-165 TRF-208
+2005-09-06 00:00:00 05:27PM BLOOD Lactate-4.0*
+
+
+
+Labs on Discharge:
+
+2005-09-06 00:00:00 06:30AM BLOOD WBC-13.6* RBC-3.30* Hgb-10.6* Hct-31.0*
+MCV-94 MCH-32.1* MCHC-34.2 RDW-14.8 Plt Ct-250
+2005-09-06 00:00:00 06:30AM BLOOD Glucose-159* UreaN-19 Creat-1.1 Na-144
+K-4.2 Cl-107 HCO3-29 AnGap-12
+2005-09-06 00:00:00 06:30AM BLOOD Calcium-9.3 Phos-3.1 Mg-2.0
+2005-09-06 00:00:00 02:27AM BLOOD GASTRIN - WNL
+
+Micro data:
+
+2005-09-06 00:00:00 2:27 am SEROLOGY/BLOOD      CHEM# [**Serial Number 4733**]L 2005-09-06 00:00:00 USED.
+                            **FINAL REPORT 2005-09-06 00:00:00**
+   HELICOBACTER PYLORI ANTIBODY TEST (Final 2005-09-06 00:00:00):
+      NEGATIVE BY EIA. Reference Range-Negative).
+
+2005-09-06 00:00:00 10:00 pm MRSA SCREEN      Source: Nasal swab.
+                            **FINAL REPORT 2005-09-06 00:00:00**
+   MRSA SCREEN (Final 2005-09-06 00:00:00):    No MRSA isolated.
+
+2005-09-06 00:00:00 8:20 pm BLOOD CULTURE      #2.
+                            **FINAL REPORT 2005-09-06 00:00:00**
+   Blood Culture, Routine (Final 2005-09-06 00:00:00):    NO GROWTH.
+
+2005-09-06 00:00:00 8:20 pm BLOOD CULTURE      #1.
+                            **FINAL REPORT 2005-09-06 00:00:00**
+   Blood Culture, Routine (Final 2005-09-06 00:00:00):    NO GROWTH.
+
+2005-09-06 00:00:00 7:20 pm URINE     Site: CATHETER
+
+                            **FINAL REPORT 2005-09-06 00:00:00**
+
+   URINE CULTURE (Final 2005-09-06 00:00:00):
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+2005-09-06 00:00:00 4:00 pm URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT 2005-09-06 00:00:00**
+
+   URINE CULTURE (Final 2005-09-06 00:00:00):
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT
+WITH FECAL
+      CONTAMINATION.
+
+Studies:
+CXR: 1. No evidence of acute cardiopulmonary process.
+2. Two left upper lobe pulmonary nodules are again visualized
+with one
+measuring 4 mm and the other measuring 3 mm. Elective chest CT
+is again
+recommended in the outpatient setting for further evaluation.
+
+EGD:
+Impression: Small polyp/thickened fold seen in the distal
+esophagus. (biopsy)
+Ulcers in the pylorus, antrum, stomach, and body (biopsy)
+Otherwise normal EGD to third part of the duodenum
+Recommendations: Will mail a pathology report in 2005-09-06 00:00:00 weeks
+Follow-up with Dr. Zarena Hollis for endoscopy in 8
+weeks.
+Treat H. pylori if positive
+Protonix 40mg UPMCE
+Additional notes: The attending was present for the entire
+procedure. FINAL DIAGNOSES are listed in the impression section
+above. Estimated blood loss = zero. Specimens were taken for
+pathology as listed above.
+
+
+
+Brief Hospital Course:
+82y/o Cambodian speaking man with DM, HTN presents with one day
+of subjective fever and night sweats, here with anemia,
+leukocytosis, lactic acidosis, concern for GI bleed.
+.
+# Upper GI Bleed: Pt presented with dark stools times 1 mo,
+which he had melena in ED, HCT drop from 1 mo ago from 41->28
+then on repeat dropped to 23. Also found to have coffee grounds
+on NG lavage. EGD shows evidence of chronic ulcers but no active
+bleeding seen. Hct remained stable after transfusion of 2u PRBC
+in low thirties. Patient was started on PPI 40mg IV BID and
+converted to Protonix 40mg PO BID as outpatient. Baby ASA held
+initially but given no active bleed and h/o CAD, restarted upon
+d/c. Patient has afib and chads score of 2, should have
+discussion with PCP regarding whether or not to start coumadin.
+Gastrin level, pending at time of d/c, came back wnl, notified
+PCP.
+Heiner Hovermale pylori - pending at time of d/c, came back negative, notified
+PCP
+Heiner Hovermale need to f/u on biopsy of esophageal polyp
+-Will need follow up endoscopy in 2 months
+.
+# Proteus UTI: UA elevated WBC and pH c/w UTI. Urine culture
+grew Proteus mirabilis >100,000 org/mL. Pt is symptomatic,
+including fevers, hypotension and leukocytosis. Started on Zosyn
+but narrowed to Cipro after Hovermale. returned for total of 10 days.
+Patient discharged on Ciprofloxacin twice daily through 2005-09-06 00:00:00 and
+was given a prescription for the rest of the course. Patient was
+placed on IVF initially but then did not require it.
+- Blood Cx NGTD x3 days
+.
+# Hovermale: Likely pre-renal or associated with UTI. Normalized after
+IVF/abx; Creatinine back to baseline 1.1. Resolved.
+.
+# Transaminitis: Mild, likely 2005-09-06 00:00:00 poor liver perfusion in the
+setting of infection. No RUQ pain, so unlikely that the biliary
+tree is the infectious source. Could consider RUQ US and hep
+serologies if ASt/ALT rise.  Patient trended and no rise in
+LFTs.
+- Restarted home statin
+- will need hepatitis serologies done as outpatient with PCP.
+.
+# Anemia: Likely 2005-09-06 00:00:00 acute blood loss. Workup send from the ED
+including: Fe studies, b12, folate, hapto, retic count, LDH.
+Boarderline macrocytosis, but normal B12 and folate deficiency.
+Normal hapto.
+.
+# HTN: antihypertensives held initially and patient became
+tachycardic to 100s and hypertensive to 190s, asx. Upon restart
+of medication, patient continued to be hypertensive & slow to
+respond with home dosage. Upon d/c continues to be hypertensive
+in 160s, asx. Restarted on home atenolol, dilt doses & doubled
+lisinopril to 20mg daily.
+- will need to be followed as an outpt to obtain better control
+of blood pressure.
+.
+# DM: Resume metformin and glipizide. ISS while in house.
+.
+# Gout: Restart home allopurinol at 1/2 dose (100mg daily).
+Patient's renal function dictates that max dose should be around
+150mg daily; can uptitrate as outpatient by PCP Heiner Hovermale 100mg
+daily not suffice.
+.
+# Code: full (confirmed via interpreter phone)
+.
+.
+Pending Tests:
+EGD esophageal polyp biopsy - pending
+.
+.
+Transitional Issues:
+-Patient will need to follow up with PCP regarding results of
+EGD biopsy. Also, will need f/u EGD in 2 months.
+-Patient's anticoagulation regimen should be evaluated by PCP,
+Heiner Hovermale whether or not coumadin should be started.
+-Patient's BP not optimally controlled; sent home on home meds
+but will need careful titrating.
+-Following changes to meds
+START Ciprofloxacin twice daily through 2005-09-06 00:00:00
+START Protonix 40mg twice daily
+INCREASE Lisinopril to 20mg daily
+DECREASE Allopurinol to 100mg daily
+HOLD Warfarin
+
+
+
+Medications on Admission:
+1. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. diltiazem HCl 180 mg Capsule, Extended Release Sig: One (1)
+Capsule, Extended Release PO DAILY (Daily).
+3. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO DAILY (Daily): take with food.
+4. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY.
+5. metformin 500 mg Tablet Sig: Two (2) Tablet PO BID: resume
+when taking a regular diet.
+6. glipizide 5 mg Tablet Sig: One (1) Tablet PO DAILY.
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO TID :
+hold for loose stool.
+8. allopurinol 100 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+9. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+
+Discharge Medications:
+1. diltiazem HCl 180 mg Capsule, Extended Release Sig: One (1)
+Capsule, Extended Release PO DAILY (Daily).
+2. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+4. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+5. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 6 days: To end on 2005-09-06 00:00:00.
+Disp:*13 Tablet(s)* Refills:*0*
+6. allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): Take only once per day.
+Disp:*0 Tablet(s)* Refills:*0*
+7. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day): hold for loose stool.
+9. glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.
+10. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+11. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: Peptic ulcer disease, Urinary tract Infection, Lactic
+Acidosis, Hypertension
+Secondary: Atrial fibrillation
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+It was a pleasure taking care of you at the UPMCE. You presented to the hospital with
+symptoms of fever and nightsweats and were found to have a
+urinary tract infection as well as a decreased red blood cell
+count. We have placed you on Ciprofloxacin, an antibiotic that
+you will need to continue taking through 2005-09-06 00:00:00.
+
+Also, we performed a thorough evaluation of your decreased blood
+count and dark stool & found that you had chronic ulcers in your
+stomach which may have bled in the past. We have placed you on
+40mg protonix twice daily and held your aspirin to help heal
+these ulcers.  We have tested you for infection and other causes
+for these ulcers. You will need to follow up with your PCP
+Heiner Hovermale 1 week of discharge for these results as well as the
+resolution of your urinary tract infection.
+
+During your hospitalization, we also found you to be
+hypertensive and have doubled your Lisinopril to 20mg daily.
+Please discuss this with your PCP when you see her in 1 week as
+well.
+
+We also cut down your dose of Allopurinol (for gout) from 100mg
+UPMCE to 100mg daily due to your kidney function. Your PCP can
+help adjust this medication dose but we believe the most you
+should take is 150mg daily.
+
+The following changes were made to your medication regimen:
+START Ciprofloxacin twice daily through 2005-09-06 00:00:00
+START Protonix 40mg twice daily
+INCREASE Lisinopril to 20mg daily
+DECREASE Allopurinol to 100mg daily
+HOLD Warfarin
+
+We wish you a speedy recovery and hope that you feel better
+soon.
+
+Followup Instructions:
+Please call your PCP, Hovermale. Hovermale Heiner Hovermale at test@mail.com for a
+followup appointment so that she can see you within 1 week of
+discharge.
+
+Please follow up with Drs. Heiner and Heiner Hovermale at the end of
+2005-09-06 00:00:00 for repeat upper endoscopy.  Please schedule this with
+his office.
+
+

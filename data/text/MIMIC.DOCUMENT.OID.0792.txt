@@ -1,0 +1,273 @@
+Admission Date:  2009-10-20 00:00:00              Discharge Date:   2009-10-20 00:00:00
+
+Date of Birth: 1986-10-15 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Niaspan Extended-Release
+
+Attending:Corddaryl Kaemmer
+Chief Complaint:
+Exertional chest heaviness
+
+Major Surgical or Invasive Procedure:
+2009-10-20 00:00:00 Coronary artery bypass grafting x4 with the left
+internal mammary artery to left anterior descending artery and
+reverse saphenous vein grafts to the distal right coronary
+artery, first and second obtuse marginal arteries.
+
+History of Present Illness:
+66 year old male with a 2 week history of chest burning which
+occurs about 10-15 minutes into his daily 1 mile walk. It lasts
+for 20-30 seconds and then resolves and he is able to finish
+walking his mile. He notes that he does not get the symptoms
+everytime he walks. He denies any symptoms at rest. He does note
+waking up with bilateral ankle/feet pain/throbbing at night. He
+was referred for a cardiac catheterization and was found to have
+coronary artery disease. He is now being referred to cardiac
+surgery for revascularization.
+
+Past Medical History:
+Diabetes Type II
+Hypertension
+Hyperlipidemia
+Osteoarthritis
+Lumbar disc disease
+Proteinuria
+Polyps on colonoscopy
+s/p left knee scope x 4
+
+Social History:
+Race:Caucasian
+Last Dental Exam: 10 years ago
+Lives with:Wife
+Contact:Deyja Gosha (wife) Phone #test@mail.com
+Occupation:retired
+Cigarettes: Smoked no [x] yes []
+Other Tobacco use:denies
+ETOH: denies
+Illicit drug use:denies
+
+Family History:
+Premature coronary artery disease - uncle had a
+heart transplant in his early 50's. Father had 3 MI's, first in
+his 40's. Brother had CABG at age 59.
+
+Physical Exam:
+Pulse:60 Resp:16  O2 sat:100/RA
+B/P  Right:168/87    Left:179/80
+Height:5'8"     Weight:175 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]diminished (R)base
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema [x] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:   Left:
+DP           Right:2+   Left:2+
+PT           Deyja Gosha:   Left:
+Radial       Right:   Left:
+
+Carotid Bruit-none, pulses  Right: 2+  Left:2+
+
+Pertinent Results:
+2009-10-20 00:00:00 Echo: PRE-BYPASS: The left atrium is elongated. No
+spontaneous echo contrast or thrombus is seen in the body of the
+left atrium or left atrial appendage. No spontaneous echo
+contrast or thrombus is seen in the body of the right atrium or
+the right atrial appendage. No atrial septal defect is seen by
+2D or color Doppler. Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is normal. Regional
+left ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). The right ventricle
+displays normal free wall contractility. There are simple
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Very trace aortic regurgitation is seen. The mitral
+valve appears structurally normal with trivial mitral
+regurgitation. There is no pericardial effusion. Dr. Corddaryl Kaemmer was
+notified in person of the results in the operating room at the
+time of the study.
+POST- BYPASS: There is normal biventricular systolic function.
+The thoracic aorta is intact after decannulation. No other
+significant changes from the pre-bypass examination.
+Admission labs:
+2009-10-20 00:00:00 09:27AM   HGB-14.1 calcHCT-42
+2009-10-20 00:00:00 09:27AM   GLUCOSE-231* LACTATE-2.2* NA+-136 K+-4.4
+CL--102
+2009-10-20 00:00:00 02:12PM   PT-13.8* PTT-34.1 INR(PT)-1.2*
+2009-10-20 00:00:00 02:12PM   WBC-9.6# RBC-3.62* HGB-11.6*# HCT-29.8*
+MCV-82 MCH-32.0 MCHC-39.0* RDW-14.3
+2009-10-20 00:00:00 02:12PM   UREA N-19 CREAT-0.7 SODIUM-140 POTASSIUM-3.6
+CHLORIDE-111* TOTAL CO2-25 ANION GAP-8
+2009-10-20 00:00:00 02:31PM   GLUCOSE-143* NA+-137 K+-3.6
+Discharge labs:
+2009-10-20 00:00:00 06:30AM BLOOD WBC-6.7 RBC-3.33* Hgb-10.4* Hct-28.1*
+MCV-84 MCH-31.2 MCHC-37.1* RDW-13.6 Plt Ct-276
+2009-10-20 00:00:00 06:30AM BLOOD Plt Ct-276
+2009-10-20 00:00:00 06:30AM BLOOD UreaN-24* Creat-1.1 Na-133 K-5.2* Cl-97
+2009-10-20 00:00:00 06:50AM BLOOD Glucose-164* UreaN-28* Creat-1.0 Na-133
+K-4.7 Cl-95* HCO3-28 AnGap-15
+2009-10-20 00:00:00 06:30AM BLOOD Mg-2.0
+
+Radiology Report CHEST (PA & LAT) Study Date of 2009-10-20 00:00:00 10:23
+AM
+Final Report : In comparison to the prior examination, there is
+little interval change. The left apical pneumothorax is
+unchanged in size. Bibasilar atelectasis remains as well as
+small pleural effusions remain. There is a left upper lobe
+opacity that likely represents pleural effusion within an
+adhesion. Sternal wires are intact.
+
+
+Brief Hospital Course:
+Mr Gosha was a same day admission for coronary bypass grafting
+on 2009-10-20 00:00:00. Please see operative report for details, in
+summary he had: Coronary artery bypass grafting x4 with the left
+internal mammary artery to left anterior descending artery and
+reverse saphenous vein grafts to the distal right coronary
+artery, first and second obtuse marginal arteries. His bypass
+time was 98 minutes, with a crossclamp time of 85 minutes. He
+tolerated the operation well and was transferred from the
+operating room to the cardiac surgery ICU in stable condition.
+Once in the ICU he remained hemodynamically stable, anesthesia
+was reversed, he woke neurologically intact and was extubated.
+On POD1 the patient remained hemodynamically stable and was
+transferred from the ICU to the stepdown floor. His chest tubes
+remained to suction as he was noted to have na airleak.
+Otherwise he was begun on Bblockers and diuretics and his
+activity was advanced. On POD2 the chest tubes were put to water
+seal, a follow up chest XRay revealed a pneumothorax and the
+chest tubes were put back to suction. The chest tubes were
+finally removed on POD4 All other tubes lines and drains were
+removed per cardiac surgery protocols.
+The remainder of his hospital course was uneventful, he worked
+with nursing and physical therapy to increase his activity and
+endurance. He was discharged home on POD5. He is to followup
+w/Dr Gosha in 1 month.
+
+
+
+Medications on Admission:
+GLYBURIDE 5 mg Tablet - 2 Tablet(s) by mouth twice a day
+LISINOPRIL 5 mg Tablet - 1 (One) Tablet(s) by mouth once a day
+METFORMIN 1,000 mg Tablet - 1 (One) Tablet(s) by mouth twice a
+day
+METOPROLOL TARTRATE  25 mg Tablet - 1 Tablet(s) by mouth daily
+PIOGLITAZONE [ACTOS] 30 mg Tablet - 1 Tablet(s) by mouth daily
+ROSUVASTATIN [CRESTOR] 10 mg Tablet - 1 Tablet(s) by mouth daily
+ASPIRIN  81 mg Tablet 1 Tablet(s) by mouth daily
+
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 2 weeks.
+Disp:*28 Tablet(s)* Refills:*0*
+3. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever.
+5. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. pioglitazone 15 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+7. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+8. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+10. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+11. glyburide 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+12. furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+13. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO Q12H (every 12 hours) for 7 days.
+Disp:*28 Tablet Extended Release(s)* Refills:*0*
+14. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed for pain.
+Disp:*65 Tablet(s)* Refills:*0*
+15. ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for pain.
+Disp:*90 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Coronary artery disease s/p coronary artery bypass graft x 4
+Past medical history:
+Diabetes Type II
+Hypertension
+Hyperlipidemia
+Osteoarthritis
+Lumbar disc disease
+Proteinuria
+Polyps on colonoscopy
+s/p left knee scope x 4
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right healing well, no erythema or drainage.
+Edema trace
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. Gosha on 2009-10-20 00:00:00 at 1PM test@mail.com in the UPMCE
+medical office building UPMCE
+2009-10-20 00:00:00 chest xray in the clinical center UPMCE [**Location (un) 465**]
+radiology at 9:45am then proceed to Wound check on 2009-10-20 00:00:00 at
+10:30AM test@mail.com in the UPMCE medical office building UPMCE -
+
+Please call your cardiologist/PCP: Gosha. Gosha and make an
+appointment to be seen in the next 2 weeks
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:2009-10-20 00:00:00

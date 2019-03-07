@@ -1,0 +1,507 @@
+Admission Date:  2006-08-12 00:00:00              Discharge Date:   2006-08-12 00:00:00
+
+
+Service: NEUROLOGY
+
+Allergies:
+Bactrim
+
+Attending:Julionna Dillhoff
+Chief Complaint:
+Left sided weakness, neglect, and global aphasia
+
+Major Surgical or Invasive Procedure:
+Endotracheal Intubation
+
+History of Present Illness:
+History obtained from speaking with the patient's family and
+review of OMR.
+
+Ms. Boreman is a 89 year-old right-handed Boreman speaking woman
+with past medical history significant for hypertension, anemia,
+hypothyroidism, chronic renal insufficiency, renal cell cancer
+s/p right nephrectomy and left frontal stroke in 2006-08-12 00:00:00 with
+no residual deficits who presents with left sided weakness,
+neglect and aphasia. She was first found this morning at 1030hrs
+on 2006-08-12 00:00:00 on the floor, by her husband. It was unknown how
+long she was down for.
+At that time, she was able to communicate and said she couldn't
+hear or see well. She did say that she tripped and fell and that
+was why she was on the floor. She was also confused when she was
+found; she was asking how to get to the bathroom. EMS came to
+her house; by that time, she was walking, talking and reportedly
+oriented, so she remained at home. During the afternoon, there
+is
+a question if she had a visual field cut. She was napping on and
+off all afternoon, but was reportedly talking to her husband at
+times and it was thought she may have not been completely acting
+like herself. She was also thought to still be confused; an
+example given was that she may have had trouble telling time.
+Her granddaughter went to check on her at 1700hrs and at that
+time, she was again found on the floor, moaning, not speaking
+and nor
+moving her left arm (unclear if moving left leg). Her husband
+had reportedly went to the bathroom just prior to this and when
+he left, she was not on the floor, though no one know with
+certainity if she was moving her left arm and when the last time
+was that she actually spoke. EMS was called again and brought
+the patient to UPMCE. EMS notes upon finding the patient, the
+left arm was 123 Any St., but she began moving it en route. Upon
+arrival to UPMCE, a CODE STROKE was called.
+
+Neuro ROS: unable to obtain from patient.
+
+Past Medical History:
+-left frontal stroke (2006-08-12 00:00:00)
+-HTN
+-B12 deficiency
+-anemia
+-hypothyroidism
+-chronic renal insufficiency
+-renal cell carcinoma s/p right nephrectomy
+
+Social History:
+- She lives with her husband.
+- No Tobacco, EtOH, or Illicit substance use.
+
+
+Family History:
+Non-contributory, no known family hx of strokes.
+
+
+Physical Exam:
+Physical Exam on Admission:
+Vitals: P: 63 R: 21  BP: 143/72 SaO2: 100%
+
+General: Awake, agitated
+HEENT: NC/AT, no scleral icterus noted, MMM
+Neck: Supple, no carotid bruits ap123 Any St.ted
+Pulmonary: lcta b/l
+Cardiac: RRR, S1S2, III/VI systolic murmur
+Abdomen: soft, NT/ND, +BS
+Extremities: warm, pitting edema b/l
+
+NIH Stroke Scale score was: 21
+1a. Level of Consciousness: 0
+1b. LOC Question: 2
+1c. LOC Commands: 2
+2. Best gaze: 2
+3. Visual fields: 2
+4. Facial palsy: 2
+5a. Motor arm, left: 3
+5b. Motor arm, right: 0
+6a. Motor leg, left: 3
+6b. Motor leg, right: 0
+7. Limb Ataxia: 0
+8. Sensory: 0
+9. Language: 2
+10. Dysarthria: 1
+11. Extinction and Neglect: 2
+
+Mental Status: Awake, alert. She does not produce any
+comprehensible speech (per her grandaughter who was speaking
+with
+her in [**Year (4 digits) 589**]) and does not follow any commands. She does not
+mimic. She has a dense left sided neglect.
+
+Cranial Nerves: PERRL. Right gaze preference and she does not
+cross midline to look to the left. She resists attempted Doll's
+maneuvers to get her to cross midline. She appears to have a
+left
+hemianopia as she blinks to threat on the right but not on the
+left. Left lower facial droop.
+
+Motor: Normal tone. She moves the right side more spontanenously
+compared to the left and more antigravity. She is able to move
+her left side and is frequently reaching across her body with
+her
+left arm though does not maintain it off antigravity. She is
+also
+able to hold her left leg antigravity briefly, but it will drift
+to bed. She would not cooperate with formal strength testing.
+
+Sensory: She grimmaces to noxious simulation throughout.
+
+DTRs:
+  Kashmeir Boreman Tri Boreman Pat Ach
+L  2  2    2    3   0
+R  2  2    2    3   0
+Plantar response was extensor on L>>R.
+
+Coordination: she would not cooperate with coordination testing,
+but no ataxic movements noted on observation.
+
+Gait: deferred
+
+Physical Exam on Discharge:
+
+
+Pertinent Results:
+Labs on Admission:
+
+2006-08-12 00:00:00 06:00PM   WBC-6.2 RBC-2.90* HGB-8.8* HCT-27.3* MCV-94
+MCH-30.5 MCHC-32.4 RDW-14.3
+2006-08-12 00:00:00 06:00PM   PT-10.9 PTT-25.7 INR(PT)-1.0
+2006-08-12 00:00:00 06:00PM   UREA N-51* CREAT-2.2* SODIUM-141
+POTASSIUM-5.0 CHLORIDE-114* TOTAL CO2-17* ANION GAP-15
+2006-08-12 00:00:00 06:00PM   ALT(SGPT)-25 AST(SGOT)-17 ALK PHOS-169* TOT
+BILI-0.2
+
+Relevant Labs:
+
+2006-08-12 00:00:00 06:00PM   %HbA1c-5.6 eAG-114
+2006-08-12 00:00:00 06:00PM   ALBUMIN-3.9
+2006-08-12 00:00:00 06:00PM   cTropnT-0.02*
+2006-08-12 00:00:00 06:00PM BLOOD cTropnT-0.02*
+2006-08-12 00:00:00 05:45AM BLOOD CK-MB-5 cTropnT-0.08*
+2006-08-12 00:00:00 11:20AM BLOOD CK-MB-5 cTropnT-0.16*
+2006-08-12 00:00:00 07:10PM BLOOD CK-MB-6 cTropnT-0.17*
+2006-08-12 00:00:00 04:17AM BLOOD CK-MB-5 cTropnT-0.14*
+2006-08-12 00:00:00 05:18AM BLOOD CK-MB-15* MB Indx-2.6 cTropnT-0.17*
+2006-08-12 00:00:00 11:20AM BLOOD VitB12-1256*
+2006-08-12 00:00:00 05:45AM BLOOD Triglyc-85 HDL-44 CHOL/HD-3.1 LDLcalc-75
+2006-08-12 00:00:00 11:20AM BLOOD TSH-2.1
+2006-08-12 00:00:00 04:00PM BLOOD Phenyto-12.6 Phenyfr-2.3* %Phenyf-18*
+2006-08-12 00:00:00 02:21AM BLOOD Phenyto-13.5
+
+Imaging:
+
+NCHCT, Perfusion CT 2006-08-12 00:00:00
+1.  Markedly motion-limited head CT without evidence of gross
+acute
+hemorrhage.
+2.  CT perfusion study is slightly limited, but demonstrates a
+large area of ischemia in the right middle cerebral artery
+territory and in the right
+occipital lobe.  An infarction also appears to be present, at
+least in the
+superior right middle cerebral artery territory, likely smaller
+in size than the area of ischemia.
+
+Chest x-ray 2006-08-12 00:00:00
+Heart size is enlarged, unchanged.  Mediastinal contour is
+stable.  Lungs'
+assessment demonstrates mild volume overload but no overt
+pulmonary edema.
+Right upper quadrant surgery is redemonstrated.
+
+MR/A head and neck 2006-08-12 00:00:00
+1.  Extensive right MCA territory infarcts and also a small
+focus in the right PCA territory, without mass effect, new since
+the prior study.
+
+2.  Occlusion of the right middle cerebral artery in the distal
+M1 segment and nonvisualization of the rest of the middle
+cerebral artery branches.
+
+TTE 2006-08-12 00:00:00
+IMPRESSION: Suboptimal image quality. Normal biventricular
+cavity sizes with preserved global biventricular systolic
+function. Minimal aortic valve stenosis. Mild-moderate mitral
+regurgitation. Moderate pulmonary artery systolic hypertension.
+No definite structural cardiac source of embolism identified.
+Compared with the prior report (images unavailable for review)
+of 2006-08-12 00:00:00, the severity of mtiral regurgitation and the
+estimated PA systolic pressure are now higher.
+
+Chest x-ray 2006-08-12 00:00:00
+The ET tube tip is 5 cm above the carina.  Heart size and
+mediastinum are
+grossly unchanged.  There is newly developed left retrocardiac
+opacity that
+may reflect atelectasis, but infectious process or aspiration
+cannot be
+excluded.  No pulmonary edema, pneumothorax or ap123 Any St.ble
+interval increase in pleural effusion seen.
+
+NCHCT 2006-08-12 00:00:00
+Extensive right MCA territory ischemic infarction without
+evidence of hemorrhagic conversion.  Subtle hemorrhage or
+extension of the
+infarction may be better assessed by MRI if indicated.
+
+EEG 2006-08-12 00:00:00
+IMPRESSION: This is an abnormal continuous ICU EEG monitoring
+study because
+of frequent electrographic seizures arising from the right
+occipital region
+and spreading to the right posterior quadrant. There are a total
+of 15
+seizures, lasting 1-2 minutes, most in a cluster between 17:00
+and 19:03. In addition, there is continuous focal slowing with
+intermixed theta and delta range frequencies, attenuation of
+faster frequencies, and absent alpha rhythm in the right
+hemisphere. These findings are indicative of an epileptogenic
+focal structural lesion in the right hemisphere, and are
+consistent with the clinical history of right MCA stroke. Some
+of the focal attenuation may be secondary to postictal effects.
+Background activity is slow with a slow alpha rhythm on the
+left, indicative of more widespread cerebral dysfunction, which
+is etiologically nonspecific, but may in part be secondary to
+sedating medications.
+
+EEG 2006-08-12 00:00:00
+IMPRESSION: This is an abnormal continuous ICU EEG monitoring
+study because of continuous focal slowing and attenuation of
+faster frequencies in the right posterior region. These findings
+are indicative of a focal structural lesion in the right
+hemisphere and are consistent with the clinical history of right
+MCA stroke. Background activity shows continuous generalized
+background slowing in mixed theta and delta range frequencies
+suggestive of moderate encephalopathy which is etiologically
+non-specific. No epileptiform discharges or electrographic
+seizures are present. Compared to the prior day's EEG, faster
+frequency activities have started to appear in the right
+posterior region indicating improving dysfunction in the right
+posterior quadrant.
+
+PORTABLE HEAD CT W/O CONTRAST - 2006-08-12 00:00:00 8:58 AM
+IMPRESSION:  Normal changes consistent with evolution of a right
+MCA
+infarction.  No definitive evidence of hemorrhagic
+transformation.  No
+evidence of new infarction.  Chronic changes as indicated above.
+
+
+EEG 2006-08-12 00:00:00
+IMPRESSION: This is an abnormal continuous ICU EEG monitoring
+study because of continuous focal slowing with absent alpha
+rhythm and attenuation of faster frequencies in the right
+hemisphere, maximal in the posterior quadrant. These findings
+are indicative of a focal structural lesion in the right
+hemisphere and are consistent with the clinical history of right
+MCA stroke. Background activity shows continuous generalized
+background slowing in mixed theta and delta range frequencies
+along with frequent and prolonged runs of triphasic waves
+indicative of moderate encephalopathy which is etiologically
+non- specific. Compared to the prior day's EEG, there is no
+significant change
+
+
+Brief Hospital Course:
+89yo RHF (2006-08-12 00:00:00 speaking only) h/o L Frontal Stroke, HTN,
+Hypothyroid, Anemia, Chronic Renal Insufficiency c/b RCC s/p R
+nephrectomy p/w L weakness, neglect, and global aphasia with
+imaging suggestive of dual R MCA and R PCA distribution thus
+likely secondary to embolic event given pt with paroxysmal AFib
+while inpatient. Course further complicated by status
+epilepticus.
+
+# Neuro:
+On admission, patient had left neglect, aphasia (both productive
+and receptive), right gaze preference with seeming inability to
+cross the midline, left hemianopia and left hemiparesis. tPA not
+given since recent stroke and Boreman onset of symptoms time as
+well as recent frontal stroke.  The etiology of her right MCA
+stroke was likely thromboembolic given the extent of infarct and
+likely secondary to paroxysmal atrial fibrillation which she was
+found to be in on the floor.  Patient initially had some
+improvement neurologically and was following commands, answering
+questions appropriately with short words/phrases and moving her
+left side to antigravity. For her stroke, she was continued on
+full dose ASA and started on statin. Initially on high dose
+statin, but as LDL <100, will discharge on Atorvasatin 40 mg
+daily.
+
+On 2006-08-12 00:00:00 in the afternoon, pt had rhythmic shaking of LUE and
+LLE; however, she
+was awake, alert, speaking and answering questions
+appropriately. At ~1700, pt had a generalized tonic-clonic
+seizure with unresponsiveness, L gaze preference.  Was given
+ativan 1mg IV x2 with no response.  Loaded with Keppra 1000mg x1
+which
+resulted in transient arrest of the seizure for 1min, but then
+seizure activity resumed.  Started Dilantin, and placed
+prophylactic NRB with O2 sats in the high
+90s. Remained in status through 1800.  BP was 95/48, started
+NSD5W bolus.  At that time after confirming change in codes
+status with family (pt had been DNR/DNI), called anesthesia for
+elective intubation, pt was transferred to Neuro ICU.
+
+Patient was transferred to ICU for further management after
+ictal episode requiring intubation for airway protection.
+Initially, she was maintained on Fentanyl/Versed which limited
+evaluation of neurologic function.  Continuous EEG monitoring
+revealed electrographic seizures despite any change in mental
+status of the patient, or evident convulsions.  Of note, during
+AM examination, the patient was noted to have no abnormal
+movements or change in status from 123 Any St.us exams, but was
+reported to have rhythmic epileptiform activity on EEG.  Versed
+was held and propofol used due to patient's chronic renal
+insufficiency.  The patient on 2006-08-12 00:00:00 was also started on Dilantin
+(bolused to bring to theraputic levels).  Repeat measurements of
+her Dilantin level, corrected for hypoalbuminemia, fell between
+18 and 21
+
+Ms. Boreman was weaned from propofol over 2006-08-12 00:00:00, and was
+more active bilaterally in upper and lower extremities.  During
+this period, EEG monitoring continued to reveal no
+electrographic seizures. She opened eyes spontaneously but
+remained unresponsive to command (in 2006-08-12 00:00:00).  Propofol was
+used for sedation to agitiation between 2006-08-12 00:00:00, during which
+patient was less responsive in examination.  Baseline agitation
+was maintained also with Seroquel / Zyprexa.
+
+After evaluation by anesthesia and a successful spontaneous
+breathing trial, Ms. Boreman was extubated on 2006-08-12 00:00:00 without
+event.  She remained globally aphasic not responding to commands
+from relatives who are Kashmeir Boreman speaking.  On the subsequent
+morning, the patient was responding with garbled phrases to her
+granddaughter.  However, she remained unresponsive to command in
+the morning and only opened her eyes to repeat stimulation.
+Lethargy was attributed partially to sedating effects of
+antiepileptics (on Keppra and Dilantin UPMCE).  Also, had fevers
+attributed to Dilantin as infectious w/u was neg.  Discontinued
+Dilantin, started Vimpat 50mg PO bid instead.  Decreased Keppra
+dose.
+
+She was started on Modafinil to help with her level of
+alertness. She was also started on Fluoxetine as her mood
+appeared depressed and given that Fluoxetine can improve 3 month
+outcome after a stroke.
+
+# Cardiopulmonary:
+
+Overnight on admission, pt's HRs were in the high 30s to low 40s
+while asleep.  On 2006-08-12 00:00:00 at ~9am, HR was 140s and she was in new
+onset atrial fibrillation.  She was treated with metoprolol 5mg
+IV and tachycardia resolved.  ECG was obtained and showed 1mm
+depressions in V3-V6.  Cardiac enzymes, trops
+0.02-->0.08-->0.06,
+MB 5, 5.  Cardiology was consulted for evaluation for ACS as
+well as new onset afib.  Cardiology felt that troponin leak was
+secondary to demand ischemia, not ACS.  Recommended metoprolol
+12.5mg UPMCE for rate control and titrate up as needed as well as
+atorvastatin 80mg qd.
+
+While in the ICU, the patient was persistently bradycardic in
+the 40-50 bpm range, which per her family is baseline for the
+patient.  She was able to autoregulate her pressures within
+normal physiologic range without medication or intervention.
+
+On 2006-08-12 00:00:00, the patient per the multidisciplinary ICU team was
+ready for extubation; however, concern for a swollen tongue and
+potential obstruction caused a delay for one day to 2006-08-12 00:00:00. Per
+conversations with the family, the patient will be DNR/DNI upon
+extubation.  She was administered decadron to decrease the
+glossal swelling on 2006-08-12 00:00:00.  After evaluation by anesthesia
+and a successful spontaneous breathing trial, Ms. Boreman was
+extubated on 2006-08-12 00:00:00 without event. On discharge, she was restarted
+on her home BP meds, except Diltiazem ER (she will be d/c on low
+dose Metoprolol for rate control, though she is often
+bradycardic, this should be held for pulse less than 60).
+
+# Renal:
+
+The patient's known renal insufficiency was factored into
+decisions regarding her medical management, knowing that
+excretion of some medications would be compromised.
+
+# GI:
+
+The patient had a nasogastric tube placed early during her ICU
+stay for tube feeds. This got dislodged and was replaced by a
+Dobhoff tube (placed by interventional neuroradiology). She was
+also maintained on H2 Blockers for reflux.
+
+# Endo:
+
+She was on Synthroid as an outpatient. She did not receive this
+for part of time during admission. TSH was checked prior to
+discharge and was elevated at 8.3. She is restarted on Synthroid
+at time of discharge.
+
+# Goals of care: Had discussions with family about code status.
+After initial status epilepticus, said they would not want to
+intubate pt and that she was DNR/DNI.  Wanted to wait if she
+would become less sedated with weaning AEDs prior to making
+decision about PEG vs. comfort care.  Palliative care was
+consulted.
+Plan to go to LTACH with Dobhoff for feeding and determining if
+she will wake up more and tolerate PO intake/rehab.
+
+1. Dysphagia screening before any PO intake? (x) Yes - () No
+2. DVT Prophylaxis administered? (x) Yes - () No
+3. Antithrombotic therapy administered by end of hospital day 2?
+
+(x) Yes - () No
+4. LDL documented? (x) Yes (LDL =75) - () No
+5. Intensive statin therapy administered? (for LDL > 100) (x)
+Yes
+- () No (if LDL >100, Reason Not Given: )
+6. Smoking cessation counseling given? () Yes - (x) No (Reason
+(x) non-smoker - () unable to participate)
+7. Stroke education given? (x) Yes - () No
+8. Assessment for rehabilitation? (x) Yes - () No
+9. Discharged on statin therapy? (x) Yes - () No (if LDL >100,
+Reason Not Given: )
+10. Discharged on antithrombotic therapy? (x) Yes (Type: ()
+Antiplatelet - (x) Anticoagulation) - () No
+11. Discharged on oral anticoagulation for patients with atrial
+fibrillation/flutter? () Yes - (x) No - () N/A. Oral
+anticoagulation not started given age/fall risk. Will continue
+ASA 325 mg daily.
+
+Medications on Admission:
+-Mavik 1 mg daily (brand name only)
+-Vitamin B12 1000 mcg IM or SQ q 2 months
+-Diltiazem ER 360 mg daily
+-HCTZ 25 mg daily
+-Synthroid 50 mcg daily
+-Ammonium Lactate 12% topical cream
+-ASA 325 mg daily
+
+
+Discharge Medications:
+1. Atorvastatin 40 mg PO DAILY
+2. Famotidine 20 mg PO Q24H
+3. Fluoxetine 10 mg PO DAILY
+4. modafinil *NF* 100 mg Oral Daily Reason for Ordering: Pt
+lethargic weeks out from stroke; data exists that modafinil can
+be beneficial in such cases
+5. Docusate Sodium 100 mg PO BID:PRN constipation
+6. Lacosamide 50 mg PO BID
+7. LeVETiracetam Oral Solution 750 mg PO BID
+8. Lorazepam 1 mg IM Q4H:PRN seizure > 3 minutes or 3+ events in
+one hour
+9. Heparin 5000 UNIT SC BID
+10. Quetiapine Fumarate 25 mg PO QHS:PRN Agitation
+Please administer suspension via doboff
+11. Senna 1 TAB PO BID:PRN constipation
+hold for more than 1 bowel movement Boreman
+12. Aspirin 325 mg PO DAILY
+13. Hydrochlorothiazide 25 mg PO DAILY
+14. Levothyroxine Sodium 50 mcg PO DAILY
+15. Metoprolol Tartrate 12.5 mg PO BID
+Hold for pulse less than or equal to 60
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+right MCA territory ischemic stroke
+atrial fibrillation
+status epilepticus
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+Neurology exam at discharge:
+
+Drowsy,lethargic, open her eyes to calling her name, moves her
+limbs to painful stimulileft leg more than left arm, does not
+speak , in response to painful stimuli makes some UPMCE words,
+spastic tone in left arm.
+
+
+                             Kashmeir Boreman Kashmeir Boreman MD, 62884
+
+Completed by:2006-08-12 00:00:00

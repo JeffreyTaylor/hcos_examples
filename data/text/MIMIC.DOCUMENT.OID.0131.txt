@@ -1,0 +1,238 @@
+Admission Date:  2013-10-03 00:00:00              Discharge Date:   2013-10-03 00:00:00
+
+Date of Birth: 1999-10-03 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Quinolones
+
+Attending:Elya Newhoff
+Chief Complaint:
+Syncope
+
+Major Surgical or Invasive Procedure:
+Annicka Annicka Leffler pacemaker placement
+
+
+History of Present Illness:
+83 yo male with history of hyperlipidema, hypertension,
+bifascicular block on 123 Any St.us EKG presented to the ED with
+syncope.  The patient was feeling lightheaded this evening.  He
+called his daughter to discuss his symptoms.  While he was on
+the phone, the line went dead for approx 3min.  He reports he
+lost consciousness during that time.  His daughter called EMS.
+He denied falling during the episode of LOC.  When EMS arrived,
+he was found to be in complete heart block with a ventricular
+rate in the 20s.  He was given atropine en route to the ED.
+.
+In the ED, initial vitals were T99.0, HR 30, BP 140/60, RR18, o2
+100% on NRB.  He was found to be in third degree heart block
+with a continued ventricular rate in the 30s.  He was given
+atropine again.  He sustained a brief episode of asystole and a
+temporary pacer wire was placed.  He had appropriate capture and
+was paced at a rate of 80bpm.  He was intubated for airway
+protection, given fentanyl and midazolam for sedation, then
+changed to propofol prior to transfer.
+.
+Unable to obtain review of systems secondary to sedation.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: (+) Dyslipidemia, (+) Hypertension
+2. CARDIAC HISTORY:  left anterior fascicular block and right
+bundle branch block on recent EKG
+-CABG:  none
+-PERCUTANEOUS CORONARY INTERVENTIONS:  none
+-PACING/ICD:  none
+3. OTHER PAST MEDICAL HISTORY:
+- Obesity, central
+- History of alcohol abuse.
+- Status post ruptured rotator cuff: Injured shoulder 50 years
+ago when he slipped on ice. Specialists have told him he needs
+it replaced
+- History of diverticulitis - s/p hemi-colectomy in 2013-10-03 00:00:00
+
+
+Social History:
+Lives at home with his wife. Annicka Leffler in real estate part time with
+son and son-in-law.
+-Tobacco history:  quit smoking 20+ years ago
+-ETOH:  Drinks roughly 12 alcoholic drinks per week,
+-Illicit drugs:  none
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+GENERAL: intubated, sedated.
+HEENT: NCAT. Sclera anicteric. Right pupil is tear drop shaped,
+minimally reactive appears post surgical, left pupil is
+reactive.   Conjunctiva were pink, no pallor or cyanosis of the
+oral mucosa. No xanthalesma.
+NECK: Supple with flat JVP
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: midline scar, soft, NTND. No HSM or tenderness. Abd
+aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ PT 1+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ PT 1+
+
+Pertinent Results:
+2013-10-03 00:00:00 10:05PM BLOOD WBC-10.7 RBC-4.13* Hgb-11.9* Hct-37.7*
+MCV-91 MCH-28.9 MCHC-31.6 RDW-16.5* Plt Ct-260
+2013-10-03 00:00:00 07:00AM BLOOD WBC-6.9 RBC-3.87* Hgb-11.4* Hct-34.6*
+MCV-90 MCH-29.6 MCHC-33.1 RDW-17.2* Plt Ct-206
+2013-10-03 00:00:00 10:05PM BLOOD PT-12.9 PTT-24.2 INR(PT)-1.1
+2013-10-03 00:00:00 10:05PM BLOOD Glucose-186* UreaN-29* Creat-1.0 Na-141
+K-4.4 Cl-106 HCO3-22 AnGap-17
+2013-10-03 00:00:00 07:00AM BLOOD Glucose-85 UreaN-19 Creat-0.8 Na-143
+K-4.7 Cl-109* HCO3-25 AnGap-14
+2013-10-03 00:00:00 10:05PM BLOOD CK(CPK)-40
+2013-10-03 00:00:00 05:00AM BLOOD CK(CPK)-44
+2013-10-03 00:00:00 10:05PM BLOOD cTropnT-0.02*
+2013-10-03 00:00:00 05:00AM BLOOD CK-MB-NotDone cTropnT-0.08*
+2013-10-03 00:00:00 10:05PM BLOOD Calcium-8.3* Phos-5.8* Mg-2.1
+2013-10-03 00:00:00 05:00AM BLOOD Triglyc-114 HDL-55 CHOL/HD-2.9 LDLcalc-82
+
+EKG:  On admission to the ED, third degree heart block with a
+sinus rate of 110 bpm, and ventricular escape rhythm at 22bpm
+with right bundle branch morphology, right-UPMCE axis.  On
+admission to the CCU, pacer dependent at a rate of 80bpm.
+ECG:
+High degree A-V block. Again, given the inconsistent
+relationship between
+P waves and QRS complexes tracing is suggestive of complete
+heart block with ventricular or aberrantly conducted nodal
+escape rhythm. There is also a rightward axis deviation. Right
+bundle-branch block and non-specific ST-T wave abnormalities.
+Compared to the 123 Any St.us tracing #2 evidence for complete heart
+block is more clearly seen.
+
+TTE 2013-10-03 00:00:00:
+The left atrium is elongated. Left ventricular wall thicknesses
+and cavity size are normal. Due to suboptimal technical quality,
+a focal wall motion abnormality cannot be fully excluded.
+Overall left ventricular systolic function is normal (LVEF
+60-70%). Right ventricular chamber size and free wall motion are
+normal. The aortic root is mildly dilated at the sinus level.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. The aortic valve is not well seen. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Trivial
+mitral regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is a trivial/physiologic
+pericardial effusion. There are no echocardiographic signs of
+tamponade.
+
+Compared with the prior study (images reviewed) of 2013-10-03 00:00:00, no
+major change is evident.
+
+CXR:
+FINDINGS: Left-sided dual-chamber pacemaker has been inserted,
+with leads
+intact and in standard positions, ending in the right atrium and
+right
+ventricle. There is no pneumothorax, focal consolidation,
+pleural effusion or pulmonary edema. Degenerative changes are
+noted in the thoracic spine.
+
+IMPRESSION: New left-sided pacemaker with leads in standard
+positions without evidence of pneumothorax.
+
+
+Brief Hospital Course:
+# Complete Heart Block: The patient had a know history of RBBB
+and LAFB. His current presentation was likely degenerative
+conduction disease, finally losing his posterior fasicle. He had
+no evidence of active ischemia. A TTE showed no focal wall
+motion abnormalities, cardiac biomarkers were flat, and ECGs
+showed no signs of ischemia.  He was initially emergently
+intubated and tranvenously paced. He rapidly extubated and
+eventually had a PPM placed with little complication. He
+tolerated the procedure well and was discharged home on PO
+clindamycin. He will follow up with EP and the device clinic. He
+was started on 81mg of aspirin for primary prevention.
+
+#HTN: Not 123 Any St.usly on medical management and remained
+normotensive in house. No medications started.
+
+#Hyperlipidemia: Lipid profile at goal when checked in house. No
+medications started.
+
+#Prophylaxis: HSC
+
+#Code: Full confirmed
+
+COMM: Annicka Leffler Annicka Leffler (Wife) test@mail.com
+
+Medications on Admission:
+Aspirin 81mg QAM
+Pregabalin 75mg UPMCE
+Zyrtec 10mg QAM
+Omeprazole 20mg QAM
+Colace PRN
+Senna PRN
+Tylenol PRN
+Percocet PRN
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Clindamycin HCl 150 mg Capsule Sig: Two (2) Capsule PO Q6H
+(every 6 hours) for 3 days.
+Disp:*24 Capsule(s)* Refills:*0*
+3. Vicodin 5-500 mg Tablet Sig: One (1) Tablet PO four times a
+day as needed for pain.
+Disp:*15 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Complete Heart Block
+
+
+Discharge Condition:
+stable.
+
+
+Discharge Instructions:
+You had a rhythm problem with your heart called complete heart
+block. This was treated with a pacemaker that will regulate the
+electrical system of your heart from now on. You did not have a
+heart attack. Your echocardiogram showed no significant change
+or abnormality. This is a 123 Any St.inary 123 Any St. and will be
+reviewed by the attending cardiologist later in the day.
+.
+Medication changes:
+1. Take a baby aspirin 81 mg daily.
+2. Take Clindamycin for 3 days, this is an antibiotic that will
+prevent an infection at the pacer site.
+3. Vicodin: to take for pain at the pacer site or shoulders
+.
+No lifting more than 5 pounds with your left arm or lifting you
+left arm over your head for 6 weeks. Keep the dressing dry, no
+showers or baths for 1 week. Do not change the pacer dressing
+unless it is damp.
+
+Followup Instructions:
+Provider:  Annicka Leffler CLINIC Phone:test@mail.com Date/Time:2013-10-03 00:00:00
+2:00.
+123 Any St.. UPMCE, UPMCE.
+.
+Annicka Leffler, MD Phone: test@mail.com Date/time: 2013-10-03 00:00:00
+at 3:20 pm.
+123 Any St.. UPMCE, UPMCE.
+
+
+

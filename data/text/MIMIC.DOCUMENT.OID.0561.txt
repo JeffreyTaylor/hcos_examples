@@ -1,0 +1,276 @@
+Admission Date:  2013-06-07 00:00:00              Discharge Date:   2013-06-07 00:00:00
+
+Date of Birth: 1972-06-07 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Quinine / Chloram123 Any St.ol
+
+Attending:Clayburn Cushey
+Chief Complaint:
+urosepsis
+
+Major Surgical or Invasive Procedure:
+central line placement and removal
+
+History of Present Illness:
+This is an 80 y/o male with a h/o mental retardation, GERD c/b
+severe erosive esophagitis, prostate CA s/p TURP without
+additional treatment, who presented to the ED with fever to 103,
+subjective dyspnea, foul smelling urine and hypotension with
+SBPs in the 70s. Pt is not communicative at baseline, but did
+report lower abdominal pain, denied any CP, SOB, cough. Pt
+otherwise not able to give a more detailed history due to
+baseline mental retardation.
+.
+In Daeqwon Duhart, pt was hypotensive, febrile to 103. His lab values were
+notable for an elevated WBC at 18.5, elevated transaminases,
+elevated lactate at 7.6, and an elevated Cr to 1.9. He was given
+5L NS, and after placing a R femoral CVL, started on Levophed
+for BP support. He was empirically started on broad spectrum
+antibiotics of vancomycin, levofloxacin and flagyl, and admitted
+to the ICU for further care.
+.
+In the ICU, patient transiently required levaphed for pressure
+support. Infectious work up included blood cultures which are
+NGTD, CXR which was negative, RUQ U/S which was negative, and
+urine culture with was positive for e. coli, fluoroquinolone
+sensitive. He was maintained on vancomycin, levofloxacin, and
+flagyl. On this regimen, the patient stablized, as his BP
+returned and levophed was discontinued, his WBC decreased, his
+fever resolved. His renal failure also resolved with fluid
+rescusitation. His LFTs trended down. His lactate came down.
+.
+His ICU course was otherwise notable for a transient episode of
+atrial fibrillation, which was broken with lopressor 5mg IV x 1,
+and the patient was subsequently started on lopressor 12.5mg
+UPMCE.
+.
+His course thus far was also notable for platelets decreased
+from 130 -> 78, and therefore anti-HIT antibodies were sent
+(pending) and his SC heparin was discontinued.
+.
+Currently, he is afebrile X 24hrs and denies any shortness of
+breath, fever, chills, chest pain, or abdominal pain.
+
+Past Medical History:
+1. Prostate CA, PSA 7, s/p TURP, no hx of treatment for CA
+2. GERD c/b erosive esophagitis
+3. Mental retardation.
+4. Frequent UTIs.
+5. G6PD deficiency.
+6. S/p ccy.
+7. h/o sz d/o as child.
+8. h/o guiaic (+) stool, not able to visualize past sigmoid on
+scope due to poor prep (no lesion noted to sigmoid), EGD with
+esophagitis as above
+
+
+Social History:
+Lives at group home (123 Any St., MA), where he
+performs some ADLs and walks without assist. Sister, Daeqwon Duhart
+Daeqwon Duhart is guardian.
+
+
+Family History:
+unknown
+
+Physical Exam:
+VS: T101.8 HR84 BP72/40 RR18 o2sat: 100% on 10L face tent
+GEN: Elderly male, grunting, in NAD, in mild discomfort
+HEENT: Anicteric sclera
+NECK: No elev JVP
+CV: Regular, nml s1,s2. No s3 or murmurs
+RESP: Coarse BS throughout.
+ABD: Soft, mild TTP over suprapubic area. R femoral line in
+groin
+EXT: No edema bilat. Pulses 2+. No CVAT bilat.
+NEURO: Able to answer with 1 word answers. Moves all ext spont.
+
+SKIN: No jaundice.
+
+
+Pertinent Results:
+Labs on admission significant for:
+WBC 9.3 with 23% bands, Cr 1.9, lactate 7.6, AST 315, ALT 258,
+AP 178
+UA: >50 RBC, >50 WBC, many bacteria, neg glu/ketones
+.
+Imaging: EKG: NSR, 97. Nml axis, nml intervals.
+Pseudonormalization of TW V4-V6, no ST changes from 123 Any St.us.
+.
+CXR 2013-06-07 00:00:00: AP supine portable view. Several thick skin folds limit
+the
+evaluation of the right hemithorax. Linear opacities at the
+right lung base are unchanged, representing atelectasis or
+scarring. The remainder of the right lung is grossly clear. The
+left lung is clear. Heart size is top normal. There is no
+pulmonary edema or pleural effusion.
+.
+Abdominal US 2013-06-07 00:00:00: Limited study. No evidence of intra- or
+extra-hepatic biliary ductal dilatation or focal hepatic mass.
+Trace amount of fluid is seen adjacent to the upper pole of the
+right kidney of unclear etiology.
+.
+.
+Labs on discharge:
+2013-06-07 00:00:00 07:17AM BLOOD WBC-6.7 RBC-3.81* Hgb-10.5* Hct-31.5*
+MCV-83 MCH-27.5 MCHC-33.3 RDW-17.1* Plt Ct-83*
+2013-06-07 00:00:00 07:17AM BLOOD Glucose-103 UreaN-11 Creat-0.7 Na-141
+K-4.1 Cl-110* HCO3-26 AnGap-9 Albumin-2.5* Calcium-8.1*
+Phos-2.1* Mg-1.7
+2013-06-07 00:00:00 07:17AM BLOOD ALT-105* AST-43* AlkPhos-133* TotBili-0.3
+2013-06-07 00:00:00 11:48AM BLOOD TSH-1.4
+2013-06-07 00:00:00 11:55AM BLOOD Cortsol-50.3*
+2013-06-07 00:00:00 11:55AM BLOOD CRP-77.0*
+2013-06-07 00:00:00 02:01AM BLOOD Vanco-8.1*
+2013-06-07 00:00:00 02:32AM BLOOD Lactate-2.3*
+
+Brief Hospital Course:
+A/P: 80 y/o male with a h/o mental retardation, GERD c/b severe
+erosive esophagitis, prostate CA s/p TURP without additional
+treatment, who presents with fever to 103, subjective dyspnea,
+foul smelling urine and hypotension with SBPs in the 70s.
+
+1. Septic Shock:  Pt with sepsis and hypotension, with lactate
+7.8 in the ED and bandemia of 23%. Given 5L NS in the ED,
+started on levophed to maintain MAP >65. Likely source is urine,
+given markedly positive U/A and foul-smelling urine. No
+pneumonia on CXR.  Patient was admitted to the ICU and was
+empirically started on Vanco and Levaquin IV. Urine culture
+positive for E. coli, sensitive to levofloxacin, and was
+switched to Levo 250mg PO. After aggressive IVF resuscitation,
+the patient was weaned off of levophed with SBPs in 90s-100s.
+Patient remained afebrile, WBC trended downward, and was
+transferred to the medicine floor.
+.
+While on the medicine floor, he was afebrile with SBP's in the
+120's and HR in the 70's, O2 sat was 95% on 2L.
+.
+2. Respiratory distress:  On admission, patient in respiratory
+distress, but no clear PNA seen on pulmonary exam. The Levaquin
+IV for urosepsis also provided coverage for CAP. Patient was on
+a face tent with 40% FiO2 but would not tolerate it very well
+and would pull in off his face.  O2 sats remained >92%, even on
+room air.  He was given nebs prn and switched to nasal cannula
+with sats>94%.
+.
+3. ARF:  Pt with a normal baseline Cr of 0.7 and admitted with
+Cr of 1.9, most likely due to prerenal azotemia given profound
+dehydration in the setting of sepsis as above. Cr trended down
+after IVF resuscitation and was back to baseline at time of
+discharge.
+.
+4. A-fib: On morning of transfer from ICU to floor, patient went
+into a-fib with rates in the 140's-170's.  He was given 5mg
+lopressor and rate decreased to 80's-120's and returned to
+123 Any St. sinus rhythm. He was then started on metoprolol 12.5 UPMCE
+PO with no further episodes of atrial fibrillation on telemetry.
+
+.
+5. Mild transaminitis: On admission, he had a mild transaminitis
+likely in setting of sepsis. Abdominal US was performed to r/o
+biliary/hepatic pathology.  US Showed no evidence of intra or
+extra hepatic biliary ductal dilitation. The LFTs trended
+downward during the course of hospital stay.
+.
+6. Heparin induced thrombocytopenia: During the hospital stay,
+pts platelets fell from 128 to 78 overnight. As he was receiving
+SQ heparin for DVT prophylaxis, there was concern for HIT. All
+heparin products were stopped, heparin dependent antibodies were
+sent and pending at the time of discharge, and the platelet
+counts stabilized.
+.
+7. Mild coagulopathy: On admission, he had a mild coagulopathy
+likely in setting of sepsis. A peripheral smear was negative for
+any schistocytes. INR was followed and trended downward
+appropriately.
+.
+8. GERD: no active issues during this admission and patient
+remained on pantoprazole Q12h.
+.
+9. Conjunctivitis: He developed some white exudate and injection
+in left eye concerning for conjunctivitis. Erythromycin eye
+drops were started.
+.
+10. FEN: Patient given aggressive IVF resusciation with
+electrolytes repleted as necessary.  Speech and swallow
+evaluated patient and recommended pureed diet and thickened
+liquid diet.  Patient was started on PO prior to transfer, and
+tolerated his meals well while on the floor.
+.
+9. DISPO: DNR/DNI.
+.
+Comm: HCP Daeqwon Duhart Daeqwon Duhart. test@mail.com
+
+
+Medications on Admission:
+Carbamazepine 200mg qAM, 300mg qhs
+Prilosec 20 UPMCE
+Vit C 500 qD
+FeSO4 325
+Eucerin cream
+Tianctin
+Baby Shampoo/Daeqwon Duhart
+A&D ointment
+
+
+Discharge Medications:
+1. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 8 days.
+Disp:*8 Tablet(s)* Refills:*0*
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+3. Carbamazepine 200 mg Tablet Sig: One (1) Tablet PO QAM (once
+a day (in the morning)).
+4. Carbamazepine 200 mg Tablet Sig: 1.5 Tablets PO QHS (once a
+day (at bedtime)).
+5. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+6. Erythromycin 5 mg/g Ointment Sig: 1-2 drops Ophthalmic  QID
+(4 times a day) for 2 weeks.
+Disp:*qs tubes* Refills:*0*
+7. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for wheezing/SOB for 1
+weeks.
+9. Acetaminophen 650 mg Suppository Sig: One (1) Suppository
+Rectal Q6H (every 6 hours) as needed.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Primary:
+urinary tract infection
+septic shock
+Secondary:
+mental retardation
+GERD
+prostate cancer s/p TURP
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+You had a urinary tract infection and went into septic shock.
+.
+Please call 911 or come to the emergency room if you have any
+symptoms of fever >101, chills, shortness of breath, chest pain,
+or any other concerning symptoms.
+
+Followup Instructions:
+Please follow-up with your primary care physician, Duhart. Duhart
+test@mail.com.
+
+
+                             Daeqwon Duhart Daeqwon Duhart MD 21414
+

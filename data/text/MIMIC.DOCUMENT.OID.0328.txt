@@ -1,0 +1,753 @@
+Admission Date:  2013-05-04 00:00:00              Discharge Date:   2013-05-04 00:00:00
+
+Date of Birth: 1954-06-14 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim / Vioxx / Penicillins / CellCept / Ceftriaxone /
+Ferrlecit / Sulfa (Sulfonamide Antibiotics)
+
+Attending:Kayly Cullotta
+Chief Complaint:
+HEMOPTYSIS
+
+Major Surgical or Invasive Procedure:
+LEFT BRONCHIAL ARTERY EMBOLIZATION UNDER FLUOROSCOPY
+RIGHT INTERNAL JUGULAR LINE PLACEMENT, REPOSITIONING, AND
+REMOVAL
+IVC FILTER PLACEMENT
+INTUBATION AND MECHANICAL VENTILATION
+
+History of Present Illness:
+37F with history of lupus, lupus nephritis with ESRD on
+peritoneal dialysis on transplant list, hx of PE/Antiphopholipid
+antibody on coumadin, mitral regurg, presents with 4-6 month
+history of cough, worse in the morning, one week of trace blood,
+now producing bright red blood over last couple days. Patient
+states that the amount of blood she has been coughing has been
+increasing and is now almost hourly, aprroximately 1 teaspoon
+bright red blood. Patient states that the cough produced
+primarily yellow sputum until it turned to blood. Patient denies
+any other symptoms such as dizziness or lightheadedness. She
+denies any changes in her BMs, including consistency, frequency,
+and color.  Patient visited PCP on Christa Labounty, and a CXR was
+negative. Her was also noted to be subtherapeutic and she took
+an extra day of 10 mg warfarin as instructed.
+.
+Initial vitals in the ED were: 108 138/95 18 100% RA. Her HCT
+was 29.6, her baseline is unclear but appears to be low 30s. INR
+was 4.4. A CTA was done for concern of PE which showed: 1. Left
+lower lobe consolidation with large amount of secretions/fluid
+within the left lower lobe segmental bronchi. 2. Centrilobular
+nodules and ground glass opacities throughout both lungs,
+compatible with chronic collagen vascular disease, progressed
+since 2013-05-04 00:00:00. Ground glass opacities could also represent
+hemorrhage. 3. Chronic left lower segmental pulmonary arterial
+PE, unchanged since 2013-05-04 00:00:00.  No new acute PE detected to the
+subsegmental levels.  She was initially admitted to medicine but
+then transferred to the ICU.
+.
+On arrival to the MICU initial vitals were: 110 163/96 20 95%RA.
+She is breathing comfortably but complains of pain in her chest.
+Her EKG was reviewed which did not show changes from her prior.
+She also complains of a HA that she says she occasionally
+recieves toradol. She has had emesis in the ED that looked
+dark/possibly coffee ground but currently denies nausea.
+
+
+Past Medical History:
+# Lupus rash
+# Herpes Simplex I - 2013-05-04 00:00:00, white lesions on the tongue and
+buccal mucosa
+# Axillary Adenopathy - 2013-05-04 00:00:00, biopsied -> reactive lymph node
+# Osteopenia - 2013-05-04 00:00:00, L spine Tscore -2.40, Fem neck -1.91, Tot
+Hip -1.41
+# Hypercholesterolemia - 2013-05-04 00:00:00
+# Lung abscess - 2013-05-04 00:00:00
+# Pulmonary emboli (PE) - 2013-05-04 00:00:00
+# Angioedema vs Anasarca - 2013-05-04 00:00:00, associated with 2 grand mal
+seizures, required intubation for massive facial/laryngeal
+swelling
+# Pleural Effusions - s/p pleurodesis in 2013-05-04 00:00:00 nephrotic
+syndrome
+# Lupus nephritis / Nephrotic syndrome - 2013-05-04 00:00:00, renal bx showed
+focal proliferative class III
+# GERD / Gastric ulcer - 2013-05-04 00:00:00, seen on barium swallow
+# Recurrent pneumonia - 2013-05-04 00:00:00, possibly from aspirations, most
+recent 2013-05-04 00:00:00
+# Antiphospholipid antibody syndrome (APS) - 2013-05-04 00:00:00, requiring
+anticoagulation to INR of 2 to 3
+# Breast Masses - 2013-05-04 00:00:00, bilateral, largest right upper outer
+quadrant 4/3 cm
+# Thrombotic thrombocytopenic purpura (TTP) - 2013-05-04 00:00:00, s/p
+plasmapheresis
+# Inflammatory eye mass - 2013-05-04 00:00:00, s/p excision of mass, 2013-05-04 00:00:00 lupus
+# Gonorrhea - 2013-05-04 00:00:00, disseminated gonococcus
+# Abnormal pap smear - 2013-05-04 00:00:00, subsequent paps x 2 normal
+# Systemic lupus erythematosus (SLE) - 2013-05-04 00:00:00, followed by Dr.
+Labounty
+# Raynaud's syndrome
+# Stroke - hemiparalysis
+# Asthma - no problems for several years
+
+Social History:
+Married with three children, born in 2013-05-04 00:00:00, 2013-05-04 00:00:00, and 2013-05-04 00:00:00. Lives
+in UPMCE. Went to UPMCE. Worked as an accountant
+until health declined in early 2013-05-04 00:00:00. No tobacco, ethanol or drug
+use.
+
+
+Family History:
+Mother with MS
+Christa Labounty with sarcoid
+Christa Labounty discoid lupus
+
+
+Physical Exam:
+ADMISSION EXAM
+Vital signs:  110 163/96 20 95%RA.
+Gen: Uncomfortable appearing but no acute distress.
+HEENT: NC/AT. Anicteric sclerae. Moist mucous membranes. OP
+clear.
+Neck: Supple.
+Resp: Absent breath sounds entire L Lung fields, R lung firels
+CTA
+CV: Tachycardic, regular rhythym. Normal s1 and s2. 2013-05-04 00:00:00 SM at
+apexNo M/G/R.
+Abd: +BS. Soft. NT/ND. No rebound or guarding. No
+hepatosplenomegaly.
+Ext: Warm and well-perfused. Radial and DP pulses 2+
+bilaterally.
+Neuro: A+Ox3. PERRL. EOMI, with no nystagmus. Face symmetric.
+.
+DISCHARGE EXAM
+VS T 98.0 HR 128 (regular) BP 102/76 RR 22 O2 100/RA
+GEN thin young woman resting in bed, somnolence but easily
+roused, NAD
+NCAT MMM EOMI OP clear
+Lungs CTAB, prominent breath sounds, no wheeze no L dullness
+CV tachycardic at regular rate, nl S1 S2 no mumur Abd full but
+nondistended and nontender, soft
+Ext no edema, warm and dry
+
+
+Pertinent Results:
+ADMISSION LABS
+2013-05-04 00:00:00 07:30AM   WBC-7.9# RBC-3.19* HGB-9.2* HCT-29.6* MCV-93
+MCH-28.8 MCHC-31.0 RDW-16.9*
+2013-05-04 00:00:00 07:30AM   NEUTS-64.1 LYMPHS-24.2 MONOS-4.4 EOS-6.4*
+BASOS-0.8
+2013-05-04 00:00:00 07:30AM   PLT COUNT-376#
+2013-05-04 00:00:00 07:30AM   GLUCOSE-96 UREA N-58* CREAT-13.0*# SODIUM-142
+POTASSIUM-4.0 CHLORIDE-99 TOTAL CO2-24 ANION GAP-23*
+2013-05-04 00:00:00 07:30AM   PT-45.1* PTT-46.9* INR(PT)-4.4*
+.
+OTHER PERTINENT LABS
+2013-05-04 00:00:00 05:04PM BLOOD Kayly Cullotta-POSITIVE * Titer-1:160 dsDNA-POSITIVE
+*
+2013-05-04 00:00:00 04:57AM BLOOD dsDNA-NEGATIVE
+2013-05-04 00:00:00 11:44AM BLOOD SM ANTIBODY-3.6 POS (<1.0 NEG AI)
+2013-05-04 00:00:00 05:04PM BLOOD ANCA-NEGATIVE B
+2013-05-04 00:00:00 04:57AM BLOOD dsDNA-NEGATIVE
+2013-05-04 00:00:00 07:00PM BLOOD Lupus ANTICOAGULANT-POS
+2013-05-04 00:00:00 05:13AM ANTICARDIOLIPIN IgG-5.5(NEG) ANTICARDIOLIPIN
+IgM-5.6(NEG)
+2013-05-04 00:00:00 05:04PM BLOOD Kayly Cullotta-POSITIVE * Titer-1:160 dsDNA-POSITIVE
+(1:10)
+2013-05-04 00:00:00 05:13AM BLOOD Beta-2-Glycoprotein 1 Antibodies IgG-PND
+2013-05-04 00:00:00 07:30AM BLOOD C3-109 C4-44*
+2013-05-04 00:00:00 04:57AM BLOOD C3-87* C4-29
+2013-05-04 00:00:00 03:36AM BLOOD C3-104 C4-30
+.
+DISCHARGE LABS
+2013-05-04 00:00:00 03:12AM BLOOD WBC-14.2* RBC-3.89* Hgb-11.5* Hct-35.9*
+MCV-92 MCH-29.5 MCHC-31.9 RDW-15.9* Plt Ct-488*
+2013-05-04 00:00:00 03:12AM BLOOD PT-13.2* PTT-31.8 INR(PT)-1.2*
+2013-05-04 00:00:00 03:12AM BLOOD Glucose-90 UreaN-77* Creat-12.1* Na-136
+K-4.1 Cl-94* HCO3-25 AnGap-21*
+2013-05-04 00:00:00 03:12AM BLOOD Calcium-10.1 Phos-6.4* Mg-2.4
+.
+MICRO
+2013-05-04 00:00:00W BLOOD CULTURE -PENDING
+2013-05-04 00:00:00W BLOOD CULTURE -PENDING
+2013-05-04 00:00:00 BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-123 Any St.INARY; ACID FAST SMEAR-FINAL; ACID FAST
+CULTURE-123 Any St.INARY; FUNGAL CULTURE-123 Any St.INARY; POTASSIUM
+HYDROXIDE PREPARATION-FINAL
+2013-05-04 00:00:00 URINE CULTURE-FINAL
+2013-05-04 00:00:00 BLOOD CULTURE -PENDING
+2013-05-04 00:00:00 BLOOD CULTURE -PENDING
+2013-05-04 00:00:00 PERITONEAL FLUID GRAM STAIN-FINAL; FLUID
+CULTURE-123 Any St.INARY; ANAEROBIC CULTURE-123 Any St.INARY
+2013-05-04 00:00:00 SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+2013-05-04 00:00:00 DIALYSIS FLUID GRAM STAIN-FINAL; FLUID CULTURE-FINAL
+2013-05-04 00:00:00 STOOL C. difficile DNA amplification assay-FINAL
+2013-05-04 00:00:00 BLOOD CULTURE -FINAL
+2013-05-04 00:00:00 BLOOD CULTURE -FINAL
+2013-05-04 00:00:00 SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+INPATIENT
+2013-05-04 00:00:00 BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL; ACID FAST SMEAR-FINAL; ACID FAST
+CULTURE-123 Any St.INARY; FUNGAL CULTURE-123 Any St.INARY; POTASSIUM
+HYDROXIDE PREPARATION-FINAL
+.
+2013-05-04 00:00:00 CTA CHEST
+The lung apices are excluded from this examination, which was
+optimized for assessment of the pulmonary vasculature.
+Coarse calcifications within the breasts are new on the left
+(2:33), and
+slightly increased in size on the right (2:24), in comparison to
+the 2013-05-04 00:00:00 examination. No distinct mass is seen,
+although the breast tissue is diffusely dense.
+There is no axillary or mediastinal lymphadenopathy. The heart
+size is top
+normal. There is no pericardial effusion. The aorta is normal in
+caliber and patent. There is no dissection.
+The main pulmonary arteries are normal in caliber. There is a
+chronic
+pulmonary embolus within the left lower segmental pulmonary
+artery (3:57),
+which is present since the 2013-05-04 00:00:00 CT examination. No superimposed
+acute
+pulmonary embolus is detected to the subsegmental levels.
+Endobronchial secretions are seen within the left lower lobe
+segmental
+bronchus (3:54), extending into the left lower lobe, where there
+is a
+moderate-sized consolidation (3:86) filling a 123 Any St.usly-seen
+large air
+collection from 2013-05-04 00:00:00. There are neighboring areas of
+tree-in-Christa Labounty
+and ground-glass opacities (3:72). Ground-glass and tree-in-Christa Labounty
+opacities are also seen throughout both lungs, slightly worse at
+the lower zones (right lower lobe 3:104, right middle lobe
+3:109, right upper lobe 3:49, lingula 3:95), distributed along a
+centrilobular pattern, with associated mild bronchiectasis, all
+progressed since 2013-05-04 00:00:00. There is no pleural effusion. Mild
+pleural thickening along the left lower lobe (3:78) has slightly
+progressed since 2013-05-04 00:00:00.
+Moderate intraabdominal ascites is present.
+OSSEOUS STRUCTURES: There is no bony lesion concerning for
+infection or
+neoplasm.
+IMPRESSION:
+1. Left lower lobe consolidation with large amount of
+secretions/fluid within the left lower lobe segmental bronchi. A
+small air-filled space within the left lower lobe seen on the
+2013-05-04 00:00:00 CT examination is now filled with fluid and/or blood.
+Findings could represent hemorrhage secondary to collagen
+vascular disease. Infection and abscess also have the same
+appearance on CT.
+2. Centrilobular nodules and ground glass opacities throughout
+both lungs,
+with a basilar predominance, with associated mild
+bronchiectasis, compatible with chronic collagen vascular
+disease, progressed since 2013-05-04 00:00:00. There is no advanced fibrosis.
+Superimposed infection cannot be excluded by imaging alone.
+Ground glass opacities could also represent hemorrhage.
+3. Chronic left lower segmental pulmonary arterial PE, unchanged
+since 2013-05-04 00:00:00. No new acute PE detected to the subsegmental levels.
+
+.
+2013-05-04 00:00:00 CXR
+CHEST, SINGLE AP PORTABLE VIEW
+Suspect background hyperinflation. Superimposed on this, the
+heart is not
+enlarged. The left hemidiaphragm is elevated.
+There is patchy dense opacity at the left base, increased
+compared with
+2013-05-04 00:00:00. Blunting of the left costophrenic angle suggests a
+small effusion.
+Smudgy densities scattered in the right and ? left upper lung
+are compatible with ground glass oapcities seen on chest CTA
+obtained earlier the same day.
+There is minimal biapical pleural scarring. Note is made of
+calcification
+along the bronchial walls, an unusual finding in an individual
+of this age.
+A large (13 mm) coarse calcification overlying the right lung
+lies within the right breast.
+Minimal superior endplate scalloping is noted in several
+mid/upper thoracic vertebral bodies.
+IMPRESSION: Irregular dense opacity at left base, increased
+compared with 2013-05-04 00:00:00, associated with an elevated left
+hemidiaphragm. Differential diagnosis includes alveolar
+processes such as infection and hemorrhage.
+.
+2013-05-04 00:00:00 CT ABD/PELVIS
+ABDOMEN: There is atelectasis at the left base with a small left
+pleural
+effusion. Centrilobular nodules and ground-glass opacities at
+the right base remain unchanged from CTA chest performed
+yesterday.
+Lack of intravenous contrast limits evaluation of the solid
+abdominal viscera.
+The liver, spleen, adrenal glands and pancreas demonstrate a
+grossly
+unremarkable unenhanced appearance. The kidneys are small in
+size. There is vicarious excretion of contrast within the
+gallbladder from contrast CT
+performed yesterday. Nonenlarged retroperitoneal lymph nodes are
+visualized.
+There is no adenopathy. The abdominal aorta is normal in caliber
+with
+atherosclerotic calcifications noted predominantly infrarenally.
+
+A peritoneal dialysis catheter is present, looped in the right
+mid abdomen
+entering from the left. There is a moderate amount of ascites,
+which measures higher than simple fluid in Hounsfield units.
+There is no evidence of retroperitoneal hematoma.
+PELVIS: The bladder, uterus and rectum are within normal limits.
+Ascites is redemonstrated within the pelvis. There are no
+dilated or thick-walled loops of bowEl. There is no inguinal or
+pelvic adenopathy.
+OSSEOUS STRUCTURES: Mild degenerative changes are present in the
+right hip
+and sacroiliac joints. A sclerotic 9-mm lesion in the left iliac
+bone appears nonaggressive and is essentially unchanged from
+2013-05-04 00:00:00 suggesting a benign lesion.
+IMPRESSION:
+1. Moderate ascites. Given the fluid withdrawn from the
+peritoneal dialysis catheter is nonhemorrhagic, and the patient
+underwent a contrast-enhanced CT yesterday, this is likely
+increased in density from the contrast administration. No
+evidence of retroperitoneal hematoma.
+2. Vicarious excretion of contrast in the gallbladder consistent
+with stated history of chronic kidney disease.
+3. Left basilar disease is poorly evaluated on this examination.
+
+Centrilobular nodules and ground-glass opacities are
+redemonstrated consistent with known chronic collagen vascular
+disease. Again, superimposed infection cannot be excluded by
+imaging.
+.
+2013-05-04 00:00:00 FLUOROSCOPIC-GUIDED EMBOLIZATION L BRONCHIAL ARTERY
+FINDINGS:
+1. Existing right IJ temporary triple-lumen catheter was seen
+with the tip in the axillary vein. This was successfully
+repositioned/replaced with the new catheter tip positioned in
+the distal SVC.
+2. Angiography demonstrated dilated tortuous left bronchial
+artery, supplying the left lung and specifically, the left lower
+lobe. Some filling of an adjacent pulmonary artery was seen at
+the end of the angiography suggesting microvascular shunting.
+3. No contributor was identified from the left bronchial artery
+anywhere in its course to an anterior spinal artery.
+4. During selective microcatheterization of the left bronchial
+artery, a
+small amount of contrast extravasation was noted in the
+mediastinum from the proximal portion of the artery. Subsequent
+aortic angiography demonstrated no contrast extravasation from
+the aorta or evidence of aortic dissection.
+5. Following this, 5 French Labounty was again used to select
+the ostium of the left bronchial artery. From this location,
+particle embolization with 300-500 micron Embospheres was
+performed to good slowing of flow and
+angiographic result.
+IMPRESSION:
+1. Successful particle embolization in the left bronchial
+artery, as
+described above.
+2. Successful replacement and repositioning of non-tunneled
+right internal
+jugular vein triple lumen catheter, with the tip now in distal
+SVC. The line is ready to use.
+.
+2013-05-04 00:00:00 CT CHEST
+FINDINGS:
+AIRWAYS AND LUNGS: Since 2013-05-04 00:00:00, high-density
+consolidation in the
+left lower lobe sparing only a portion of the superior segment
+has increased and new in posterior basal segment of the right
+lower lobe. Preexisting left lower lobe cavity is obscured by
+this large consolidation. In addition,
+diffuse ground-glass opacities without septal thickening in both
+lungs (left side more than right), are also new since 2013-05-04 00:00:00
+2013-05-04 00:00:00. Keeping with clinical history, these are highly suggestive
+of multifocal pulmonary hemorrhage, most pronounced in the left
+lower lobe. Thin rim of hyperdensity along the
+posterior pleural space in the left lower lobe is probably due
+to the
+dissection of the blood from the consolidation.
+MEDIASTINUM: Thyroid gland is normal. Endotracheal tube tip lies
+3 cm above the carina. There are no pathologically enlarged,
+mediastinal,
+supraclavicular or axillary lymph nodes. Heart is normal size,
+and thin rim of pericardial fluid is likely reactive. Coronary
+artery calcification is minimal.
+ABDOMEN: The study is not designed for assessment of
+subdiaphragmatic
+pathology; however, limited views were remarkable for moderate
+ascites with an attenuation value ranging between 19 to 35,
+suggesting complex fluid, unchanged since 2013-05-04 00:00:00.
+BONES: There is no bone lesion concerning for malignancy or
+infection.
+IMPRESSION:
+1. CT featuRes are concerning for progressive multifocal
+pulmonary hemorrhage, most pronounced in left lower lobe.
+2. Left lower lobe bronchial tree occlusion is likely from
+aspirated blood.
+3. Moderate ascites with attenuation ranging between 19 to 35 is
+probably
+complex fluid, unchanged since 2013-05-04 00:00:00.
+.
+2013-05-04 00:00:00 CXR
+FINDINGS: As compared to the 123 Any St.us radiograph, there is
+substantial
+improvement with substantially improved ventilation of the left
+lung. Only at the left lung base, areas of atelectasis with
+subsequent elevation of the left hemidiaphragm persists.
+Two new tubular structures project over the left hemithorax.
+There is no
+evidence of pneumothorax. The monitoring and support devices are
+overall
+constant. Constant appearance of the right lung.
+.
+2013-05-04 00:00:00 LENIS
+FINDINGS: There is normal phasicity within the common femoral
+veins
+bilaterally. The visualized vessels are patent and compressible
+with normal waveforms and augmentation. No thrombus identified.
+
+IMPRESSION: No evidence of DVT within the lower extremities
+bilaterally.
+.
+2013-05-04 00:00:00 TTE
+Conclusions
+The left atrium is normal in size. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size is normal. with normal free wall contractility. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic stenosis or aortic
+regurgitation. The mitral valve leaflets are elongated. There is
+no mitral valve prolapse. An eccentric, posteriorly directed jet
+of Moderate (2+) mitral regurgitation is seen. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: Poor image quality (patient difficult to position
+and unable to cooperate). Preserved regional and global left
+ventricular systolic function. Based on limited views, right
+ventricular cavity size and function are probably normal.
+Pulmonary pressures were undetermined.
+Compared with the prior study dated 2013-05-04 00:00:00 (images reviewed),
+left ventricular function is more vigorous. Other findings are
+probably similar although current suboptimal image quality
+precludes definite comparison.
+
+Brief Hospital Course:
+37F with SLE c/b lupus nephritis, w/ESRD on PD & bilateral PE on
+chronic coumadin p/w hemoptysis & hypoxic respiratory failure,
+found to have L bronchial artery bleed.
+
+# HEMOPTYSIS
+On admission pt was HD stable, not hypoxia, and without airway
+compromise. She did have significant Hct drop, from 29.6 to 20.8
+within 24h of admission. Pt is on chonic coumadin for hx
+bilateral PE 11y ago; INR was elevated to 4.4 on admission.
+Explanation for acute bleed not entirely clear - initial ddx
+included infection (PNA vs abscess) in setting of elevated INR
+most likely; diffuse alveolar hemorrhage also possible, &
+rheumatology consult also suggested possible pulmonary
+vasculitis. No new PE seen on CTA. She initially received
+antibiotics for possible pulmonary infection (vanc/levo/flagyl,
+subsequently narrowed to levo/flagyl). On HD3, underwent
+CT-guided pulmonary angiography for question source of bleed and
+possible bleeding into mediastinum. Bleed localized to L
+bronchial artery, which was embolized. Solumedrol started for
+possible vasculitis. Hct stabilized and uptrended thereafter.
+There was discussion of possible pulmonary wedge biopsy for
+purpose of solidifying a tissue diagnosis to guide possible
+immunosuppression but this was decided against after
+risk/benefit analysis. Discharge Hct 35.9. Sent home w/steroid
+taper to be further managed in rheumatology follow-up next week.
+
+.
+# HYPOXIC RESPIRATORY FAILURE
+Pt developed respiratory failure while in the ICU, w/increasing
+O2 requirement. CXR showed significant left-sided infiltrate,
+most likely from L bronchial arterial bleed (as discussed
+above). Pt developed progressive respiratory distress requiring
+supplemental O2. She was intubated on HD4 for rigid bronchoscopy
+and was difficult to extubate, first because of persistent
+L-sided infiltrate (blood) and volume overload (retained >5L
+over 3-4d from PD), then because she developed ventilator
+associated pneumonia (VAP). She was already on levo/flagyl at
+the time (coverage for possible pulmonary infection as
+123 Any St.itant for hemoptysis, discussed above);
+aztreonam/vancomycin added briefly for VAP coverage. On repeat
+bronchoscopy on HD9, large mucous plug removed from LUL
+bronchus. Pt's respiratory status improved quickly thereafter,
+and she was successfully extubated the following morning. Weaned
+to RA within several hours, O2 sat in high 90s/RA for >48h
+thereafter.
+.
+#CHRONIC PE/ANTICOAGULATION
+Hx indication for anticoagulation was revisited during this
+admission given hemoptysis and supratherapeutic INR on
+admission. No acute PE on CTA. [**Year (4 digits) **] was consulted and agreed
+w/continuing to hold anticoagulation. IVC filter placed. Review
+of OMR records revealed that anticoagulation was started in
+2013-05-04 00:00:00 during hospitalization for lung abscess; large bilateral
+PEs were revealed on CTA done for unexplained persistent sinus
+tachycardia. She has been on anticoagulation since. OMR also
+include diagnosis of antiphospholipid antibody syndrome in
+OB/GYN notes (based upon 3 miscarriages and hx CVA age 14) but
+rheumatology notes/records show autoantibody panel not c/w this
+diagnosis (Kayly Cullotta positive 1:320, anti-Ro/La positive, lupus
+anticoagulant negative x2, *anticardiolipin negative*.
+Rheumatology and hematology were consulted here for assistance
+with re-evaluation of pt's indication for chronic
+anticoagulation and plan to resume anticoagulation. Repeat
+serologies sent - lupus anticoagulation now *positive*,
+anticardiolipin again negative, b2glycoprotein Ab pending at
+time of discharge. Discharge anticoagulation plan as follows:
+- IVC filter to be removed in ~1 week (IR aware, procedure
+scheduled for 2013-05-04 00:00:00)
+- Resume warfarin after IVC filter removed, with f/u INR checks
+at UPMCE clinic overseen by PCP Labounty. Kayly Cullotta. 2013-05-04 00:00:00 require
+re-hospitalization to restart warfarin, TBD by PCP and 2013-05-04 00:00:00/pulm
+in outpatient follow-up
+- PCP, Christa Labounty, Rheum and Pulmonary follow-up appointments arranged
+- situation discussed with Rheumatologist Dr. Labounty who
+will review paper records for any OSH coagulopathy studies sent
+prior to initiation of coumadin in 2013-05-04 00:00:00 and share info w/Dr. Kayly Cullotta
+.
+# SINUS TACHYCARDIA
+Pt's HR was 100 on admission and trended 100-140 during her
+hospital status. Always sinus tachycardia on EKG and telemetry.
+Given hx PE, she had bilateral LENIs and a TTE to evaluate any
+right heart strain. Both were wnl. No CTA was obtained because
+a) pt had an IVC filter placed on admission so low-likelihood
+and b) no anticoagulation would have been restarted as an
+inpatient given recent life-threatening bleed.
+
+# Hx ESRD on PD
+Renal failure chronic, lupus nephritis. Underwent PD throughout
+hospital stay. Initially there was some difficulty evacuating
+entire content of PD dwells, and pt became volume overloaded.
+Renal consult service followed closely and guided modifications
+to PD solution. Pt was euvolemic on PD for 4 days prior to
+discharge.
+.
+# Hx SLE
+Diagnosed in 2013-05-04 00:00:00 and followed by Dr. Labounty. Complicated by
+nephritis, & recurrent pleural effusions, w/additional ocular
+and skin manifestations. Plaquenil was continued while pt able
+to take POs; held while intubated & restarted thereafter.
+Rheumatology consult service followed, suggested possibility
+that lupus vasculitis or other vasculitis might have contributed
+to her hemoptysis (see above) and recommended initiation of IV
+steroids. Steroid taper to be further managed by rheumatologist
+in follow-up.
+.
+# Hx HTN
+Recently stopped lisinopril for concern of exacerbation of her
+cough. BP meds held on admission given concern for bleeding.
+Used PRN IV labetolol to control BPs while intubated. After
+extubation, pt's BP ran
+.
+# Hx MIGRAINE HEADACHES
+Takes amitriptyline at home at night. Amitriptyline + PRN
+tylenol while here.
+.
+# Hx GERD
+Continued ranitidine. Pt did have some nausea and PO intolerance
+but was able to take small-volume POs prior to discharge.
+.
+TRANSITIONAL ISSUES
+1. ANTICOAGULATION
+Discharge anticoagulation plan as follows:
+- IVC filter to be removed in ~1 week (IR aware, procedure
+scheduled for 2013-05-04 00:00:00)
+- Resume warfarin after IVC filter removed, with f/u INR checks
+at UPMCE clinic overseen by PCP Labounty. Kayly Cullotta. 2013-05-04 00:00:00 require
+re-hospitalization to restart warfarin, TBD by PCP and 2013-05-04 00:00:00/pulm
+in outpatient follow-up
+- PCP, Christa Labounty, Rheum and Pulmonary follow-up appointments arranged
+- situation discussed with Rheumatologist Dr. Labounty who
+will review paper records for any OSH coagulopathy studies sent
+prior to initiation of coumadin in 2013-05-04 00:00:00 and share info w/Dr. Christa
+- Warning signs for CVA and DVT/PE reviewed with pt and family
+prior to discharge, recommend careful follow-up neuro and
+pulmonary exams.
+2. STEROID TAPER - to be managed by outpatient rheumatologist
+3. Need for ongoing home physical therapy - pt thought to need
+intense rehabilitation but refused PT, will need follow-up
+evaluation by PCP and likely ongoing home PT
+
+Medications on Admission:
+AMITRIPTYLINE - 25 mg Tablet QHS
+B COMPLEX-VITAMIN C-FOLIC ACID
+CALCITRIOL 0.25 mcg Capsule six times weekly
+CODEINE-GUAIFENESIN 2013-05-04 00:00:00 tsp(s) prn cough
+DARBE123 Any St. ALFA IN POLYSORBAT [ARANESP (POLYSORBATE)] -
+60 mcg/0.3 mL Syringe -Q2weeks
+GENTAMICIN - 0.1 % Cream - apply to exit site as directed
+HYDROXYCHLOROQUINE [PLAQUENIL] - 200 mg Tablet - 1 Tablet(s) by
+mouth ONE BY MOUTH EVERY DAY, TWO BY MOUTH EVERY OTHER DAY
+LISINOPRIL - 40 mg Tablet - one Tablet(s) by mouth once a day
+-recently stopped for concern of contributing to chroninc cough
+RANITIDINE HCL - 150 mg Tablet - UPMCE
+SEVELAMER CARBONATE [RENVELA] 800 mg Tablet - 3 Tablet TID
+VALACYCLOVIR - 500 mg Tablet - one Tablet(s) by mouth x 1 dose
+as
+needed for cold sore outbreak as soon as you have symptoms
+WARFARIN - Alternating 7.5 mg and 10 mg
+
+
+Discharge Medications:
+1. amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+2. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1)
+Capsule PO once a day.
+3. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO 6x/week.
+
+4. Aranesp (polysorbate) 60 mcg/0.3 mL Syringe Sig: One (1)
+injection Injection q2weeks.
+5. gentamicin 0.1 % Cream Sig: One (1)  Topical once a day:
+apply to exit site as directed.
+6. hydroxychloroquine 200 mg Tablet Sig: AS DIRECTED Tablet PO
+once a day: 200 MG (1 TAB) AND 400 MG (2 TABS) ON ALTERNATING
+DAYS.
+7. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+8. sevelamer carbonate 800 mg Tablet Sig: Three (3) Tablet PO
+TID W/MEALS (3 TIMES A DAY WITH MEALS).
+9. valacyclovir 500 mg Tablet Sig: One (1) Tablet PO x1: take 1
+tablet immediately as needed for cold sore outbreak as soon as
+you have symptoms.
+10. phenol 1.4 % Aerosol, Spray Sig: One (1) Spray Mucous
+membrane Q6H (every 6 hours) as needed for throat pain.
+Disp:*QS * Refills:*0*
+11. prednisone 10 mg Tablet Sig: as directed Tablet PO once a
+day: take 4 tabs (40 mg) Saturday morning, then 3 tabs (30 mg)
+every morning until further instructions from your
+rheumatologist.
+Disp:*50 Tablet(s)* Refills:*1*
+12. Ativan 0.5 mg Tablet Sig: One (1) Tablet PO every eight (8)
+hours as needed for anxiety or nausea for 30 doses.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Caregroup VNA
+
+Discharge Diagnosis:
+LEFT BRONCHIAL ARTERY BLEED
+VENTILATOR-ASSOCIATED PNEUMONIA
+END-STAGE RENAL DISEASE, PERITONEAL DIALYSIS-DEPENDENT
+HISTORY OF PULMONARY EMBOLISM
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Mrs. Labounty,
+
+You were admitted to the hospital with a life-threatening bleed
+into your left lung. Your INR was >4 so we stopped coumadin. You
+underwent a procedure to localize and cauterize the source of
+the bleed: a left bronchial artery. You required intubation to
+help you breathe as the blood in your left lung resolved. You
+had multiple bronchoscopies to remove blood clots and mucous
+plugs. You were followed closely by rheumatologists who
+recommended steroids to dampen any possible lupus vasculitis,
+which could have caused the bleed.
+
+You also developed ventilator-associated pneumonia and were
+treated with antibiotics.
+
+Your PCP Labounty. Christa will continue to manage your coumadin. For now,
+do not take coumadin. We will recommend restarting coumadin in
+approximately 1 week, after IVC filter removal, but the final
+decision will be made by Dr. Christa in cooperation with your
+hematologist and rheumatologist.
+
+Please see below for a list of warning signs. Please pay special
+attention to any difficulty breathing, chest pain including
+discomfort with breathing, leg or calf pain or swelling. Also be
+aware of warning signs for stroke including sudden weakness or
+numbness, difficulty speaking, and change in vision.
+
+We recommended UPMCE rehabilitation because you were very
+weak after 10 days in bed in the hospital. Physical therapy did
+not think you were safe to go home. However, you refused to go
+to rehab.
+
+We made the following changes to your medications:
+STOP COUMADIN
+STOP LISINOPRIL (RECENTLY DISCONTINUED BY YOUR PCP)
+STOP GUAIFENESIN
+STOP LOSARTAN, please discuss resuming this medication with your
+PCP and Nephrologist
+START CHLOROSEPTIC SPRAY FOR THROAT DISCOMFORT, EVERY 6 HOURS
+AS-NEEDED
+START PREDNISONE TAPER, 40 MG SATURDAY THEN 30 MG DAILY UNTIL
+YOU SEE YOUR RHEUMATOLOGIST, WHO WILL GIVE FURTHER TAPERING
+INSTRUCTIONS.
+START ATIVAN 0.5 mg UP TO EVERY 8 HOURS FOR ANXIETY OR NAUSEA
+FOR 10 DAYS. PLEASE DO NOT DRINK 123 Any St. WHILE TAKING
+THIS MEDICATION.
+
+Followup Instructions:
+Please arrive 1 hour early for this 123 Any St. to get your
+blood drawn:
+Department: UPMCE
+When: UPMCE 2013-05-04 00:00:00 at 11:20 AM
+With: Kayly Cullotta, M.D. test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: RHEUMATOLOGY
+When: WEDNESDAY 2013-05-04 00:00:00 at 4:30 PM
+With: Christa Labounty, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+Department: WEST SPECIALTIES CLINIC
+When: THURSDAY 2013-05-04 00:00:00 at 11:30 AM
+With: Kayly Cullotta, M.D. test@mail.com
+Building: De 123 Any St.
+Campus: WEST     Best Parking: 123 Any St. Garage
+
+This is your 123 Any St. to remove your IVC filter. It is very
+important that you keep this 123 Any St. and arrive early.
+Department: RADIOLOGY CARE UNIT
+When: FRIDAY 2013-05-04 00:00:00 at 7:00 AM test@mail.com
+Building: De 123 Any St.
+Campus: WEST     Best Parking: 123 Any St. Garage
+
+Department: Hematology
+Name: Dr. Kayly Cullotta Labounty
+When: Dr. Labounty office is working on a follow up Labounty
+for 9-15 days after your hospital discharge. If you have not
+heard from the office in 2 business days please call the office
+number listed below.
+Location: DIVISION OF HEMOSTASIS AND THROMBOSIS
+Address: 123 Any St., E/TCC-9, 123 Any St.,[**Numeric Identifier 711**]
+Phone: test@mail.com
+
+Department: PULMONARY FUNCTION LAB
+When: THURSDAY 2013-05-04 00:00:00 at 1:40 PM
+With: PULMONARY FUNCTION LAB test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: MEDICAL SPECIALTIES
+When: THURSDAY 2013-05-04 00:00:00 at 2:00 PM
+With: Christa Labounty Christa Labounty RN/DR. Labounty test@mail.com Pulmonology
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+                             Kayly Cullotta Labounty Christa Labounty MD 55357
+

@@ -1,0 +1,321 @@
+Admission Date:  2014-04-08 00:00:00              Discharge Date:   2014-04-08 00:00:00
+
+Date of Birth: 1970-06-23 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+bupropion
+
+Attending:Emmorie Bergenstock
+Chief Complaint:
+dysphagia
+
+Major Surgical or Invasive Procedure:
+2014-04-08 00:00:00
+1. Laparoscopic jejunostomy feeding tube.
+2. Esophagogastroduodenoscopy and balloon dilation of
+   stricture to 18 mm.
+3. Biopsy of gastric conduit.
+
+2014-04-08 00:00:00
+EGD/Esophageal stent placement
+4. Bronchoscopy with bronchoalveolar lavage.
+
+
+History of Present Illness:
+The patient is a 60-year-old
+gentleman who underwent a minimally-invasive esophagectomy
+with an intrathoracic anastomosis in 2014-04-08 00:00:00.  He has
+developed metastatic disease to the brain and underwent a
+craniotomy.  He has also had ongoing issues with a productive
+cough and weight loss.  CT scans have not demonstrated
+evidence for fistula, but have demonstrated pneumonia in the
+right lower [**Year (4 digits) 3579**]. He was admitted to the hospital for further
+management.
+
+
+Past Medical History:
+stage III adenocarcinoma at GE jxn s/p chemoradiation
+esophagectomy-  pathology showed complete response.
+AF w/ RVR s/p cardioversion 2014-04-08 00:00:00
+ -he does not feel when he is in atrial fibrillation
+PE (2014-04-08 00:00:00) & R axillary DVT (2014-04-08 00:00:00)
+Rheumatoid arthritis- s/p enbrel, currently on prednisone
++ PPD (never treated)
+bilateral pleural effusions (s/p drainage by IP)
+h/o pericarditis
+Recent aspiration/pneumonia (2014-04-08 00:00:00)- tx with doxycycline
+COPD
+
+Onc history (Per OMR):
+2014-04-08 00:00:00: chemoradiation with cisplatin (75 mg/m2, D1 and
+D29) and 5-FU (1000 mg/m2/day D1-4, D29-32)
+2014-04-08 00:00:00/11: admission for PE (RLL segmental) causing pleuritic
+chest pain; therapeutic lovenox initiated
+2014-04-08 00:00:00: admission with new atrial fibrillation
+and acute right axillary DVT. CT showed improving PE.
+Cardioverted. Therapeutic lovenox continued.
+2014-04-08 00:00:00 PET/CT: Gastrohepatic and left paratracheal lymph nodes
+now without FDG-avidity. Low level FDG-avid RLL consolidations,
+non-specific (aspiration/pneumonia vs infarct vs atelectasis).
+2014-04-08 00:00:00: esophagectomy, J-tube placement (Dr. Emmorie Bergenstock
+ -J-tube discontinued 2014-04-08 00:00:00
+
+PSHx:
+-R forearm surgery
+-minimally invasive eosphagectomy 2014-04-08 00:00:00 & J-tube placement
+-s/p Esophagogastroduodenoscopy and dilation of a stricture
+(2014-04-08 00:00:00)
+
+
+Social History:
+He lives with his wife. Aruna Holston has been on disability for the past
+ten years related to RA. Formerly was a manager at a bottling
+plant and 123 Any St. 123 Any St.. He has four children. He quit
+smoking in 2014-04-08 00:00:00, 123 Any St.usly smoked 30-35 years, 1-1.5 PPD. He
+had drinks 2014-04-08 00:00:00 cocktails very few weeks. Denies drug use.  He
+has traveled extensively in the Caribbean. No known TB contacts.
+
+
+Family History:
+His mother and Aruna Holston sister have Aruna Holston. There is no family
+history of cancer. No clotting disorders in the family.
+
+Physical Exam:
+ON ADMISSION:
+-------------
+Vitals: BP: 93/69. HR: 84. Temp: 96.8. RR: 16. Pain: 0. O2 Sat%:
+94.
+Weight: 120.2. Height: 64. BMI: 20.6.
+awake alert, very thin
+lungs with good air movement
+heart regular
+abd soft, not distended
+.
+ON DISCHARGE:
+-------------
+VS: stable
+Gen: A&O X 3, in  NAD
+HEENT: atraumatic
+Neck: supple
+Lungs: cta bilaterally no r/w/r
+CV: RRR s1s2 no m/r/g
+Abd: soft mildly tender @ j tube site +bs no HSM no stigmata of
+chr liver dz
+Ext: no erythema or edema
+Neuro: CNii-xii grossly intact
+Pressure ulcer: sacrum, 1cm X 1cm, superficial, no signs of
+infection
+
+Pertinent Results:
+LABS ON DISCHARGE:
+------------------
+2014-04-08 00:00:00 10:20AM BLOOD Glucose-111* UreaN-12 Creat-0.5 Na-134
+K-4.4 Cl-101 HCO3-26 AnGap-11
+2014-04-08 00:00:00 10:20AM BLOOD Calcium-7.8* Phos-1.2* Mg-1.8
+.
+IMAGING & STUDIES:
+------------------
+2014-04-08 00:00:00 EGD/ Esophageal stent placement: A slight narrowing was
+noted in the mid/upper esophagus at 26 cm likely corresponding
+to known anastamotic stricture. Once anastamotic stricture was
+traversed there was a large saccular area identified which was
+ulcerated and friable - Per Dr. Emmorie Bergenstock, this represents the
+gastric conduit. Again identified was a 1-2 mm area concerning
+for fistula. After extensive discussion with Dr. Emmorie Bergenstock, decision
+was made to place a fully covered metal stent to attempt closure
+of the fistula and symptom control. A 23 mm x 155 mm Wallflex
+Esohpagael fully covered metal stent [Ref# 1675; Lot# [**Serial Number 6468**]]
+was placed successfully into the esophagus under fluoroscopic
+guidance.
+
+Time Taken Not Noted     Log-In Date/Time: 2014-04-08 00:00:00 6:03 pm
+BRONCHOALVEOLAR LAVAGE      LEFT LOWER [**Year/Month/Day **].
+GRAM STAIN (Final 2014-04-08 00:00:00):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CHAINS.
+      4+   (>10 per 1000X FIELD):   BUDDING YEAST.
+      2+   (1-5 per 1000X FIELD):   MULTIPLE ORGANISMS
+CONSISTENT WITH OROPHARYNGEAL FLORA. SMEAR REVIEWED; RESULTS
+CONFIRMED.
+
+RESPIRATORY CULTURE (Final 2014-04-08 00:00:00):
+10,000-100,000 ORGANISMS/ML. Commensal Respiratory Flora.
+KLEBSIELLA PNEUMONIAE.    10,000-100,000 ORGANISMS/ML..
+Cefazolin interpretative criteria are based on a dosage regimen
+of 2g every 8h. Piperacillin/tazobactam sensitivity testing
+available on request.
+KLEBSIELLA PNEUMONIAE.    10,000-100,000 ORGANISMS/ML.. SECOND
+MORPHOLOGY.
+Cefazolin interpretative criteria are based on a dosage regimen
+of 2g every 8h. Piperacillin/tazobactam sensitivity testing
+available on request.
+YEAST. 10,000-100,000 ORGANISMS/ML Holston: MIC expressed in MCG/ML
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          KLEBSIELLA PNEUMONIAE
+                             |          |
+AMPICILLIN/SULBACTAM--     4 S        8 S
+CEFAZOLIN-------------   <=4 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+ANAEROBIC CULTURE (123 Any St.inary): NGTD.
+FUNGAL CULTURE ([** Location **]inary): NGTD.
+
+Brief Hospital Course:
+Mr. Holston was admitted to the hospital and taken to the
+Operating Room where he underwent Laparoscopic jejunostomy
+feeding tube placement, Esophagogastroduodenoscopy and balloon
+dilation of stricture to 18 mm., Biopsy of gastric conduit and
+Bronchoscopy with bronchoalveolar lavage.  He tolerated the
+procedure well and returned to the PACU in stable condition.
+
+After full recovery from anesthesia, he transferred to the
+surgical floor and was evaluated by the GI service for possible
+stent placement for the stricture and also to help heal a
+possible fistulous tract.  He was taken to the GI suite on
+2014-04-08 00:00:00 for placement of a metal stent.  He tolerated the
+procedure well and returned to the Surgical floor in stable
+condition.
+
+The Nutrition service evaluated his nutritional needs and
+recommended Isosource 1.5 to be cycled at 120 mls/hr over a 12
+hour period.  His feedings were started slowly and advanced and
+tolerated well.  His pre admission Lovenox was also started for
+atrial fibrillation and DVT.  As his beta blocker was held for
+48 hours he had some problems with RAF to 150 after ambulation.
+His beta blocker was resumed and his rate returned to sinus
+rhythm at 86 BPM.
+
+He had no abdominal pain and his j tube site was clean.  He was
+reluctant to eat much due to his recent problems but realizes
+that he can have food if he desires.  Home care was arranged
+with VNA, oxygen therapy and tube feeding capabilities.  He was
+discharged to home on 2014-04-08 00:00:00.
+
+Medications on Admission:
+albuterol 90mcg'' q4h prn, amiodarone 100', benzonatate 100 q8h
+prn cough, lovenox 60/0.6ml'', levothyroxine 100mcg', lorazepam
+0.5 qhs prn, metoprolol tartrate 100', omeprazole 40',
+prednisone 10', tylenol extra-strength 500 q4h prn pain, vitamin
+D3 400 unit'', guaiatussin AC 100 mg-10 mg/5 ml 1 tsp q4-6h prn
+cough, mucinex DM  600mg-30mg ER q12h prn cough (not take with
+benzonatate), senna 8.6'for cough do not take along with
+benzonatate
+
+
+Discharge Medications:
+1. Nutrition
+Jevity 1.5 @ 120 ml's per hour over 12 hours
+6 cans per day
+disp 1 case
+refills for 6 months
+2. prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. enoxaparin 60 mg/0.6 mL Syringe Sig: Sixty (60) mg
+Subcutaneous Q12H (every 12 hours).
+Disp:*30 syringes* Refills:*2*
+4. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Respiratory Therapy
+O2 at 2-4 liters per minute via nasal cannula, continuous
+Pulse dose
+Dx COPD
+6. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig:
+2014-04-08 00:00:00  Inhalation every 4-6 hours as needed for shortness of
+breath or wheezing.
+Disp:*1 HFA* Refills:*1*
+7. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+8. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+9. levofloxacin 250 mg/10 mL Solution Sig: Thirty (30) mls PO
+once a day: thru 2014-04-08 00:00:00.
+Disp:*250 mls* Refills:*0*
+10. amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+11. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for sleep.
+Disp:*30 Tablet(s)* Refills:*0*
+12. home services
+Patient to have PT, OT, Speech therapy, VNA nursing, home
+services, home O2 therapy, Tube feeding, and home suction for
+comfort and medical management.
+13. oxycodone 5 mg/5 mL Solution Sig: 2014-04-08 00:00:00 mL PO every 4-6 hours
+as needed for pain: Do not drink alcohol or drive while taking
+this medication.
+Disp:*300 mL* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Medical Services
+
+Discharge Diagnosis:
+esophageal cancer
+severe malnutrition
+pneumonia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+* You were admitted to the hospital with repeated episodes of
+difficulty swallowing and coughing.  A feeding tube was placed
+to help you maintain your calories.  You can also eat soft foods
+and liquids if you feel like it.
+* You should continue to take deep breaths and cough to keep
+your lungs clear.  The incentive spirometer will also help.
+* When you are in Holston make sure you turn from  side to side
+every 2 hours to decrease skin breakdown.
+* Continue Lovenox twice daily.
+* The VNA will continue to follow you at home.
+* If you develop any fevers > 101, increased pain, shortness of
+breath or any other symptoms that concern you, call Dr. Emmorie Bergenstock at
+test@mail.com.
+
+Followup Instructions:
+Department: UPMCE
+When: TUESDAY 2014-04-08 00:00:00 at 10:00 AM
+With: Emmorie Bergenstock, M.D. test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: TUESDAY 2014-04-08 00:00:00 at 10:30 AM
+With: Aruna Holston, MD 2014-04-08 00:00:00
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Please report 30 minutes prior to your appointment to the
+Radiology Department on the 123 Any St. of the UPMCE Clinical
+Center for a chest xray.
+
+Department: RHEUMATOLOGY
+When: FRIDAY 2014-04-08 00:00:00 at 12:00 PM
+With: Aruna Holston Aruna Holston, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+
+Completed by:2014-04-08 00:00:00

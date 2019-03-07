@@ -1,0 +1,130 @@
+Admission Date:  2011-08-30 00:00:00              Discharge Date:   2011-08-30 00:00:00
+
+Date of Birth: 1943-08-19 00:00:00 00:00:00             Sex:   F
+
+Service: ORTHO123 Any St.S
+
+Allergies:
+Aspirin / Nsaids
+
+Attending:Iselda Boissoneau
+Chief Complaint:
+Bilateral pneumonia
+
+Major Surgical or Invasive Procedure:
+Bilateral Chest tubes placed by VATS
+Intubation and ventilation
+
+
+History of Present Illness:
+59F with past medical history significant for chronic steroid
+use due to lichen planus, degenerative disk disease with spinal
+stenosis on chronic narcotics, hypertension, diabetes, iron
+deficiency anemia presents with severe RUQ pain that was
+pleuritic radiating to right shoulder at UPMCE. Given
+total of 10 mg dilaudid between 3-6pm for pain subsequently
+developed desaturation to 85% on room air->97% NRB, noted to be
+tachypneic, diaphoretic, with subcostal retractions,
+subsequently intubated. CT abdomen showed right lower lobe
+pneumonia, given levo/flagyl at OSH. Transferred to UPMCE for V/Q
+scan. Here she had a lactate of 4.0, WBC 20.9, CTA showed no PE
+and RML, RLL, and LLL PNA with moderate right pleural effusion.
+Has remained HD stable, entered sepsis protocol, LIJ placed in
+ED and given 3L IVF in ED started azithro and ceftriaxone IV.
+
+Past Medical History:
+Hypertension
+Diabetes
+Degenerative Disk Disease with lumbar stenosis on chronic
+narcotics
+Lichen Planus on Prednison for 40 years
+Iron deficiency anemia with negative colonoscopy
+Anxiety Disorder
+
+Social History:
+Lives in 123 Any St. with husband
+Quit smoking two years ago.  Used to smoke 2-3ppd X 30 years.
+Denies alcohol use
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS Tm 102.3 (4PM 2011-08-30 00:00:00) Tc 99.2, P86 (80-101), BP
+139/69(108-154/60-80) RR 18-22, O2 96% 4L NC  LOS I>O=6L 24hr
+I/O 1540/2125
+
+General: diaphoretic but in no distress, appearing older than
+stated age
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no cervical LAD, no thyromegaly
+CV: nlS1, S2, tachycardic, RRR, no MRG
+Lungs: Clear, bibasilar rales, +egophony on RML
+Abdomen: Bowel sounds present, soft, NT, ND, no rebound or
+guarding
+Ext: Warm, no clubbing or cyanosis.  2+ pitting edema in
+bilateral lower extremities.
+
+Brief Hospital Course:
+Patient was enrolled in sepsis protocol and arrived on the
+intensive care unit intubated and sedated.  Continued to be
+febrile despite broad spectrum antibiotic therapy.  CT chest
+revealed moderate right pleural effusion with collapse of both
+RML and RLL and likely loculation.  Thoracentesis was performed
+which revealed parapneumonic effusion.  Initially, chest tube
+was placed, but returned minimal fibrinous drainage due to
+loculation of effusion.  Video assisted thoracoscopy was
+required for lysis of adhesions and placement of two chest tubes
+for drainage.
+
+Of note, throughout unit course, patient was thought to have
+significant pain given elevated blood pressure, tachycardia, and
+discordant breathing with ventilator. Chronic pain service was
+consulted given patient's baseline chronic pain and heavy
+narcotic dependence (#30 percocet/day).  Patient was weaned to
+30mg oxycodone per hour with morphine sulfate for breakthrough
+pain.
+
+Patient did well following drainage of the parapneumonic
+effusion and was extubated and chest tubes removed.  Blood
+cultures drawn from internal jugular central line grew 2011-08-30 00:00:00
+bottles of gram positive cocci, and subsequently, all indwelling
+lines were removed.  Patient remained in the intensive care unit
+for 2 additional days, then was deemed stable for transfer to
+the floor.
+
+Medications on Admission:
+Zanaflex 2011-08-30 00:00:00 HS PRN
+Trilisate 750 UPMCE PRN
+Lexapro 5mg
+Methadone 35 mg UPMCE + 45mg HS
+Percocet up to #30 once a day
+Nexium
+Prednisone 10mg four times a day
+HCTZ
+Atenolol
+Zestril
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Hospice and VNA
+
+Discharge Diagnosis:
+Lumbar spondylitis, Flat Bck syndrome
+
+
+Discharge Condition:
+Stable, neuro intact, wound healing primarily
+
+Discharge Instructions:
+Ambulate with brace, brace off for bed, bath and sitting
+
+Regular Diet, Shower okay
+
+Followup Instructions:
+Dr Montefusco in 10 to 14 days
+
+
+

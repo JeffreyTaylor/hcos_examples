@@ -1,0 +1,182 @@
+Admission Date:  2005-08-07 00:00:00              Discharge Date:   2005-08-07 00:00:00
+
+Date of Birth: 1952-08-07 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:Carolyn Ischy
+Chief Complaint:
+s/p VF arrest
+
+Major Surgical or Invasive Procedure:
+A-line placement
+
+History of Present Illness:
+75 yo female with DM presenting with VF arrest.  Per patient's
+husband, patient was at home with her husband this morning.
+Husband was outside walking the dog, and when he walked in heard
+his wife call out for him then heard her collapse.  He was at
+her side immediately, could not feel a pulse.  He gave her
+glucagon as she has a history of hypoglycemia, with no effect.
+He called 911 within 5-10 minutes of finding her down.  911
+responded within 2 minutes and defibrillated immediately.  She
+received three rounds of epinephrine, intubated and started on
+dopamine gtt.
+.
+Initial vital signs in ED were HR 120, BP 75/p.  EKG showed afib
+with rate 123 Any St. depressions in V1-V5.  Initial labs showed
+no leukocytosis, normal hematocrit and were significant for a pH
+of 7.17, lactate of 8.8, bicarb of 16 and glucose of 178.
+Patient was given a lidocaine bolus and started on a drip.  She
+was also given levophed for further pressure support in addition
+to dopamine drip.  She was seen by cardiology and given an
+amiodarone bolus and drip for rate control.  Post cardiac arrest
+hypothermia protocol was initiated.
+.
+On arrival to the CCU, patient's VS were HR90 in SR with
+frequent PVCs, BP 111/55 on levophed (dopamine was discontinued
+prior to transfer).
+.
+According to husband, patient had no recent complaints of chest
+pain, shortness of breath, orthopnea or paroxysmal nocturnal
+dyspnea.  She has known cardiac history.  She is a type I
+diabetic and has neuropathy and diabetic retinopathy.  She is
+legally blind.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Type I diabetes
+2. CARDIAC HISTORY:
+- None.
+3. OTHER PAST MEDICAL HISTORY:
+-  Type I diabetes
+-  Glaucoma
+-  Diabetic neuropathy
+-  Diabetic retinopathy, legally blind
+
+Social History:
+Lives with husband who was an ophthalmologist.  Active in
+community.  No children.
+- Tobacco history:  Never
+- ETOH:  Occasional
+- Illicit drugs:  Denies
+
+Family History:
+Non contributory
+
+Physical Exam:
+Admission Physical Exam:
+VS: T= 94.6 (bladder) BP= 100/64 HR= 78
+O2 sat= 98% on CMV- Fi02 100%, R14, PIP 23, PEEP 5, TV 500
+GENERAL: Intubated, not responsive.
+HEENT: NCAT.
+NECK: C-spine collar in place
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: On ventilator. CTA anteriorly, no wheezes, ronchi, rales.
+ABDOMEN: Artic sun cooling device in place around abdomen.  +BS,
+soft, ND.
+EXTREMITIES: Cool, good capillary refill.  No lower extremity
+edema or venous stasis changes.
+PULSES:
+Right: Femoral 2+ DP 1+ PT 1+
+Left: Femoral 2+ DP 1+ PT 1+
+
+
+Pertinent Results:
+Admission labs:
+WBC 7.1 Hgb 11.8 Hct 37.0
+Lactate 8.8
+INR 1.1
+pH 7.17
+
+EKG (2005-08-07 00:00:00 @10:26): Atrial fibrillation with rapid ventricular
+response, ST depressions in V1-V4 with widening of the QRS
+(144ms).
+
+EKG (2005-08-07 00:00:00 @10:55): Atrial fibrillation with rapid ventricular
+response, ST depressions in V1-V6 with ST elevations in II, III,
+avF.
+
+Head CT (2005-08-07 00:00:00): 1. No acute intracranial process.
+
+CXR (2005-08-07 00:00:00): No acute intrathoracic process.
+
+Echo (2005-08-07 00:00:00):  Mild to moderate focal LV systolic dysfunction
+consistent with inferior ischemia/infarction. Mild pulmonary
+artery systolic hypertension.
+
+EEG (2005-08-07 00:00:00): Burst suppression with seizure activity
+
+
+Brief Hospital Course:
+75yo female with Type I diabetes s/p ventricular arrest now on
+post-arrest hypothermia protocol.
+.
+#s/p VF arrest:  Underlying cause of VF arrest is unclear at
+this time.  EKG was concerning for potential RCA infarction vs
+vasospasm. Patient treated for acute coronary syndrome given
+questionable EKG with Prahl, [**First Name3 (LF) **] and heparin gtt.  It is
+possible that she had an arrhythmia.  Patient has no history of
+arrhythmia and electrolytes were all normal on arrival.
+Patient's last fingerstick prior to event was 73, so unlikely to
+have been related to hypoglycemia.  Patient was pulseless for at
+least 5-10 minutes prior to defibrillation.  On arrival to the
+ED, she was cooled with artic hypothermia protocol.  She
+continued to have lots of ectopy with tachycardia. She initially
+required amiodarone gtt but returned to sinus rhythm. EEG showed
+burst suppression with seizure activity.  Patient was given a
+loading dose of valproic acid.  Patient was rewarmed after 24
+hours of cooling. Following rewarming patient was in status
+epilepticus.  Neurology was consulted and determined that the
+patient had a very poor likelihood of having a neurologic
+recovery.  Coffy Prahl husband Coffy Prahl decided to make patient Coffy Prahl.
+Pressure support was withdrawn at this time.  Patient was
+continued on fentanyl for pain, propofol for sedation and ativan
+for suppression of seizure activity.  Ventilation support was
+withdrawn and the electrical activity was no longer seen on the
+monitor.  Death was confirmed with absence of corneal reflex,
+pupillary response, withdrawal to painful stimuli, as well as
+absence of breath sounds and cardiac sounds while auscultating
+for 60 seconds.
+
+#Hypotension: Patient has required pressure support since she
+was found down.  She is currently on levophed.  This is likely
+due to cardiogenic shock in the setting of stunning myocardium.
+As above, patient's pressure was supported with levophed.  An
+arterial line was placed for close hemodynamic monitoring.  When
+the decision was made for patient to be comfort measures,
+levophed was discontinued.
+
+#Type I diabetes: Patient is on lantus 14-15U qAM at home.
+Blood sugars were controlled with home lantus dose in addition
+to an insulin drop.
+
+Please see death note for further information.
+
+Medications on Admission:
+Lantus 14U qAM
+
+Discharge Medications:
+None.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary cardiac arrhythmia, respiratory failure. Death
+
+Discharge Condition:
+Death.
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+

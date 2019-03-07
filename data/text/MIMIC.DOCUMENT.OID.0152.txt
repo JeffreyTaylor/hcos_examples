@@ -1,0 +1,404 @@
+Admission Date:  2010-06-03 00:00:00              Discharge Date:   2010-06-03 00:00:00
+
+Date of Birth: 1998-08-12 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfonamides / Hytrin
+
+Attending:Gowri Bombela
+Chief Complaint:
+"can't catch my breath after walking 20 feet or even button my
+pants!"
+
+Major Surgical or Invasive Procedure:
+Paracentesis x2
+
+
+History of Present Illness:
+77yo M w/ COPD with interstitial lung disease, pulm HTN, severe
+cor pulmonale, and chronic renal disease who p/w worsening SOB,
+increasing abdominal girth, and 20 lb wt gain for 2 weeks.
+
+Pt reports feeling exhausted and "terrible." He is becoming
+short of breath after walking ~20-25 feet from the bathroom to
+the living room, having stop and catch his breath, which is
+unusual for him.  At the same time, he was noted to have
+increasing weight--a gain of 20 lbs over 2 wks (198 -> 218 lbs).
+ Accordingly, he then developed "belly pain" and began having
+trouble buttoning his pants over his growing abd.
+Because of these increasing symptoms, he was brought to the ED
+for further evaluation.
+
+Of note, the pt has had a 123 Any St.itous decline in his functional
+status since 2010-06-03 00:00:00 primarily due to symptoms of end-stage cor
+pulmonale from his severe pulm disease.  In 2010-06-03 00:00:00, pt developed
+similar symptoms of SOB, abd distension, and wt gain and was
+hospitalized at UPMCE for a total of 12 days.
+
+Pt otherwise denies fever/chills, chest pain, palpitations,
+nausea/vomiting/diarrhea, headache/dizziness, or incontinence.
+
+Past Medical History:
+-- Hypertension
+-- Hyperlipidemia
+-- BPH; s/p turp x2
+-- Gout
+-- Impaired glucose tolerance
+-- Interstitial lung disease with diminished DLCO (thought 2010-06-03 00:00:00
+to pulmonary fibrosis and emphysema as per Pulmonary). B/L
+pleural thickening and honeycombing on CT. pt needs 2-3L,
+occasionally 4L, of continuous supp O2 at baseline, pt is able
+to ambulate independently w/o walker, cane, or assistance.
+-- End-stage Cor pulmonale
+-- Left ventricular diastolic dysfunction/heart failure
+-- Obesity
+-- Diabetes mellitus 2, diet controlled
+-- hiatal hernia
+-- sleep apnea
+-- R sided renal lesion
+-- CKD - baseline creatinine is 1.6-1.7
+-- Abdominal aortic aneurysm.
+-- Constipation.
+-- Hypothyroidism
+
+Social History:
+Lives at home with his wife of 50 years. Stays on the 123 Any St.
+of the house (can't climb stairs 2010-06-03 00:00:00 SOB). Has 6 children and 15
+grandchildren-all healthy. Was Gowri Bombela Barrera high school teacher for
+7 yrs, elementary school principal for 12 yrs, and
+superintendent for 19 yrs. Retired in 2010-06-03 00:00:00 and became a lobbyist
+for the retirees until 1/2010-06-03 00:00:00. Quit smoking 20 yrs ago (1ppd x
+20 yrs), rare ETOH, no drug use.
+
+Family History:
+Non-Contributory
+
+Physical Exam:
+Tm 98.3, Tc 96.3, HR 88 (50-80s), BP 100/67 (90-110s/40-60s), RR
+20, 02 96% 4L (92-100%)
+Admission wt 99.3kg, I/O: Length of stay in MICU -5.5L
+Constitutional: Pleasant elderly man sitting up in chair waiting
+for transfer.
+HEENT: NC/AT. PERRL. Oral pharynx benign.
+CV: Regular rate, irregular rhythm. Loud P2. No M/R/G.
+PULM: B/l crackles up to mid lung fields. No wheezes.
+ABD: Severely distended, protuberant abd w/ significant fluid
+wave. Soft yet slightly taut. NT. +BS
+EXTREM: Mild clubbing present throughout b/l finger nails. Mild
+R hand tremor at rest. B/l LE 1+ pitting edema.
+SKIN: 2 scabs -- 1.5cm x 0.5cm and 0.5cm x 0.5cm at R inner leg.
+1 broken blister w/ dried blood at L shin. L inner leg dried
+broken blister. Dry, scaly skin w/ hyperpigmentation below
+mid-leg b/l.
+NEURO: Alert and oriented x 3. CN II-XII intact. Motor strength
+full (2010-06-03 00:00:00) throughout b/l UE and LE. Mild R hand tremor at rest.
+Only b/l biceps reflexes elicited, unable to elicit patellar,
+ankle, or triceps reflexes. Downgoing toes b/l. Proprioception
+intact at b/l toes. Narrow-based gait.
+
+Pertinent Results:
+**********LABORATORY RESULTS**********
+2010-06-03 00:00:00 03:10PM BLOOD WBC-7.4 RBC-4.50* Hgb-11.8* Hct-37.6*
+MCV-84 MCH-Plt Ct-292
+2010-06-03 00:00:00 07:10AM BLOOD WBC-5.8 RBC-3.75* Hgb-10.1* Hct-31.3*
+MCV-84 MCH-27.0 MCHC-32.2 RDW-21.1* Plt Ct-274
+
+2010-06-03 00:00:00 03:10PM BLOOD PT-16.5* PTT-26.7 INR(PT)-1.5*
+
+2010-06-03 00:00:00 03:10PM BLOOD Glucose-145* UreaN-44* Creat-2.0* Na-134
+K-4.7 Cl-2010-06-03 00:00:00 07:10AM BLOOD Glucose-100 UreaN-36* Creat-1.8*
+Na-136 K-4.1 Cl-94* HCO3-30
+
+2010-06-03 00:00:00 03:10PM BLOOD proBNP-[**Numeric Identifier 1555**]*
+
+2010-06-03 00:00:00 07:26PM BLOOD Digoxin-0.6*
+2010-06-03 00:00:00 03:13PM BLOOD Lactate-3.1*
+2010-06-03 00:00:00 07:46PM BLOOD Lactate-2.7*
+
+2010-06-03 00:00:00 4:11 pm PERITONEAL FLUID.  GRAM STAIN (Final 2010-06-03 00:00:00):
+1+ (<1 per 1000X FIELD):  POLYMORPHONUCLEAR LEUKOCYTES.  NO
+MICROORGANISMS SEEN.
+FLUID CULTURE (Final 2010-06-03 00:00:00):    NO GROWTH.
+ANAEROBIC CULTURE (Final 2010-06-03 00:00:00):    NO GROWTH.
+
+2010-06-03 00:00:00 3:10 pm BLOOD CULTURE  VENIPUNCTURE #1.
+Blood Culture, Routine (Final 2010-06-03 00:00:00):    NO GROWTH.
+2010-06-03 00:00:00 3:25 pm BLOOD CULTURE  VENIPUNCTURE  #2.
+Blood Culture, Routine (Final 2010-06-03 00:00:00):    NO GROWTH.
+
+2010-06-03 00:00:00 11:38 am URINE      Source: Catheter.
+   URINE CULTURE (Final 2010-06-03 00:00:00):
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..
+    _______________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------    64 I
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------   <=1 S
+
+Echocardiography 2010-06-03 00:00:00 at 2:01:13 PM
+The right atrium is markedly dilated. No atrial septal defect is
+seen by 2D or color Doppler. The estimated right atrial pressure
+is 10-20mmHg. Normal left ventricular systolic function. The
+right ventricular cavity is dilated with severe global free wall
+hypokinesis. There is abnormal septal motion/position consistent
+with right ventricular pressure/volume overload. There is no
+mass/thrombus in the right ventricle. There are three aortic
+valve leaflets. The aortic valve leaflets are moderately
+thickened. Trace aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. There is trivial mitral regurgitation. The left
+ventricular inflow pattern suggests impaired relaxation. The
+tricuspid valve leaflets are mildly thickened. The tricuspid
+valve leaflets fail to fully coapt. Severe [4+] tricuspid
+regurgitation is seen. There is severe pulmonary artery systolic
+hypertension. The pulmonic valve leaflets are thickened.
+Significant pulmonic regurgitation is seen. There is no
+pericardial effusion.
+IMPRESSION: Severe right ventricular dilation and hypokinesis
+with severe tricuspid regurgitation. Right ventricular
+pressure/volume overload. Severe pulmonary hypertension. No
+evidence of intracardiac shunt.
+
+SINGLE AP UPRIGHT RADIOGRAPH OF THE CHEST: There is a right
+lower lobe opacity in comparison with multiple prior studies,
+likely represents epicardial fat exaggerated by lordotic
+technique and patient rotation. With the exception of this,
+there are no focal consolidations. There is no pulmonary edema.
+There is no pleural effusion or pneumothorax. Heart size is
+enlarged, stable. IMPRESSION: No acute cardiopulmonary process.
+
+Study Date of 2010-06-03 00:00:00 9:00 AM
+RIGHT UPPER QUADRANT ULTRASOUND: The liver echotexture is
+normal. There is
+no focal liver lesion or intrahepatic biliary ductal dilatation.
+The main
+portal vein is patent with the appropriate direction of flow,
+though flow is noted to be pulsatile. The heparic veins are also
+dilated.
+
+The gallbladder is normal without evidence of stones. The common
+duct is not dilated, measuring 2 mm. The pancreas is not
+visualized. The spleen is normal in size, measuring 8.5 cm. A
+moderate to large amount of ascites is seen in all quadrants.
+
+IMPRESSION: Probable passive hepatic congestion related to
+right-sided heart failure, particularly in light of relatively
+pulsatile blood flow in the portal vein. Normal liver
+echotexture and spleen size. Large amount of
+ascites.
+
+Brief Hospital Course:
+Mr. Barrera is a 77 year-old male with COPD/interstitial lung
+disease, pulmonary hypertension, severe cor pulmonale, and
+chronic kidney disease who presented with exacerbation of cor
+pulmonale, worsening SOB and 20 lb wt gain.
+
+In the Abriele Barrera, pt experienced hematemesis x 2. O2 sat of 80s on 4L
+NC and then 94-96% on NRB. Pt was placed on Bipap 10/5 and
+received 40 mg IV Lasix x 2. Lactate was 3.1 on admission, BNP
+[**Numeric Identifier 1555**], Trop slightly above baseline of 0.02 to 0.04. Pt was
+initially admitted to Medicine UPMCE for further treatment of his
+R-sided HF.  On arrival to the medical UPMCE, the patient was
+hypoxic w/ O2 sats in low 70s, BP 131/86, dyspneic at RR 44,
+tachy w/ HR of 92, as well as vomited 50cc of bloody contents
+upon arrival to the floor. He transferred to the MICU for
+further monitoring and management.
+
+In the MICU, pt was gently diuresed w/ IV Lasix.  A 4L
+paracentesis was performed.  He became hypotensive (BP into the
+70s-80s systolic) following the paracentesis.  For this, he
+received total of 75g albumin over 2 days. Once patient's vitals
+stabilized, he was transferred to the floor for further
+management.
+
+On the General Medicine floor, the following issues were managed
+as described below.
+## Pulmonary fibrosis:
+Pt has severe interstitial pulmonary disease refractory to
+treatment.  It has led to severe pulmonary hypertension and
+end-stage cor-pulmonale.  He requires Given prior side effects
+of hypotension, tachycardia, and dizziness with a trial of
+sildenafil in the past (2010-06-03 00:00:00), no sildenafil was attempted
+during this hospital stay.  Patient was maintained on prn
+inhalers and continued on oxygen regimen increased from home
+dose of 4L.  Patient was also placed on CPAP overnight.
+Continued outpatient pulmonary follow-up with Dr. Barrera will
+be needed.
+
+## Cor pulmonale:
+Chronic.  Echo shows severe right ventricular dilation and
+hypokenesis w/ severe tricuspid regurgitation, as well as right
+ventricular pressure/volume overload.  This is thought to be
+secondary to severe pulmonary fibrosis/pulmonary hypertension.
+There is no evidence of intracardiac shunt on echo.
+His right ventricular failure has led to hepatic congestion ->
+ascites -> b/l LE edema.  He was treated with aggressive
+diuresis as well as paracentesis x2.  Net total weight/fluid
+loss at the end of the hospital stay was approximately 20 lbs.
+Discharge weight 87kg (day prior had been 92kg, before 2L
+paracentesis).
+Patient was discharged with Lasix 80 mg PO BID with increased
+oxygen requirement at 5L NC satting between 90-94%.  He goal 02
+sat is >93%.
+
+## Hypotension:
+Pt is relatively hypotensive at baseline with SBP typically
+90-110.  However, following his first paracentesis of 4L his BP
+did drop into the 70s-80s.  He remained asymptomatic despite
+this drop in blood pressure.  His blood pressure responded to
+albumin.  Of note, he underwent a 2nd therapeutic paracentesis
+of 2L and his blood pressure tolerated the lower volume tap.
+
+## Chylous ascites: The fluid was chylous in nature w/ high
+TG's.  The cause of ascites secondary to hepatic congestion
+related to RH failure.
+Abdomen remained significantly protuberant with dramatic fluid
+wave on exam despite paracentesis.  Patient received therapeutic
+paracentesis x 2.
+
+## Hematemesis:
+Patient had episode of hematemesis on admission, though no
+subsequent episodes.  He was evaluated by the GI service.  EGD
+was discussed but the patient preferred to hold on the procedure
+since there was no recurrence of following admission.  His HCT
+remained relatively stable in the low to mid-30s.  Given no
+further evidence of bleend and the patient's request to decrease
+the number of pills taken daily, Protonix was discontinued
+during the latter half of the hospitalization.
+
+## LV diastolic HF:  Echo showed 55% LV systolic function.
+
+## Insomnia:
+Patient initially complained of insomnia, which was treated with
+home dose of 10 mg PO Ambien.
+
+## Hypothyroidism:
+Clinically stable with complaints of cold intolerance but no
+other symptoms or signs of hypothyroidism.  Patient was
+maintained on home dose of levothyroxine.
+
+## CODE: DNR/DNI
+
+Medications on Admission:
+Allopurinol 100 mg PO qd
+Lipitor 10 mg PO qd
+BIPAP - 11cm inspiratory and 7 cm expiratory along with 4 L/min
+02
+Cyclosporine 0.05 % 1 Dropperette in the R eye UPMCE
+Fluoxetine 10 mg PO qd
+Lasix 80 mg PO tiw, 60 mg qiw
+Lactulose 10 gram qd or UPMCE PRN constipation
+Levothyroxine 12.5 mcg PO qd
+Metoprolol tartrate 12.5 mg PO bid
+Prilosec 20 mg PO qd PRN gastric upset
+Oxygen 4 Liters/min continuously (recently increased from 3L NC)
+Spironolactone 25 mg PO qod
+Digoxin 125 mcg QOD (started 2010-06-03 00:00:00)
+Verapamil recently discontinued (2010-06-03 00:00:00)
+
+Discharge Medications:
+1. Oximeter
+Please provide a pulse oximeter for use at home.  Goal oxygen
+saturations >95%.
+2. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Fluoxetine 10 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*0*
+4. Levothyroxine 50 mcg Tablet Sig: 0.25 Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for insomnia.
+Disp:*30 Tablet(s)* Refills:*0*
+6. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: 2010-06-03 00:00:00
+Puffs Inhalation Q6H (every 6 hours).
+7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+8. Lasix 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+primary: pulmonary fibrosis, pulmonary hypertension, cor
+pulmonale, hypotension
+
+secondary: hypothyroidism, hematemesis, hepatic congestion, left
+ventricular diastolic heart failure, possible urinary tract
+infection, chylous ascites, insomnia
+
+
+Discharge Condition:
+Stable.  Discharge weight 87kg (day prior had been 92kg, before
+2L paracentesis)
+
+
+Discharge Instructions:
+You were admitted with shortness of breath, worsening edema, and
+weight gain of 20 lbs.  This was due to your severe lung
+disease, which has caused heart failure.
+During your hospital stay, fluid was drained from your abdomen
+twice and you received Lasix to removed additional fluid from
+your body.
+
+-You should take Lasix 80 mg twice daily at home.  This dose may
+need to be increased if you start gaining weight again.
+-You have also been prescribed potassium pills because your
+potassium levels have been low.
+-You should no longer take metoprolol, verapamil, spironolactone
+or digoxin.
+-You have been given a pulse oximeter.  It is important that you
+check your oxygen levels when you are walking or exerting
+yourself to be sure that your oxygen level is above 90%.
+Otherwise, while resting, you should monitor your oxygen
+saturation every 6 hours.
+
+-Please keep your supplemental oxygen on at all times with a
+goal oxygen saturation > 93%.  Please use BiPAP every night.
+
+-Weigh yourself every morning, call your primary care provider
+or pulmonary specialist, Dr. Barrera, if weight > 3 lbs.
+Please adhere to a diet of < 2 grams of sodium per day as well
+as fluid restriction of < 1.5 L per day.
+
+-Please take all of your medications as prescribed.  If you
+develop any shortness of breath, weight increase, ascites, chest
+pain, increased abdominal girth, worsened edema, severely low
+blood pressure, dizziness, blood in your stool, or any other
+symptoms of concern, please call your primary care physician or
+pulmonary specialist or proceed to the nearest emergency
+department.
+
+Followup Instructions:
+Please follow-up with your physicians after discharge.  The
+following appointments have been scheduled.
+
+PROVIDER: [**First Name4 (NamePattern1) 1556**] Barrera, MD on 2010-06-03 00:00:00 at 11:50am
+PHONE: (test@mail.com
+FAX: (test@mail.com
+
+PROVIDER: Abriele Barrera FUNCTION LAB
+PHONE: test@mail.com
+DATE/TIME: 2010-06-03 00:00:00 8:40
+PLACE: UPMCE, UPMCE
+***Please arrive at 8:30am to undergo pulmonary function tests.
+.
+PROVIDER: Gowri Bombela, M.D.
+PHONE: test@mail.com
+DATE/TIME: 2010-06-03 00:00:00 9:00
+PLACE: UPMCE, UPMCE
+
+
+

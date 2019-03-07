@@ -1,0 +1,408 @@
+Admission Date:  2014-12-22 00:00:00              Discharge Date:   2014-12-22 00:00:00
+
+Date of Birth: 1929-12-18 00:00:00 00:00:00             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Duuana Whynott
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+2014-12-22 00:00:00 - Pericardectomy
+2014-12-22 00:00:00 - Cardiac Catheterization
+2014-12-22 00:00:00 - Pericardial Window
+2014-12-22 00:00:00 - Cardiac Catheterization
+
+
+History of Present Illness:
+The patient is a 70 year old woman with history of PAF,
+hypertension who presents with shortness of breath. The patient
+has had some sob and cough since 2014-12-22 00:00:00, when she was admitted
+to St E with chest pain (sharp, substernal, pleuritic,
+non-positional), shortness of breath and fatigue found to be in
+new afib and started on coumadin. At that time an ETT was
+negative and she completed a r/o MI. She was hypoxic at that
+time requiring 4-6L of nasal cannula. On 2014-12-22 00:00:00 she had a CTA
+chest that showed small bilateral pleural effusions and
+bilateral lower lobe atelectasis w/o evidence for PE. On 2014-12-22 00:00:00
+she had a tte ef>70% and trivial pericardial effusion. She
+subsequently saw her cardiologist (at UPMCE) who stopped
+coumadin as has converted to sinus. She saw her PCP Devers 2014-12-22 00:00:00
+cough, sob, abd pain CT abd -> bilat effusions, small pericard
+effusion and started on levoflox. She represented to her PCP
+with worsening shortness of breath and fatigue and was referred
+to the ED. She is very mildly short of breath and her cough is
+dry. She only gets mild chest pain with coughing.
+.
+ED COURSE: Initial vital signs were 100.4 75 88/54 24 96%4L. She
+transiently dipped her blood pressure to 80s which responded
+slowly but well to 2L IVF. She also received 1 dose of empiric
+decadron for adrenal insufficiency. She had a CTA that was
+negative for PE but showed pericardial and pleural effusions as
+well as mediastinal fat stranding. A formal TTE was done as well
+which showed no tamponade physiology. CT surgery was consulted
+with regard to the fat stranding and recommended getting
+cultures of the effusions if possible. She received ceftriaxone
+and azithromycin.
+.
+ROS: weight stable, prior abdominal bloating is gone. no rash.
+no joint pain, no muscle pain. her last colonoscopy was 1year
+ago and was normal. never been on steroids. no tanning of skin.
+chronically constipated but had black stools 3 days ago. had
+been drinking very little for the past week.
+
+
+Past Medical History:
+paroxysmal atrial fibrillation
+dementia
+hypertension
+osteopenia
+hypercholesterolemia
+
+
+Social History:
+Born in 123 Any St., worked as xray tech, married and lives with
+husband. One daughter lives out of state. no cig/drug/etoh.
+never worked on farm nor in factory. no pets.
+
+Family History:
+Mother died of heart disease
+
+Physical Exam:
+T: 98.3 BP: 118/70 P:74 RR: 24 O2 sats: 93%6L, 91% on RA
+pulsus 2014-12-22 00:00:00
+Gen: NAD
+HEENT:NCAT, PERRLA, EOMI
+Neck: No masses, supple. no bruits, JVP ~12-13 cm
+CV: Distant heart sounds, RRR no MRG, nl S1, S2
+Resp: Dullness at base bilaterally, decreased breath sounds
+bilaterally 2014-12-22 00:00:00 way up
+Abd: NABS, soft, NTND, no guarding/rigidity/rebound
+Back: no CVA tenderness
+Rectal: no tenderness, no masses Guaiac: negative brown stool
+Ext: no CCE, 2+/4 symmetric pedal pulses
+Neuro: a,ox3
+CN: II-XII intact
+Sensation: light touch intact to face/hands/feet
+Strength: 2014-12-22 00:00:00 in upper and lower extr
+Skin: no rashes
+Joints: no knee, wrist or hand swelling or tenderness
+
+
+Pertinent Results:
+EKG: sinus @70. nl axis and intervals. no ST-T changes. compared
+to
+CXR:
+1. Moderate bilateral pleural effusions, left greater than
+right.
+2. Mild enlarged cardiac silouhette, with a slight globular
+appearance.
+
+CTA chest:
+1. Moderate sized pericardial effusion with stranding in the
+mediastinal and epicardial fat concerning for mediastinitis.
+Given this finding, clinical correlation for infected
+pericarditis is recommended. Given the early phase of imaging,
+enhancement of the pericardium will not be detectable on this
+study.
+2. Large bilateral pleural effusions, left greater than right,
+with
+associated compressive atelectasis.
+3. No evidence of pulmonary embolism.
+4. Right thyroid nodules and calcifications. Clinically
+correlate.
+
+TTE: 2014-12-22 00:00:00 - Normal left atrium size. No ASD. Right atrial
+pressure is 10-15mmHg. LV wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%) RV
+chamber size and free wall motion are normal. There is abnormal
+septal motion/position. Mildly dilated ascending aorta. Mildly
+dilated aortic arch. The aortic valve leaflets (3) are mildly
+thickened but no aortic stenosis. No AR. The mitral valve
+leaflets are mildly thickened. No MVP. Physiologic MR. Moderate
+[2+] TR. The estimated pulmonary artery systolic pressure is
+normal. Small pericardial effusion. The effusion is echo dense,
+consistent with blood, inflammation or other cellular elements.
+There are no echocardiographic signs of tamponade. Pericardial
+constriction cannot be excluded.
+
+TTE 2014-12-22 00:00:00 - Overall LV systolic function is normal (LVEF>55%).
+RV chamber size and free wall motion are normal. There is
+abnormal septal motion. Small, echodense pericardial effusion.
+The pericardium appears thickened. The echo findings are
+suggestive but not diagnostic of effusive-constrictive process.
+There are no echocardiographic signs of tamponade.
+IMPRESSION: Small echodense pericardial effusion without echo
+signs of tamponade. Probable effusive-constrictive physiology.
+If clinically indicated, a cardiac MR (test@mail.com) or right
+heart catheterization is recommended to investigate for
+constrictive physiology.
+
+TTE 2014-12-22 00:00:00 -  Pre-pericardial window:
+1. No atrial septal defect is seen by 2D or color Doppler.
+2. Overall left ventricular systolic function is normal
+(LVEF>55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. Simple atheroma in the aortic arch and the descending
+thoracic aorta.
+5. Aortic valve leaflets are mildly thickened. No AR
+6. The mitral valve leaflets are mildly thickened. No MR
+7. The tricuspid valve leaflets are mildly thickened.
+8. Small pericardial effusion measuring 1-1.2cm located
+primarily along the inferior and inferior-lateral aspects of the
+heart. The pericardium appears thickened. No echocardiographic
+signs of tamponade.
+9. There are bilateral pleural effusions, right greater than
+left.
+.
+TTE Post-pericardial window:
+1. Biventricular function is preserved.
+2. The size of the pericardial effusion has decreased to 0.5 cm
+along the inferior-lateral position.
+3. Bilateral pleural effusions are no longer evident post-chest
+tube placement.
+
+2014-12-22 00:00:00  WBC-19.8*# RBC-3.77* Hgb-11.6* Hct-33.2* MCV-88
+MCH-30.8 MCHC-35.0 RDW-12.7 Plt Ct-401  Neuts-84* Bands-3
+Lymphs-4* Monos-9 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+2014-12-22 00:00:00  WBC-12.5* RBC-3.98* Hgb-12.0 Hct-36.0 MCV-91 MCH-30.3
+MCHC-33.4 RDW-12.4 Plt Ct-451*
+2014-12-22 00:00:00  WBC-10.5 RBC-3.91* Hgb-12.4 Hct-35.3* MCV-91 MCH-31.8
+MCHC-35.1* RDW-13.0 Plt Ct-419
+2014-12-22 00:00:00  WBC-10.3 RBC-3.69* Hgb-10.9* Hct-32.8* MCV-89 MCH-29.6
+MCHC-33.3 RDW-12.8 Plt Ct-334
+
+2014-12-22 00:00:00  PT-16.5* PTT-28.8 INR(PT)-1.5*
+2014-12-22 00:00:00  PT-15.3* PTT-44.9* INR(PT)-1.3*
+2014-12-22 00:00:00  PT-14.1* PTT-25.7 INR(PT)-1.2*
+
+2014-12-22 00:00:00  Glucose-117* UreaN-33* Creat-1.7* Na-133 K-4.9 Cl-96
+HCO3-22
+Calcium-8.6 Phos-3.3 Mg-2.2
+2014-12-22 00:00:00  Glucose-95 UreaN-23* Creat-1.1 Na-142 K-4.3 Cl-103
+HCO3-27
+2014-12-22 00:00:00  Glucose-107* UreaN-16 Creat-0.9 Na-137 K-3.8 Cl-102
+HCO3-23
+2014-12-22 00:00:00  Glucose-97 UreaN-15 Creat-0.9 Na-139 K-3.7 Cl-103
+HCO3-27
+
+2014-12-22 00:00:00 06:55AM BLOOD ALT-25 AST-17 LD(LDH)-252* AlkPhos-145*
+TotBili-0.2
+
+2014-12-22 00:00:00 10:05AM BLOOD LD(LDH)-229
+
+2014-12-22 00:00:00 04:45PM BLOOD %HbA1c-6.1*
+2014-12-22 00:00:00 08:10AM BLOOD TSH-2.4
+2014-12-22 00:00:00 06:55AM BLOOD RheuFac-17* Duuana Whynott-NEGATIVE
+
+2014-12-22 00:00:00 06:55AM BLOOD [**Location (un) 5033**] VIRUS B ANTIBODIES-PND
+2014-12-22 00:00:00 06:55AM BLOOD ADENOVIRUS ANTIBODY-PND
+2014-12-22 00:00:00 07:40AM BLOOD MYCOPLASMA PNEUMONIAE ANTIBODY IGM-PND
+2014-12-22 00:00:00 03:00PM URINE Color-Yellow Appear-Clear Sp Devers-1.010
+2014-12-22 00:00:00 03:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+2014-12-22 00:00:00 06:12PM PLEURAL TotProt-3.4 Glucose-114 LD(LDH)-1432
+2014-12-22 00:00:00 06:13PM PLEURAL WBC-750* RBC-[**Numeric Identifier 5034**]* Polys-15*
+Lymphs-65* Monos-0 Eos-1* Meso-8* Macro-11*
+
+ 2014-12-22 00:00:00 1:31 pm  PLEURAL FLUID
+   GRAM STAIN (Final 2014-12-22 00:00:00): NO POLYMORPHONUCLEAR LEUKOCYTES
+SEEN.
+      NO MICROORGANISMS SEEN.
+   FLUID CULTURE (123 Any St.inary):    NO GROWTH.
+   ANAEROBIC CULTURE (Pending):
+   ACID FAST SMEAR (Final 2014-12-22 00:00:00):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+   ACID FAST CULTURE (Pending):
+   FUNGAL CULTURE (Pending):
+
+2014-12-22 00:00:00 2:30 pm TISSUE      PERICARDIUM.
+
+   GRAM STAIN (Final 2014-12-22 00:00:00):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   TISSUE (Final 2014-12-22 00:00:00):    NO GROWTH.
+
+   ANAEROBIC CULTURE (123 Any St.inary):    NO GROWTH.
+
+   ACID FAST SMEAR (Final 2014-12-22 00:00:00):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+
+   ACID FAST CULTURE (Pending):
+
+   FUNGAL CULTURE (123 Any St.inary):    NO FUNGUS ISOLATED.
+
+   LEGIONELLA CULTURE (123 Any St.inary):    NO LEGIONELLA ISOLATED.
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      2014-12-22 00:00:00):    NEGATIVE for Pneumocystis jirvovecii
+(carinii).
+
+ CMV IgG ANTIBODY (Final 2014-12-22 00:00:00):
+      POSITIVE FOR CMV IgG ANTIBODY BY EIA.
+      51 AU/ML.
+      Reference Range:  Negative < 4 AU/ml, Positive >= 6 AU/ml.
+
+
+2014-12-22 00:00:00 Cardiac Catheterization
+1. One vessel branch coronary artery disease with diffuse
+atherosclerosis.
+2. Mild left and moderate right ventricular diastolic heart
+failure.
+3. Mild pulmonary arterial hypertension.
+4. Hemodynamic findings consistent with pericardial
+constriction.
+
+
+
+Brief Hospital Course:
+Mrs. Ayerim Devers was admitted to the UPMCE on 2014-12-22 00:00:00 for further
+management of her shortness of breath. An echocardiogram was
+suggestive of a small pericardial effusion and pericardial
+constriction could not be ruled out. A CTA was performed which
+revealed a moderate sized pericardial effusion with stranding in
+the mediastinal and epicardial fat concerning for mediastinitis.
+Given this finding, clinical correlation for infected
+pericarditis was recommended. The cardiology service was
+consulted who recommended a pericardial window. The cardiac
+surgery service was consulted and on 2014-12-22 00:00:00 Mrs. Devers was taken
+to the operating room where she underwent a pericardial window
+with Dr. Duuana Whynott. Please see separate dictated operative note for
+details. Pathology revealed organizing fibrinous pericarditis
+with adjacent adipose tissue has a prominent perivascular
+lymphocytic inflammation that is focally transmural (lymphocytic
+vasculitis). The latter findings raise the possibility of the
+spectrum of collagen vascular diseases. Viral and bacterial
+cultures were negative except for an indeterminate past
+cytomegalovirus. Postoperatively she developed rapid atrial
+fibrillation for which digoxin and beta blocker were given. As
+she remained in rapid atrial fibrillation, amiodarone was
+started. Mrs. Devers continued to have symptoms of constrictive
+pathology and an echocardiogram was performed which confirmed
+continued constriction. She was taken back to the
+catheterization lab where she was found to have single branch
+vessel coronary artery disease and hemodynamics strongly
+suggestive of constrictive physiology. Given these findings it
+was elected to return to the operating room. On 2014-12-22 00:00:00, Mrs. Devers
+was taken to the operating room where she underwent a sternotomy
+with pericardiectomy. Please see operative note for details.
+Postoperatively she was taken to the intensive care unit for
+monitoring. She later awoke neurologically intact and was
+extubated. Diuresis was initiated. On 2014-12-22 00:00:00, Mrs. Devers was
+transferred to the cardiac surgical step down unit for
+monitoring. Amiodarone was continued for atrial fibrillation.
+Dr. Duuana Whynott of hearts
+monitor on discharge. Physical therapy worked with her daily to
+increase her strength and mobility. Subcutaneous heparin was
+started as she was not as ambulatory as expected. Coumadin was
+started for atrial fibrillation. Mrs. Devers continued to make
+steady progress and was discharged to rehabilitation on 2014-12-22 00:00:00.
+She will follow-up with Dr. Duuana Whynott, Dr. Devers and her primary
+care physician as an outpatient. Dr. Devers will manage her
+coumadin dosing once she is discharged from rehabilitation for a
+goal INR of 2.0-2.5 for atrial fibrillation.
+
+
+Medications on Admission:
+Levofloxacin started 2014-12-22 00:00:00
+atenolol 50 mg daily
+aspirin 325 mg daily
+hydrochlorothiazide 25 mg daily
+simvastatin 20 mg daily
+Actonel 35 mg weekly
+colace
+prilosec 20 mg daily
+celebrex 200 mg
+
+
+Discharge Medications:
+1. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 1 weeks: Then starting 2014-12-22 00:00:00 switch to 200mg daily until
+otherwise instructed.
+6. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+8. Coumadin 1 mg Tablet Sig: Dose for goal INR of 2.0-2.5 for AF
+Tablets PO once a day: Goal INR is 2.0-2.5 for AF. Tablet(s)
+9. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 7
+weeks.
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7
+days.
+12. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) 5000
+Units Injection TID (3 times a day): Continue until INR
+therapeutic.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. of 123 Any St.
+
+Discharge Diagnosis:
+Primary:
+Pericardial effusion s/p pericardial window and pericardiectomy
+Secondary:
+Pleural effusion
+Atrial fibrillation
+Hypertension
+Hypoxia
+Acute renal failure
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+1) Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or 5 pounds in one week.
+Please contact surgeon with any wound issues. (test@mail.com
+2) Shower daily.  No baths, lotions, creams or powders to
+incisions until they have fully healed.
+3) No lifting more than 10 pounds for 10 weeks.
+4) No driving for 1 month or until follow up with surgeon.
+5) Take amiodarone 400mg daily for 1 week and then (2014-12-22 00:00:00)
+decrease to 200mg daily therafter.
+6) Duuana Whynott of hearts monitor on discharge with daily transmissions
+to Dr.Ayerim Devers office.
+7) Coumadin follow-up upon discharge from rehab as per
+preasdmission with Dr. Devers (test@mail.com. Goal INR is 2.0
+for AF.
+8) Continue sub Q heparin until INR therapeutic or patient is
+ambulating more.
+9) Call with any questions or concerns
+
+Followup Instructions:
+Please schedule an appointment with your primary care doctor Dr.
+Devers at test@mail.com in the next 1 to 2 weeks.
+You should also schedule an appointment with cardiologist, Dr.
+Devers (test@mail.com in the next 2 weeks.
+Follow up with Dr. Duuana Whynott (test@mail.com in 4 weeks.
+
+
+                             Ayerim Devers Ayerim Devers MD 29919
+
+Completed by:2014-12-22 00:00:00

@@ -1,0 +1,315 @@
+Admission Date:  2008-10-18 00:00:00              Discharge Date:   2008-10-18 00:00:00
+
+Date of Birth: 1934-03-21 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Ezmerelda Bumiller
+Chief Complaint:
+AMS
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+87 yo F with T2DM c/b peripheral neuropathy, CAD s/p stent,
+chronic anemia, HTN, h/o PE on warfarin and other medical issues
+presents from home with AMS.
+
+Touched base with patient's PCP who states that patient has not
+been doing well with slow decline, and hospice option has been
+entertained recently.  She is supposed to have hospice nurse
+visiting for initial evaluation on Monday.  Patient has been
+noted to be depressed but mentating well at baseline.
+
+Per patient's husband, patient has not been eating well or
+drinking well for the last few weeks.  Her mental status
+declined significantly over the last week.  She has complained
+about suprapubic pain for the last few days.  She had VNA on
+Monday
+
+Per EMS, patient is arousable with verbal stimuli, FSBS 311.
+Patient appeared dry, cool to touch.
+
+In the ED, inital VS were 97.8 72 148/104 22.  Per report, + red
+blood on guaiac.  Rectal temp was thought to be 96.  Patient was
+thought to be alert and oriented x 0.  Labs show WBC 15.4,
+neutrophils 90%, H/H 12.5/39.6 (baseline 8-9/24-30), Na 148, K
+7.5, Cl 108, bicarb 18, BUN 166, Crt 11.7 (baseline 0.8-0.9),
+glucose 390, Trop 0.08, CK 145, MB 6, AG 22, normal LFTs,
+albumin 2.8, Osm 388, PT 150, PTT 150, INR 13.8.  VBG
+7.33/32/83/18, lactate 3.6.  UA is grossly positive with large
+leuk, large blood, protein 300, glucose 100, > 182 RBC, > 182
+WBC, few bacteria, and no epi.  Blood culture and urine culture
+were sent.  CXR showed no acute cardiopulmonary process.  No CT
+head was done.  No renal ultrasound was done.  EKG showed SR 86
+1dAVB, LAD, IVCD, peaked T's with mild STE anteriorly, QRS 102.
+Per ED, patient is DNR/DNI.  Nephrology was consulted for ? need
+of urgent dialysis, and it was recommended to treat
+conservatively with IVF, repeat electrolyes, head CT and abd
+imaging.  Patient was given 3L of NS, calcium gluconate 2g IV
+x1, CTX 2 g IV x1, vancomycin 1g IV x1, pantoprazole 40 mg IVx1,
+insulin regular sc 10 unit x 1 and 7 uni/hr insulin gtt, sodium
+bicarb 50 mEq IV x 1.  Upon transfer, VS 108 129/94 24 96%
+
+Patient arrives to the MICU with VS HR 120, 152/100, RR 20, 15L
+on NR.  Unable to get O2Sat.  Patient then dropped SBP to 69/48.
+
+
+Past Medical History:
+Past Medical History:
+Diabetes mellitus type 2
+Hypertension
+Peripheral vascular disease
+Open wounds on the legs that are not healing
+Peripheral neuropathy
+Hyperthyroidism
+History of pulmonary embolism, on warfarin
+Urinary incontinence
+Coronary artery disease s/p stent
+Chronic anemia (baseline 30)
+Chronic kidney disease (baseline 1.5)
+Venous ulcers
+LLE ulcer infection 2008-10-18 00:00:00
+
+PAST SURGICAL HISTORY:
+Hysterectomy 2008-10-18 00:00:00
+Partial thyroidectomy
+Cholecystectomy 2008-10-18 00:00:00
+Cataract surgery bilaterally
+Removal fibroadenoma of right breast
+Cardiac stent placement
+Skin grafts to LE (didn't take)
+
+
+Social History:
+Per d/c summary 2008-10-18 00:00:00
+- in the process of getting Hospice involved
+- married, lives with husband Judee Naro
+- has 4 sons
+- retired in 2008-10-18 00:00:00 from UPMCE as a OBGYN nurse
+- quit smoking 20 yrs ago, about 20-30 years of smoking and no
+more than 20-30 ppd
+- rare EtOH
+- denies illicit drugs
+
+
+Family History:
+- mother died in her 80s 2008-10-18 00:00:00 complication of Alzheimer's diease
+- father had TB
+
+
+Physical Exam:
+ADMISSION EXAM:
+Vitals: HR 120, 152/100-> 69/48, RR 20, 15L on NR.  Unable to
+get O2Sat
+General: Alert, not oriented, does not answer questions but
+grimace to pain
+HEENT: Sclera anicteric, MM dry, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: tachycardic, irregular, unable to ap123 Any St.te m/r/g
+Lungs: anterior left lower lung field has rhonchi, no
+wheeze/crackles; otherwise clear to auscultation bilaterally
+Abdomen: soft, tender to the left abd and suprapubic,
+nondistended, BS+
+GU: Foley draining pink thick urine
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: Limited neurological exam given mental status, tracks to
+voice, moves all upper extremities
+
+DISCHARGE EXAM: Death confirmed
+
+Pertinent Results:
+ADMISSION LABS:
+
+2008-10-18 00:00:00 11:20AM BLOOD WBC-15.4*# RBC-4.24# Hgb-12.5# Hct-39.6#
+MCV-94 MCH-29.5 MCHC-31.6 RDW-13.9 Plt Ct-239
+2008-10-18 00:00:00 11:20AM BLOOD Neuts-90.1* Lymphs-5.8* Monos-3.9 Eos-0.1
+Baso-0.1
+2008-10-18 00:00:00 11:20AM BLOOD PT-150* PTT-150* INR(PT)-13.8*
+2008-10-18 00:00:00 11:20AM BLOOD Glucose-390* UreaN-166* Creat-11.7*#
+Na-148* K-7.5* Cl-108 HCO3-18* AnGap-30*
+2008-10-18 00:00:00 11:20AM BLOOD ALT-14 AST-22 CK(CPK)-145 AlkPhos-59
+TotBili-0.4
+2008-10-18 00:00:00 11:20AM BLOOD CK-MB-6
+2008-10-18 00:00:00 11:20AM BLOOD cTropnT-0.08*
+2008-10-18 00:00:00 03:28PM BLOOD cTropnT-0.06*
+2008-10-18 00:00:00 08:15PM BLOOD cTropnT-0.11*
+2008-10-18 00:00:00 01:45AM BLOOD cTropnT-0.13*
+2008-10-18 00:00:00 11:20AM BLOOD Albumin-2.8* Calcium-9.0 Phos-7.9*#
+Mg-2.8*
+2008-10-18 00:00:00 11:20AM BLOOD Osmolal-388*
+2008-10-18 00:00:00 11:28AM BLOOD Type-Naro pO2-83* pCO2-32* pH-7.33*
+calTCO2-18* Base XS--7 Comment-GREEN TOP
+2008-10-18 00:00:00 11:28AM BLOOD Glucose-349* Lactate-3.6* Na-147* K-7.2*
+Cl-109*
+2008-10-18 00:00:00 11:28AM BLOOD Hgb-12.8 calcHCT-38
+2008-10-18 00:00:00 04:15PM BLOOD freeCa-1.00*
+
+MICRO:
+
+2008-10-18 00:00:00B BLOOD CULTURE Blood Culture, Routine-PENDING
+EMERGENCY UPMCE
+2008-10-18 00:00:00B URINE URINE CULTURE-FINAL {YEAST} EMERGENCY
+UPMCE
+2008-10-18 00:00:00B BLOOD CULTURE Blood Culture, Routine-PENDING
+EMERGENCY UPMCE
+
+IMAGING:
+
+2008-10-18 00:00:00 CXR:
+AP supine portable view of the chest was obtained.  The lungs
+are clear
+without focal consolidation.  No pleural effusion or
+pneumothorax is seen.  The cardiac and mediastinal silhouettes
+are unremarkable.  Linear lucency projecting over the right
+humeral head extending to project over the right glenoid is felt
+to be artifactual. IMPRESSION: No acute cardiopulmonary process.
+
+
+2008-10-18 00:00:00 Renal U/s
+
+IMPRESSION:
+
+1.  Echogenic material layering in the bladder and right-sided
+bladder
+diverticulum, concerning for purulent material in the setting of
+clinical
+cystitis.  Circumferential wall thickening of the bladder is
+consistent with
+cystitis.
+
+2.  Mild-to-moderate left hydronephrosis with left hydroureter
+to the level of
+the bladder.  Cause indeterminate on this study, but this raises
+the
+possibility of obstruction at the left ureterovesicular
+junction.
+Non-obstructing nephrolithiasis was seen in the left kidney.
+
+3.  Foley catheter in the bladder but bladder is still partially
+distended.
+Clinical correlation for catheter patency is recommended.
+
+
+Brief Hospital Course:
+87 yo F with T2DM c/b peripheral neuropathy, CAD s/p stent,
+chronic anemia, HTN, h/o PE on warfarin and other medical issues
+presents from home with AMS and marked electolyte abnormalities.
+Found to have septic shock with pyelonephritis as most likely
+source.
+
+ACTIVE ISSUES:
+
+1. Goals of Care: On 2008-10-18 00:00:00, patient's goals of care were
+transitioned to CMO. She received morphine 1-4 mg IV q2H for
+comfort. She died on the morning of 2008-10-18 00:00:00.
+
+2. Hypotension/Septic shock.  Pyelonephritis was the most likely
+etiology given + UA, tender abdomen, and renal ultrasound
+showing L pyelonephritis. Other possible sources included skin
+given LLE ulcers and sacral ulcer. Given high mortality
+associated with patient's presentation and family's desire to
+maximize comfort, patient's goals of care were transitioned to
+CMO. Pressors and antibiotics were discontinued and she died on
+the morning of 2008-10-18 00:00:00.
+
+3. UTI/Pyelonephritis.  Patient presented with a grossly
+positive UA with evidence of pyelo on renal u/s. She was
+initially treated with Vancomycin and Cefepime, and Cefepime was
+switched to Zosyn for pseudomonal coverage. Antibiotics were
+discontinued when patient was made CMO.
+
+4. AMS.  Likely multifactorial in the setting of significant
+metabolic derrangements and septic shock. Her baseline was A&Ox3
+per the PCP although functionally had been declining over the
+preceeding weeks to months with signs of failure to thrive.
+Upon arrival to the UPMCE, patient was A&Ox0.
+
+5. Supratherapeutic INR. Patient's INR was 13 upon admission.
+Warfarin was held. She received FFP and Vit K and INR normalized
+to 1.6.
+
+6. Naro. Patient presented with new Naro, which was most likely
+secondary to intravascular de123 Any St.n in the setting of septic
+shock and which was complicated by decreased bicarb,
+hyperkalemia, hypernatremia and increased urea. Patient was
+treated with fluid resuscitation and free water replacement and
+medications were renally dosed. Dialysis was considered but
+determined not to be in line with goals of care, and patient was
+not a candidate for HD.
+
+7. Hyperglycemia/T2DM.  Patient presented with hyperglycemia and
+an anion gap of 22. She was started on an insulin gtt and
+transitioned to humalog. Medications were discontinued when
+patient became CMO.
+
+8. Hyperkalemia.  Secondary to Naro. Resolved s/p insulin gtt.
+
+9. Hypernatremia. Hyperglycemia was corrected and patient's free
+water deficit was calculated and repleted. Sodium remained
+elevated. When goals of care transitioned to CMO, further
+chemistries were not checked.
+
+10. Metabolic acidosis. Anion gap. Most likely due to underlying
+renal failure.
+
+11. Atrial fibrillation with RVR.  New onset. Most likely due to
+underlying infection. Anticoagulation was held given
+supratherapeutic INR upon admission.
+
+12. Elevated troponin. Most likely in the setting of AF with RVR
+and ARF. Patient was monitored on telemetry
+
+13. History of PE. Warfarin was held for supratherapeutic INR.
+
+
+14. Sacral decubitus ulcer. Patient received wound care.
+
+15. Leg ulcers: Followed by Dr. Naro of vascular. Patient
+received wound care
+
+16. Ventricular ectopy: Intermittent runs of NSVT, likely due to
+electrolyte derangements. Patient received calcium gluconate
+sliding scale and electrolytes were monitored frequently.
+
+Patient died on the morning of 2008-10-18 00:00:00.
+
+Medications on Admission:
+- atenolol 50 mg daily
+- Cosopt one gtt each eye at bedtime
+- furosemide 40 mg daily
+- mirtazapie 15 mg qHS
+- warfarin 10 mg on Wednesday/Friday and 15 mg 5 other days
+- Xalatan 0.005% 1 drop each eye at bedtime
+- ASA 81 mg daily
+- ferrous sulfate 325 mg daily
+- MVI senior
+- NPH 9 unit qAM and 7 unit qHS
+- omeprazole
+
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+N/A
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+                             Ezmerelda Bumiller Naro Judee Naro MD 86961
+

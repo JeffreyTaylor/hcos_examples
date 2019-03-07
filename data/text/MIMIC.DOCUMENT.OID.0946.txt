@@ -1,0 +1,324 @@
+Admission Date:  2010-08-11 00:00:00              Discharge Date:   2010-08-11 00:00:00
+
+Date of Birth: 1999-08-11 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Antashia Goedicke
+Chief Complaint:
+Reccurent Rectal Cancer
+
+Major Surgical or Invasive Procedure:
+Abdominoperineal resection, cystectomy, Radical prostatectomy,
+ileal conduit, bilateral gracilis flaps.
+
+
+History of Present Illness:
+Mr. Mcmunn is a 74-year-old male with a history of T1
+rectal cancer in 2010-08-11 00:00:00 s/p transanal resection without adjuvant
+chemoradiation at that time. He was followed with imaging and
+colonnoscopy and was diagnosed with recurrent rectal cancer in
+2010-08-11 00:00:00 upon work-up for change in bowel habits x
+6-7 months with an increase in gas and rectal pain.  On
+ultrasound 2010-08-11 00:00:00, pt noted to have a 3 x 2.5 cm infiltrative
+mass in the left side of the rectal mucosa, extending from
+approximately 8 cm down towards the anal verge and
+breaching through the muscularis mucosa into the perirectal soft
+tissues. On PET there was FDG-avid asymmetric rectal thickening
+and perirectal soft tissue nodules. Cytology 2010-08-11 00:00:00 positive
+for
+malignant cells. Mr. Mcmunn Mcmunn concurrent
+chemoradiation
+2010-08-11 00:00:00 and now presents to the surgical team for resection.
+
+
+Past Medical History:
+Hypertension.
+High cholesterol controlled on medication
+Asthma, no longer needs medication frequently.
+GERD. not currently a problem
+TIA 2010-08-11 00:00:00. On plavix except around biopsies
+Hernia repair.
+Nasal polypectomy.
+Hematuria. s/p urologic work-up about 1 month ago.
+Colonoscopies with polyps.
+Likely familial hypercholesterolemia syndrome
+
+
+Social History:
+Started smoking at age 9, quit in 2010-08-11 00:00:00: 135-pack-year history.
+Hx
+of social alcohol use. Two sons in their 20s. Brother is a
+famous
+pediatrician. Lebanese origin.  Born in the USA.
+
+
+Family History:
+Familial hypercholesterolemia syndrome
+
+Physical Exam:
+At Discharge:
+Vitals: T99.2  HR 88 Bp 120/52 RR18 97% on ra.
+GEN: NAD, A/Ox3
+CV: RRR, no m/r/g
+RESP: CTAB, no w/r/r
+ABD: +BS, soft, ND, appropriately TTP
+Incision: C/D/i incision at abdominal surgical site as well as
+b/l medial thighs.Jp drains in place at b/l thighs.
+Extrem: B/L pedal edema
+
+Pertinent Results:
+INTRA-OPERATIVE ULTRASOUND- no evidence of liver metastasis,
+mulitple cysts.
+.
+Pathology Report---2010-08-11 00:00:00
+DIAGNOSIS:
+I.  Bladder, prostate gland, and rectosigmoid colon (A-Z):
+1. Residual adenocarcinoma in three of eight regional lymph
+nodes (2010-08-11 00:00:00);  associated extensive fibrosis and calcification.
+2.  Marked fibrotic change with admixed single atypical gland,
+likely carcinoma (peritoneal nodule)
+3.  Chronic active colitis with ulceration, extensive submucosal
+fibrosis; no evidence of residual carcinoma; changes consistent
+with radiation effect.
+4.  Colonic proximal margin unremarkable.
+5.  Squamous mucosa of anal resection with fibrosis and chronic
+inflammation.
+6.  Bladder, prostate and seminal vesicles, no malignancy
+identified.
+II.  Right pelvic sidewall implant (AA-AB):
+Fibroadipose tissue with foreign body giant cell reaction
+(likely suture); no carcinoma seen.
+III.  Right pelvic brim implant (AC-AF):
+Fibrous and adipose tissue with foreign body giant cell reaction
+(likely suture); no carcinoma seen.
+Clinical:   Rectal cancer.
+.
+2010-08-11 00:00:00 04:35AM BLOOD WBC-9.3 RBC-3.36* Hgb-10.3* Hct-30.2*
+MCV-90 MCH-30.7 MCHC-34.1 RDW-14.1 Plt Ct-189
+2010-08-11 00:00:00 05:37AM BLOOD WBC-11.3* RBC-2.94*# Hgb-9.4* Hct-26.4*
+MCV-90 MCH-32.1* MCHC-35.7* RDW-13.7 Plt Ct-187
+2010-08-11 00:00:00 08:02PM BLOOD WBC-13.3*# RBC-3.93* Hgb-12.1* Hct-35.6*
+MCV-91 MCH-30.8 MCHC-34.0 RDW-13.4 Plt Ct-237
+2010-08-11 00:00:00 04:19AM BLOOD PT-13.9* PTT-30.0 INR(PT)-1.2*
+2010-08-11 00:00:00 05:41AM BLOOD PT-14.4* PTT-31.6 INR(PT)-1.3*
+2010-08-11 00:00:00 05:09AM BLOOD Glucose-118* UreaN-20 Creat-0.9 Na-140
+K-3.2* Cl-106 HCO3-27 AnGap-10
+2010-08-11 00:00:00 04:35AM BLOOD Glucose-73 UreaN-26* Creat-1.1 Na-142
+K-3.8 Cl-108 HCO3-23 AnGap-15
+2010-08-11 00:00:00 04:19AM BLOOD Glucose-83 UreaN-21* Creat-1.3* Na-138
+K-4.0 Cl-107 HCO3-24 AnGap-11
+2010-08-11 00:00:00 04:19AM BLOOD ALT-7 AST-24 LD(LDH)-180 AlkPhos-44
+TotBili-0.6
+2010-08-11 00:00:00 05:41AM BLOOD ALT-6 AST-23 LD(LDH)-169 AlkPhos-44
+TotBili-0.9
+2010-08-11 00:00:00 05:09AM BLOOD Calcium-7.6* Phos-2.1* Mg-1.7
+2010-08-11 00:00:00 04:35AM BLOOD Calcium-7.9* Phos-3.3 Mg-2.0
+2010-08-11 00:00:00 05:41AM BLOOD Albumin-2.6* Calcium-7.9* Phos-2.4*
+Mg-2.5
+2010-08-11 00:00:00 05:59PM BLOOD freeCa-1.10*
+2010-08-11 00:00:00 06:41AM BLOOD WBC-9.8 RBC-3.41* Hgb-10.5* Hct-30.7*
+MCV-90 MCH-30.7 MCHC-34.0 RDW-14.1 Plt Ct-301#
+2010-08-11 00:00:00 05:30AM BLOOD Glucose-114* UreaN-23* Creat-1.0 Na-142
+K-3.7 Cl-111* HCO3-25 AnGap-10
+2010-08-11 00:00:00 05:30AM BLOOD Calcium-7.5* Phos-2.8 Mg-2.0
+
+Brief Hospital Course:
+2010-08-11 00:00:00 Pt 2010-08-11 00:00:00 2010-08-11 00:00:00, cystectomy, RP, ileal conduit, bilateral
+gracilis flaps.  Post operatively pt remained electivley
+intubated and was transferred to the ICU where he remianed NPO,
+IVF with PRN boluses.Neosynephrine was titrated to keep MAP >65.
+ Epidural was placed in conjunction with PCA to aid in pain
+contol. NGT to LWS.Tight glycemic control, TID HCT.   Famotidine
+was started for Gi porphylaxis.
+.
+2010-08-11 00:00:00 Neosynephrine weaned off.  Pt hemodynamically stable.  PT
+extubated . Toradol added to epidural for better pain relief.
+NGT dc'd. Pt allowed ice chips.  Pt transfused 1 Unit PRBCfor
+HCt of 23.4.
+.
+2010-08-11 00:00:00: Pt required increased FIO2 after fluid resuscitation.
+Lasix 20 mg started with good diueresis.  PT consult placed.  Pt
+transitioned from PCa to IV dilaudid.  Epidural remianed in
+placed.  Neosynephrine briefly restarted for SBP in the 80s
+after pain medication administration and then dcd again once
+pressures were >110/50s.
+.
+2010-08-11 00:00:00: Pt had improved oxygenation with diueresis.  Transferred
+to floor. Cxr showed mild pulmonary congestion.
+.
+2010-08-11 00:00:00- 2010-08-11 00:00:00: Diet advanced to clear liquids for breakfast,
+tolerated well. Medications converted to all PO's. Restarted on
+most home medications. Epidural removed per Acute pain service.
+Pain well controlled with oral medication. Flatus and stool
+production noted in ostomy. Diet advanced to regular food for
+dinner. Tolerated well. Continued to work with Physical Therapy.
+Steady on feet, but deconditioned. Continues to benefit from
+UPMCE rehab. Awaiting bed availability. Plan to discharge
+to Rehab on 2010-08-11 00:00:00.
+.
+2010-08-11 00:00:00: Developed Nausea, vomiting, and abdominal distention.
+Ostomy continues to function, but decreased amount. NGT inserted
+with over 1 liter of thick, bilious output. IV fluid restarted,
+and made NPO. Medications converted back to IV. KUB revealed
+ileus. Urine output stable.
+.
+2010-08-11 00:00:00:  NGT removed. Started on clears. Tolerated well. Ostomy
+output increased. Abdominal distention decreased. Continued to
+ambulate with nursing & RW. Minimal assist. Otherwise stable.
+Repeat abd xray revealed resolving ileus. Diet advanced to
+regular food in evening. Tolerated well.
+.
+2010-08-11 00:00:00: Tolerating regular food. Denies N/V. Adequate ostomy &
+urine output. Ambulating with minimal assist using walker.
+Re-screened per PT, cleared for discharge home with services.
+.
+2010-08-11 00:00:00: Vitals stable. Abdominal incision, ostomy, ileal conduit,
+and gracilis flaps intact. Pain well controlled with oral
+medication. Hemodynamic status stable.
+2010-08-11 00:00:00 Ureteral stents removed.  Pt discharged to home with Elsey Mcmunn,
+PT/OT, & home health aide. Also with planned follow-up with Dr.
+Mcmunn in a few weeks, and with Dr. Antashia Goedicke, Plastic Service in 10
+days for assessment of groind JP drain output, and readiness for
+removal. In addition, patient will see Dr. Antashia Goedicke, Urology in 2010-08-11 00:00:00
+weeks.
+
+
+Medications on Admission:
+Clopidogrel 75', Diltiazem SR 180', Fluticasone 50 ii",
+Ipratropium-Albuterol ii", Lisinopril 40', Montelukast 10',
+Rosuvastatin 40', Triamterene-Hydrochlorothiazid 37.5/25 qMWF,
+Aspirin 81', Famotidine 20"
+
+Discharge Medications:
+1. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation Q4H (every 4 hours) as needed for SOB, wheeze.
+2. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation UPMCE (2 times a day).
+3. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: 2010-08-11 00:00:00
+Puffs Inhalation Q6H (every 6 hours) as needed for difficulty
+breathing.
+4. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+5. Triamterene-Hydrochlorothiazid 37.5-25 mg Capsule Sig: One
+(1) Cap PO DAILY (Daily).
+6. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours).
+7. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal UPMCE (2 times a day) as needed for nasal congestion.
+
+8. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) for 1 weeks: oral thrush-discontinue once
+symptoms resolve.
+Disp:*qs * Refills:*0*
+9. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q4H (every 4 hours) as needed for SOB/wheeze.
+10. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H
+(Every 8 Hours) as needed for pain: Do not exceed 4gm/24hr.
+11. Crestor 40 mg Tablet Sig: One (1) Tablet PO once a day.
+12. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO once a day.
+13. Singulair 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+14. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day.
+15. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO once a day.
+16. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every
+4 hours) as needed for breakthrough pain for 2 weeks: Take with
+food.
+Disp:*25 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+CareGroup UPMCE
+
+Discharge Diagnosis:
+Primary:
+Recurrent rectal cancer
+Post-op hypotension-managed with IV fluid boluses &
+neosynephrine in ICU
+Post-op hypervolemia-diuresis with IV Lasix
+Post-op pain-managed with Fentanyl & Bupivicaine epidural
+.
+Secondary:
+HTN, Familial HCHL, GERD, TIA, Colonic polylps, Asthma
+
+
+Discharge Condition:
+Vitals stable, tolerating cardiac diet, pain well controlled
+with PO pain meds.
+
+
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the
+following:
+* You experience new chest pain, pressure, squeezing or
+tightness.
+* New or worsening cough or wheezing.
+* If you are vomiting and cannot keep in fluids or your
+medications.
+* You are getting dehydrated due to continued vomiting,
+diarrhea or other reasons. Signs of dehydration include dry
+mouth, rapid heartbeat or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a
+bowel movement.
+* Your pain is not improving within 8-12 hours or not gone
+within 24 hours. Call or return immediately if your pain is
+getting worse or is changing location or moving to your chest or
+
+back.
+*Avoid lifting objects > 5lbs until your follow-up appointment
+with the surgeon.
+*Avoid driving or operating heavy machinery while taking pain
+medications.
+* You have shaking chills, or a fever greater than 101.5 (F)
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that
+concern you.
+* Please resume all regular home medications and take any new
+meds
+as ordered.
+* Continue to ambulate several times per day.
+.
+JP Drain Care:
+-Please look at the site every day for signs of infection
+(increased redness, swelling, odor, yellow or bloody discharge,
+fever).
+-Maintain the bulb deflated to provide adequate suction.
+-Note color, consistency, and amount of fluid in drain. Call
+doctor if amount increases significantly or changes in
+character.
+-Be sure to empty the drain frequently.
+-You may shower, wash area gently with warm, soapy water.
+-Maintain the site clean, dry, and intact.
+-Avoid swimming, baths, hot tubs-do not submerge yourself in
+water.
+-Keep drain attached safely to body to prevent pulling
+.
+Monitoring Ostomy output/Prevention of Dehydration:
+-Keep well hydrated.
+-Replace fluid loss from ostomy daily.
+-Avoid only drinking plain water. Include Gatorade and/or other
+vitamin drinks to replace fluid.
+-Try to maintain ostomy output between 1000mL to 1500mL per day.
+
+-If Ostomy output >1 liter, take 4mg of Imodium, repeat 2mg with
+each episode of loose stool. Do not exceed 16mg/24 hours.
+
+
+Followup Instructions:
+1. Please follow up with Dr. Mcmunn office in 2010-08-11 00:00:00 weeks test@mail.com.
+2. Follow-up with your PCP, [**First Name8 (NamePattern2) 4494**] Mcmunn test@mail.com in 1
+week and as needed.
+3. Follow-up with Dr. Antashia Goedicke (test@mail.com in 10 days
+for management of JP drains.
+4. Follow-up with Urology, Dr.Elsey test@mail.com in 2010-08-11 00:00:00 weeks.
+
+NEITHER DICTATED NOR READ BY ME
+
+
+Completed by:2010-08-11 00:00:00

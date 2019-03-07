@@ -1,0 +1,132 @@
+Admission Date:  2012-09-28 00:00:00              Discharge Date:   2012-09-28 00:00:00
+
+
+Service: SURGERY
+
+Allergies:
+Penicillins
+
+Attending:Jhoniel Nytko
+Chief Complaint:
+RUQ pain.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+92M with multiple medical co-morbitities including Afib, BPH s/p
+TURP x 3, CRI who presented to the ED this morning after being
+found short of breath in his nursing home with RUQ pain.  On
+arrival at UPMCE ED, patient was found have RR in the 50's and
+SBP in the 60s.  Patient was emergently intubated and started on
+neo gtt and levophed gtt.  ED ordered a CT scan which showed
+likely gangrenous cholecystitis with intrabdominal free air.
+Surgery was emergently consulted for further management.
+
+Past Medical History:
+Dementia, Hypertension, Chronic kidney disease, BPH with
+overflow incontinence, Urinary retention, Prostate cancer,
+Inguinal hernia, Iron deficiency anemia, UGI bleed, Glaucoma,
+Stasis dermatitis and superficial ulcerations, Lymphedema, AFib
+
+PSH: TURP 2012-09-28 00:00:00
+
+Social History:
+Lives at [**First Name4 (NamePattern1) 1173**] Flynn. They provide meals. Denies smoking,
+social drinking.  Used to be a designer of clothes, had his own
+company.  Per reports from [**First Name4 (NamePattern1) 2265**] Flynn, unable to walk on his
+own and requires assistance for the majority of his other ADL's
+(but is able to use the bedpan and feed himself).
+
+Family History:
+Patient unsure age parents passed away.  Has many siblings (7 or
+8), four of whom are still alive.
+
+Physical Exam:
+T 99.8  P 90  BP 120/70  ACV 450 x 20 .50 FIO2  on neo gtt @250
+and levophed gtt @ 2
+Gen: Intubated and sedated
+R:  decreased at bases
+CV:  irregularly irregular
+Abd:  ND, bilateral reducible inguinal hernias with bowel, TTP
+in RUQ
+Rectum: Rectal good tone guiac pos
+
+Pertinent Results:
+2012-09-28 00:00:00 08:45AM   PT-19.8* PTT-63.8* INR(PT)-1.8*
+2012-09-28 00:00:00 08:45AM   PLT SMR-NORMAL PLT COUNT-329
+2012-09-28 00:00:00 08:45AM   WBC-2.1*# RBC-2.75* HGB-6.9*# HCT-23.1*
+MCV-84 MCH-25.0* MCHC-29.7* RDW-19.2*
+2012-09-28 00:00:00 08:45AM   NEUTS-26* BANDS-36* LYMPHS-14* MONOS-8 EOS-0
+BASOS-0 ATYPS-0 METAS-14* MYELOS-2*
+2012-09-28 00:00:00 08:45AM   CK-MB-2
+2012-09-28 00:00:00 08:45AM   cTropnT-0.04*
+2012-09-28 00:00:00 08:45AM   LIPASE-19
+2012-09-28 00:00:00 08:45AM   ALT(SGPT)-6 AST(SGOT)-8 LD(LDH)-117
+CK(CPK)-18* ALK PHOS-29* TOT BILI-0.2
+2012-09-28 00:00:00 08:45AM   GLUCOSE-73 UREA N-29* CREAT-1.0 SODIUM-151*
+POTASSIUM-3.0* CHLORIDE-126* TOTAL CO2-13* ANION GAP-15
+
+2012-09-28 00:00:00: CT abd/pelvis showed
+1. Significant free air within the abdomen.
+2. Gangrenous-appearing gallbladder with large internal stone
+and intraluminal gas, with erosive encroachment of the
+neighboring Abdulah Flynn, which would provide a mechanism for the
+pneumoperitoneum.
+
+Brief Hospital Course:
+On 2012-09-28 00:00:00, the patient was admitted to the trauma surgical ICU
+on the general surgery service in critical condition with
+perforated gangrenous cholecystitis as demonstrated on CT.  He
+was hemodynamically unstable, requiring two pressors and
+intubation.  Vancomycin, ciprofloxacin, and metronidazole were
+started.  His family was contactAbdulah Flynn and fully informed, and they
+expressed their full undertstanding of the risks of attempting
+surgical intervention.  The family was also informed of the high
+mortality rate from the patient's illness.  Subsequently, the
+family (through the patient's son and health care proxy, Abdulah Flynn
+Abdulah Flynn) elected not to pursue any surgical options for care, but
+prior discussions with the patient himself included a wish to be
+full code.
+
+Social work was consulted, and after the family arrived on the
+night of admission, the risks and low benefits of resuscitation
+were discussed.  Antibiotics were switched to linezolid and
+zosyn.  On 2012-09-28 00:00:00, the family decided to render the patient
+DNR and "do not reintubate" status considering the high
+morbidity and mortality of cardiopulmonary resuscitation and the
+high risks of surgical intervention.  They wished to maintain
+the same level of medical intervention, and the patient
+continued to receive copious IVF, with occasional blood
+transfusion.  A third pressor was added.  However, in the
+evening of 2012-09-28 00:00:00, the patient became asystolic and expired.
+
+Medications on Admission:
+Fexofenadine 60 mg", Tamsulosin 0.4 mg', Brimonidine 0.15 %
+Drops", Finasteride 5 mg', Docusate Sodium 100 mg", Senna 8.6
+mg", Acetaminophen 325 mg Q6H PRN, Bisacodyl 5 mg", Pantoprazole
+40, mg', Ipratropium Bromide 0.02 % Inhalation Q6H, Albuterol
+Sulfate 2.5 mg /3 mL (0.083 %) Q6H, Ferrous Sulfate 325 mg',
+Diltiazem HCl 240 mg', Nystatin 100,000 unit/g', Sodium Chloride
+0.65 % Aerosol""
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Perforated gangrenous cholecystitis.
+
+Discharge Condition:
+Expired.
+
+Discharge Instructions:
+He who has gone, so we but cherish his memory.
+
+Followup Instructions:
+None.
+
+
+Completed by:2012-09-28 00:00:00

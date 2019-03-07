@@ -1,0 +1,193 @@
+Admission Date:  2005-07-05 00:00:00              Discharge Date:   2005-07-05 00:00:00
+
+Date of Birth: 1917-06-30 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:Glendell Kersenbrock
+Chief Complaint:
+Mr. Bauza is a 70 y.o. male with hx of Crohn's disease, afib,
+dilated CMP and PE (on coumadin), who presents with
+hematochezia/BRBPR in setting of INR 7.7.
+
+Major Surgical or Invasive Procedure:
+Colonoscopy w/ multiple Bx
+
+History of Present Illness:
+Patient had felt well during the last 2 weeks prior to
+admission, although he had noticed slightly red/pink tinge to
+his stool occasionally.  Three days prior to admission, pt had
+an INR of 2.7 at coumadin clinic.  One day prior to presenation,
+the patient self-started asacol from 123 Any St.us prescription
+because worsening of rectal chrone's disease.  On day of
+presentation, pt began having dark red bloody BMs, had ~15
+episodes before calling EMS.  Upon ED arrival, had several
+additional large bloody BMs.  He received vitamin K SQ, 2 FFP,
+and 2 PRBC for stabilization of bleeding. BP was stable
+throughout.
+
+
+Past Medical History:
+1. Crohn's dz, found in 2005-07-05 00:00:00 on colonoscopy for anal fissure,
+positive Glendell Kersenbrock, been treated with Remicade
+2. Rheumatoid arthritis
+3. HTN
+4. hx of renal calculus
+5. s/p appendectomy
+6. s/p TURP
+7. s/p cholecystectomy
+8. Recent pulmonary embolism- on coumadin since 2005-07-05 00:00:00
+9. LVH, LV enlargement, apical LV aneurysm with LV thrombus, EF
+25%
+10. Chronic left knee pain s/p meniscectomy, synovectomy, and
+debridement of left knee 2005-07-05 00:00:00
+11. Recent gallstone pancreatitis 2005-07-05 00:00:00
+12. Afib - 2005-07-05 00:00:00 rate controlled on atenolol
+
+
+Social History:
+Married for 46 years and lives with wife.  3 children who all
+live in area.  No tobocco, h/o occasional ETOH, stopped drinking
+in 2005-07-05 00:00:00, denies h/o ETOH abuse.  No illicit drugs.
+
+
+Family History:
+Father died at 62 from MI
+Mother died at 52 of cirrhosis
+No cancer or diabetes to patient's knowledge
+No hisotry of clotting disorders
+
+Physical Exam:
+Exam   afebrile,  BP 100s/60s,  98%RA, HR 70s
+NAD, alert and talkative
+lungs clear
+irreg, distant S1S2
+abdomen soft
+rectum with significant erythema/maceration, dark red blood in
+vault,
+
+
+Pertinent Results:
+2005-07-05 00:00:00 10:00PM BLOOD WBC-8.0 RBC-3.50* Hgb-9.0* Hct-27.2*
+MCV-78* MCH-25.7*# MCHC-33.1 RDW-16.1* Plt Ct-384
+2005-07-05 00:00:00 10:00PM BLOOD Neuts-80.0* Lymphs-14.5* Monos-4.7
+Eos-0.6 Baso-0.1
+2005-07-05 00:00:00 10:00PM BLOOD PT-62.1* PTT-39.2* INR(PT)-7.7*
+2005-07-05 00:00:00 10:00PM BLOOD Glucose-96 UreaN-20 Creat-1.6* Na-137
+K-3.8 Cl-107 HCO3-23 AnGap-11
+2005-07-05 00:00:00 10:00PM BLOOD CK(CPK)-58
+2005-07-05 00:00:00 10:00PM BLOOD CK-MB-NotDone cTropnT-0.06*
+2005-07-05 00:00:00 04:15AM BLOOD Calcium-7.7* Phos-3.5 Mg-1.6
+
+EKG:
+Baseline artifact. Regular rhythm with left anterior fascicular
+block and right
+bundle-branch block configuration, probably sinus rhythm. Since
+the 123 Any St.us
+tracing of 2005-07-05 00:00:00 the QRS width is wider and R wave reversal in
+the lateral
+precordial leads is more marked, related to axis or lateral
+myocardial
+infarction. Clinical correlation is suggested.
+
+
+Brief Hospital Course:
+## Hematochezia/Crohn's: Likely 2005-07-05 00:00:00 combination of known Crohn's
+and overanticoagulation most likely due to drug interaction of
+coumadin w/ sasacol. Received 2Units FFP and 1 unit PRBC + vit
+K. With drop of Hct as low as 23.6, 27.0 upon d/c.  INR upon d/c
+1.0.  Underwent colonoscopy showing ulcer in proximal ascending
+colon which wx bx to exclude ulcerated neoplasia, chrohn's dz
+which was bx, and pseudopolyps in the descending colon and
+sigmoid colon.
+.
+## ARF: likely hypovolemia in setting of GIB, Cr of 1.6 from
+baseline of 1.0. Currently back to baseline.
+.
+## Paroxysmal atrial fibrillation: in sinus rhythm on 2005-07-05 00:00:00.
+- hold anticoag for now as risks outweigh benefits.  Will be
+restarted w/ f/u w/ PCP.  Fredda Bauza control meds because of bleeding,
+pt not in AF on Bauza, [**First Name3 (LF) **] restart BB w/ d/c to rehab facility.
+
+
+## HTN: Meds held in setting of bleed, restarting OP meds w/ d/c
+to rehab.  Holding lasix 2005-07-05 00:00:00 to continued dehydration 2005-07-05 00:00:00 to
+poor PO intake.
+.
+## DCM: appears euvolemic
+- hold furosemide in setting of GI bleed
+.
+## h/o PE, LV thrombus:
+- hold anticoag in setting of GI bleed, will restart as
+outpatient.
+
+
+Medications on Admission:
+ASPIRIN 81 daily
+ATENOLOL 50 daily
+ATIVAN 0.5 UPMCE prn anxiety
+WARFARIN with goal INR 2005-07-05 00:00:00
+CYANOCOBALAMIN 1,000 mcg daily
+FUROSEMIDE 40 mg daily
+LISINOPRIL 10 mg daily
+Lidocaine-Hydrocortisone Ac 3-0.5 %--Thin film rectally daily
+MVI
+PLAQUENIL 200 mg UPMCE
+Tylenol #3 prn pain
+ASACOL 1200 mg tid
+PANTOPRAZOLE 40 mg daily
+
+
+Discharge Medications:
+1. Acetaminophen-Codeine 300-30 mg Tablet Sig: One (1) Tablet PO
+Q4H (every 4 hours) as needed for pain.
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. Lidocaine HCl 5 % Ointment Sig: One (1) Appl Topical Q4-6H
+(every 4 to 6 hours).
+4. Atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Lower GI Bleed
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+  You are being discharged from the hospital after an admission
+for a lower gastrointestinal bleed.  Because of significant
+blood loss, you were stabilized throughout the admission with
+transfusion of blood products and clotting proteins.  You
+underwent colonoscopy to evaluate for source of the bleeding.
+It not only showed multiple areas of sick colon consistent with
+your Chron's disease, but also a non-bleeding ulcer in the
+bowel.  Multiple biopsy's were taken, results pending.  The most
+likely cause of your bleeding is your very low ability to clot
+due to a reaction between your blood thinner coumadin and the
+asacol which you started.  Both medications are being stopped,
+and only restarted after discussion between your PCP and your
+Gastroenterologist.
+   After being evaluated by Physical Therapy, it is felt that
+you would benefit from a short stay in an acute rehab facility
+to help improve your strength after this hospitalization.
+
+Followup Instructions:
+Follow up w/ Dr. Fredda in 2005-07-05 00:00:00 weeks (test@mail.com
+Follow up w/ Dr. Bauza in 2005-07-05 00:00:00 weeks (test@mail.com
+
+
+                             Fredda Bauza Fredda Bauza MD 9805
+

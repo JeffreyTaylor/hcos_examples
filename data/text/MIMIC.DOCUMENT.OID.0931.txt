@@ -1,0 +1,209 @@
+Admission Date:  2008-09-19 00:00:00              Discharge Date:   2008-09-19 00:00:00
+
+Date of Birth: 1967-09-19 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Alassane Rabenau
+Chief Complaint:
+Ventricular tachycardia
+
+Major Surgical or Invasive Procedure:
+-VT ablation
+-ICD generator change
+
+
+History of Present Illness:
+This morning, the patient was having breakfast when he heard a
+loud, banging noise and dropped his cup of tea. This episode was
+not accompanied by any other symptoms. The patient denied any
+chest pain. His baseline does involve symptoms of exertional
+dyspnea with moderate physical activity, but no symptoms of
+dyspnea at rest, orthopnea, paroxysmal nocturnal dyspnea (he
+consistently sleeps on two pillows), or lower extremity edema.
+He has not had any episodes of dizziness or syncope.
+.
+The patient reported for a routine ICD outpatient check and was
+discovered to be in sustained ventricular tachycardia at about
+160-170 beats per minute. The patient's son was told that the 4
+shocks in the recent past; however, the patient's symptoms of
+hearing a loud, banging noise only matched up to a single shock.
+(The patient received a shock during his stay at UPMCE; he
+reported hearing a loud noise then as well.) The patient went to
+UPMCE Hospital briefly and was then transfered here for
+ablation.
+
+On review of systems, he denies any recent headache, dizziness,
+dysphagia, cough, palpitations, nausea, vomiting, constipation,
+diarrhea. The patient has had no change in a123 Any St.e and has been
+able to consume his usual amounts of food and liquid.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: HTN, hyperlipidemia, history of stroke
+2. CARDIAC HISTORY: two MIs (2008-09-19 00:00:00, 2008-09-19 00:00:00)
+-CABG:  2008-09-19 00:00:00
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+-PACING/ICD:
+3. OTHER PAST MEDICAL HISTORY:
+- CAD s/p 2008-09-19 00:00:00 anterior STEMI with VF arrest, 2008-09-19 00:00:00 IMI, and 2008-09-19 00:00:00
+CABG (LIMA to LAD, saphenous vein graft to first diagonal,
+saphenous vein graft to first obtuse marginal, jump saphenous
+vein graft to OM2 and OM3.
+- Ischemic cardiomyopathy with ejection fraction of 2008-09-19 00:00:00%
+- s/p prophylactic fibrillator
+- non-sustained ventricular tachycardia
+- hypertension
+- hyperlipidemia
+- CKD (estimated GFR 49mL/min)
+- History of stroke
+- GERD
+- Depression
+
+Social History:
+-Tobacco history: Quit in 2008-09-19 00:00:00 after long history of
+pack-per-day smoking. The patient is a native of 123 Any St..
+
+Family History:
+No known history of premature cardiac disease.
+
+Physical Exam:
+GENERAL: NAD. Resting in bed
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.
+NECK: Supple.
+CARDIAC: irregualr rhythm, S1, S2. No m/r/g. No thrills, lifts.
+No S3 or S4.
+LUNGS: No accessory muscle use. CTAB, no crackles, wheezes or
+rhonchi.
+ABDOMEN: Soft, non-tender, bowel sounds positive.
+EXTREMITIES: No cyanosis, clubbing, edema. Radial/pedal pulses
+2+
+
+Pertinent Results:
+2008-09-19 00:00:00 02:10AM BLOOD WBC-10.7 RBC-4.72 Hgb-14.8 Hct-42.6
+MCV-90 MCH-31.4 MCHC-34.7 RDW-13.8 Plt Ct-166
+
+Groin Ultrasound
+IMPRESSION: No evidence of a right groin pseudoaneurysm or AV
+fistula.
+
+Brief Hospital Course:
+82 YO man with history of CAD, CABG, and Ischemic cardiomyopathy
+s/p pacer ICD placement presenting to UPMCE with episode of VT
+and subsequent pacer firing.
+
+Ventricular tachycardia: Patient was taken to the EP lab and
+found to have an arrhythmogenic focus in the Left ventricle.
+Ablation was performed and the patient was returned to the
+floor. Overnight he was noted to have multiple 10-15 beat runs
+of slow NS VT. EP was consulted and they felt this was secondary
+to radiofrequency ablation. His Generator was changed on
+hospital day two. He was discharged on 400 mg of Amiodarone
+twice a day for two weeks to be switched to 400 mg once a day
+from then on. The patient was noted to have a femoral bruit
+following his procedure. An US did not show any evidence of
+pseudoaneurysm or AV fistula. He ambulated independently on the
+day of discharge. He will follow up with Dr. Ticknor at
+UPMCE on 2008-09-19 00:00:00.
+
+# HYPERTENSION Continued home regimen of metoprolol, lisinopril,
+spironolactone.
+.
+# HYPERLI123 Any St. Continued home simvastatin.
+.
+# CHRONIC KIDNEY DISEASE Continued on lisinopril at home doses.
+He tolerated amiodarone with no acute elvation in creatinine.
+.
+# DEPRESSION Continued home Celexa and alprazolam.
+.
+# GERD Continued home Zantac.
+
+
+Medications on Admission:
+Metoprolol succinate 100mg QD
+lisinopril 40mg QD
+Digoxin 0.125 mg QD
+Furosemide 40 mg QD
+Spironolactone 12.5 mg QD
+ASA 81 mg QD
+Simvastatin 80 mg QD
+Celexa 20 mg QD
+Alprazolam 0.25 mg qhs
+Zantac 150 mg UPMCE
+multivitamin, calcium + vitamin D
+
+Discharge Medications:
+1. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+5. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+7. spironolactone 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+
+8. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+9. metoprolol succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+10. amiodarone 400 mg Tablet Sig: One (1) Tablet PO twice a day:
+Take one (1) tablet twice a day for two weeks then take one (1)
+tablet once a day from then on.
+Disp:*60 Tablet(s)* Refills:*2*
+11. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours) for 5 days.
+Disp:*15 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+PRIMARY: Ventricular Tachycardia
+SECONDARY: Ischemic Cardiomyopathy
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure being involved in your care, Mr. Ticknor. You
+came to the hospital with  ventricular tachycardia (a fast
+abnormal heart rate) that caused your ICD (intracardiac
+defibrillator) to fire. Because of this you were taken to the
+electrophysiology lab and underwent an ablation (burning of the
+electrical circuits of the heart to try to control the abnormal
+rhythm) as well as a generator change for your ICD.
+
+Your medications have changed as follows:
+1) START taking Amiodarone 400mg twice a day for two weeks.
+After that you should take 400mg Amiodarone once a day.
+
+2) START Keflex three times a day for 5 days.
+
+You should continue taking your other medications as prescribed.
+
+Weigh yourself every morning, Donnamae Ticknor MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Please follow-up with Dr. Ticknor at UPMCE.
+An appointment has been made for you on Wednesday 2008-09-19 00:00:00
+at 3:20pm.   The phone number is test@mail.com in case you need
+to make changes.
+
+Please return to DEVICE CLINIC Phone:test@mail.com on 2008-09-19 00:00:00 at
+2:30
+
+
+

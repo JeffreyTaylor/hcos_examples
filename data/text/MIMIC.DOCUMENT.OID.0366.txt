@@ -1,0 +1,268 @@
+Admission Date:  2012-10-30 00:00:00              Discharge Date:   2012-10-30 00:00:00
+
+Date of Birth: 1953-09-15 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Lashada Munder
+Chief Complaint:
+cough, respiratory distress
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+53 yo M w/ h/o Down's syndrome, non-verbal at baseline,
+hypothyroidism, cataracts, dysphagia s/p G-tube, h/o aspiration
+pna's, hypoNa on 4Lnc QHS who presents w/ cough and hypoxia from
+group home.
+.
+Per report, patient with acute on chronic cough found to desat
+to 88% on RA this AM.  Looked as if he were in respiratory
+distress.  Per OMR had been empirically treated for pna back in
+2012-10-30 00:00:00 w/ multiple notes documenting cough.
+.
+In the ED, initial VS were:  98.2 74 92/50 28 100% nrb.  Tmax
+100.2.  On exam +crackles L>R.  Labs notable for Na 127, K 7.4,
+Cl 90, HCO3 29, BUN 11, Cr 0.7, Glu 121, Lactate 1.7, repeat K
+4.4, UA neg leuk/nitr/3wbc/neg bact/epis O, wbc 6, h/h 15/43.4,
+plt 297.  CXR: gastric distention, bibasilar atelectasis.  He
+received zosyn and levo, vanc, 1LNS.  Has a 20gauge piv.
+
+
+Past Medical History:
+Down's syndrome, non-verbal at baseline
+-B12 deficiency
+-hypothyroidism
+-cataracts, legally blind
+-dysphagia s/p G-tube
+-h/o aspiration pna's
+-h/o DVT
+-h/o cdiff
+
+
+Social History:
+Lives in group home, siblings very involved in his care.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Admission exam:
+General: Arousable, alert, non-communicative
+HEENT: Sclera anicteric, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+CV: RR, no mrg
+Lungs: +Rhonchi
+Abdomen: PEG placed, soft, NTND
+GU: + foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Discharge exam: Unchanged from above except for
+Lungs: CTAB except for occasional scattered ronchi, R>L
+
+Pertinent Results:
+Admissino labs:
+
+2012-10-30 00:00:00 10:55AM BLOOD WBC-6.0 RBC-4.27* Hgb-15.0 Hct-43.4
+MCV-102* MCH-35.2* MCHC-34.5 RDW-12.3 Plt Ct-297
+2012-10-30 00:00:00 10:55AM BLOOD Neuts-75* Bands-1 Lymphs-19 Monos-4 Eos-1
+Baso-0 Atyps-0 Metas-0 Myelos-0
+2012-10-30 00:00:00 10:55AM BLOOD Plt Smr-NORMAL Plt Ct-297
+2012-10-30 00:00:00 10:55AM BLOOD Glucose-121* UreaN-11 Creat-0.7 Na-127*
+K-7.4* Cl-90* HCO3-29 AnGap-15
+2012-10-30 00:00:00 10:55AM BLOOD Calcium-8.7 Phos-4.4 Mg-2.3
+2012-10-30 00:00:00 04:28PM BLOOD D-Dimer-627*
+2012-10-30 00:00:00 03:03PM BLOOD Type-ART pO2-214* pCO2-39 pH-7.48*
+calTCO2-30 Base XS-6
+2012-10-30 00:00:00 11:01AM BLOOD Glucose-122* Lactate-1.7 K-4.4
+2012-10-30 00:00:00 03:03PM BLOOD freeCa-1.12
+
+Imaging:
+-CXR (2012-10-30 00:00:00) - 1. Coarse bilateral interstitial opacities
+with more focal opacity in the left lung base. Findings may
+represent aspiration or pneumonia with mild pulmonary edema.
+Small left pleural effusion.
+2. Gaseous distention of the hepatic flexure of the colon and
+stomach as
+described above; correlate clinically.
+
+-CTA Chest (2012-10-30 00:00:00) - 1. No PE or acute aortic syndrome.
+2. Bibasilar opacities, likely reflecting components of early
+pneumonia and atelectasis. However, due to several nodular
+areas, follow-up chest CT when symptoms resolve is recommended.
+
+-CXR (2012-10-30 00:00:00) - 1. Mild pulmonary edema with bibasilar
+opacities worrisome for interstitial infection.
+
+Discharge labs:
+2012-10-30 00:00:00 07:30AM BLOOD WBC-6.7 RBC-3.81* Hgb-13.9* Hct-40.0
+MCV-105* MCH-36.6* MCHC-34.8 RDW-13.1 Plt Ct-337
+2012-10-30 00:00:00 07:30AM BLOOD Glucose-94 UreaN-20 Creat-1.0 Na-134
+K-4.6 Cl-100 HCO3-26 AnGap-13
+
+Brief Hospital Course:
+53 yo M w/ h/o Down's syndrome, non-verbal at baseline,
+hypothyroidism, cataracts, dysphagia s/p G-tube, h/o aspiration
+pna's, hypoNa on 4Lnc QHS who presents w/ cough and hypoxia from
+group home.
+.
+# Aspiration Pneumonia/Respiratory Distress: Was initially
+admitted to the MICU given respiratory distress.  Pt had CTA
+that was negative for PE though notable for bibasilar opacities
+concerning for pneumonia.  He was started on vanc/zosyn for
+aspiration pna.  His O2 requirement was weaned w/ treatment from
+face mask to nasal cannula at the time of discharge.  On the
+floor, his antibiotics were switched to levaquin and he remained
+afebrile.
+.
+# HypoNa: Chronic per facility records.  Improved with IVFs
+after admission to ICU.  Na stable at 134-135 at time of
+discharge.
+.
+# Hypotension: Baseline BP 90s per records.  Patient maintained
+SBP 80s-low 100s, w/ intermittent readings of 70s and he
+received intermittent fluid bolus while in the ICU.  Cortisol
+was normal.  TSH elevated, though free t4 was normal.  His urine
+output remained good and his hypotension was felt to be at
+baseline and tolerated.  Of note urine cx were neg; blood cx
+grew coag(-) staph from 1 bottle which was felt to be
+contaminant, subsequent blood cultures showed no growth and he
+remained afebrile without other signs of bacteremia.
+.
+# Down's syndrome, non-verbal at baseline: Appears to be at his
+recent baseline per family and group home records.
+.
+# Hypothyroidism: Continued synthroid
+.
+#G-tube - In the ICU there was concern about position of tube,
+surgery was consulted and felt that tube was properly placed.
+Wound culture grew Dechelle Klemp and he was started on nystatin cream
+to the site.
+.
+#Code status this admission - Full code.  Had family meeting
+with brother, Dechelle Klemp, regarding code status and goals of care.
+We explained that it is possible that these recurrent aspiration
+events may continue to occur, and his brother stated that he
+still wished for full resuscitation, including intubation if
+necessary.  Lashada Munder stated that the family wanted another
+neurological evaluation before they made any changes to his code
+status.  The geriatrics team was involved with this meeting and
+are working on having him reevaluated again.
+.
+#Transitional issues
+-Will need ongoing assessment of neurological function, has
+follow-up arranged
+-Will need ongoing assessment of goals of care, started this
+discussion with his brother, Dechelle Klemp, during this admission
+
+Medications on Admission:
+1. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+2. levetiracetam 100 mg/mL Solution Sig: 7.5 mL PO BID (2 times
+a day).
+3. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 2 days.
+Disp:*2 Tablet(s)* Refills:*0*
+4. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for constipation.
+5. therapeutic multivitamin     Liquid Sig: Five (5) ML PO DAILY
+(Daily).
+6. levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Dulcolax 10 mg Suppository Sig: One (1) suppository Rectal
+once a day as needed for constipation.
+8. Kaopectate (bismuth subsalicy) 262 mg/15 mL Suspension Sig:
+Fifteen (15) mL PO once a day as needed for diarrhea.
+9. Fleet Enema 19-7 gram/118 mL Enema Sig: One (1) enema Rectal
+once a day as needed for constipation.
+10. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO every
+four (4) hours as needed for fever or pain.
+11. simethicone 40 mg Strip Sig: One (1) tab PO every four (4)
+hours.
+12. NeutraPhos  Sig: One (1) packet  twice a day.
+
+
+Discharge Medications:
+1. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+2. levetiracetam 100 mg/mL Solution Sig: 7.5 mL PO BID (2 times
+a day).
+3. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 2 days.
+Disp:*2 Tablet(s)* Refills:*0*
+4. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for constipation.
+5. therapeutic multivitamin     Liquid Sig: Five (5) ML PO DAILY
+(Daily).
+6. levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Dulcolax 10 mg Suppository Sig: One (1) suppository Rectal
+once a day as needed for constipation.
+8. Kaopectate (bismuth subsalicy) 262 mg/15 mL Suspension Sig:
+Fifteen (15) mL PO once a day as needed for diarrhea.
+9. Fleet Enema 19-7 gram/118 mL Enema Sig: One (1) enema Rectal
+once a day as needed for constipation.
+10. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO every
+four (4) hours as needed for fever or pain.
+11. nystatin 100,000 unit/g Ointment Sig: One (1) Appl Topical
+TID (3 times a day).
+12. simethicone 40 mg Strip Sig: One (1) tab PO every four (4)
+hours.
+13. NeutraPhos  Sig: One (1) packet  twice a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+bay cove
+
+Discharge Diagnosis:
+Primary diagnosis:
+Aspiration pneumonia
+
+Secondary diagnoses:
+Down's syndrome
+Hypothyroidism
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+Dear Mr. Klemp,
+
+It was a pleasure taking care of you during your admission at
+UPMCE for aspiration pneumonia.  You were initially admitted to
+the ICU where you received IV antibiotics.  A CT scan of your
+chest did not show any blood clots in your lungs.  You started
+to improve and were transitioned to oral antibiotics.  You
+completed your full 7 day course of antibiotics in the hospital
+and will not need to take any more at your group home.
+
+Changes to your medications:
+START nystatin cream topical tid apply to G-tube site
+
+Followup Instructions:
+Department: NEUROLOGY
+When: THURSDAY 2012-10-30 00:00:00 at 9:30 AM
+With: Dechelle Klemp, MD test@mail.com
+Building: Ks 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: BIDHC 123 Any St.
+When: THURSDAY 2012-10-30 00:00:00 at 1 PM
+With: Dechelle Lashada Munder Klemp Klemp, MD test@mail.com
+Building: 545A Centre St. (123 Any St., MA) None
+Campus: OFF CAMPUS     Best Parking:
+
+
+

@@ -1,0 +1,492 @@
+Admission Date:  2008-08-26 00:00:00              Discharge Date:   2008-08-26 00:00:00
+
+Date of Birth: 1972-08-26 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Cefazolin / Vicodin / Oxycodone
+
+Attending:Cebastian Stusse
+Chief Complaint:
+Metabolic acidosis.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+The patient is a 47y/o F with a PMH of DM, EtOH abuse, C.
+parapsilosis R knee septic arthritis/osteomyelitis recently
+admitted with Delirium tremens/PRES now presenting with
+hypotension, hypoxia and acute renal failure in the setting of
+recent C. diff colitis.
+.
+The patient was admitted on 2008-08-26 00:00:00 - 2008-08-26 00:00:00 with C parapsilosis
+septic knee joint and underwent debridement and drainage and
+discharged home on fluconazole.
+.
+She was then readmitted 2008-08-26 00:00:00 - 2008-08-26 00:00:00 with AMS in the setting
+of EtOH withdrawal. Because of very high BPs in MICU (probably
+due to severe DTs) and MRI findings, the diagnosis of Posterior
+Reversible Leukoencephalopathy (PRES) was made. Infectious w/u
+of CNS was negative with negative CSF and blood cx. Upon
+aggressive BP reduction and control of EtOH withdrawal the
+patient's mental status significantly improved.
+.
+The patient was discharged home from rehab on 2008-08-26 00:00:00. Pt reports
+she began drinking again daily after returning home from rehab.
+She was seen in Orthopedics clinic on 2008-08-26 00:00:00 and found to have a
+BP of 90/58 and pulse of 40. Her metoprolol was decreased to
+50mg Q 12 from Q 6 dosing.
+.
+She presented to OSH on 2008-08-26 00:00:00 with nausea, vomiting and diarrhea
+X 1 day after finishing a course of vancomycin for C. diff
+colitis. Reports diarrhea started on day of presentation with
+2008-08-26 00:00:00 BM over 24 hrs. Reported emesis and inability to take po.
+She was admitted to the ICU. Vancomycin was restarted and IV
+flagyl started. She was found to be hypotensive with SBP 85/49
+and WBC of 17.9. ABG 7.18/18/126 on RA. K 2.8. AG23. Cr 3.4. She
+received IV and po bicarb. HCT decreased to 24 and she was given
+2U PRBC. BP improved with volume resuscitation, did not require
+pressors. She was evaluated by Nephrology and felt to have ATN.
+GI performed an EGD demonstrating gastritis. She developed
+respiratory distress the evening prior to transfer with ABG
+7.17/30/74 on 4L. She was started on BiPAP then transitioned to
+6L NC prior to transfer.
+.
+She in now admitted to the ICU for further management. On
+arrival to the ICU, the patient is in no acute distress. Denies
+any complaints. Sating well on 2008-08-26 00:00:00 L.
+
+
+Past Medical History:
+Type 2 diabetes since age 25. Insulin-dependent
+Peripheral artery disease s/p bypass-left lower extremity
+Hypertension
+Hypercholesterolemia
+Hepatitis C
+C. parapsilosis right knee arthritis s/p open biopsy and
+synovectomy on 2008-08-26 00:00:00 currently on fluconazole
+Alcohol Abuse
+
+Social History:
+30 pack year smoking history, quit five years ago. Per my
+interview no current alcohol or drug use but per neurology
+interview she generally drinks 2008-08-26 00:00:00 - 1 pint of "100 proof"
+daily. Last drink was at least one day prior to admission. No
+history of DTs or withdrawal seizures. Also smokes marijuana
+daily. Lives with her husband and 8 year old child. Works as a
+cash administrator.
+
+Family History:
+No known history of early neurologic deficits.
+
+Physical Exam:
+Vitals: T 98.5 BP 128-134/59-61, HR 96-106, RR 12, O2 96% 2L
+Gen: dishelved appearing
+HEENT: PERRLA, EOMI, dry MM
+Pulm: CTAB, no WRR
+CV: RRR, nl S1/S2, no MRG
+Abd: soft, non-distended, NABS, diffuse mild TTP
+Extrem: no LE edema, R knee with minimal swelling, grossly
+limited ROM secondary to pain
+Neuro: alert, oriented to self, does not recall recent events,
+speech spont & fluent, moving all ext.
+
+Vitals on day of discharge:
+T98.2
+HR 61
+BP 146/58
+RR 20
+99% SpO2 RA
+
+Pertinent Results:
+2008-08-26 00:00:00 11:32PM   TYPE-ART PO2-76* PCO2-26* PH-7.36 TOTAL
+CO2-15* BASE XS--8
+2008-08-26 00:00:00 11:32PM   LACTATE-1.1
+2008-08-26 00:00:00 09:09PM   GLUCOSE-221* UREA N-42* CREAT-2.1* SODIUM-143
+POTASSIUM-3.2* CHLORIDE-114* TOTAL CO2-14* ANION GAP-18
+2008-08-26 00:00:00 09:09PM   CALCIUM-6.7* PHOSPHATE-3.7 MAGNESIUM-1.8
+2008-08-26 00:00:00 04:59PM   TYPE-ART PO2-50* PCO2-25* PH-7.32* TOTAL
+CO2-13* BASE XS--11
+2008-08-26 00:00:00 04:03PM   CK-MB-12* MB INDX-0.7 cTropnT-0.03*
+proBNP-[**Numeric Identifier 6517**]*
+2008-08-26 00:00:00 04:03PM   ALBUMIN-2.9* CALCIUM-5.9* PHOSPHATE-4.2
+MAGNESIUM-1.9
+2008-08-26 00:00:00 04:03PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+2008-08-26 00:00:00 03:35PM URINE  bnzodzpn-POS barbitrt-NEG opiates-POS
+cocaine-NEG amphetmn-NEG mthdone-NEG
+2008-08-26 00:00:00 02:38PM   GLUCOSE-267* UREA N-43* CREAT-2.4*#
+SODIUM-142 POTASSIUM-2.9* CHLORIDE-111* TOTAL CO2-12* ANION
+GAP-22*
+
+2008-08-26 00:00:00
+Knee Oblique/AP/lat
+Slightly decreased soft tissues in the right suprapatellar
+region but no
+significant changes in the alternating sclerotic and lucent
+regions of distal femur, patella, and proximal tibia. Stable
+soft tissue density posterior to the right femur.
+
+2008-08-26 00:00:00
+CXR
+Increased opacity is seen in the left lung field mid and upper
+regions.
+Otherwise stable appearance to the right PICC line and other
+bilateral
+infiltrates noted. No blunting of the CP angles. I do not see
+any definite
+cavitation at this time.
+.
+2008-08-26 00:00:00
+Echo
+The left atrium is mildly dilated. The estimated right atrial
+pressure is 0-10mmHg. Left ventricular wall thickness, cavity
+size and regional/global systolic function are normal (LVEF
+>55%). Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. Focal thickening at the tip of
+the right coronary cusp might have increased slightly. No masses
+or vegetations are seen on the aortic valve. Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. There is small
+vegetation on the mitral valve (0.3cmx0.3cm) (clip [**Clip Number (Radiology) **]) at the
+coaptation point. An eccentric, posteriorly directed jet of Mild
+(1+) mitral regurgitation is seen. There is mild pulmonary
+artery systolic hypertension. There is a trivial/physiologic
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of 2008-08-26 00:00:00, the
+mild mitral regurgitation is new with a small vegetation seen on
+the anterior leaflet at the coaptation point
+.
+2008-08-26 00:00:00 BLOOD WBC-9.5 RBC-3.11* Hgb-9.0* Hct-27.2* MCV-87
+MCH-28.8 MCHC-33.0 RDW-14.6 Plt Ct-350
+2008-08-26 00:00:00 BLOOD Glucose-126* UreaN-15 Creat-1.2* Na-143 K-3.0*
+Cl-108 HCO3-24 AnGap-14
+2008-08-26 00:00:00 BLOOD CRP-30.4*
+2008-08-26 00:00:00 BLOOD ESR-80*
+.
+2008-08-26 00:00:00 MRI knee w/ and w/o contrast:
+Again seen is a moderately large knee joint effusion with
+enhancement of the residual synovium and/or joint capsule.
+Numerous subcentimeter susceptibility artifacts anterior to the
+extensor mechanism and in the anterior joint space are unchanged
+and likely related to 123 Any St.us surgery. Note is made of fluid
+extending outside the joint capsule, extending into the
+subcutaneous fat, along the lateral and posterolateral aspect of
+the knee (ser 6, im 18), unchanged from the prior study.
+
+Cortical erosion of the articulating surfaces of the tibia as
+well as
+enhancement of the tibial plateau is unchanged and likely due to
+a combination of osteomyelitis, bone infarct, and secondary
+osteoarthritis. Bone marrow edema, enhancement, and erosion
+along the posterior aspect of the patella is unchanged and are
+likely related to osteomyelitis, infarct, osteoarthritis, and an
+abutting bone fragment. Bone marrow signal alteration and linear
+areas of enhancement in the femoral condyles is unchanged and
+may be related to osteomyelitis and/or bone infarcts. Again seen
+is cortical irregularity and some areas of cortical disruption
+along the femoral condyles.
+
+No definite intraosseous or subcutaneous abscesses.
+
+IMPRESSION:
+
+1) The overall appearance is unchanged compared with 2008-08-26 00:00:00. No
+change in
+bone marrow signal abnormalities in the femoral condyles, tibial
+plateau,
+proximal tibial metaphysis, and posterior patella, which likely
+reflects some combination of osteomyelitisand/or residual edema
+from treated osteomyelitis, bone infarcts, and secondary
+osteoarthritis. No new areas of enhancement or bone marrow
+edema.
+
+2) Moderately large joint effusion, unchanged since 2008-08-26 00:00:00.
+.
+2008-08-26 00:00:00 Renal ultrasound:
+FINDINGS: The right kidney measures 12.6 cm. The left kidney
+measures 12.3
+cm. No mass, stone or hydronephrosis is demonstrated within the
+kidneys.
+There is a trace right pleural effusion. The bladder is
+moderately distended without focal mass lesion detected within.
+
+IMPRESSION:
+
+1. No hydronephrosis.
+
+2. Trace right pleural effusion.
+
+Labs on 2008-08-26 00:00:00/9:
+WBC 9.7
+Hb 8.7
+Hct 27.2
+Plt 395
+
+Na 144
+K 3.3
+Cl 110
+HCO3 24
+BUN 15
+Cr 1.5
+Gluc 81
+
+Ca 8.9
+Mg 1.9
+Phos 4.6
+.
+HCV VIRAL LOAD (Final 2008-08-26 00:00:00):
+      487,000 IU/mL.
+.
+
+
+
+Brief Hospital Course:
+Patient admited to the ICU and then transferred to the floor.
+
+Right knee C.Parapsilosis septic arthritis/osteomyelitis -
+started diflucan on 2008-08-26 00:00:00 but noncompliant. Knee exam appears
+stable, MRI generally unchanged; 2008-08-26 00:00:00 did not feel it
+clinically warranted tapping. As renal function increased over
+MICU stay, ID advised increasing diflucan dose. Now on 2008-08-26 00:00:00
+months of PO fluconazole. To follow-up with 2008-08-26 00:00:00 and ID as
+outpatient.
+.
+Possibe endocarditis:  Echo showed small new vegatation on
+anterior leaflet of mitral valve.  Not present on TEE from early
+2008-08-26 00:00:00. Discussed with cardiology and reviewed imaging together;
+follow-up in approximately 3 weeks with TTE to see if change in
+imaging (appointment as outpatient). No TEE necessary at this
+point in time. Patient has never been bacteremic or fungemic. No
+new murmur auscultated, no Cebastian Stusse spots or other findings
+suggestive of embolic disease seen by optho consult.
+.
+Acute renal failure with hypokalemia, hypomagnesemia, and
+metabolic acidosis: Hx NSAID abuse. Gap and non-gap acidosis on
+admission, initially thought to be secondary to diarrhea,
+however low bicarbonate persisted beyond diarrhea cessation with
+associated hypokalemia, hypochloremia, hypernatremia. This
+raised the question of RTA, but that is/was problemAbdalrahman Gill to
+invoke in setting of ARF. Renal consulted. Pt treated with
+bicarb and then bicarb normalized. She continued to have some
+hyperchloremia, likely due to IVF which had 123 Any St.usly been
+given. Hypokalemia corrected with re123 Any St.n ?????? may also be 2008-08-26 00:00:00
+prolonged diflucan course or alcohol abuse. Renal advised
+starting potassium citrate ?????? not on formulary, switched to
+Bicitra; then d/c'd bicitra as renal function and acid/base
+status improved. Renal advised PO potassium and magnesium daily,
+and regular checks of electrolytes (chem 10) and renal function.
+.
+Possible UTI ?????? urine culture showed 10-100,000 klebsiella
+species.  Started Ciprofloxacin, 7 day course (last day 2008-08-26 00:00:00).
+.
+Clostridium dificile colitis:  Pt started on treatment course
+for C. difficile from OSH. Unclear how compliant pt has been
+with treatment course, and c.diff +ve at OSH so decided to
+restart a treatment course here. Initially on vanc/flagyl.
+C.diff culture negative x2 here in hospital. No diarrhea since
+admission. Now just PO vancomycin (last day 2008-08-26 00:00:00).
+.
+Hypoxemic respiratory failure: possibly combination of dCHF,
+aspiration, reactive airway disease. CXR shows findings
+consistent with volume overload; expiratory wheezes 2008-08-26 00:00:00 COPD vs
+cardiogenic. Had 02 requirement, successfully weaned with
+initial autodiuresis then minimal lasix. Pt irritated by
+albuterol nebs, used atrovent nebs with good effect. Aspiration
+precautions. Patient weaned down to room air, SpO2 100% at
+discharge and without SOB.
+.
+Hypertension: had been hypotensive in setting of prolonged
+diarrhea, dCHF, decreased PO intake. Held antihypertensives, but
+then pressures were persistently elevated. So treated with
+metoprolol, clonidine, amlodipine, with dose adjustment as
+needed. Lisinopril continued to be held due to ARF, during
+hospitalization. If continues to be hypertensive, suggest that
+next med to be added/changed would be the addition of an ACE
+inhibitor, ie; lisinopril (was on 40mg daily, would start at
+10mg daily and titrate up, as tolerated by creatinine). Plan to
+titrate down the clonidine, over 3 days, by halving dose each
+day (continuing tid though).
+.
+Alcohol Abuse with hx DTs/PRES:
+Diazepam per CIWA protocol. Got Zyprexa in ICU to provide some
+sedation with decreased benzo load and clonidine. SW consulted.
+No s/s of withdrawal while on floor. Discussed alcohol cessation
+with patient.
+.
+Diabetes mellitus, type II, poorly controlled: continued lantus
+and insulin SS, with adjustments to treat hyperglycemia
+throughout hospital course. continue on sliding scale, and
+adjust as needed to treat blood sugars.
+.
+Hypernatremia: corrected with free water drinking and D5W via
+IV. Etiology unclear; perhaps hyperaldosterone state - please
+follow-up renin and aldosterone level tests, sent from UPMCE on
+the patient - or renal tubular acidosis are questionable.
+Encourage free water drinking/hydration.
+.
+Hypokalemia, hypomagnesemia: unclear etiology, perhaps due to
+alcohol or renal disease. Started daily PO potassium and daily
+PO magnesium, with regular electrolyte checks. Again, please
+follow-up on renin and aldosterone level tests on this patient,
+sent out from UPMCE laboratory.
+.
+Hypocalcemia - Pt had transient hypocalcemia raising question of
+hypoPTH or pseudohypoPTH, however PTH level wnl and hypocalcemia
+resolved with re123 Any St.n.
+.
+OUTSTANDING LABS:  renin, aldosterone, drawn 2008-08-26 00:00:00 at UPMCE
+
+Medications on Admission:
+AMLODIPINE - 5 mg daily
+FLUCONAZOLE - 400 mg daily
+FOLIC ACID - 1 mg daily
+HYDRALAZINE - 25 mg Tablet Q 6 hrs
+HYDROCHLOROTHIAZIDE - 25 mg daily
+IBUPROFEN - 800 mg Tablet - Q 8 hours
+INSULIN GLARGINE - 100 unit/mL Solution - 18 units qAM to 45
+units qPM
+LIDOCAINE - 5 % (700 mg/patch) Adhesive Patch, daily
+LISINOPRIL - 40 mg daily
+METOPROLOL TARTRATE - 50 mg Tablet Q12
+OMEPRAZOLE 20mg Q12
+VANCOMYCIN - 250 mg Capsule - Q 8 - stop 2008-08-26 00:00:00
+ZOLPIDEM 10 mg QHS
+VITAMIN D-3 - 2,000 unit Tablet - 50,000 IU weekly
+
+Discharge Medications:
+1. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours): The last day to take this medicine is 2008-08-26 00:00:00.
+2. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours).
+3. Petrolatum     Ointment Sig: One (1) Appl Topical UPMCE (2
+times a day) as needed for dry skin, such as forearm.
+4. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+injection Injection TID (3 times a day): Please continue until
+patient is ambulating regularly.
+5. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime)
+as needed for for sleep.
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Clonidine 0.2 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) for 1 days: Please give this dose for one day, 8/28/9, as
+we are tapering her down.
+8. Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+9. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+10. Potassium Chloride 20 mEq Packet Sig: Two (2)  PO DAILY
+(Daily).
+11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+13. Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. Sodium Chloride 0.9 % 0.9 % Parenteral Solution Sig: Ten
+(10) ML Intravenous PRN (as needed) as needed for line flush.
+15. Humalog 100 unit/mL Solution Sig: One (1)  Subcutaneous
+qachs: Please follow the attached sliding scale. Adjust as
+needed for control of blood sugar.
+16. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO three times a
+day for 1 days: Please give this dose for one day, on 2008-08-26 00:00:00/9, as
+we are tapering down her dose.
+17. Clonidine 0.1 mg Tablet Sig: 0.5 Tablet PO three times a day
+for 1 days: Please give this dose on 2008-08-26 00:00:00, as we are tapering
+down this medicine. This will be the final day of treatment with
+clonidine.
+18. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) patch Topical once a day as needed for pain: Please
+apply for maximum of 12 hours out of a 24 hour period.
+19. Outpatient Lab Work
+Please check chemistry 7, calcium, magnesium, phosphate, on
+Friday 2008-08-26 00:00:00, and adjust re[** Location **]n of electrolytes as
+necessary.
+20. Outpatient Lab Work
+Please follow-up outstanding renin and aldosterone levels,
+ordered from UPMCE, on this patient.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. manor Extended Care facility
+
+Discharge Diagnosis:
+C.difficile colitis
+Acute Renal Failure
+Knee fungal (Abdalrahman Gill) septic arthritis and osteomyelitis
+Hypoxic respiratory failure
+Metabolic acidosis
+Hypokalemia
+Hypernatremia
+Hypocalcemia
+Hypomagnesemia
+Diabetes, insulin-dependent
+Hypertension
+
+
+Discharge Condition:
+Afebrile, diarrhea resolved, creatinine improved, knee pain at
+baseline, ambulating with assistance and walker. Feels eager to
+leave hospital.
+
+
+Discharge Instructions:
+You were admitted to the hospital with diarrhea due to a
+bacteria called c.difficile. Because of the dehydration due to
+the diarrhea, your kidneys were injured. As we rehydrated you,
+and treated your diarrhea with an antibiotic called vanocmycin,
+your diarrhea went away and your kidney function improved back
+to approximately your baseline. We continued you on the
+antibiotics you were on for your right knee infection
+(fluconazole) - the infectious disease team saw you and
+recommended that you continue on that antibiotic for between
+6-12 months; they will explain the specific course to you when
+you go to your next appointment with them. For your knee pain,
+physical therapy saw you and recommended that you go to rehab.
+Your breathing was initially dificult so you were on oxygen, but
+as that improved you were weaned down to room air. Your
+potassium and magnesium levels were frequently found to be low,
+so we started you on pills for those. Your sodium was frequently
+high, so we encourage you to drink water to stay hydrated.
+.
+Please call your doctor or return to the hospital if you develop
+a fever >100.4, chest pain, shortness of breath, abdominal pain,
+re--occurrence of diarrhea, worsening right knee pain, or other
+symptoms that concern you.
+.
+Please continue the oral fluconazole antibiotic (to treat your
+knee infection) daily until you see the infectious disease
+doctor, Dr. Gill, and then you will still continue that
+medicine for 6-12 months.
+.
+Please continue to avoid drinking alcohol.
+.
+We have changed your blood pressure medication regimen so that
+now you are taking the following medications:
+-clonidine
+-amlodipine
+-toprol XL
+
+Followup Instructions:
+Provider: [**First Name4 (NamePattern1) 6023**] Gill, MD (Orthopedics) - Phone:test@mail.com
+Date/Time:2008-08-26 00:00:00 11:30
+.
+Provider: Abdalrahman Gill XRAY (SCC 2) Phone:test@mail.com
+Date/Time:2008-08-26 00:00:00 11:10
+.
+Provider: Abdalrahman Gill, MD (Infectious disease).
+Phone:test@mail.com Date/Time:2008-08-26 00:00:00 9:30
+.
+Transthoracic echocardiogram. Date and time: 2008-08-26 00:00:00 at
+11am. Location: 123 Any St., 123 Any St.. Phone number: test@mail.com
+
+
+
+Completed by:2008-08-26 00:00:00

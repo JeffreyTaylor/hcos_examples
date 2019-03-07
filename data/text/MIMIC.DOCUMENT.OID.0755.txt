@@ -1,0 +1,218 @@
+Admission Date:  2009-04-09 00:00:00              Discharge Date:   2009-04-09 00:00:00
+
+Date of Birth: 1925-04-09 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Alwood Kachelmeier
+Chief Complaint:
+seizure
+
+Major Surgical or Invasive Procedure:
+intubation
+
+History of Present Illness:
+Patient is a 42 year-old male with past medical history
+significant for alcoholism and depression. Patient presented to
+ED earlier this evening complaining of having fell off of a pole
+and fell backwards 123 Any St.in 123 Any St.. He had a scalp
+laceration which was not initially able to be repaired due to
+c-spine precautions. The patient had a head CT which was
+negative for any intracranial bleeds. CT neck also negative for
+any fractures.
+
+In the ED, initial vs were: T P 88, BP 89/58, RR 14 and O2 sat
+100% RA.  While in the ED the patient appeared anxious and
+confused initially. ETOH level was 105 and the rest of
+toxicology screen was negative.
+.
+In the ED he then had a witnessed apneic episode and then went
+unresponsive for a few seconds per ED resdient but he had a
+palpable pulse and blood pressures remained stable. During this
+episode he had dropping oxygen saturations (drop not recorded)
+and he was clinching his jaw to the point where he chipped his
+tooth. Patient then went into rapid bilateral upper extremity
+myoclonic jerking followed by partial proning of his arms
+bilaterally. He was given Ativan 2mg IV x2, then 5mg IV Ativan,
+then 6mg IV Ativan, followed by 7mg IV Ativan in ED.
+.
+Minutes later he developed SVT to 200 range which appeared to be
+atrial fibrillation vs. flutter per ED resident. He was
+intubated rapidly and then cardioverted in the ED with good
+response as HR returned to NSR with rate in 70-90 range.
+.
+EKG was significant for borderline long QRS at .122 as well.
+Toxicology was called and suggested patient be given bicarbonate
+fluid to cover for possible TCA overdose given EKG findings.
+While in ED he was given tetanus shot given new scalp
+laceration, 3L NS IVFs and then 3Amps bicarbonate were given in
+D5. He also got 1g IV Dilantin load and he was placed on
+Propofol and a Versed drip started after intubation.
+.
+On arrival to the MICU patient was intubated and sedated. He was
+on AC mode with Tv 600 x RR 16, FiO2 40% and PEEP 5. HR was 90,
+BP 132/88 and patient was afebrile. He had dry dressings packed
+over right sided head laceration and he was in a c-spine collar.
+
+
+
+Past Medical History:
+-alcoholism
+-depression
+
+Social History:
+Unable to obtain as intubated, sedated
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: AC mode with Tv 600 x RR 16, FiO2 40% and PEEP 5.
+saturations 100%. HR 90, BP 132/88, Temp 99.9 F.
+General: sedated, intubated, pale skin, very warm
+HEENT: Sclera anicteric, MMM, oropharynx with some evidence of
+dried blood over right buccal mucosa
+Skin: pale skin, scalp with right posterior laceration, crusted
+dry blood over hair, about 1" superficial
+Neck: supple, JVP not elevated, no LAD, in a c-spine collar
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+unable to assess guarding, no organomegaly noted
+GU: foley in place, draining yellow fluid
+Ext: warm, well perfused, 2+ pulses over upper/lower ext, no
+clubbing, cyanosis or edema
+Neuro : deferred as patiet intubated but PERRLA
+
+Pertinent Results:
+CT neck: no evidence of any fractures
+CT head: 123 Any St. with no acute ICP
+.
+EKG: sinus tachycardia to 150s,  RBBB, QRS 122; QTc 423
+
+Brief Hospital Course:
+42yo male with past medical history of alcoholism and depression
+who had recent fall and is now status post seizure with
+associated hypoxia and SVT episode in ED.
+.
+#) Alcohol intoxication with withdrawal syndrome: per patient's
+report, last drink was on 123 Any St. 2009-04-09 00:00:00 and he consumed 1.5 pints
+of vodka. He had a seizure that was though to be multifactorial
+in the ER but denied any prior episodes of visual hallucinations
+in the context of Etoh withdrawal. Patient was initially
+intubated and managed in the ICU, in the setting of concern
+about protecting his airway during the seizure in the ER.  He
+was started on CIWA scale in the ICU and was extubated within 24
+hours.  After extubation his vital signs remained stable and he
+was able to be weaned to q3h CIWA's so he was transferred to the
+floor.  On the floor he was able to be weaned to q4h CIWA's, and
+watched until he was out of the danger zone for another seizure.
+ He had social work consult for help with outpatient alcohol
+abuse programs and maintained on a multivitamin, thiamine and
+folate.
+.
+#) Seizure: Patient initially presented to the ER s/p a fall,
+but then had a witnessed seizure in the ER thought to be due to
+ETOH withdrawal in combination with wellbutrin use which lowered
+his seizure threshold. Patient was initially dilantin loaded in
+the ER and neurology was consulted.  An EEG was done with no
+evidence of seizure activity, so dilantin was discontinued as
+per neurology recommendations.
+.
+#) Supraventricular tachycardia: EKGs and telemetry in ED
+consistent with rapid SVT to 280 at peak with etiology possibly
+atrial fibrillation/flutter or AVNRT as some of the tracings
+appear more regular vs. irregular.  He was cardioverted in the
+ER with no further episodes during his hospital stay.  His
+troponins remained flat, his CK was elevated but in the setting
+of his fall, was thought to be due to possible rhabdomyolysis.
+.
+#) Elevated CK: patient with CK elevated to around 1000, given
+recent fall concerning for possible rhabdomyolysis. He was
+continued on IVF hydration to help prevent kidney damage, and
+his CK's trended down.
+.
+#) Depression/anxiety: patient has been followed by a
+psychiatrist in Babbitt, [**First Name3 (LF) **] continue to hold home wellbutrin
+given concern about seizure threshold.  Neurology team contactAnnabellee Babbitt
+patient's psychiatrist to discuss concerns about wellbutrin, and
+his wellbutrin was not restarted.  At the time of discharge he
+had outpatient follow up with his psychiatrist.
+
+
+Medications on Admission:
+Medications: Confirmed per last fill at pharmacy
+CVS 123 Any St., 123 Any St. - (test@mail.com
+Last filled 2009-04-09 00:00:00
+gabapentin 800mg UPMCE
+alprazolam 0.5 UPMCE prn anxiety (#30)
+tylenol codeine 2 Q4-6hr prn pain (#50)
+buproprion XL 300mg daily
+.
+prior: lexapro 20mg (last filled 2009-04-09 00:00:00)
+celexa 60mg daily (last filled in spring 2009-04-09 00:00:00)
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+1. Alcohol Withdrawal
+2. Fall
+3. Seizure
+4. Depression/Anxiety
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr. Babbitt, it was a pleasure caring for you during your stay at
+UPMCE.  You were admitted after you had a fall Babbitt.  In the ER you were witnessed having a seizure and then
+went into a fast heart rhythm that required your heart to be
+shocked to stop, during this time you were intbuated and
+transferred to our intensive care unit.  The next morning you
+were able to be extubated and transferred to the medicine floor,
+we monitored you on the medicine floor for signs of alcohol
+withdrawal.  After you were out of the danger period for
+withdrawal we felt you were medically stable for discharge.
+During your stay we also made some changes to your psychiatric
+medication regimen, due to concern about some the medications
+contributing to your seizure.  The most important thing you
+could do to help keep yourself safe, and benefit your health
+would be to stop drinking alcohol.  Please consider following up
+with one of the outpatient program options given to you by the
+social workers from the hospital.  Please make sure you drink
+plenty of fluids after you leave the hospital.
+.
+Changes made to your medication regimen:
+1. STOPPED Wellbutrin 300mg daily
+2. STOPPED Alprazolam 0.5mg prn anxiety
+3. DECREASED Seroquel dose to 50mg at night as needed for
+anxiety/insomnia
+4. STARTED Folic Acid 1mg daily
+5. STARTED Multivitamin 1 tablet daily
+6. STARTED Thiamine 100mg daily
+
+Followup Instructions:
+Psychiatry:
+Dr. Alwood Kachelmeier Babbitt
+Babbitt, 2009-04-09 00:00:00 at 1pm
+.
+Please call 1-test@mail.com to talk with your insurance company
+about what plan you have. Then once you have the policy number
+please call test@mail.com to book an appointment. You are all
+registered through UPMCE and they will book the appointment for
+you within 2 weeks. They just want to make sure you have active
+insurance so you Babbitt stuck with Alwood Kachelmeier Babbitt for the appointment.
+
+
+

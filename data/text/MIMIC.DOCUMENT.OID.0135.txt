@@ -1,0 +1,437 @@
+Admission Date:  2009-09-13 00:00:00              Discharge Date:   2009-09-13 00:00:00
+
+Date of Birth: 1999-10-03 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Quinolones / Cefazolin
+
+Attending:Danziel Bidot
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+CVVH
+Hemodialysis
+Tunneled HD catheter placement
+
+History of Present Illness:
+84 yo m hx of CHF EF of 40% who was transfered form rehab due to
+worsening of SOB and ARF.  He was recetly admitted from
+2009-09-13 00:00:00 and discharge to rehab. He was on lasix 80mg UPMCE, then
+2 days ago, lasix was adjusted to 80mg AM and 40mg PM. Per rehab
+his Cr has been trendeding up and his dypsnea has been
+worsening. At discharge his Cr was 0.9, then 1.1 and now 2.2
+today. UO has been decreased per pt. Wt gains of 2 lbs over last
+few days.
+.
+During his last hopsitalization he was treated for a sternal
+wound infection from his CABG on 2009-09-13 00:00:00. On 2009-09-13 00:00:00 he had a
+debridement and wound closer, with pacer lead removal on 2009-09-13 00:00:00.
+Epicardial leads were paritally removed. Old PPM remained in
+place. He also had a flap closure. Culture of his infeciton
+showed MSSA. He developed AIN, so his antibiotics were changed
+to vancomycin. He will be on lifelong sup123 Any St.e therapy after
+his regiment of IV therapy. Hardware in the sternum is in place.
+His stay was complicated by CHF and ARF from diuresis, later
+this improved to a Cr of 0.9 and he was sent to rehab.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, cough, hemoptysis, black stools or
+red stools. Denies recent fevers, chills or rigors. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+palpitations, syncope or presyncope.
+.
+In the ED, initial vitals were 96.8 67 128/58 20 94% 3L NC. Pt
+was given 250mg IVF over 2 hours. Pt's oxygen was increased to
+4L. On transfer temp 97.9 67 120/45 18 96% 4 liters. CXR with
+pulm edema. Pt admitted to UPMCE.
+.
+
+Past Medical History:
+-Coronary Artery Disease, s/p CABG (see below)
+-Hypertension
+-Hyperlipidemia
+-s/p St. Annicka Leffler PPM for Third degree heart block 2009-09-13 00:00:00
+-Arthritis
+-Sleep apnea noted after administration of narcotics
+-Diverticulitis s/p Left hemicolectomy 2009-09-13 00:00:00
+-s/p Back surgery 2009-09-13 00:00:00
+-s/p Appendectomy
+-s/p Tonsillectomy
+-2009-09-13 00:00:00 Sternal debridement, closure of the sternal wound
+dehiscence with four Synthes plates, bilateral pectoralis
+musculocutaneous advancement flap.
+-ARF due to questionable AIN due to cephalosporin or
+hemodynamically mediated ARF, in 2009-09-13 00:00:00
+
+Social History:
+-Tobacco history: quit 25 yo ago
+-ETOH: 1 pint a day until CABG in 2009-09-13 00:00:00
+-Illicit drugs: none
+Lived with wife before going to rehab, now using a walker
+
+Family History:
+Noncontributory
+
+Physical Exam:
+GENERAL: Some tachypea with talking, otherwise NAD. Oriented x3.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP at his chin while sitting at 45 degrees
+CARDIAC: Difficult to hear cardiac sounds, no murmur, sternal
+wound dressing in place small drainage
+LUNGS: Resp were slightly labored, pursed lip breathing, able to
+speak full sentences, no accessory muscle use. soft breath
+sounds, crackles half way up.
+ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+
+EXTREMITIES: No c/c. 2+ edema to the knees.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: 2+ radial, 2+ PT
+
+Pertient Discharge Physical Exam:
+General: NAD, Leffler
+HEENT: NCAT, Slcera anicteric.
+Neck: Supple
+Res: Clear to ascultation posteriorly on the R, with decreased
+breath sounds at the left base.
+Chest: Sternal Wound: c/i, tunnel catheter in place with no
+erythema or tenderness.  Suture in place.
+
+
+Pertinent Results:
+Pertinent Labs:
+.
+2009-09-13 00:00:00 04:40PM BLOOD WBC-9.2 RBC-2.99* Hgb-8.8* Hct-27.3*
+MCV-92 MCH-29.5 MCHC-32.2 RDW-16.1* Plt Ct-300
+2009-09-13 00:00:00 06:08AM BLOOD PT-13.5* PTT-31.5 INR(PT)-1.1
+2009-09-13 00:00:00 04:40PM BLOOD Glucose-99 UreaN-46* Creat-2.1* Na-137
+K-5.7* Cl-98 HCO3-35* AnGap-10
+2009-09-13 00:00:00 04:40PM BLOOD Albumin-3.0* Calcium-8.8 Phos-4.9* Mg-2.3
+2009-09-13 00:00:00 06:08AM BLOOD Vanco-18.1
+2009-09-13 00:00:00 05:15AM BLOOD Vanco-28.0*
+.
+2009-09-13 00:00:00 CXR:
+Studies:
+The patient's sternotomy fixators are unchanged in appearance.
+The pacemakerleads are unchanged in appearance as well. The
+temporary pacemaker leads projecting at the expected location of
+the left epicardium are unchanged as well. Left PICC line tip is
+obscured by the pacemaker but is most likely not extending
+beyond the junction of the axillary vein and the subclavian
+vein. Bilateral pleural effusions have slightly improved.
+Bibasilar atelectases are unchanged.
+.
+2009-09-13 00:00:00 LENIs:
+IMPRESSION: No evidence of deep vein thrombosis in the right
+leg.
+
+2009-09-13 00:00:00 CXR
+Portable chest is compared to multiple prior examinations.
+Sternal plates,
+dual-lead pacer is present. Mild-to-moderate congestive failure,
+new from
+prior study from 2009-09-13 00:00:00. Right IJ Cordis terminates in the
+superior vena cava. No pneumothorax.
+
+ECHO 2009-09-13 00:00:00: EF 30-35%. Suboptimal image quality. Regional left
+ventricular systolic dysfunction c/w multivessel CAD. Pulmonary
+artery systolic hypertension. Severe tricuspid regurgitation.
+Mild-moderate mitral regurgitation. Compared with the prior
+study (images reviewed) of 2009-09-13 00:00:00, regional left ventricular
+systolic dysfunction appears to be more extensive, and the
+severity of mitral regurgitation, tricuspid regurgitaiton, and
+PA systolic pressure are all increased.
+
+2009-09-13 00:00:00 AP-L & Decubitus CXR
+The decubitus images in both the left position show moderate
+bilateral pleural effusions. The right effusion is minimally
+more extensive than the left effusion. With respect to the
+sternal fixations, the size of the cardiac silhouette and the
+aspect of the lung parenchyma, today's images
+provide no new information.
+
+2009-09-13 00:00:00 Tunneled Catheter
+IMPRESSION: Uncomplicated placement of a tunneled hemodialysis
+catheter
+through the right internal jugular venous approach. The line is
+ready for
+use.
+
+2009-09-13 00:00:00 CXR: Summarized: Effusion on the Left, and decreased/absent
+Pleural Effusion on the R.  For a full report, please see
+Radiology note.
+
+Discharge Labs:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+2009-09-13 00:00:00 06:31    9.5 3.24* 9.4* 28.9* 89 29.2 32.7 15.9* 335
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+2009-09-13 00:00:00 06:31    101*1 46* 3.2* 136 3.8 100 28 12
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+2009-09-13 00:00:00 06:31          9.0 3.6 2.0
+
+
+Brief Hospital Course:
+84 yoM with hx of CAD s/p recent CABG c/b sternal wound MSSA
+infection, CHF and ARF, now presenting with dyspnea and Leffler.
+.
+Active Issues Upon Discharge:
+# Leffler: Thought to be multifactorial, with the underlying
+123 Any St.itant AIN secondary to the significant nephrotoxic
+antibiotic load the patient received for MSSA treatment;
+decreased effective circulatory volume due to CHF decompensation
+was likely to also be a contributor to pre-renal
+pathophysiology. On presentation, the patient was hyperkalemic,
+prompting the administration of Kayexalate, which normalized his
+potassium. Following consultation with Infectious Disease and
+Nephrology, IV vancomycin was stopped during the 6th of 8 weeks
+of treatment; at this time, the patient's vancomycin trough was
+supratherapeutic. To optimize volume status and forward flow,
+CVVH was started and continued until the patient was net -10L;
+the patient's home acetazolamide and furosemide were held.
+Hemodialysis was started and patient remained oliguric after two
+sessions. As a result, a tunneled hemodialysis catheter was
+placed and patient was set up for outpatient hemodialysis.
+Of note, he has made minimal urine during his hospital stay.
+His largest urine output was 250 cc.  However, the day before
+discharge he had no urine output.
+- Leave R side suture above catheter in place until 2009-09-13 00:00:00.
+- Dialysis as an outpatient.  Last dialysis 2009-09-13 00:00:00.
+.
+# Dyspnea: The patient was admitted with worsening heart failure
+symptoms with the most recent echo showing an EF of 40-45% in
+the setting of known COPD. Diuresis was initially attempted with
+IV Lasix and drip, but the patient was eventually transitioned
+to CVVH and diuresed aggressively with subsequent improvement of
+his clinical exam and symptoms; he remained rate controlled with
+metoprolol 50 mg TID (decreased from admission dose) and ACEi
+was held in the setting of Leffler but started upon discharge.
+During the hospitalization, he was kept on a COPD regimen of
+Guaifenesin, ipratropium / albuterol nebs, and fluticasone. CXR
+upon discharged showed L pleural effusion, with decreased/absent
+R pleural effusion.  He has good ambulatory saturation and will
+require continued HD.  It is expected that his left pleural
+effusion will decrease with continued HD.
+- HD as above
+.
+# MSSA Sternal wound infection: Infectious Disease was
+consulted; their recommendations were to stop IV Vancomycin on
+week 6 of 8 of therapy and to start Doxycycline Hyclate 100 mg
+PO Q12H PO (d1 2009-09-13 00:00:00) for chronic suppressive therapy given his
+indwelling hardware. Plastic Surgery was consulted for serous
+wound drainage; their impression was that the wound was not
+infected and recommended to continue wound care and suppressive
+therapy without further changes. Patient will follow up with
+Plastics as an outpatient.
+- Continue Doxycycline (requires life long suppressive therapy)
+.
+# Anxiety: Patient become anxious at night, and states that he
+has fears regarding his estate planning and continued medical
+management.  He was not given any benzodiazepines secondary to
+his history of hypercapnia.  He was started on low dose
+olanzapine.
+- Continue olanzapine 2.5 mg
+- Please do not give benzodiazepines
+.
+Inactive Issues Upon Discharge:
+# Hypercapnia / Hypoxia: COPD = chronic retainer. Serial ABGs
+reassuring for decreased CO2, but O2 in 50s. Respiratory drive
+hypoxia driven. Normalized during hospitalization.
+- Please avoid central acting pain medications
+- Please avoid benzodiazepines
+.
+#Chronic Systolic Heart Failure: EF 30-35%, and mitral
+regurgitation, tricuspid regurgitaiton, and elevated PA systolic
+pressures.
+- Continue Metoprolol Succinate 100 mg daily
+- Continue Lisinopril 2.5 mg Daily
+.
+# CAD:
+- Continue Atorvastatin 10 mg PO/NG DAILY
+- Continue Aspirin 325 mg PO/NG DAILY
+.
+# AMS Change: Toxic metabolic delirium; hypoxia unlikely because
+AMS predated hypoxia. Likely multifactorial (low threshold given
+age, azotemia, ICU setting.) Resolved prior to discharge.
+.
+# Anemia: Stable during admission ~27. Normocytic.
+.
+# R LE swelling: Likely secondary to CHF; LENIs negative.
+.
+# Poor nutrition: A nutrition consult was placed. Albumin
+returned at 3. Speech and swallow cleared him for full solids
+and thin liquids.
+.
+# The patient remained full code during this admission.
+
+Medications on Admission:
+Atorvastatin 10 mg PO DAILY
+-Docusate Sodium 100 mg PO BID
+-Vancomycin in D5W 1 gram/200 mL. End date 2009-09-13 00:00:00.
+-Oxycodone 5 mg Tablet PO Q6H prn
+-Acetaminophen 1000 mg Tablet PO TID prn
+-Aspirin 325 mg Tablet PO DAILY
+-Metoprolol Tartrate 75 mg PO TID
+-Cholecalciferol 1000 unit PO DAILY
+-Calcium Carb 500mg UPMCE
+-Senna 17 mg Tablet PO HS and 8.6mg prn
+-MV 1 tab PO DAILY
+-Magnesium Hydroxide 400 mg/5 mL Suspension PO Q6H prn
+-Guaifenesin 100 mg/5 mL 5-10 MLs PO Q6H prn
+-Trazodone 50 mg PO HS prn
+-Sodium Chloride 0.65 % Aerosol, 2009-09-13 00:00:00 Sprays Nasal TID prn
+-Clonazepam 0.5 mg PO BID scheduled and HS prn Anxiety.
+-Fluticasone 50 mcg/Actuation Spray UPMCE
+-Morphine 15 mg Tablet PO QHS HS prn SOB.
+-Morphine concentrated solution 4mg Q3H prn sob SL
+-Furosemide 80 mg PO BID, changed to 80AM and 40PM 2 days ago
+-DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution Q4H
+-Albuterol neb Q4H prn SOB
+-Bowel meds prn
+.
+
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain.
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Cholecalciferol (Vitamin D3) 1,000 unit Tablet Sig: One (1)
+Tablet PO once a day.
+6. Calcium Carbonate 200 mg (500 mg) Tablet, Chewable Sig: One
+(1) Tablet, Chewable PO BID (2 times a day).
+7. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as
+needed for constipation.
+8. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for constipation.
+10. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed for cough.
+11. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insominia.
+12. Sodium Chloride 0.65 % Aerosol, Spray Sig: 2009-09-13 00:00:00 Sprays Nasal
+QID (4 times a day) as needed for dry nose.
+13. DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for
+Nebulization Sig: 2009-09-13 00:00:00 puff Inhalation every four (4) hours as
+needed for shortness of breath or wheezing.
+14. Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO
+Q12H (every 12 hours).
+Disp:*60 Capsule(s)* Refills:*0*
+15. Albuterol Sulfate 0.63 mg/3 mL Solution for Nebulization
+Sig: One (1)  Inhalation every four (4) hours as needed for
+shortness of breath or wheezing.
+16. metoprolol succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+17. olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+18. lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day:
+ONLY TAKE ON DAYS THAT YOU DO NOT RECEIVE HEMODIALYSIS.
+Disp:*30 Tablet(s)* Refills:*0*
+19. Lidoderm 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) patch Topical once a day as needed for pain: pain at
+tunnelled site, please do not place over site or dressing.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+Primary:
+Acute on chronic Diastolic congestive Heart failure exacerbation
+Acute kidney injury
+.
+Secondary:
+Coronary artery disease
+Hypertension
+dyslipidemia
+Pacemaker for complete heart block
+s/p recent sternal wound infection
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Mr Leffler,
+It was a pleasure caring for you at UPMCE. You were admitted for worsening shortness of
+breath and also for decreasing kidney function. We helped remove
+fluid using medications and different types of dialysis.
+Unfortunately, your kidneys did not completely recover function
+and so we placed a hemodialysis catheter so that you can have
+hemodialysis as an outpatient.
+.
+Also while you were here, we started your antibiotic Doxycycline
+for your past chest wound infection. You will be on this
+indefinitely to prevent further infections.
+.
+We made the following changes to your medications:
+STOPPED Vancomycin and STARTED Doxycycline 100 mg twice daily
+STOPPED Metoprolol 75 mg three times daily and STARTED Toprol XL
+100 mg daily.
+STOPPED Lasix.
+STARTED Lisinopril 2.5 mg daily (only take on days that you are
+not going to hemodialysis.)
+STOPPED Clonazepam and STARTED Olanzapine 2.5 mg daily. You were
+confused with clonazepam type medicine so we have discontinued
+them.
+STOPPED Fluticasone spray per your request
+.
+Your follow-up appointments are listed below.
+.
+Please also weigh yourself every morning before dialysis.
+
+Followup Instructions:
+HEMODIALYSIS: every Tues/Thurs/Sat
+.
+Dr. Danziel Bidot
+Location: UPMCE Plastic Surgery P.C.
+123 Any St., STE 210
+123 Any St., [**Numeric Identifier 1410**]
+Phone: (test@mail.com
+2009-09-13 00:00:00 at 4:15 PM
+.
+Department: INFECTIOUS DISEASE
+When: FRIDAY 2009-09-13 00:00:00 at 10:30 AM
+With: Annicka Leffler Annicka Leffler, MD test@mail.com
+Building: LM UPMCE Bldg (Leffler) Basement
+Campus: WEST     Best Parking: UPMCE Garage
+.
+Department: CARDIAC SERVICES
+When: Please call on Friday 2009-09-13 00:00:00 for appt at number below
+With: Danziel Bidot, M.D. test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: CARDIAC SERVICES
+When: FRIDAY 2009-09-13 00:00:00 at 3:30 AM
+With:  DEVICE CLINIC test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: CARDIAC SERVICES
+When: FRIDAY 2009-09-13 00:00:00 at 4:00 PM
+With: Danziel Bidot, M.D. test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+
+Completed by:2009-09-13 00:00:00

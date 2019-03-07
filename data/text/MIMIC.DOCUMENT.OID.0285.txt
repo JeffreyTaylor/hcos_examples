@@ -1,0 +1,176 @@
+Admission Date:  2008-07-31 00:00:00              Discharge Date:   2008-07-31 00:00:00
+
+Date of Birth: 1955-07-31 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Ajmal Banat
+Chief Complaint:
+change in mental status at home
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Pt is a 80m who was transfered from OSH after he was found to
+have a large acute right sided SDH with 10mm of midline shift.
+Pt was a MVA on Tuesday and was seen at UPMCE hospital with a
+negative workup.  Tonight pt was found on the floor next to his
+chair at home and EMS was called.Pt had been complaining of some
+dizziness after his MVA and did have one episode of vomiting.
+Upon EMS arrival pt was reported to be awake and oriented to
+self only. He appeared drowsy but answered simple questions
+appropriately. Pt was taken to OSH where CT head ultimately
+found a subdural hematoma. Pt was then intubated for airway
+protection and to UPMCE for further care.
+
+Past Medical History:
+Breast cancer, High cholesterol, GERD, peripheral neuropathy,
+Type II DM
+
+Social History:
+married, children
+
+Family History:
+nc
+
+Physical Exam:
+T: 97.4 BP: 121/67   HR:81  R 16  O2Sats 100%
+Intubated and sedated.
+HEENT: Pupils: 2.5-2.0 bilateral EOMs unable to evaluate
+
+Neuro:
+
+Mental status: Intubated and sedated. Will follow simple
+commands
+in all four extremities appears to be moving symmetrically
+
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light,2.5 to 2.0
+mm bilaterally.
+VII: Face appears symetric.
+VIII: Hearing intact to voice.
+
+Motor: Moving all extremities equally and symetrically.
+Sensation: Intact to light touch
+
+Pertinent Results:
+CT head shows large R sided acute SDH with maximal
+thickness 1.5cm and 7mm midline shift.
+
+Labs: Na 142 K 4.5 WBC 11.8 HCT 31.2 PLT 273 INR 1.2 PTT 20.4
+
+
+Brief Hospital Course:
+Pt was admitted to the ICU for close monitoring.  He was given a
+loading dose of fosphenytoin.  He was following commands and was
+able to be extubated.  Repeat CT should stable appearance.  He
+continued to be monitored closely. It was noted that he was
+unable to speak on 2008-07-31 00:00:00, but given that there were no other
+lateralizing symptoms or signs the decision was made that he
+would be monitored closely.  His symptoms improved over the
+course of 2008-07-31 00:00:00 and 2008-07-31 00:00:00 and he was not taken to the OR.  He
+continued to have word-finding difficulty, but he was able to
+respond to most questions with obvious comprehension.  On 2008-07-31 00:00:00 R
+wrist pain and swelling was noted and he was found to have a
+wrist fracture, which was casted by ortho.  On 2008-07-31 00:00:00 he developed
+an erythematous rash over his lower back and flank and he was
+transitioned from dilantin to keppra for seizure prophylaxis.
+His exam continued to improved. He complained of posterior neck
+pain on 2008-07-31 00:00:00 - CT of c-spine done which showed degenerative
+changes but no acute fracture. He was evaluated by PT/OT and
+felt suitable for rehab. Upon discharge he was alert and
+oriented x3, only very minimally word finding issues, full
+motors, no pronator drift following commands.
+
+Medications on Admission:
+Gemfibrozil 600 twice daily,Tamoxifen 20mg daily, Protonix 40mg
+daily, MVI 1 tab daily,Zolpedin 10mg qhs, Metformin unknown dose
+and spiriva unknown
+dose.
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+3. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+5. Tamoxifen 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+8. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+9. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day).
+10. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+11. Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge
+Mucous membrane PRN (as needed) as needed for sore throat.
+12. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for rash.
+13. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR (AS DIRECTED).
+14. Levetiracetam 500 mg Tablet Sig: 1.5 Tablets PO BID (2 times
+a day).
+15. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours) as needed for pain.
+16. Oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q4H (every 4 hours)
+as needed for pain.
+17. Baclofen 10 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day)
+as needed for muscle spasm/stiffness.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Rehabilitation Hospital, Rehab Unit at
+123 Any St.
+
+Discharge Diagnosis:
+Acute right subdural hematoma
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+Discharge Instructions:
+??????	Take your pain medicine as prescribed.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace)
+while taking narcotic pain medication.
+??????	Do not take any anti-inflammatory medicines such as Motrin,
+Aspirin, Advil, or Ibuprofen etc. until seen in follow up.
+??????	You have been prescribed Dilantin (Phenytoin) for anti-seizure
+medicine, take it as prescribed and follow up with laboratory
+blood drawing in one week.  This can be drawn at your PCP??????s
+office, but please have the results faxed to test@mail.com.
+
+Followup Instructions:
+??????Please call (test@mail.com to schedule an appointment with Dr.
+Dogan to be seen in 4 weeks.
+??????You will need a CT scan of the brain without contrast prior to
+your appointment. This can be scheduled when you call to make
+your office visit appointment.
+
+
+
+Completed by:2008-07-31 00:00:00

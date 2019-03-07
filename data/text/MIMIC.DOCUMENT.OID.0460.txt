@@ -1,0 +1,519 @@
+Admission Date:  2006-09-07 00:00:00              Discharge Date:   2006-09-07 00:00:00
+
+Date of Birth: 1967-09-03 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Benjimin Enerio
+Chief Complaint:
+CC:test@mail.com
+
+Major Surgical or Invasive Procedure:
+s/p anterior cervical discectomy C2-C3
+
+
+History of Present Illness:
+HPI: 65M was outdoors cutting tree branch when 700# branch hit
+him on the head. He was found upside down in his harness with
+the
+branch on the ground. Found to have L occipital laceration that
+was stapled at OSH. GCS 15. Transferred to UPMCE for further
+evaluation.
+
+
+Past Medical History:
+htn
+
+Social History:
+lives alone
+ex wife lives on 123 Any St.
+
+Family History:
+unknown
+
+
+Physical Exam:
+On arrival
+PHYSICAL EXAM:
+afeb 68 145/70 22 96%
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: R 2.5->2mm, L 4->3.5mm, anisocoria from prior L
+eye injury according to pt, Cristaly Lalli, L occipital staples.
+Neck: Supple. No C-spine tenderness. No neck pain.
+Lungs: CTAB.
+Cardiac: RRR. nl S1/S2.
+Abd: +BS, S, NT/ND.
+Extrem: Warm and well-perfused. No cyanosis, clubbing, or edema.
+Neuro:
+Mental status: AA+Ox3, cooperative with exam, normal affect.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Anisocoric pupils, reactive to light.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+Benjimin Enerio: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements
+or
+tremors detected. Strength full power 2006-09-07 00:00:00 throughout. No
+pronator
+drift. No Babinski. No clonus.
+
+Sensation: Intact to light touch bilaterally.
+
+Reflexes: B T Br Pa Ac
+Right            2+ 2+
+Left             2+ 2+
+
+Toes downgoing bilaterally.
+
+currently on this day of discharge -
+pt is aaox3
+non focal neuro exam
+ambulatory
+pain controlled
+speech clear
+
+
+
+
+Pertinent Results:
+   RADIOLOGY   123 Any St.inary Report
+
+MR HEAD W & W/O CONTRAST  2006-09-07 00:00:00 3:44 PM
+
+MR HEAD W & W/O CONTRAST
+
+Reason: rule out infarct or underlying lesion
+Contrast: MAGNEVIST
+
+UNDERLYING MEDICAL CONDITION:
+65 year old man with hypodensity within the left cerebellum
+REASON FOR THIS EXAMINATION:
+rule out infarct or underlying lesion
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+MR HEAD
+
+HISTORY: 65-year-old man with left cerebellar hypodensity,
+assess for infarct or underlying lesion.
+
+TECHNIQUE: Multiplanar multisequence MR images of the head were
+obtained before and after the administration of IV gadolinium.
+
+FINDINGS: Comparison is made to prior head CT from 2006-09-07 00:00:00 and
+2006-09-07 00:00:00 as well as a prior MR of the cervical spine from
+2006-09-07 00:00:00.
+
+There is a small area of T2 hyperintensity with slow diffusion
+involving the left cerebellum corresponding to the hypodensity
+seen on CT scan. This finding likely represents an infarct.
+
+There is also a small area of T2 hyperintensity and slow
+diffusion involving the left inferior posterior temporal lobe
+just above the temporal bone which likely represents an area of
+contusion. Another small area of T2 hyperintensity with some
+minimal slow diffusion and enhancement is seen along the left
+lateral temporal lobe which also likely represents an area of
+contusion.
+
+Small bilateral subdural hematomas are seen over the temporal
+poles as well as a small subdural hematoma over the right
+frontal lobe. Tiny amount of blood within the occipital horns of
+the lateral ventricles are seen which is decreased in size
+compared to 2006-09-07 00:00:00.
+
+The 123 Any St.usly seen fluid-fluid level within the cisterna magna
+is not seen on this study.
+
+There is a minimal amount of deep and periventricular white
+matter T2 hyperintensities which likely represents chronic
+microangiopathic changes. The ventricles and extra-axial CSF
+spaces are unchanged in size or configuration.
+
+Mucosal thickening of the visualized paranasal sinuses are seen.
+
+IMPRESSION:
+1. Infarct of the left cerebellum corresponding to the
+hypodensity seen on CT scan.
+2. Few small contusions of the left temporal lobe.
+3. Small bilateral subdural hematomas and decreasing amount of
+blood within the occipital horns of the lateral ventricles.
+
+DR. Benjimin Enerio
+
+    RADIOLOGY  Final Report
+
+CT ORBIT, SELLA & IAC W/O CONTRAST  2006-09-07 00:00:00 4:22 PM
+
+CT ORBIT, SELLA & IAC W/O CONT
+
+Reason: further eval temporal bone fracture, temporal bone CT
+per EN
+
+UNDERLYING MEDICAL CONDITION:
+65 M s/p head trauma, c/o hearing loss
+REASON FOR THIS EXAMINATION:
+further eval temporal bone fracture, temporal bone CT per ENT
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+CT ORBIT.
+
+HISTORY: 65-year-old male with trauma complains of hearing loss.
+
+TECHNIQUE: CT of the temporal bones was performed with 1.25 mm
+axial and coronal and oblique sagittal reconstructions.
+
+FINDINGS: Comparison is made to a prior head CT from 2006-09-07 00:00:00 as
+well as a concurrent head MR.
+
+The scout images show a new anterior fixation and screws over C2
+and C3. There is overlying prevertebral soft tissue swelling,
+which likely represents post- surgical change.
+
+Again seen are multiple fractures of the right temporal bone
+with approximately 2-mm depression of the bony fragment. One of
+the fracture lines extends to the floor of the right middle
+cranial fossa but does not appear to extend into any of the
+skull base foramina or carotid canal. A nondisplaced fracture of
+the right zygomatic arch is again seen.
+
+No fractures extending into the mastoid air cells, middle ear
+cavities, inner ear structures are noted. The mastoid air cells
+and middle ear cavities are clear. There is no dislocation of
+the ossicles. The inner ear structures appear normal.
+
+Calcification of the carotid siphons is seen bilaterally.
+
+There is depression of the right nasal bone.
+
+Minimal mucosal thickening of the maxillary sinuses and the
+ethmoid air cells are seen bilaterally. There is moderate
+mucosal thickening of the sphenoid sinus. Incidental note is
+made of Onodi cells bilaterally with pneumatization of the optic
+struts.
+
+Several periapical lucencies around maxillary teeth are seen
+which may represent periodontal disease versus periapical
+inflammatory lesions.
+
+Note is again made of two small hemorrhagic contusions of the
+left temporal lobe and a small hypodensity of the left
+cerebellum. Small subdural hematomas of the overlying temporal
+lobes bilaterally are again seen.
+
+IMPRESSION: Again visualized is a minimally depressed fracture
+of the right temporal bone as well as a nondisplaced fracture of
+the right zygomatic arch.
+
+Two small left temporal lobe hemorrhagic contusions, infarct of
+the left cerebellum, and small bilateral subdural hematomas are
+again seen.
+
+The middle ear cavities and inner ear structures are intact.
+
+DR. Benjimin Enerio
+Approved: SUN 2006-09-07 00:00:00 2:23 PM
+
+
+
+   RADIOLOGY   123 Any St.inary Report
+
+CHEST (PA & LAT)  2006-09-07 00:00:00 9:47 AM
+
+CHEST (PA & LAT)
+
+Reason: eval for fever source
+
+UNDERLYING MEDICAL CONDITION:
+65M POD1 s/p ACDF C2-3, spiking to 103.7 no apparent source
+REASON FOR THIS EXAMINATION:
+eval for fever source
+HISTORY: 65-year-old male one day following spinal surgery with
+fever of 103.7.
+
+COMPARISON: None available.
+
+TWO VIEWS OF THE CHEST: Bilateral basilar atelectasis is likely
+a postoperative finding. Mild cardiomegaly may be suggestive of
+longstanding hypertension. No pneumothorax or effusion is
+identified. There is no focus of consolidation to suggest
+pneumonia.
+
+IMPRESSION: Bilateral basilar atelectasis, likely postoperative.
+
+DR. Benjimin Enerio Benjimin Enerio
+DR. Benjimin Enerio Lalli
+DR. Benjimin Enerio Lalli
+
+Cardiology Report ECG Study Date of 2006-09-07 00:00:00  11:56:32 PM
+
+
+Sinus rhythm. Left anterior fascicular block. Non-specific
+lateral ST-T wave
+changes. Compared to the 123 Any St.us tracing of 2006-09-07 00:00:00 no
+significant change.
+
+
+Read by: Lalli,[**First Name3 (LF) 2844**] K.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+88 198 90 366/415 43 -39 104
+
+
+
+RADIOLOGY  Final Report
+
+MR CERVICAL SPINE W/O CONTRAST  2006-09-07 00:00:00 11:52 PM
+
+MR CERVICAL SPINE W/O CONTRAST
+
+Reason: eval for ligamentous injury
+
+UNDERLYING MEDICAL CONDITION:
+65M s/p closed R temporal fx, pneumocephalus, epidural hematoma
+C2-3 w indentation of cord, ?C3 fx
+REASON FOR THIS EXAMINATION:
+eval for ligamentous injury
+MR CERVICAL SPINE
+
+HISTORY: 65-year-old male status post closed right temporal
+fracture with epidural hematoma at C2/3, question C3 fracture.
+Evaluate for ligamentous injury.
+
+TECHNIQUE: Sagittal T1, T2, STIR of the cervical spine extending
+from the skull base to the T1/2 level and axial T2 and GRE
+images extending from the mid C2 through the C7/T1 levels were
+obtained.
+
+FINDINGS: Comparison is made to CT of the cervical spine from
+2006-09-07 00:00:00 as well as a head CT from that same date.
+
+The alignment of the cervical spine is normal. There is no loss
+of vertebral body heights or intervertebral disc space heights.
+There is no prevertebral soft tissue swelling or edema. The
+visualized bone marrow signal is normal. There is no evidence of
+ligamentous disruption or injury.
+
+The visualized brainstem, cervical cord, and upper thoracic cord
+are normal in signal intensity and caliber.
+
+Within the cisterna magna, there is a fluid-fluid level
+consistent with layering hemorrhage. Along the left side of the
+spinal canal, there is a T1 and T2 intermediate signal intensity
+lesion with some blooming on the gradient echo images extending
+from the mid portion of C2 through the C3 levels and measuring
+approximately 3.3 x 0.9 cm in its greatest craniocaudal and AP
+dimensions. This finding most likely represents hemorrhage. This
+hemorrhage is distorting the left ventrolateral aspect of the
+adjacent cord. This hemorrhage appears to be located within the
+thecal sac as opposed to in the epidural space. This hemorrhage
+may be either subdural or subarachnoid in location.
+
+Within the superior left cerebellum is a small area of T2
+hyperintensity, which may represent an area of contusion.
+
+IMPRESSION:
+1. No evidence of ligamentous injury. No bone marrow edema or
+loss of vertebral body heights.
+2. Either left-sided subdural or subarachnoid hemorrhage
+extending from the C2 to the C3 level.
+3. Fluid-fluid level within the posterior fossa, which likely
+represents a subdural hematoma.
+4. Small T2 hyperintensity of the left superior cerebellum,
+which may represent an area of contusion.
+
+COMMENT: The above findings were discussed with the trauma team
+on 2006-09-07 00:00:00 at 11:00 a.m.
+
+DR. Benjimin Enerio
+Approved: WED 2006-09-07 00:00:00 11:10 AM
+
+
+
+
+   RADIOLOGY  Final Report
+
+CT HEAD W/O CONTRAST  2006-09-07 00:00:00 5:44 PM
+
+CT HEAD W/O CONTRAST
+
+Reason: please perform exam at 1700 on 2006-09-07 00:00:00, please evaluate
+for
+
+UNDERLYING MEDICAL CONDITION:
+65 year old struck by large tree branch, + LOC
+REASON FOR THIS EXAMINATION:
+please perform exam at 1700 on 2006-09-07 00:00:00, please evaluate for
+intracranial pathology
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Struck by a large tree branch and loss of
+consciousness.
+
+COMPARISON: CT head 2006-09-07 00:00:00.
+
+FINDINGS: Compared to a day prior, there is more obvious
+layering blood within the posterior horns of the lateral
+ventricles bilaterally. A 123 Any St.usly described focus of high
+density within a sulcus of the right temporal lobe (2:19) is
+likely not significantly changed and may represent a small
+amount of subarachnoid hemorrhage. A right middle cranial fossa
+hematoma does not appear to have significantly changed in size.
+More obvious today compared to a day prior is an approximately
+13- mm focus of hypodensity within the left cerebellum.
+
+123 Any St.usly described fractures including a right temporal bone
+fracture extending to the skull base and right zygoma fractures
+are better evaluated on the initial trauma head CT. High-density
+opacification within the sphenoid sinus and mucosal thickening
+within the maxillary and ethmoid sinus is again noted. Left
+parietal occipital skin staples are in place with associated
+swelling.
+
+IMPRESSION:
+1. High-density blood layering within the posterior horns of
+lateral ventricles bilaterally is new. Unchanged appearance of
+possible right temporal small subarachnoid blood and subdural
+blood within the right middle cranial fossa.
+
+2. More obvious small focus of hypodensity within the left
+cerebellum may represent axonal injury or evolving infarct. MRI
+may be helpful to further characterize as clinically indicated.
+
+3. Multiple skull fractures, better evaluated on the initial
+trauma head CT.
+
+Findings discussed with Dr. Lalli at the time of dictation.
+
+The study and the report were reviewed by the staff radiologist.
+DR. Benjimin Enerio Lalli
+DR. Benjimin Enerio Lalli
+Approved: [**Doctor First Name **] 2006-09-07 00:00:00 2:24 PM
+
+
+
+
+
+Brief Hospital Course:
+Pt was admitted to the sicu after initial ER eval.  Follow up CT
+and MRI's were ordered.  He was maintained in a cervical collar.
+ CT scan revealed Epidural hematoma in cervical spine.  Follow
+up head Ct was stable. He was transferred to the floor on
+hospital day # 3.  MRI revealed a large left sided HNP and he
+was taken to the OR for and ACD at C23 on 2006-09-07 00:00:00.  His post
+operative course has been uneventful.  He did have a small
+subcutaneous hematoma on 2006-09-07 00:00:00 but this has remained stable.
+He was seen by ENT for c/o decreased hearing in the left ear.
+Their recommendations were followed and he will follow up with
+them in 1 week with audiologic testing.  I reviewed CT results
+with Dr. Benjimin Enerio today who states that there is no fracture
+that extends through any vascular channels.  He id have post op
+fever on day 2 and cultures will be followed up. Urine analysis
+is negative for infection/  He agrees with the plan for d/c home
+today.
+
+Medications on Admission:
+lisinopril
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Neomycin-Polymyxin-HC 3.5-10,000-1 mg-unit/mL-% Drops,
+Suspension Sig: Four (4) Drop Otic TID (3 times a day) for 4
+days.
+Disp:*1 1* Refills:*0*
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Spinal epidural hematoma
+s/p anterior cervical discectomy C2-C3
+Right temporal bone fracture / non displaced / closed fracture
+decreased left hearing
+
+
+Discharge Condition:
+neurologically stable
+
+
+Discharge Instructions:
+??????	Do not smoke
+??????	Keep wound(s) clean and dry / No tub baths or pools for two
+weeks from your date of surgery
+??????	If you have steri-strips in place ?????? keep dry x 72 hours.  Do
+not pull them off. If they have not fallen off in 2 weeks time,
+you may remove them yourself
+??????	No pulling up, lifting> 10 lbs., excessive bending or
+twisting
+??????	Limit your use of stairs to 2-3 times per day
+??????	Have a family member check your incision daily for signs of
+infection or swelling / IF YOUR VOICE GETS HOARSE OR YOUR
+SWALLOWING IS DIFFICULT OR YOU ARE DROOLING GO TO THE NEAREST
+EMERGENCY ROOM OR CALL 911
+??????	You may shower briefly without the collar / back brace unless
+instructed otherwise
+??????	Take pain medication as instructed; you may find it best if
+taken in the a.m. when you wake for morning stiffness and before
+bed for sleeping discomfort
+??????	Do not take any anti-inflammatory medications such as Motrin,
+Advil, aspirin, Ibuprofen etc. unless directed by your doctor
+??????	Increase your intake of fluids and fiber as pain medicine
+(narcotics) can cause constipation
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit - YOU ARE TO LIGHT ACTIVITIES
+FOR 6 WEEKS AND NO WORKING FOR 3 MONTHS - PLEASE CALL DR
+Benjimin Enerio IF YOU HAVE ANY QUESTIONS.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING:
+
+??????	Pain that is continually increasing or not relieved by pain
+medicine
+??????	Any weakness, numbness, tingling in your extremities
+??????	Any signs of infection at the wound site: redness, swelling,
+tenderness, drainage
+??????	Fever greater than or equal to 101?????? F
+??????	Any change in your bowel or bladder habits
+??????	New onset of tremors or seizures
+??????	Any confusion or change in mental status
+??????	Any numbness, tingling, weakness in your extremities
+??????	Pain or headache that is continually increasing or not
+relieved by pain medication
+
+
+Followup Instructions:
+ENT in 1 week with Dr. Cristaly at test@mail.com with audiology
+testing
+Follow up with your PCP with regards to your hospitalization and
+BP control.  Take your blood pressure medication as 123 Any St.usly
+ordered.
+Dr. Lalli in 6 weeks with xrays of your c-spine at
+test@mail.com
+
+
+                             Cristaly Lalli Cristaly Lalli MD 32206
+
+Completed by:2006-09-07 00:00:00

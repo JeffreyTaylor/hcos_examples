@@ -1,0 +1,358 @@
+Admission Date:  2006-07-22 00:00:00              Discharge Date:   2006-07-22 00:00:00
+
+Date of Birth: 1969-07-22 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Alizey Stotzer
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+83 YO M w AF/FLUT (not anticoagulated), bioprosthetic AVR for
+AS, prior colon Ca s/p hemicolectomy presenting from 123 Any St.
+Health Center Rehab with increased confusion, lethargy and
+cloudy urine. The patient is a very poor historian so his
+history was obtained largely from his daughter and HCP. She
+reports that the patient was largely independant prior to a 2006-07-22 00:00:00
+admission to UPMCE for MRSA bacteremia. He was treated with 4
+weeks of abx and discharged to rehab. While at rehab he was
+doing well until approximately 2 weeks ago. He began to develop
+some mild confusion and had a fall. He reportedly did not have
+any sequelae after the fall and it is not clear if the patient
+had any secondary trauma although his changes in mental status
+have also occurred over the past couple of weeks. Over the past
+week, he has become more fatigued and lethargic, not getting out
+of bed as he usually does. At one point, he did pull out his
+foley. Over the past day, the patient's confusion became much
+more severe. He developed some diarrhea and his family was
+concerned that his confusion was 2006-07-22 00:00:00 a UTI. His rehab noted that
+the patient had a leukocytosis and so he was brought into the ED
+for further evaluation.
+.
+Upon presentation to the ED, his initial VS were: 101.8 110
+105/47 18 95%. Shortly after arrival his SBP decreased to 84.
+Exam was reportably notable for mild confusion (normally
+oriented times 3, but not oriented to time in the ED) a LUSB
+ejection murmur and cloudy urine. Labs were notable for a
+leukocytosis with left shift but no bands, a lactate of 1.4 and
+a u/a with >50 WBCs and positive leuks. EKG was notable for new
+ST segment depressions in V4-V6 with a rate of 117. Two 18g PIVs
+were placed and less than 1L NS were given. Blood and urine
+cultures were sent and the patient was given cefepime 2g,
+levoflox 750mg IV once and APAP 325mg. VS prior to transfer
+were: 107 22 97/52 95%.
+.
+Upon arrival to the floor, the patient reports recent confusion
+and possibly some chest pain within the past few days although
+he denies active chest pain and is unable to provide any
+additional information.
+.
+Review of sytems:
+(+) Per HPI, otherwise patient unable to provide
+.
+
+
+Past Medical History:
+* severe AS, s/p valvuloplasty 2006-07-22 00:00:00, then AVR 2006-07-22 00:00:00 (19 mm
+Tasch-Kalman bovine pericardial prosthesis), repair 2006-07-22 00:00:00.
+* CHF 2006-07-22 00:00:00 AS EF 45-50%
+* atrial fibrillation/atrial flutter
+* colon adenoCA s/p R colectomy 2006-07-22 00:00:00
+* Chronic indwelling foley with several UTIs
+* Zenkers diverticulum s/p surgical repair 2006-07-22 00:00:00
+* h/o splenomegaly and thrombocytosis
+* Anemia iron deficiency
+* pulmonary asbestosis diagnosed by CT scan in 2006-07-22 00:00:00
+* jejunal microperforation diagnosed by barium swallow in 2006-07-22 00:00:00
+* manic depression/anxiety
+* b/l inguinal hernia repair, right inguinal hernia 2006-07-22 00:00:00
+* decreased hearing
+* esophageal stenosis
+* left rotator cuff partial tear
+* C diff 2006-07-22 00:00:00
+
+
+Social History:
+Was living with family but was recently discharged to an
+extended care facility after hospitalization for bacteremia. No
+tobacco or alcohol use. Patient walks with a cane or walker.
+
+Family History:
+unable to obtain
+
+Physical Exam:
+Vitals: 96.8 119/69 16 98 2L
+Gen: NAD, Oriented to hospital, person, not date.
+HEENT: Mouth open, dry MM
+Neck: JVP flat
+Cardiovascular: Irregularly irregular no murmurs, rubs or
+gallops
+Respiratory: Clear to auscultation anteriorly. Scant rales at
+right base.
+Abd: Soft, non-tender, non distended, no heptosplenomegally,
+bowel sounds present.
+Extremities: No edema
+
+
+Pertinent Results:
+2006-07-22 00:00:00 05:30PM   WBC-18.2*# RBC-3.75* HGB-11.2* HCT-34.2*
+MCV-91 MCH-29.8 MCHC-32.7 RDW-15.8*
+2006-07-22 00:00:00 05:30PM   CK(CPK)-44*
+2006-07-22 00:00:00 05:30PM   CK-MB-2
+2006-07-22 00:00:00 05:30PM   cTropnT-0.04*
+2006-07-22 00:00:00 05:30PM   GLUCOSE-126* UREA N-32* CREAT-0.9 SODIUM-137
+POTASSIUM-4.6 CHLORIDE-98 TOTAL CO2-29 ANION GAP-15
+2006-07-22 00:00:00 05:55PM URINE  RBC-2006-07-22 00:00:00* WBC->50 BACTERIA-MOD YEAST-NONE
+EPI-0-2
+2006-07-22 00:00:00 05:55PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-75
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-MOD
+2006-07-22 00:00:00 11:45PM   TYPE-ART PO2-70* PCO2-41 PH-7.41 TOTAL CO2-27
+BASE XS-0
+
+MICRO:
+2006-07-22 00:00:00 Blood and Urine Culture:  PROTEUS MIRABILIS
+          |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+2006-07-22 00:00:00B STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B
+TEST-FINAL INPATIENT
+2006-07-22 00:00:00B STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B
+TEST-FINAL INPATIENT
+2006-07-22 00:00:00B BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2006-07-22 00:00:00B MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR
+METHICILLIN RESISTANT STAPH AUREUS} INPATIENT
+2006-07-22 00:00:00B BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+2006-07-22 00:00:00B URINE URINE CULTURE-FINAL INPATIENT
+2006-07-22 00:00:00B BLOOD CULTURE Blood Culture, Routine-FINAL
+EMERGENCY UPMCE
+
+2006-07-22 00:00:00 CXR: Left basal scarring of the lung; no acute
+cardiopulmonary
+process.
+
+2006-07-22 00:00:00 05:10AM BLOOD WBC-5.6 RBC-3.56* Hgb-10.3* Hct-32.3*
+MCV-91 MCH-29.0 MCHC-31.9 RDW-15.6* Plt Ct-398
+2006-07-22 00:00:00 03:39AM BLOOD PT-13.6* PTT-36.4* INR(PT)-1.2*
+2006-07-22 00:00:00 05:10AM BLOOD Glucose-87 UreaN-23* Creat-0.4* Na-144
+K-4.5 Cl-104 HCO3-33* AnGap-12
+2006-07-22 00:00:00 05:30PM BLOOD CK(CPK)-44*
+2006-07-22 00:00:00 05:57AM BLOOD CK(CPK)-19*
+2006-07-22 00:00:00 05:30PM BLOOD CK-MB-2
+2006-07-22 00:00:00 05:30PM BLOOD cTropnT-0.04*
+2006-07-22 00:00:00 05:57AM BLOOD CK-MB-2 cTropnT-0.04*
+2006-07-22 00:00:00 05:10AM BLOOD Calcium-8.2* Phos-2.6* Mg-2.0
+
+Brief Hospital Course:
+Mr. Tasch is an 83 YO M with CHF EF 45-50%, aortic stenosis s/p
+biprosthetic AVR, prior colon CA s/p hemicolectomy, chronic
+indwelling foley for urinary retention and recent
+hospitalization for MRSA bacteremia admitted with septicemia
+from urinary source with pansensitive proteus mirabilis on blood
+and urine cultures.
+
+# Sepsis secondary to ascending urinary tract infection
+Blood and urine cultures from admission with pan-sensitive
+proteus mirabilis. Presented with pyuria, fevers, altered mental
+status and leukocytosis to 18.2. Became hypotensive and
+tachycardic shortly after arrival, which improved with fluid
+boluses. Initially treated with vancomycin, cefepime and
+ciprofloxacin. Changed to meropenem/ciprofloxacin. Narrowed to
+ciprofloxacin alone once sensitivities available. Fevers, pyuria
+and leukocytosis resolved within a couple days, and his mental
+status slowly cleared to his baseline.  He was discharged to
+complete 14 day course of ciprofloxacin and he will follow up in
+Urology clinic.
+
+# Altered mental status
+Acute delirium in the setting of dementia. Most likely secondary
+to infectious process. He came in mildly confused and
+persistently did not know why he was brought to the hospital.
+His confusion slowly improved; he became more coherent and
+interactive over the course of his stay. He became mildly
+agitated at times but could be reoriented. No focal neurologic
+signs or symptoms.  On discharge he was alert, oriented to
+person and place.  He was able to count from 10 to 1 backward.
+He was at his baseline on discharge.
+
+# EKG changes
+When he became tachycardic to 117 in the setting of sepsis, he
+had new ST segment depressions V4-V6. Improved when his heart
+rate normalized with fluid resuscitation. Negative cardiac
+enzymes and lack of chest pain or symptoms suggestive of anginal
+equivalent. EKG changes were likely secondary to demand with
+tachycardia.
+
+# Hypernatremia
+On the day prior to discharge, he became mildly hypernatremic
+(146), likely from poor PO intake and restarting his home dose
+of 10 mg Lasix. His lasix was held on discharge to be restarted
+at rehab once back to baseline oral intake.
+
+# Urinary retention
+He chronically has in indwelling foley catheter for his urinary
+retention. Likely source of his proteus urosepsis. He had pulled
+out his prior foley, and a new foley was placed on admission.
+He was continued on his home dose of tamulsulosin. He has been
+discharged with a foley and he will follow up with Dr. Tasch
+in urology clinic.
+
+#Loose Stools - during his admission he had several loose stools
+per day with small amount of urgency and fecal incontinence.  He
+was tested for C. difficile which was negative x2.  On the day
+of discharge he was placed on a lactose free diet to see if this
+would improve his symptoms and his bowel regimen was held.
+
+# CHF
+He showed no signs or symptoms of acute CHF. His home dose of
+Lasix (10 mg daily) was stopped on admission in the setting of
+sepsis.  It was held during his hospitalization given decreased
+po intake.  His intake and weights should be monitored with
+lasix restarted for weight gain or signs of fluid accumulation.
+
+
+# Atrial fibrillation/flutter
+Irregularly irregular rhythm, but rate is well-controlled.
+Treated with 325 mg aspirin daily.  On review of note from his
+cardiologist Dr. Tasch he is not on coumadin due to increased
+fall risk.
+
+# Dementia - stable.  Continued outpatient donepezil.
+
+Medications on Admission:
+Senna 8.6 mg Capsule Sig: One (1) Tablet PO BID prn
+Cholecalciferol (Vitamin D3) 800mg daily
+Calcium Carbonate 500 mg Tablet, Chewable TID
+Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS
+Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO BID
+Omeprazole 20 mg Capsule, Delayed Release(E.C.) daily
+Ferrous Sulfate 325 mg Tablet daily
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Heparin (Porcine) 5,000 unit/mL TID
+Docusate Sodium 50 mg/5 mL Liquid Sig: One (1) PO BID
+Acetaminophen 1000 mg Tablet Q6H
+Tamsulosin 0.4 mg PO daily
+Furosemide 10 mg (half-tab of 20mg) PO daily
+Vitamin B12 100 mcg PO daily
+Lidoderm patch 5% to bilateral knee 12 hours on 12 hours off
+
+Discharge Medications:
+1. Ciprofloxacin 250 mg Tablet Sig: Two (2) Tablet PO Q12H
+(every 12 hours) for 10 days: Last doses on 2006-07-22 00:00:00.
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+4. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day).
+7. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+8. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+9. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+10. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+11. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+12. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. Health Care Center
+
+Discharge Diagnosis:
+Primary diagnoses:
+UTI c/b bacteremia (pan-sensitive Proteus Mirabilis)
+Orthostasis
+
+Secondary diagnoses:
+Atrial fibrillation/flutter
+Dementia
+Hypocalcemia
+s/p aortic valve replacement
+CHF
+
+
+Discharge Condition:
+Mental Status: Oriented to person.  Occasionally oriented to
+place.  Not oriented to date.  Able to count backward from 10 to
+1.  Delirium mostly resolved prior to discharge.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane) due to high fall risk.
+
+
+Discharge Instructions:
+You were admitted because you had an infection in your urinary
+tract and blood that gave you fevers, lowered your blood
+pressure and made you more confused. We treated your infection
+with antibiotics, and we treated your low blood pressures by
+giving you IV fluids. Your fevers resolved, your blood pressures
+stabilized and your mental status became more clear. Please
+complete your full 14 day course of ciprofloxacin, which is the
+antibiotic that treats your infection.  Your foley catheter was
+changed during your hospitalization.
+
+Changes to your medications:
+-ciprofloxacin 500mg PO twice daily (last day 2006-07-22 00:00:00)
+-HOLD furosemide, can be restarted by rehab when no longer
+hypernatremic.
+Otherwise no changes were made to your medications.
+
+Please take all medications as prescribed.
+Please follow up with all of your appointments.
+
+It was a pleasure taking care of you, Mr. Tasch.
+
+Followup Instructions:
+1.  You have an appointment to follow up in Urology clinic given
+ your recurrent urine infections and foley catheter.  You will
+be seeing one of the nurse practitioners that works with Dr.
+Tasch.
+Department: SURGICAL SPECIALTIES
+When: THURSDAY 2006-07-22 00:00:00 at 1:30 PM
+With: PELVIC FLOOR UNIT test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+2. You have an appointment scheduled to see Dr.Kalman Tasch who
+is the cardiologist that is taking over your care from Dr.
+Tasch since he is retiring.  You will have an echocardiogram
+at 9:00 am prior to your appointment with Dr.Alizey Stotzer.
+ECHOCARDIOGRAM Phone:test@mail.com Date/Time:2006-07-22 00:00:00 9:00
+Kalman Tasch Tasch, MD Phone:test@mail.com Date/Time:2006-07-22 00:00:00
+9:20
+
+3. Please follow up with your primary care doctor within two
+weeks of discharge from rehab.
+
+
+

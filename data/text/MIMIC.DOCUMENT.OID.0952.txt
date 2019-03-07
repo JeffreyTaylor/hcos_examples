@@ -1,0 +1,111 @@
+Admission Date:  2014-10-10 00:00:00       Discharge Date:  2014-10-10 00:00:00
+
+Date of Birth: 1925-10-10 00:00:00 00:00:00       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 59-year-old
+gentleman diagnosed with metastatic renal cell cancer in 2014-10-10 00:00:00.  He underwent a debulking left nephrectomy with Dr.
+Svehla on 2014-10-10 00:00:00, and was diagnosed with metastatic
+kidney cancer by thyroidectomy in 2014-10-10 00:00:00.  This
+revealed high grade renal cell carcinoma that was metastatic
+to the adrenal gland.  Following debulking nephrectomy, he
+was found to be presented with severe bone pain.  Location of
+his pain was in the right shoulder.  Given that the pain did
+not resolve, he underwent a MRI which showed ultimately a
+lytic lesion in the right shoulder and was treated with
+radiation therapy to the shoulder as well as ultimately
+undergoing treatment with chemotherapy.  He did not respond
+to chemotherapy and developed a large lytic lesion in the
+left femur requiring an operative embolization and rod
+placement in 02/2014-10-10 00:00:00.  Following that, he had multiple
+radiation therapies to the spine as well as right scapula as
+well as left femur.
+
+He was seen on multiple occasions over the last several weeks
+complaining of increasing pain in the right shoulder.  CT
+scan revealed a large lytic lesion.  Given that this area had
+been radiated twice, tentatively booked to see Dr. Claudene Djokovic
+in Radiology for radiofrequency ablation for pain relief.  He
+has been on OxyContin 40 mg p.o. b.i.d. and Morphine elixir
+for breakthrough pain, and he has been a little better over
+the last few days.  He has not moved his bowels in three
+days, and also had difficulty urinating.  This initially felt
+to be related to the increase in narcotic, but now he
+describes difficulty feeling a full bladder, and had been
+voiding very little over the last day.  He was admitted to
+the Oncology service for workup of this urinary retention.
+He is also complaining of leg weakness.
+
+PHYSICAL EXAMINATION:  He was a gentleman in no acute
+distress.  HEENT:  Pupils are equal, round, and reactive to
+light.  EOMs full.  Cardiovascular:  Regular, rate, and
+rhythm, no murmurs, rubs, or gallops.  Abdomen is soft,
+nondistended, positive bowel sounds.  Neurologically, cranial
+nerves II through XII intact.  His motor strength is 2014-10-10 00:00:00 in
+the right upper extremity, 2014-10-10 00:00:00 in the left upper extremity,
+and 2014-10-10 00:00:00 on bilateral lower extremities.  His reflexes in the
+upper extremities and lower extremities is symmetric, and
+sensation to cold and pin prick and light touch bilaterally,
+gait are normal.  There is no saddle anesthesia.
+
+He was admitted now with urinary retention and bowel
+retention likely due to increased pain medication, but will
+rule out cord compression.  He had a MRI of his cervical
+spine, which showed evidence of tumor at the T1-T3 level with
+moderate-to-severe cord compression.  Also disease at the T1
+level causing some deformity of the spinal cord.  Therefore
+Neurosurgery was consulted.
+
+The patient was taken to the Neurosurgery service and brought
+to the operating room for decompression laminectomy of the
+thoracic and cervical spine.  First on 2014-10-10 00:00:00, underwent
+a thoracic embolization of the tumor, and then was taken to
+the operating room on 2014-10-10 00:00:00, and underwent T2-T3
+resection of metastatic lesions, spinal cord decompression
+with segmental C7-T4 stabilization.
+
+Postoperative, his vital signs were stable.  He was afebrile.
+His motor strength was 2014-10-10 00:00:00 in all muscle groups.  He had no
+pronator drift.  His laboratories were within normal limits.
+He was neurologically stable and transferred to the regular
+floor.  He has had two drains in place, which stayed in until
+postoperative day #5.  He had minimal output of both drains
+on day five, and they were pulled.  Continued on IV
+antibiotic treatment while drains were in place.  His
+incisions were clean, dry, and intact.  He was seen by
+Physical Therapy and Occupational Therapy, and was thought to
+possibly acquire rehab, although made significant improvement
+over his hospital stay, and opted for discharge to home with
+followup with Dr. Svehla in two weeks for staple removal.
+
+DISCHARGE MEDICATIONS:
+1. Diazepam 5 mg p.o. q.6h.
+2. Gentamicin ophthalmic solution one drop OU q.4h.
+3. Protonix 40 mg p.o. q.d.
+4. Lactulose 30 cc p.o. q.4h. prn.
+5. OxyContin 40 mg p.o. b.i.d.
+6. Morphine 5-10 mg p.o. q.4-6h. for breakthrough pain.
+7. Senna one tablet p.o. b.i.d.
+8. Colace 100 mg p.o. b.i.d.
+9. Levothyroxine 125 mcg p.o. q.d.
+
+CONDITION ON DISCHARGE:  Stable.  He has a figure-of-eight
+brace, which he should wear at all times until his followup
+with Dr. Svehla in two weeks for staple removal.  His
+incisions was clean, dry, and intact.  He ambulation was
+improved.  His sensation and strength in his lower
+extremities is intact.  He will follow up also with his
+oncologist in 2014-10-10 00:00:00.  His vital signs are stable at the
+time of discharge.
+
+
+
+                            Claudene Djokovic, M.D.  7284
+
+Dictated By:Claudene Djokovic
+MEDQUIST36
+
+D:  2014-10-10 00:00:00  11:37
+T:  2014-10-10 00:00:00  11:36
+JOB#:  7284

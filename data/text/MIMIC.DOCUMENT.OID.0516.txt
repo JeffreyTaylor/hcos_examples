@@ -1,0 +1,300 @@
+Admission Date:  2008-12-05 00:00:00              Discharge Date:   2008-12-05 00:00:00
+
+Date of Birth: 1961-12-05 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Catasha Broseker
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+History of Present Illness:
+73 y/o M with h/o lung CA, renal CA, s/p right proximeral
+femoral resection and reconstruction with tumor prosthesis
+2008-12-05 00:00:00, recently d/c from UPMCE 2008-12-05 00:00:00 to rehab.
+.
+Patient was refered to the Ed after VNA call physician with
+hypotension, Jameliah Snarski and low PO intake. On arrival, patient
+with respiratory distress, tachypneic, tachycardic. VS Hr 154,
+Bp 189/88 RR 28 Sats 100%. EKG stE v2-v4, st depression v5, v6,
+I and AVL. She was also tachycardic and adenosin, + diltiazem
+were given to control her HR.  Stat CT shopwed CT showed
+pulmonary embolism entire right lung. Given her poor respiratroy
+status, she was intubated in the emergency department. Her Bp
+also dropped and Iv neosinephrine was started.  Echo in the ED
+EF 15-20%, sever AS L sided diffuse LV wallmotion abnormality.
+RV normal in size and function. Heparin started initially and
+then after initial discussion with cardiology TPa was started.
+However, later on, with persistnet  hemodynamic instability and
+sever AS, patient was transfer to the Cath lab.
+
+Past Medical History:
+# Lung CA- s/p left upper lobectomy 2008-12-05 00:00:00 for two small
+bronchoalveolar carcinomas
+# Renal Cell carcinoma- s/p left partial nephrectomy 2008-12-05 00:00:00 for
+clear cell carcinoma; now w/ isolated renal met to right femur
+s/p resection
+# hypertension
+# mitral regurgitation
+# spinal stenosis
+# rheumatoid arthritis
+# echocardiogram done in 2008-12-05 00:00:00 notes an EF greater
+than 55%, 1+ mitral regurgitation, and moderate aortic stenosis
+
+
+Social History:
+Married lives w/ husband; 4 children. She
+is a former smoker, but she quit smoking 40 years ago.  She
+smoked one pack per day x17 years.  She [**Year (4 digits) **] use of alcohol
+and
+illicit drugs
+
+
+Family History:
+brother who died from Jameliah Snarski lymphoma.
+
+Physical Exam:
+ED physical exam:
+HR 154, Bp 189/88 RR 28, Sats 100%
+General moderate distress
+Neck: no jJVD
+lungs: Tachypneic, clear
+Cardiovascular tachycardic
+Abdomen: non tender. + bowel sounds
+Extremities: + RLE edema RLE > LLE
+
+Pertinent Results:
+2008-12-05 00:00:00 12:10PM   PLT SMR-HIGH PLT COUNT-568*#
+2008-12-05 00:00:00 12:10PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-1+
+2008-12-05 00:00:00 12:10PM   NEUTS-85.3* BANDS-0 LYMPHS-12.0* MONOS-2.3
+EOS-0.3 BASOS-0.2
+2008-12-05 00:00:00 12:10PM   WBC-14.5*# RBC-3.34* HGB-9.1* HCT-29.4*
+MCV-88 MCH-27.3 MCHC-31.0 RDW-15.5
+2008-12-05 00:00:00 12:10PM   CK-MB-NotDone cTropnT-0.31*
+2008-12-05 00:00:00 12:10PM   CK-MB-NotDone cTropnT-0.31*
+2008-12-05 00:00:00 12:10PM   CK(CPK)-81
+2008-12-05 00:00:00 12:10PM   estGFR-Using this
+2008-12-05 00:00:00 12:10PM   GLUCOSE-230* UREA N-13 CREAT-1.0 SODIUM-139
+POTASSIUM-4.5 CHLORIDE-104 TOTAL CO2-18* ANION GAP-22*
+2008-12-05 00:00:00 03:54PM   HGB-8.6* calcHCT-26 O2 SAT-99
+2008-12-05 00:00:00 03:54PM   TYPE-ART PEEP-5 PO2-395* PCO2-36 PH-7.39
+TOTAL CO2-23 BASE XS--2
+Chest x ray 2008-12-05 00:00:00:
+IMPRESSION: Mild interstitial edema and bilateral pleural
+effusions.
+.
+
+CT head: 2008-12-05 00:00:00
+FINDINGS: The study is severely limited due to patient motion.
+There is no evidence of large intracranial hemorrhage, mass, or
+mass effect. A small subarachnoid hemorrhage or extraaxial
+hematoma cannot be excluded. The ventricles and sulci grossly
+appear normal. No large displaced fracture is evident. The
+mastoid air cells and paranasal sinus appear to be clear. Left
+frontal osteoma is unchanged in appearance. Catasha Broseker-white matter
+differentiation appears to be preserved in the images of the
+brain that were less degraded by motion.
+
+IMPRESSION: Study limited by patient motion. No large
+intracranial hemorrhage identified. Small subarachnoid
+hemorrhage or extraaxial hematoma cannot be excluded.
+.
+CTA chest:
+CT CHEST BEFORE AND AFTER IV CONTRAST: The heart size is
+enlarged with severe coronary artery disease and calcification
+of the aortic valve. Atherosclerotic calcifications are also
+noted in the aorta. There is extensive pulmonary embolism
+involving all segments of the right lung. The appearance of the
+thrombi is most consistent with acute pulmonary embolism. There
+is no radiographic evidence of right heart strain. There are
+also no filling defects in the visualized IVC to suggest
+extension of renal cell carcinoma as a cause for pulmonary
+embolism. Visualization of the lungs is limited by motion
+artifact; images were obtained during expiratory phase. There is
+suggestion of several centrilobular and other pulmonary nodules
+that cannot be further evaluated on the current study. There is
+also moderate-to-large right and small-to-moderate left simple,
+layering pleural effusion with associated atelectasis. There is
+also left greater than right subpulmonic effusion. No
+mediastinal or axillary lymphadenopathy is noted. Very limited
+views of the upper abdomen are unremarkable.
+
+There is an old healed fracture of the left lateral fifth rib.
+There are no regions of bone destruction suspicious for
+metastasis.
+
+IMPRESSION:
+1. Extensive acute pulmonary embolism in all segments of the
+right lung. The findings were discussed with Dr. Catasha Broseker Snarski
+upon com123 Any St.n of the study.
+2. Several centrilobular and other pulmonary nodules are
+suggested on this exam limited by motion. A repeat CT scan as an
+outpatient after resolution of these acute setting may be
+warranted. However, given that PET CT of 2008-12-05 00:00:00 was negative
+for metastatic pulmonary lesion, the likelihood of these nodules
+representing new metastatic lesions is decreased.
+3. Bilateral pleural effusions with subpulmonic effusions.
+4. Cardiomegaly with severe coronary artery disease.
+.
+Cardiac Echocardiogram 2008-12-05 00:00:00
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and cavity size are normal. There is severe global
+left ventricular hypokinesis (LVEF = 15-20 %). Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets are moderately thickened. There is moderate to severe
+aortic valve stenosis (area 0.8-1.0cm2). No aortic regurgitation
+is seen. The mitral valve leaflets are mildly thickened.
+Moderate (2+) mitral regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. No vegetation/mass is
+seen on the pulmonic valve. Significant pulmonic regurgitation
+is seen. There is no pericardial effusion.
+
+Compared with the report of the prior study (images unavailable
+for review) of 2008-12-05 00:00:00, the left ventricular function has
+significantly worsened. The aortic stenosis is moderate to
+severe. The right ventricle appears normal in size and function.
+
+.
+Cardiac cath report: 2008-12-05 00:00:00
+HISTORY:   73 yo female with a history of lung cancer,
+metastatic
+renal cell carcinoma with met to right femur s/p recent
+reconstruction
+admitted on 2008-12-05 00:00:00 with large right-sided pulmonary embolism
+with
+hypoxia for which she was intubated. With hypotension requiring
+pressors
+and ST elevations in V1-V4, concern for STEMI and directed to
+cath lab
+with troponin 0.31. Echo shows EF 15-20% with severe aortic
+stenosis.
+For coronary evaluation, ?valvuloplasty.
+.
+Initial angiography revealed an 80% LM stenosis with damping of
+the catheter with engagement of the LM and a 70-80% stenosis of
+the mid LAD as well. We planned to treat the lesions with direct
+stenting. A prowater wire crossed the lesion into the lad with
+minimal difficulty. A JL4 provided adequate support for the
+procedure. The patient had received iv lytics for her PE in the
+emergency department and thus she received prophyactic hpearin
+in the cath lab. A 3.5x12mm driver stent was deployed in the LM
+at 16 atm and post dilated with a 4x12mm quantum maverick
+balloon at 20 atm with excellent result and no evidence of
+jailing either the lad or lcx. We then turned our attention to
+the mid LAD lesion. A 3.0x24mm driver stent was deployed in the
+mid  lad at 9 atm and then post dilated with a 3.0x12mm quantum
+maverick balloon at 21 atm. Final angiography revealed 0%
+residual stenosis, no angiographically apparent dissection and
+timi 3 flow. The patient remained hypotensive and ventuilated in
+critical condition.  Successful  perclose of the right groin at
+the end of the case.  As the patient was about to be transported
+up to the CCU for further care, the patient went into PEA arrest
+with prolonged rescucitation effort. There was difficulty
+re-obtaining arterial access but once we did, angiography of LM
+revealed patent LM stent. There was absence of flow elsewhere in
+the left coronary in the setting of an asystolic heart. Code
+efforts were stopped at this time and the patient was pronounced
+dead and the family notified.
+.
+Coronary angiography of this right dominant system revealed a
+proximal 80% stenosis in the LMCA. The LAD had a 70-80% stenosis
+in the mid portion with a 50% stenosis at the origin of the
+diagonal. The LCX had a 60% stenosis at the origin. The OM1 had
+a proximal 80% stenosis. OM2 and OM3 were without obstructive
+disease. The RCA had a proximal 80% stenosis.
+2. Resting hemodynamics revealed elevated left and right-sided
+filling
+pressures. The RASP was 22 mm Hg, RVEDP 30 mm Hg, PASP 57 mm Hg,
+PCWP 35
+mm Hg and LVEDP 40 mm Hg. The cardiac output was 4.6 and cardiac
+index
+was 2.5 l/min/m2.
+3. There was a mean gradient of 23 mm Hg across the aortic valve
+with a
+calculated area across the aortic valve of 0.73 cm2 consistent
+with
+severe aortic stenosis.
+4. Left ventriculography was deferred.
+.
+Successful LM and LAD stenting with a 3.5x12mm driver stent post
+dilated
+to 4.0mm in the LM and a 3.0x24 driver stent posted to 3.0mm in
+the LAD.
+Final angiography revealed 0% residual stenosis, no
+angiographically
+apparent dissection and timi 3 flow. Successful right perclose
+device.
+Subsequent PEA arrest with prolonged but unsuccesful
+rescusitative
+efforts. The patient died and the family was informed.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Severe aortic stenosis.
+
+
+Brief Hospital Course:
+Patient transfered to the cath lab.
+In the cath lab patient found with 80 % stenosis in the LMCA.
+LAD had 70-80% stenosis mid portion and 50% origing of diagonal.
+LCX 60% stenosis. OM1 proximal 80% stenosis. RCA 80% stenosis.
+Hemodynamics as follow:The RASP was 22 mm Hg, RVEDP 30 mm Hg,
+PASP 57 mm Hg, PCWP 35 mm Hg and LVEDP 40 mm Hg. The cardiac
+output was 4.6 and cardiac index  was 2.5 l/min/m2. Severe
+aortic stenosis was found.
+.
+LM and LAD were stententeed succesfully. Final angiography
+revealed 0% residual stenosis, no angiographically apparent
+dissection and timi 3 flow
+.
+After procedure while transfering patiento to stretcher for
+transport, patient had a PEA arrest. CPR was initiated.
+Prolonged but unsuccessful resucisative efforts were done. Time
+of death  5:54 pm. Family was notified and brouth into the room.
+
+
+Medications on Admission:
+From d/c summary
+1. Enoxaparin 40 mg
+2. Atenolol 50 mg PO daily.
+3. Colchicine 0.6 mg daily
+4. Prednisone 5 mg daily
+5. Hydroxychloroquine 200 mg daily
+6. Ezetimibe 10 mg daily
+7. Hexavitamin 1 cap daily
+8. Senna 8.6 mg Tablet 1 tab UPMCE
+9. Docusate Sodium 100 mg UPMCE
+10. Bisacodyl 5 mg 2 tab daily
+11. Prochlorperazine 10 mg q6h PRN
+12. Hydromorphone 2 mg 2008-12-05 00:00:00 tab PO q4h for pain
+13. Oxycodone 20 mg q12
+
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Pulmonary embolism
+PEA arrest
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:2008-12-05 00:00:00

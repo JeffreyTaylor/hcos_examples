@@ -1,0 +1,82 @@
+Admission Date:  2007-10-05 00:00:00       Discharge Date:  2007-10-05 00:00:00
+
+Date of Birth: 1986-10-02 00:00:00 00:00:00       Sex:  M
+
+Service:  COLORECTAL
+
+ADMITTING DIAGNOSIS:
+1.  End-stage renal disease.
+2.  Adult respiratory distress syndrome.
+3.  Severe colitis.
+4.  Fatal arrhythmia.
+
+HISTORY OF PRESENT ILLNESS:   The patient is a 54 year old
+male with end-stage renal disease secondary to
+post-Streptococcal glomerular nephritis and CPDD, and adrenal
+insufficiency, who presented with two to three weeks of lower
+abdominal pain and was found to be Clostridium difficile
+positive.  Upon work-up the patient showed worsening
+abdominal CT scan consistent with pan-colitis.
+
+The patient was initially treated with Vancomycin
+intravenously with p.o. Ciprofloxacin and Flagyl.  On
+2007-10-05 00:00:00, the patient was found to be gasping for air while
+on 100% non-rebreather mask with an arterial blood gases of
+7.04, 80, 43.  The patient was immediately intubated and
+admitted to the Surgical Intensive Care Unit at which time
+the patient was found to have atrial fibrillation with heart
+rate between 100 to 140.  Rate was very difficult to control
+and Diltiazem drip was initiated.
+
+On 2007-10-05 00:00:00, the patient's heart rate remained
+between 90 to 110 with Diltiazem drip at 10 mg per hour and
+blood pressure was also difficult to maintain.  The patient
+responded well initially to boluses with decrease in
+tachycardia, however, due to the worsening pan-colitis, the
+patient was taken back to the Operating Room for a subtotal
+colectomy.
+
+PHYSICAL EXAMINATION:  N/A.
+
+SUMMARY OF HOSPITAL COURSE:  The patient is a 55 year old
+male status post subtotal colectomy and end-ileostomy for
+infarcted small intestine and colitis with pseudomembranes.
+The patient was initiated on broad-spectrum antibiotics with
+cultures sent.  The patient's CT scan of the abdomen
+indicated a diffuse thickening of terminal ileum and large
+intestine to the transverse colon without stranding.
+
+A repeat CT scan immediately prior to the subtotal colectomy
+indicated pan-colitis which progressed from prior scan but no
+evidence of perforation.
+
+Immediately postoperatively, the patient continued to have
+respiratory distress requiring increased pressor support and
+required continued transfusion with seven units both of P,
+two units of packed red blood cells and four liters of
+Crystalloid.
+
+Despite the continued resuscitation, the patient remained
+hypotensive with continued lactic acidosis requiring
+bicarbonate replacement.  The aggressive resuscitation
+continued until 2007-10-05 00:00:00, when after a long
+discussion with the family members, the patient was made
+comfort measures only.
+
+The patient developed a ventricular fibrillation shortly
+thereafter and expired later on that evening.
+
+DISCHARGE DIAGNOSES:  Status post subtotal colectomy and
+ileostomy.
+
+DISPOSITION:   Death.
+
+
+                            Blaklie Losli, M.D.  7452
+
+Dictated By:Blaklie Losli
+MEDQUIST36
+
+D:  2007-10-05 00:00:00  12:11
+T:  2007-10-05 00:00:00  16:26
+JOB#:  7452

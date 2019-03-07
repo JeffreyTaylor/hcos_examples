@@ -1,0 +1,131 @@
+Admission Date:  2014-11-18 00:00:00              Discharge Date:   2014-11-18 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Kariyana Whiteker
+Chief Complaint:
+Found Down
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+59 yo male with chronic kidney disease who presents to the ED
+after being found down at apt. Pt found by landlord after not
+being seen in 2 days and found in own feces.
+.
+ED: While in the ED, found to have K of 7, creat of 10, trop of
+3 with nl CK. Received 10 U Insulin/ 1 amp D 50, Haldol/ativan,
+Kayexalate PR, Calcium gluconate 1 g x 2. Patient pulled foley
+catheter and NGT was unable to be placed.
+.
+When arrived on MICU floor, patient agitated and not responsive
+to questions. Withdraws to pain.
+
+Past Medical History:
+1. Hypertension.
+2. Chronic renal insufficiency (with a baseline creatinine
+of 4 documented as far back at 2014-11-18 00:00:00). The patient has
+refused a workup for this in the past.
+
+
+Social History:
+Patient living alone, wife in rehab/UPMCE. Per OMR: He is a former
+UPMCE worker. He use to drink heavily in his youth. No alcohol at
+all in the last 10
+years. No tobacco.
+
+
+Family History:
+NC
+
+Physical Exam:
+ t 97 BP 122/71 RR 19, 02 91-100%, HR 111
+GEN: Arousable, agitated
+HEENT: MM dry, PERRL, EOMI
+Neck: JVP 6 cm
+CV: RRR, 2014-11-18 00:00:00 murmur at LLSB
+Pulm: occ exp wheezes, otherwise clear bilaterally
+Abd: + bs-hypoactive, soft, non-distended, no masses
+Ext: 2014-11-18 00:00:00 + pulses, no edema
+Skin: excoriations of LE and UE
+Neuro: moves all extremities
+
+
+Pertinent Results:
+2014-11-18 00:00:00 05:15PM   WBC-7.8 RBC-2.90* HGB-10.0* HCT-31.1*
+MCV-107* MCH-34.3* MCHC-32.0 RDW-14.6
+2014-11-18 00:00:00 05:15PM   NEUTS-81.1* LYMPHS-11.0* MONOS-3.8 EOS-3.8
+BASOS-0.3
+2014-11-18 00:00:00 05:15PM   PLT COUNT-292
+2014-11-18 00:00:00 05:15PM   PT-13.2* PTT-25.3 INR(PT)-1.2*
+2014-11-18 00:00:00 05:15PM   TSH-0.26*
+2014-11-18 00:00:00 05:15PM   ALBUMIN-3.4 CALCIUM-9.4 PHOSPHATE-9.3*#
+MAGNESIUM-3.0*
+2014-11-18 00:00:00 05:15PM   cTropnT-3.02*
+2014-11-18 00:00:00 05:15PM   GLUCOSE-128* UREA N-204* CREAT-10.0*#
+SODIUM-157* POTASSIUM-7.1* CHLORIDE-127* TOTAL CO2-8* ANION
+GAP-29*
+2014-11-18 00:00:00 05:15PM   AST(SGOT)-25 CK(CPK)-98 ALK PHOS-234*
+AMYLASE-197* TOT BILI-0.2
+2014-11-18 00:00:00 05:43PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+
+Brief Hospital Course:
+59 yo male with acute on chronic renal failure with severe
+electrolyte disturbances and azotemia.
+.
+ARF- Patient with longstanding renal failure with current
+azotemia and electrolyte disturbance consistent with acute
+worsening. The cause of the acute worsening was unclear but may
+have been partially due to hypovolemia causing a prerenal
+worsening of the function.
+Per renal recommendations, the patient was not immediately a
+candidate for dialysis  treated with IV fluids and electrolytes
+were monitored.
+.
+Elevated troponin- no clear signs of cardiac ischemia, but does
+have significantly elevated troponin. No CK increase. Either
+purely due to ARF or recent ischemic event.
+.
+Social Issues - the patient had no health Kariyana Whiteker proxy upon
+admission, and we managed to contact a next of Kariyana Whiteker
+Ariane Mcquade, nephew) after three days. Until that point, patient was
+deemed full code and was evaluated by both renal and orthopedics
+for hemodialysis and fractured femur respectively. We also
+contactAriane Mcquade the patient's PCP, Ariane Mcquade provided us with ample
+documentation of the patient's history of refusing treatments,
+including blood draws, colonoscopy, and chronic dialysis. Upon
+contacting the next of Kariyana Whiteker, the patient was made DNR/DNI, but
+preparations were made to proceed with dialysis. On the morning
+of 2014-11-18 00:00:00, the patient became apneic and subsequently went into
+cardiopulmonary arrest with no obvious etiology. He was
+pronounced at 12:29pm, and the next of Kariyana Whiteker was alerted.
+
+Medications on Admission:
+Nicardipine and toprol
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+deceased
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+deceased
+
+Followup Instructions:
+deceased
+
+

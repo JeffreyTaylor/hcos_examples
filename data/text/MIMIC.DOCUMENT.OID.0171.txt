@@ -1,0 +1,285 @@
+Admission Date:  2008-04-09 00:00:00              Discharge Date:   2008-04-09 00:00:00
+
+Date of Birth: 1921-04-24 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Kirstie Laferrara
+Chief Complaint:
+Right foot pain s/p stenting of right superficial femoral artery
+
+
+Major Surgical or Invasive Procedure:
+2008-04-09 00:00:00 stenting of right superficial femoral artery
+
+
+History of Present Illness:
+78 y.o female s/p  angio of the SFA with stent on 2008-04-09 00:00:00
+presents with RLE foot pain
+
+Past Medical History:
+Adrenal insufficiency
+hx hypercaoguable state - but no clear h/o DVT/PE
+hypercholestremia
+? hx Dm2 - recent dx in setting of recent MTA
+asthma
+s/p cholecystectomy
+PVD: on coumadin, s/p left metatarsal amputation '2008-04-09 00:00:00
+bilateral adrenal masses
+cath 2008-04-09 00:00:00: clean coronary arteries
+ECHO 2008-04-09 00:00:00: EF > 60%
+
+
+Social History:
+Lived alone prior to d/c 2008-04-09 00:00:00 when she was d/c to rehabiltation
+([**First Name4 (NamePattern1) 1764**] Cucinotta)Denies tobacco and ETOH useWorked as greenhouse
+worker and babysFran Cucinotta in the past6 kids (2 deceased), divorced,
+her daughter Fran Cucinotta has been very involved w/ this
+hospitalization and visits w/ patient daily
+
+
+Family History:
+no h/o PUD, pancreatic cancer or pancreatitis
++ h/o DM
+
+Physical Exam:
+Vital signs: 99.1-74-18 110/80 oxygen saturation 98% room air.
+General: alert and oriented
+HEENT: EOMI no caroitd bruits
+Lungs: clear to ausculation
+Heart: regular rate rythmn, no mumur, gallop or rubs
+ABD: begnin
+Pulses: femorals 2+ bilaterally, popliteals 1+ bilaterally,
+pedal pulses monophasic dopperable signal bilaterally.
+
+Pertinent Results:
+2008-04-09 00:00:00
+
+WBC-8.6 RBC-3.53* Hgb-9.5* Hct-30.4* MCV-86 MCH-26.9* MCHC-31.2
+RDW-14.5 Plt Ct-119*
+
+2008-04-09 00:00:00
+
+PT-17.5* PTT-32.1 INR(PT)-1.9
+
+2008-04-09 00:00:00
+
+Glucose-102 UreaN-15 Creat-0.9 Na-137 K-4.7 Cl-99 HCO3-32*
+AnGap-11
+
+2008-04-09 00:00:00
+
+Calcium-8.9 Phos-3.5 Mg-2.0
+
+2008-04-09 00:00:00 2:26 PM
+
+ART DUP LOW EXT RIGHT
+
+FINDINGS:
+
+Duplex evaluation of the right lower extremity arterial system
+was performed which demonstrates a patent right common femoral,
+superficial femoral, and popliteal artery. Velocity in the right
+common femoral artery is 112 cm/sec, with velocities ranging
+between 70 to 87 cm/sec between the common femoral, and the
+trifurcation.
+
+IMPRESSION:
+
+No stenosis seen in common femoral, superficial femoral and
+popliteal arteries on the right.
+
+2008-04-09 00:00:00.
+
+CHEST, TWO VIEWS: The heart size is within normal limits.
+Mediastinal and hilar contours unchanged in the interval. The
+aorta is slightly tortuous, unchanged. No focal consolidations
+are seen. Again, seen is linear scarring at the left base,
+unchanged. There is eventration of the posterior hemidiaphragms
+unchanged. There is DISH again seen.
+
+IMPRESSION: No CHF or pneumonia.
+
+2008-04-09 00:00:00
+
+Sinus rhythm
+Short PR interval
+ST-T changes are nonspecific
+Since 123 Any St.us tracing, T waves more upright in leads V5-V6
+
+Intervals Axes
+Rate PR  QRS QT/QTc     P  QRS T
+80   108 88  370/405.71 67 40  80
+
+GENERAL URINE INFORMATION
+
+Type Color Appear Sp Cucinotta
+Cath Straw Clear  1.015
+Blood Nitrite Protein Glucose Ketone Bilirub Urobiln pH  Leuks
+LG    NEG     NEG     NEG     NEG    NEG     NEG     7.0 NEG
+
+MOD NEG NEG     NEG   NEG
+RBC WBC Bacteri Yeast Epi
+
+
+
+
+Brief Hospital Course:
+Pt admitted on 2008-04-09 00:00:00
+
+2008-04-09 00:00:00 - 2008-04-09 00:00:00
+
+Pt pre -oped for procedure on the 2008-04-09 00:00:00. Pt was started on
+heparin for anti-coagulation. A pre - op note was done on
+2008-04-09 00:00:00. All results evxamined. Pt cleared for procedue on the
+2008-04-09 00:00:00.
+
+2008-04-09 00:00:00
+
+Pt underwent a right lower extremity arteriogram via left common
+femoral artery approach, with angioplasty and stent placement in
+the distal right SFA, for
+peripheral vascular disease with right lower extremity rest pain
+and hypercoagulable state.
+
+Pt tolerated the procedure well. There were no complications.
+After the procedure pt was transfered to the recovery room in
+stable condition. When here ACT was around 180 her sheath was
+pulled without complications. She remained on bedrest for 6 hour
+after the sheath was pulled. After she recovered from anesthesia
+she was transfered to the VICU in stable condition.
+
+A post procedure check was done. It was found that the pt had a
+hematome from the last admission. The pt was watched over the
+next day.
+
+2008-04-09 00:00:00
+
+Pt still c/o foot pain post procedure. This coupled with  the
+hematoma an US was ordered. The results as were a atent right
+superficial femoral artery through popliteal artery
+angioplasty/stent. There is a large left groin hematoma with no
+pseudoaneurysm or AV fistula.
+
+Pt coumadin was started.
+
+2008-04-09 00:00:00
+
+Pt transfered from the VICU to the floor. Pt recieved a PICC
+becaouse of poor access.
+
+2008-04-09 00:00:00 - 2008-04-09 00:00:00
+
+Pt anticoagulate with heparin and coumadin. She was mobilized,
+her diet was advanced, her foley was removed. Pt responded with
+good UO.
+
+2008-04-09 00:00:00
+
+Pt PLT count decreased from 200 to 89. Her heparin was DC'd a
+HIT panel was sent. Pt still c/o toe pain. Because of the above
+another ultrasound was done.
+
+2008-04-09 00:00:00
+
+The US  revealed no stenosis seen in common femoral, superficial
+femoral and popliteal arteries on the right.
+
+A pain consult was obtained for the toe pain. The pain service
+recommended nuerontin.
+Pt responded to the medication.
+
+A hematology consult was obtained for her decrease PLTS.
+
+2008-04-09 00:00:00
+
+Hematolgy saw the pt.
+
+2008-04-09 00:00:00 - 2008-04-09 00:00:00
+
+Pt PLT improved, foot pain improved with nuerontin.
+
+Case mangement and PT were consulted. Recommended that the pt go
+home with no sevices needed.
+
+2008-04-09 00:00:00
+
+Pt Fran Cucinotta home. PLT stable, toe pain much improved, pt taking PO,
+urinating with BM, ambulating well, INR 2-3 range.
+
+
+Medications on Admission:
+albutrol
+protonix
+tylenol
+oxycodone
+123 Any St.one
+coumadin
+fludrocortizone
+nuerontin
+
+Discharge Medications:
+1. Hydromorphone HCl 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every
+4 hours) as needed for pain.
+Disp:*80 Tablet(s)* Refills:*0*
+2. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+4. Morphine Sulfate 15 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release(s)* Refills:*2*
+5. Warfarin Sodium 2 mg Tablet Sig: One (1) Tablet PO once a
+day: You should have your INR checked on 2008-04-09 00:00:00, and 2008-04-09 00:00:00 at
+the clinic of Dr. Cucinotta and coumadin dosed accordingly for goal
+2008-04-09 00:00:00. .
+Disp:*30 Tablet(s)* Refills:*2*
+6. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+Disp:*90 Capsule(s)* Refills:*2*
+7. Lipitor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Outpatient Lab Work
+Check INR (coags) and CBC on 2008-04-09 00:00:00, 2008-04-09 00:00:00, and 2008-04-09 00:00:00
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: Peripheral Vascular Disease with stenosis of Right
+superficial femoral artery
+Secondary: Hypercoagulability, Asthma, Hyperlipidemia,
+status-post Left transmetatarsal amputation
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Please contact the office or come to the emergency with any
+worsening bleeding from your groin or worsening coldness/pain in
+your legs not improved with pain medications, or any questions.
+You should follow-up with Dr. [**First Name4 (NamePattern1) 1769**] Cucinotta in the clinic on
+2008-04-09 00:00:00 between 8am and 2 pm to have your INR checked and
+Coumadin dosed (as discussed with your daughter, Fran Cucinotta, on
+2008-04-09 00:00:00). Please call with any questions. You may address
+questions related to adjusting your narcotic medications with
+your primary care physician, Cucinotta. Cucinotta.
+
+Followup Instructions:
+You should follow-up with Dr. [**First Name4 (NamePattern1) 1769**] Cucinotta  (test@mail.com)
+in the clinic on 2008-04-09 00:00:00, 2008-04-09 00:00:00, 2008-04-09 00:00:00 to have your INR
+checked and Coumadin dosed (as discussed with your daughter,
+Fran Cucinotta, on 2008-04-09 00:00:00).
+
+Please contact the office of Dr. Kirstie Laferrara (vascular
+surgery) to set-up a follow-up appointment at a time of your
+convenience within the next 2 weeks. test@mail.com
+
+
+
+Completed by:2008-04-09 00:00:00

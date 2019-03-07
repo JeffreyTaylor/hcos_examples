@@ -1,0 +1,191 @@
+Admission Date:  2006-10-29 00:00:00       Discharge Date:  2006-10-29 00:00:00
+
+Date of Birth:   04/[**Numeric Identifier 5516**]       Sex:  F
+
+Service:  UPMCE MEDICAL INTENSIVE CARE UNIT
+HISTORY OF PRESENT ILLNESS:  The patient is a 79-year-old
+female with multiple medical problems and a prolonged recent
+Intensive Care Unit stay.  She was readmitted with prepped
+and draped.  In 2006-10-29 00:00:00 of this year, she had gallstone
+pancreatitis requiring open cholecystectomy, and her course
+congestive heart failure, atrial fibrillation, C-diff,
+respiratory failure followed by failure to wean, and because
+of this, she had a tracheostomy, the placement of which was
+complicated by tracheal tear requiring placement of a
+specialized trachea and urgent repair.  Additionally, she has
+an unclear myopathic, neuropathic process resulting in
+generalized total body weakness.  She was sent to 123 Any St.
+admission after respiratory distress and reported granulation
+tissue in her tracheal site.  Plans were made for a
+bronchoscopy in the morning.  She denied shortness of breath,
+chest pain, or cough.
+
+PAST MEDICAL HISTORY:  1.  Hypertension.  2.  Atrial
+fibrillation.  3.  Vent dependent believed to be secondary to
+myopathy neuropathy.  4.  Recent C-diff.  5.  Volume
+overload.  6.  Malnutrition.  7.  Status post tracheal
+perforation.  8.  Goiter hypothyroid.  9.  Right IJ clot.
+10.  Gastroesophageal reflux disease.  11.  Status post
+cholecystectomy.  12.  Status post intra-abdominal abscess.
+
+ALLERGIES:  ASPIRIN, LEVOFLOXACIN, VANCOMYCIN, GENTAMICIN.
+
+MEDICATIONS ON ADMISSION:  Synthroid 75 q.d., Metoprolol 25
+b.i.d., Prilosec 40 q.d., Flagyl 500 t.i.d., Paxil 20 q.d.,
+Vitamin C 500 b.i.d., Zinc 220 q.d., Trazodone 25 q.h.s.,
+Zofran p.r.n., Coumadin, Lasix 20 q.d., Promote tube feeds 65
+cc/hr.
+
+PHYSICAL EXAMINATION:  Vital signs:  Pulse 100, blood
+pressure 109/65, oxygen saturation 99% on room air.  General:
+She was an elderly white female in no acute distress.  HEENT:
+Unremarkable.  Lungs:  Coarse breath sounds throughout.
+Cardiovascular:  Irregularly, irregular with normal S1 and
+S2.  Abdomen:  Benign.  Extremities:  There was 3+ diffuse
+pitting edema.  Neurological:  She was alert and oriented
+with intact motor exam but generalized weakness.
+
+LABORATORY DATA:  Chest x-ray pending.  Electrocardiogram
+revealed atrial fibrillation at 125.
+
+HOSPITAL COURSE:  This was a 79-year-old female with multiple
+medical problems, with prolonged Intensive Care Unit stay,
+admitted with respiratory distress to the Medical Intensive
+Care Unit.
+
+1.  Pulmonary:  The patient was admitted with worsening
+respiratory status, breathing through a tracheostomy
+ventilator dependence believed to be secondary to
+myopathic process.  On hospital day #2, bronchoscopy was
+performed which was negative for obstruction or vocal cord
+dysfunction.  She was noticed to have a redundant trachea,
+and her episode of shortness of breath at the skilled nursing
+facility was likely secondary to her trach hitting the back
+of her trachea.  Interventional Pulmonary and Thoracic
+Surgery evaluated her airway, and they recommended not
+changing her trach at this time.  They felt that the current
+trach was appropriate and more likely to obstruct than any
+other.
+
+On hospital day #3, Neurology was consulted to evaluate her
+neuropathic process.  The result of this will be dictated
+subsequently.
+
+The patient was rested on AC mode with plans to start her on
+pressure support trials on hospital day #4.  By her fifth
+hospital day, the patient was tolerating pressure support
+mode well.  At this point, the consensus thinking was that
+all of her respiratory failure was due to her muscular
+weakness.  Pressure support was weaned as tolerated.
+
+On 2006-10-29 00:00:00, after consultation with the Interventional
+Pulmonology Service, it was deemed that the patient was a
+candidate for change to a new trach which would allow her to
+speak from time to time.  This was successfully performed
+without incident on 2006-10-29 00:00:00.  The patient tolerated the
+procedure well.  Following this through the remainder of her
+hospital stay, the patient was kept in pressure support mode
+with periodic T-piece trials.  On the day prior to
+discharge, she was able to tolerate a trache mask
+trial for approximately three hours.
+
+We will discharge her to UPMCE where she
+can be continued on pressure support mode with
+ trache mask trials as tolerated.  Of note at the time
+of discharge, she had not required AC ventilation mode for
+greater than two weeks.  At the time of discharge when on the
+ventilator, the patient was in IMV mode with pressure support
+with an FIO2 of 40%, a set tidal volume of 500, a set rate of
+5.  She was overbreathing at a rate of 17 total.  Her PEEP
+was set at 5.0, and her pressure support was set at 5.0 as
+well.
+
+2.  Cardiovascular:  The patient came in with chronic atrial
+fibrillation, therapeutic on Coumadin.  Her anticoagulation
+was stopped.  In order for her to have her bronchoscopy, she
+was subsequently put on Heparin and reloaded with Coumadin.
+At the time of discharge, her INR was 2.5 on a dose of 3 mg a
+day, and this will need to be adjusted at the outside
+hospital at an appropriate stable dose.  Additionally she was
+maintained on her Digoxin.  Multiple Digoxin levels were
+checked and were all 1.0 which was deemed acceptable.
+
+3.  GI:  The patient was on tube feeds.  At the time of
+discharge she was tolerating tube feeds at a rate of 40
+cc/hr.  Of note, on two separated occasions approximately one
+week before discharge, the patient had complaints of nausea
+and vomiting for which her tube feeds had to be stopped.  CT
+scan was performed on the day prior to discharge which
+revealed no intra-abdominal abscesses or evidence of bowel
+obstruction; however, the patient did appeared to have a mild
+ileus, the exact etiology of which is unclear at this time,
+although we speculated it may be related to her neuromuscular
+process.  She was tolerating tube feeds and able to move her
+bowels with laxatives.  We recommend continuing this at this
+time.  At the rehabilitation facility, low-dose Erythromycin
+can be considered as a GI motility Dahliah Fleskes if she continues to
+have problems tolerating tube feeds and with nausea and
+vomiting.
+
+4.  Neurology:  The patient was seen by the Neuromuscular
+Team who recommended muscle biopsy which was subsequently
+performed, the results of which are still pending at the time
+of this dictation and her discharge.  She has a follow-up
+appointment with the Neurology Service on Monday, 2006-10-29 00:00:00,
+at 4 p.m. on the 123 Any St. of the UPMCE Building, test@mail.com.
+At that time, results of the biopsy should be back.  In the
+meantime, they recommended a four-week trial of Prednisone 60
+mg a day, of which she is currently on.  She will continue
+this until the end of the four weeks in late 2006-10-29 00:00:00, or
+until she is directed to stop from the Neurology Service.
+
+5.  Infectious disease:  The patient had a urine culture come
+back positive for pseudomonas sensitive to Bactrim.  At the
+time of dictation, she is on her fifth day of Bactrim.  She
+will need to complete a 14-day course.  She should also have
+her urine tested for clearing of the bacteria at the outside
+facility.
+
+6.  Endocrine:  The patient was placed on a regular Insulin
+sliding scale for control of her blood sugars while on
+Prednisone.
+
+7.  Psychiatric:  In order to help with sleeping, the patient
+was given 40 mg Paxil q.h.s. which seemed to work well.
+
+8.  Prophylaxis:  For prophylaxis, the patient was placed on
+Prevacid q.d.
+
+9.  Fluids:  The patient was very edematous at the
+time of her admission.  She was started on Captopril which
+was titrated up to 37.5 t.i.d.  This seemed to greatly
+improve her urine output.  Additionally she was initially
+given a Lasix drip and subsequently switched over to daily
+Lasix dose.  Her current dose is 60 mg IV t.i.d.  With this,
+she has been diuresing approximately 500 cc to 1 L per day.
+We recommend continuing to do this until she clinically shows
+no evidence of fluid overload.  On exam at the time of
+discharge, she has approximately 1+ pitting edema in her
+lower extremities.
+
+10.  Communication:  Dr. Dahliah Fleskes, the patient's primary care
+physician, Jerelly Dimmer Jerelly Dimmer routinely throughout the course of
+her care.  There are plans to have follow-up discussions with
+the family, as course evolved.  Additionally as mentioned
+above, she has a follow-up appointment with the Neuromuscular
+Service regarding her diffuse myopathy.
+
+
+
+
+
+
+
+                            Dahliah Fleskes, M.D.  20007
+
+Dictated By:Dahliah Fleskes
+MEDQUIST36
+
+D:  2006-10-29 00:00:00  10:52
+T:  2006-10-29 00:00:00  11:12
+JOB#:  20007

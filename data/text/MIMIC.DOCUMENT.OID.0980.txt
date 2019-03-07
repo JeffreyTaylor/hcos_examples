@@ -1,0 +1,224 @@
+Admission Date:  2012-03-06 00:00:00              Discharge Date:   2012-03-06 00:00:00
+
+Date of Birth: 2000-03-06 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Antanasia Gregorash
+Chief Complaint:
+Leukocytosis, fever, altered mental status
+
+
+Major Surgical or Invasive Procedure:
+Endotracheal Intubation
+Central line placement
+Arterial Line placement
+
+History of Present Illness:
+Briefly, pt is a 78 year old male admitted from a UPMCE with
+persistent leukocytosis and a febrile epsiode. Pthad WBC of 30
+on 2012-03-06 00:00:00 and was started on levaquin for presumed urinary tract
+infection, although his urine culture was polymicrobial in
+nature. His WBC had trended down to 8, but yesterday he had a
+fever to 100.7 and his WBC increased to 12.1.  Pt is largely
+non-verbal and was unable to participate in the interview.
+
+Of particular note, pt was 123 Any St.usly admitted in
+2012-03-06 00:00:00/2012-03-06 00:00:00 after he sustained a fall complicated by
+C1/C2 fractures and bilateral intraparenchymal hemorrhages, now
+s/p G-tube placement. This hospitalization was also complicated
+by bradycardia to the 30s, with baseline HRs in the 50s in
+atrial fibrillation. Donepezil was held due to AV nodal effects
+and TTE was unremarkable with a normal EF >55%. Cardiology was
+consulted and considered pacemaker placement at the time.
+
+In the ED, initial VS: 98.8 72 110/74 20 96% 2L. He was given
+acetaminophen and IVFs. Repeat labs showed a leukocytosis to
+13.8 without a bandemia and a mild transaminitis. RUQ U/S showed
+2cm non-obstructing gallstone without gallbladder wall edema or
+pericholecystic fluid (CBD not visualized). CXR was without
+consolidation concerning for PNA. U/A showed significant blood,
+but only 14 WBCs and small leuk esterase with no bacteria (on
+levofloxacin). Vitals on transfer were: Temp: 98.7, Pulse: 80,
+RR: 18, BP: 118/84, O2Sat: 97, O2Flow: RA.
+
+On the floor, he is non-verbal and is difficult to assess any
+pain or discomfort.
+
+The patient developed increasing secretions on the floor
+complicated by cardiopulmonary arrest. He was intubated and
+resuscitated with return of spontaneous circulation after two
+rounds of chest compressions. He was transfered to the ICU, then
+made CMO and transfered to the floor after extubation.
+
+Past Medical History:
+-atrial fibrillation with bradycardia; being considered for
+pacemaker placement
+-Parkinson's disease c/b dementia
+-BPH with urinary retention, indwelling foley in place from UPMCE
+
+-HTN
+-hyperlipidemia
+-s/p fall with C1 bilateral arch fx, C2 type 2 odontoid fx,
+nasal bone fx, and b/l intraparenchymal hemorrhage (2012-03-06 00:00:00
+2012-03-06 00:00:00)
+-s/p G-tube placement
+
+Social History:
+Lives in 123 Any St.usly lived with
+wife in the community. No tobacco or EtOH use per records. Per
+nursing at Kalep Cielo pt is able to occasionally answer yes/no
+questions, although not appropriately.
+
+Family History:
+unable to obtain
+
+Physical Exam:
+ADMISSION EXAM
+VS - Tmax 97.9 Tc 96.2, BP 122/69 (104-122/55-69), HR 72-73, R
+18, 96% RA O:900
+GENERAL - ill-appearing male in mild distress, non-verbal, opens
+eyes to voice (L>R), unable to follow any commands
+HEENT - sclerae anicteric, dry mucous memebranes
+NECK -  123 Any St. J collar in place
+LUNGS - difficult to ascultrate, but clear
+HEART - soft heart sounds, RRR, no MRG, nl S1-S2
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding; G-tube site is erythematous without purulence
+or induration
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+
+SKIN - mild excoriations over elbows bilaterally, G-tube site as
+above, small tear on sacrum without surrounding erythema
+NEURO - awake, unable to assess orientation, UEs with severe
+contractions.
+
+DISCHARGE EXAM
+No pupillary reflex, no response to painful stimuli, absent
+pulse and breath sounds. Expired 1:30 PM 2012-03-06 00:00:00
+
+Pertinent Results:
+ADMISSION LABS
+2012-03-06 00:00:00 02:30PM BLOOD WBC-13.8*# RBC-5.00# Hgb-15.5 Hct-45.9#
+MCV-92 MCH-31.0 MCHC-33.7 RDW-14.2 Plt Ct-241
+2012-03-06 00:00:00 02:30PM BLOOD Neuts-75.9* Lymphs-17.8* Monos-4.8
+Eos-0.9 Baso-0.5
+2012-03-06 00:00:00 07:00AM BLOOD PT-12.9* PTT-27.8 INR(PT)-1.2*
+2012-03-06 00:00:00 02:30PM BLOOD Glucose-127* UreaN-36* Creat-0.9 Na-144
+K-4.4 Cl-109* HCO3-26 AnGap-13
+2012-03-06 00:00:00 02:30PM BLOOD ALT-73* AST-58* LD(LDH)-172 AlkPhos-96
+TotBili-0.3
+2012-03-06 00:00:00 02:30PM BLOOD Lipase-28
+2012-03-06 00:00:00 07:00AM BLOOD Albumin-3.1* Calcium-8.6 Phos-3.1 Mg-2.3
+2012-03-06 00:00:00 02:37PM BLOOD Lactate-1.8 K-4.3
+
+DISCHARGE LABS
+[patient expired]
+
+Cultures:
+2012-03-06 00:00:00 2:25 pm URINE     Site: CATHETER
+                            **FINAL REPORT 2012-03-06 00:00:00**
+   URINE CULTURE (Final 2012-03-06 00:00:00):    NO GROWTH
+
+CXR 2012-03-06 00:00:00:
+FINDINGS: AP upright and lateral views of the chest are
+obtained. The lungs appear clear without focal consolidation,
+effusion, or pneumothorax.
+Cardiomediastinal silhouette appears stable with unfolded
+thoracic aorta again noted. Bony structures appear intact. There
+is no free air below the right hemidiaphragm.
+IMPRESSION: No signs of pneumonia
+
+CT Head w/out contrast 2012-03-06 00:00:00:
+IMPRESSION:
+1. Evolution of the 123 Any St.usly noted frontal contusions.
+2. Focal area of increased attenuation in the left temporal
+region,
+extra-axial in location, which may relate to the adjacent part
+of the left transverse sinus or small subdural hemorrhage.
+Consider close followup to assess stability and to exclude
+hemorrhage in this location. Study limited due to motion-related
+artifacts.
+
+RUQ US 2012-03-06 00:00:00:
+IMPRESSION:
+1. Limited evaluation of the liver and gallbladder due to
+difficulty with
+patient positioning and interference with existing feeding tube.
+
+2. Distended gallbladder with a 2.0 cm gallstone. No
+pericholecystic fluid or gallbladder wall thickening seen. The
+patient could not be evaluated for sonKalep Cielo Kalep Cielo sign.
+Aside for gallbladder distention, no definite secondary signs of
+acute cholecystitis, but exam is suboptimal. HIDA scan could be
+considered for further evaluation.
+
+EEG 2012-03-06 00:00:00
+This is an abnormal continuous ICU monitoring study because
+of continuous spike and wave and polyspike and wave discharges,
+ranging
+from 2012-03-06 00:00:00 Hz, some of which correlate with myoclonic jerk of the
+body on
+video. These findings are consistent with myoclonic seizures,
+and in
+the setting of post-anoxia, portend a very poor prognosis. Over
+the
+course of recording, generalized epileptiform discharges
+persisted
+without clear improvement.
+
+MRI HEAD W/O CONTRAST 2012-03-06 00:00:00
+1. No acute infarct.
+2. Generalized cerebral volume loss with changes of chronic
+small vessel
+ischemic disease.
+3. Numerous microhemorrhages in bilateral cerebral hemispheres,
+which likely represent changes of amyloid angiopathy.
+4. Chronic- appearing odontoid fracture of undetermined age.
+
+
+Brief Hospital Course:
+Mr. Cielo is a 79y/o gentleman with Parkinson's dementia s/p
+recent fall with intraparenchymal hemorrhage and C1/C2 fractures
+who presented with persistent leukocytosis and isolated fever,
+likely due to urinary tract infection.  He had a PEA arrest, was
+intubated, and was transferred to the MICU.  Neurology was
+consulted for myoclonic movements and EEG confirmed that these
+were likely myoclonic seizures in the setting of anoxic brain
+injury, with a dismal prognosis.  Family meetings were held, and
+the decision was made to make the patient CMO.  He was extubated
+on 2012-03-06 00:00:00 and expired on 2012-03-06 00:00:00.
+
+
+Medications on Admission:
+-carbidopa-levodopa 25-100 mg per GT TID
+-Namenda 5 mg per GT UPMCE
+-Bowel regimen: Fleet enema PRN, Dulcolax 10mg PRN, MoM 30ml PRN
+
+-Maalox 30ml q6h PRN GI distress
+-Heparin SC 5000 units TID
+-albuterol nebs PRN congestion
+-levaquin 500mg daily (started on 2012-03-06 00:00:00)
+
+Discharge Medications:
+patient expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+patient expired
+
+Discharge Condition:
+patient expired
+
+Discharge Instructions:
+patient expired
+
+Followup Instructions:
+patient expired
+
+

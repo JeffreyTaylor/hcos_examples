@@ -1,0 +1,351 @@
+Admission Date:  2005-01-18 00:00:00              Discharge Date:   2005-01-18 00:00:00
+
+Date of Birth: 1923-01-18 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Janyne Nakhleh
+Chief Complaint:
+catatonia
+
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+51M w/ hx of depression, remote suicide attempts and OCD
+presented to ED on 2005-01-18 00:00:00 with c/o being nonconversant. He was
+being weaned off abilify over the past 3 weeks due to
+"drowsiness", and 3 days ago the patient's mother, with whom he
+lives, noticed that he was pacing the floor, a behavior that is
+unusual for him, but otherwise was at his baseline which is
+fully functional and independent in ADLs. The next morning
+however he became nonconversant and minimally responsive to
+verbal commands. After contacting his psychiatrist, his mother
+brought the patient to the Ascher Patch for evaluation.
+.
+In the ED, initial VS were: 97.8 70 158/90 18 96RA
+.
+He was evaluated by psychiatry who felt his symptoms were due to
+aquired catatonia in the setting of a mood disorder and weaning
+off abilify. They noted that in the ED he exhibited mutism,
+hypokinetic behavior, echolalia/echopraxia, posturing and
+decreased eye blink. He was placed on section 12 and bed search
+was initiated. However he became agitated yesterday afternoon
+when he was ready to be transferred to an outside facility. He
+was given ativan but eventurally required 4 point restraints.
+Restraints were kept in place overnight, removed this morning,
+but then replaced due to concern for fall risk as he would not
+remain in his bed. His CK was noted to be trending upward, and
+the ED requested that he be admitted to the MICU given possible
+need for ativan drip, rising CK, and high risk for NMS.
+.
+Last vitals in ED: 97.8 70 158/90 18 96%RA. Just prior to
+admission he was noted to be drowsy, with his last benzo dose of
+ativan 2mg, midazolam 5mg at 1130hrs, and total of 20mg ativan
+given during ED course. ED records noted his head CT was
+negative for hemorrhage, mediastinum appeared widened on AP CXR,
+and initial ECG showed sinus tachycardia with normal QTc
+interval.
+.
+On arrival to the MICU patient was conversant, but remained
+mildly agitated.
+.
+Review of systems:
+- Reviewed and negative except per HPI
+
+Past Medical History:
+- depression w/ psychotic feactures, s/p ECT, hx of suicide
+attempts
+- Obsessive-compulsive traits
+- CAD s/p AMI 2005-01-18 00:00:00, stent placed in 2005-01-18 00:00:00
+- chronic low back pain
+- asthma
+- obesity
+
+
+Social History:
+- Tobacco: smokes 1-1.5ppd x 30yrs
+- Alcohol: none per mother
+- Ascher Patch: hx of cocaine and marijuana abuse, none for past
+20yrs
+- Divorced 20yrs ago, has 2 adult children, lives with mother in
+Ascher Patch
+
+
+Family History:
+- sister: post-partum depression, suicide
+- grandfather: OCD
+
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T: 96.9 BP: 153/87 P: 76 R: 17 O2: 94%RA
+General: A/Ox2, answers basic questions
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: Obese, protuberant abdomen, nontender, bowel sounds
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred, unable to complete finger-to-nose d/t restraints
+
+
+Pertinent Results:
+ADMISSION LABS:
+2005-01-18 00:00:00 02:20PM BLOOD WBC-12.7* RBC-5.61 Hgb-17.0 Hct-50.7
+MCV-90 MCH-30.3 MCHC-33.6 RDW-12.7 Plt Ct-269
+2005-01-18 00:00:00 02:20PM BLOOD Neuts-76.9* Lymphs-17.0* Monos-4.8
+Eos-1.0 Baso-0.4
+2005-01-18 00:00:00 02:20PM BLOOD Glucose-115* UreaN-19 Creat-1.1 Na-139
+K-4.7 Cl-100 HCO3-29 AnGap-15
+2005-01-18 00:00:00 02:20PM BLOOD CK(CPK)-565*
+2005-01-18 00:00:00 02:40AM BLOOD ALT-27 AST-53* LD(LDH)-223 CK(CPK)-1354*
+AlkPhos-111 TotBili-0.4
+2005-01-18 00:00:00 02:40AM BLOOD Lipase-29
+2005-01-18 00:00:00 02:20PM BLOOD cTropnT-<0.01
+2005-01-18 00:00:00 02:40AM BLOOD CK-MB-14* MB Indx-1.0
+2005-01-18 00:00:00 02:40AM BLOOD CK-MB-14* MB Indx-1.0
+2005-01-18 00:00:00 09:25AM BLOOD CK-MB-16* MB Indx-1.1 cTropnT-<0.01
+2005-01-18 00:00:00 09:29PM BLOOD CK-MB-14* MB Indx-1.2 cTropnT-<0.01
+2005-01-18 00:00:00 05:17AM BLOOD CK-MB-12* MB Indx-1.2 cTropnT-<0.01
+2005-01-18 00:00:00 09:29PM BLOOD Albumin-3.7 Calcium-8.6 Phos-3.5 Mg-2.0
+2005-01-18 00:00:00 02:20PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-POS
+Barbitr-NEG Tricycl-NEG
+2005-01-18 00:00:00 07:56PM BLOOD Type-Patch Temp-37.9 pO2-100 pCO2-26*
+pH-7.56* calTCO2-24 Base XS-2 Intubat-NOT INTUBA Comment-GREEN
+TOP
+2005-01-18 00:00:00 07:56PM BLOOD freeCa-0.94*
+2005-01-18 00:00:00 07:56PM BLOOD Lactate-1.1
+.
+MICRO:
+2005-01-18 00:00:00 8:02 pm SWAB      Source: left groin.
+
+   WOUND CULTURE (123 Any St.inary):
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    MODERATE GROWTH.
+.
+IMAGING:
+2005-01-18 00:00:00 CT HEAD TECHNIQUE: Contiguous axial images were obtained
+through the brain. No contrast was administered.
+FINDINGS: There is no evidence of hemorrhage, edema, mass
+effect, or
+infarction. The ventricles and sulci are normal in size and
+configuration. The mastoid air cells, and middle ear cavities
+are clear. There is mild mucosal thickening in the ethmoid air
+cells. Sphenoid sinus septations insert anterior to the carotid
+grooves.
+IMPRESSION: No evidence of hemorrhage, mass effect. Correlate
+clinically to decide on the need for further workup.
+.
+2005-01-18 00:00:00 CXR HISTORY: Catatonia and worsening rhonchi. Suspect
+pneumonia.
+IMPRESSION: AP chest compared to 2005-01-18 00:00:00:11 p.m.
+There may be a new consolidation at the base of the left lung
+denoted by the appearance of air bronchograms, pneumonia until
+proved otherwise. Top normal heart size, unchanged. Pulmonary
+vascular engorgement is present, but there is no clear edema or
+ap123 Any St.ble pleural effusion. Mediastinal widening due to fat
+deposition is longstanding.
+
+Discharge Labs:
+2005-01-18 00:00:00 06:10AM BLOOD WBC-12.7* RBC-5.51 Hgb-16.5 Hct-49.6
+MCV-90 MCH-30.0 MCHC-33.3 RDW-12.5 Plt Ct-352
+2005-01-18 00:00:00 06:10AM BLOOD Glucose-97 UreaN-15 Creat-0.9 Na-139
+K-3.9 Cl-101 HCO3-25 AnGap-17
+2005-01-18 00:00:00 06:10AM BLOOD ALT-80* AST-68* LD(LDH)-267* CK(CPK)-213
+AlkPhos-109 TotBili-0.3
+2005-01-18 00:00:00 06:10AM BLOOD Albumin-4.0 Calcium-9.7 Phos-3.6 Mg-2.1
+2005-01-18 00:00:00 06:15AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE HAV Ab-NEGATIVE
+2005-01-18 00:00:00 05:50AM BLOOD %HbA1c-5.5 eAG-111
+
+Studies pending at Discharge:
+None
+
+
+Brief Hospital Course:
+Mr. Patch is a 51 year old male with history of depression,
+obsessive compulsive disorder (OCD), and coronary artery disease
+(CAD) who was admitted for catatonia and course was notable for
+waxing and Janyne Nakhleh catatonia and agitation.
+
+ACTIVE PROBLEMS BY ISSUES:
+# Catatonia: He was seen by psychiatry and they felt that his
+catatonia was most likely due to recent weaning from abilify
+with exacerbation of underlying mood disorder (depression with
+psychosis). In ED, patient exhibited agitation requiring 4 point
+restraints for prolonged course, and 20mg lorazepman total. ECT
+was entertained as a possible intervention for catatonia, and
+was initially deferred as his catatonia resolved with standing
+antipsychotics (haloperidol 10mg UPMCE, with ativan 1mg UPMCE).
+Unfortunately, although his catatonia improved, Mr. Patch
+psychosis did not continue to improve with haloperidol from
+2005-01-18 00:00:00, and ECT was deemed necessary. He was scheduled to
+begin ECT on 2005-01-18 00:00:00, and medical clearance was obtained, but
+unfortunately Mr. Patch could not be consented for the
+procedure and health care proxy authority for his mother was not
+formalized. Mr. Ascher Patch remained in 2005-01-18 00:00:00 point restraints during
+his floor stay.
+
+# Leukocytosis/Fever/Pneumonia:  Mr. Ascher Patch was noted to have
+difficulty with secretions on 2005-01-18 00:00:00 after recieving ativan for
+agitation. CXR on 2005-01-18 00:00:00 2005-01-18 00:00:00 a left lower lobe
+infiltrate and rhonchi on exam. Mr. Patch also was noted to
+have low grade fevers (100.5-101), and leukocytosis to 14. He
+was therefore felt to have pneumonia and symptoms with
+levofloxacin for a 7 day course.
+
+# Elevated creatine kinase (CK): Psychiatry was concerned his
+elevated CK represented neuroleptic malignant syndrome (NMS).
+He was admitted to the MICU but did not exhibit any signs or
+symptoms of NMS including no fevers and had progressively
+downtrending CK. Ultimately, the elevated CK was likely due to
+thrashing in the ED.
+
+#Transaminitis: Mr. Ascher Patch low-grade transaminitis
+40-60s which is consistent with prior levels. This may be
+secondary to known fatty liver disease or toxic effects of CK.
+It persisted during admission without evidence of synthetic
+dysfunction and should be followed as an outpatient. LFTs should
+be monitored periodically as elevated aminotransferases may also
+represent mild hepatotoxicity from the high doses of
+antipsychotic medications he has been receiving. Viral hepatitis
+serologies were within normal limits. Of note, his hepatitis B
+surface antibody was negative, and future vaccination should be
+considered.
+
+# Groin pustule:  Noted by nurse in the MICU, was unroofed and
+sent for culture, growing MSSA.  This was sensitive to
+levofloxacin which he recieved for his pneumonia.
+
+# Coronary artery disease (CAD): History of acute myocardial
+infarction in 2005-01-18 00:00:00, stent placed in 2005-01-18 00:00:00.  ECG showed sinus
+rhythm with no acute ischemic changes. He has a baseline widened
+mediastinum found on prior CT to be fat deposits and
+lymphadenopathy. We initially held his simvastatin and zetia
+given elevated LFTs.  We continued his aspirin given his LAD
+stent.
+
+#Poor PO intake: Mr. Patch Patch refused to take PO
+intake while on the floor. We continued IV fluids with D5 1/2 NS
+at 125 cc/hr during his stay, but his hematocrit increased from
+41 to 49 indicating hemoconcentration. We increased his IVF to
+150 cc/hr on 2005-01-18 00:00:00, but his hct continued to rise from 2005-01-18 00:00:00 to
+2005-01-18 00:00:00 from 47.6 to 49.6. We suggest increasing his IVF to D5 2005-01-18 00:00:00
+NS at 200 cc/hr if he continues to refuse oral intake.
+
+# Asthma: Continued home albuterol and ipratropium PRN.
+
+# Communication: mother, Ascher Patch psychiatrist Dr. Patch
+(test@mail.com)
+
+TRANSITIONAL ISSUES:
+- Please determine if luvox and lamictal are to be restarted.
+These were held upon admission for unclear reasons, and were not
+restarted upon transfer to the floor as they had been held for 8
+days.
+
+Medications on Admission:
+- diazepam 5-10mg qhs prn insomnia
+- luvox cr 300mg qhs
+- lamictal 300mg qhs
+- simvastatin 40mg daily
+- aspirin 325mg daily
+- atrovent Q6hrs prn
+- zetia 10mg daily
+- acebutolol 200mg UPMCE
+
+
+Discharge Medications:
+1. Zetia 10 mg Tablet Sig: One (1) Tablet PO once a day.
+2. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) 5000
+unit injection
+5,000 unit injection Injection TID (3 times a day).
+4. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+5. lorazepam 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+6. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for shortness of breath or
+wheezing.
+7. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for shortness of breath or wheezing.
+8. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 2 days: Last day of course will be 2005-01-18 00:00:00.
+9. haloperidol 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+10. acebutolol 200 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+11. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Depression with psychotic features
+Asthma
+Obesity
+Coronary Artery Disease
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+
+
+Discharge Instructions:
+Dear Mr. Patch,
+.
+It was a pleasure taking care of you at UPMCE. You were admitted
+to the hospital because you were having a manifestation of your
+depression called catatonia.  There was concern that your
+muscles were ungoing breakdown because of the catatonia so we
+monitored you closely in the ICU, but your muscles turned out to
+be recovering well.
+.
+Your catatonia was treated with medications called haldol and
+lorazepam. Your depression and psychosis will need further
+treatment with a procedure known as electroconvulsive therapy.
+It is very important that you keep all of the appointments with
+your doctors listed below.  You will be transfered to the
+psychiatric UPMCE to continue to treat your depression and
+psychosis.
+
+Your psychiatric medications will be adjusted further during
+your psychiatric hospitalization.
+.
+It is also very important that you take your medications
+everyday.  The following changes were made to your medications:
+
+1. Your Luvox and lamictal (treatments for depression and other
+mood disorders) have been stopped, please consult with your
+psychiatrists regarding whether to restart these.
+START haloperidol (for your confusion)
+START levofloxacin (for pneumonia), you will have 2 more days
+START ativan for agitation
+STOP simvastatin and START atorvastatin because we need to treat
+your lipids, but the simvastatin may have been harming your
+liver
+
+
+Followup Instructions:
+Please follow up with your PCP after you are discharged from
+deaconness 4.
+
+
+

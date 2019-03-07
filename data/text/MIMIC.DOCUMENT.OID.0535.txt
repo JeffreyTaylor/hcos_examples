@@ -1,0 +1,282 @@
+Admission Date:  2005-12-02 00:00:00              Discharge Date:   2005-12-02 00:00:00
+
+Date of Birth: 1919-12-02 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Jermarius Rassbach
+Chief Complaint:
+Nausea and Vomiting.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+55 year-old female with recently diagnosed stage IIIA fallopian
+tube adenocarcinoma who presented to oncology clinic complaining
+of ongoing nausea, vomiting, and weakness. She received her
+first cycle of chemotherapy consisting of intravenous Taxol and
+carboplatin on 2005-12-02 00:00:00, and last week received her second cycle
+consisting of intravenous Taxol and intraperitoneal cisplatin,
+followed by aggressive antiemetics with dolasetron, Emend, and
+compazine.  Ever since her recent chemotherapy, she has had some
+abdominal pain, nausea, vomiting, and was feeling tired.  She
+has not been able to keep any food down, but has been tying to
+drink Boost and Ensure as tolerated. She has not had any
+diarrhea.  She describes also intermittent fevers/chills at
+home, without any headache, change in vision, chest pain, SOB,
+excessive thirst or urination, or change in her bowel habits.
+In oncology clinic she was found to be dehydrated, with a serum
+sodium in the 108 range and potassium in the low 2 range, and is
+admitted for further management.
+.
+In the ED she was afebrile, with normal vital signs, and a
+normal mental status exam (per her husband). She was given IV
+normal saline, potassium replacement, and was admitted to the
+UPMCE for further management.  The patient's sodium improved with
+normal saline. The etiology of her hyponatremia and hypokalemia
+was unclear but was possibly secondary to SIADH, exacerbated by
+dehydration and electrolyte loss (vomiting), or secondary to a
+component of Fanconi's syndrome. Hypertonic saline and
+democycline were not necessary. The patient's cortisol
+stimulation test and TSH were within normal limits. Celexa was
+discontinued due to its association with SIADH. The patient's
+IVF were discontinued at noon the day of transfer to the OMED
+floor with sodium improving to 128 and normalization of her
+potassium.
+
+Past Medical History:
+1. Stage IIIA grade III left-sided fallopian tube cancer, status
+post total abdominal hysterectomy, bilateral
+salpingo-oophorectomy, left pelvic lymph node dissection,
+peritoneal washings and omental biopsy on 2005-12-02 00:00:00.
+2. Hypertension
+3. Major Depression
+4. History of gastrointestinal bleed
+
+Social History:
+She lives in Jermarius Rassbachwith husband and two of her three
+sons.  Britinee Picone husband is a cardiologist.  She denies tobacco or
+EtOH use.
+
+
+Family History:
+NC
+
+Physical Exam:
+VITAL SIGNS: 98  85  160/100  20  98% RA
+GENERAL: Pale female with alopecia, tired-appearing, in NAD
+HEENT: MM dry with cracked red lips, anicteric, no sinus
+tenderness
+NECK: Supple, no LAD, JVP flat
+HEART: RRR with a flow murmur, no S3 or S4
+CHEST: Clear to ausculatation and percussion bilaterally
+ABDOMEN: Soft, obese, NT, ND, palpable IP port in LUQ without
+erythema
+EXTREMITIES: No c/c/e, pale nail beds, normal cap refill
+NEUROLOGIC: AAO x 3, appropriate, CN intact, strength 5/5 in
+bilateral upper and lower extremities.  No sensory defect.  Did
+not assess gait
+SKIN: Flushed, erythematous apearance of neck
+MUSCULOSKELETAL: No joint effusions noted
+
+Pertinent Results:
+2005-12-02 00:00:00 12:30PM   SODIUM-108* POTASSIUM-2.0* CHLORIDE-65*
+2005-12-02 00:00:00 03:15PM   GLUCOSE-175* UREA N-22* CREAT-1.0 SODIUM-109*
+POTASSIUM-2.8* CHLORIDE-66* TOTAL CO2-29 ANION GAP-17
+2005-12-02 00:00:00 03:25PM   GLUCOSE-171* LACTATE-3.2* K+-2.6*
+2005-12-02 00:00:00 09:35PM URINE  OSMOLAL-381
+2005-12-02 00:00:00 09:35PM URINE  HOURS-RANDOM UREA N-386 CREAT-27
+SODIUM-60 POTASSIUM-39 PHOSPHATE-39.1
+2005-12-02 00:00:00 10:25PM   TSH-1.4
+2005-12-02 00:00:00 10:25PM   calTIBC-397 FERRITIN-391* TRF-305
+2005-12-02 00:00:00 10:25PM   GLUCOSE-140* UREA N-19 CREAT-0.9 SODIUM-111*
+POTASSIUM-2.9* CHLORIDE-73* TOTAL CO2-26 ANION GAP-15
+2005-12-02 00:00:00 10:25PM BLOOD Glucose-140* UreaN-19 Creat-0.9 Na-111*
+K-2.9* Cl-73* HCO3-26 AnGap-15
+2005-12-02 00:00:00 05:21AM BLOOD Glucose-111* UreaN-16 Creat-0.8 Na-113*
+K-2.7* Cl-79* HCO3-27 AnGap-10
+
+2005-12-02 00:00:00 10:25PM BLOOD Glucose-140* UreaN-19 Creat-0.9 Na-111*
+K-2.9* Cl-73* HCO3-26 AnGap-15
+2005-12-02 00:00:00 05:21AM BLOOD Glucose-111* UreaN-16 Creat-0.8 Na-113*
+K-2.7* Cl-79* HCO3-27 AnGap-10
+2005-12-02 00:00:00 10:41AM BLOOD Na-114* K-3.8
+2005-12-02 00:00:00 04:12PM BLOOD Na-116* K-3.4
+2005-12-02 00:00:00 08:19PM BLOOD Na-122* K-3.7
+2005-12-02 00:00:00 12:34AM BLOOD Na-122* K-3.9
+2005-12-02 00:00:00 04:31AM BLOOD Glucose-98 Creat-1.1 Na-123* K-4.0 Cl-92*
+HCO3-23 AnGap-12
+2005-12-02 00:00:00 09:48AM BLOOD Na-124* K-3.4
+2005-12-02 00:00:00 02:02PM BLOOD Na-128* K-3.5
+.
+2005-12-02 00:00:00 CXR: IMPRESSION:  No acute cardiopulmonary disease.
+Gas distended loops of small bowel with air-fluid levels within
+the upper abdomen.  Unclear of the etiology of this finding;
+however, it may be related to her history of ovarian cancer and
+correlation with past imaging studies and patient history is
+recommended.
+.
+ECG: NSR, mild LAD, prolonged QTc, delayed RWP
+.
+
+Brief Hospital Course:
+55 year-old female patient with history of hypertension,
+depression, and recent diagnosis of stage IIIA fallopian tube
+cancer who presents with one week of nausea, vomiting, and
+malaise and laboratory abnormalities of hyponatremia and
+hypokalemia. This was likely secondary to either SIADH or
+Fanconi's syndrome.
+
+1. Hyponatremia. The patient's baseline sodium is 128 per
+123 Any St.us records. The patient was asymptomatic on presentation.
+The patient was followed by the renal team throughout admission.
+Cortisol stimulation was performed with appropriate response.
+TSH was within normal limits. Her serum osmolality was low, and
+her urine osmolarity was high. Her urine sodium was > 60 with
+FENa > 2%. Citalopram was discontinued for its association with
+SIADH. Hydrochlorothiazide were discontinued because of
+hyponatremia and dehydration. The patient was initially treated
+with normal saline with slow correction of hyponatremia. Liberal
+salt intake was encouraged. Hypertonic saline and demecycline
+were not necessary. The patient's creatinine increased to 1.4
+the day of discharge, possibly secondary to recent cisplatin
+treatment. The patient will have repeat labwork after discharge
+to monitor this.
+.
+2. Hypokalemia. This is most likely related to GI and renal
+potassium. The patient will have outpatient labwork as above.
+.
+3. Nausea/vomiting. Likely secondary to chemotherapy and
+hyponatremia. The patient was given anti-emetics as needed. This
+was improved prior to discharge.
+.
+4. Fallopian tube cancer. The patient was followed by Dr.
+Picone while she was in the intensive care unit. The patient
+will follow-up with Drs Jermarius Rassbach. The patient's
+blood counts remained stable throughout.
+.
+5. Hypertension. The patient was continued on Diovan. The
+patient's hydrochlorothiazide was held because of the patient's
+hyponatremia and dehydration.
+.
+6. Depression. She has a long history of major depression
+including one drug overdose. She denied suicidal ideation. The
+patient's citalopram was held due to its association with SIADH.
+The patient was continued on Remeron. The patient will follow-up
+with an outpatient psychiatrist.
+.
+7. Hypothyroidism. The patient's TSH was within the normal
+range. The patient was continued on her outpatient dose of
+levothyroxine.
+.
+8. Erythema of neck and back. Patient states this is related to
+anxiety. The patient was given atarax as needed with good
+effect.
+.
+9. History of gastrointestinal bleed. No active issues. The
+patient was continued on Protonix.
+.
+Code: Full, discussed with patient
+
+Medications on Admission:
+1. Diovan/HCTZ 320/25
+2. Celexa 20mg
+3. Remeron 15mg
+4. Synthroid 0.1mg
+5. Motrin 800mg prn
+6. Vicodin 5/500 prn abdominal pain
+7. Compazine prn
+8. Zofran prn
+9. Ativan 1mg tid prn
+10. Temazepam 30mg qhs
+
+
+Discharge Medications:
+1. Outpatient Lab Work
+Please obtain blood work in Jermarius Rassbachas instructed.  Please
+call Dr. Jermarius Rassbach with results; phone number (test@mail.com.
+2. Valsartan 160 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+6. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for anxiety, nausea.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Temazepam 30 mg Capsule Sig: One (1) Capsule PO at bedtime.
+Disp:*30 Capsule(s)* Refills:*2*
+8. Hydroxyzine HCl 25 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for anxiety.
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*2*
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*2*
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+12. Anzemet 100 mg Tablet Sig: One (1) Tablet PO once a day as
+needed for nausea for 2 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Hyponatremia secondary to Fanconi's syndrome versus SIADH
+.
+Secondary:
+1. Stage IIIA grade III left-sided fallopian tube cancer
+2. Hypertension
+3. Major Depression
+4. History of gastrointestinal bleed
+
+Discharge Condition:
+Afebrile, vital signs stable. Electrolytes stable.
+
+
+Discharge Instructions:
+Please contact a physician if you experience fevers, chills,
+increased confusion, change in vision, increased nausea, or any
+other concerning symptoms.
+.
+Please take your medications as prescribed.
+- Your celexa and hydrochlorothiazide were discontinued because
+they can contribute to low sodium (salt) in your blood.
+- You can take anzemet 100 mg once daily as needed for nausea.
+- You can take ativan 1 mg every six hours as needed for nausea.
+Please contact your psychiatrist about a refill for this
+medication if he feels it is medically necessary.
+- You should take colace and senna as needed for constipation
+while taking pain medications.
+.
+Please increase your salt intake as much as possible; add table
+salt to foods, eat foods high in sodium such as Picone.
+.
+Please have your blood checked early next week. You have a
+prescription written for labwork. Dr. Jermarius Rassbach will
+follow-up these results.
+.
+Please keep your follow-up appointments as below.
+
+Followup Instructions:
+Provider: Britinee Picone, RN Phone:test@mail.com Date/Time:2005-12-02 00:00:00
+10:00
+Provider: Britinee Britinee Picone, MD Phone:test@mail.com
+Date/Time:2005-12-02 00:00:00 10:00
+Provider: Britinee Picone 19  Date/Time:2005-12-02 00:00:00 10:00
+
+
+

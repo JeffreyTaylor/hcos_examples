@@ -1,0 +1,336 @@
+Admission Date:  2009-06-08 00:00:00              Discharge Date:   2009-06-08 00:00:00
+
+Date of Birth: 1955-06-02 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Cubert Roedema
+Chief Complaint:
+Chest pain, dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+2009-06-08 00:00:00 Four Vessel Coronary Artery Bypass Grafting utilizing
+the left internal mammary to left anterior descending artery,
+with vein grafts to ramus intermedius, obtuse marginal and PDA.
+
+
+History of Present Illness:
+This is a 72 year old with known coronary artery disease. Over
+the last several months, he began to experience worsening chest
+pain and dyspnea on exertion. He recently underwent stress
+testng which was positive for ischemia. Stress ECHO in 2009-06-08 00:00:00
+2009-06-08 00:00:00 was notable for an LVEF of 55-60%. Subsequent cardiac
+catheterization on 2009-06-08 00:00:00 revealed severe three vessel coronary
+artery disease. Based upon the above results, he was referred
+for coronary surgical intervention.
+
+Past Medical History:
+Coronary Artery Disease
+History of PTCA(ramus) 2009-06-08 00:00:00
+History of Myocardial Infarction 2009-06-08 00:00:00
+Diabetes Mellitus Type II
+Hypertension
+Hyperlipidemia
+History of Prostate Cancer - s/p Radical Prostatectomy
+Arthritis
+Gout
+Tonsillectomy
+
+
+Social History:
+Married with grown children. He is a very active volunteer. He
+worked at the Mass Transit Authority prior to retiring/ Social
+history is significant for the absence of current tobacco use,
+quit in 2009-06-08 00:00:00. There is no history of alcohol abuse and no
+current alcohol use.
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death. His father had CHF in his 80s.
+
+
+Physical Exam:
+Vitals: BP 167/80, HR 56, RR 18
+General: well developed male in no acute distress
+HEENT: oropharynx benign,
+Neck: supple, no JVD, no carotid bruits
+Heart: regular rate, normal s1s2, no murmur or rub
+Lungs: clear bilaterally
+Abdomen: soft, nontender, normoactive bowel sounds
+Ext: warm, no edema, no varicosities
+Pulses: 2+ distally
+Neuro: nonfocal
+
+
+Pertinent Results:
+2009-06-08 00:00:00 06:50AM BLOOD WBC-8.6 RBC-3.41* Hgb-10.1* Hct-31.0*
+MCV-91 MCH-29.6 MCHC-32.6 RDW-14.6 Plt Ct-455*
+2009-06-08 00:00:00 06:50AM BLOOD PT-24.3* INR(PT)-2.4*
+2009-06-08 00:00:00 06:50AM BLOOD Glucose-120* UreaN-32* Creat-1.8* Na-138
+K-4.7 Cl-101 HCO3-28 AnGap-14
+RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  2009-06-08 00:00:00 9:23 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate ?pneumomediastinum
+
+UNDERLYING MEDICAL CONDITION:
+72 year old man with h/o MI 2009-06-08 00:00:00, presented for cath found to
+have 3VD.
+REASON FOR THIS EXAMINATION:
+evaluate ?pneumomediastinum
+INDICATIONS: 72-year-old man with recent coronary artery bypass
+graft surgery.
+
+CHEST, PA AND LATERA: Cardiac and mediastinal contours are
+[**Year (4 digits) 1488**]. There is persistent large left-sided pleural effusion
+with atelectasis. A small [**Year (4 digits) 1488**] right pleural effusion is
+also noted. A tiny focus of air in the anterior mediastinum
+persists.
+
+IMPRESSION: Similar large left-sided pleural effusion. Tiny
+post-operative air collection of 8 mm in diameter, [**Year (4 digits) 1488**].
+
+The study and the report were reviewed by the staff radiologist.
+DR. Cubert Roedema Stroebel
+DR. Cubert Roedema [**First Name4 (NamePattern1) 1490**]Cardiology Report ECHO Study Date of 2009-06-08 00:00:00
+
+
+
+PATIENT/TEST INFORMATION:
+Indication: Intraoperative TEE for CABG procedure
+Height: (in) 71
+Weight (lb): 206
+BSA (m2): 2.14 m2
+BP (mm Hg): 135/76
+HR (bpm): 56
+Status: Inpatient
+Date/Time: 2009-06-08 00:00:00 at 10:07
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007AW1-:
+Test Location: Anesthesia West OR cardiac
+Technical Quality: Adequate
+
+
+
+
+REFERRING DOCTOR: DR. Jonbenet R. Cubert Roedema
+
+MEASUREMENTS:
+Left Ventricle - Ejection Fraction: 50% (nl >=55%)
+Aorta - Ascending: 3.1 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: 1.0 m/sec (nl <= 2.0 m/sec)
+Mitral Valve - E Wave: 0.7 m/sec
+Mitral Valve - A Wave: 0.3 m/sec
+Mitral Valve - E/A Ratio: 2.33
+
+INTERPRETATION:
+
+Findings:
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA
+and extending into the RV. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild regional LV systolic dysfunction. Mildly
+depressed LVEF.
+No resting LVOT gradient.
+
+LV WALL MOTION: Regional LV wall motion abnormalities include:
+mid
+anteroseptal - hypo; anterior apex - hypo;
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Simple
+atheroma in ascending
+aorta. Simple atheroma in aortic arch. Simple atheroma in
+descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+Mild mitral
+annular calcification. Moderate (2+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify
+I was present in compliance with HCFA regulations. No TEE
+related
+complications. The patient was under general anesthesia
+throughout the
+procedure. The patient appears to be in sinus rhythm. Results
+were personally
+
+Conclusions:
+Prebypass
+
+1. No atrial septal defect is seen by 2D or color Doppler.
+
+2.There is mild regional left ventricular systolic dysfunction
+with mild
+hypokinesia of the apex of the anterior wall, mid and apical
+portions of the
+anterior septum. Overall left ventricular systolic function is
+mildly
+depressed.
+
+3. Right ventricular chamber size and free wall motion are
+normal.
+
+4.There are simple atheroma in the ascending aorta. There are
+simple atheroma
+in the aortic arch. There are simple atheroma in the descending
+thoracic
+aorta.
+
+5.The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is
+not present. No aortic regurgitation is seen.
+
+6. The mitral valve leaflets are mildly thickened. There is no
+mitral valve
+prolapse. Moderate (2+) mitral regurgitation is seen. The mitral
+annulus is
+not dilated.
+
+Post bypass: Pt is being AV paced and is on an infusion of
+phenylephrine
+
+1. Biventricular function is preserved.
+
+2. MR Jonbenet Stroebel in severity
+
+3. Aorta and interatrial septum are intact post decannulation
+
+4. Other findings are Stroebel
+
+Electronically signed by Jonbenet Stroebel Jonbenet Stroebel, MD on 2009-06-08 00:00:00 13:19.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brief Hospital Course:
+Mr. Stroebel was admitted and underwent coronary artery bypass
+grafting surgery. For surgical details, please see seperate
+dictated operative note. Following the operation, he was brought
+to the CSRU for invasive monitoring. Within 24 hours, he awoke
+neurologically intact and was extubated without incident. He
+maintained stable hemodynamics and transferred to the SDU on
+postoperative day one. Given his renal insufficiency, BUN and
+creatinine were monitored very closely. His creatinine peaked to
+2.2 on postoperative day two. By discharge, his renal function
+returned to baseline. He was also noted to have diffuse ST
+elevation on electrocardiogram consistent with pericarditis and
+eventually went on to develop atrial flutter. Beta blockade was
+advanced.  K and Mg levels were monitored and repleted per
+protocol. He otherwise continued to make clinical improvements
+with diuresis and physical therapy. He developed LUE
+thrombophlebitis on POD#7 and was treated with Vanco and
+evaluated by Vasc. Cubert Roedema. who felt surgical intervention was not
+indicated.  His forearm improved and he was discharged to home
+on POD#8 in stable condition.  He was anticoagulated with
+coumadin and will have his INR followed by Dr. Jonbenet.
+
+Medications on Admission:
+Aspirin 325 qd, Lisinopril 10 qd, Lovastatin 20 qd, Metformin
+500 qd, Toprol XL 25 qd, Tricor 145 qd, Caltrate 600 UPMCE,
+Centrum qd, Glucosamine qd
+
+Discharge Medications:
+1. Keflex 250 mg Capsule Sig: One (1) Capsule PO four times a
+day for 7 days: For left forearm phlebitis.
+Disp:*28 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q3H (every 3
+hours) as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+4. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO
+daily  ().
+Disp:*30 Tablet(s)* Refills:*0*
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for
+7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+7. Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: Three
+(3) Tablet Sustained Release 24 hr PO once a day.
+Disp:*90 Tablet Sustained Release 24 hr(s)* Refills:*0*
+8. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO once a day:
+take 400mg daily for one week, then 200mg daily.
+Disp:*60 Tablet(s)* Refills:*0*
+9. Coumadin 4 mg Tablet Sig: One (1) Tablet PO once a day:
+Please take coumadin as directed by Dr. Jonbenet.
+Disp:*30 Tablet(s)* Refills:*0*
+10. Coumadin 2 mg Tablet Sig: Two (2) Tablet PO once a day:
+please take as directed by Dr. Jonbenet.
+Disp:*60 Tablet(s)* Refills:*0*
+11. Outpatient Lab Work
+Please draw an INR on saturday 2009-06-08 00:00:00 and fax results to Dr.
+Jonbenet Stroebel at (test@mail.com.  Phone number (test@mail.com.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. Regional VNA
+
+Discharge Diagnosis:
+Coronary Artery Disease - s/p CABG
+Postop Atrial Flutter
+History of PTCA 2009-06-08 00:00:00
+History of Myocardial Infarction 2009-06-08 00:00:00
+Diabetes Mellitus Type II
+Hypertension
+Hyperlipidemia
+History of Prostate Cancer - s/p Prostatectomy
+Arthritis
+Gout
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Patient should shower daily, no baths. No creams, lotions or
+ointments to incisions. No driving for at least one month. No
+lifting more than 10 lbs for at least 10 weeks from the date of
+surgery. Monitor wounds for signs of infection. Please call
+cardiac surgeon if start to experience fevers, sternal drainage
+and/or wound erythema.
+
+
+Followup Instructions:
+Dr. Cubert Roedema in 2009-06-08 00:00:00 weeks, call for appt
+Dr. Stroebel in 2009-06-08 00:00:00 weeks, call for appt
+Dr. Jonbenet in 2009-06-08 00:00:00 weeks, call for appt
+
+
+
+Completed by:2009-06-08 00:00:00

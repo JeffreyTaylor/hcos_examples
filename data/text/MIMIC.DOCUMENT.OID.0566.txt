@@ -1,0 +1,616 @@
+Admission Date:  2008-10-04 00:00:00              Discharge Date:   2008-10-04 00:00:00
+
+Date of Birth: 1964-09-21 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Jnae Bisceglie
+Chief Complaint:
+confusion
+
+Major Surgical or Invasive Procedure:
+Dialysis on 2008-10-04 00:00:00 for acidosis and hypokalemia
+Intubation
+PICC line placement
+
+History of Present Illness:
+40-year-old female DM2 transferred from UPMCE Hospital for
+severe acidosis from ? DKA, altered mental status, and
+respiratory failure. Patient presented to the outside hospital
+with altered mental status and agitation. She was noted to be
+hypotensive. Initial labs revealed elevated lipase. As the
+patient became more agitated, she was intubated for airway
+protection. She was given 6 L of NS with levophed at 3 mcg/min
+started and increased to 25 mcg/min. Vent settings on transfer
+were SIMV 12/500/1/5. She was given KCl 10 mEq x 2. She was
+transferred to UPMCE for further management.
+
+Labs prior to transfer were lactate 0.8, alcohol < 10, lipase
+1027, CK 86, cTropnT < 0.010, amylase 553, ALP 173, GGT 107, AST
+50 ALT 58, Na 123, K 4, Cl 93, HCO3 3, BUN 42, Cr 1.05, Glc 685,
+Mg 2.7, Ph 4.4, Gap 30. CBC WBC 35.9, Hgb 13.2, Plt 97, 8 %
+bands.
+
+In the ED, initial VS were: 82 95/51 22 100%
+
+Patient received intubated from OSH. 7.5 ETT secured @ 22cm
+@lips. Initial vent settings were FiO2: 100% PEEP: 5 RR: 14 Vt:
+500
+
+Initial ABG was pH 6.74 pCO2 33 pO2 385 HCO3 5. Based on ABG
+results RR increased to 22 and FiO2 decreased to 40%.
+
+A RIJ and left femoral a-line was placed in the ER.
+
+Past Medical History:
+Insulin dependent diabetes mellitus
+
+Social History:
+Patient lives in 123 Any St..  Her father is an internist and is
+currently here visiting while she is in the hospital.
+Tobacco: 2008-10-04 00:00:00 pack year smoking history in the 2008-10-04 00:00:00. Quit for 10
+years, recent relapse, but now without smoking for 6 months.
+EtOH: Socially; 2 drinks/month.
+IVDU: Denies.
+
+
+Family History:
+Diabetes in multiple family members.
+Denies family history of seizures and strokes.
+
+Physical Exam:
+Admission Physical Exam:
+General Appearance: Intubated, sedated
+Eyes / Conjunctiva: PERRL
+Head, Ears, Nose, Throat: Normocephalic, atraumatic, IJ line in
+place
+Lymphatic: Cervical WNL
+Cardiovascular: (S1: Normal), (S2: Normal), no murmurs
+Peripheral Vascular: pulses present throughout
+Respiratory / Chest: clear bilaterally
+Abdominal: Soft, Non-tender, Bowel sounds present
+Extremities: no peripheral edema
+Skin:  Warm
+Neurologic: intubated, sedated
+
+Physical Exam on Discharge:
+
+Vitals: afebrile, hemodynamically stable
+General: Awake, cooperative, NAD.
+Pulmonary: CTABL
+Cardiac: RRR, no murmurs
+Abdomen: soft, nontender, nondistended
+Extremities: no edema, pulses palpated
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3.  Able to relate history
+without difficulty. Language is fluent with intact repetition
+and comprehension.  Normal prosody.  There were no paraphasic
+errors.   Speech was not dysarthric. Able to follow both midline
+and appendicular commands. The pt. had good knowledge of current
+events.  There was no evidence of apraxia or neglect.
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk.  VFF to confrontation.
+III, IV, VI: EOMI without nystagmus.  Normal saccades.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+Jnae Bisceglie: 5/5 strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA [**First Name9 (NamePattern2) 2305**] Laatsch
+L  5    5   4+  5   3  3  5  5   5    5  2     5     3
+R  5    5   5   5   5  5  5  5   5    4  2     5     3
+-Sensory:decreased in  L 5 to midshin b/l, decreased at L ulnar
+n distribution from 5th digit to wrist
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally.
+
+
+Pertinent Results:
+ADMISSION LABS:
+2008-10-04 00:00:00 12:52AM BLOOD WBC-37.36* RBC-4.25 Hgb-12.4 Hct-38.5
+MCV-91 MCH-29.1 MCHC-32.1 RDW-14.0 Plt Ct-67*
+2008-10-04 00:00:00 04:00AM BLOOD Neuts-59 Bands-8* Lymphs-16* Monos-5
+Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-11*
+2008-10-04 00:00:00 12:52AM BLOOD PT-11.5 PTT-27.2 INR(PT)-1.1
+2008-10-04 00:00:00 04:00AM BLOOD Glucose-568* UreaN-33* Creat-1.1 Na-134
+K-2.1* Cl-109* HCO3-LESS THAN
+2008-10-04 00:00:00 12:52AM BLOOD ALT-92* AST-129* AlkPhos-149* TotBili-0.4
+2008-10-04 00:00:00 12:52AM BLOOD Lipase-612*
+2008-10-04 00:00:00 04:00AM BLOOD cTropnT-<0.01
+2008-10-04 00:00:00 12:52AM BLOOD Calcium-6.3* Phos-2.3* Mg-2.1
+2008-10-04 00:00:00 09:00PM BLOOD calTIBC-221* Ferritn-293* TRF-170*
+2008-10-04 00:00:00 04:00AM BLOOD %HbA1c-13.1* eAG-329*
+2008-10-04 00:00:00 12:52AM BLOOD Triglyc-488*
+2008-10-04 00:00:00 04:00AM BLOOD Acetone-SMALL Osmolal-336*
+2008-10-04 00:00:00 04:00AM BLOOD TSH-1.2
+2008-10-04 00:00:00 04:00AM BLOOD Cortsol-91.5*
+2008-10-04 00:00:00 01:57PM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE
+HBcAb-NEGATIVE
+2008-10-04 00:00:00 04:00AM BLOOD HCG-<5
+2008-10-04 00:00:00 04:00PM BLOOD Jnae Bisceglie-NEGATIVE
+2008-10-04 00:00:00 04:00PM BLOOD PEP-TRACE ABNO IgG-857 IgA-174 IgM-76
+IFE-MONOCLONAL
+2008-10-04 00:00:00 12:52AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2008-10-04 00:00:00 01:57PM BLOOD HCV Ab-NEGATIVE
+2008-10-04 00:00:00 01:12AM BLOOD Type-ART Rates-14/ Tidal V-500 PEEP-5
+FiO2-100 pO2-385* pCO2-33* pH-6.74* calTCO2-5* Base XS--33
+AADO2-294 REQ O2-55 -ASSIST/CON Intubat-INTUBATED
+2008-10-04 00:00:00 12:53AM BLOOD Glucose-500* Na-137 K-2.7* Cl-118*
+calHCO3-3*
+2008-10-04 00:00:00 12:52AM URINE Color-Straw Appear-Clear Sp Laatsch-1.004
+2008-10-04 00:00:00 12:52AM URINE Blood-TR Nitrite-NEG Protein-NEG
+Glucose-1000 Ketone-40 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+2008-10-04 00:00:00 12:52AM URINE RBC-<1 WBC-0 Bacteri-FEW Yeast-NONE Epi-1
+2008-10-04 00:00:00 12:52AM URINE Mucous-RARE
+2008-10-04 00:00:00 12:52AM URINE UCG-NEGATIVE
+2008-10-04 00:00:00 12:52AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+Relevant Labs:
+
+2008-10-04 00:00:00 05:10AM BLOOD ESR-99*
+2008-10-04 00:00:00 12:05PM BLOOD ESR-103*
+2008-10-04 00:00:00 05:10AM BLOOD Ret Aut-8.5*
+2008-10-04 00:00:00 07:24AM BLOOD Ret Aut-0.6*
+2008-10-04 00:00:00 07:24AM BLOOD calTIBC-211* Hapto-286* Ferritn-256*
+TRF-162*
+2008-10-04 00:00:00 04:00PM BLOOD VitB12-1251*
+2008-10-04 00:00:00 04:00AM BLOOD %HbA1c-13.1* eAG-329*
+2008-10-04 00:00:00 07:55AM BLOOD Triglyc-276*
+2008-10-04 00:00:00 04:00AM BLOOD TSH-1.2
+2008-10-04 00:00:00 04:00AM BLOOD Cortsol-91.5*
+2008-10-04 00:00:00 03:18AM BLOOD HIV Ab-PND
+2008-10-04 00:00:00 01:57PM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE
+HBcAb-NEGATIVE
+2008-10-04 00:00:00 05:21AM BLOOD ANCA-NEGATIVE B
+2008-10-04 00:00:00 05:10AM BLOOD b2micro-1.5
+2008-10-04 00:00:00 04:00PM BLOOD PEP-TRACE ABNO IgG-857 IgA-174 IgM-76
+IFE-MONOCLONAL
+2008-10-04 00:00:00 03:18AM BLOOD HIV Ab-PND
+RPR 2008-10-04 00:00:00: negative
+Lyme 2008-10-04 00:00:00: negative
+2008-10-04 00:00:00 8:22 pm BLOOD CULTURE      Source: Venipuncture.
+
+MICRO:
+2008-10-04 00:00:00 blood cultures:
+
+   Blood Culture, Routine (123 Any St.inary):
+      STAPH AUREUS COAG +.
+         Consultations with ID are recommended for all blood
+cultures
+         positive for Staphylococcus aureus, yeast or other
+fungi.
+         FINAL SENSITIVITIES.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         This isolate is presumed to be resistant to clindamycin
+based on
+         the detection of inducible resistance .
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+STUDIES:
+ECHO (2008-10-04 00:00:00)
+IMPRESSION: Normal biventricular cavity sizes with preserved
+regional and hyperdynamic global biventricular systolic
+function. No valvular pathology or pathologic flow identified.
+
+CT Head Non-con (2008-10-04 00:00:00):
+IMPRESSION:  No evidence of acute intracranial pathology.
+
+CT Abd/Pelvis (2008-10-04 00:00:00):
+1. Visualized lung bases show bilateral trace pleural effusions
+with adjacent opacification which likely represents atelectasis;
+however, a component of aspiration versus infectious process
+such as pneumonia cannot be completely excluded.
+2. Minimal edema within the fat in the groove between the
+pancreas and
+duodenum which may represent focal acute pancreatitis with
+extension of edema to the pericholecystic region.
+3. Multiple transient intussceptions are noted along the jejunum
+(uncertain significance).
+4. Significantly fatty liver.
+
+ECHO (2008-10-04 00:00:00):
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Tissue Doppler imaging suggests a normal left
+ventricular filling pressure (PCWP<12mmHg). Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic stenosis or aortic regurgitation. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. There is no pericardial effusion.
+No vegetation seen (cannot definitively exclude).
+Compared with the prior study (images reviewed) of 2008-10-04 00:00:00,
+findings are similar. The heart rate is now slower.
+
+EMG 2008-10-04 00:00:00
+Abnormal study. There is electrophysiologic evidence for an
+acute, severe, sensorimotor polyneuropathy affecting the
+bilateral lower extremities. Although this neuropathy appears to
+have axonal features, a demyelinating pathology cannot be
+entirely excluded due to the absence of distal sensorimotor
+responses. In addition, there is evidence for a severe, acute
+ulnar neuropathy at the left elbow. A right lumbosacral
+polyradiculopathy cannot be entirely excluded.
+
+EMG 2008-10-04 00:00:00
+Taken together with the results of 2008-10-04 00:00:00, the findings are
+most consistent with severe, acute bilateral sciatic
+neuropathies. Given the clinical history and evidence for left
+ulnar neuropathy, a compressive etiology for these neuropathies
+is most likely.
+
+MRI L spine w/o contrast
+
+FINDINGS:  Intervertebral disc heights and signals are
+maintained.  There is no signal abnormality in the cord.
+Vertebral body heights are maintained and show normal signal.
+Imaged portions of the soft tissues are unremarkable. A small
+disc buldge is present at L5-S1 with very minimal compression of
+the thecal sac, but no contact with traversing nerve roots.
+IMPRESSION:  Very minimal disc buldge of L5-S1. If there is
+concern for
+polyneuritis, post gadolineum imaging can be obtained.
+
+Skeletal Survey
+
+LATERAL SKULL:  No focal lytic or blastic lesions are seen.
+BILATERAL HUMERI:  There is a portion of a central venous
+catheter seen in the right arm.  There are no focal lytic or
+blastic lesions or significant degenerative changes.
+THORACIC SPINE:  No compression deformities are seen.  There is
+minimal
+spurring at the anterior aspect of several lower thoracic
+vertebral bodies.  Visualized lung fields are clear.  There is a
+central venous catheter with distal lead tip at the cavoatrial
+junction.
+LUMBAR SPINE:  There are five non-rib-bearing lumbar-type
+vertebral bodies.  There is no compression deformity.  Minimal
+spurring at the L4 and L5 vertebral bodies are seen anteriorly.
+AP PELVIS AND BILATERAL FEMORA:  No focal lytic or blastic
+lesions are seen.  The sacroiliac joints are grossly within
+normal limits.  Bilateral hip joint spaces demonstrate mild
+spurring in the superolateral aspect, consistent with early
+degenerative changes.
+
+IMPRESSION:
+No focal lytic or blastic lesions in the skeleton to indicate
+definite
+myelomatous deposits.
+
+Sural biopsy: final report pending at time of discharge. 123 Any St.
+read was normal.
+
+Labs on Discharge: (most recent)
+
+2008-10-04 00:00:00 03:18AM BLOOD WBC-3.7* RBC-3.08* Hgb-8.9* Hct-27.4*
+MCV-89 MCH-29.0 MCHC-32.7 RDW-15.8* Plt Ct-327
+2008-10-04 00:00:00 05:10AM BLOOD PT-11.5 PTT-25.9 INR(PT)-1.1
+2008-10-04 00:00:00 03:18AM BLOOD Glucose-121* UreaN-14 Creat-0.5 Na-137
+K-4.7 Cl-103 HCO3-27 AnGap-12
+2008-10-04 00:00:00 05:10AM BLOOD ALT-45* AST-35 LD(LDH)-200 AlkPhos-81
+TotBili-0.3
+2008-10-04 00:00:00 05:10AM BLOOD Albumin-3.9 Calcium-9.2 Phos-3.7 Mg-1.9
+
+Brief Hospital Course:
+40F unknown past medical history with Insulin dependant DM2
+transferred to UPMCE for severe acidosis and hypokalemia in
+setting of DKA.  Patient managed in the MICU for 6 days with
+resolution of her acidosis noted. Patient was called out to the
+floor on hospital day 6 after being stable on SubQ insulin.
+Course complicated by new sensory-motor polyneuropathy of left
+upper extremity and bilateral lower extremities.  Transfered to
+neurology service after EMG concerning for axonal neuropathy on
+hospital day 11, ultimately determined to be a compressive
+neuropathy vs. multiple root radiculopathy.
+
+# Severe acidosis likely DKA
+Patient has severe acidosis on ABG with both primary metabolic
+non-gap and gap acidoses with superimposed respiratory acidosis.
+Etiology of primary metabolic non-gap acidosis may be from NS
+volume resuscitation, diarrhea, or other etiologies. The likely
+cause of the anion gap acidosis is DKA with no other apparent
+MUDPILES etiologies based on urine/serum toxicology. Osmolar gap
+initially 51, so methanol, polyethylene glycol or other
+exogenous substance may explain extra osmoles that would not be
+accounted for by DKA alone. Patient started on Insulin drip and
+Bicarb which were rate limited so as not to drop K+ faster than
+it could be repleted. Over the course of hospital day 1 patient
+was noted to have progressive improvement of her acidosis. In
+setting of severe acidosis and osmolar gap, patient received a
+single episode of hemodialysis.  In the evening of hospital day
+1 the patient's anion gap was noted to re-open to 24, patient
+was given additional IV fluids and insulin drip was continued
+with resolution of anion gap noted on repeat Chem7. Patient
+tolerated a PO diet on hospital day 4 and was started on SubQ
+insulin. Following initiation of SubQ insulin the insulin drip
+was discontinued. The patient was observed in the MICU following
+discontinuation of the insulin drip and her anion gap was noted
+to remain closed. Once the patient was fully awake she endorsed
+poor medication compliance with regards to her insulin. She
+states that she was on vacation prior to onset of DKA and that
+she did not utilize her insulin at all during a period of time
+during her vacation making medication non-compliance the most
+likely etiology of her DKA.  After transfer to the general
+medicine, her blood sugars remained in the 120-250 range and she
+was kept on Lantus 50 units in the am and humalog sliding scale.
+ She was followed closely by the Laatsch service.  Insulin dose
+on discharge was Lantus 40qam and 16qhs along with sliding
+scale.  Instructed patient about importance of insulin
+compliance and establishing care with a primary care doctor upon
+return to 123 Any St..
+
+# Leukocytosis/hypothermia/MRSA bacteremia
+Initial concern for hypothermic sepsis given marked
+leukocytosis. Careful skin exam did not reveal any skin/soft
+tissue infection. CXR showing ? atelectasis vs. developing LL
+infiltrate after fluid resuscitation. CT Abdomen could suggest
+colitis although indefinite. Host factors include DM2 - no
+recent healthcare exposure- vancomycin/cefepime/flagyl given
+empirically as patient critically ill pending culture results.
+Patient's antibiotics discontinued on hospital day 3 as all
+cultures acquired were negative. On hospital day 5, repeat CXR
+concerning for new pneumonia and UA concerning for UTI. Repeat
+cultures sent and patient re-started on vanc and cefepime.
+Cultures sendt 2008-10-04 00:00:00 noted to grow out gram positive cocci in
+clusters, central line discontinued and patient continued on
+vanc and cefepime.  She remained on Vancomycin after confirmed
+MRSA bacteremia to complete a 2 week course ending 2008-10-04 00:00:00.  A
+PICC was placed 2008-10-04 00:00:00 via IR guidance after an initial failed
+attempt.  She also had a TTE which did not show evidence of
+vegetation, thus low suspicion of endocarditis.  She completed a
+course of Vancomycin per recommendations of the infectious
+disease team on 2008-10-04 00:00:00.
+
+# ? Pancreatitis
+The patient had elevated pancreatic enzymes, which may reflect
+either pancreatitis or increased pancreatic enzyme activities in
+the setting of DKA. Her abdominal exam appears to be bengin. A
+CT Abd/pelvis showed bowel wall thickening mainly involving the
+proximal small bowel (duodenum and jejunum) which could
+represent peristalsis, enteritis (such as infectious,
+inflammatory or ischemic) with mild blurring of pancreatic
+margins with minimal mesenteric stranding. It also shows
+multiple transient intussusception of jejenum, little bit of
+fluid in mesenetery and pancreas consistent with ? focal
+pancreatitis. Patient was evaluated by surgery for questionable
+CT abdomen findings, no surgical intervention indicated per
+surgery. TG mildly elevated, but unclear if high enough to have
+123 Any St.itated pancreatitis. Ca within normal limits; no evidence
+of CBG/gallstone pancreatitis on CT Abd. As patient's mental
+status improved appeared to be in pain with apparent tenderness
+to palpation of epigastrum, in setting of elevated lipase we
+have increased suspiscion of pancreatitis as cause of pain and
+possibly as etiology of DKA. Treated with IV Dilaudid PRN pain.
+Patient subsequently noted to have improvement of pain and
+tenderness likely representing resolution of acute pancreatitis
+episode.  There was no further abdominal pain/tenderness while
+on the floor.
+
+# Respiratory failure
+Patient was intubated secondary to depressed mental status for
+airway protection.  Patient passed spontaneous breathing test on
+hospital day two and was extubated.  No further respiratory
+distress.
+
+# Shock
+Patient likely had septic shock from underlying infection,
+hypovolemic shock from osmotic diuresis in setting of DKA. Doubt
+cardiogenic or distributive shock. Her opening CVP was 11 with
+good urine output, normal lactate, and exam consistent with good
+perfusion. ScVO2 is ~ 90 suggestive of likely tissue
+mitochondrial dysfunction in setting of severe acidosis. She has
+been responsive to IVF resuscitation. By hospital day 2 patient
+was noted to have improvement in hemodynamics and was weaned off
+of phenylephrine.
+
+# Elevated LFTs
+Patient had mild elevated LFTs at OSH and on admission at UPMCE.
+Uncertain etiology - abdominal CT not showed elevated Tbili or
+other overt abnormalities. Could be from toxidrome vs. early
+shock liver given hypotension or other causes. Patient's LFTs
+were trended and returned to baseline.
+
+# Thrombocytopenia
+Admission platelets with thrombocytopenia. Etiology is likely
+marrow sup123 Any St.n from acute sepsis/illness. No evidence of
+sequestration or destruction - firinogen and coagulation is
+within normal limits speaking against DIC. Was noted to have
+improvement of platelet count during ICU stay. Normal platelet
+counts while on the floor.  She was seen by heme/onc who
+recommended a skeletal survey which was normal.  Also
+recommended HIV, which is pending at time of discharge.
+Considered bone marrow biopsy, but deferred given abnormalities
+likely in setting of acute illness.  Asked patient to seen a
+hematologist/oncologist in 3 months and have them re-check SPEP,
+free kappa/lambda chains. Also, re-consider a bone marrow biopsy
+if values have not normalized.
+
+#Anemia: She developed normocytic anemia during this
+hospitalization (Hgb 12.5 -> 8.4).  This was likely secondary to
+volume re123 Any St.n.  B12, folate, and Iron studies within normal
+limits.  No evidence of active bleeding.  Would continue to
+follow H/H, although it has remained stable.
+
+# Severe acute axonal sensory-motor polyneuropathy
+Patient was in ICU for 6 days. Intubated and sedated. Then
+extubated and off sedation and noted tingling in her hands and
+feet.  She couldn't "wiggle her ankles".  Her exam was most
+notable for an Left Ulnar neuropathy and difficulty with TA 2008-10-04 00:00:00
+bilateralas well as weakness of the toe flexors.  Did not fit
+distribution.  Differential was initially critical illness
+neuropathy,  mononeurotis multiplex.  EMG looked like a severe
+acute axonal sensorimotor polyneuropathy intially. Confirmed
+that the left wrist was an ulnar neuropathy.  Had repeat EMG
+which showed bilateral sciatic nerve neuropathies, probably
+compression from position.  Also possible that she has a
+multiple root lumbosacral radiculopathy. Currently, strength and
+sensation improving as per discharge exam.  Does have painful
+tingling in her lower extremities, likely nerve pain with
+regeneration, which responds well to Gabapenin and tylenol with
+codeine.  Since patient has bilateral foot drop, had orthotics
+made for her.  She will follow up with neurology as an
+outpatient once she returns to 123 Any St..
+
+TRANSITIONAL ISSUES:
+- follow up with PCP regarding fatty liver on ultrasound, high
+triglycerides, hepatitis serology
+- 3 months from now (early 2008-10-04 00:00:00) you should see a
+hematologist/oncologist and ask them to check these labs: SPEP,
+free kappa/lambda chains. Also, re-consider a bone marrow biopsy
+if values have not normalized.
+- HIV and final report of sural nerve biopsy pending at time of
+discharge
+- patient will follow up with a new PCP and neurologist upon
+return to 123 Any St..
+
+Medications on Admission:
+Lantus 40 units SC daily
+
+
+Discharge Medications:
+1. Gabapentin 200 mg PO TID
+RX *gabapentin 100 mg 2 capsule(s) by mouth three times a day
+Disp #*180 Capsule Refills:*2
+2. Glargine 40 Units Breakfast
+Glargine 16 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+RX *blood sugar diagnostic [Accu-Chek Active Test]    QAHS Disp
+#*1 Not Specified Refills:*2
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL)  40
+Units before BKFT; 16 Units before BED; Disp #*2 Not Specified
+Refills:*2
+RX *blood-glucose meter [Accu-Chek Active Care]   Before every
+meal and at bedtime QAHS Disp #*1 Kit Refills:*1
+RX *insulin lispro [Humalog KwikPen] 100 unit/mL Up to 25 Units
+per sliding scale four times a day Disp #*2 Not Specified
+Refills:*2
+RX *lancets [Accu-Chek Multiclix Lancet]    QAHS Disp #*1 Not
+Specified Refills:*1
+3. Miconazole Powder 2% 1 Appl TP TID:PRN groin rah
+RX *miconazole nitrate [Anti-Fungal] 2 % apply to affected area
+three times a day Disp #*1 Tube Refills:*0
+RX *miconazole nitrate [Anti-Fungal] 2 %  three times a day Disp
+#*1 Tube Refills:*1
+4. Acetaminophen w/Codeine 2008-10-04 00:00:00 TAB PO Q4H:PRN pain
+please hold for rr <12, sedation
+RX *acetaminophen-codeine 300 mg-30 mg 1 tablet(s) by mouth
+every four (4) hours Disp #*24 Tablet Refills:*0
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+primary diagnosis:
+diabetic ketoacidosis
+bilateral sciatic neuropathies vs. multiple root lumbosacral
+radiculopathy
+
+secondary diagnosis:
+diabetes mellitus type I
+Critical illness polyneuropathy
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Ms. Laatsch,
+
+It was a pleasure taking care of you.  You were admitted to the
+UPMCE for a severe case of
+diabetic ketoacidosis.  You were initially stabilized in the
+intensive care unit (ICU).  We found that you had a blood stream
+infection and treated you with intravenous antibiotics.
+
+You had a weakness of your ankles and left arm that we
+investigated. We biopsied several of your nerves and did EMGs.
+We determined that the cause of your weakness was due to
+compression of the scitic and ulnar nerves as you are at risk
+for this with your diabetes.  During the hospital stay, your
+strength and sensation gradually began to improve.  We think
+this will continue to improve over the next year.  We started
+you on Gabapentin (Neurontin) for the pain.  When you return to
+123 Any St. it is important that you schedule an appointment with
+a neurologist.
+
+Also it is CRITICAL that you follow up with your primary care
+doctor for STRICT management of your diabetes as we do not want
+you to become ill from the high sugars as you did this time. You
+MUST check your blood sugars regularly and Laatsch your insulin.
+
+You had some abnormal blood counts so we asked the
+hematology/oncology team to evaluate you.  They recommended an
+x-ray of your body which was quite normal.    Most likely, these
+abnormalities were in the setting of acute illness.  3 months
+from now (early 2008-10-04 00:00:00) you should see a
+hematologist/oncologist and ask them to check these labs: SPEP,
+free kappa/lambda chains.  Also, re-consider a bone marrow
+biopsy if values have not normalized.
+
+We have made the following changes to your medications:
+START
+Gabapentin 200mg three times per day for nerve pain
+Tylenol with codeine up to every 4 hours as needed for pain
+Miconazole powder as needed for rash
+Insulin sliding scale
+
+INCREASE
+Lantus to 40 units in the morning and 16 units at bedtime
+
+On discharge, please schedule appointments with a neurologist, a
+primary care doctor as soon as possible.  Also, schedule an
+appointment with a hematologist/oncologist in early 2008-10-04 00:00:00.
+
+It was a pleasure taking care of you, we wish you all the best!
+
+Followup Instructions:
+On discharge, please schedule appointments with a neurologist
+and primary care doctor as soon as possible.
+
+Also, schedule an appointment with a hematologist/oncologist in
+early 2008-10-04 00:00:00.  Please ask them to check the tests mentioned
+above.
+
+
+                             Hoyett Laatsch MD 43450
+
+Completed by:2008-10-04 00:00:00

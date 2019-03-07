@@ -1,0 +1,442 @@
+Admission Date:  2006-06-21 00:00:00              Discharge Date:   2006-06-21 00:00:00
+
+Date of Birth: 1952-08-26 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Pneumovax 23
+
+Attending:Hoang Zafir
+Chief Complaint:
+Mental Status Changes/Hypoxia
+
+Major Surgical or Invasive Procedure:
+Lumbar Puncture
+
+History of Present Illness:
+This is a 66 year old male with hepatitis C, history of alcohol
+abuse, bipolar affective disorder, atrial fibrillation, and a
+recent admission to UPMCE for pneumonia who was transferred from
+an outside hospital where he had presented with mental status
+changes and dyspnea.   The patient was not able to give a full
+account of the circumstances leading to his admission, but per
+his family he had increasing dyspnea and confusion starting
+approximately five days prior to presentation.  He may have had
+chills but no fevers and he was noted to be extremely fatigued.
+At the outside hospital he was febrile, bradycardic,
+hypotensive, non-verbal, pale, and not following commands
+reliably.  After initial lab results did not reveal a clear
+source of his illness he was transferred to UPMCE for further
+management.
+
+In the UPMCE ED, initial vitals were T 100, BP 89/40, HR 45, RR
+16, 94% on 2L. Over his ED course he became progressively more
+hypoxic and eventually required 4.5L of O2 by nasal cannula to
+maintain a sat of 92%.  He was initially bradycardic with rates
+in the 40's but this spontaneously improved to 70s-90s without
+interventions.  His SBP's improved to 90's-100's with 2L IVF.
+His chest radiograph revealed a right middle lobe infiltrate,
+which he had recently been treated for at UPMCE (admission until
+2006-06-21 00:00:00).  He received vancomycin and levofloxacin for a
+possible pulmonary infection as well as IV metronidazole as the
+patient had diarrhea and had C diff in 2006-06-21 00:00:00.  He was
+transferred to the ICU for further management.
+
+
+Past Medical History:
+- Atrial Fibrillation
+- History of clostridium difficile
+- Bipolar Affective Disorder
+- History of hepatitis C
+- History of rheumatic heart disease
+- History of right middle cerebral artery aneurysm clipped in
+2006-06-21 00:00:00 at UPMCE
+- History of pernicious anemia
+- Gastroesophageal reflux disease
+
+Social History:
+He lives with his wife.  Jamayia Sabillon has a history of alcohol abuse but
+this was greater than twenty years ago.  He stopped smoking
+after his 123 Any St.us hospitalization (about one month prior to
+presentation) but 123 Any St.usly had a 40 pack year history.  He had
+been discharged from his last hospitalization with oxygen but
+had not been using this prior to admission.
+
+Family History:
+His father had lung cancer and his mother had congestive heart
+failure.
+
+Physical Exam:
+On Presentation to ICU
+VS - T 96.2; BP 103/86; HR 88; RR 12; O2sat 97% on 4L NC
+Gen: appears older than stated age, no acute distress
+HEENT: NCAT, PERRL, EOMI, dry MM, poor dentition
+CV: irreg, irreg, no m/r/g
+Chest: limited cooperation with exam, CTAB, no w/r/r ap123 Any St.ted
+
+Abd: +BS, soft, mildly distended, non-tender
+Ext: 1+ bilateral LE edema
+Skin: abrasion on L knee, old blisters on the dorsal aspect of
+all 5 left toes.
+Neuro: A+O x 3 (name, UPMCE, 2006-06-21 00:00:00), grossly intact
+
+Pertinent Results:
+LABORATORY RESULTS
+======================
+On Presentation:
+WBC-6.6 RBC-3.28* Hgb-10.4* Hct-31.6* MCV-97 RDW-16.3* Plt
+Ct-114*
+---Neuts-66.6 Lymphs-25.3 Monos-7.6 Eos-0.3 Baso-0.3
+PT-15.2* PTT-37.1* INR(PT)-1.3*
+Glucose-93 UreaN-20 Creat-1.0 Na-141 K-3.3 Cl-103 HCO3-27
+ALT-10 AST-33 LD(LDH)-186 AlkPhos-168* TotBili-0.6
+CK 152 CK-MB-3 cTropnT-<0.01
+Calcium-7.6* Phos-3.0 Mg-2.2
+
+On Discharge:
+WBC-5.7 RBC-3.26* Hgb-10.4* Hct-31.2* MCV-96 RDW-16.2* Plt
+Ct-110*
+PT-14.6* PTT-67.5* INR(PT)-1.3*
+Glucose-88 UreaN-8 Creat-0.7 Na-140 K-3.7 Cl-107 HCO3-28
+ALT-5 AST-27 LD(LDH)-168 AlkPhos-168* TotBili-0.8
+
+Other Results:
+VitB12-1063* Folate-9.7 Hapto-160
+Ammonia: 53*-31
+Digoxin-0.4*
+
+Urinalysis: Color-Yellow Appear-Clear Sp Sabillon-1.012 Blood-NEG
+Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG
+Urobiln-NEG pH-6.5 Leuks-NEG
+RBC-40* WBC-3 Bacteri-FEW Yeast-NONE Epi-0
+
+CSF Analysis:
+WBC-0 RBC-216* Polys-14 Lymphs-36 Monos-43 Eos-7
+TotProt-20 Glucose-53 LD(LDH)-20
+HSV PCS: negative for HSV 1 and 2
+Culture negative for growth
+
+MICROBIOLOGY
+==============
+All Blood and Urine Cultures negative for growth
+Campylobacter culture of stool: Negative
+Microscopic exam of stool: negative for ova and parasites
+C diff toxin assay *2: Negative
+
+OTHER STUDIES
+===============
+ECG on Presentation: sinus at 72 with frequent PACs, nl axis, nl
+intervals, no ischemic changes; prior was afib with rvr, but
+otherwise unchanged
+
+Portable Chest Radiograph 2006-06-21 00:00:00:
+IMPRESSION: Persistent unexplained dense consolidation and
+volume loss
+of the right middle lobe.
+
+CT Head 2006-06-21 00:00:00:
+IMPRESSION: No acute intracranial hemorrhage
+
+Transthoracic Echocardiogram 2006-06-21 00:00:00:
+Conclusions
+The left atrium and right atrium are normal in cavity size. No
+left atrial mass/thrombus seen (best excluded by transesophageal
+echocardiography). No atrial septal defect or patent foramen
+ovale is seen by 2D, color Doppler or saline contrast with
+maneuvers. The estimated right atrial pressure is 0-5 mmHg. Left
+ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF >55%). Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) are moderately thickened. There is a minimally
+increased gradient consistent with minimal aortic valve
+stenosis. Trace aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is mild pulmonary artery systolic hypertension. There is
+an anterior space which most likely represents a fat pad.
+-Compared with the prior study (images reviewed) of 2006-06-21 00:00:00,
+the estimated pulmonary artery systolic pressure is slightly
+higher.
+
+Liver/Gallbladder Ultrasound 2006-06-21 00:00:00:
+IMPRESSION: No focal liver lesions. No ascites.
+
+Abdomen Radiograph 2006-06-21 00:00:00:
+IMPRESSION: No evidence of obstruction or ileus.
+
+CT Chest W/O Contrast 2006-06-21 00:00:00:
+IMPRESSION:
+1. Persistent severe consolidation in the right middle lobe,
+showing improved aeration, but no bronchial obstruction,
+probably inadequately treated pneumonia.
+2. Bilateral pleural effusion, small on the right, very small on
+the left,
+improved since 2006-06-21 00:00:00, and lymphatic engorgement in the upper
+lungs,
+probably indication of cardiac dysfunction as well as volume
+overload.
+Probable calcific aortic stenosis.
+3. Stigmata of cirrhosis, not fully evaluated on this study.
+
+CT Head W/O Contrast 2006-06-21 00:00:00:
+IMPRESSION: No acute abnormality seen.
+
+EEG 2006-06-21 00:00:00:
+IMPRESSION: This is an abnormal routine EEG recording due to the
+slow
+and disorganized pattern, the left anterior temporal lower
+amplitude
+recording and the right temporal intermittent focal slowing. The
+first
+abnormality suggests widespread mild encephalopathy of a
+metabolic,
+ischemic, or medication etiology. The second abnormality
+suggests a
+cerebral or extra-cerebral abnormality interfering with the
+voltage of
+the recording such as a hematoma or severe cortical abnormality.
+The
+last abnormality suggests a subcortical dysfunction in the right
+temporal area. Of note was the atrial fibrillation. If capturing
+discrete episodes of unconsciousness or unresponsiveness is the
+main
+objective of this study, a more prolonged EEG telemetry should
+be
+considered.
+
+Chest Radiograph 2006-06-21 00:00:00:
+FINDINGS: Lungs are hyperinflated and the diaphragms are
+flattened, consistent with COPD. Compared with 2006-06-21 00:00:00, there is
+a new small right pleural effusion extending into the minor
+fissure. Again seen is patchy opacity at the right base,
+consistent with collapse and/or consolidation. No CHF. The right
+mid and upper zones of the left lung remain grossly clear. No
+gross left-sided effusion. Asymmetric pleural thickening is
+noted at the right lung apex.
+
+
+Brief Hospital Course:
+66 year old male with cirrhosis, paroxysmal atrial fibrillation,
+history of tobacco abuse and recent pneumonia presenting with
+dyspnea, fevers, and mental status changes.
+
+1) Altered mental status: At presentation the patient was
+minimally responsive and seemed quite somnolent.  As he was
+started on treatment for presumed infection and hydrated his
+mental status improved so that later in the day on 2006-06-21 00:00:00 (the
+patient was admitted overnight) his family thought his ability
+to answer questions and participate with conversation was near
+his baseline though his responses were still delayed.  The
+patient continued to have a rather odd affect and answered
+questions with brief, simple responses but he was alert and
+oriented*3 and could answer questions in an appropriate manner.
+He maintained minimal insight, however, into the the
+circumstances of his hospitalization or his health in general.
+On 2006-06-21 00:00:00 the patient was noted to have a decompensation where
+he would transiently have periods of staring into space and
+becoming less responsive for seconds at at time.  Between these
+episodes he appeared in his normal state of alertness.  He was
+evaluated by neurology, had a second head CT (that remained
+without acute changes), and had an essentially benign lumbar
+puncture.  EEG on 2006-06-21 00:00:00 revealed a diffuse slowing pattern
+consistent with unclear encephalopathy but was negative for
+epileptiform activity.  Neurology also considered a diagnosis of
+parkinsomism being responsible for his delayed responses and
+somewhat labored speech perhaps worsened by his chronic
+anti-psychotic drug therapy.  Nevertheless, as the patient was
+switched to a different pneumonia regimen (see below) and
+generally improved back to his baseline the suspicion was that
+the patient had intermittent toxic-metabolic delirium due to his
+presumed pneumonia that improved with treatment of his
+infection.  B12 levels and TSH levels were also checked to rule
+out reversible causes of delirium and were normal. At time of
+discharge, the patient's wife thought his mental status was at
+his baseline.
+
+2) Pneumonia: At presentation the patient had a persistent
+infiltrate consistent with unresolved pneumonia.  Further
+imaging including CT chest were consistent with this.  The
+patient initially received pipercillin-tazobactam and vancomycin
+in the ICU but this was switched to levofloxacin and vancomycin
+on his first full day in the hospital as despite his pneumonia
+his presentation seemed less consistent with sepsis and this was
+thought unlikely to be hospital-associated pneumonia as it had
+been over a month since his 123 Any St.us discharge.  His respiratory
+symptoms improved somewhat though he continued to get
+asymptomatically hypoxic to the high 80's on room air and even
+at the time of discharge required 2-3L O2 by nasal cannula to
+maintain O2 sats >92%.  He also continued to spike fevers.  On
+2006-06-21 00:00:00 he was switched from levofloxacin to pipercillin
+tazobactam with eventual resolution of his fevers.  His
+persistent hypoxia was thought most likely consistent with
+resolving pneumonia in the context of his underlying lung
+disease (COPD).  He was discharged to finish an additional seven
+days of pipercillin-tazobactam therapy (for a total of ten days
+on this antibiotic).  Given concern for his mental status and
+aspiration a repeat speech and swallow evaluation was performed
+and consistent with the results of the last such evaluation
+during his 123 Any St.us hospitalization he was not observed to be
+aspirating.
+
+3) Hypotension: The patient was hypotensive at presentation but
+this resolved with fluid boluses and never recurred.
+Presumably, this initial hypotension was due to volume de123 Any St.n
+in the context of decreased PO intake in the context of illness
+and increased insensible losses due to fever.
+
+4) Paroxysmal atrial fibrillation: On presentation the patient
+was bradycardic but this resolved without intervention.  He then
+became tachycardic with Afib with RVR to rates in the 120's.  He
+was restarted on his home flecainide dose with better rates.  He
+was also continued on his home aspirin (he is not on coumadin as
+he has been considered a fall risk).  Eventually, low dose beta
+blocker was added for additive rate control.
+
+6) Cytopenias: The patient has chronic anemia and
+thrombocytopenia that were essentially stable during his
+hospital course.  Given his history of pernicious anemia and
+lack of B12 supplementation B12 level was checked and was
+supra-normal (folate level was also normal). He has had past
+hematologic work up for this problem without a clear source
+identified though he is on multiple medications (valproate,
+flecainide) that can cause marrow suppression and he also had
+signs of cirrhosis on imaging, which can lead to cytopenias due
+to sequestration.  Once hemolysis was ruled out by smear and
+labs and has his counts remained stable further work up was
+deferred in the context of his more acute issues.
+
+7) Bipolar Affective Disorder: The patient was continued on his
+home doses of valproate and olanzapine with stable affect.
+
+8)Cirrhosis: Imaging findings on his CT exam were consistent
+with cirrhosis and 123 Any St.us notes mention a history of hepatitis
+C though he has had negative antibody tests in the past
+(antibodies to Hep B have also been negative).  Possible
+etiologies could include past alcohol use vs Non-alcoholic
+steatohepatitis vs cryptogenic cirrhosis.  As there were no
+signs of acute decompensation this issue was deferred to
+outpatient management and he was set up for outpatient follow up
+in hepatology clinic.
+
+9) Recent fall:  The patient had a recent fall leading to
+abrasions on his lower extremities.  These were cared for with
+local measures.  PT evaluation suggested the patient would need
+near constant assistance and recommended acute rehab.  He and
+his wife expressed a preference for being sent home with
+multiple services including home PT and this was set up prior to
+discharge.
+
+The patient was fed a full, cardiac diet.  He was full code.
+
+Medications on Admission:
+Olanzapine 5 mg PO daily
+Rantidine 50 mg PO daily
+Thaimine 100 mg PO daily
+Vanco 125 mg aily
+Albuterol PRN
+ASA 325
+choleystyramine
+Dig 0.125 PO daily
+Ferrous gluconate 324 mg PO daily
+Flecainide 50 mg Po daily
+furosemide 50 daily
+Lopresor 25 mg PO BID
+Depakote 500 mg QAM, 1000 mg QPM
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Cholestyramine-Sucrose 4 gram Packet Sig: One (1) Packet PO
+BID (2 times a day).
+3. Divalproex 500 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QAM (once a day (in the
+morning)).
+4. Divalproex 500 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO QPM (once a day (in the
+evening)).
+5. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+7. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Ranitidine HCl 150 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+9. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Flecainide 50 mg Tablet Sig: One (1) Tablet PO Q12H (every
+12 hours).
+11. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)
+gram Intravenous Q 12H (Every 12 Hours) for 7 days.
+Disp:*14 gram* Refills:*0*
+12. Piperacillin-Tazobactam-Dextrs 4.5 gram/100 mL Piggyback
+Sig: 4.5  grams Intravenous Q8H (every 8 hours) for 7 days.
+Disp:*qs grams* Refills:*0*
+13. Sodium Chloride 0.9 % 0.9 % Parenteral Solution Sig: Ten
+(10) ML Intravenous PRN (as needed) as needed for line flush:
+Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+Disp:*1000 ML(s)* Refills:*0*
+14. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for fever,pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Pneumonia
+Bipolar Affective Disorder
+Parkinsonism ?
+
+
+Discharge Condition:
+All vital signs stable, Mental status back to baseline. 96% on
+3L via nasal cannula. Afebrile x 24 hours.
+
+
+Discharge Instructions:
+You were admitted for altered mental status and trouble
+breathing.  Ultimately, we think this was due to your pneumonia
+recurring.  We gave you antibiotics to treat your pneumonia but
+because your mental status remained a bit worse than normal we
+also did scans of your head and a lumbar puncture to make sure
+you didn't have infection or bleeding.  Your studies did not
+show these.  You are being discharged to finish recovering from
+pneumonia.
+
+Your medications have been changed.  Please take your
+medications as prescribed.
+
+Please come to your local ED or call your doctor if you have
+worsening of your breathing, chest pain, fevers, chills,
+shortness of breath, or any other concerning changes in your
+health.
+
+Followup Instructions:
+MD: Dr. Hoang Zafir Sabillon
+Specialty: PCP
+Date and time: 2006-06-21 00:00:00 1:00pm
+Location: 123 Any St.
+Phone number: test@mail.com
+
+
+Appointment #2
+MD: Dr. Hoang Zafir
+Specialty: Gastroentrologist- Liver Center
+Date and time: 2006-06-21 00:00:00 8:00am
+Location: 123 Any St.
+Phone number: test@mail.com
+
+
+
+Provider: Hoang Zafir, M.D. Phone:test@mail.com
+Date/Time:2006-06-21 00:00:00 2:40
+
+
+                             Jamayia Sabillon MD, 2589
+

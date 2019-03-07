@@ -1,0 +1,296 @@
+Admission Date:  2005-02-26 00:00:00              Discharge Date:   2005-02-26 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Alexisjade Dmuchowski
+Chief Complaint:
+hypotension, mental status changes, respiratory distress/failure
+
+Major Surgical or Invasive Procedure:
+R-sided Femoral line
+R-PICC
+Tracheostomy
+Pleurex Catheter Placed-L sided
+
+
+History of Present Illness:
+23 yo M with hx of hypothyroidism, Afib, CAD, HTN, new diagnosis
+of GE junction lymphoma (s/p 3 months of radiation therapy with
+tumor size 2005-02-26 00:00:00 as before but now no longer candidate for
+radiation therapy) who presents from UPMCE Rehab with call0in
+with tachypnea, RR 40's with frequent suctioning of very thick
+mucous.
+.
+Came from UPMCE Rehab with complaints of SOB and DOE. He got
+Morphine 8mg po x 1 at UPMCE Rehab prior to transfer and
+subsequently developed mental status changes. On arrival, he was
+noted to have temp 101, BP 70/p, HR 120's, RR6, 99% on 100% NRB.
+He was given IVF wide open, 2mg Narcan with ?positive response
+(Cilia Groner RN taking care of him with response in BP to 130s). Then,
+he was noted to have a poor gag reflex with RR 4 and thus was
+intubated for airway protection (getting succinylcholine and
+etomidate). He was then started on versed for sedation. Shortly
+after starting his versed, his BP was noted to be 77/45 and thus
+was started on PERIPHERAL levophed while attempts made to place
+a central line. After 20 minutes, IV infiltrated in arm and he
+was given phentolamine at the IV site. His BP was 67/42 and
+finally a R. groin line was placed. He was then started on
+dopamine via R. groin line and became tachycardic and was
+questionably was in VT and shocked 200J x 3 (no strips) and
+started on lidocaine and magnesium. Currently on levophed at
+6mcg/min and lido at 2mg/min wiht BP 92/49.He was also given 4L
+of NS and IV ceftriaxone, Vancomycin, Flagyl.
+.
+Per son, he states that his father had been coughing white,
+yellow sputum for about a week but did not complain of SOB or
+chest pain. He states his mental status however has been the
+same over the past couple of weeks and his baseline activity -
+does not walk. Speaks in full conversations but has lapses of
+memory at times.
+.
+Transferred to MICU for further care for respiratory failure,
+and hypotension.
+
+Past Medical History:
+Hypothyroidism, CAD s/p MI 2005-02-26 00:00:00, EF 45%, HTN, BPH, Depression,
+High cholesterol, GE Junction lymphoma, peripheral T cell
+lymphoma
+
+
+Social History:
+Moved from 123 Any St. 10 years ago
+former engineer
+wife with alzheimer's disease
+lives alone, walks with cane
+No ETOH, tobacco
+
+
+Family History:
+No h/o CAD
+
+Physical Exam:
+VS - T 98.3, BP 107/53, HR 62, RR 17, sats 100% on RA, wt 75.8kg
+Vent: AC, PEEP 8, Tv set 550/actual 618, RR set 12/actual 15,
+FiO2 100%
+I/O: 210 UOP since placing foley catheter
+Gen: Sedated, intubated.
+HEENT: Sclera anicteric. Pupils pinpoint, nonrxtive. ? lateral
+nystagmus on opening of his eyes.
+CV: RR, normal S1, S2. No m/r/g.
+Lungs: Coarse rhonchi on L anteriorly, decreased BS at L base.
+Clear on the right.
+Abd: Soft, NTND. Quiet BS. J tube dressing c/d/i.
+Ext: Fem line on R, dsg c/d/i. No ecchymosis. 2+ PT, radial
+pulses bilaterally.
+Skin: No rashes. Area of infiltration on L forearm erythematous,
+edematous. Was circled in ED, has not spread outside the
+boundary.
+Neuro: Withdraws all four extremities to pain.
+
+Pertinent Results:
+Na 122, K 5.5, Cl 89, HCO3 24, BUN 29, Cr 0.7, Glu 127, Mg 1.5
+CK 33, trop 0.10
+WBC 11.7, Hct 28.3, Plt 157 (diff 89N, 1B, 1L, 9M)
+PT 12.5, PTT 30.9, INR 1.1
+Amylase 40, lipase 11, ALT 25, Alk Phos 145
+Lactate 2.1
+UA - 1.012, sm LE, neg nitrite, neg glu, neg ketone, 2005-02-26 00:00:00 RBC,
+2005-02-26 00:00:00 WBC, few bacteria, 2005-02-26 00:00:00 epi
+.
+
+
+Brief Hospital Course:
+A/P: 23 yo M with hx of GE junction lymphoma (s/p radiation
+therapy for palliation), afib, hypothyroidism who presents with
+PNA and hypotension.
+1. Hypotension - Likely secondary to medications given (morphine
+initially then versed in the setting of intubation). Unlikely to
+be secondary to septic shock given that he was not initially
+hypotensive and only was hypotensive in the setting of lots of
+morphine and then lots of versed. however, septic shock is
+possible given large PNA and UTI. Doubt cardiac etiology for
+hypotension. In MICU continued to be hypotensive requiring
+pressors-levophed. Not thought to be septic shock micro data was
+negative throughout his hospitalization. He was fluid
+resusitated however remained on pressors until 2005-02-26 00:00:00, he was
+started on Hydrocort/fludrocort on 2005-02-26 00:00:00 for adrenal
+insufficiency. His BP remained stable off pressors and will
+continue Hydrocort/fludrocort for a 7 day course which will end
+on 2005-02-26 00:00:00.
+.
+2. Mental status changes - Possibilities include infection with
+PNA and UTI, new hyponatremia in the setting of free water in
+his TFs (more likely to be the cause), medications including
+lots of morphine. MICU Course, his mental status was difficult
+to guage with him being intubated and sedated. Off sedation pt
+seemed to improve with being able to follow commands with the
+russian interpreter and per sons. head CT negative for masses or
+bleeds; multiple lacunar infarcts present.
+.
+.
+#. PNA with large effusion - likely cause of new tachypnea. MICU
+course-pt was intubated for resp failure found to have large
+malignant effusions. Had a pleurex cath placed which drained
+>1L/day. Resp status improved. Pt was successfully extubated
+2005-02-26 00:00:00 and remained stable and called out to floor. His pleurex
+catheter fell out and re-accumulated his L-sided effusion. He
+also completed a 7 day course of vanc/zosyn for nosocomial PNA.
+On following day on the medicine floor he then developed
+respiratory distress, he was transferred back to the MICU and
+reintubated. On CTA found to have small R-sided pleural
+effusions. He was started on hep gtt for PEs. On CTA also found
+to have a deviated and narrowed trachea 2005-02-26 00:00:00 metastatic lymphoma
+surrounding trachea and compromising airway. Pt remained
+intubated 2005-02-26 00:00:00 airway protection.  On 2005-02-26 00:00:00 he had 2nd pleurex
+cath placed and connected to suction with continual drainage. He
+was also trached on 2005-02-26 00:00:00 surgically without complications.
+Pleurex cath remained to suction, respiratory status improved.
+On 2005-02-26 00:00:00 started Trial on Trach Collar, however pt tired and was
+put back on Vent. No complications post trach or pluerex cath.
+.
+#. UTI - will also be treated with abx as above. f/u cultures.
+Completed 7 day course of Abx. No further UTI throughout MICU
+course.
+.
+#.Rhythm - hx of afib. Unclear if he really had VT. He more
+likely had rapid afib with dopamine wiht underlying LBBB which
+made it look like VT. Unclear as no strips. In MICU developed AF
+w/RVR was started on dilt gtt with success. Pt converted to NSR.
+however he went back into AF was initially put on BB without
+success. He was then loaded with Amiodorone for 1 day but was
+poorly rate controlled. He was switched to dilt drip which had
+good effect and converted to NSR. He was switched to PO dilt and
+remained in NSR throughout MICU course. CE remained neg x3.
+.
+6. Hyponatremia - unclear if from lots of free water from tube
+feeds. ?hypovolemic hyponatremia. Got 4L NS in ED. Recheck Na
+level now.  In MICU hyponatremia not an issue.
+.
+7. Hyperkalemia - hemolyzed. Also received succinylcholine in
+ED. No peaked T-waves on EKG. Throughout MICU course, no
+hyperkalemia.
+.
+8. hypothyroidism - continued levothyroxine.
+.
+#. lymphoma of GE junction - Dr. Alexisjade Dmuchowski,oncologist notified. has
+been getting palliative chemo but is no longer candidate for
+further radiation.Per oncologist and MICU team, multiple
+conversations had with family informing them of pt's extremely
+poor prognosis. Per Oncologist, pt has days to weeks left given
+poor prognosis, metastatic lymphoma now encasing carotids/major
+vessels in neck as well as affecting/deviating trachea. Family
+UPMCE hospice/palliative care, however family refused
+palliative care services on multiple occasion. Documentation in
+chart.
+.
+#. Hypercalcemia: 2005-02-26 00:00:00 lymphoma,  Continuing IVF- received
+pamidronate on 2005-02-26 00:00:00
+.
+#. FEN- Per Nutrition consult TF per PEG at goal.
+.
+# Access-R PICC placed 2005-02-26 00:00:00.
+.
+#. DNR/Intubatable.
+.
+#. Contact - son HCP Cilia Groner Cilia Groner test@mail.comH,
+test@mail.comCELL
+.
+# Dispo: Screened for Chronic Vent Rehab, bed available on 2005-02-26 00:00:00.
+
+
+
+
+Medications on Admission:
+ASA
+Levothyroxine 200mcg daily
+peptobismol
+tylenol
+nexium
+MSO4 4MG Q2HR PRN
+duonebs
+pantop
+dilt 60mg qd
+metop xl 25 daily
+isocal hn tube feeds 75cc/hr w/200cc water q4hr
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+2. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+5. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Six (6)
+Puff Inhalation Q4-6H (every 4 to 6 hours) as needed.
+6. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  UPMCE
+(2 times a day) as needed.
+7. Albuterol 90 mcg/Actuation Aerosol Sig: Six (6) Puff
+Inhalation Q4-6H (every 4 to 6 hours) as needed.
+8. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 2 days.
+9. Hydrocortisone Sod Succinate 100 mg/2 mL Recon Soln Sig: One
+(1) Recon Soln Injection Q6H (every 6 hours) for 2 days.
+10. Diltiazem HCl 60 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+11. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR (AS DIRECTED) for 2 days.
+12. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN
+Peripheral IV - Inspect site every shift
+13. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN
+Peripheral IV - Inspect site every shift
+14. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN
+Peripheral IV - Inspect site every shift
+15. Heparin (Porcine) in D5W 100 unit/mL Parenteral Solution
+Sig: One (1)  Intravenous  ASDIR (AS DIRECTED): continue hep gtt
+until INR 2.0 while transition to coumadin.
+16. Pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous  Q24H (every 24 hours).
+17. Midazolam 1 mg/mL Solution Sig: One (1)  Injection Q4H
+(every 4 hours) as needed.
+18. Fentanyl Citrate (PF) 0.05 mg/mL Solution Sig: One (1)
+Injection Q4H (every 4 hours) as needed.
+19. Heparin Flush CVL  (100 units/ml) 1 ml IV DAILY:PRN
+10ml NS followed by 1ml of 100 units/ml heparin (100 units
+heparin) each lumen QD and PRN.  Inspect site every shift. PLS
+HOLD HEP GTT at 4am on 2005-02-26 00:00:00 FOR PICC Placement IN AM.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+-GE Junction T Cell Lymphoma
+-Metastatic Mediastinal T cell Lymphoma with extensive lymphoma
+encasing Carotids and deviating Trachea
+-Malignant Pleural effusions
+-R sided small Pulmonary Embolisms
+-Atrial Fibrilation
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Pls continue pleurex cath to suction, may cap when output less
+than 200cc per day.
+.
+Trach Collar as tolerated.
+.
+
+
+Followup Instructions:
+None
+
+
+
+Completed by:2005-02-26 00:00:00

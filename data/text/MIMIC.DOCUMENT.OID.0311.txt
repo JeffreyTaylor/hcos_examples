@@ -1,0 +1,90 @@
+Unit No:  [**Numeric Identifier 2882**]
+Admission Date: 2008-02-12 00:00:00
+Discharge Date: 2008-02-12 00:00:00
+Sex:  F
+Service:  NSU
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 81-year-old
+woman status post a fall with a right-sided subdural
+hematoma.  The patient had an elevated INR secondary to
+Coumadin for atrial fibrillation.  She was taken emergently
+to the OR for a craniotomy for evacuation of this right-sided
+subdural hematoma.  A CT scan showed a large right-sided
+subdural hematoma measuring 1.5 cm in size with midline shift
+and subfalcine herniation.  Laboratories on admission
+revealed a white count of 7.5, crit 31.1, platelets 375,000.
+Sodium 134, potassium 6.4, chloride 100, C02 24, BUN 11,
+creatinine 0.8, glucose 93.  INR on admission was 1.4.
+
+PHYSICAL EXAMINATION:  The patient on physical examination
+was intubated and sedated.  HEENT:  The patient's right pupil
+was dilated and sluggishly reactive.  Respiratory rate
+revealed coarse breath sounds.  Cardiovascular revealed S1
+and S2, A paced.  The abdomen was soft, positive bowel
+sounds.  Extremities:  She has some left upper extremity
+swelling.
+
+HOSPITAL COURSE:  She is status post a right subdural
+hematoma evacuation without intraoperative complications.
+She was monitored in the ICU.  On postoperative check she was
+alert and attentive, opening her eyes, following commands
+times four, although still intubated.  She had a
+postoperative CT which was stable.  Her blood pressure was
+kept less than 160 and she was weaned to extubate.  The
+patient had bradycardia during surgery so EP came and
+interrogated her pacemaker.  She was in the DDD mode and her
+pacer was functioning appropriately.
+
+On 2008-02-12 00:00:00, the patient had a repeat head CT which
+was stable.  The patient was successfully extubated,
+following commands times four.  PT and OT were ordered to
+evaluate the patient and the patient remained neurologically
+stable.  She was transferred to the regular floor on
+2008-02-12 00:00:00.  She was in stable condition.  She was evaluated by
+physical therapy and occupational therapy and found to
+require a short rehabilitation stay prior to discharge home.
+
+MEDICATIONS:
+1. Famotidine 20 mg p.o. twice daily.
+2. Dilantin 100 mg p.o. three times daily.
+3. Heparin 5,000 units subcutaneously twice daily.
+4. Lasix 20 mg p.o. daily.
+5. Sotalol 80 mg p.o. twice daily.
+6. Valsartan 40 mg p.o. daily.
+7. Colace 100 mg p.o. twice daily.
+8. Diltiazem 90 mg p.o. four times daily.
+9. Isosorbide 20 mg p.o. twice daily.
+10.      Albuterol inhaler one to two puffs every six hours
+   as needed.
+11.      Ipratropium bromide one nebulizer inhaler every six
+   hours as needed for wheezing.
+
+The patient remained neurologically stable.  She was
+evaluated by PT and OT and felt to require rehabilitation.
+The staples can be removed on postoperative day number ten.
+The patient had the surgery on 2008-02-12 00:00:00.
+
+CONDITION ON DISCHARGE:  Stable.
+
+FOLLOW UP:  The patient will follow-up with Dr. Button
+in two weeks with a repeat head CT.
+
+ADDENDUM:  On repeat head CT, the patient also had a left-
+sided chronic subdural hematoma which did enlarge once the
+right-sided subdural hematoma was evacuated and that will
+require further evaluation with repeat head CT in two weeks
+with Dr. Button.
+
+
+
+                        Amelda Button Amelda Button, MD 22920
+
+Dictated By:Aayat Rehms
+MEDQUIST36
+D:  2008-02-12 00:00:00 16:16:53
+T:  2008-02-12 00:00:00 16:41:55
+Job#:  22920
+
+
+

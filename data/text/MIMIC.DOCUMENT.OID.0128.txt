@@ -1,0 +1,294 @@
+Admission Date:  2010-12-01 00:00:00              Discharge Date:   2010-12-01 00:00:00
+
+Date of Birth: 1941-12-01 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Horse Blood Extract / Bactrim Ds / Adhesive Tape / Sulfa
+(Sulfonamides)
+
+Attending:Kronos Schnader
+Chief Complaint:
+Somnolence.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+This is a 67 y.o male with bladder cancer with large pelvic
+masses, recent chemo tue (taxol, gemzar) now presenting with
+n/v/d/ new afib with RVR, metastatic disease. Pt is HD m/w/f
+.
+Pt denies pain, but is unable to report other ROS. States he's
+tired.
+.
+In the Jordell Grewell, pt at first refused IV, got EJ, removed it, an
+another was placed. Pt s/p 3L IVF. HR 100-170's, not given any
+nodal agents for rate control. PT found to be neutropenic.
+RUQ-new liver masses/sacral/iliac, R.sided hydroureter, has
+neobladder. Pt given vanco, cefepime, flagyl. Somnolent, head CT
+negative. Tmax 100.2
+.
+
+
+Past Medical History:
+CAD
+HTN
+Hyperlipidemia
+ESRD on HD
+Bladder Cancer in 2010-12-01 00:00:00
+Depression
+Restless Leg Syndrome
+
+
+Social History:
+Patient lives at home with girlfriend; no smoking history, no
+etoh. Uses marijuana for a123 Any St.e. Son lives in 123 Any St.. Has 2
+daughters one of whom is expecting in Jordell Grewell.
+
+
+Family History:
+Dad died of CVA in his 90s, no hx of MI in family.
+
+Physical Exam:
+Vitals: T. 98.2 BP 104/67, HR 115, RR 20, sat 92% on 4L
+GEN: lying in bed, somnolent, arousable to sternal rub,
+HEENT: PERRL, sclera anicteric, no epistaxis or rhinorrhea, MMM,
+OP Clear
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline
+COR: RRR, s1s2 3/6 systolic flow murmur.
+PULM: Lungs b/l coarse inspiratory rhonchi. no w/r
+ABD: Soft, NT, ND, +BS, no HSM, no masses
+EXT: No C/C/2+E, no palpable cords
+NEURO: somnolent, squeezes hand to commands.
+
+
+Pertinent Results:
+Admission labs
+2010-12-01 00:00:00 10:30PM BLOOD WBC-0.4*# RBC-2.98* Hgb-8.0* Hct-26.2*
+MCV-88 MCH-27.0 MCHC-30.7* RDW-18.1* Plt Ct-52*#
+2010-12-01 00:00:00 10:30PM BLOOD Neuts-41* Bands-1 Lymphs-32 Monos-24*
+Eos-0 Baso-0 Atyps-2* Metas-0 Myelos-0
+2010-12-01 00:00:00 10:30PM BLOOD PT-44.7* PTT-46.3* INR(PT)-5.0*
+2010-12-01 00:00:00 10:30PM BLOOD Plt Smr-VERY LOW Plt Ct-52*#
+2010-12-01 00:00:00 10:30PM BLOOD Gran Ct-130*
+2010-12-01 00:00:00 10:30PM BLOOD Glucose-100 UreaN-98* Creat-6.6* Na-139
+K-4.8 Cl-92* HCO3-27 AnGap-25*
+2010-12-01 00:00:00 10:30PM BLOOD ALT-71* AST-114* LD(LDH)-501* CK(CPK)-127
+AlkPhos-256* TotBili-3.8* DirBili-2.7* IndBili-1.1
+2010-12-01 00:00:00 10:30PM BLOOD CK-MB-5
+2010-12-01 00:00:00 10:30PM BLOOD cTropnT-0.09*
+2010-12-01 00:00:00 10:30PM BLOOD Albumin-2.3* Calcium-7.1* Phos-8.8*#
+Mg-2.0
+2010-12-01 00:00:00 10:37PM BLOOD Lactate-1.8 K-4.8
+
+Pertinent Radiology:
+2010-12-01 00:00:00 Liver Gallbladder US:
+IMPRESSION:
+1. Multiple hepatic masses, the largest of which measures over 4
+cm, and is suspicious for metastatic disease given the history.
+2. Unchanged severe right hydronephrosis.
+3. No gallbladder distention or CBD dilation.
+
+2010-12-01 00:00:00 CT ABD/Pelvis:
+IMPRESSION:
+1. Marked progression of metastatic disease, with new metastases
+in the liver as well as iliac and sacral bones.
+2. Severe right hydroureteronephrosis, as in the prior study.
+3. Limited evaluation of the central abdomen due to marked
+streak artifact
+from numerous surgical clips.
+4. Bilateral lower lobe subsegmental atelectasis, as well as
+incompletely
+imaged nodular opacities suspicious for metastatic disease given
+the history.
+
+2010-12-01 00:00:00 CT HEAD:
+IMPRESSION: No evidence of acute intracranial process. If there
+is high
+clinical suspicion for metastatic disease, MRI is more
+sensitive.
+
+2010-12-01 00:00:00 LENI:
+IMPRESSION: Normal examination of the bilateral lower
+extremities. No
+evidence of DVT.
+
+2010-12-01 00:00:00 CXR:
+Since 2010-12-01 00:00:00, cardiomegaly is unchanged. Prior
+sternotomy and
+abdominal clips are unchanged.
+Bilateral small pleural effusions are new. Bilateral increase in
+interstitial markings and hilar haziness are consistent with
+pulmonary edema. More confluent left lower lobe opacity could be
+due to pneumonia.
+Incidentally, old left rib fractures are unchanged.
+
+2010-12-01 00:00:00 EKG:
+Atrial fibrillation with rapid ventricular response.
+Non-specific ST-T wave abnormalities. Compared to the 123 Any St.us
+tracing of 2010-12-01 00:00:00 no significant change.
+
+Brief Hospital Course:
+A/P: Pt is a 67 y.o male with h.o bladder cancer now presenting
+with altered mental status and tachycardia.
+.
+MICU COURSE:
+1) Tachycardia: patient presented with Afib. No obvious
+explanation. Assess for myocardial infarction. With
+thrombocytopenia and prolonged INR and renal failure, a PE is
+less likely. Would check A-a gradient on room air and obtain
+LENI's with peripheral edema. Also check thyroid function.
+-monitor on tele
+-ROMI
+.
+2) Fever with neutropenia: concern about infection with
+neutropenia. CXR not impressive for infiltrate but there may be
+slight increase in markings at right base and left base. On
+broad spectrum antibiotics; will repeat CXR in AM. Blood
+cultures pending/urine cx pending.
+-neutropenic percautions.
+.
+3) Anemia: probably related to marrow suppression. No evidence
+of GI bleeding. Guaiac stool. PIVs. IRON studies.
+.
+4) Thrombocytopenia: likely related to bone marrow suppression.
+No evidence of bleeding now. Continue to monitor. Consider HIT
+ab.
+.
+5) Hypotension: patient with hx of hypertension. Present BP
+likely relatively hypotensive now. Has dry mucus membranes and
+decreased tissue turgor. Will give additional fluids now. With
+renal failure, would watch bicarbonate with normal saline fluid
+resuscitation. Would not give lactated ringers because of
+anuria. 2010-12-01 00:00:00 need D5W with bicarb as part of fluid resuscitation
+if serum bicarb begins to drop.
+.
+6) Metastatic bladder ca: discuss future therapy with oncology.
+.
+7) Altered mental status: ETiologies include intracranial
+mass/bleed but r/o with CT head. Other possibilities include
+toxic-metabolic including uremia/acute liver failure. Other
+possibilities include infection such as sepsis/meningitis. Other
+possibility includes medication/narcotic effect. Patient given
+narcan with some improvement. He is on narcotics at home and may
+have taken extra doses or may now have delayed metabolism
+because of liver 2010-12-01 00:00:00 and abnormal LFT's. Continue with narcan
+for now. Uremia may also be contributing to altered mental
+status.
+-toxic metabolic w/u and correction
+-frequent neuro exams
+-antibiotics
+-infectious w/u
+-consult renal for HD.
+.
+8) Chronic renal failure: electrolytes and acid-base status
+acceptable. Mental status may be due, in part, to uremia. No
+volume overload now. No immediate need for dialysis. renal on
+board.
+.
+9) Acidosis: combined anion gap acidosis, probably from uremia,
+and metabolic alkalosis, likely from volume de123 Any St.n and
+vomiting.
+.
+Fen-NPO, lytes prn
+access-PIVs
+ppx-pneumoboots, PPI, bowel reg
+communication-pt's family
+code-DNR/DNI
+disp- ICU for now.
+.
+2010-12-01 00:00:00
+-Bili mostly direct (2.7 out of 3.8)
+- Given now widespread 2010-12-01 00:00:00 on CT abd/pelvis. Family met with
+Dr. Grewell (heme), Kronos Schnader (renal) and has decided to make pt
+DNR/ DNI. Will most likely go to comfort care but would like to
+wait a few days and see if the pt "comes out of this" ie change
+in MS
+- EKG without change
+-FFP 4u given in afternoon
+-Pt with very limited access. Currently has 1 working PIV.
+Family not opposed to central access at this time but as it will
+excalate care at this time with risks of infxn and coagulopathy,
+will not place.
+-Pt with A fib and HR into 180's off and on in the afternoon.
+Started on Metoprolol 5IV Q 4hrs but still with intermittent
+tachycardia. Currently in sinus.
+- LENI's negative
+-Stools grossly bloody and guaiac +. Hct stable.
+-CE trending down
+-Considered starting lactulose to possibly improve MS Jordell Grewell
+to liver and liver damage seen in coagulopathy but d/c'd as pt
+already having considerable diarrhea- C diff pending
+-Per renal, if family still wishes, will do HD in am
+-Got just 1L IVF bolus during evening. O2 Sat 95% on 2LNC and pt
+putting out little uring by ostomy (must be cathed by nursing)
+
+2010-12-01 00:00:00
+- Family discussion -> decided to proceed with HD - bedside HD
+per renal yesterday
+- transfused 2 U with appropriate increase in Hct
+- Urine Cx with GNR >100K
+- Patient with pain in abd last night, given small dose morphine
+with good effect
+
+2010-12-01 00:00:00
+- Pt made CMO overnight.
+- Pt given IVF and Morphine PRN
+.
+OMED COURSE
+Patient was transferred to OMED service from UPMCE on Thursday
+2010-12-01 00:00:00.  At the time of transfer the goals of care were comfort
+measures only.  He was kept on a morphine drip, titrated to
+respiratory comfort.  He was also started on Ativan prn for
+agitation.  Palliative care consult was obtained.  He passed
+away on the night of Friday 2010-12-01 00:00:00 at approximately 6:15 PM.
+Immediate cause of death was respiratory failure.  Secondary
+cause of death was metastatic bladder cancer.
+
+Medications on Admission:
+tylenol-codeine 300-30mg 2010-12-01 00:00:00 Q4h prn
+ambien 10mg QHS
+amlodipine 5mg daily
+lipitor 40mg daily
+nephrocaps
+neurontin 300mg qhs
+imdur 60mg SR daily
+megace 15mg po daily
+toprol xl  50mg 0.5mg daily
+morphine 15mg UPMCE
+ms Grewell 15mg SR UPMCE
+nitro 0.4mg
+protonix 40mg daily
+mirapex 0.25mg qhs
+compazine 10mg Q6Hprn
+renagel 800mg , 2 tabls TID
+aspirin 81mg daily
+
+
+Discharge Medications:
+Deceased.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Metastatic Bladder Cancer.
+
+
+Discharge Condition:
+Deceased.
+
+
+Discharge Instructions:
+Deceased.
+
+Followup Instructions:
+Deceased.
+
+
+                             Jordell Grewell Jordell Grewell MD, 56225
+
+Completed by:2010-12-01 00:00:00

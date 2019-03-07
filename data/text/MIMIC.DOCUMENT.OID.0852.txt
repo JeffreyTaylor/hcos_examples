@@ -1,0 +1,475 @@
+Admission Date:  2012-05-03 00:00:00              Discharge Date:   2012-05-03 00:00:00
+
+Date of Birth: 1953-04-14 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Katedra Debe
+Chief Complaint:
+trauma transfer from OSH, s/p unwitness fall, right rib
+fractures, right pneumothorax, spinal compression fractures
+
+Major Surgical or Invasive Procedure:
+placement of right chest tubes done at bedside (x3)
+pleurodesis right lung done at bedside
+
+
+History of Present Illness:
+Patient is an 80 year old patient who experienced a witnessed
+fall onto concrete. She had no recollections of the events. She
+craweled into the house and was found by her son. At that time
+she was in respiratory distress and complained of right chest
+pain. She was brought to the UPMCE and was
+subsequently transferred here. She was found to have a
+pneumothorax on the right and chest tubes were placed at OSH.
+Patient had small abrasions on the right forearm and right knee.
+She was hemodynamically stable on arrival.
+Patient was also found to have compression fractures of L4, L5,
+T6, T7, T9, T12.
+
+Patient has no prior history of trauma.
+
+Past Medical History:
+PMH:
+COPD on O2 at home ranges from 2-2.5 LNC
+hypertension
+hyperlipedemia
+Dementia
+Depression
+Osteoporosis
+
+PSH:
+surgical excision of Arakelian neuroma
+
+Social History:
+- patient lives with son
+- is retired
+- smokes 1 pack of cigarettes a day
+- denies etoh and drug use
+
+Family History:
+non-contributory
+
+Physical Exam:
+PE:
+VS: Tm 98.8, HR 78, BP 132/76, RR 20, O2 sat 98% on 2L/min NC
+gen: WA/WD, NAD
+CV: RRR, no m/r/g
+pulm: CTA b/l
+abdomen: +BS, ND/NT, soft
+extremities: no edema
+right chest: site of chest tube insertion is clean and dry,
+there is no discharge, no edema or erythema, dressing is in
+place
+
+Pertinent Results:
+CBC:
+2012-05-03 00:00:00 04:50AM BLOOD WBC-14.4* RBC-4.48 Hgb-12.3 Hct-37.6
+MCV-84 MCH-27.4 MCHC-32.7 RDW-13.3 Plt Ct-309
+2012-05-03 00:00:00 01:12AM BLOOD WBC-9.0 RBC-3.36* Hgb-9.5* Hct-29.9*
+MCV-89 MCH-28.3 MCHC-31.8 RDW-13.9 Plt Ct-208
+2012-05-03 00:00:00 02:07AM BLOOD WBC-9.4 RBC-3.78* Hgb-10.4* Hct-32.0*
+MCV-85 MCH-27.6 MCHC-32.6 RDW-13.5 Plt Ct-201
+2012-05-03 00:00:00 01:34AM BLOOD WBC-6.6 RBC-3.47* Hgb-9.5* Hct-29.0*
+MCV-84 MCH-27.4 MCHC-32.8 RDW-13.6 Plt Ct-170
+2012-05-03 00:00:00 01:57AM BLOOD WBC-5.4 RBC-3.87* Hgb-10.5* Hct-32.7*
+MCV-85 MCH-27.1 MCHC-32.1 RDW-14.0 Plt Ct-216
+2012-05-03 00:00:00 02:29AM BLOOD WBC-5.1 RBC-3.80* Hgb-10.5* Hct-31.8*
+MCV-84 MCH-27.6 MCHC-33.0 RDW-14.0 Plt Ct-258
+2012-05-03 00:00:00 02:00AM BLOOD WBC-6.1 RBC-3.66* Hgb-9.9* Hct-30.3*
+MCV-83 MCH-27.1 MCHC-32.8 RDW-14.1 Plt Ct-252
+2012-05-03 00:00:00 06:40AM BLOOD WBC-9.5# RBC-3.83* Hgb-10.8* Hct-32.8*
+MCV-86 MCH-28.1 MCHC-32.8 RDW-14.7 Plt Ct-388#
+2012-05-03 00:00:00 06:45AM BLOOD WBC-15.9*# RBC-4.22 Hgb-11.6* Hct-35.3*
+MCV-84 MCH-27.6 MCHC-32.9 RDW-15.2 Plt Ct-493*
+2012-05-03 00:00:00 07:07AM BLOOD WBC-18.1*# RBC-4.25 Hgb-12.1 Hct-36.4
+MCV-86 MCH-28.4 MCHC-33.1 RDW-15.0 Plt Ct-571*
+2012-05-03 00:00:00 01:44AM BLOOD WBC-8.6# RBC-3.10*# Hgb-8.9*# Hct-26.2*#
+MCV-84 MCH-28.5 MCHC-33.8 RDW-15.3 Plt Ct-346
+2012-05-03 00:00:00 07:41AM BLOOD Hct-25.5*
+2012-05-03 00:00:00 02:06PM BLOOD Hct-26.1*
+2012-05-03 00:00:00 02:02AM BLOOD WBC-10.8 RBC-3.15* Hgb-8.7* Hct-26.9*
+MCV-85 MCH-27.6 MCHC-32.4 RDW-15.9* Plt Ct-349
+2012-05-03 00:00:00 02:37AM BLOOD WBC-11.0 RBC-3.25* Hgb-9.2* Hct-28.3*
+MCV-87 MCH-28.2 MCHC-32.4 RDW-15.5 Plt Ct-397
+2012-05-03 00:00:00 01:51AM BLOOD WBC-11.2* RBC-3.29* Hgb-9.0* Hct-28.0*
+MCV-85 MCH-27.5 MCHC-32.3 RDW-15.5 Plt Ct-374
+2012-05-03 00:00:00 06:45AM BLOOD WBC-10.5 RBC-3.52* Hgb-9.8* Hct-30.7*
+MCV-87 MCH-27.7 MCHC-31.7 RDW-15.8* Plt Ct-469*
+2012-05-03 00:00:00 06:30AM BLOOD WBC-15.1* RBC-2.84* Hgb-8.0* Hct-25.1*
+MCV-88 MCH-28.2 MCHC-31.9 RDW-16.8* Plt Ct-625*
+2012-05-03 00:00:00 07:30PM BLOOD Hct-25.5*
+2012-05-03 00:00:00 07:05AM BLOOD WBC-13.2* RBC-2.59* Hgb-7.3* Hct-23.6*
+MCV-91 MCH-28.2 MCHC-31.0 RDW-17.6* Plt Ct-596*
+2012-05-03 00:00:00 07:32AM BLOOD Hct-21.3*
+2012-05-03 00:00:00 09:30PM BLOOD Hct-26.7*#
+2012-05-03 00:00:00 09:30PM BLOOD Hct-26.7*#
+2012-05-03 00:00:00 06:50AM BLOOD WBC-11.0 RBC-3.36*# Hgb-9.5*# Hct-30.0*
+MCV-89 MCH-28.3 MCHC-31.7 RDW-17.0* Plt Ct-697*
+2012-05-03 00:00:00 07:25AM BLOOD Hct-27.4*
+
+electrolytes:
+2012-05-03 00:00:00 04:50AM BLOOD Glucose-138* UreaN-18 Creat-0.7 Na-140
+K-3.8 Cl-101 HCO3-29 AnGap-14
+2012-05-03 00:00:00 01:12AM BLOOD Glucose-488* UreaN-21* Creat-0.7 Na-140
+K-6.0* Cl-114* HCO3-25 AnGap-7*
+2012-05-03 00:00:00 02:07AM BLOOD Glucose-121* UreaN-23* Creat-0.8 Na-142
+K-4.3 Cl-109* HCO3-28 AnGap-9
+2012-05-03 00:00:00 01:34AM BLOOD Glucose-137* UreaN-23* Creat-0.6 Na-142
+K-4.3 Cl-111* HCO3-24 AnGap-11
+2012-05-03 00:00:00 01:57AM BLOOD Glucose-103* UreaN-28* Creat-0.7 Na-142
+K-4.5 Cl-109* HCO3-23 AnGap-15
+2012-05-03 00:00:00 02:29AM BLOOD Glucose-97 UreaN-27* Creat-0.6 Na-140
+K-4.5 Cl-106 HCO3-27 AnGap-12
+2012-05-03 00:00:00 04:05PM BLOOD Glucose-92 UreaN-22* Creat-0.6 Na-141
+K-3.9 Cl-102 HCO3-31 AnGap-12
+2012-05-03 00:00:00 02:00AM BLOOD Glucose-104* UreaN-23* Creat-0.5 Na-140
+K-3.7 Cl-102 HCO3-30 AnGap-12
+2012-05-03 00:00:00 06:40AM BLOOD Glucose-85 UreaN-23* Creat-0.5 Na-141
+K-3.9 Cl-101 HCO3-29 AnGap-15
+2012-05-03 00:00:00 06:45AM BLOOD Glucose-137* UreaN-25* Creat-0.6 Na-143
+K-3.9 Cl-99 HCO3-32 AnGap-16
+2012-05-03 00:00:00 07:07AM BLOOD Glucose-137* UreaN-25* Creat-0.6 Na-144
+K-4.4 Cl-100 HCO3-34* AnGap-14
+2012-05-03 00:00:00 05:55PM BLOOD Glucose-140* UreaN-30* Creat-0.7 Na-142
+K-3.6 Cl-100 HCO3-31 AnGap-15
+2012-05-03 00:00:00 01:44AM BLOOD Glucose-138* UreaN-29* Creat-0.6 Na-140
+K-3.4 Cl-100 HCO3-33* AnGap-10
+2012-05-03 00:00:00 02:02AM BLOOD Glucose-155* UreaN-32* Creat-0.5 Na-141
+K-3.9 Cl-104 HCO3-33* AnGap-8
+2012-05-03 00:00:00 02:37AM BLOOD Glucose-105* UreaN-27* Creat-0.5 Na-139
+K-3.6 Cl-101 HCO3-33* AnGap-9
+2012-05-03 00:00:00 01:51AM BLOOD Glucose-94 UreaN-22* Creat-0.6 Na-138
+K-3.9 Cl-97 HCO3-34* AnGap-11
+2012-05-03 00:00:00 06:45AM BLOOD Glucose-87 UreaN-15 Creat-0.6 Na-139
+K-3.6 Cl-98 HCO3-34* AnGap-11
+2012-05-03 00:00:00 06:30AM BLOOD Glucose-108* UreaN-42* Creat-0.6 Na-139
+K-4.2 Cl-100 HCO3-28 AnGap-15
+2012-05-03 00:00:00 09:10AM BLOOD Glucose-88 UreaN-29* Creat-0.7 Na-137
+K-3.1* Cl-102 HCO3-26 AnGap-12
+2012-05-03 00:00:00 07:05AM BLOOD Glucose-88 UreaN-30* Creat-0.5 Na-140
+K-3.8 Cl-108 HCO3-25 AnGap-11
+2012-05-03 00:00:00 06:20AM BLOOD Glucose-91 UreaN-19 Creat-0.5 Na-138
+K-3.6 Cl-104 HCO3-27 AnGap-11
+2012-05-03 00:00:00 06:50AM BLOOD Glucose-86 UreaN-18 Creat-0.5 Na-141
+K-4.0 Cl-104 HCO3-29 AnGap-12
+
+2012-05-03 00:00:00 01:45PM BLOOD CK(CPK)-1193*
+2012-05-03 00:00:00 08:55PM BLOOD CK(CPK)-1530*
+
+cardiac enzymes:
+2012-05-03 00:00:00 04:50AM BLOOD cTropnT-0.20*
+2012-05-03 00:00:00 04:50AM BLOOD CK-MB-22*
+2012-05-03 00:00:00 01:45PM BLOOD CK-MB-33* MB Indx-2.8 cTropnT-0.14*
+2012-05-03 00:00:00 08:55PM BLOOD CK-MB-32* MB Indx-2.1 cTropnT-0.22*
+2012-05-03 00:00:00 12:45PM BLOOD CK-MB-7 cTropnT-0.01
+
+electrolytes:
+2012-05-03 00:00:00 01:12AM BLOOD Calcium-6.7* Phos-2.7 Mg-2.2
+2012-05-03 00:00:00 02:07AM BLOOD Calcium-7.7* Phos-3.1 Mg-2.5
+2012-05-03 00:00:00 06:20AM BLOOD Calcium-8.0* Phos-2.2* Mg-2.4
+2012-05-03 00:00:00 06:50AM BLOOD Calcium-8.1* Phos-2.3* Mg-2.4
+
+imaging:
+2012-05-03 00:00:00
+CT c-spine:
+1. No acute fracture of the cervical spine.
+2. Grade 1 anterolisthesis of C2 on C3 and C3 on C4 which may be
+
+degenerative, although this cannot be confirmed without prior
+studies. Grade 1 retrolisthesis of C4 over C5 with mild kyphosis
+and moderate canal stenosis.
+3. Moderate spinal canal stenosis at C4-5 and C5-C6, which could
+123 Any St.pose the patient to cord injury in the setting of minor
+trauma. MRI is recommended for further assessment of cord or
+ligamentous injury, provided the patient has no
+contraindications to MRI.
+
+2012-05-03 00:00:00
+CT Head:
+No acute intracranial hemorrhage or edema. No acute skull
+fracture, within the limitations of slight motion.
+
+2012-05-03 00:00:00
+CT abdomen/pelvis/chest:
+1. Moderate to large right pneumothorax with a small component
+of
+hydropneumothorax.
+2. Large hiatal hernia containing fluid. Fluid in the entire
+esophagus,
+placing the patient at risk for aspiration.
+3. Emphysema.
+4. Posterior right rib fractures 5 through 11.
+5. Multiple compression deformities of the thoracic and lumbar
+spine as
+detailed above, age indeterminate.
+6. Extensive subcutaneous gas of the neck, abdomen, pelvis and
+right arm.
+Pneumomediastinum.
+7. Diverticulosis, no evidence of diverticulitis.
+
+2012-05-03 00:00:00 EKG:
+Sinus rhythm. Low QRS voltage. Consider prior inferior
+myocardial infarction. Prior anterior myocardial infarction.
+Since the 123 Any St.us tracing of 2012-05-03 00:00:00 delayed R wave progression
+is more prominent but there may be no significant change.
+
+2012-05-03 00:00:00 echocardiogram:
+The left atrium is dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is
+unusually small. Left ventricular systolic function is
+hyperdynamic (EF>75%). Due to suboptimal technical quality, a
+focal wall motion abnormality cannot be fully excluded. There is
+a mid-cavitary LV systolic gradient, which increases with the
+Valsalva maneuver. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. There is moderate pulmonary
+artery systolic hypertension. There is an anterior space which
+most likely represents a promient fat pad.
+
+IMPRESSION: Small, hypertrophied and hyperdynamic left ventricle
+with a mid-cavitary gradient. Moderate pulmonary hypertension
+
+2012-05-03 00:00:00 CXR
+No pneumothoraces are seen on either side. There is again seen a
+very large hiatal hernia which is less air-filled. There are
+bilateral pleural
+effusions, right side worse than left, which are unchanged from
+prior. There are no signs for overt pulmonary edema. There is
+demineralization of the thoracic spine with some compression
+deformities.
+
+microbiology:
+2012-05-03 00:00:00 Stool Clostridium difficile culture - negative
+
+
+Brief Hospital Course:
+The patient was admitted to the Trauma Surgical Service after
+transfer from the OSH. She was s/p fall with multiple right rib
+fractures and right pneumothorax. The chest tubes were placed to
+suction. She also had lumbar and thoracic spinal compression
+fractures which were non-operative; neurosurgery was consulted.
+She was initially admitted to the surgical trauma ICU for
+monitoring of her respiratory status. The patient was
+hemodynamically stable.
+
+Neuro: Initially pain service was consulted regarding epidural
+anasthesia. However, that was not done, and instead the patient
+received IV morphine with good effect and adequate pain control.
+She also recieved a transdermal lidocaine patch to the chest.
+She recieved Tylenol and Toradol. On 2012-05-03 00:00:00, she was strated on
+PCA dilaudid. When tolerating oral intake, the patient was
+transitioned to oral pain medications, namely in liquid form and
+that was easier for her to tolerate. Pain service was involved
+to manage pain.
+
+CV: The patient remained stable from a cardiovascular
+standpoint; vital signs were routinely monitored. Cardiac
+anzymes were monitored multiple times and were negative. The EKG
+was performed on 2012-05-03 00:00:00, which was not suspicious for acute
+ischemia. The echo was done on 2012-05-03 00:00:00, the results are detailed
+in the 123 Any St.us section.
+
+Pulmonary: Patient was admitted with the right pneumothorax and
+subcutaneous emphasema along the right lateral chest wall and
+flank extending inferiorly to about right anterior superior
+iliac spine. At the time of admission she had one chest tube
+placed and later on the same day she had a second chest tube
+placed to suction. Good pulmonary toilet, early ambulation and
+incentive spirrometry were encouraged throughout
+hospitalization. She recieved albuterol and ipratropium as
+needed for shortness of breath. Both of the two chest tube were
+removed on 2012-05-03 00:00:00.Subsequetly, patient experienced some
+respiratory distress on 2012-05-03 00:00:00; she had small apical pneumothorax
+on CXR. The respiratory distress was treated with nebulizers,
+cpap and diuresis. Her repiratory status was monitored in the
+trauma ICU until 2012-05-03 00:00:00, when she was transferred to the floor.
+Two days later she experienced respiratory distress and was
+transferred back to the ICU on 2012-05-03 00:00:00. Subsequntly, patient was
+intubated in the ICU and chest tube was placed on the right
+side. She continued to have an air leak, the chest tube stayed
+to suction. Treatment with vancomycin and cefepime were started
+for presumed pneumonia. Patient's respiratory status improved
+and she was extubated on 2012-05-03 00:00:00 and transferred to the floor.
+
+She did well on the floor, even though she had a persistent air
+leak. Attempts were made to clamp the chest tube, she initially
+did not tolerate it. The pleurodesis was done by thoracic
+surgery service at bedside. Patient tolerated it well. Several
+days later, the air leak largely disappeared, patient eventually
+tolerated clamping and chest tube to water seal for almost 48
+hours. The chest tube was then removed and patient remained in
+good respiratory status with no residual pneumothorax on chest
+x-ray. Patient recieved daily chest x-rays to monitor her right
+sided pneumothorax.
+
+By the time of discharge patient was on her home dose on
+supplemental oxygen, sating well over 92%.
+
+GI/GU/FEN: Post-operatively, the patient was made NPO with IV
+fluids. Diet was advanced when appropriate, which was well
+tolerated. Patient's intake and output were closely monitored,
+and IV fluid was adjusted when necessary. Electrolytes were
+routinely followed, and repleted when necessary.
+
+Patient was kept NPO initially secondary to large hiatal hernia
+and concern for aspiration risk. She had a speech and swallow
+evaluation on 2012-05-03 00:00:00. The recommendations were diet of thin
+liquids and pureed consistency solids, medications to be crushed
+with the liquids, one on one supervision and nutrition consult
+was recommended. Recommended diet was started following this
+evaluation.
+
+ID: The patient's white blood count and fever curves were
+closely watched for signs of infection. She remained afebrile.
+The sputum cultures were sent once, but contained only
+respiratory flora. Patient was treated with vancomycin and
+cefepime for presumed pneumonia.
+
+Stool was sent on 2012-05-03 00:00:00 for Clostridium difficile analysis. There
+was no growth.
+
+Endocrine: The patient's blood sugar was monitored throughout
+his stay; insulin dosing was adjusted accordingly.
+
+Hematology: The patient's complete blood count was examined
+routinely; no transfusions were required. Her anemia was at
+baseline.
+
+Prophylaxis: The patient received subcutaneous heparin and
+venodyne boots were used during this stay; was encouraged to get
+up and ambulate as early as possible with physical therapy.
+
+At the time of discharge, the patient was doing well, afebrile
+with stable vital signs. The patient was tolerating a regular
+diet with supplements, ambulating with assisstance, voiding, and
+pain was well controlled. Her respiratory status was much
+improved and stable, at her baseline. The patient received
+discharge teaching and follow-up instructions with understanding
+verbalized and agreement with the discharge plan.
+
+
+Medications on Admission:
+simvastatin 10 mg once daily
+albuterol
+flovent
+Celexa 20 mg once daily
+lisinopril
+
+Discharge Medications:
+1. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tablet(s)
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID PRN  as needed
+for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) for 1 weeks.
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO daily PRN  as needed for
+constipation.
+7. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 3 days: stop the taper on 2012-05-03 00:00:00 after the last dose .
+8. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q2H (every 2 hours) as
+needed for Wheezing.
+9. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+10. Acetaminophen 650 mg/20.3 mL Solution Sig: One (1) ml  PO
+TID PRN .
+11. Oxycodone 5 mg/5 mL Solution Sig: 2012-05-03 00:00:00 ml  PO every 4 hours
+PRN  as needed for pain for 1 weeks.
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+13. Guaifenesin 100 mg/5 mL Syrup Sig: Five (5) ML PO BID (2
+times a day).
+14. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+15. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. at 123 Any St.
+
+Discharge Diagnosis:
+multiple right rib fractures
+right pneumothorax
+lumbar and thoracic spinal compression fractures
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were hospitalized because of the fall that resulted in your
+rib fractures and lead to the right lung pneumothorax.
+
+Please call your doctor or nurse practitioner or return to the
+Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or
+tightness.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your
+medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea,
+or other reasons. Signs of dehydration include dry mouth, rapid
+heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a
+bowel movement.
+
+*You experience burning when you urinate, have blood in your
+urine, or experience a discharge.
+
+* Call or return immediately if you experience pain which is
+getting worse or changes location or moving to your chest or
+back.
+
+*You have shaking chills, or fever greater than 101.5 degrees
+Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern
+you.
+
+Please resume all regular home medications , unless specifically
+advised not to take a particular medication. Also, please take
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times
+per day, and drink adequate amounts of fluids.
+
+Avoid driving or operating heavy machinery while taking pain
+medications.
+
+
+Followup Instructions:
+Please make an appointment with Dr. Katedra Debe in 2012-05-03 00:00:00 weeks. His
+office phone number is (test@mail.com.
+
+Please make an appointment with your primary care physician Katedra Debe
+2012-05-03 00:00:00 weeks.
+
+
+                             Deambra Deambra Arakelian MD 88078
+
+Completed by:2012-05-03 00:00:00

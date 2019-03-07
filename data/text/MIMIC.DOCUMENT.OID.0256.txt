@@ -1,0 +1,360 @@
+Admission Date:  2012-03-22 00:00:00              Discharge Date:   2012-03-22 00:00:00
+
+Date of Birth: 1979-03-18 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Gemfibrozil
+
+Attending:Eurie Quadrini
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+History of Present Illness:
+Ms. Bibb is a 78 year-old woman with h/o HTN, hyperchol,
+CHF, ESRD (not yet on HD) who was transfered from UPMCE UPMCE for management of NSTEMI.
+.
+The patient describes 2 types of pain. The first pain is a R
+sternal pain that occurs while eating and is usually relieved
+with physical massage. She reports having this pain for years.
+.
+The second type of pain started 2 days ago, but has not recurred
+now for more than 24 hours.   She reports having epigastric
+chest pain 2 days prior to admission that lasted for a whole
+day.  She also noted pain in her R arm at the same time.  Denies
+associated N/V, diaphoresis, or sob.  No recent change in
+weight, LE swelling, or PND. Patient did have some mild cough
+with yellow productive sputum, but no f/c.  She also c/o chronic
+lightheadedness that she attributes to her medication along with
+some intermittent vertigo. Patient otherwise denies any
+myalgias/arthralgias. She continues to urinate, no
+dysuria/hematuria, intermittent constipation.  She also has
+chronic insominia.  Her exercise capacity consists of 2012-03-22 00:00:00 a
+block, limited by fatigue. Patient told her daughter about the
+pain, who then contactArvind Bibb patient's PCP, Bibb. Bibb.  PCP referred
+the patient to 123 Any St. ED for evaluation.
+.
+Upon arrival to the OSH ED, labs revealed Cr 2.7; CK 301; CKMB
+59; Trop T 1.46; EKG was unchanged.  Elevated cardiac enzymes
+were confirmed with CK of 317, troponin 1.68 with no prior
+baseline.  She was started on a heparin gtt, ASA 325, Lopressor
+5 mg IV x 1.  Patient was then transferred to UPMCE for further
+managment.
+.
+Currently, patient feels well, denies CP/SOB.
+
+
+Past Medical History:
+CVA (2012-03-22 00:00:00; MRI showing left internal capsular defect, little
+residual effect)
+ESRD still not on HD - Cr 3.0 (1.7-6.0) - followed by Dr. Eurie Quadrini
+
+Congestive Heart Failure (ECHO 2012-03-22 00:00:00 UPMCE, technically
+limited showed mild concentric LVH with EF at 60%, ?pericardial
+
+effusion (size unspecified)
+s/p right renal artery stent (2012-03-22 00:00:00) by Dr. Bibb
+Hypertension
+Hypercholesterolemia,
+Hypothyroidism
+Depression
+Degenerative Joint Disease
+TAH-BSO/repair of umbilical hernia for benign ovarian mass
+(path=fibroma 2012-03-22 00:00:00)
+
+
+Social History:
+Former light smoker (ages 25-73); quit 4 yrs ago. No history of
+
+EtOH or other drugs. Formerly worked as a paralegal. Now living
+
+in public senior housing in UPMCE. Mother of two--one
+daughter lives nearby.
+
+Family History:
+Notable for diabetes and renal failure in a brother.
+
+
+Physical Exam:
+VS: 97.8 - 130/59 - 60 - 16 - 98% 2L
+Gen: elderly female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor
+or cyanosis of the oral mucosa. No xanthalesma.
+Neck: Supple; JVP flat.
+CV: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NT, ND.
+Ext: No c/c/e. No femoral bruits.
+Pulses: 2+ femoral, 2+ DP/PT pulses
+.
+
+
+Pertinent Results:
+LABS ON ADMISSION:
+2012-03-22 00:00:00 09:30PM BLOOD WBC-8.3 RBC-4.00* Hgb-13.0 Hct-36.3
+MCV-91 MCH-32.5* MCHC-35.8* RDW-13.8 Plt Ct-186
+2012-03-22 00:00:00 09:30PM BLOOD Neuts-64.2 Lymphs-21.7 Monos-6.2 Eos-7.4*
+Baso-0.5
+2012-03-22 00:00:00 09:30PM BLOOD PT-13.1 PTT-127.1* INR(PT)-1.1
+2012-03-22 00:00:00 09:30PM BLOOD Plt Ct-186
+2012-03-22 00:00:00 09:30PM BLOOD Glucose-87 UreaN-30* Creat-2.5* Na-142
+K-3.4 Cl-109* HCO3-21* AnGap-15
+2012-03-22 00:00:00 09:30PM BLOOD ALT-18 AST-49* CK(CPK)-317*
+2012-03-22 00:00:00 09:30PM BLOOD CK-MB-54* MB Indx-17.0* cTropnT-1.68*
+2012-03-22 00:00:00 06:42AM BLOOD ALT-13 AST-40 CK(CPK)-239*
+2012-03-22 00:00:00 06:42AM BLOOD CK-MB-38* MB Indx-15.9* cTropnT-1.88*
+2012-03-22 00:00:00 05:05AM BLOOD CK(CPK)-518*
+2012-03-22 00:00:00 05:05AM BLOOD CK-MB-58* MB Indx-11.2* cTropnT-3.53*
+2012-03-22 00:00:00 07:15AM BLOOD CK(CPK)-351*
+2012-03-22 00:00:00 05:25AM BLOOD CK(CPK)-152*
+2012-03-22 00:00:00 09:30PM BLOOD Calcium-9.9 Phos-2.4* Mg-2.5
+2012-03-22 00:00:00 02:45PM BLOOD %HbA1c-5.6
+.
+CARDIAC CATHETERIZATION 2012-03-22 00:00:00 ([** Location **]INARY REPORT)
+1.  Selective coronary angiography revealed two vessel coronary
+artery disease.  The left main coronary artery was short with no
+angiographically apparent flow limiting stenoses.  The LAD had
+moderate diffuse disease with a 70% stenosis in the mid vessel
+and a 70% stenosis at the origin of the first diagonal.  The LCX
+had an OM1 upper pole with a 99% stenosis and slow flow.  The
+LCX had a 70% stenosis in the mid vessel.  The RCA was small in
+caliber and had no angiographically apparent flow limiting
+stenoses.
+2.  Limited resting hemodynamics were performed upon entry.
+Systemic arterial pressure was moderately elevated (aortic
+pressure was 160/73mmHg).
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+.
+CT ABDOMEN 2012-03-22 00:00:00 ([** Location **]INARY REPORT)
+1. Small hemorrhagic pericardial effusion.
+2. Small bilateral pleural effusion.
+3. No evidence of reteroperitoneal bleed.
+4. Diffuse atherosclerotic disease.
+5. Atrophic kidneys. Not significantly changed form CT from 2012-03-22 00:00:00, 2012-03-22 00:00:00.
+.
+ECHO 2012-03-22 00:00:00
+The left ventricular cavity size is normal. LV systolic function
+appears depressed with lateral hypokinesis (regional wall motion
+not fully assessed). Right ventricular chamber size is normal.
+Right ventricular systolic function is normal. There is a small
+pericardial effusion. There are no echocardiographic signs of
+tamponade.
+.
+CXR 2012-03-22 00:00:00: ([** Location **]INARY REPORT)
+2 views of the chest compared to a single view done 4 days
+earlier. There are no focal infiltrates or definite effusions.
+Mediastinum and bony structures are unchanged including findings
+consistent with rotator cuff disease involving the right
+shoulder. There is also marked aortic tortuosity and prominence,
+this is also unchanged. Over the cervical prevertebral area,
+there is a superimposed air which likely represents the trachea
+as well as the piriform sinuses. Please correlate clinically in
+this patient with fever.
+.
+CT chest (non-contrast): 1. Extensive aortic and coronary
+atherosclerosis with suspected descending thoracic aorta
+dissection and intraluminal thrombus, stable. This study is not
+dedicated to evaluation of the vascular system and additional
+examination might be considered.
+
+2. Right lower lobe atelectasis and small pleural effusions.
+
+Brief Hospital Course:
+Mrs. Bibb is a 78 year-old woman with a history of
+hypertension, hypercholesterolemia, congestive heart failure,
+end stage renal disease (not yet on hemodialysis) who was
+transfered from UPMCE UPMCE for management of NSTEMI.
+.
+# NSTEMI: The patient was diagnosed with a non-ST elevation MI
+at the outside hospital. She underwent cardiac catheterization
+on 2012-03-22 00:00:00 showing 2 vessel disease(LAD 70%, D1 70%; LCx 70%, OM1
+99%).  During cath, the cardiologists were unable to cross the
+LCx/OM1 lesion with the wire.  CT surgery was called for
+evaluation of possible surgical revascularization given the
+inability to perform PCI.  Plavix was held given this
+consideration of surgical revascularization in the future.  She
+was continued on aspirin and statin.  The patient was not on a
+betablocker as an outpatient; however, this was not started
+initially after cath due to hypotension (see below). Her
+hypotension resolved, and a beta blocker was started.  Because
+of ongoing fevers and clinical pneumonia, CABG was deferred and
+the pt was discharged home with instructions to follow-up with
+CT surgery for CABG in several weeks.
+.
+# HYPOTENSION:  Approximately 2 hours after catheterization, the
+patient was noted to have an asymptomatic low blood pressure of
+74/47.  IV fluid bolus was started immediately with some
+response and her SBP rose to the mid-80's.  The cardiology team,
+including the interventional cardiology attending, and the
+attending of record were present to evaluate the patient.  A
+stat bedside echo was done given concern for
+dissection/perforation since there was difficulty attempting to
+cross LCx/OM lesion during cath.  This echo revealed a small
+amount of fluid in pericardial space; however, there was no
+evidence of tamponade.  The patient was given Atropine given due
+to concern for vagal response since she still had a femoral
+sheath in place.  She responded to this medication with good
+response in her blood pressure (SBP rose from the 80's to
+100's); however, this was only a transient response.  A stat
+hematocrit was sent given concern for retroperitoneal bleeding.
+This value was stable was stable.  She was given a total 1.5L
+bolus of normal saline.  The patient was then transferred to the
+CCU for further management.
+.
+On arrival to the CCU, her BP continued to fall, and more
+atropine was given (total 1.2mg) along with a dopamine infusion
+for augmentation of blood pressure. A triple lumen catheter was
+placed in her right femoral vein, and 2 units of PRBCs were
+transfused.  She was taken for an emergent CT abdomen once her
+MAP was consistently above 65 while on dopamine drip.
+Neosynephrine was added for a short period en route to CT, but
+was titrated off during the scan.  This CT scan of the abdomen
+and pelvis was negative for a retroperitoneal bleed.  On return
+to the CCU, an arterial line was placed. The pt. became somewhat
+delerious and agitated and was given Haldol 1mg x2 and 0.25 mg
+lorazepam x2 for sedation.
+.
+She did well overnight with improvement in her blood pressure.
+Dopamine was titrated off at 12am (total duration approximately
+4 hours).   After weaning dopamine, the patient maintained her
+blood pressure well in the range of 104-143/50-76.
+.
+The etiology of her hypotension was thought to be secondary to a
+vagal response due to her femoral sheath.  Once her blood
+pressure stabilized, she was started on a low dose betablocker.
+She remained with normal blood pressure throughout the remainder
+of her stay.
+.
+# FEVER: The patient spiked temperature overnight on 2012-03-22 00:00:00. She
+denied all infectious symptoms.  Her WBC count was normal.  UA
+was negative, blood cultures show no growth to date.  CXR did
+not show evidence of pneumonia, however pt had adventitious lung
+sounds on exam. She continued to spike fevers for several days,
+and then became mildly hypoxic, so she was started on
+levofloxacin for presumed pneumonia.
+.
+# END STAGE RENAL DISEASE: The patient is not yet on
+hemodialysis.  During this admission, her creatinine bumped
+slightly from 2.4 to 2.8.  Her FeNa was less than 1%.  She was
+likely prerenal with a component of contrast nephropathy from
+the catheterization. Her creatinine promptly improved from 2.8
+back to her baseline of 2.4.
+.
+# HYPERLIPIDEMIA: She was placed on lipitor 80mg daily given her
+NSTEMI.
+.
+# HTN: She is on norvasc as an outpatient.  This was held
+initially due to her hypotension.  She was later started on a
+low dose of metoprolol given her NSTEMI, and her norvasc was
+discontinued. Her ACEI was also held both during the admission
+and upon discharge due to her renal dysfunction and upcoming
+CABG.
+.
+# DEPRESSION: She was continued on Zoloft.
+.
+# HYPOTHYROIDISM: She was continued on her outpatient dose of
+levothyroxine.
+.
+# CODE: she was originally DNR/DNI, however after further
+discussion with the pt, she decided to be Full Code.
+.
+
+
+Medications on Admission:
+Aspirin 325 daily
+Plavix 75 daily,
+levothyroxine 88 mcg daily
+Norvasc 5 mg daily
+Zoloft 50 mg daily
+simvastatin 10 mg daily
+Aranesp 25 mcg every month
+benazepril 10 mg daily
+PhosLo 667 mg t.i.d.
+vitamin C and vitamin E daily.
+Zantac prn
+Calcitriol 25 mcg qMWF
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Aranesp 25 mcg/mL Solution Sig: Twenty Five (25) mcg
+Injection once a month.
+6. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+8. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO EVERY
+OTHER DAY (Every Other Day).
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3
+times a day).
+Disp:*45 Tablet(s)* Refills:*2*
+10. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H
+(every 48 hours) for 10 days.
+Disp:*5 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Community VNA
+
+Discharge Diagnosis:
+Primary diagnosis: Non-ST Elevation Myocardial Infarction
+
+Secondary diagnoses:
+Hypotension
+End Stage Renal Disease
+Stable small aortic dissection
+
+
+Discharge Condition:
+Stable. No chest pain.
+
+
+Discharge Instructions:
+Please call your doctor or return to the emergency room if you
+experience chest pain, difficulty breathing, palpitations,
+dizziness, weight gain, leg swelling, or any other concern.
+.
+Take your medications as prescribed. The following changes were
+made to your medications:  you should stop taking plavix, you
+should take lipitor instead of simvastatin, you should stop
+taking your benazepril, and you were started on metoprolol. You
+should complete a 10 day course of levofloxacin for pneumonia.
+.
+Please attend all follow-up appointments.
+
+Followup Instructions:
+You have an appointment with Dr. Bibb (Cardiac surgery) on
+Wednesday 2012-03-22 00:00:00 @ 2:30. UPMCE Medical Office Building UPMCE
+test@mail.com. Please also follow-up with your PCP in the next 7
+days, as some of your medications may need to be adjusted.  You
+also have the following appointments scheduled:
+
+Provider: Arvind Bibb, Arvind Bibb.D. Phone:test@mail.com
+Date/Time:2012-03-22 00:00:00 11:15
+Provider: Arvind Bibb, RN Phone:test@mail.com
+Date/Time:2012-03-22 00:00:00 11:30
+Provider: Eurie Quadrini, M.D. Phone:test@mail.com
+Date/Time:2012-03-22 00:00:00 11:30
+
+
+
+Completed by:2012-03-22 00:00:00

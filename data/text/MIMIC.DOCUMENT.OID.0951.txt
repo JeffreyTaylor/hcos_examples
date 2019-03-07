@@ -1,0 +1,108 @@
+Admission Date:  2010-04-05 00:00:00     Discharge Date:  2010-04-05 00:00:00
+
+Date of Birth: 1925-10-10 00:00:00 00:00:00     Sex:  M
+
+Service:  OMED
+
+HISTORY OF PRESENT ILLNESS:  This is a 58-year-old man with
+metastatic renal cell cancer to the thyroid, left clavicle,
+left femur, upper thoracic spine, lower thoracic spine, mid
+lumbar spine, and L5 spinous process, also soft tissue mass
+at the T2-T3 spinous process and pedicles, as well as
+subpleural nodular densities.  The patient went to MRI to
+followup on CT of chest, abdomen, and pelvis done on 2010-04-05 00:00:00
+for restaging of disease.  This reveals soft tissue masses
+involving upper thoracic spine, L3 vertebral body which
+prompted a MRI.  Findings prompted decision to have patient
+come to the Emergency Department for evaluation.
+
+Symptoms include right scapular pain and right shoulder pain
+and weakness from prior.  The patient also has occasional
+left lateral thigh cramp, but no lower extremity weakness or
+bladder or bowel incontinence.
+
+PAST MEDICAL HISTORY:
+1. Metastatic renal cell cancer diagnosed by thyroidectomy on
+2010-04-05 00:00:00.
+2. Left clavicle fracture.
+3. Stage IV renal cell carcinoma clear cell type.
+4. Status post XRT to right shoulder.
+5. Status post left nephrectomy.
+6. Hypothyroidism.
+7. Childhood asthma.
+
+MEDICATIONS:
+1. Mineral oil prn.
+2. Colace 100 mg q day.
+3. Levoxyl 75 mcg qod and 150 mcg qod.
+4. OxyContin 10 mg UPMCE.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  Examination revealed a temperature of
+99.1, blood pressure 118/70, heart rate 96, respiratory rate
+18, and O2 saturation is 98% on room air, weight is 176
+pounds.  In general, the patient is lying in bed in no acute
+distress.  HEENT:  Mucous membranes moist.  Lungs are clear
+to auscultation bilaterally.  Heart regular, rate, and
+rhythm, no murmurs, rubs, or gallops ap123 Any St.ted.  Abdomen is
+soft, nontender, nondistended, positive bowel sounds.
+Extremities:  No pedal edema.  Neurologic:  Cranial nerves II
+through XII are grossly intact.  Motor are 4+/5 right
+deltoid, right triceps.  Lower extremities 5/5 strength
+throughout.  Coordination:  Difficulty with fine finger
+motions bilateral in the upper extremity and tension tremor
+in the upper extremities in finger-to-nose test.  Deep tendon
+reflexes, toes are downgoing bilaterally, and slightly
+increased left patellar reflex over right patella, 2+ to 3+
+reflexes otherwise.
+
+LABORATORIES:  Laboratories revealed a hematocrit of 44.8,
+creatinine of 1.4 on admission.
+
+MRI of the spine revealed T2 epidural soft tissue mass with
+flattening of the thecal sac with approximately 50% narrowing
+of the spinal canal indications of metastatic marrow
+infiltrate L1, 3, 4, 5, and sacrum.
+
+HOSPITAL COURSE:  The patient received XRT for the spinal
+metastases throughout the hospitalization.  The patient was
+evaluated by Orthopedic Surgery and deemed a candidate for
+prophylactic rod placement in the femur.  The patient
+underwent the prophylactic rod placement on 2010-04-05 00:00:00, and did
+well postoperatively.  The patient was ambulating on
+postoperative day one, and the pain was well controlled.  The
+patient was also continued on Decadron for the spinal
+metastases and started on Lovenox for prophylaxis after the
+rod placement.
+
+UPMCE hospital course was otherwise uneventful, and the
+patient was discharged in good condition on 2010-04-05 00:00:00.
+
+FOLLOW-UP INSTRUCTIONS:  The patient will follow up with Dr.
+Svehla and Dr. Svehla and Dr. Svehla all on 2010-04-05 00:00:00.
+
+DISCHARGE MEDICATIONS:
+1. Decadron 4 mg po q6h.
+2. OxyContin 10 mg UPMCE.
+3. Oxycodone 5 mg 1-2 tablets q4-6h prn breakthrough pain.
+4. Neurontin 300 mg q hs.
+5. Lovenox 30 mg UPMCE for 16 more days.
+6. Protonix 40 mg q day.
+7. Levothyroxine 125 mcg q day.
+
+DISCHARGE INSTRUCTIONS:  The patient incidentally was found
+to have a TSH of 10 and the dose of Levoxyl was increased to
+125 mcg q day.  The patient should have a followup TSH.
+
+
+
+
+                          DR.Svehla,Barris Oberembt 12-871
+Dictated By:Barris Oberembt
+
+MEDQUIST36
+
+D:  2010-04-05 00:00:00  15:52
+T:  2010-04-05 00:00:00  16:48
+JOB#:  7284

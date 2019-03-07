@@ -1,0 +1,441 @@
+Admission Date:  2010-10-03 00:00:00              Discharge Date:   2010-10-03 00:00:00
+
+Date of Birth: 1941-10-03 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Keiser Bogenreif
+Chief Complaint:
+Pericardial effusion, atrial fibrillation with RVR.
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+Mr. Agrawal is a 77-year old male with minimal prior medical care
+for over 50 years, with no known past medical problems, who was
+brought to the Chaketa Agrawal this morning by his social worker because he
+was noted to have labored breathing.  He minimizes his symptoms,
+and reports that he has been feeling "great" and has no
+complaints.  Per his social worker, Chaketa Agrawal Chaketa Agrawal, she has noted a
+deterioration in his health over the last 2 weeks.  Her main
+concern has been with his balance.  He has been having trouble
+maintaining his balance on ambulating for several weeks.  He has
+had several falls recently due to difficulty with his balance
+and has been walking with a cane for the last 3 weeks.  He
+recalls his last fall to have been approximately 1 week ago.  He
+denies any prodromal symptoms with this fall including no
+lightheadedness, LOC, chest pain, SOB, and palpitations.   His
+social worker also notes that he has had decreased a123 Any St.e with
+minimal PO intake for the last few days.  She notes that on her
+visit today, he looked pale and had difficulty breathing.  He
+denies difficulty breathing and other complaints including no
+chest pain, palpitations, SOB, orthopnea, LE edema and PND.
+.
+In the ED he was noted to have atrial fibrillation to 140-160s
+with SBP 145/65.  He was given 5 mg IV diltiazem without
+response and started on a diltiazem gtt.  He had an
+echocardiogram that was done by ED staff that revealed a
+pericardial effusion.  He had a formal echocardiogram that
+showed a moderate pericardial effusion (2cm) and no evidence of
+tamponade, though limited by suboptimal study due to RVR.  He is
+being admitted to the CCU with atrial fibrillation with
+difficult to control RVR on diltiazem 15 mg/hour.
+.
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+# Cataracts s/p surgery bilaterally
+# Right sided hearing loss, saw an ENT who recommended head
+imaging, which he has refused thus far.
+# He has no primary care provider.  Chaketa Agrawal has not seen a doctor
+(with the exception for his eye and hearing issues) since age
+16.
+.
+PAST SURGICAL HISTORY:
+# Appendectomy in his teens
+# Right cataract surgery in 2010-10-03 00:00:00
+# Left cataract surgery in 2010-10-03 00:00:00
+.
+CARDIAC RISK FACTORS:
+- Diabetes
+- Dyslipidemia
+- Hypertension
+
+Social History:
+Social history is significant for 7 cigarettes per day x several
+years in his teenage years; he used to drink 2 cans of beer per
+day x 5 years in his 20s-30s, denies illicit drugs.  Per his
+social worker, he had been homeless for the last 30 years, and
+just recently started living in an apartment alone in 2010-10-03 00:00:00.
+
+Family History:
+NC.
+
+Physical Exam:
+PHYSICAL EXAM AT ADMISSION:
+VS: T 98.4 , BP 131/58, HR 126 , RR 22 , O2 94 % on 2L
+Gen: Elderly male in NAD.  Oriented x3. Mood, affect
+appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. Surgical pupils bilaterally.
+EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral
+mucosa.
+Neck: Supple with JVP of 2010-10-03 00:00:00 cm.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No S4, no S3.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use.  Bibasilar crackles, no
+wheezing and rhonchi.
+Abd: Soft, NTND, No HSM or tenderness. No abdominial bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+..
+PHYSICAL EXAM AT DISHARGE:
+Patient was in atrial fibrillation with rate of 90-100s.  During
+activity, his rate increased to 150s.  He remained asymptomatic
+with O2 sats in the mid 90s, in no apparent distress,
+respiratory or otherwise.  He was alert and oriented and deemed
+competent to make decisions about his medical care.
+
+Pertinent Results:
+LABS AT ADMISSION:
+.
+2010-10-03 00:00:00 09:37PM URINE  HOURS-RANDOM CREAT-117 SODIUM-83
+2010-10-03 00:00:00 01:20PM URINE  HOURS-RANDOM
+2010-10-03 00:00:00 01:20PM URINE  UHOLD-HOLD
+2010-10-03 00:00:00 01:20PM URINE  COLOR-Yellow APPEAR-Clear SP Agrawal-1.016
+2010-10-03 00:00:00 01:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-4* PH-5.0 LEUK-NEG
+2010-10-03 00:00:00 11:05AM   Keiser Bogenreif-NEGATIVE
+2010-10-03 00:00:00 11:03AM   TYPE-ART PH-7.40
+2010-10-03 00:00:00 11:03AM   GLUCOSE-165* LACTATE-2.5* NA+-135 K+-3.7
+CL--97*
+2010-10-03 00:00:00 11:03AM   HGB-11.7* calcHCT-35
+2010-10-03 00:00:00 11:03AM   freeCa-1.09*
+2010-10-03 00:00:00 10:55AM   GLUCOSE-163* UREA N-30* CREAT-1.3* SODIUM-133
+POTASSIUM-3.7 CHLORIDE-96 TOTAL CO2-22 ANION GAP-19
+2010-10-03 00:00:00 10:55AM   estGFR-Using this
+2010-10-03 00:00:00 10:55AM   ALT(SGPT)-23 AST(SGOT)-27 CK(CPK)-107 ALK
+PHOS-75 TOT BILI-1.0
+2010-10-03 00:00:00 10:55AM   LIPASE-57
+2010-10-03 00:00:00 10:55AM   cTropnT-<0.01
+2010-10-03 00:00:00 10:55AM   CK-MB-3
+2010-10-03 00:00:00 10:55AM   ALBUMIN-3.8 CALCIUM-8.8 PHOSPHATE-3.4
+MAGNESIUM-2.2 IRON-18*
+2010-10-03 00:00:00 10:55AM   calTIBC-202* FERRITIN-1071* TRF-155*
+2010-10-03 00:00:00 10:55AM   TSH-3.2
+2010-10-03 00:00:00 10:55AM   WBC-6.1 RBC-3.55* HGB-10.6* HCT-30.6* MCV-86
+MCH-29.8 MCHC-34.6 RDW-15.6*
+2010-10-03 00:00:00 10:55AM   NEUTS-78.2* LYMPHS-18.3 MONOS-3.2 EOS-0.1
+BASOS-0.2
+2010-10-03 00:00:00 10:55AM   PLT COUNT-139*
+2010-10-03 00:00:00 10:55AM   PT-14.8* PTT-33.7 INR(PT)-1.3*
+..
+ELECTROCARDIOGRAM AT ADMISSION: EKG demonstrated atrial
+fibrillation at 162 with normal axis, no LVH by voltage
+criteria, normal intervals, no ischemic changes.
+..
+RADIOGRAPHIC STUDIES:
+.
+CT HEAD WITHOUT CONTRAST (2010-10-03 00:00:00):
+There is diffuse symmetric enlargement of the ventricles and
+sulci consistent with mild-to-moderate age-related atrophy.
+There is no evidence for hemorrhage, edema, mass effect, or
+large vascular territory infarct. The Keiser Bogenreif-white matter
+differentiation is preserved. Paranasal sinuses and ethmoid air
+cells are normally pneumatized and clear. There is a small
+heterogeneous lucency within the left parieto-occipital
+calvarium (2:24). This likely represents a hemangioma. The
+osseous structures are otherwise unremarkable.
+IMPRESSION: No evidence for hemorrhage or other acute
+intracranial process.
+.
+CT CHEST WITHOUT CONTRAST (2010-10-03 00:00:00):
+There is asymmetric interstitial septal thickening with some
+nodularity involving the entire right lung. Multiple pulmonary
+nodules in the lungs are also identified measuring 8 mm (series
+4:100). There is bilateral atelectasis and moderate simple
+fluid-attenuating effusions. There are multiple mildly enlarged
+mediastinal lymph nodes measuring up to 12 mm(precarinal, series
+4, image 96). Although evaluation is limited without contrast,
+there is increased soft tissue in the right hilum concerning for
+adenopathy such as increased soft tissue posterior to the right
+main bronchus (series 4:125). Calcified mediastinal and small
+right hilar nodes also noted. No left hilar adenopathy is
+identified. There are coronary artery calcifications. Study was
+not tailored for subdiaphragmatic evaluation, but no
+abnormalities are identified. Please note that the adrenal
+glands were not imaged. No suspicious lesions are identified in
+the osseous structures, which otherwise demonstrate diffuse
+degenerative changes.
+IMPRESSION:
+1. Constellation of findings including asymmetric nodular right
+lung
+interstitial septal thickening, mediastinal and right hilar
+adenopathy, and multiple pulmonary nodules are concerning for
+possible malignant disease, but no definite primary tumor site
+is identified. Consider PET CT for further assessment, if
+warranted clinically.
+2. Large pericardial effusion.
+3. Bilateral pleural effusions.
+..
+ECHOCARDIOGRAM (2010-10-03 00:00:00):
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. LV systolic function appears borderline depressed
+(difficult to assess to very rapid and irregular pulse). Right
+ventricular chamber size is normal with borderline normal free
+wall function. The aortic root is mildly dilated at the sinus
+level. The ascending aorta is mildly dilated. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Trace aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. The
+estimated pulmonary artery systolic pressure is normal. There is
+a moderate sized pericardial effusion. Stranding is visualized
+within the pericardial space c/w organization. No right atrial
+or right ventricular diastolic colla123 Any St. seen.
+IMPRESSION: Moderate circumfirential pericardial effusion
+without tamponade. LV/RV systolic function are preserved
+(difficult to assess due to irregular and very rapid pulse)
+..
+ECHOCARDIOGRAM (2010-10-03 00:00:00):
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The aortic root is
+mildly dilated at the sinus level. The ascending aorta is mildly
+dilated. The aortic arch is mildly dilated. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. The estimated
+pulmonary artery systolic pressure is normal. There is a
+moderate sized pericardial effusion. Stranding is visualized
+within the pericardial space c/w organization. The effusion is
+most prominent posterior to the left ventricle, with <1 cm
+anterior to the right ventricle in diastole. There are no
+echocardiographic signs of tamponade.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Mild aortic regurgitation. Dilated thoracic aorta. Moderate
+pericardial effusion. Compared with the prior study (images
+reviewed) of 2010-10-03 00:00:00 LV function appear normal (largely
+secondary to a lower ventricular response rate in atrial
+fibrillation). Aortic regurgitation is slightly more prominent,
+also likely secondary to longer diastolic period.
+
+Brief Hospital Course:
+In summary, this is a 77-year old gentleman with no prior
+medical history who presents with a pericardial effusion and
+atrial fibrillation with RVR.  He was started on a diltiazem
+drip and admitted to the CCU for closer monitoring given his
+rapid ventricular rate.
+..
+# PERICARDIAL EFFUSION:  On echocardiogram, he was found to have
+a moderate-sized effusion (2 cm).  Given his hemodynamic
+stability, we suspected that this was a chronic process.  A
+repeat echo showed little interval progression.   After
+evaluation of echo findings and symptoms, we felt that the
+effusion was not affecting hemodynamics in any marked way.  By
+symptoms he was never hypotensive or showing clinical signs of
+tamponade.
+.
+We checked Chaketa Keiser Bogenreif and PPD, both of which returned negative.  We
+order a CT chest to evaluate his lung fields and possibly shed
+light on the etiology of the pericardial effusion.  The full CT
+report is above; in brief, it showed interstitial septal
+thickening, as well as mediastinal LAD and pulmonary nodules,
+all highly concerning for malignancy (primary site not
+identified).  Thus the pericardial effusion was felt to be due
+to metastatic cancer.
+.
+We discussed the findings with Mr. Agrawal and explained to him
+that further work-up to diagnose and potentially treat his
+condition would involve tissue biospy and additional imaging.
+He was not interested in more work-up and expressed desire to go
+home.  See below for more information.
+..
+# CAD/ISCHMIA:  We did not suspect ischemic disease as he had no
+risk factors, symptoms or EKG changes to suggest ACS.
+Furthermore, echocardiogram did not show any focal hypokinesis
+or akinesis to suggest myocardial infarction.
+..
+# PUMP:  There were so signs of fluid overload or clinical pump
+failure on physical exam.  His echocardiogram showed a normal EF
+of 55-60%.
+..
+# RHYTHM:  He presented with atrial fibrillation with RVR that
+required a diltiazem drip in the emergency room.  He converted
+back to sinus rhythm on the morning after admission.
+Unfortunately, he returned to AF intermittently throughout his
+hospital stay.  We started him on PO metoprolol and diltiazem;
+however, he continued to have periods of AF with ventricular
+response to 90-110s while lying in bed.  At time of discharge,
+his rate is 80-100 while lying in bed and increases to 150s when
+he is walking.  His systolic blood pressure and oxygen sat are
+120s and mid to low 90s, respectively, during these episodes.
+He remains asymptomatic.
+.
+We discussed starting anticoagulation, but felt that it was
+unnecessary and potentially harmful in this patient with a
+CHADS-2 score of 1 (age), potential medical non-compliance
+(history of homelessness), and significant fall risk (history of
+multiple mechanical falls in recent weeks).  We started him on
+aspirin at a dose of 325 mg once daily.
+..
+# HISTORY OF FALLS:  History as above seemed most consistent
+with mechanical falls due to balance and gait problems.  Chaketa Agrawal loss
+of consciousness or cardiac prodromal symptoms to suggest
+arrhythmic cause, although certainly AF could be contributing to
+his generalized weakness and propensity to fall. Neurologic exam
+was nonfocal and CT was negative for acute process.
+.
+He was seen by physical therapy who recommended rehab.  However,
+he declined this option; in the end he left against medical
+advice so that he could return home.  We arranged for him to
+have a walker as well as home PT/OT visits and VNA visits.
+.
+# LOW-GRADE FEVERS / PULMONARY INFILTRATE ON CXR:  He had
+persistent fevers overnight with Tm of 101.6.  Chest CT showed
+no infiltrate but did show diffuse nodules and adenopathy
+concerning for malignancy.  Blood and urine cultures were
+negative and there were no localizing symptoms.  White count was
+WNL with no bands on the differential.  No source for his fevers
+was found, and he was not started on antibiotics.  Further
+work-up would require tissue sample of his pericardial effusion
+or mediastinal lymph nodes.  At time of discharge, he had
+remained afebrile for over 24 hours.
+..
+# RENAL FAILURE:  Urine electrolyes were consistent with
+prerenal azotemia.  His ARF resolved with IVF boluses in ED.
+There were no further concerns.
+..
+# ANEMIA:  Iron, TSH, vitamin B12 and folate studies were
+normal.  His anemia is likely secondary to marrow suppression
+from his underlying process, most likely a malignancy.
+..
+# GOALS OF CARE:  These were discussed with Mr. Agrawal when his
+underlying disease remained uncertain.  We explained that we
+would need a tissue sample to definitively diagnose the cause
+for his pericardial effusion and bilateral pleural effusions.
+We explained that this would likely provide an explanation for
+his presenting symptoms, namely his shortness of breath and
+anemia.  He was also seen by physical therapy, who noted that he
+was too weak to go home and should be discharged to rehab.
+However, it was clear that Mr. Agrawal wanted to return to his
+home and was not interested in any invasive procedures, even if
+these might reveal a potentially treatable cause for his
+symptoms.  We suggested that he consider hospice care, but he
+did not want to leave his home for a hospice facility.
+.
+Prior to leaving, he signed an AMA form.  Eventhough he returns
+home against medical advice, he has agreed to have VNA come
+visit him, as well as PT/OT, meals on wheels, and elderly
+services.  We have provided home oxygen if he needs it during
+activities, although his O2 sats have been fine on RA when
+walking with walker.  He has confirmed his code status is
+DNR/DNI.
+..
+# He was given a regular diet.  Subcutaneous heparin was used
+for DVT prophylaxis.  Code status was discussed and at his
+request he was made DNR/DNI.
+
+Medications on Admission:
+None.
+
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed: Hold for diarrhea.
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Oxygen
+Oxygen via NP 2-4L prn to keep O2 sat> 90% while lying flat and
+with activity. O2 sat on RA decreased to 87% on RA.
+5. Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: Three
+(3) Tablet Sustained Release 24 hr PO once a day.
+Disp:*90 Tablet Sustained Release 24 hr(s)* Refills:*2*
+6. Diltiazem HCl 360 mg Capsule, Sust. Release 24 hr Sig: One
+(1) Capsule, Sust. Release 24 hr PO once a day.
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+Atrial fibrillation with rapid ventricular response
+Pericardial effusion and bilateral pleural effusions
+..
+SECONDARY DIAGNOSES
+History of Falls
+Likely metastatic lung cancer
+
+
+Discharge Condition:
+stable
+HR= 103
+BP= 120/70's.
+O2 sat= 92-94% on 2L NP
+
+
+Discharge Instructions:
+You were admitted to the hospital with atrial fibrillation, a
+irregular fast heart rhythm. We treated this rhythm with
+medications to slow down your heart rate. You have a collection
+of fluid around your heart and lungs, called effusions.  We
+asked you if you would agree to the removal of this fluid with a
+needle and you indicated you didn't want this done. You also
+have some nodules in your lungs that likely are cancer. You have
+told us that you don't want to have any more diagnostic tests or
+treatments.
+.
+We are sending you home and have asked a nurse to come to your
+house to check your blood pressure and heart rate so we know if
+the medicines are working.
+.
+Your medications have been changed.  You have been started on
+METOPROLOL and DILTIAZEM, two medications to help keep you out
+of a fast heart rate.
+.
+Please take all of your medicines as instructed as they will
+help you feel better. Please call Dr. Keiser Bogenreif
+if you have more trouble breathing and the oxygen does not help,
+if you have chest pain or pressure, if you feel dizzy or weak.
+
+Followup Instructions:
+Primary Care:
+Provider:  Chaketa Agrawal, MD Phone: test@mail.com.
+Date/Time: 2010-10-03 00:00:00 at 1:30pm. UPMCE [**Location (un) **]. Please
+contact Chaketa Agrawal Chaketa Agrawal with any new appts or medication changes, she
+is the case management specialist: phone test@mail.com
+.
+Cardiology:
+Provider: Chaketa Agrawal, MD. Phone: test@mail.com Date/Time:
+2010-10-03 00:00:00 at 3:30pm. Please contact Chaketa Agrawal Chaketa Agrawal with any new
+appts or medication changes, she is the case management
+specialist: phone test@mail.com
+
+
+
+Completed by:2010-10-03 00:00:00

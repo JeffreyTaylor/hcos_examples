@@ -1,0 +1,180 @@
+Admission Date:  2009-06-24 00:00:00              Discharge Date:   2009-06-24 00:00:00
+
+Date of Birth: 1973-06-24 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Rifampin / Bactrim
+
+Attending:Bianica Roun
+Chief Complaint:
+Fever and SOB
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+37 year old male with advanced HIV resistent to many meds, with
+recent CD4 count of 140 and VL of 300,000 up from 56,000,
+presents with 2 1/2 weeks of symptoms.  Began as a sore throat
+and hacking cough with fevers over the past week.  Fevers were
+subjective.  Cough worsened and caused tearing of the eyes and
+occational emesis.  Patient denies hemoptysis, or change in
+bowel habits (baseline diarrhea).  He was unable to bring
+anything up with his cough.  On evening prior to presentation,
+he developed night sweats that soaked his sheets and measured
+his temp at 105.  He was also feeling sob with walking up stairs
+over the past day.  Denies orthopnea.
+
+In the ED presentation concerning for PCP.  Jamier Vargus shows upper lobe
+infiltrates bilat, and patient has crackles and rales on exam.
+Vitals on presentation were notable for temp of 105, HR 130s,
+hypoxia, stable BP 130/80.  He was given tylenol, flagyl,
+cefepime, azithro, prednisone, nebs, bactrim IV, 4L NS.  ID was
+consulted re the bactrim as patient had a hemolytic anemia in
+the past that was thought to be due to bactrim, though this was
+never confirmed.  Per PCP notes, hct has been in the 40s most
+recently.  Patient improved but was brought to ICU for
+monitoring of hct and pulm status.
+
+
+Past Medical History:
+HIV since late 2009-06-24 00:00:00, camplobacter diarrhea, TB exposure and INH
+therapy for 1 year, anal warts, gonorrhea, DM, cellulitis,
+Jamier Vargus, PPD neg, had suicide attempt many years ago using
+tylenol overdose. Hemolytic anemia 2009-06-24 00:00:00 (coombs +, neg g6pd)
+
+
+Social History:
+Cambodian, escaped 123 Any St. after parents killed, worked as
+office worker here, on disability now, has 2 brothers in US.
+Has 1 sister in 123 Any St., believes he has just found her again.
+Light etoh use. No drugs. Rare tobacco.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+PE: Temp 98 BP 111/60  HR: 89  RR 17 98% 4L NC
+Gen: speaking easily for 30 minutes without sob, a/o x3, thin,
+chronically ill appearing
+HEENT: temporal wasting, no thrush noted, mmm, eomi, prrl
+CV: rrr, no murmers
+Pulm: upper lung zones with coarse ronchi, dry crackles
+throughout
+Abd: soft, thin, nt/nd, +BS
+Ext: no edema
+
+
+Pertinent Results:
+2009-06-24 00:00:00 Chest X-Ray: Increased perihilar interstitial opacities and
+ground-glass opacities are suspicious for PCP. Jamier Vargus were
+discussed with the emergency room resident
+
+Brief Hospital Course:
+37 yo with HIV, CD4 ct of 140, VL 300k, on HAART, here with
+fever to 105, sob, hypoxia.  Hospital course was significant for
+the following issues:
+
+1. Hypoxia/cough: There was high suspicion for PCP.  Jamier Vargus patient
+was intially admitted to the ICU for close monitoring of oxygen
+saturation. Sputum samples were taken for PCP and AFB. The
+patient had 4 sputum samples which were smear negative for AFB,
+so precautions were discontinued. A bronchoscopy was performed
+on 2009-06-24 00:00:00 and BAL cultures, PCP immunofluorescence were still
+pending. The patient was treated empirically for PCP with
+clindamycin, primaquine (? bactrim allergy) and prednisone as
+well as for community acquired pneumonia with ceftriaxone and
+azithromycin.  He improved dramatically and was discharged on
+levoflox to complete a 7 day course and on clindamycin,
+primaquine and steroid taper per PCP treatment guidelines.
+
+2. HIV: The patient was continued on HAART.  His dapsone was
+discontinued while taking clinda/primaquine for PCP.  Jamier Vargus was
+asked to follow up with his PCP regarding when to re-start
+Dapsone.
+
+3. ?Hemolytic anemia with bactrim: The patient received a dose
+of bactrim on admission.  He had no evidence of hemolysis
+throughout his hospital stay. Bactrim was entered as a ?
+allergy.
+
+4. DM: The patient had elevated blood sugars while on
+prednisone.  He was maintained on NPH and ISS. He reports that
+he was taking a regimen of NPH once per day based on a sliding
+scale. He was discharged on 20 units of NPH each morning and
+RISS per scale.  He was instructed to check his blood sugars
+four times per day before meals and before bedtime.  He was
+placed on a diabetic diet.
+
+5. Hyperlipidemia: The patient was continued on his home regimen
+of gemfibrozil and statin.
+
+
+Medications on Admission:
+Norvir
+Lexiva
+Zierit
+Viramune
+Insulin
+Lipitor
+Gemfibrozil
+Dapsone
+
+Discharge Medications:
+1. Fosamprenavir Calcium 700 mg Tablet Sig: One (1) Tablet PO
+Q12H (every 12 hours).
+2. Stavudine 40 mg Capsule Sig: One (1) Capsule PO Q12H (every
+12 hours).
+3. Nevirapine 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+4. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+5. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+6. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+7. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day
+for 4 days.
+Disp:*4 Tablet(s)* Refills:*0*
+8. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO taper as
+directed: Take 2 tablets twice per day for 1 more day, then 2
+tablet per day for 5 days, then 1 tablet for 11 days.
+Disp:*29 Tablet(s)* Refills:*0*
+9. Clindamycin HCl 150 mg Capsule Sig: Two (2) Capsule PO Q6H
+(every 6 hours) for 17 days.
+Disp:*136 Capsule(s)* Refills:*0*
+10. Primaquine Phosphate 26.3 mg Tablet Sig: Two (2) Tablet PO
+DAILY (Daily) for 17 days.
+Disp:*34 Tablet(s)* Refills:*0*
+11. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twenty
+(20) units Subcutaneous qAM.
+12. Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: 2009-06-24 00:00:00
+units Subcutaneous four times a day: use as directed per sliding
+scale.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Pneumonia
+r/o tuberculosis
+AIDS
+Diabetes Mellitus type 2
+
+
+Discharge Condition:
+Sating well on room air, no dyspnea, no fevers
+
+Discharge Instructions:
+Please follow up with Dr. Bianica Roun later this week.
+
+Followup Instructions:
+Follow up with Dr. Bianica Roun later this week
+
+
+
+Completed by:2009-06-24 00:00:00

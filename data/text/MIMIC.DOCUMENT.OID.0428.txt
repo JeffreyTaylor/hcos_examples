@@ -1,0 +1,124 @@
+Admission Date:  2007-08-07 00:00:00       Discharge Date:  2007-08-07 00:00:00
+
+Date of Birth: 1995-08-07 00:00:00 00:00:00       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 62 -year-old
+male with known history of coronary artery disease status
+post myocardial infarction with angioplasty in 2007-08-07 00:00:00.  He has
+a history of increased cholesterol, family history of heart
+disease, and states he has had angina symptoms for many
+years.  He said within the last year his symptoms have
+increased with concomitant shortness of breath.  The patient
+stated that he was golfing roughly four days prior to
+admission and had episodes of left sided chest pains which
+radiated to the shoulder and arm.
+
+The patient, on 2007-08-07 00:00:00, presented to an Emergency Room for
+rule out myocardial infarction and the myocardial infarction
+was ruled out with enzymes and electrocardiogram.  On
+2007-08-07 00:00:00, the patient started exercising, had increased chest
+pains for roughly seven minutes, which resolved.  The patient
+was then worked up for a myocardial infarction once again and
+was transferred to a Catheterization Lab for possible
+angioplasty.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease, status post myocardial
+infarction in 2007-08-07 00:00:00.
+2.  Status post angioplasty of the left circumflex in 2007-08-07 00:00:00.
+3.  Gastroesophageal reflux disease.
+4.  Hypertension.
+5.  Hypercholesterolemia.
+6.  Benign prostatic hypertrophy.
+7.  Dupuytren contractures.
+
+ADMITTING MEDICATIONS:  Include Lipitor 40 mg, Cardizem 120
+mg q day, aspirin 325 mg q day, Flomax 0.4 mg q day, Ambien
+5.0 mg HS, and Ativan 0.5 mg tid prn.
+
+ALLERGIES:  Include contrast dye.
+
+PHYSICAL EXAMINATION:  On initial examination, vital signs:
+blood pressure 150/90, heart rate 50.  Neck: negative jugular
+venous distention.  Chest is clear to auscultation.  Heart:
+regular rate and rhythm.  Abdomen: soft, nontender, positive
+bowel sounds.  Extremities: +1 dorsalis pedis and posterior
+tibial.
+
+LABORATORY DATA:  Sodium 143, potassium 3.6, chloride 101,
+CO2 27, BUN 13, creatinine 1.0.  White blood cell count 5.3,
+hemoglobin 13, hematocrit 40, platelets 235,000.
+Electrocardiogram showed normal sinus rhythm at 60 and
+abnormal.
+
+HOSPITAL COURSE:  The patient was admitted on 2007-08-07 00:00:00 and
+was worked up for coronary artery disease.  On 2007-08-07 00:00:00 the
+patient also had a cardiac catheterization which showed left
+main coronary artery normal, left anterior descending long
+50% to 60% after S1, LCM occluded, major marginal and
+collaterals to distal vessels, right coronary artery distal
+occlusion with left coronary collaterals.  On 2007-08-07 00:00:00
+Cardiothoracic Surgery was consulted and was assessed to have
+significant three vessel disease and a coronary artery bypass
+graft was planned for the following Monday.
+
+The patient's course between that time and the surgery was
+uneventful.  On 2007-08-07 00:00:00 the patient was brought to the
+Operating Room with an initial diagnosis of coronary artery
+disease.  The patient had a coronary artery bypass graft
+times four with an left internal mammary artery to the left
+anterior descending, saphenous vein graft to the obtuse
+marginal artery and diagonal, and saphenous vein graft to the
+AM.  The patient tolerated the procedure well and was
+transferred to the Post Anesthesia Care Unit in stable
+condition.
+
+On postoperative day one, the patient was extubated and was
+doing well.  The patient was transferred to the floor.  On
+postoperative day two the patient continued to do well,
+increased his physical therapy level and was tolerating a
+regular diet.  The patient stated that he lived with his wife
+and most likely would like to return home after the hospital
+stay.
+
+On postoperative day three, the patient continued to do well
+and increased his physical therapy level to a III.  On
+postoperative day four, the patient's physical therapy level
+was a V, his hematocrit was stable, and he was discharged
+home.
+
+His discharge physical examination: maximum temperature 98.7
+F, heart rate 100, respirations 22, blood pressure 105/70, O2
+saturation 93% on room air, plus 5.5 kg.  Physical therapy
+was level V.  Cardiovascular was regular rate and rhythm.
+Respiratory: clear to auscultation bilaterally.  Abdomen was
+soft nontender, nondistended.  Extremities was negative
+peripheral edema.  The incisions were clean, dry, and intact.
+
+COMPLICATIONS / SIGNIFICANT EVENTS:  None.
+
+DISCHARGE MEDICATIONS:  Lasix 20 mg po q twelve hours,
+potassium chloride supplements 20 mEq po q twelve hours,
+aspirin 81 mg po q day, Lipitor 40 mg po q HS, Flomax 0.4 mg
+po q day, Lopressor 50 mg po bid, Niferex 150 mg po q day,
+Percocet 5.0 mg one to two tablets po q four to six hours
+prn.
+
+DISCHARGE CONDITION:  Good and stable to home.
+
+DISCHARGE STATUS:  To home.
+
+FOLLOW-UP:  Follow-up with Dr. Blackmore in three to four weeks.
+
+
+
+                            Kadari Mahley, M.D.  8402
+
+Dictated By:Kadari Mahley
+MEDQUIST36
+
+D:  2007-08-07 00:00:00  18:01
+T:  2007-08-07 00:00:00  19:51
+JOB#:  8402

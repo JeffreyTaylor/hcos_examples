@@ -1,0 +1,27 @@
+Admission Date:  2008-09-08 00:00:00       Discharge Date:
+
+
+Service:
+
+ADDENDUM: Remove Captopril from the discharge medication list
+and add Prinivil 40 mg by mouth every day. For the medication
+Diflucan, change the strength from 400 mg to 100 mg by mouth
+every day times two more days.
+
+Add to follow-up instructions, the patient is to follow-up
+with Dr. Edytha Capulin as an outpatient and she is to follow-up
+with the UPMCE Gynecology
+Clinic for an endometrial biopsy. This clinic can be reached
+at area code test@mail.com.
+
+
+
+
+
+
+Dictated By:Edytha Capulin
+MEDQUIST36
+
+D:  2008-09-08 00:00:00  13:06
+T:  2008-09-08 00:00:00  14:48
+JOB#:  9001

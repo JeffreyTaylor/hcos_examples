@@ -1,0 +1,322 @@
+Admission Date:  2008-08-27 00:00:00              Discharge Date:   2008-08-27 00:00:00
+
+Date of Birth: 1932-08-27 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Zestril / Statins-Hmg-Coa Reductase Inhibitors
+
+Attending:Kyriah Momper
+Chief Complaint:
+exertional chest pain
+
+Major Surgical or Invasive Procedure:
+2008-08-27 00:00:00 Coronary artery bypass grafting x2 with
+left internal mammary artery graft left anterior descending,
+reverse saphenous vein graft to the posterior descending
+artery.
+
+
+History of Present Illness:
+65 year old male with exertional chest pain and positive stress
+test, recently found to have severe three vessel coronary artery
+disease. He is scheduled
+for surgical revascularization on 2008-08-27 00:00:00.
+
+Past Medical History:
+Hypertension
+Dyslipidemia
+Freda 2008-08-27 00:00:00
+Glucose Intolerance
+Varicose Veins
+Erectile Dysfunction
+Right Shoulder Pain
+History of Bells Palsy
+s/p Vein Stripping of Right GSV
+s/p Left Groin Lipoma, s/p surgery, radiation 2008-08-27 00:00:00
+
+Social History:
+Occupation: Cook at hotel
+Lives with: wife
+Freda Willinger: Asian
+Tobacco: quit 30 yrs ago; 2ppd x20yrs
+ETOH: denies
+
+
+Family History:
+father died in his 60's of unknown cause
+
+Physical Exam:
+Pulse: 71 Resp: 16  O2 sat: 98%
+B/P  Right:    Left: 127/75
+Height:     Weight:
+General: WDWN male in no acute distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema 1+ edema
+Varicosities: left GSV appears suitable
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2  Left: 2
+DP           Right: 2  Left: 2
+PT           Freda Willinger: 2  Left: 2
+Radial       Right: 2  Left: 2
+Carotid Bruit        Right:  none  Left: none
+
+
+Pertinent Results:
+2008-08-27 00:00:00 06:15AM BLOOD WBC-7.5 RBC-3.64* Hgb-10.7* Hct-33.9*
+MCV-93 MCH-29.5 MCHC-31.7 RDW-14.0 Plt Ct-309#
+2008-08-27 00:00:00 11:25AM BLOOD WBC-4.8 RBC-3.19*# Hgb-9.6*# Hct-29.2*#
+MCV-92 MCH-30.2 MCHC-32.9 RDW-13.5 Plt Ct-174
+2008-08-27 00:00:00 11:25AM BLOOD WBC-4.8 RBC-3.19*# Hgb-9.6*# Hct-29.2*#
+MCV-92 MCH-30.2 MCHC-32.9 RDW-13.5 Plt Ct-174
+2008-08-27 00:00:00 11:25AM BLOOD PT-14.4* PTT-40.5* INR(PT)-1.2*
+2008-08-27 00:00:00 12:44PM BLOOD UreaN-12 Creat-0.6 Cl-114* HCO3-23
+2008-08-27 00:00:00 06:15AM BLOOD Glucose-158* UreaN-13 Creat-0.8 Na-140
+K-5.0 Cl-106 HCO3-27 AnGap-12
+2008-08-27 00:00:00 06:15AM BLOOD Mg-2.2
+
+Willinger,[**First Name3 (LF) **] R. CSURG FA6A 2008-08-27 00:00:00 4:19 PM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 4070**]
+Reason: interval chnage
+
+
+
+UNDERLYING MEDICAL CONDITION:
+   65 year old man S/P CABG
+REASON FOR THIS EXAMINATION:
+   interval chnage
+
+
+
+Final Report
+INDICATION: Status post CABG, please evaluate interval change.
+
+Comparison is made to the prior study of 2008-08-27 00:00:00.
+
+Finidngs: The small right apical pneumothorax is unchnaged.
+Small to moderate left pleural effusion is increasing. The
+elevated left hemidiaphragm is unchanged. The heart size is
+normal, aorta is tortuous.
+
+Findings were discussed with Kyriah Momper (N.P) at the time of
+dictation.
+
+IMPRESSION:
+1. Unchanged small right apical pneumothorax.
+2. Increasing left pleural effusion.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. Kyriah Momper
+DR. Kyriah Momper Willinger
+Approved: TUE 2008-08-27 00:00:00 8:30 AM
+
+Willinger, Freda       UPMCE [**Numeric Identifier 4074**]       TTE (Complete) Done
+2008-08-27 00:00:00 at 12:00:00 PM      FINAL
+Referring Physician     Freda Willinger Information
+Freda Willinger, [**First Name3 (LF) **] R.
+UPMCE, Division of Cardiothorac
+UPMCE
+123 Any St., [**Numeric Identifier 711**]  Status: Outpatient DOB: 1932-08-27 00:00:00 00:00:00
+Age (years): 65 M  Hgt (in): 70
+BP (mm Hg): 137/72  Wgt (lb): 185
+HR (bpm): 64  BSA (m2): 2.02 m2
+Indication: Coronary artery disease. Left ventricular function.
+
+ICD-9 Codes: 414.8
+Test Information
+Date/Time: 2008-08-27 00:00:00 at 12:00    Interpret MD: Freda Willinger, MD
+Test Type: TTE (Complete) SonFreda Willinger: [**First Name8 (NamePattern2) 4076**] Willinger, RDCS
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W054-1:14 Machine: Vivid 2008-08-27 00:00:00
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.3 m/s
+Left Atrium - Peak Pulm Vein D:  0.4 m/s
+Left Atrium - Peak Pulm Vein A:  0.2 m/s  < 0.4 m/s
+Right Atrium - Four Chamber Length:  5.0 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.9 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  >= 60%  >= 55%
+Aorta - Sinus Level:  *4.0 cm  <= 3.6 cm
+Aorta - Ascending:  *3.7 cm  <= 3.4 cm
+Aorta - Arch:  *3.2 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  0.6 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  0.75
+Mitral Valve - E Wave deceleration time:  *287 ms  140-250 ms
+
+Findings
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal IVC
+diameter (<2.1cm) with >55% decrease during respiration
+(estimated RA pressure (0-5mmHg).
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Transmitral Doppler and TVI c/w Grade I (mild) LV diastolic
+dysfunction. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Moderately dilated aortic sinus. Mildly dilated ascending
+aorta. Mildly dilated aortic arch. No 2D or Doppler evidence of
+distal arch coarctation.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. LV inflow
+pattern c/w impaired relaxation.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+Conclusions
+The left atrium is normal in size. The estimated right atrial
+pressure is 0-5 mmHg. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal.
+Transmitral Doppler and tissue velocity imaging are consistent
+with Grade I (mild) LV diastolic dysfunction. Right ventricular
+chamber size and free wall motion are normal. The aortic root is
+moderately dilated at the sinus level. The ascending aorta is
+mildly dilated. The aortic arch is mildly dilated. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. The left ventricular inflow
+pattern suggests impaired relaxation. The tricuspid valve
+leaflets are mildly thickened. There is a trivial/physiologic
+pericardial effusion.
+  Electronically signed by 123 Any St.g
+physician Willinger 2008-08-27 00:00:00 15:45
+
+
+
+
+Brief Hospital Course:
+Admitted same day surgery and underwent coronary artery bypass
+graft surgery.  See operative report for further details.  He
+received cefazolin for perioperative antibiotics.  Post
+operatively he was transferred to the intensive care unit for
+hemodynamic management.  In first twenty four hours he was
+weaned from sedation, awoke neurologically intact and was
+extubated without complications.  On postoperative day one he
+was transferred to the floor.  Physical therapy worked with him
+on strength and mobility.  On postoperative day two he developed
+atrial fibrillation that was treated with betablockers and
+amiodarone, he converted back to normal sinus rhythm.  He
+continued to do well, was gentle diuresed to preoperative
+weight.  He was ready for discharge home with services on post
+operative day four.
+
+Medications on Admission:
+caverject inj prior to intercourse
+dipyridamole/aspirin 25/200mg 1 capsule UPMCE
+lescol 20mg daily
+cozaar 100mg daily
+Metoprolol succinate 25mg daily
+Ntg SL prn
+asa 81mg daily
+
+
+Discharge Medications:
+1. Lescol 20 mg Capsule Sig: One (1) Capsule PO daily () as
+needed for hyperlipidemia.
+Disp:*30 Capsule(s)* Refills:*0*
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): poor targets.
+Disp:*30 Tablet(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+5. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+8. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): please take 400mg twice a day for 5 days then decrease
+to 400 mg daily for 7 days, then decrease 200 mg daily and
+follow up with Dr Willinger .
+Disp:*70 Tablet(s)* Refills:*0*
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for
+7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+10. Losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Coronary artery disease s/p CABG
+Hypertension
+Dyslipidemia
+Freda 2008-08-27 00:00:00
+Glucose Intolerance
+Varicose Veins
+Erectile Dysfunction
+Right Shoulder Pain
+History of Bells Palsy
+s/p Vein Stripping of Right GSV
+s/p Left Groin Lipoma, s/p surgery, radiation 2008-08-27 00:00:00
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+
+Followup Instructions:
+Dr Willinger in 4 weeks (test@mail.com) please call for appointment
+
+Dr Freda in 1 week - please call for appointment
+Dr Willinger in 2008-08-27 00:00:00 weeks - please call for appointment
+Wound check appointment UPMCE 6 as instructed by nurse
+(test@mail.com)
+
+
+
+Completed by:2008-08-27 00:00:00

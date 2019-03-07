@@ -1,0 +1,202 @@
+Admission Date:  2012-10-18 00:00:00              Discharge Date:   2012-10-18 00:00:00
+
+Date of Birth: 1959-07-24 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Jhobany Pantelides
+Chief Complaint:
+Etoh withdrawal
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+53year-old male with a history of Etoh abuse w/h/o seizures
+w/withdrawal who presented w/acute etoh intoxication to the ED 1
+day PTA. His initial Etoh level was 429 w/last drink day 1 day
+PTA. He drink 2 bottles of vodka daily. He was observed
+overnight in the ED and appeared to be stable until this AM when
+he became hypertensive and tachycardic.
+.
+In the ED, he was afebrile, BP 162/103 HR 62 O2sat 97%RA. He
+received Thiamine, folate and Diazepam 5 mg IV x 1(once at 9AM
+and once at 10AM) per CIWA scale which was started this AM.
+.
+ROS: The patient denies any fevers, chills, weight change,
+nausea, vomiting, abdominal pain, diarrhea, constipation,
+melena, hematochezia, chest pain, shortness of breath,
+orthopnea, PND, lower extremity oedema, cough, urinary
+frequency, urgency, dysuria, lightheadedness, gait unsteadiness,
+focal weakness, vision changes, headache, rash or skin changes.
+
+
+
+Past Medical History:
+-Alcohol abuse h/o withdrawal c/b seizures
+-Hypertension
+-Hepatitis C
+-Seizure disorder
+
+
+Social History:
+Smokes a few cigarettes a day x many years. Heavy alcohol
+history, about 1pint vodka a day now. History IVDU,
+cocaine/crack use Multiple unprotected female partners.
+Homeless, living at shelter. Mainly around UPMCE Circle. PCP
+is Pierini. [**First Name8 (NamePattern2) 444**] Pierini, UPMCE healthcare for the homeless. Lives
+with sister in Karismah Pierini when sober. Works in trucking when
+sober. He was born in 123 Any St., worked as a chef. He finished
+High School
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Vitals: T 99.4 : BP 170/110 : HR 80 : RR 17 : O2Sat: 97% RA
+GEN: anxiouse appearing, well-nourished, in obviouse distress
+HEENT: EOMI, PERRL, no epistaxis or rhinorrhea, MMM, OP Clear
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline
+COR: RRR, no M/G/R, normal S1 S2, radial pulses +2
+PULM: Lungs CTAB, no W/R/R
+ABD: Soft, NT, ND, +BS, no HSM, no masses
+EXT: No C/C/E, no palpable cords, +tremor
+NEURO: alert, oriented to person, place, and time. CN II ?????? XII
+grossly intact. Moves all 4 extremities. Strength 5/5 in upper
+and lower extremities. Patellar DTR +1. Plantar reflex
+downgoing. No gait disturbance. No cerebellar dysfunction.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+
+
+
+Pertinent Results:
+Admission Labs:
+2012-10-18 00:00:00 10:00AM   WBC-2.6* RBC-3.38* HGB-11.5* HCT-33.7*
+MCV-100* MCH-34.1* MCHC-34.1 RDW-16.3*
+2012-10-18 00:00:00 10:00AM   NEUTS-56.8 LYMPHS-37.1 MONOS-4.4 EOS-0.9
+BASOS-0.8
+2012-10-18 00:00:00 10:00AM   PLT COUNT-143*
+2012-10-18 00:00:00 09:30PM   ASA-NEG ETHANOL-429* ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+2012-10-18 00:00:00 10:00AM   GLUCOSE-84 UREA N-8 CREAT-0.8 SODIUM-145
+POTASSIUM-3.2* CHLORIDE-104 TOTAL CO2-28 ANION GAP-16
+2012-10-18 00:00:00 10:00AM   ALT(SGPT)-84* AST(SGOT)-220* LD(LDH)-505* ALK
+PHOS-46 TOT BILI-0.5
+2012-10-18 00:00:00 10:00AM   ALBUMIN-4.2
+.
+
+
+Brief Hospital Course:
+This is a 53 year-old male with a history of alcohol abuse who
+presented with acute intoxication. He was monitored for 1 day in
+the ICU prior to call out to the floor. Pt ultimately left AMA.
+.
+# Alcohol Withdrawal: Pt reported his last drink was 1 day PTA
+2012-10-18 00:00:00; has h/o seizures associated w/withdrawal and stated
+that his last seizure was 3 weeks prior to admission. During his
+ICU course the pt was kept on a PO valium CIWA scale q1 hours.
+In addition he received MVI/Thiamine/Folate, a social work
+consult called, and was placed on aspiration precautions. A
+dilantin level was checked and found to be sub-therapeutic. The
+pt was restarted on dilantin. Upon call out to the floor, he
+required 20 mg Valium in a period of 12 hours. He was noted to
+have a DBP of 115 with some mild tremors and diaphoresis, as
+well as difficulty ambulating. He was requesting to sign out
+AMA, at which point security sitters monitored the patient until
+it was deemed pt had capacity to leave. Several hours later, the
+patient was still agitated, stating he wanted to leave b/c he
+had obligations in the afternoon, and that he understood if he
+left he could die or have seizures. A psychiatry consult was
+requested, but the pt became extremely angry, was ambulating
+with mild staggering gait but mostly steady, and did appear to
+have capacity, so the patient was signed out AMA prior to
+psychiatry being able to formally evaluate pt. Attempt was made
+to call pts PCP, Karismah Pierini went into voicemail. Pt was asked to f/u
+with his PCP the following day, was seen by SW, and given phone
+numbers for detox centers. He stated he was going to go back to
+drinking after discharge. He was noted discharged on dilantin as
+this was stopped per prior d/c summary when PCP told the
+Karismah Pierini at the time that the pt has no h/o seizure disorder.
+.
+# HTN: Upon admission the patient was hypertensive in the
+setting of EtOH withdrawl. The pt in on atenolol as an
+outpatient. The patient was started on Metoprolol TID titrated
+up to 37.5 TID at the time of transfer to the floor. The
+patients home dose of HCTZ was held in the setting of
+hypokalemia. He was restarted on his home BP meds at the time of
+discharge. Pts DBP was 115 at time of discharge, pt warned of
+symptoms of hypertensive urgency and risk of death with severe
+hypertension/withdrawl. Pt still decided to leave AMA,
+reiterated the risks of leaving back to me.
+.
+# HCV: The were no serologies in the UPMCE system.
+.
+# Pancytopenia: most likely due to alcohol abuse leading to vit
+deficiency. to be w/u as outpatient
+
+
+Medications on Admission:
+Hydrochlorothiazide 25mg daily
+Atenolol 50mg daily
+Dilantin 300mg daily
+
+
+Discharge Medications:
+1. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO
+DAILY (Daily).
+3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO once a day.
+
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Alcohol intoxication
+
+
+Discharge Condition:
+leaving against medical advice, diastolic blood pressure 115,
+ambulating with a little gait abnormality but steady on the
+feet, mild tremors
+
+
+Discharge Instructions:
+You were admitted with alcohol intoxication. You were treated
+with valium. You were not quite finished withdrawing and your
+blood pressure was still very high. We discussed that you are at
+risk for death or stroke if your blood pressure remains high.
+You are also at risk for seizures if you are withdrawing. You
+were having difficulty ambulating while you were here, but this
+improved at the time of your discharge.
+.
+Please go to your doctor in the next day if able.
+.
+Go to the ER or call your doctor if you have any chest pain,
+shortness of breath, seizures, dizziness, blurred vision, falls,
+dehydration, vomiting, abdominal pain, fever, hallucinations, or
+any other concerning symptoms.
+
+Followup Instructions:
+You need to stop drinking. You were seen by social work, but you
+refused detox.
+.
+You can call any of the following for addictions counseling:
+Pierini (test@mail.com) 123 Any St., UPMCE
+* Outpt. Addictions Services (test@mail.com) 123 Any St.,
+UPMCE
+* UPMCE (test@mail.com) 330 UPMCE St.,
+UPMCE
+.
+Please see Dr.Karismah Pierini in the next 1-2 days.
+
+
+

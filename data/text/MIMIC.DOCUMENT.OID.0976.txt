@@ -1,0 +1,234 @@
+Admission Date:  2005-11-05 00:00:00              Discharge Date:   2005-11-05 00:00:00
+
+Date of Birth: 1941-11-05 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:Delore Terbrack
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+2005-11-05 00:00:00 Aortic Valve Replacement (23mm CE Magna Tissue)
+
+History of Present Illness:
+73 year old male with history of aortic stenosis, most recent
+echo showed 123 Any St. of 0.7cm2.  He had been experiencing worsening
+shortness of breath and dyspnea on exertion over the past 6
+months.
+
+Past Medical History:
+Aortic Stenosis, Hypercholesterolemia, Diverticulosis, Benign
+Prostatic Hypertrophy, Erectile Dysfunction, Idiopathic
+Thrombocytopenia, s/p Appendectomy
+
+
+Social History:
+Denies tobacco use. Occ. ETOH use. Insurance broker
+
+Family History:
+No premature CAD
+
+Physical Exam:
+VS: 16 140/88 5'8" 162#
+Gen: NAD
+Skin: Unremarkable
+HEENT: EOMI, PERRL, NCAT
+Neck: Supple, FROM, -JVD
+Chest: CTAB -w/r/r
+Heart: RRR 4/6 SEM
+Abd: Soft, NT/ND +BS
+Ext: Warm, well-perfused -edema
+Neuro: A&O x 3, MAE, non-focal
+
+Pertinent Results:
+2005-11-05 00:00:00 Cardiac Cath: 1. Selective coronary angiography of this
+right dominant system demonstrated no angiographically evident
+coronary artery disease. The LMCA, LAD, LCx and RCA showed no
+CAD. 2. Limited resting hemodynamic measurements showed mildly
+elevated right sided filling pressure (RA mean 8mmHg, RVEDP
+11mmHg).  The left sided filling pressure was mildly elevated as
+well with PCWP mean of 13 mmHg. The pulmonary artery pressure
+was at the upper end of normal at 30/14mmHg.  There was moderate
+systemic arterial hypertension of 155/88mmHg.  Cardiac index,
+calculated using an assumed oxygen consumption, was preserved at
+2.6 l/min/m2.
+2005-11-05 00:00:00 Echo: PRE CPB The left atrium is mildly dilated. No
+spontaneous echo contrast or thrombus is seen in the body of the
+left atrium or left atrial appendage. No atrial septal defect is
+seen by 2D or color Doppler. There is moderate symmetric left
+ventricular hypertrophy. The left ventricular cavity is
+unusually small. Regional left ventricular wall motion is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. There are simple atheroma in the descending thoracic
+aorta. There are three aortic valve leaflets. The aortic valve
+leaflets are severely thickened/deformed. There is severe aortic
+valve stenosis (area < 1.0 cm2). Mild (1+) aortic regurgitation
+is seen. The severity of aortic regurgitation may be
+underestimated. The aortic regurgitation jet is eccentric,
+directed toward the anterior mitral leaflet. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+Tricuspid regurgitation is present but cannot be quantified.
+There is no pericardial effusion. Dr. Delore Terbrack was notified in
+person of the results in the operating room at the time of the
+study. POST CPB There is normal biventricular systolic function.
+There is a bioprosthesis in the aortic position. It is well
+seated and displays normal leaflet function. There is trace
+valvular aortic regurgitation in the center of the valve. There
+may be a trace paravalvular jet near the native right coronary
+cusp area but it is only very poorly seen. With a cardiac output
+of about 4.5 liters/minute, the mean gradient across the valve
+is 7 mm Hg with a maximum gradient of 11 mm Hg. No other changes
+from the pre bypass study.
+
+ Surgeon:  Delore Terbrack, M.D. 80993
+
+PREOPERATIVE DIAGNOSIS:  Critical symptomatic aortic
+stenosis.
+
+POSTOPERATIVE DIAGNOSIS:  Critical symptomatic aortic
+stenosis.
+
+OPERATION PERFORMED:  Aortic valve replacement with a 23-
+millimeter Liebelt-Delore Terbrack Magna tissue valve.
+
+ASSISTANT:  Jaidenn Liebelt Jaidenn Liebelt, MD.
+
+ANESTHESIA:  General endotracheal.
+
+CLINICAL NOTE:  Mr. Liebelt is a 73-year-old male with
+worsening symptoms related to critical symptomatic aortic
+stenosis confirmed by echocardiography and cardiac
+catheterization.  He has normal coronary artery disease
+presenting for revascularization.
+
+DESCRIPTION OF PROCEDURE:  After adequate anesthesia was
+achieved and with the patient supine, he was prepped and
+draped in the usual sterile manner. Mediastinotomy was
+performed through which the pericardium was exposed left.
+Heparinized and cannulated ascending aortic Soft-Flow
+cannula, two-stage venous cannula was placed through the
+right atrial appendage. A TEE confirmed the presence of a
+very calcified stenotic aortic valve.  He was placed on
+bypass and retrograde coronary sinus cannula was placed
+through the right atrial wall. A vent was placed in the left
+ventricle through the superior pulmonary vein. The aorta was
+crossclamped.  Heart was arrested with cold antegrade blood
+cardio123 Any St. followed by multiple retrograde doses. The aorta
+was opened in a transverse hockey-stick fashion exposing a
+very calcified stenotic aortic valve that was excised. The
+annulus was debrided.  The root was irrigated and sized to 23-
+mm Magna valve.  Interrupted mattress sutures were placed
+through the annulus and then through the sewing ring of 23-mm
+Magna aortic pericardial tissue valve that was seated and
+secured in place. The aorta was closed in two layers of
+running 4-0 Prolene sutures. Warm cardio123 Any St. was given
+retrograde. The crossclamp was released with the patient's
+head down while de-airing the root. The root was maintained
+on low vent suction. CO2 insufflation was used throughout the
+case.  Epicardial pacing wires were placed. He was weaned off
+bypass successfully with TE guidance showing minimal air
+entrapment and the left heart was vented through the root
+came off bypass nicely. Protamine was given. He was
+decannulated and once the field was dry, two mediastinal
+tubes were left in place. The sternotomy was closed with
+heavy steel wires.  Presternal layers were closed with Vicryl
+suture. The skin was closed with subcuticular closure. Dry
+dressing was applied.  He tolerated the procedure well and
+left the OR in stable condition.
+
+                        Delore Terbrack, M.D. 80993
+
+
+Brief Hospital Course:
+Mr. Liebelt was admitted following his cardiac cath on 2005-11-05 00:00:00. Cath
+revealed no coronary disease and he was worked-up in the usual
+manner for surgery the following day. On 2005-11-05 00:00:00 he was brought to
+the operating room where he underwent an Aortic Valve
+Replacement. Please see operative report for surgical details.
+Following surgery he was transferred to the CVICU in stable
+condition for invasive monitoring.
+He was extubated on POD 1 and meds were advanced.
+Patient was noted to be in atrial fibrillation on 2005-11-05 00:00:00 at
+19:12.  Given IV magnesium, lopressor, and ultimately required
+amiodarone IV to control his AFIB.  He was started on coumadin
+and maintained on PO Amiodarone.
+He was transferred to the floor on POD 3. He remained
+hemodynamically stable and in rate controlled AFIB.  Coumadin
+was continued with a therapeutic goal of 2005-11-05 00:00:00.5.  On POD 5 he was
+cleared by Physical Therapy to be discharged home.
+
+Medications on Admission:
+Flomax 0.4mg qd, Lipitor 20mg qd, Cialis prn, Androgel qd
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*0*
+2. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+3. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO once
+a day for 5 days.
+Disp:*5 Packet(s)* Refills:*0*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO QOD ().
+Disp:*15 Tablet(s)* Refills:*0*
+7. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*0*
+8. Warfarin 1 mg Tablet Sig: Five (5) Tablet PO DAILY (Daily):
+[**First Name8 (NamePattern2) 6401**] Liebelt will call you with what dose to take.
+Disp:*60 Tablet(s)* Refills:*0*
+9. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*15 Tablet(s)* Refills:*0*
+10. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): Take 2 pills twice daily for five days, then 2 pills
+once daily for seven days, then 1 pill once daily for seven
+days.
+Disp:*45 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Hospice and VNA
+
+Discharge Diagnosis:
+Aortic Stenosis s/p Aortic Valve Replacement
+PMH: Hypercholesterolemia, Diverticulosis, Benign Prostatic
+Hypertrophy, Erectile Dysfunction, Idiopathic Thrombocytopenia,
+s/p Appendectomy
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+shower daily , no baths or swimming
+no lotion, creams, or powders on any incision
+no driving for one month and until off all narcotics
+no lifting greater than 10 pounds for 10 weeks
+call for fever greater than 100.5, redness, or drainage of
+incisions
+take all medications as directed
+
+Followup Instructions:
+Dr. Delore Terbrack in 4 weeks
+Dr. Delore Terbrack in 2005-11-05 00:00:00 weeks
+Dr. Liebelt in 2005-11-05 00:00:00 weeks
+You will follow up with [**First Name8 (NamePattern2) 6401**] Liebelt at Dr Liebelt office
+for your INR. (test@mail.com
+
+
+
+Completed by:2005-11-05 00:00:00

@@ -1,0 +1,421 @@
+Admission Date:  2007-06-26 00:00:00              Discharge Date:   2007-06-26 00:00:00
+
+Date of Birth: 1974-06-26 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Latisia Verlin
+Chief Complaint:
+s/p Cardiac Arrest
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+ICD placement
+
+
+History of Present Illness:
+50F with hx of coronary vasospasm, HTN that presents from an OSH
+after having suffered a cardiac arrest in the field, s/p CPR
+with shock x1.
+
+Of note the pt was admitted to the UPMCE service at UPMCE from
+2007-06-26 00:00:00 after a month of increasing chest discomfort
+concerning for coronary ischemia. While hospitalized, she had
+dynamic ST depressions in V3-V6 during anginal episodes and
+elevated trop to 0.16. At that time workup included both cardiac
+cath (X2) and CT of the coronary arteries. Cath suggested
+isolated bilateral coronary ostial stenosis. CTA was without
+evidence of atherosclerosis. At the time it was thought the pt
+suffered from cardiac vasospasm and not CAD. The pt was placed
+on diltiazem, Imdur, and amlodipine. The pt followed up in
+cardiology clinic 2007-06-26 00:00:00 and at the time was feeling with only 2
+lesss severe episodes of retrosternal chest pressure, 2007-06-26 00:00:00, that
+occurred spontaneously without exertion, lasting 10 min with
+complete resolution. The pt had been able to participate in
+aerobic exercise, 45 minutes and endorsed 40lbs wt loss while on
+Weight Watchers program. The pt was last seen by her PCP Bonillas
+2007-06-26 00:00:00, Dr. Bonillas, at which time she was feeling well. At the
+time she reported LE edema since initiating amlodipine.
+
+This morning the pt was bringing her children to school. Family
+notes that patient has had increased chest discomfort this week
+and using nitroglycerin at work. Her daughter notes chest pain
+this morning which resolved prior to taking her daughter to
+school. EMS reports that arrived on scene with bystander CPR in
+progress (approx 7:45). Arrest was confirmed. The pt was shocked
+once. CPR was continued and on second analysis, no shock was
+advised. At that time the pt was noted to move, Amiodarone 150mg
+was loaded and subsequently transferred to an OSH.
+
+On arrival to the OSH, (hx obtained by UPMCE Hospital ED
+physician Latisia Verlin via phone), initial vitals 108/55 HR 147,
+Wt 99.7kg. The pt was intubated (two attempts made). HR ranged
+from 123 to 151, with SBPs 108/55 to 174/74. 140's to 150's.
+Exam was notable for pt as unresponsive but was reaching for the
+tube. She did not respond to commandy prior to being intubated
+with Succinylcholine 150mg, Versed 4mg, Vecuronium 10mg and put
+on a propofol gtt. No acute EKG changes. Wbc 20. ck/trop neg.
+CXR/CT of chest shows large aspiration pneumonia CT Head/CT
+C-spine unremarkable. The pt was given Ceftiaxone 1gm,
+Clindamycin 600mg, Azithromycin 500mg. 18G. Small lac to back of
+head- going to get some staples prior to transfer. Vitals prior
+to transfer were HR 124 117/57.
+
+In the CCU, the patient is intubated. When propofol is weaned
+patient moves all extremities however does not respond to
+commands or follow directions.
+
+On review of systems, unable to be obtained from patient. Family
+reports that she was in her usual state of health and went to
+the beach this past weekend. Besides chest pain episodes noted
+above no other symptoms were reported by the patient. Family
+notes patient to be a non reporter.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: (-)Diabetes, (-)Dyslipidemia, (-)HTN
+2. CARDIAC HISTORY:
+-CABG: None.
+-PERCUTANEOUS CORONARY INTERVENTIONS: None.
+-PACING/ICD: None.
+3. OTHER PAST MEDICAL HISTORY:
+h/o cholecystitis s/p cholecystectomy
+
+
+Social History:
+Works in NICU at UPMCE
+-Tobacco history: none
+-ETOH: none
+-Illicit drugs: none
+
+
+Family History:
+Paternal grandfather with MI at age 50. Father with
+hypertension.
+
+Physical Exam:
+Admission Labs
+VS:  122/58 95 100%
+GENERAL: Intubated, Sedated
+HEENT: NCAT. Sclera anicteric. PERRL. Laceration on back of head
+with staples in place.
+NECK: Supple with JVP at base of neck.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, obese, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+On discharge:
+GENERAL: comfortable, NAD
+HEENT: NCAT. Sclera anicteric. PERRL.
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND.
+EXTREMITIES: 2+ pitting edema in BLE
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+
+
+Pertinent Results:
+On admission:
+2007-06-26 00:00:00 12:51PM BLOOD WBC-25.6*# RBC-4.47 Hgb-12.3 Hct-34.9*
+MCV-78* MCH-27.6 MCHC-35.3* RDW-14.5 Plt Ct-355
+2007-06-26 00:00:00 05:14AM BLOOD WBC-15.7* RBC-4.16* Hgb-11.5* Hct-31.9*
+MCV-77* MCH-27.6 MCHC-35.9* RDW-14.7 Plt Ct-218
+2007-06-26 00:00:00 05:20AM BLOOD WBC-6.3 RBC-3.24* Hgb-9.1* Hct-25.7*
+MCV-79* MCH-28.0 MCHC-35.3* RDW-16.0* Plt Ct-223
+
+2007-06-26 00:00:00 12:51PM BLOOD Glucose-154* UreaN-18 Creat-0.5 Na-141
+K-3.5 Cl-110* HCO3-20* AnGap-15
+2007-06-26 00:00:00 12:45AM BLOOD Glucose-99 UreaN-17 Creat-0.4 Na-139
+K-4.9 Cl-111* HCO3-19* AnGap-14
+2007-06-26 00:00:00 02:00PM BLOOD Glucose-84 UreaN-16 Creat-0.3* Na-140
+K-3.5 Cl-112* HCO3-18* AnGap-14
+2007-06-26 00:00:00 08:30PM BLOOD Glucose-127* UreaN-17 Creat-0.3* Na-143
+K-2.8* Cl-113* HCO3-18* AnGap-15
+2007-06-26 00:00:00 02:08AM BLOOD Glucose-81 UreaN-16 Creat-0.4 Na-140
+K-4.5 Cl-112* HCO3-20* AnGap-13
+
+2007-06-26 00:00:00 12:51PM BLOOD CK-MB-20* MB Indx-14.8* cTropnT-0.71*
+2007-06-26 00:00:00 06:43PM BLOOD CK-MB-24* cTropnT-0.32*
+2007-06-26 00:00:00 05:14AM BLOOD CK-MB-23* cTropnT-0.18*
+2007-06-26 00:00:00 08:30PM BLOOD CK-MB-18* MB Indx-6.1* cTropnT-0.11*
+
+2007-06-26 00:00:00 12:51PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+On discharge:
+2007-06-26 00:00:00 05:20AM BLOOD WBC-6.3 RBC-3.24* Hgb-9.1* Hct-25.7*
+MCV-79* MCH-28.0 MCHC-35.3* RDW-16.0* Plt Ct-223
+2007-06-26 00:00:00 05:20AM BLOOD Glucose-97 UreaN-7 Creat-0.4 Na-144 K-3.4
+Cl-110* HCO3-24 AnGap-13
+2007-06-26 00:00:00 03:10AM BLOOD ALT-30 AST-21 AlkPhos-89 TotBili-0.8
+2007-06-26 00:00:00 05:20AM BLOOD Calcium-8.7 Phos-3.4 Mg-1.9
+
+2007-06-26 00:00:00 (2007-06-26 00:00:00)
+Normal biventricular cavity sizes with preserved global and
+regional biventricular systolic function. Mild to moderate
+mitral regurgitation with normal valve morphology. Pulmonary
+artery systolic hypertension. Increased PCWP.
+
+Upper Extremity Ultrasound (2007-06-26 00:00:00)
+Nonocclusive thrombus seen within one of the superficial veins,
+the cephalic vein, in a segment of the left upper arm. There is
+no evidence
+of deep vein thrombosis in the left arm.
+
+CXR (2007-06-26 00:00:00)
+In comparison with study of 2007-06-26 00:00:00, there has been placement of a
+pacemaker device with leads in the region of the right atrium
+and apex of the right ventricle. The degree of pulmonary
+vascular congestion has substantially improved. Mild blunting of
+the right costophrenic angle persists. No evidence of acute
+focal pneumonia or pneumothorax. Right subclavian catheter
+extends to the lower portion of the SVC.
+
+microbiology:
+RESPIRATORY CULTURE (Final) - 2007-06-26 00:00:00
+      MODERATE GROWTH Commensal Respiratory Flora.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+      SENSITIVITIES: MIC expressed in MCG/ML
+                             STAPH AUREUS COAG +
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   0.5 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+GRAM STAIN (Final 2007-06-26 00:00:00):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. IN
+PAIRS.
+RESPIRATORY CULTURE (Final 2007-06-26 00:00:00):
+      RARE GROWTH Commensal Respiratory Flora.
+
+Blood cultures
+2007-06-26 00:00:00 and 2007-06-26 00:00:00: NGTD
+2007-06-26 00:00:00 final: NG
+
+Urine culture final (2007-06-26 00:00:00 and 2007-06-26 00:00:00): NG
+
+
+Brief Hospital Course:
+50 year old female with history of coronary vasospasm presents
+following a cardiac arrest of unclear etiology.
+
+# s/p Cardiac Arrest: Witnessed VF arrest in the field with
+bystander CPR. EMS confirmed pulselessness and AED advised
+shock. ECG here without concerning ECG changes for ischemia.
+Given history of vasospasm may be secondary to vasospasm leading
+to ischemia and subsequent VT/VF arrest. She was placed on
+arctic cooling to protect cerebral function s/p cardiac arrest.
+2007-06-26 00:00:00 showed normal structure and function.  EEG showed abnormal
+temporal lobe epileptiform but otherwise normal.  She was
+started on aspirin, amlodipine, isosorbide mononitrate, and
+simvastatin. She was noted to have ST elevation in V2-V4 on
+2007-06-26 00:00:00 during rewarming phase with subsequent VF arrest s/p 1
+round of CPR and shock with ROSC - K returned at 2.7.  She was
+following commands and thus decision was made not to reinitiate
+cooling protocol.  She was started on IV nitro and diltiazem
+drip which resolved the ST elevation in anteroseptal leads.
+After extubation and improvement in her mental status, her
+regimen was transitioned to nifedipine 60 mg po qdaily, imdur 60
+mg po qdaily, verapamil ER 360 mg UPMCE. EP was consulted and felt
+the presentation could be due to long QT syndrome. She underwent
+ICD placement on 2007-06-26 00:00:00 - infectious prophylaxis was with
+Vancomycin. CXR showed no evidence of pneumothorax.
+.
+# Neuroprotection s/p arrest: Interval between arrest and
+initiation of cooling was 5 hours. On presentation with propofol
+wean patient without purposeful movement. CT head negative from
+OSH. Artic Sun therapeutic cooling protocol with goal core body
+temperature 33 degrees x 18 hours. Patient sedated with fentanyl
+and midazolam and eventually need paralysis with cisatracurium.
+She was warmed per protocol and was oriented and following
+commands appropriately within 48 hours.
+.
+# CORONARIES: Prior cardiac caths in 2007-06-26 00:00:00 x2 both suggestive of
+coronary vasospasm without flow limiting lesions. Has been on
+amlodipine 10mg, dilt 240mg, and imdur 30mg as outpatient. ECG
+at OSH unchanged from baseline. Regimen was changed to above
+(see #1).
+
+# PUMP: No prior 2007-06-26 00:00:00 or LV gram in UPMCE system. Pt with hx of
+HTN that was potentially thought to be white coat but unclear.
+Govanni Bonillas showed normal function.
+
+# RHYTHM: No prior hx of arrhythmias however likely VF/VT arrest
+on presentation and subsequent episode of VF in ICU. Thought to
+be 2007-06-26 00:00:00 coronary vasospasm. Long QT syndrome was also considered
+and genetic testing will be pursued by EP and discussed and
+followed up.
+
+# Pulmonary Infiltrates: Pt with evidence of diffuse infiltrates
+on OSH CXR and CT. Right upper load with air bronchograms
+concerning for pneumonia, however bilateral pathcy infiltrates
+concerning for early ARDS. Was placed on
+CTX/Clindamycin/Azithromycin at OSH for suspected
+CAP/Aspiration. Transitioned to IV unasyn and then IV nafcillin.
+Nafcillin was changed to Augmentin on 2007-06-26 00:00:00 and again to Bactrim
+on 2007-06-26 00:00:00. Patient discharged wtih 7 day course of Bactrim UPMCE.
+
+# Cloudy Urine: Urine appears "dirty" when foley catheter
+placed. Continued on IV unasyn. Urine cultures were negative. No
+further antibiotic coverage needed and patient remained
+asymptomatic.
+
+#dizziness: Pt complained of dizziness consistent with vertigo.
+Pt received meclizine with improvement in her symptoms. No
+evidence of orthostasis. Pt was ambulating without difficulty
+prior to discharge. Pt will follow up with PCP regarding these
+symptoms.
+
+#hypokalemia: Mild evidence of hypokalemia requiring po
+potassium supplementation. Pt was discharged with oral potassium
+supplementation and spironolactone were started to help maintain
+a normal postassium level. Pt planned follow potassium level 2
+days after discharge.
+
+#lower extremity edema: 123 Any St. likely secondary to calcium channel
+blocker use stable from admission.
+
+She was kept on subQ heparin for DVT prophylaxis. She remained
+full code. Communication was with her husband.
+
+
+Medications on Admission:
+Aspirin 81mg daily (7am 2007-06-26 00:00:00)
+Zocor 40mg daily (7am 2007-06-26 00:00:00)
+Norvasc 10mg daily (7am 2007-06-26 00:00:00)
+Diltiazem HCL 240mg daily (7am 2007-06-26 00:00:00)
+Isosorbide mononitrate 30mg daily (7am 2007-06-26 00:00:00)
+NTG
+
+
+Discharge Medications:
+1. nifedipine 60 mg Tablet Extended Release Sig: One (1) Tablet
+Extended Release PO at bedtime.
+Disp:*30 Tablet Extended Release(s)* Refills:*2*
+2. isosorbide mononitrate 60 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*2*
+3. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for ICD pain.
+4. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1)
+Tablet PO BID (2 times a day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+5. spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. verapamil 360 mg Cap,Ext Release Pellets 24 hr Sig: One (1)
+Cap,Ext Release Pellets 24 hr PO twice a day.
+Disp:*60 Cap,Ext Release Pellets 24 hr(s)* Refills:*2*
+7. meclizine 12.5 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day) as needed for dizziness.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Outpatient Lab Work
+Please check Chem-7 and CBC on Monday 2007-06-26 00:00:00 with results to
+Dr. Latisia Verlin at test@mail.com
+9. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day.
+Disp:*30 Tablet, ER Particles/Crystals(s)* Refills:*2*
+10. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet
+Sublingual as directed as needed for chest pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE
+
+Discharge Diagnosis:
+Coronary Vasospasm
+Ventricular fibrillation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You had more spasm in your coronary arteries and had a
+ventricular fibrillation arrest. You were brought to UPMCE
+hospital initially and then transferred to UPMCE for care. You
+underwent an arctic sun cooling protocol and have recovered well
+from the episode. There may be some correlation with a prolonged
+QT and hypokalemia as well. Your telemetry shows only short runs
+of VT (3-4 beats) that are rare. You had an ICD placed that will
+shock you out of any prolonged runs of VT. Please call the EP
+fellow on call if this happens. You had a staph pneumonia that
+is being treated with antibiotics.
+.
+We made the following changes in your medicines:
+1. STOP taking aspirin, norvasc, diltiazem and zocor.
+2. START taking Verapamil to prevent coronary vasospasm
+3. START taking Nifedipine to prevent coronary vasospasm, please
+take this at night
+4. Increase the Imdur to 60 mg daily
+5. Start taking spironolactone to increase your potassium
+6. STart taking potassium supplements to keep your potassium up
+7. Take meclizine as needed to prevent dizziness.
+8. Take Bactrim twice daily for one week to treat the pneumonia
+9. Take acetaminophen as needed for ICD pain.
+
+Followup Instructions:
+Department: UPMCE POST DISCHARGE CLINIC test@mail.com
+When: WEDNESDAY 2007-06-26 00:00:00 at 9:30 AM
+With: Dr [**First Name4 (NamePattern1) 1046**] Bonillas
+Building: SC 123 Any St. South Ste
+Campus: EAST     Best Parking: UPMCE Garage
+NOTE:
+A) Please discuss at this appt if you need to come in for your
+123 Any St.usly scheduled appt for next week 2007-06-26 00:00:00.
+B) This appointment is with a hospital-based doctor as part of
+your transition from the hospital back to your primary care
+provider.  Govanni Bonillas this visit, you will see your regular primary
+care doctor in follow up.
+
+Department: UPMCE
+When: THURSDAY 2007-06-26 00:00:00 at 11:00 AM
+With: Govanni Bonillas, NP test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: CARDIAC SERVICES
+When: MONDAY 2007-06-26 00:00:00 at 3:40 PM
+With: Govanni Bonillas, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: CARDIAC SERVICES
+When: TUESDAY 2007-06-26 00:00:00 at 1:40 PM
+With: Latisia Verlin, M.D. test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: CARDIAC SERVICES
+When: WEDNESDAY 2007-06-26 00:00:00 at 9:00 AM
+With:  DEVICE CLINIC test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+
+Completed by:2007-06-26 00:00:00

@@ -1,0 +1,662 @@
+Admission Date:  2007-05-30 00:00:00              Discharge Date:   2007-05-30 00:00:00
+
+Date of Birth: 1975-04-28 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Ceftriaxone
+
+Attending:Ashwath Lembrick
+Chief Complaint:
+MS changes (tx'd from OSH)
+
+Major Surgical or Invasive Procedure:
+2007-05-30 00:00:00- R Hip washout secondary to infected hardward
+2007-05-30 00:00:00- R Hip Hardware removed
+2007-05-30 00:00:00- R Hip washed out and wound closed
+2007-05-30 00:00:00- Removal of infected hematoma in R hip
+2007-05-30 00:00:00- R hip Washout
+
+
+History of Present Illness:
+33 y/o male with PMH significant for AVR, NIDDM, h/o
+polysubstance abuse, initially admitted to OSH on 2007-05-30 00:00:00 for s/p
+tonic-clonic seizure resulting in a fall and broke right hip
+requiring R hip ORIF on 2007-05-30 00:00:00. It was felt that seizure was
+secondary to benzo withdrawal as pt was taking 5 mg of Xanax tid
+at home. He was then to d/c'd to transitional care rehab on
+2007-05-30 00:00:00 to be later admitted on 2007-05-30 00:00:00 for AMS/seizures.
+In the ED at OSH, loaded with 1 gm dilantin, 2 mg ativan, and 2
+mg dilaudid and admitted. Per records, pt not on benzos while at
+rehab. EEG from 2007-05-30 00:00:00 and 2007-05-30 00:00:00 showed no localizing seizure
+activity.
+On 2007-05-30 00:00:00, pt became lethargic, tachypneic w/rr in 40's and
+hypoxic. He was also reportedly febrile (unknown temp). He
+received one dose of CTX which resulted in a skin rash. He was
+then transferred to the ICU with concerns for NMS vs. sertonin
+syndrome vs. benzo-withdrawal vs. infection/sepsis.
+ICU course at OSH notable for start of ativan gtt and
+psychotropic meds, including risperdal, seroquel, wellbutrin,
+and xanaflex. WBC count at 11, Cr 4.4, LFTs wnl at that time.
+Dilantin level 7.7 at that time. Daily head CT's from 2007-05-30 00:00:00 to
+2007-05-30 00:00:00 were all normal. During this time, pt became hyperkalemic
+to 5.4 and acidotic with bicarb of 18. ABG on 2007-05-30 00:00:00 was
+7.2/24/72/16. Pt was then started on a bicarb gtt. Lactate was
+1.2, serum and urine tox unremarkable except for benzos. Pt was
+ROMI with enzymes during his course. TTE today showed preserved
+EF, moderate AS/AI, moderate MR, elevated RV pressures of 91.
+
+
+Past Medical History:
+1)AVR in 2007-05-30 00:00:00 for Enterococcus faecalis endocarditis
+2)Cellulitis x 6
+3) DM II, diagnose in 2007-05-30 00:00:00, treated with glipizide
+4)Polysubstance use (cocaine, opiates, benzos, anabolic
+steroids)
+5) H/O pancreatitis in 2007-05-30 00:00:00
+6) Cluster HA's
+7) Neck and back pain - has been to musculoskeletal specialist
+as well as PT
+8) Anxiety
+9) ADHD/ADD
+10) Left pectoral and biceps tear, s/p surgery
+
+
+Social History:
+Recently divorced, currently lives with girlfriend. Moved to
+123 Any St. 6 months ago from 123 Any St.. h/o IVDU. Unemployed.
+
+Family History:
+DM
+Hyperlipidemia
+Fibromyalgia (sister)
+Multiple staph infections
+DVT
+
+
+Physical Exam:
+VS - 99.6, 110/59, 112, 25-30 95%/3LNC
+General - Somnolent, awakens with loud voice and tactile
+stimulation
+HEENT - NC/AT, PERRL, EOMI. MM dry
+Neck - supple
+Chest - CTA-B, no w/r/r
+CV - RRR s1 s2 normal, + mechanical click
+Abd - obese, NT/ND, pos BS
+Ext - no c/c/e, pulses 2+ b/l
+Neuro - Somnolent, awakens to loud voice, able to say he is in
+123 Any St.. Moves all four extremities. Nl muscle tone
+
+
+Pertinent Results:
+ADMISSION LABS:
+2007-05-30 00:00:00 07:36PM   TYPE-ART PO2-74* PCO2-35 PH-7.40 TOTAL CO2-22
+BASE XS--1
+2007-05-30 00:00:00 07:36PM   GLUCOSE-237* LACTATE-1.2
+2007-05-30 00:00:00 07:36PM   HGB-10.4* calcHCT-31 O2 SAT-95
+2007-05-30 00:00:00 07:36PM   freeCa-1.12
+2007-05-30 00:00:00 07:15PM URINE  COLOR-Straw APPEAR-Clear SP Rhodes-1.020
+2007-05-30 00:00:00 07:15PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30
+GLUCOSE-TR KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+2007-05-30 00:00:00 07:15PM URINE  RBC-2 WBC-0 BACTERIA-FEW YEAST-NONE
+EPI-0
+2007-05-30 00:00:00 06:32PM   GLUCOSE-247* UREA N-70* CREAT-5.8*#
+SODIUM-131* POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-20* ANION GAP-17
+2007-05-30 00:00:00 06:32PM   ALT(SGPT)-22 AST(SGOT)-19 LD(LDH)-332*
+CK(CPK)-157 ALK PHOS-110 AMYLASE-174* TOT BILI-0.5
+2007-05-30 00:00:00 06:32PM   LIPASE-228*
+2007-05-30 00:00:00 06:32PM   CALCIUM-8.4 PHOSPHATE-6.6*# MAGNESIUM-2.2
+2007-05-30 00:00:00 06:32PM   PHENYTOIN-<0.6*
+2007-05-30 00:00:00 06:32PM   WBC-11.2* RBC-3.25*# HGB-9.6*# HCT-27.4*#
+MCV-84 MCH-29.7 MCHC-35.3* RDW-17.7*
+2007-05-30 00:00:00 06:32PM   NEUTS-76.6* BANDS-0 LYMPHS-13.1* MONOS-4.2
+EOS-5.8* BASOS-0.3
+2007-05-30 00:00:00 06:32PM   HYPOCHROM-OCCASIONAL ANISOCYT-1+
+POIKILOCY-NORMAL MACROCYT-OCCASIONAL MICROCYT-OCCASIONAL
+POLYCHROM-OCCASIONAL
+2007-05-30 00:00:00 06:32PM   PLT SMR-NORMAL PLT COUNT-440
+2007-05-30 00:00:00 06:32PM   PT-31.0* PTT-31.8 INR(PT)-3.3*
+2007-05-30 00:00:00 06:32PM   FIBRINOGE-697*
+2007-05-30 00:00:00 07:36PM BLOOD Type-ART pO2-74* pCO2-35 pH-7.40
+calHCO3-22 Base XS--1
+2007-05-30 00:00:00 07:15PM URINE Blood-LG Nitrite-NEG Protein-30
+Glucose-TR Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+2007-05-30 00:00:00 07:15PM URINE RBC-2 WBC-0 Bacteri-FEW Yeast-NONE Epi-0
+.
+IMAGING:
+2007-05-30 00:00:00 CXR on admission: No evidence of pneumonia or CHF.
+.
+2007-05-30 00:00:00 Renal U/S: 1. Left renal cortical scarring.
+2. No evidence of mass, hydronephrosis or calculus within either
+kidney.
+3. Normal renal vascular flow.
+.
+2007-05-30 00:00:00 Hip Films: 1. No evidence of hardware fracture, or fracture
+of the right pelvis or right femur.
+2. Benign-appearing lucency of the left femoral neck as
+described above.
+.
+2007-05-30 00:00:00 TTE: The left atrium is moderately dilated. There is mild
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. Overall left ventricular systolic
+function is low normal (LVEF 50-55%). [Intrinsic left
+ventricular systolic function is likely more depressed given the
+severity of valvular regurgitation.] The aortic root is mildly
+dilated. The ascending aorta is mildly dilated. The aortic arch
+is mildly dilated. A mechanical aortic valve prosthesis is
+present. The transaortic gradient is probably mildly elevated
+for this type of prosthesis (although some elevation is expected
+in the presence of tachycardia). Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Moderate
+(2+) mitral regurgitation is seen. The mitral regurgitation jet
+is eccentric. The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension. There is
+no pericardial effusion.
+Compared with the report of the prior study (images unavailable
+for review) of 2007-05-30 00:00:00, the aortic valve gradient is similar.
+Mitral regurgitation may now be slightly more prominent.
+.
+2007-05-30 00:00:00 Hip Films: There has been placement of a bipolar
+hemiarthroplasty within the right hip. There are no signs for
+hardware complications. No bony fractures are identified. There
+is a lateral surgical skin staples seen.
+.
+2007-05-30 00:00:00 EEG: Mildly abnormal EEG in the waking and drowsy states
+due to
+the mild slowing of the background with occasional bursts of
+generalized
+slowing. This suggests a mild encephalopathy although some
+background
+frequencies were normal. Medications, metabolic disturbances,
+and
+infection are among the most common causes. There were no focal
+abnormalities or epileptiform features. A tachycardia was noted.
+
+.
+2007-05-30 00:00:00 Difficult Crossmatch: DIAGNOSIS, ASSESSMENT AND
+RECOMMENDATIONS: Mr. Rhodes has newly identified red cell
+alloantibodies, anti-Cw and anti-Jkb, as well as a 123 Any St.usly
+identified, anti-E. All of these antibodies can cause hemolytic
+transfusion reactions. E and Cw are members of the Rh blood
+group system while Jkb is a member of the Kidd blood group
+system. In the future he should receive red cells that are Jkb,
+E, and Cw negative.
+.
+2007-05-30 00:00:00 Hip Films: A single frontal radiograph of the right hip
+demonstrates the patient to be status post right hip
+hemiarthroplasty. The stem of the femoral component projects
+over the center of the medullary canal of the proximal femur.
+Surgical staples project over the lateral right hip. No discrete
+fracture is evident. Tubing overlying the right hip may
+represent a surgical drain.
+.
+2007-05-30 00:00:00 TEE: The left atrium is normal in size. No mass or thrombus
+is seen in the right atrium or right atrial appendage. No atrial
+septal defect is seen by 2D or color Doppler. Overall left
+ventricular systolic function is moderately depressed. The right
+ventricular cavity is mildly dilated. There is moderate global
+right ventricular free wall hypokinesis. The ascending,
+transverse and descending thoracic aorta are normal in diameter
+and free of atherosclerotic plaque. A bileaflet aortic valve
+prosthesis is present. A mechanical aortic valve prosthesis is
+present. The aortic prosthesis leaflets appear to move normally.
+No masses or vegetations are seen on the aortic valve. No aortic
+valve abscess is seen. Trace aortic regurgitation is seen. [Due
+to acoustic shadowing, the severity of aortic regurgitation may
+be significantly UNDERestimated.] There is a probable vegetation
+on the mitral valve. Moderate (2+) mitral regurgitation is seen.
+The mitral regurgitation jet is eccentric. There is no
+pericardial effusion.
+PERFOERATED ANTERIOR MITRAL LEAFLET (A2) scallop.
+***Please note that this echo report was re-read, and it was
+felt that there was NO vegetation.
+.
+CXR 2007-05-30 00:00:00: SUPINE AP VIEW OF THE CHEST:  Patient is status post
+median sternotomy and aortic valve replacement.  Cardiac and
+mediastinal contours are normal.  The right PICC has been
+removed.  The lungs are clear and the pulmonary vascularity is
+normal.  There are no effusions or pneumothorax.  Osseous
+structures are normal.
+IMPRESSION:  No pneumonia.
+.
+CXR 2007-05-30 00:00:00: FINDINGS:  There has been interval placement of a
+right-sided PICC line with the tip malpositioned in the right
+neck.  The patient is again noted be status post aortic valve
+replacement.  The lungs remain clear.  No effusion or
+pneumothorax is seen.
+IMPRESSION:  Malpositioned right PICC line.
+Results were discussed with the IV access team immediately
+following
+com123 Any St.n of the study.
+.
+CXR 2007-05-30 00:00:00: COMMENTS:  Portable supine AP radiograph of the
+chest is reviewed, and compared to the 123 Any St.us study of 2007-05-30 00:00:00, 2007-05-30 00:00:00.
+The tip of the left-sided PICC line is identified at cavoatrial
+junction.
+The lungs are clear.  The heart and mediastinum are within
+normal limits.  The patient has prior AVR and median sternotomy.
+
+The right costophrenic angle is not included in the radiograph.
+.
+2007-05-30 00:00:00: AP pelvis: A right hip prosthesis is present, with
+methyl methacrylate surrounding the metallic femoral head
+component. This femoral head prosthesis is dislocated superiorly
+from the acetabulum. The acetabulum is enlarged, of abnormal
+morphology, with loss of the cortical rim superolaterally and
+may be paretially resorbed. There is heterotopic ossification
+about the dislocated proximal femur. The femoral prosthesis
+remains seated within the shaft of the proximal femur. Allowing
+for osteopenia, no definite loosening is identified. The
+remainder of the pelvic girdle is within normal limits.
+
+IMPRESSION: Dislocation of right femoral prosthesis from
+acetabulum. ? acetabular debridement or resorption.
+.
+Micro:
+2007-05-30 00:00:00: blood cx neg x2
+2007-05-30 00:00:00: blood cx 1/4 bottles w/E. coli (anaerobic)
+2007-05-30 00:00:00: urine cx neg
+2007-05-30 00:00:00: blood cx neg x4
+2007-05-30 00:00:00: blood cx neg x4
+2007-05-30 00:00:00: urine cx neg
+2007-05-30 00:00:00: blood cx neg x4
+2007-05-30 00:00:00: urine cx neg
+2007-05-30 00:00:00: blood cx neg x2
+2007-05-30 00:00:00: blood cx neg x2
+2007-05-30 00:00:00: urine cx neg
+2007-05-30 00:00:00: blood cx neg x4
+2007-05-30 00:00:00: blood cx neg x2
+2007-05-30 00:00:00: urine cx neg
+2007-05-30 00:00:00: blood cx neg x2
+2007-05-30 00:00:00: blood cx neg x2
+2007-05-30 00:00:00: wound swab: enterococcus (Aashiyana Rhodes), coag neg staph,
+corynebacterium
+2007-05-30 00:00:00: blood cx neg x2
+2007-05-30 00:00:00: catheter tip: coag neg staph
+2007-05-30 00:00:00: urine cx: enterococcus, 2007-05-30 00:00:00 sensitive
+2007-05-30 00:00:00: blood cx 2007-05-30 00:00:00 coag neg staph
+2007-05-30 00:00:00: blood cx neg x2
+2007-05-30 00:00:00: urine cx neg
+2007-05-30 00:00:00 11:30 am SWAB     Site: HIP      RIGHT HIP WOUND.  R/O
+MRSA.
+      INTRA-OPERATIVE .
+
+   GRAM STAIN (Final 2007-05-30 00:00:00):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   WOUND CULTURE (Final 2007-05-30 00:00:00):
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup is performed appropriate to the isolates recovered
+from the
+      site (including a screen for Pseudomonas aeruginosa,
+Staphylococcus
+      aureus and beta streptococcus).
+      SPARSE GROWTH MIXED BACTERIAL FLORA ( >=3 COLONY TYPES)
+CONSISTENT
+      WITH SKIN FLORA.
+      FURTHER WORK-UP PER DR. Ashwath Lembrick 2007-05-30 00:00:00.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    SPARSE GROWTH.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    RARE GROWTH.
+      ESCHERICHIA COLI.    RARE GROWTH.
+      ESCHERICHIA COLI.    RARE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------  =>32 R     =>32 R
+AMPICILLIN/SULBACTAM--    16 I        8 S
+CEFAZOLIN-------------   <=4 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CEFUROXIME------------     4 S        4 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+IMIPENEM--------------   <=1 S      <=1 S
+LEVOFLOXACIN----------<=0.25 S   <=0.25 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN----------    32 I       32 I
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R     =>16 R
+
+   ANAEROBIC CULTURE (Final 2007-05-30 00:00:00):
+      Mixed bacterial flora-culture screened for B. fragilis, C.
+      perfringens, and C. septicum.
+      BACTEROIDES FRAGILIS GROUP.    RARE GROWTH.  BETA
+LACTAMASE POSITIVE.
+
+   ACID FAST SMEAR (Final 2007-05-30 00:00:00):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+
+   ACID FAST CULTURE (Pending):
+
+   FUNGAL CULTURE (123 Any St.inary):
+      NO FUNGUS ISOLATED.
+      A swab is not the optimal specimen for recovery of
+mycobacteria or
+      filamentous fungi.  A negative result should be
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated
+fluid should
+      be submitted.
+
+2007-05-30 00:00:00- WOUND CULTURE (Final 2007-05-30 00:00:00):
+      ESCHERICHIA COLI.    SPARSE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------    16 I
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------    16 I
+CIPROFLOXACIN---------     2 I
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+
+Brief Hospital Course:
+# Altered mental status: Likely multifactorial on admission,
+secondary to polypharmacy, benzodiazepine withdrawal, seizure,
+uremia. There was no evidence of NMS during this hospital
+course.  The patient had been on an ativan gtt at the time of
+transfer from the OSH, and was noted to be somnolent.  When the
+ativan gtt was discontinued his mental status gradually
+improved.  He was initially kept on a CIWA scale for
+benzodiazepine withdrawal, but he required little valium and
+this was discontinued after a few days.  As noted in the HPI,
+the patient had had seizures in the setting of benzodiazepine
+withdrawal.  He was initially treated with dilantin at the OSH,
+but this was not continued as benzo withdrawal was considered to
+be the cause of the seizures.  Patient was insisted on being
+treated with demerol for pain despite seizure risk. Several
+discussions were had regarding this. He receieved up to 400 mg
+IV demerol per days which he tolerated well and had no further
+evidence of seizure activity.
+.
+# ARF: Cr 5.8 on admission from baseline 4. The etiology of the
+patient's chronic renal insufficiency was not entirely clear.
+On admission, the patient was felt to by hypovolemic, with
+pre-renal etiology of his acute on chronic renal failure.  Renal
+ultrasound revealed no hydronephrosis.  Creatinine improved
+somewhat with hydration.  There was no acute indication for
+hemodialysis.  At times the patient became somewhat hyperkalemic
+to the mid-5's, which responded to kayexelate, but this was also
+felt to be realted to .  His creatinine remained stable at 2.6
+by discharge but exhibited variation from day to day up to 3.5
+for unclear reasons. Patient continued to make adequate amounts
+of urine.
+.
+# Septic Arthritis of the Hip/infectious disease: The patient
+had fever to 104F at the OSH, with no clear source initially.
+He sustained a complex femoral neck fracture, which was managed
+with a hemiarthroplasty at an outside hospital. He now presented
+to the UPMCE with a large buttock
+hematoma and evidence of bacteremia with continued hip pain. The
+patient has been taken to operating room on 2007-05-30 00:00:00 for
+debridement and wound cultures which revelaed enterococcus, coag
+negatve staph and CORYNEBACTERIUM. He returned to the OR on 2007-05-30 00:00:00
+for washout and hip spacer placement and a wound vac was placed.
+He returned to OR on 2007-05-30 00:00:00 for washout and wound closure. He was
+noted to have serosanguinous drainage from the wound site, and a
+hematoma at the site.  He again returned to the OR on 2007-05-30 00:00:00,
+where he was found to have an infected hematoma in the R hip
+surgical site.  The hip was washed out and cultures sent, which
+grew e.coli, enterococcus and coag negative staph and a wound
+vac was replaced and was changed Q3-4 days.  The patient also
+had enterococcus in a urine culture and coag negative staph from
+2/4 bottles of a set of blood cultures and from the tip of a
+PICC line which was removed early in the hospital course. An ID
+consult was obtained and the patient was started on cipro,
+vanco, flagyl.   TTE and TEE were done to evaluate his valves in
+the setting of bacteremia (see below).  These studies were read
+as having a question of mitral valve vegetation, as well as old
+mitral valve perforation, but no involvement of the prosthetic
+aortic valve was noted.  AP of the pelvis was obtained on 2007-05-30 00:00:00
+because his hip was internally rotated and films revleaed
+dislocation so he was taken back to the OR for relocation on 2007-05-30 00:00:00
+at which time his spacer was removed, washed and replaced and a
+wound vac was left in place.  Subsequent wound culture taken on
+2007-05-30 00:00:00 grew sparse E.coli, interterminent sensitivity to Cipro.
+ID felt that this was the same organism 123 Any St.usly (2007-05-30 00:00:00)
+cultured from his hip, now with resisence to cipro.  Therefore
+his abx regimen was changed from Cipro to Unasyn, but day one of
+abx treatment will remain 2007-05-30 00:00:00, the day of removal of
+infected hematoma.  He should complete a 6 week course of ABX
+from then-(Vancomycin 1gm IV Q24H, Ampicillin-Sulbactam 3 gm IV
+Q8H, and Metronidazole 500 mg PO TID)needing 19 additional days
+after discharge.  After this course is completed, he will have a
+one month waiting period without antibiotics to see if the
+infection has actually cleared.  Orthopedic Surgery will see him
+at the end of this month, and will do a hip aspirate to eval for
+infection.  If his wound has closed, he is afebrile, and his
+aspirate is clear of bacteria, he will have his hip hardware
+replaced and should not require antibiotics afterwards. He will
+need Q3-4 day wound vac dressing changes at rehab. He will
+additionally follow up with infectious disease for antibiotic
+management. He will need Q 3day labs including Chem10, and
+PTT/INR and weekly LFTs while on antibiotics.
+
+# Pain: The patient complained of continual severe hip pain
+throughout his hospital course, and he made frequent and
+repeated requests for increasing doses of pain medications.  He
+has a history of polysubstance abuse, making the management of
+his pain more complicated.  The pain management service was
+consulted, and many different regimens were tried to control his
+pain, including morphine and dilaudid PCA, increasing doses of
+methadone, lidocaine patch, fentanyl patch, and the addition at
+various times of neurontin, topamax, and muscle relaxants to his
+regimen. At the time of discharge, his pain was controlled with
+a regimen of Methadone 80mg PO four times a day, Dilaudid IV PCA
+with 0.37mg given every 6 minutes with no basal rate, Morphine
+Sulfate 15mg IV Q3-4 hours PRN, Diazepam 15mg PO Q8H, and
+Meperidine 100 mg IV BID PRN for Wound Vac Changes. Many
+discussions were had with the patient regarding pain control.
+Limit setting was essential in allowing for pain control without
+the patient being oversedated. Psychiatry was consulted to
+manage his anxiety. They had no specific recommendations at this
+time for longterm treatment, but he should follow up as an
+outpatient.
+.
+# Polysubstance abuse: At the time of admission, the patient was
+currently clean and on methadone.  Pain was managed as noted
+above.
+.
+# DM2: Oral hypoglycemics were held on admission.  Rhodes was
+consulted for help with management of his diabetes.  His blood
+sugars were initially difficult to control in the setting of
+infection.  Glargine insulin was started and was titrated up for
+good glycemic control.  Humalog insulin sliding scale was also
+used.
+.
+# s/p AVR: The patient was on coumadin at home for
+anticoagulation.  When the need for operative management of his
+hip arose, coumadin was discontinued and he was put on a heparin
+gtt.  TTE and TEE were done to evaluate his valves when blood
+cultures grew coag negative staph.  These studies were read as
+having a question of mitral valve vegetation, as well as old
+mitral valve perforation, but no involvement of the prosthetic
+aortic valve was noted.  This was re-read as having NO
+vegetation on the mitral valve.  The patient was treated for
+endocarditis with vancomycin, with a plan for this to be
+continued for 6 weeks.  On 2007-05-30 00:00:00, Coumadin 5mg QHS was begun.
+His Heparin ggt was continued, but can be d/c'd once his INR is
+therapeutic with a goal of 2.5-3.5. Upon discharge, INR was 2.5,
+PTT was 114; however will continue Heparin drip, given the fact
+that INR cannot be interpreted with elevated PTT.
+.
+# Tachycardia: Sinus tachycardia on admission was felt to be
+possibly 2007-05-30 00:00:00 hypovolemia or benzo withdrawal and pain. He was
+given IV hydration and was put on CIWA scale with valium which
+he rarely required, as noted above.
+.
+# Pulmonary HTN: This was reported on TTE at OSH. The patient
+had no signs or symptoms of RV strain.  Mild pulmonary artery
+hypertension was also noted on TTE done here.
+.
+# Pancreatitis: Patient was noted to have elevated amylase and
+lipase on admission, but without abdominal pain.  This was felt
+to be related to medications, as the patient never developed any
+symptoms of pancreatitis.
+.
+# Code: Full
+
+Medications on Admission:
+amlodipine 10 mg qd
+tylenol prn
+colace 100 mg UPMCE
+oxycodone 10 mg q4 prn
+coumadin 3 mg qhs
+hydroxyzine 50 mg q6 prn
+ambien 10 mg qhs
+ativan 1-2mg q 1hr prn
+methadone 20 mg UPMCE
+NPH (unclear dose)
+ativan gtt 1 mg/hr
+propranolol 20 mg qid
+
+
+Discharge Medications:
+1. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+Disp:*90 Capsule(s)* Refills:*2*
+4. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours).
+Disp:*3600 ML(s)* Refills:*2*
+6. E123 Any St. Alfa 10,000 unit/mL Solution Sig: One (1)  Injection
+QMOWEFR (Monday -Wednesday-Friday).
+Disp:*qs * Refills:*2*
+7. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q6H (every
+6 hours) as needed for constipation.
+Disp:*qs ML(s)* Refills:*2*
+8. Diazepam 5 mg Tablet Sig: Three (3) Tablet PO Q 8H (Every 8
+Hours).
+Disp:*qs Tablet(s)* Refills:*2*
+9. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 19 days.
+Disp:*60 Tablet(s)* Refills:*0*
+10. Methadone 40 mg Tablet, Soluble Sig: Two (2) Tablet, Soluble
+PO QID (4 times a day).
+Disp:*240 Tablet, Soluble(s)* Refills:*2*
+11. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*1 Tablet(s)* Refills:*2*
+12. Ampicillin-Sulbactam 2007-05-30 00:00:00 g Recon Soln Sig: One (1) Recon
+Soln Injection Q8H (every 8 hours) for 19 days.
+Disp:*2 Recon Soln(s)* Refills:*0*
+13. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+Gram Intravenous  Q 24H (Every 24 Hours) for 19 days.
+Disp:*19 Gram* Refills:*0*
+14. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID
+(4 times a day) as needed.
+Disp:*qs * Refills:*0*
+15. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed for pain.
+Disp:*90 Tablet(s)* Refills:*2*
+16. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+17. Hydromorphone 4 mg/mL Solution Sig: 0.37mg   Injection ASDIR
+(AS DIRECTED): 0.37mg IV PCA every 6 minutes for pain.  No basal
+rate.
+Disp:*qs * Refills:*2*
+18. Morphine Sulfate 15 mg IV Q3-4H:PRN
+19. Meperidine  Sig: 100mg  Intravenous (only) twice a day as
+needed for pain: Only given for wound vac changes.
+Disp:*qs * Refills:*1*
+20. Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO
+Q6H (every 6 hours) as needed.
+21. Insulin Glargine 100 unit/mL Solution Sig: Fifty Four (54)
+units Subcutaneous at bedtime.
+22. Humalog 100 unit/mL Solution Sig: Per sliding scale. units
+Subcutaneous QACHS: See attached sliding scale.
+23. Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units
+heparin) each lumen Daily and PRN.  Inspect site every shift.
+24. Heparin (Porcine) in D5W 100 unit/mL Parenteral Solution
+Sig: Per protocol  Intravenous  ASDIR (AS DIRECTED): Please give
+per attached protocol.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary:
+1. Septic R artificial hip, s/p hardward removal & washout
+2. Bacteremia
+3. Seizure related to benzodiazepine withdrawl
+4. Acute Renal Failure
+Secondary:
+1. Diabetes type II
+2. Anemia secondary to blood loss
+3. Hyperkalemia
+4. Hypertension
+
+
+
+Discharge Condition:
+Hemodynamically stable, afebrile, glucose well controlled.
+
+
+Discharge Instructions:
+You were admitted to the hospital with a change in your mental
+status and seizure, and found to have an infected R hip.  You
+were treated for this with surgery, antibiotics, and pain
+medications.  You should call your doctor or return to the
+hospital if you have fever >101, chills, significantly increased
+pain, or signs of infection.
+
+Please take all of your medications as directed.
+
+Please keep all of your follow up appointments.
+
+Followup Instructions:
+Provider: Aashiyana Rhodes XRAY (SCC 2) Phone:test@mail.com
+Date/Time:2007-05-30 00:00:00 8:20
+Provider: Aashiyana Rhodes, MD Phone:test@mail.com
+Date/Time:2007-05-30 00:00:00 8:40
+
+You have the following appointment at infectious disease clinic.
+Provider: Aashiyana Rhodes, MD Phone:test@mail.com
+Date/Time:2007-05-30 00:00:00 10:00
+
+You should call to schedule a follow up appointment with a
+primary doctor 1-2 weeks after you complete rehab. Please call
+test@mail.com to set up an appointment with a new primary doctor.
+
+
+
+Completed by:2007-05-30 00:00:00

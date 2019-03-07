@@ -1,0 +1,107 @@
+Admission Date: 2010-06-19 00:00:00        Discharge Date: 2010-06-19 00:00:00
+
+Date of Birth: 1984-06-08 00:00:00 00:00:00        Sex:  F
+
+Service:
+
+
+ADMISSION DIAGNOSIS:  Right flank pain.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 55 year-old
+male, status post kidney transplant in 2010-06-19 00:00:00, history of
+hypertension, dyspnea, diabetes, anemia who has been having
+some abdominal pain. The patient had recently been discharged
+from the UPMCE on 2010-06-19 00:00:00
+with similar complaints on the medicine service. A transverse
+right upper quadrant pain radiating to the back and shoulder,
+8 out of 10. Patient is status post renal transplant [**Numeric Identifier 4771**]
+and has been off dialysis ever since the surgery. The patient
+was well until three days ago when sharp right upper quadrant
+pain who has not been able to tolerate anything by mouth.
+Patient has chronic constipation, no diarrhea. Last bowel
+movement was on 2010-06-19 00:00:00. The pain has progressive
+become more persistent and is associated with low grade
+fevers of 99. Patient denies shortness of [**Year (4 digits) 1422**], chest pain,
+hematuria, dysuria, no dark urine or Charmella Sanon colored stools. On
+last admission the patient had a work up, all of which was
+negative including ultrasound, HIDA scan, abdominal CT and CT
+of chest.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Diabetes.
+3.  Status post renal transplant in 2010-06-19 00:00:00.
+4.  Sciatica.
+5.  Multinodular goiter.
+6.  Cataract surgery.
+7.  Hyperlipidemia.
+8.  Depression.
+9.  History of shoulder pain.
+10. History of vertigo.
+11. History of nephrolithiasis.
+
+MEDICATIONS ON ADMISSION:  Neural 100 in the morning, 50 in
+the afternoon. Diltiazem 240 mg q day, CellCept test@mail.com b.i.d.,
+Lipitor 5 mg q day, prednisone 10 mg 10 mg q.o.d., lisinopril
+5 to 10 mg q day, Lasix 60 q day, Ativan q.A.M., aspirin 81
+mg  q day, lactulose q.o.d., Lantus 30 units q.P.M. sliding
+scale.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  No tobacco, no alcohol, no drugs.
+
+FAMILY HISTORY:  Noncontributory.
+
+LABORATORIES ON ADMISSION:  WBC 7.0, hematocrit 29.6,
+platelets 264, sodium 138, 5.3, 104, 22, BUN/creatinine
+51/1.5 with glucose 174. Ultrasound was obtained 2010-06-19 00:00:00 demonstrating distended gallbladder without evidence of
+cholecystitis. No evidence of intrahepatic or extrahepatic
+biliary duct dilatation. Patient also had a CT of the abdomen
+and pelvis on 2010-06-19 00:00:00 demonstrating 1) distended
+gallbladder with no gallstones, divide or evidence of acute
+cholecystitis. There is no intra or extrahepatic biliary duct
+dilatation. 2) Stable appearance of the shunts of the
+transplant kidney with unchanged appearance of perinephric
+stranding around the transplant kidney. 3) There is no
+evidence of acute pathology to explain the patient's pain.
+
+HOSPITAL COURSE:  Patient was admitted to Dr.Charmella Sanon
+service. Gastroenterology was consulted and it was suggested
+for patient to have an upper endoscopy. Nephrology was
+consulted. Urine, blood and sputum were obtained which were
+all unremarkable. On 2010-06-19 00:00:00 patient had endoscopy
+demonstrating normal esophagus, normal stomach, normal
+duodenum, normal upper endoscopy to second portion of the
+duodenum. Patient felt better and on 2010-06-19 00:00:00 patient
+was discharged to home.
+
+Patient was discharged on the following medications: Neural
+100 mg 100 mg p.o. q.A.M. and Neural 50 mg q. P.M., diltiazem
+240 mg 1 p.o. q day, atorvastatin calcium 25 mg q day, Lasix
+60 mg q day, aspirin 81 mg q day, lactulose p.r.n., MMF 500
+mg b.i.d., prednisone 10 mg q.o.d., Dilaudid 2 mg 1 to 2 p.o.
+q 6 hours p.r.n.
+
+Patient to follow up with nephrology by calling test@mail.com
+for an appointment. Also follow up with Dr. [**First Name8 (NamePattern2) 109**] Sanon test@mail.com. Another appointment is with Charmella Sanon on 2010-06-19 00:00:00 at 9 A.M. and also with physical therapy which was
+scheduled on 2010-06-19 00:00:00 at 2:30 P.M. at 1,[**Location (un) 4774**]in 123 Any St., 123 Any St.. Patient should call
+transplant surgery immediately at test@mail.com if any fevers,
+chills, nausea, vomiting, abdominal pain, hesitancy in
+urinary, shortness of Sanon, [**First Name3 (LF) 684**] sustained right upper
+quadrant or an increase in lower extremity edema.
+
+FINAL DIAGNOSIS:  Probable costochondritis.
+
+SECONDARY DIAGNOSIS:  Status post renal transplant.
+
+
+
+                        Charmella Sanon Charmella Sanon, 18187
+
+Dictated By:Kayaan Malinis
+MEDQUIST36
+D:  2010-06-19 00:00:00 10:38:33
+T:  2010-06-19 00:00:00 11:42:00
+Job#:  18187
+

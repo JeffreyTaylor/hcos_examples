@@ -1,0 +1,237 @@
+Admission Date:  2005-07-22 00:00:00              Discharge Date:   2005-07-22 00:00:00
+
+Date of Birth: 1958-11-25 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Devonnte Heckley
+Chief Complaint:
+Fever, seizure.
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+The patient is a 39 year old male, baseline nonverbal with
+mental retardation, cerebal palsy, seizure disorder, history of
+recurrent aspirations on a modified diet who presented to the ED
+on 2005-07-22 00:00:00 from his UPMCE nursing home with seizure x 2 on day of
+presentation ( 7 pm, 8:15 pm) with a fever to 102. Status post
+seizure, the patient was found to be hypoxic to 89% on RA per
+EMS report. His seizure spontaneously resolved. The patient has
+a history of multiple aspirations in the past. Allysandra Bourque HCP,
+sister, Allysandra Bourque requested no central lines, LP or femoral stick.
+
+.
+In the ED, a CXR was obtained which showed no evidence of
+infiltrate. His temperature in the ED was 103.8 for which he was
+given tylenol. Given a concern for aspiration, the patient was
+given vanco 1 gm, ceftriaxone 2 gm, and flagyl. His pulse was
+noted to be up to 146, BP 152/98 and he was sat'ing 100@ liters
+->96-99% on RA.
+.
+A dilantin level was checked in the ED and was 12.6. A valproic
+acid level was subtherapeutic at 37. He was given 2 mg IV ativan
+in the ED given his recent seizure. His WBC was elevated at
+12.4. A UA was checked which was negative for signs of
+infection. A lactate was checked and was 3.7->4.4.
+.
+An EKG was checked which showed sinus tachycardia at a rate of
+141 bpm. No acute ischemic changes. He received a total of 2
+liter IVFs with a net I/O of 1.4 liters positive.
+.
+The patient is documented as being DNR/DNI and the patient's
+sister Allysandra Bourque asked that no femoral sticks, central lines, or
+other aggressive measures be pursued. He was admitted to the ICU
+given his tachycardia and elevated lactate as it was felt he
+would trigger on the floor.
+.
+ROS:
+.
+Unable to obtain.
+
+
+Past Medical History:
+1. Cerebral palsy
+2. Mental retardation
+3. seizures
+4. aspiration
+5. dysphagia
+6. depression
+
+
+Social History:
+Lives at UPMCE.
+Mom (Devonnte Heckley) is guardian
+Sister Allysandra Bourque is HCP
+
+
+Family History:
+Father with CAD
+
+Physical Exam:
+PE:
+Tc = 97.4 Tm = 103.8 P = 120 BP = 154/110 RR = 15 100% O2 sat on
+2 Liters
+.
+Gen - Nonverbal, opens eyes to voice, does not follow commands
+HEENT - Anicteric, atraumatic, dry MM
+Heart - Increased rate, regular rhythm
+Lungs - Right basilar crackles, o/w clear
+Abdomen - Soft, NT, ND + BS
+Ext - No C/C/E, spastic, flexed
+Skin - No rashes noted
+Neuro - Nonverbal, down-going Babinski's bilaterally, does not
+follow commands
+
+
+Pertinent Results:
+2005-07-22 00:00:00 09:47PM URINE  COLOR-Yellow APPEAR-Clear SP Bourque-1.013
+2005-07-22 00:00:00 09:47PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-NEG
+2005-07-22 00:00:00 08:55PM   WBC-10.3# RBC-4.20* HGB-14.7 HCT-42.2
+MCV-101* MCH-35.0* MCHC-34.8 RDW-13.6
+2005-07-22 00:00:00 08:49PM   LACTATE-3.7*
+.
+CHEST (PORTABLE AP)  2005-07-22 00:00:00 3:32 AM
+Marked scoliosis distors the chest. Right hemithorax is small
+and there is some decrease in aeration at the base, either
+atelectasis or conceivably effects of recent aspiration.
+Followup advised. Mild pulmonary vascular engorgement persists,
+but heart is normal size. Pleural effusion if any is minimal, on
+the right. No pneumothorax.
+
+Brief Hospital Course:
+The patient is a 39 year old male with a history of cerebral
+palsy, mental retardation, seizure disorder on dilantin, keppra,
+and depakote as well a history of aspiration presents after 2
+seizures at NH on the day of presentation with fever to 103.8
+with ?aspiration on vanco/CTX/flagyl.
+.
+Plan:
+.
+# Seizure disorder
+- Valproic acid level subtherapeutic at 37. Dilantin level
+therapeutic at 12.6. Neurology was consulted and agreed with
+continuing current medications at current doses. Seizure likely
+in setting of subtherapeutic medications but also may occur in
+the setting of infection. There was no evidence of infection.
+- Ativan prn for seizure.
+- No further seizures during admission.
+.
+# Fever
+- Elevated WBC to 12 from 10 on presentation in the setting of
+recent seizure and possible aspiration during event with
+transient hypoxia and now RLL crackles.
+- Repeat CXR showed no evidence of pneumonia. Fever likely
+occurred in setting of seizure or aspiration pneumonitis.
+- The patient was started on vancomycin, ceftriaxone, flagyl in
+the ED. These were discontinued shortly after arriving in the
+MICU.
+- Given IVF in ED.
+
+.
+# Hypoxia
+- Now resolved. Sat'ing 99% on RA, 100% on 2 liters for comfort.
+Likely occurred in setting of aspiration during seizure.
+
+.
+# Mental disability
+- Continue psych home medications.
+.
+# History of aspiration
+- Maintain aspiration precautions. He was re-evaluated by speech
+and swallow with no change in his aspiration risk/diet. He is on
+a modified diet at NH: regular diet, pureed consistent with
+honey thickened liquids and yogurt with each meal with 1:1
+supervision.
+- Aspiration precautions.
+.
+.
+#Code - DNR/DNI
+.
+#Dispo - Discharged to UPMCE from MICU.
+.
+#Communication - With sister, Allysandra Bourque Allysandra Bourque. test@mail.com.
+
+
+Medications on Admission:
+Bisacodyl prn
+Remeron 15 mg PO QHS
+Diazepam 5 mg IM prn
+Trazadone 25 mg PO Q6 prn
+Albuterol neb rpn
+Omeprazole 20 mg PO QD
+Depakote 250 mg PO QD-> 500 mg PO QHS
+Aspirin 325 mg PO QD
+Folic acid 1 mg PO QD
+Colace
+Dilantin 100 mg PO QD
+Trazadone 50 mg PO BID
+Keppra 500 mg PO BID
+Ativan 0.5 mg PO TID
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+2. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+3. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+Inhalation Q6H (every 6 hours) as needed.
+4. Divalproex 250 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO QHS (once a day (at bedtime)).
+
+5. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule
+PO DAILY (Daily).
+9. Trazodone 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+10. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+11. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+12. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+13. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Mental retardation
+Cerebral palsy
+Recurrent aspirations
+
+
+Discharge Condition:
+Stable, at baseline. Nonverbal.
+
+
+Discharge Instructions:
+The patient should be monitored for seizures. If one seizure
+occurs, this may not necessitate re-admission. Please contact
+the patient's physician or neurologist for further evaluation.
+
+
+Followup Instructions:
+Please follow up with your neurologist, Dr. Bourque, in 4
+weeks.
+
+Please have patient seen a physician Devonnte Heckley 1 week for follow up.
+
+
+

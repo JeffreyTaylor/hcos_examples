@@ -1,0 +1,206 @@
+Admission Date:  2011-11-23 00:00:00              Discharge Date:   2011-11-23 00:00:00
+
+Date of Birth: 1934-11-23 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Chrisshawn Torresrodrigue
+Chief Complaint:
+47M admitted for liver transplantation. Most recent
+hospitalization for R VATS biopsy of a lung nodule concerning
+for
+metastatic HCC.
+
+ROS: denies fevers, chills, nausea, vomiting, diarrhea, dysuria,
+hematuria, URI symptoms, cough, shortness of breath, or any
+other
+pain or discomfort
+
+Major Surgical or Invasive Procedure:
+Orthotopic liver transplantation done on 2011-11-23 00:00:00
+
+
+Past Medical History:
+HBV
+Heptocellular Carcinoma s/p RFA
+Hamartoma.
+Hypertension.
+
+
+Social History:
+Cantonese and has a high school education.  He is married and
+has
+two children, ages 15 and 17.  He is a restaurant cook.
+He has no history of alcohol use.  He smoked one pack of
+cigarettes per day in the past but quit 10 years ago.  He has no
+history of IV drug use, marijuana
+use, blood transfusions, tattoos, or piercing.
+
+
+Family History:
+His family medical history is significant for his mother who is
+alive and healthy.  His father died of unknown causes.
+
+
+Physical Exam:
+98.4 111 135/98 18 97% RA
+Gen: NAD
+HEENT: EOMI, not jaundiced, mucous membranes moist, no cervical
+lymphadenopathy, no supraclavicular lymphadenopathy, no JVD
+Chest: CTAB, RRR, no M/R/G
+Abdomen: soft, non-tender, non-distended
+Extremities: no edema, 2+ radial pulses bilaterally, fully
+ambulatory without difficulty
+Neuro: A&Ox3, MAE
+
+
+Pertinent Results:
+At admission
+2011-11-23 00:00:00 12:32AM BLOOD WBC-5.8 RBC-4.70 Hgb-14.6 Hct-42.2 MCV-90
+MCH-31.2 MCHC-34.7 RDW-14.2 Plt Ct-202
+2011-11-23 00:00:00 12:32AM BLOOD PT-12.3 PTT-28.2 INR(PT)-1.0
+2011-11-23 00:00:00 12:32AM BLOOD Glucose-105 UreaN-15 Creat-0.6 Na-140
+K-4.0 Cl-103 HCO3-28 AnGap-13
+2011-11-23 00:00:00 04:48PM BLOOD ALT-1635* AST-1851* AlkPhos-47 Amylase-53
+TotBili-1.9* DirBili-0.9* IndBili-1.0
+2011-11-23 00:00:00 12:32AM BLOOD Albumin-4.4 Calcium-9.2 Phos-2.6* Mg-2.3
+
+At discharge:
+2011-11-23 00:00:00 05:45AM BLOOD WBC-8.8 RBC-3.42*# Hgb-10.8*# Hct-30.5*#
+MCV-89 MCH-31.6 MCHC-35.4* RDW-15.0 Plt Ct-141*
+2011-11-23 00:00:00 05:45AM BLOOD Glucose-109* UreaN-20 Creat-0.6 Na-139
+K-3.6 Cl-103 HCO3-27 AnGap-13
+2011-11-23 00:00:00 05:45AM BLOOD ALT-482* AST-157* AlkPhos-90 TotBili-1.1
+2011-11-23 00:00:00 05:45AM BLOOD Albumin-3.6
+2011-11-23 00:00:00 05:00AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE T
+2011-11-23 00:00:00 05:45AM BLOOD tacroFK-5.6
+2011-11-23 00:00:00 05:00AM BLOOD tacroFK-7.0
+2011-11-23 00:00:00 05:00AM BLOOD tacroFK-2.2*
+
+US Abdomen:IMPRESSION:
+1. Patent and appropriate hepatic vasculature.
+2. Small subhepatic hematoma.
+
+
+
+Brief Hospital Course:
+Orthotopic liver transplant done on 2011-11-23 00:00:00
+Was in the ICU for 24 hours.
+He was extubated the same day of surgery
+First day post op he had an ultrasound:
+
+IMPRESSION:
+1. Patent and appropriate hepatic vasculature.
+2. Small subhepatic hematoma.
+
+His post operative period was uneventful.
+He was started on his immunosuppressive meds per protocol:
+Steroid taper; MMF 1000", Tacro dosed per levels
+Hirsch was consulted for management of his sugars. He was sent
+home on insulin after he was taught to self inject insulin
+according to scale. He was also sent home on Glyburide
+He was also advised to take the hepatitis B immunoglobulin(
+receivedd Day 2011-11-23 00:00:00 in hospital) 7th 14th 21st and 28th  post op
+day and then monthly
+He was given some lasix for diuresis
+He received 2 units PRBC for a hct which was drifting down just
+before discharge.
+He was discharged on postop day5
+
+
+Medications on Admission:
+Active Medication list as of 2011-11-23 00:00:00:
+
+Medications - Prescription
+CLOTRIMAZOLE [MYCELEX] - 10 mg Troche - 5 daily x5 daily
+NIFEDIPINE [NIFEDICAL XL] -  (Prescribed by Other Provider) - 60
+mg Tablet Extended Rel 24 hr - 1 Tab(s) by mouth once a day
+TENOFOVIR DISOPROXIL FUMARATE [VIREAD] - 300 mg Tablet - 1
+Tablet(s) by mouth once a day
+
+Medications - OTC
+CALCIUM CARBONATE [CALTRATE 600] -  (OTC) - 600 mg (1,500 mg)
+Tablet - 1 Tablet(s) by mouth twice a day
+
+
+Discharge Medications:
+1. Prednisone 10 mg Tablet Sig: 3.5 Tablets PO ONCE (Once) for 1
+doses.
+2. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+4. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+5. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+6. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+BID (2 times a day).
+7. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+8. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours).
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Tacrolimus 1 mg Capsule Sig: asdir Capsule PO Q12H (every 12
+hours): Dosage to be adjusted according to levels.
+11. Insulin Lispro 100 unit/mL Solution Sig: One (1) 100 units
+Subcutaneous ASDIR (AS DIRECTED).
+Disp:*2 1* Refills:*2*
+12. HepaGam B >312 unit/mL (5 mL) Solution Sig: One (1) 5000
+units Intramuscular once: Dose to be given on Day 7, Day 14.
+13. Nicardipine 60 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO once a day.
+14. Tums 300 mg (750 mg) Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO once a day. Tablet, Chewable(s)
+15. Morphine 15 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO every 4-6 hours as needed for pain.
+Disp:*30 Tablet Sustained Release(s)* Refills:*0*
+16. Glyburide 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE
+
+Discharge Diagnosis:
+Hepatitis B Virus Heptocellular Carcinoma status post Orthotopic
+liver transplantation
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please call the transplant clinic at test@mail.com for fever,
+chills, nausea, vomiting, diarrhea, constipation, inability to
+take or keep down food, fluids or medications, yellowing of skin
+or eyes, increased abdominal pain or any other concerning
+symptoms.
+Labwork at the UPMCE Medical Building Lab every Monday and
+Thursday
+No heavy lifting
+No driving if taking narcotic pain medication
+You may shower, allow water to run over incision and pat area
+dry. 2011-11-23 00:00:00 be left open to air
+Drink enough fluids to keep urine light yellow in color
+Monitor
+
+
+Followup Instructions:
+Provider: Aidenjames Hirsch SCAN Phone:test@mail.com Date/Time:2011-11-23 00:00:00 1:30
+Provider: Aidenjames Hirsch, MD Phone:test@mail.com Date/Time:2011-11-23 00:00:00
+10:00
+Provider: Aidenjames Hirsch, MD Phone:test@mail.com Date/Time:2011-11-23 00:00:00
+9:30
+
+
+
+Completed by:2011-11-23 00:00:00

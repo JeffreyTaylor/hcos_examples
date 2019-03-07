@@ -1,0 +1,289 @@
+Admission Date:  2005-07-25 00:00:00              Discharge Date:   2005-07-25 00:00:00
+
+Date of Birth: 1929-07-22 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Getsemany Abendano
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac cath
+
+History of Present Illness:
+63 year-old M with CAD s/p CABG (2005-07-25 00:00:00 - LIMA to LAD, SVG to OM2,
+SVG to D1, SVG to PDA), s/p PTCA (2005-07-25 00:00:00 - stents placed to SVG to
+D1 graft and SVG to PDA graft) who presented with chest pain to
+OSH, transferred here for cardiac cath, now s/p cath.  He awoke
+from sleep at home with 8/10 chest pain, L arm discomfort, and
+diaphoresis.  No SOB or nausea.  He arose and felt lightheaded
+and proceeded to have a syncopal event.  No trauma.  He went to
+the OSH ED at 2 am for evaluation; he received heparin bolus and
+gtt, plavix, and morphine.  Nitro gtt was started and patient
+worsened.  Labs showed CK 136, MB 3.5, trop 0.16, ECG showed
+NSR, with 1 mm STE inf and reciprocal changes in V1/V2.  He was
+transferred to UPMCE for cath.
+.
+Cardiac cath showed right dominant circulation with 100% ostial
+LAD lesion and 100% proximal RCA lesion with collaterals.
+distal LCX 60%.  SVG-RCA occlusion, SVG-OM occluded.  SVG-Diag
+iwth 60% proximal lesion and patent graft.  60% mid LIMA-LAD
+with collaterals.  CO 5.64, CI 2.92, RA 9, PCWP 19, PA 29/13, RV
+23/13.  No interventions were performed; pt was transferred to
+CCU for medical therapy and hemodynamically stable.
+.
+ROS: He reports stable DOE after 1 block.  Pt denies PND,
+orthopnea, or LE edema.  No history of claudication, CVA/TIA.
+No fever or chills.  No recent weight loss or gain.  Has sinus
+congestion.  Denied cough or palpitations.  Denied nausea,
+vomiting, diarrhea, constipation or abdominal pain.  No melena
+or BRBPR.  No dysuria. Denied arthralgias or myalgias.  No rash.
+
+
+Past Medical History:
+1.  CAD s/p CABG: 2005-07-25 00:00:00, LIMA to LAD graft, SVG to OM2, SVG to D1
+and SVG to PDA.  presented with unstable angina.  EF 74%,
+anterolateral HK, 90pRCA, 90% LAD, 70% mLAD, 90% D2, 80% dCx,
+two 80% sequential OM1 lesions.  s/p PTCA and stenting of the
+proximal, mid, and distal SVG-R-PDA and SVG to D1 in 2005-07-25 00:00:00.
+2.  Hypercholesterolemia.
+3.  Hypertension.
+4.  History of tobacco use - quit > 40 yrs ago
+5.  Brachial Plexus injury
+
+
+Social History:
+The patient works in home room modeling and construction; he is
+a former firefighter.  He is married with grown children.
+Occasional social alcohol use.  Quit smoking >40 yrs ago.
+
+
+Family History:
+brothers, mother and father with premature CAD.
+brother with CVA
+bone Ca in father
+melanoma in sister
+Densil Clewis CA in sister
+
+Physical Exam:
+Admission PE:
+Vitals: T: 97   P: 83   BP: 136/76   RR: 15   SaO2: 93% on 3L NC
+
+General: Awake, alert, NAD.  exam limited since patient required
+to lay flat
+HEENT: PERRL/EOMI, sclera anicteric.  MMM, OP without lesions
+Neck: supple, no carotid bruits ap123 Any St.ted, 2+ carotid pulses.
+unable to assess JVP.
+Pulm: Lungs clear anteriorly
+Cardiac: RRR, nl. S1S2, no M/R/G ap123 Any St.ted
+Abdomen: soft, NT/ND, + BS, no organomegaly noted.
+Ext: No edema b/t, 2+ femoral, DP and PT pulses b/l.  R groin
+with pressure dressing in place.
+Skin: no rashes or lesions noted.
+Neurologic: Alert & Oriented x 3. Able to relate history without
+difficulty.
+
+
+Pertinent Results:
+Admission Labs s/p cath:
+.
+2005-07-25 00:00:00 06:03AM BLOOD WBC-12.2*# RBC-4.51* Hgb-13.4* Hct-38.1*
+MCV-85 MCH-29.8 MCHC-35.2* RDW-12.8 Plt Ct-203
+2005-07-25 00:00:00 06:03AM BLOOD PT-13.1 PTT-56.1* INR(PT)-1.1
+2005-07-25 00:00:00 06:03AM BLOOD Glucose-137* UreaN-13 Creat-0.9 Na-140
+K-4.0 Cl-109* HCO3-21* AnGap-14
+2005-07-25 00:00:00 06:03AM BLOOD CK(CPK)-352*
+2005-07-25 00:00:00 06:03AM BLOOD CK-MB-30* MB Indx-8.5*
+2005-07-25 00:00:00 06:03AM BLOOD Calcium-7.6* Phos-2.9 Mg-1.8
+.
+Other labs:
+2005-07-25 00:00:00 06:03AM BLOOD CK(CPK)-352*
+2005-07-25 00:00:00 02:32PM BLOOD CK(CPK)-3001*
+2005-07-25 00:00:00 10:08PM BLOOD CK(CPK)-3179*
+2005-07-25 00:00:00 05:36AM BLOOD CK(CPK)-2416*
+2005-07-25 00:00:00 06:03AM BLOOD CK-MB-30* MB Indx-8.5*
+2005-07-25 00:00:00 10:08PM BLOOD CK-MB-362* MB Indx-11.4*
+2005-07-25 00:00:00 05:36AM BLOOD CK-MB-209* MB Indx-8.7*
+2005-07-25 00:00:00 02:44PM BLOOD %HbA1c-5.8 [Hgb]-DONE [A1c]-DONE
+2005-07-25 00:00:00 10:08PM BLOOD Triglyc-106 HDL-43 CHOL/HD-2.7 LDLcalc-51
+.
+Cardiac Cath (2005-07-25 00:00:00):
+Cardiac cath showed right dominant circulation with 100% ostial
+LAD lesion and 100% proximal RCA lesion with collaterals.
+distal LCX 60%.  SVG-RCA occlusion, SVG-OM occluded.  SVG-Diag
+iwth 60% proximal lesion and patent graft.  60% mid LIMA-LAD
+with collaterals.  CO 5.64, CI 2.92, RA 9, PCWP 19, PA 29/13, RV
+23/13.  No interventions were performed.
+.
+CXR (2005-07-25 00:00:00):
+The patient has had median sternotomy and coronary bypass
+grafting.
+Borderline cardiomegaly stable.  Lungs clear.  No pulmonary
+edema or pleural effusion.
+.
+Echo (2005-07-25 00:00:00):
+The left atrium is mildly dilated. The left ventricular cavity
+size is normal.  There is moderate regional left ventricular
+systolic dysfunction. Overall left ventricular systolic function
+is moderately depressed (estimated LV ejection fraction ?40%).
+Resting regional wall motion abnormalities include inferior and
+inferolateral akinesis/hypokinesis. No definite thrombus seen
+(cannot definitively exclude). Right ventricular chamber size
+and free wall motion are
+normal. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic regurgitation. The
+mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. There is no pericardial effusion.
+.
+Compared with the report of the prior study (images unavailable
+for review) of 2005-07-25 00:00:00, left ventricular systolic function is
+now significantly impaired.
+.
+Discharge Labs:
+.
+2005-07-25 00:00:00 05:45AM BLOOD WBC-11.1* RBC-4.07* Hgb-12.9* Hct-34.9*
+MCV-86 MCH-31.6 MCHC-36.9* RDW-12.9 Plt Ct-187
+2005-07-25 00:00:00 05:45AM BLOOD Plt Ct-187
+2005-07-25 00:00:00 05:45AM BLOOD Glucose-103 UreaN-15 Creat-1.0 Na-139
+K-3.9 Cl-104 HCO3-27 AnGap-12
+2005-07-25 00:00:00 05:45AM BLOOD Calcium-8.6 Phos-3.1 Mg-2.2
+
+Brief Hospital Course:
+63 yo M with HTN, hyperlipidemia, CAD s/p CABG and PTCA, who
+presented with ACS s/p cath, transferred to CCU for medical
+managment.  His hospital course for this admission is as
+follows:
+.
+1 Ischemia: ACS likely from inferolateral MI from vein graft
+occlusion to OM or to RCA, s/p cardiac cath, no interventions,
+currently pain-free.  We stopped intergrillin and heparin since
+no acute thrombosis found s/p cath.  We continued ASA 325',
+plavix 75', and lipitor 80' initially, and plavix was
+discontinued on 2005-07-25 00:00:00 given the pt didn't have any stents
+placed.  We started low dose bblock and ACEI initially with
+metoprolol 12.5mg'' and lisinopril 5mg', and titrated up to
+25mg'' and 10mg', respectively, as BP and HR tolerated.  He was
+discharged home on toprol XL 50mg PO qday.  Echo on 2005-07-25 00:00:00
+showed  moderately depressed LV systolic function (estimated LV
+ejection fraction ~40%), with resting regional wall motion
+abnormalities include inferior and inferolateral
+akinesis/hypokinesis,  We followed his Hct closely and with goal
+to keep Hct >30.  Given patient became hypotensive on NTG, we
+avoided NTG and symptomatically control pain with MSO4 (pt
+didn't have much pain s/p cath and didn't take any pain meds in
+the hospital, and pain free since day 2 of his hospital stay).
+.
+2 Pump: echo on 2005-07-25 00:00:00 s/p cath showed estimated LVEF
+approximately 40% with resting regional wall motion
+abnormalities include inferior and inferolateral
+akinesis/hypokinesis.  He was continued on ACEI and bblocks.
+.
+3 Rhythm: continued monitor on tele; remained NSR
+.
+4 HTN: We started low dose bblock and ACEI initially with
+metoprolol 12.5mg'' and lisinopril 5mg', and titrated up as BP
+and HR tolerated to 25mg'' and 10mg', respectively. He was
+discharged home on lisinopril 10mg PO qday and toprol XL 50mg PO
+qday.
+.
+5 Hyperlipidemia: checked lipid panels which showed total
+cholesterol 115, TG 106, HDL 43, LDL 51; and continued lipitor
+80mg'.
+.
+6 Prophylaxis: SC heparin (discontinued once patient started
+ambulating), bowel regimen, Getsemany Abendano
+.
+7 FEN: cardiac diet
+.
+8 Code Status: Full
+
+
+Medications on Admission:
+home meds:
+lipitor 25 QD
+atenolol 12.5 QD
+lisinopril 10 QD
+ASA 325
+Getsemany Abendano
+.
+Medications on transfer:
+heparin gtt
+integrillin gtt
+plavix 600 PO load
+ASA 325
+atenolol
+lipitor
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+4. Lisinopril 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily):
+hold for SBP<90.
+5. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis
+acute coronary syndrome, s/p catheterization without
+interventions
+
+Secondary Diagnoses:
+1. CAD s/p CABG: 2005-07-25 00:00:00, LIMA to LAD graft, SVG to OM2, SVG to D1
+and SVG to PDA.  presented with unstable angina.  EF 74%,
+anterolateral HK, 90pRCA, 90% LAD, 70% mLAD, 90% D2, 80% dCx,
+two 80% sequential OM1 lesions.  s/p PTCA and stenting of the
+proximal, mid, and distal SVG-R-PDA in 2005-07-25 00:00:00.
+2.  Hypercholesterolemia.
+3.  Hypertension.
+4.  History of tobacco use - quit > 40 yrs ago
+5.  Brachial Plexus injury
+
+
+
+
+Discharge Condition:
+The patient was discharged hemodynamically stable, afebrile with
+
+appropriate follow up.
+
+
+Discharge Instructions:
+1.  Please follow up with your PCP as described below.
+.
+2.  Please take all your medications exactly as prescribed and
+described in this discharge paperwork.
+We replace your atenolol with Toprol XL 50mg PO qday for your
+blood pressure and your heart.  Increased your statins to 80mg
+PO qday for your lipids and heart.  If you experience any
+dizziness, SOB, or any other symptoms, please contact your PCP
+directly for any adjustment of medications.
+
+.
+3.  Please call your doctor if you are experiencing chest pain,
+shortness of breath, fever, chills, or with any other concerning
+
+symptoms.
+
+
+Followup Instructions:
+Please follow up with your PCP, Clewis. Densil Clewis test@mail.com on
+2005-07-25 00:00:00 at 12:45pm for an appoitment.
+
+
+
+Completed by:2005-07-25 00:00:00

@@ -1,0 +1,323 @@
+Admission Date:  2006-06-10 00:00:00              Discharge Date:   2006-06-10 00:00:00
+
+Date of Birth: 1994-03-30 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Zayneb Cowan
+Chief Complaint:
+Bright red blood loss per rectum
+
+Major Surgical or Invasive Procedure:
+Colonoscopy
+
+
+History of Present Illness:
+Ms. Topor is a 79 yo female with h/o CAD, PVD, DM2, CKD and
+diverticulosis, who presented on 2006-06-10 00:00:00 with BRBPR on multiple
+BMs starting the day of arrival.  She had no cramping, pain,
+nausea, or other symptoms at the time.  VS were stable in the
+ED, and Hct was noted to be dropping from 35 recently to 30 and
+then to 27 with continued bloody BMs.
+
+ROS was negative for fevers, chills, unintentional weight
+changes, orthopnea, chest pain, dyspnea, abdominal pain, easing
+bruising, dysuria, and rashes.
+
+Past Medical History:
+- CAD s/p CABG 2006-06-10 00:00:00
+- PVD
+- CKD, stage III
+- HTN
+- DM2 complicated by retinopathy, nephropathy
+- diverticulosis; pt denied prior episodes of GIB
+- s/p toe amputation
+
+Social History:
+She is a retired administrator at 123 Any St. Inn. She works
+out at a senior gym three times a week.  She does not smoke
+cigarettes, drink alcohol, or use any recreational drugs. Her
+diet does contain a moderate amount of
+salt.
+
+
+Family History:
+Diabetes mellitus-- mother, brother, and sister
+Jaimeson Topor mother, father.
+There is no history of kidney disease.
+
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS on arrival to the floor: 98.4, 159/83, 82, 16, 98% RA
+General: Pleasant, conversant, overweight female in NAD
+Heent: MMM. Partial dentures.
+Neck: JVP flat.
+Cardiac: rate regular, soft II/VI systolic murmur at apex
+Lungs: : CTA b/l, No wheeze.
+Abdomen: obese, soft, + BS, NTND, no HSM. Rectal deferred
+Enxtremities: no edema 2+ R DP pulse, 1+ L DP pulse. SVG harvest
+scar left leg, s/p hallux amputation
+Neuro: AAO x 3, appropriate affect, CN grossly intact.
+
+
+Pertinent Results:
+ADMISSION LABS:
+2006-06-10 00:00:00 06:00PM BLOOD WBC-12.4* RBC-3.46* Hgb-10.1* Hct-30.1*
+MCV-87 MCH-29.2 MCHC-33.6 RDW-14.5 Plt Ct-307
+2006-06-10 00:00:00 01:52AM BLOOD Neuts-79.0* Lymphs-16.5* Monos-2.3
+Eos-1.7 Baso-0.4
+2006-06-10 00:00:00 06:00PM BLOOD Glucose-145* UreaN-48* Creat-1.9* Na-141
+K-4.5 Cl-107 HCO3-24 AnGap-15
+2006-06-10 00:00:00 01:52AM BLOOD Calcium-9.2 Phos-4.5 Mg-2.0
+
+CARDIAC ENZYMES
+2006-06-10 00:00:00 02:01AM BLOOD CK(CPK)-215*
+2006-06-10 00:00:00 05:50PM BLOOD CK(CPK)-469*
+2006-06-10 00:00:00 03:00AM BLOOD CK(CPK)-508*
+2006-06-10 00:00:00 05:50AM BLOOD CK(CPK)-479*
+2006-06-10 00:00:00 05:50AM BLOOD CK(CPK)-398*
+2006-06-10 00:00:00 02:01AM BLOOD CK-MB-7 cTropnT-<0.01
+2006-06-10 00:00:00 05:50PM BLOOD CK-MB-15* MB Indx-3.2 cTropnT-0.09*
+2006-06-10 00:00:00 03:00AM BLOOD CK-MB-11* MB Indx-2.2 cTropnT-0.07*
+2006-06-10 00:00:00 05:50AM BLOOD CK-MB-10 MB Indx-2.1 cTropnT-0.05*
+2006-06-10 00:00:00 05:50AM BLOOD CK-MB-9 cTropnT-0.04*
+
+2006-06-10 00:00:00 URINALYSIS:
+2006-06-10 00:00:00 03:19AM URINE Color-Straw Appear-Hazy Sp Topor-1.011
+2006-06-10 00:00:00 03:19AM URINE Blood-TR Nitrite-NEG Protein-TR
+Glucose-300 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-MOD
+2006-06-10 00:00:00 03:19AM URINE RBC-4* WBC-123* Bacteri-MANY Yeast-NONE
+Epi-1
+
+2006-06-10 00:00:00 URINE CULTURE:
+CORYNEBACTERIUM SPECIES (DIPHTHEROIDS). 10,000-100,000
+ORGANISMS/ML..
+ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------    16 I
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------    32 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ADMISSION ECG: NSR at 74 bpm, nl axis, nl intervals, no ischemic
+ST/Twave changes, one PVC, no concerning changes
+
+2006-06-10 00:00:00 COLONOSCOPY:
+Impression:
+Polyp in the sigmoid colon
+Diverticulosis of the sigmoid colon
+Stool in the whole colon
+The colon was long and tortuous.
+Grade 1 internal hemorrhoids
+Otherwise normal colonoscopy to proximal ascending colon
+Poor visualization of the cecum, ascending colon and sigmoid
+colon
+
+2006-06-10 00:00:00 TAGGED RBC BLEEDING SCAN:
+No active gastrointestinal bleeding is identified.
+
+2006-06-10 00:00:00 TAGGED RBC BLEEDING SCAN:
+No evidence of GI bleed at 90 min and at 6 hours.
+
+Brief Hospital Course:
+LOWER GI BLEED, LIKELY FROM DIVERTICULOSIS:
+Ms. Topor was admitted with BRBLPR, which began the day of
+admission and, per the patient, was the first time this had
+happened.  She had an NG lavage performed in the ED, which was
+negative.  Aspirin, metoprolol and lisinorpil were held on
+admission.  She remained hemodynamically, but was admitted to
+the MICU for observation.  She required two units of RBC's after
+having ongoing blood BM's with the colonoscopy prep.
+Colonosocpy performed on 2006-06-10 00:00:00 prior to transfer to the floor
+showed multiple divertculi but no active bleeding.  A single
+sessile polyp was noted but was not biopsied due to concern for
+causing bleeding; one-year follow-up was recommended for the
+polyp.
+
+After the colonoscopy she had no more blood loss for two days
+and was about to be discharged on 2006-06-10 00:00:00 when she rebled.  GI
+deferred an emergent scope.  A STAT tagged RBC bleeding scan was
+performed and was negative for ongoing bleeding.  IR angio
+embolization was deferred because of the negative RBC scan.  She
+required one unit of RBC's on 2006-06-10 00:00:00 to maintain Hct > 28 (the
+higher transfusion threshold was chosen because of the cardiac
+ischemia earlier in the week (see below)).
+
+Again, she rebled on 2006-06-10 00:00:00 and required a unit of blood.  The
+morning of 2006-06-10 00:00:00, she rebled a fourth time and received
+another unit (for a total of four over the course of the
+admission).  Another tagged RBC scan was ordered, which was
+negative.  Although she did not have blood loss from below
+thorughout the day, the scan was repeated about six hours after
+the morning study in the hopes that the source could be found
+(unfortunately, it was not).   General surgery was also
+consulted, but felt emergent surgery was not indicated beause
+she remained hemodynamically stable.
+
+Her last episode of blood loss was in the morning of 2006-06-10 00:00:00.
+She remained hemodynamically stable throughout.  Serial Hct's
+were stable and she was discharged with a Hct of 31.1.  she did
+have a bowel movement that was semi-formed and non-bloody prior
+to discharge.  She was sent home on metoprolol 12.5 mg UPMCE
+(compared to 50 mg UPMCE that she was on at admission), but
+lisinopril and aspirin were held.  Ultimately, it was suspected
+that her bleeding was secondary to diverticulosis, although the
+source was never definitely found on colonoscopy or tagged RBC
+scans.
+
+CHEST PAIN:
+On 2006-06-10 00:00:00 in the evening, she also complained of chest pain.  The
+first set of enzymes on 2006-06-10 00:00:00 at 2 am showed trop < 0.01, CK 215.
+ EKG showed diffuse ST changes, but unchanged from priors.
+Cyclic cardiac enzymes did increase, and it was flet she had
+some demand ischemia in the setting of the bleed.  Aspirin,
+which was initially discontinued on admission, was restarted on
+2006-06-10 00:00:00 given the ischemia.  However, on 2006-06-10 00:00:00 when she
+rebled, it was discontinued.  She was not sent home on aspirin,
+and the decision to restart has been deferred to the PCP.  Jaimeson Topor
+the one episode of chest pain, she remained asymptomatic
+throughout the rest of the hospitalization.  A higher
+transfusion threshold was kept (at Hct 28) given the cardiac
+ischemia.
+
+UTI:
+Although she denied symptoms, she was found to have an E. coli
+UTI.  She was initially treated empirically with ciprofloxacin,
+but was changed to Bactrim when sensitives were returned and
+showed ciprofloxacin resistance.  She was treated with a three
+day course.
+
+ISSUES FOR FOLLOW-UP:
+(1) VNA was given instructions to check Hct and fax to PCP, Topor.
+Topor, on 2006-06-10 00:00:00, the day after discharge.
+(2) She was scheduled to see Dr. Zayneb Cowan in cardiology as a new
+patient.  This appointment was originally scheduled for 2006-06-10 00:00:00,
+but was canceled when Ms. Topor remained in the hospital after
+the rebleed.  Housestaff were unable to make a new appointment
+wiht Dr.Jaimeson Topor office, and Ms. Topor was given their phone
+number to make an appointment for the next 1 - 2 weeks.
+(3) Aspirin and lisinopril were held and not restarted at
+discharge.  Her dose of metoprolol on discharge was also kept
+low at 12.5 mg UPMCE.  Titration of her BP meds and the decision
+to restart aspirin will be left to her PCP.
+(4) Ms. Topor needs a follow-up colonoscopy in one year with
+Dr.Jaimeson Topor to remove sigmoid polyp (area was not biopsied
+at time of in-patient colonocopy given bleeding risk).
+
+Medications on Admission:
+- aspirin 81 daily
+- lisinopril 40 daily
+- simvastatin 80 daily
+- metoprolol 50 twice daily
+- HCTZ 12.5 daily (?)
+- insulin lantus
+- cosopt eye gtt
+- xalatan eye gtt
+- naproxen prn (2006-06-10 00:00:00/month)
+- ca / vit d
+
+
+Discharge Medications:
+1. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation: You can take this to
+help keep your stools soft.
+Disp:*60 Capsule(s)* Refills:*2*
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+4. Calcium  Oral
+5. Vitamin D  Oral
+6. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic DAILY (Daily).
+7. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+8. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO twice a
+day: Please take a half tablet (12.5 mg) twice a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Insulin Glargine  Subcutaneous
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+Primary Diagnoses:
+(1) Lower GI bleed
+(2) Diverticulosis
+(3) Anemia
+
+Secondary Diagnoses:
+(1) Chronic kidney disease
+
+
+Discharge Condition:
+Stable-- satting in the mid to upper 90's on room air; no
+shortness of breath; no blood loss from below in 48+ hours prior
+to discharge; hematocrit stable and hemodynamically stable.
+
+
+Discharge Instructions:
+You were admitted with a bleed from your GI tract which was
+likely from your diverticuli, although the exact source of the
+bleeding could not be found on the colonoscopy or tagged red
+blood cell scans.  Your blood counts have been stable over the
+last two days, but your primary care doctor needs to check your
+blood counts later this week.  You should call your doctor if
+you notice any more blood loss.  If you cannot reach your doctor
+or if you have a lot of blood loss, feel dizzy or feel weak, you
+should return to the emergency room for an evaluation.
+
+You should follow the medication given to you on discharge.
+Your aspirin was stopped because of your bleeding; you should
+ask your primary care doctor when this should be restarted.
+
+One of your blood pressure medications (lisinopril) was also
+stopped because of the risk of low blood pressure with bleeding.
+ Your dose of metoprolol was decreased to 12.5 mg twice a day.
+You will talk to your primary care doctor on 2006-06-10 00:00:00 about
+restarting the lisinopril and increasing the metoprolol dose
+(she will check your blood pressure to see if the medications
+need to be increased).
+
+You will also have home physical therapy for strengthening and
+balance exercises.
+
+Please take your insulin at the same dose you were taking before
+you came into the hospital.
+
+Followup Instructions:
+You have the following appointments:
+
+(1) You have an appointment with your primary care doctor, Dr.
+Topor, on Topor, 2006-06-10 00:00:00, at 11:15 am.  The phone number is
+test@mail.com.
+
+(2) You should call to make an appointment with Dr. Zayneb Cowan in
+cardiology.  Please try to be seen in the next 1 - 2 weeks.
+Their office is on the 123 Any St. of the UPMCE Building on the
+UPMCE of UPMCE Hospital.  The phone number
+is (test@mail.com.
+
+Also, you are having your blood counts checked on Thursday, 2006-06-10 00:00:00.  The visiting nurse will draw your blood and fax the results
+to Dr. Topor to review.  She will call you if there are any
+problems.
+
+
+

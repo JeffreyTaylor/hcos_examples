@@ -1,0 +1,235 @@
+Admission Date:  2010-12-09 00:00:00              Discharge Date:   2010-12-09 00:00:00
+
+Date of Birth: 1935-12-09 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Jeston Biccum
+Chief Complaint:
+lethargy, DKA
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+37F with PMH DM1, transferred from OSH for lethargy and DKA. Pt
+relates that last week she developed severe headaches for which
+her PCP got an MRI and diagnosed her with cluster headache. She
+had a tooth filled 3 week prior, and last week damaged the tooth
+opening a bottle with it. Her dentist again filled the tooth
+last Friday and over the past week she has been treated for a
+right sided tooth infection, initially with amoxicillin, but she
+developed worsened pain and was switched to flagyl. On Saturday
+she noted significantly increased right sided facial swelling
+and pressure. Two days prior to admission, she experienced
+drainage of purulent material from the gums surrounding the
+infected tooth. Denies fever, chills, diarrhea, dysuria, pelvic
+pain, cough, sputum production. She concommitently developed
+fatigue, lethargy, vomiting, nausea with decreased PO intake.
+She has been taking her usual insulin regimen of lantus 16 Qhs
+plus mealtime lispro 3-5unit SS, with finger sticks not above
+208. At the OSH, labs included glucose 389, AG 18, for which she
+got 4L IVF, 6U IV insulin, started on insulin gtt.
+.
+In the ED inital vitals were, T 98.9 HR 115 BP 118/74 RR 20 Sat
+100%RA, FSG 172. Insulin drip was stopped but was restarted with
+D5NS @ 150cc/hr at 9:15pm for AG 18, glucose 201. Patient got a
+total of 5L in ED. UA showed ketones, no clear evidence for UTI.
+Lactate 1.4, WBC 12.6, Bicarb 8, K+ 3.2, repleted with 40units
+K+. Given metoclopramide and ondansetron for nausea (2 episodes
+of vomitting in the ED), morhine for pain, and unasyn 3gm for
+tooth infection. No evidence of molar abscess, per ED. CXR
+showed no signs of infection.
+.
+Prior to transfer, most recent VS:T 98.6, Pulse: 100, RR: 18,
+BP: 122/74, O2Sat: 100.
+.
+On arrival to the ICU, VS T 97.8, HR 100, BP 112/75, RR 24, Sat
+100%RA, FS 217. Patient was comfortable without complaints.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies cough, shortness of breath, or wheezing. Denies
+chest pain, chest pressure, palpitations, or weakness. Denies
+diarrhea, constipation, abdominal pain, or changes in bowel
+habits. Denies dysuria, frequency, or urgency. Denies
+arthralgias or myalgias. Denies rashes or skin changes.
+
+Past Medical History:
+Migraines
+PID
+type 1 diabetes
+
+Social History:
+Ms. Savo works as a practice manager at the podiatry clinic at
+UPMCE.  She lives with her husband and 2 children.  She has a
+history of smoking (1 pack/3-4days), quit several years ago.
+Reports rare social alcohol, denies recreational drugs.
+
+
+Family History:
+Mother and father are both healthy.  No history of breast
+cancer, no family history of diabetes.
+
+Physical Exam:
+Admission Exam:
+Vitals: VS T 97.8, HR 100, BP 112/75, RR 24, Sat 100%RA, FS 217.
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear. 1st molar on top
+right with drilled hole, no current erythema or purulent
+drainage. Missing 3rd molar on top right.
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Tachycardic, regular rhythm, normal S1 + S2, 2/6 systolic
+murmur over LLSB, rubs, gallops
+Abdomen: soft, non-tender, mildly distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Na 137, K 3.2, Cl 111, bicarb 8, BUN 8, Cr 0.6, Gluc 177 Anion
+Gap: 18
+Lactate 1.4
+WBC 12.6 (N 68.7%), hgb 11.7, hct 34.7, plt 244
+UA: 150 ketones, glucose 1000, few bacteria, neg leuks and
+nitrates, 7 epi.
+.
+Micro:  2010-12-09 00:00:00 blood cultures x2 no growth to date
+.
+Images:  2010-12-09 00:00:00 CXR: The lungs are clear. The cardiomediastinal
+and hilar
+contours are normal. There are no pleural effusions or
+pneumothorax.
+Minimal atelectasis in the left lower lobe.
+IMPRESSION: No acute cardiopulmonary process.
+.
+EKG 2010-12-09 00:00:00: sinus tachycardia UPMCE-wave inversions, no
+priors
+.
+EKG 2010-12-09 00:00:00: Sinus rhythm. Compared to the 123 Any St.us tracing of
+2010-12-09 00:00:00 the
+ischemic-appearing ST-T wave changes have improved but ST-T wave
+
+abnormalities persist. Followup and clinical correlation are
+suggested.
+QTc 417.
+
+
+
+Brief Hospital Course:
+37F with PMH DM1, admitted to the ICU for lethargy and DKA.
+.
+# DKA/DMI: Patient presented to OSH with elevated BG >300, urine
+ketones, and an AG of 18 as well as nausea, vomitting, h/o
+fever. DKA appears to have been instigated by tooth infection.
+Patient has no other obvious source of infection, CXR showed no
+signs of acute process. Nausea managed with reglan. Electrolytes
+(K+, phos, Ca+, Mg) checked frequently and repleted as needed.
+Patient was maintained on an insulin drip with D5W given BG<200.
+AG trended: 18->12->11. Drip stopped briefly overnight for
+decreased BG in 60s. Restarted and in the morning, patient was
+transitioned over to home regimen of 16units glargine and HISS
+with dicontinuation fo D5W. Patient was given a DM diet. AG
+reopened slightly to 14 and HISS was uptitrated. 8pm AG
+normalized to 10. Urine hcg negative, trop neg x2. ECG x2 both
+showing sinus tachycardia with t-wave inversions. No suggestion
+of cardiac event. Savo was consulted, who made some revisions
+to her insulin sliding scale and will arrange for outpatient
+follow-up for the patient with her regular Savo provider. Jamonta Savo
+note, her A1C is >11.7 and the patient acknolwedges poor
+follow-up with Savo in the past (yearly, at best).
+.
+# Mixed anion gap and nonanion gap acidosis: Patient has an AG
+acidosis with AG of 18 on presentation, which can be explained
+by the DKA/ketoacidosis.  Her delta gap is 2 (18/16), suggesting
+a mixed acidosis. Her non anion gap acidosis is possibly
+multifactorial: vomitting vs. hyperchloremic (Cl 111) likely due
+to IVF resuscitation. Nausea was managed with reglan and NS
+fluids were avoided. Bicarb on presentation was 8, and within a
+day improved to 20. DKA was treated as above.
+.
+# Hypokalemia: In ED, patient with K+ 3.2. Got 40meq re[** Location **]n,
+just prior to arrival to floor. Patient at risk for low
+potassium with treatment for DKA. Potassium was checked q4h
+while on insulin drip and repleted as needed. Her potassium
+levels stabilized.
+.
+# Tachycardia: Patient remained in the 90s-100s HR. Given DKA,
+she was likely volume depleted. Patient does have signs of a
+tooth infection, so sepsis is possible, however blood pressures
+remain in the 110s/80s. Patient had elevated HR and increased
+WBC. Not febrile or hypothermic, breathing at a comfortable
+rate. She was maintained on IVFs initially and monitored on
+telemetry, without events. 2 EKGs showed sinus tachycardia with
+t-wave inversions. Patient denied chest pain, has been nauseous
+(attributed to DKA and infection), and trops negative x2.
+Patient was treated for her infection and volume resuscitated,
+with resolution of tachycardia.
+.
+# Tooth infection: Patient with recent instrumentation and
+evidence of tooth infection for which she has been treated with
+ampicillin and flagyl with continued symptoms. She was given an
+initial dose of unasyn 3gm in the ED (D1 2010-12-09 00:00:00 in PM), which
+was continued q6h during hospitalization. Patient was with some
+gum swelling on exam but no tenderness or purulent drainage. WBC
+12.6 on admission and decreased to WNL thereafter. She was
+transitioned to Augmentin upon transfer from the ICU to the
+regular medicine floors without issues.
+
+# Anemia: During this admission the patient's hct trended down
+to a nadir of 26 on the day of discharge. There was no evidence
+of bleeding. On review of prior hospitalizations the patient's
+hct does range from the high 20's to low 30's. MCV was normal,
+which suggests ACD. The patient was notified that she should
+have her anemia further evaluated as an outpatient, and was
+educated about signs and symptoms of bleeding.
+
+Medications on Admission:
+Glargine 16U Qhs
+Lispro Insulin
+
+Discharge Medications:
+1. insulin glargine 100 unit/mL Cartridge Sig: Sixteen (16)
+Subcutaneous at bedtime.
+2. Humalog 100 unit/mL Cartridge Sig: See attached scale
+Subcutaneous four times a day.
+3. amoxicillin-pot clavulanate 875-125 mg Tablet Sig: One (1)
+Tablet PO Q12H (every 12 hours) for 3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Diabetes, type I
+Diabetic ketoacidosis
+Dental infection
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted with diabeticketoacidosis that likely
+developed due to a tooth infection. You were treated with IV
+fluids, insulin and antibiotics and you improved.
+
+Followup Instructions:
+Please call Savo Diabetes Center (test@mail.com to schedule a
+follow up appointment within the next month.
+
+Please call UPMCE test@mail.com to schedule a
+follow up appointment with your primary care doctor in the next
+two weeks.
+
+
+

@@ -1,0 +1,256 @@
+Admission Date:  2014-04-25 00:00:00              Discharge Date:   2014-04-25 00:00:00
+
+Date of Birth: 1999-04-21 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Jamille Kordell
+Chief Complaint:
+chest pressure with exertion
+
+
+Major Surgical or Invasive Procedure:
+2014-04-25 00:00:00
+Coronary artery bypass grafting x3 with
+left internal mammary artery graft to left anterior
+descending, reverse saphenous vein graft to the marginal
+branch and diagonal branch.
+
+
+History of Present Illness:
+75 year old male with history of diabetes and hyperlipidemia
+referred by PCP for exercise stress test for symptoms of chest
+discomfort with exertion. He reports that he is quite active but
+recently has noticed that his walking is limited by left sided
+chest pressure that resolves with rest. ETT demonstrated 2-4 mm
+horizontal ST segment depressions inferiorly and in leads V4-V6.
+In addition, ST segment elevation was noted in lead aVR. He was
+also symptomatically hypotensive with lightheadedness. He now
+underwent cardiac catheterization that revealed significant
+coronary artery disease.
+
+Past Medical History:
+coronary artery disease, s/p CABG
+hypertension
+hyperlipidemia
+type 2 DM
+pericarditis 2014-04-25 00:00:00
+recent shingles
+peripheral neuropathy
+s/p R 4th trigger finger release
+s/p banding internal hemorrhoids
+
+
+Social History:
+Lives with wife.
+Worked at Sears and the Museum of Fine Arts - now retired.
+Denies hx of smoking.
+Drinks 2-3 glasses of wine each week.
+Denies illict drug use.
+
+Family History:
+Mother: stroke, CABG (80s)
+Sister: Diabetes
+
+
+Physical Exam:
+VS: 125/67 60 18 97%RA
+GENERAL: Thin elderly male, NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Mild erythema of
+posterior oropharynx
+NECK: Supple, no JVD, no carotid bruits
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. Left radial site for cath
+clean/dry/intact, good radial pulses, no hematoma
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+
+
+Pertinent Results:
+Echocardiography
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.9 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.0 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm
+Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aorta - Annulus:  2.1 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.1 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.6 cm  <= 3.0 cm
+Aorta - Ascending:  3.1 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.2 cm  <= 2.5 cm
+Findings
+LEFT ATRIUM: Elongated LA. Good (>20 cm/s) LAA ejection
+velocity. No thrombus in the LAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. No ASD by 2D
+or color Doppler.
+LEFT VENTRICLE: Normal LV wall thickness. Small LV cavity.
+Mildly depressed LVEF.
+RIGHT VENTRICLE: Mildly dilated RV cavity. Borderline normal RV
+systolic function.
+AORTA: Simple atheroma in descending aorta. No thoracic aortic
+dissection.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+MITRAL VALVE: Normal mitral valve leaflets. Mild (1+) MR.
+TRICUSPID VALVE: TVP. Mild to moderate [2014-04-25 00:00:00+] TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Mild PR.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. Results were personally reviewed with the MD
+caring for the patient.
+Conclusions
+PRE-CPB:
+The left atrium is elongated. No thrombus is seen in the left
+atrial appendage. No atrial septal defect is seen by 2D or color
+Doppler.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is unusually small. Overall left ventricular
+systolic function is mildly depressed (LVEF= 40-45 %). The right
+ventricular cavity is mildly dilated with borderline normal free
+wall function.
+There are simple atheroma in the descending thoracic aorta. No
+thoracic aortic dissection is seen.
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic stenosis. No aortic
+regurgitation is seen.
+The mitral valve leaflets are structurally normal. Mild (1+)
+mitral central regurgitation is seen. Tricuspid valve prolapse
+is present.
+POST-CPB:
+LV systolic function remains unchanged, estimated EF=45%. There
+is no evidence of dissection.
+
+2014-04-25 00:00:00 06:15AM BLOOD WBC-9.4 RBC-3.32* Hgb-10.1* Hct-29.6*
+MCV-89 MCH-30.4 MCHC-34.1 RDW-13.2 Plt Ct-153
+2014-04-25 00:00:00 06:20AM BLOOD WBC-10.7 RBC-3.44* Hgb-10.2* Hct-29.9*
+MCV-87 MCH-29.7 MCHC-34.2 RDW-12.9 Plt Ct-119*
+2014-04-25 00:00:00 04:30AM BLOOD UreaN-15 Creat-0.9 Na-137 K-4.2 Cl-100
+2014-04-25 00:00:00 06:15AM BLOOD Glucose-145* UreaN-17 Creat-0.9 Na-138
+K-4.4 Cl-100 HCO3-31 AnGap-11
+
+Brief Hospital Course:
+The patient was brought to the operating room on 2014-04-25 00:00:00 where
+the patient underwent CABG x 3 as detailed in Dr.Amyriah Musick
+operative note.  Overall the patient tolerated the procedure
+well and post-operatively was transferred to the CVICU in stable
+condition for recovery and invasive monitoring.
+POD 1 found the patient extubated, alert and oriented and
+breathing comfortably.  The patient was neurologically intact
+and hemodynamically stable, weaned from inotropic and
+vasopressor support.  Beta blocker was initiated and the patient
+was gently diuresed toward the preoperative weight.  The patient
+was transferred to the telemetry floor for further recovery.
+Chest tubes and pacing wires were discontinued without
+complication.  The patient was evaluated by the physical therapy
+service for assistance with strength and mobility.  By the time
+of discharge on POD 4 the patient was ambulating freely, the
+wound was healing and pain was controlled with oral analgesics.
+The patient was discharged home with VNA in good condition with
+appropriate follow up instructions.
+
+Medications on Admission:
+Atorvastatin 40mg daily
+Glipizide 2.5mg daily
+Metformin 1000mg UPMCE
+Aspirin 162mg daily
+
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. glipizide 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0*
+5. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+6. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*0*
+7. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day for
+5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+8. potassium chloride 20 mEq Packet Sig: One (1) Packet PO once
+a day for 5 days.
+Disp:*5 Packet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE VNA
+
+Discharge Diagnosis:
+Coronary artery disease s/p CABG
+Hypertension
+Hyperlipidemia
+Diabetes mellitus type 2
+Pericarditis
+Shingles
+Peripheral neuropathy
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Deconditioned
+Incisional pain managed with
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage.
+Edema 1+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr Musick test@mail.com on 2014-04-25 00:00:00 at 1:15pm
+Cardiologist: Dr Musick on 2014-04-25 00:00:00 at 8:00am (cardiologist that did
+cardiac cath and referral from PCP)
+Primary Care: Dr Musick test@mail.com on 2014-04-25 00:00:00 at 10:15am
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:2014-04-25 00:00:00

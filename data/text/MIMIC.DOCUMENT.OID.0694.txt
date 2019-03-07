@@ -1,0 +1,220 @@
+Admission Date:  2009-11-10 00:00:00              Discharge Date:   2009-11-10 00:00:00
+
+Date of Birth: 1985-11-10 00:00:00 00:00:00             Sex:   M
+
+Service: UROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Daylani Baumgarth
+Chief Complaint:
+BPH
+
+Major Surgical or Invasive Procedure:
+TURP 2009-11-10 00:00:00
+
+
+History of Present Illness:
+The patient is a 66-year-old male who underwent 2 procedures at
+an outside hospital for treatment of BPH and now presents with
+recurrent symptoms.
+
+
+Past Medical History:
+BPH, arthritis, GERD, gastric ulcers, depression, anxiety
+
+Social History:
+He smokes 2009-11-10 00:00:00 pack per day and does not drink alcohol.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+On Discharge:
+VS: Temp 97.7, HR 72, BP 102/60, RR 18, O2 sat 95% on room air
+Gen: NAD, alert and oriented
+CV: RRR
+Pulm: clear bilaterally
+Abd: soft, nontender, nondistended
+GU: foley with light pink urine
+
+Pertinent Results:
+Post-op CBC:
+2009-11-10 00:00:00 02:48PM BLOOD WBC-7.6 RBC-4.99 Hgb-15.7 Hct-45.9 MCV-92
+MCH-31.5 MCHC-34.2 RDW-13.2 Plt Ct-182
+
+Work up for altered mental status:
+2009-11-10 00:00:00 05:23PM BLOOD WBC-7.6 RBC-4.17* Hgb-12.9* Hct-37.9*
+MCV-91 MCH-31.0 MCHC-34.1 RDW-13.7 Plt Ct-139*
+2009-11-10 00:00:00 05:23PM BLOOD Neuts-83.2* Lymphs-9.7* Monos-4.9 Eos-2.1
+Baso-0
+2009-11-10 00:00:00 05:23PM BLOOD PT-14.0* PTT-29.1 INR(PT)-1.2*
+2009-11-10 00:00:00 05:23PM BLOOD Glucose-100 UreaN-13 Creat-0.8 Na-144
+K-3.5 Cl-115* HCO3-22 AnGap-11
+2009-11-10 00:00:00 05:23PM BLOOD ALT-8 AST-13 LD(LDH)-116 AlkPhos-48
+Amylase-30 TotBili-0.7
+2009-11-10 00:00:00 05:23PM BLOOD Lipase-15
+2009-11-10 00:00:00 12:01PM BLOOD CK-MB-4 cTropnT-<0.01
+2009-11-10 00:00:00 05:23PM BLOOD Albumin-2.7* Calcium-7.1* Phos-2.5*
+Mg-1.8
+2009-11-10 00:00:00 12:01PM BLOOD Ammonia-9*
+2009-11-10 00:00:00 05:23PM BLOOD Cortsol-8.9
+2009-11-10 00:00:00 12:17PM BLOOD Type-ART pO2-192* pCO2-38 pH-7.43
+calTCO2-26 Base XS-1 Intubat-NOT INTUBA
+2009-11-10 00:00:00 03:01PM BLOOD Lactate-1.3
+
+
+Brief Hospital Course:
+Mr. Kurland was admitted and underwent a successful TURP on
+2009-11-10 00:00:00.  He was transferred to the floor post-operatively.  He
+had no pain control issues and onlly required 1 dose of
+morphine.  In the early morning of POD1 he was triggered for a
+systolic blood pressure of 88 when he had 123 Any St.usly been
+averaging 100-110.  Later that day the patient became somnolent
+and hard to arouse.  On exam he withdrew and localized to pain
+bilaterally, but would not wake up.  His vital signs were stable
+and his oxygen saturation was 98% on room air.  His medication
+list was reviewed and he had received a total of 450mg of
+amitriptyline and 3.0mg of klonopin.  At this point, multiple
+attempts were made to contact his primary care physician to
+verify his home medications and their doses.  He was triggered
+again by the nursing staff for mental status changes.  A
+complete work-up was initiated at this time including full labs,
+ABG, CXR, EKG, and a neurology consult.  CXR revealed low lung
+volumes otherwise normal.  The ABG and labs were normal.  His
+EKG and cardiac enzymes were normal.  During this work up his
+systolic blood pressure dropped to a low of 78.  He was bolused
+with normal saline, pan-cultured, and ampicillin and gentamicin
+were started empirically for possible sepsis.  At this point his
+mental status was improving, he was arousable, was talking in
+Russian, and able to follow simple commands like squeezing
+fingers and opening his eyes.  Neurology evaluated the patient
+and they were finally able to get in touch with a staff member
+from Dr.Damarien Kurland office and his medication list was reviewed,
+which revealed that the patient stated he was taking
+amitriptyline 150mg TID when in reality he was only supposed to
+be taking 25mg UPMCE.  They felt that his hypotension and
+somnolence were most likely secondary to TCA overdose in the
+light of his work-up coming back negative and his slight
+improvement in mental status.  Due to TCA overdose causing
+arrythmias, he was transferred to the intensive care unit for
+close cardiac monitoring overnight.  His foley catheter was
+replaced prior to transfer to the ICU.  His ICU course can be
+reviewed below.  On POD2 in the ICU his mental status was back
+to baseline.  His labwork and EKG's remained normal.  His foley
+was discontinued and he voided without difficulty.  He was
+tolerating a regular diet and ambulating without difficulty.
+His medication list was reviewed with the patient and a Russian
+interpreter.  He was told of his need for close follow up with
+his primary care physician.  Damarien Kurland was given a correct list of his
+medications and their correct dosing and instructed to carry
+this with him at all times to prevent any confusion in the
+future.  He was instructed on his follow up with Dr. Daylani Baumgarth.  His
+only questions were about his activity level and his
+prescriptions which were answered accordingly.  He is discharged
+in good condition.
+
+UPMCE Course 2009-11-10 00:00:00:
+1. Decreased mental status: Differential included toxic
+encephalopathy from TCA overdose (patient quoted physician wrong
+home dose), metabolic from infection (sepsis) though he is
+afebrile with a stable WBC count. Stroke is less likely given
+relatively normal neuro exam. Seizure less likely. Hypoperfusion
+from hypotension possible.
+- consulted toxicology, who suggested monitoring with serial
+EKG's to ensure QRS duration less than 100ms, no indication for
+activated charcoal as last dose was at 9AM, and bicarb drip only
+indicated if QRS greater than 100ms. Therefore, q2h EKGs were
+performed with QRSs 88-90ms. His TCA was held and on the
+following morning, patient's mental status was back to baseline
+and no events were noted on telemetry.  Patient had an EKG with
+normal QRS intervals.
+- Patient also was treated for possible infection with one dose
+of ampicillin and gentamycin.  Urine and blood cultures ordered
+and showed no growth at day 1. Patient improved so rapidly from
+the suspected TCA overdose that he recieved no further
+antibiotics.
+.
+2. Relative Hypotension: Differential included medication
+effect, hemorrhage, sepsis.  Hypotension resolved with IVF
+boluses and holding of TCA.
+.
+3. BPH s/p TURP: continued home meds and pyridium.  Continuous
+bladder irrigation was held to evaluate urine output.  Patient
+was voiding after foley removal on discharge.
+.
+4. Ambulation: Patient was able to ambulate around unit
+unassisted prior to discharge home.
+.
+5. Depression: Home doses were resumed on discharge.
+
+
+Medications on Admission:
+Detrol 5 mg daily
+Flomax 0.4 mg daily
+Proscar 5 mg daily
+Prozac 20 mg daily
+Omeprazole 20 mg daily
+Amitriptyline 25 mg UPMCE
+Clonezepam 0.5 mg UPMCE
+
+
+Discharge Medications:
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+2. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+4. Tolterodine 4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO once a day.
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+5. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+6. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain, temp>101.
+7. Pyridium 200 mg Tablet Sig: One (1) Tablet PO three times a
+day for 7 days.
+Disp:*21 Tablet(s)* Refills:*0*
+8. Cipro 500 mg Tablet Sig: One (1) Tablet PO twice a day for 3
+days.
+Disp:*6 Tablet(s)* Refills:*0*
+9. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Benign Prostatic Hypertrophy
+Amitriptyline Overdose
+
+
+Discharge Condition:
+Good, ambulating unassisted and voiding after removal of foley.
+
+
+Discharge Instructions:
+Call your physician if you experience:
+- fever > 101.5
+- chills
+- increasing pain not relieved by medication
+- no urine output
+
+You may take tylenol for pain.  You will be give pyridium to
+help prevent bladder spasms, you can take this 3 times a day for
+1 week.  You will be given an antibiotic, take it until all the
+pills are gone.
+
+Followup Instructions:
+Follow up with Dr. Daylani Baumgarth in 2 weeks.  Call his office at (test@mail.com to schedule your appointment.
+
+Follow up with your primary care physician, Kurland. Kurland, in 1
+week to go over your medications.
+
+
+

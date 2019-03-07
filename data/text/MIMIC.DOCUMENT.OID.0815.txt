@@ -1,0 +1,227 @@
+Admission Date:  2008-10-03 00:00:00              Discharge Date:   2008-10-03 00:00:00
+
+Date of Birth: 1962-10-01 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Codeine
+
+Attending:Beyan Shahwan
+Chief Complaint:
+melena, chest pain.
+
+Major Surgical or Invasive Procedure:
+EGD, 2008-10-03 00:00:00.
+
+History of Present Illness:
+63M with history of HTN and Hypercholesterolemia presents with a
+one-week history of melena and chest pain.
+.
+The patient underwent a Colonoscopy and EGD on 2008-10-03 00:00:00 after he
+was found to be guaiac positive by his PCP in early 2008-10-03 00:00:00.
+Colonoscopy showed diverticulosis of the sigmoid colon and
+proximal ascending colon. EGD revealed a polyp in the pylorus
+and a polyp in the second part of the duodenum, both of which
+were biopsied. The procedure was uncomplicated and the patient
+was discharged home. Two days later he developed black, tarry
+stools, approximately two episodes per day for five days. Over
+this time he also developed 2008-10-03 00:00:00 substernal chest pressure
+associated with climbing stairs and walking on an incline, and
+relieved with rest. The pain was non-radiating and associated
+with SOB and dizziness, but not N/V, diaphoresis or
+palpitations. He went to church on the day prior to admission
+and was walking with a friend who is a nurse who told him that
+he looked pale and that he should see a doctor. He had an
+additional episode of chest pain and melena and decided to
+present to the ED.
+.
+In the ED, the patient was hemodynamically stable with BP 129/60
+and HR 80. His cardiac enzymes were positive and he was given an
+ASA and the plan was admission to UPMCE. His hct returned at 23.6
+(down from 44 in 2008-10-03 00:00:00) and he had guaiac positive stool. He
+was admitted to the MICU for observation.
+
+
+Past Medical History:
+1. HTN
+2. Hypercholesterolemia
+3. s/p Hernia Repair
+4. Stress test "years ago" which was "normal"
+
+Social History:
+Lives in UPMCE with his wife. They have three grown
+children. Works as a copier technician. Denies smoking. Rare
+EtOH.
+
+Family History:
+Mother died at age 85 of Alzheimers Dementia. Father died of a
+fall in his 60s. Sister died age 65 of breast CA met to brain.
+Has one sister and one brother who are alive and well.
+
+
+Physical Exam:
+On admission to the MICU:
+Vitals: T 98.2 BP 129/60 HR 80 RR 16 100%RA
+Gen: well-appearing man in NAD
+HEENT: conjunctiva pale, sclerae anicteric, PERRL, EOMI, dry
+mucous membranes, OP clear
+Neck: supple, FROM, no JVD or LAD
+Lung: CTA bilaterally
+Cor: RRR, nml S1S2, 2008-10-03 00:00:00 late-peaking systolic ejection murmur
+loudest at LLSB
+Abd: NABS, soft NTND
+Ext: no c/c/e
+Neuro: grossly non-focal
+
+
+Pertinent Results:
+On admission, 2008-10-03 00:00:00:
+HCT-27.6*
+CK(CPK)-99 CK-MB-8 cTropnT-0.07*
+HCT-23.7*
+GLUCOSE-90 UREA N-27* CREAT-0.9 SODIUM-145 POTASSIUM-3.7
+CHLORIDE-111* TOTAL CO2-25 ANION GAP-13
+CK(CPK)-128 cTropnT-0.08* CK-MB-12* MB INDX-9.4*
+CALCIUM-9.0 PHOSPHATE-2.4* MAGNESIUM-1.8
+WBC-6.3 RBC-2.87*# HGB-8.6*# HCT-23.6*# MCV-82 MCH-29.9
+MCHC-36.4* RDW-15.5
+NEUTS-76.5* LYMPHS-17.5* MONOS-4.8 EOS-1.1 BASOS-0.1
+POIKILOCY-1+
+PLT COUNT-103* PT-12.7 PTT-24.1 INR(PT)-1.1
+.
+CXR (2008-10-03 00:00:00): No acute cardiopulmonary process.
+.
+EKG (2008-10-03 00:00:00): NSR at 75bpm, left axis deviation, nml intervals,
+no ST changes, TWF II,III, avL (new) and V5-6 (unchnaged)
+.
+Colonoscopy (2008-10-03 00:00:00): Diverticulosis of the sigmoid colon and
+proximal ascending colon
+.
+EGD (2008-10-03 00:00:00): Polyp in the pylorus. Polyp in the second part of
+the duodenum. Cold forcep biopsies of each polyp were performed.
+
+.
+TTE: The left atrium is moderately dilated. There is mild
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. Overall left ventricular systolic
+function is normal (LVEF>55%). Right ventricular chamber size
+and free wall motion are normal. The aortic root is moderately
+dilated. The aortic valve leaflets are mildly thickened. There
+is no aortic valve stenosis. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Moderate (2+)
+mitral regurgitation is seen. The estimated pulmonary artery
+systolic pressure is normal. There is a trivial/physiologic
+pericardial effusion.
+
+
+Brief Hospital Course:
+Hospital course by problem:
+.
+# GIB: Pt presented with melena which was thought most likely
+due to an upper GI bleed as a complication of his polypectomy
+seven days prior to admission.  Because of his dramatic drop in
+hematocrit, he was admitted to the MICU for observation.  In the
+MICU he remained hemodynamically stable and was transfused a
+total of 5 U PRBC's with his hematocrit correcting to 31-32.  He
+underwent emergent EGD on 2008-10-03 00:00:00 which showed an ulcer located
+at the pylorus.  The edges of the ulcer were cauterized, the pt
+tolerated the procedure well and had no complications.  He
+returned to the MICU where he was again stable and his Hcts x
+24h remained 31-32.  He was transferred to the medicine floor
+the morning of 2008-10-03 00:00:00.  His hcts did not change while on the
+floor and he was discharged home with plans to f/u with GI in
+2008-10-03 00:00:00 days to monitor his hct and a proton-pump inhibitor 4-mg UPMCE
+x 14 days and then qd thereafter.
+.
+# Demand ischemia/CAD.  Pt was admitted with CP on mild exertion
+in the setting of his GIB.  On admission he had elevated cardiac
+enzymes (weakly positive CKMB and troponin) and no concerning
+EKG changes.  He was admitted with the plan to folow his
+enxzymes.  His ASA was held.  He was seen by the cardiology
+service who took him off his CCB, started beta blockade,
+recommended transfusion to goal Hct 30-35 and continuation of
+his statin.  His CK/CKMB were never positive after the first day
+of admission.  His Tpn trended up to 0.10 and then to 0.14 on
+2008-10-03 00:00:00.  However, he remained hemodynamically stable,
+symptom-free, and was able to walk around the floor extensively
+without symptoms.  He is instructed to call Dr.Jayan Kamphaus office in
+the cardiology clinic to arrange follow-up and schedule and
+outpatient stress test.
+.
+#. FEN.  His electrolytes were within normal limits throughout
+his stay.  He was started on a clear liquid diet on 2008-10-03 00:00:00.  On
+2008-10-03 00:00:00 he was able to tolerate soft solids and his diet was
+advanced to a regular heart healthy diet.  On the day of
+discharge he was able to take normal po's and was hydrating
+himself adequately.
+.
+#. Code status: FULL CODE.
+.
+#. Dispo.  The pt is discharged to home in good condition.  He
+will start a new medication regimen that includes PPI,
+betablocker and statin.  He will need a capusle endoscopy and
+will f/u with Dr. Jayan in the GI department.  He has a scheduled
+follow-up [**First Name9 (NamePattern2) 5692**] Kamphaus Dr. Beyan Shahwan in the cardiology department
+on 2008-10-03 00:00:00 for evaluation and to schedule an ETT/MIBI.
+.
+
+
+Medications on Admission:
+1. Lipitor, unknown dose
+2. Norvasc 10mg daily
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day: Please take
+this medication twice a day for 2 weeks and then decrease to
+once daily.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Bleeding pyloric ulcer
+Cardiac demand ischemia
+Hypertension
+Hypercholesterolemia
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Please take all your medications as directed.
+Please discontinue taking Norvasc; This medication will be
+replaced with Metoprolol.
+
+If you experience return of chest pain, shortness of breath,
+fever > 101, inability to do your daily activities, blood in
+your bowel movements, increased fatigue, or any other concerning
+symptoms, please call your PCP or come to the emergency room for
+evaluation.
+
+Followup Instructions:
+You have an appointment with Dr. Beyan Shahwan (Cardiology) at
+123 Any St., Suite 7C on Friday 2008-10-03 00:00:00 at 9:00AM.
+test@mail.com
+
+Dr.Jayan Kamphaus office (Gastroenterology) will call you to inform you
+of your follow-up apppointment.  If you do not hear from them in
+the next 2 days, please call test@mail.com to confirm your
+appointment.
+
+Please see your PCP Jayan Kamphaus,[**First Name3 (LF) 248**] Jayan Kamphaus. test@mail.com within 2008-10-03 00:00:00
+weeks.
+
+
+
+Completed by:2008-10-03 00:00:00

@@ -1,0 +1,613 @@
+Admission Date:  2010-03-30 00:00:00              Discharge Date:   2010-03-30 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Penicillins / Sulfa (Sulfonamides)
+
+Attending:Jivan Crowston
+Chief Complaint:
+Rectal bleeding
+
+Major Surgical or Invasive Procedure:
+-Angiography
+-Subclavian cordis / left subclavian central line placed 2010-03-30 00:00:00,
+removed 2010-03-30 00:00:00
+-Colonoscopy
+
+History of Present Illness:
+Mrs. Yeatts is a 64-year-old female with a PMH significant
+for Celiac Disease, hemorrhoids, old CVA (2010-03-30 00:00:00), hypertension,
+hypothyroidism, and known cecal AVM who was recently admitted to
+UPMCE (2010-03-30 00:00:00) with a large GIB 5 days prior to this
+admission. At that time her Hct was 19, NGL negative, transfused
+several units of blood to bring her Hct up to 35. No colonoscopy
+performed given her overall good clinical stability and
+discussion about risks/benefit of procedure. Patient was
+discharged home yesterday and was doing well until the day of
+admission to this hospital, when she had several episodes of
+BRBPR, associated with lightheadedness, but no CP/SOB. Also
+complained of some lower abdominal cramping discomfort that was,
+at worse, 2010-03-30 00:00:00 in severity and felt better after having a bowel
+movement. Bleeding occurred in the setting of her bowel
+movements. She had been on Aggrenox for an old CVA, but this was
+held in the middle of 2010-03-30 00:00:00, several days before her last
+admission.
+.
+Patient has a history of LGIB in 2010-03-30 00:00:00, found to have large AVM
+on c-scope that was clipped. No subsequent scopes or bleeding
+until now.
+.
+In the ED, initial vitals: 98.4, 89, 152/71, 18, 96% RA. The Hct
+was 36.5. On rectal exam by ED resident, hemorrhoids were noted,
+and there was BRB in the vault but no active source seen. GI was
+consulted. Three PIVs (two 16g and one 18g)were placed and the
+patient was typed and crossed by blood bank for 4 units PRBCs.
+.
+On arrival in MICU, she had no complaints and appeared fairly
+stable. On further ROS at time of admission she denied chest
+pains, dyspnea, fevers/chills, nusea, vomiting, diarrhea.
+
+Past Medical History:
+Celiac Disease
+CVA / Right thalamic capsular stroke with resultant left sided
+Ataxic hemiparesis 2010-03-30 00:00:00
+HTN
+Glaucoma L eye
+Hypothyroidism
+Hyperlipidemia
+Restless legs
+OA
+Diverticulitis
+Fe-deficiency anemia
+Osteoporosis
+Borderline pulm HTN
+LGIB in 2010-03-30 00:00:00, found to have large AVM in the cecum on c-scope
+that was clipped
+
+
+Social History:
+Lives in 123 Any St. retirement facility. She is a widow and
+has one son who lives close by and is very involved with her
+care. Denies alcohol, drugs, or smoking. Extremely independent
+at baseline with her ADLs, IADLs prior to this admission.
+
+
+Family History:
+No known h/o CA, blood disorders, GI disorder
+
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION TO MICU :
+VS T 96.1F, HR 85, BP 130/65, RR 17, Oxygen saturation 94% on
+room air
+Gen: Elderly female in NAD, pleasant & conversant
+HEENT: PERRL, anicteric, MMM
+Heart: s1s2 RRR
+Pulm: Scattered rhonchi
+Abd: + BS, soft, minimal TTP in the lower quadrants, no rebound
+or guarding
+Ext: no c/c/e
+Rectal: + ext hemorrhoids; trace amt BRB in vault
+Neuro: A&O x 3, MAE, nonfocal
+.
+.
+PHYSICAL EXAM ON TRANSFER TO GENERAL MEDICAL FLOOR :
+VS: afebrile, BP 160s/60s, HR 70s, RR 18-20, oxygen saturation
+93-94% on 4L NC
+General: Alert, oriented, no acute distress, on 4L NC
+HEENT: Sclera anicteric, MMM, oropharynx clear, clear scant
+rhinorrhea noted
+Neck: supple, JVP not elevated, no LAD
+Lungs: Coarse rhonchi over mid lung fields, R>L, decreased lung
+sounds at bases bilaterally, expiratory scattered wheezes
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, tender to palpation over right lower quadrant and
+right flank/large ecchymoses noted over right groin -->
+flank/lower right inguinal region, bowel sounds present and
+normoactive x 4 quadrants, guarding at RLQ
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+.
+ADMISSION LABS:
+2010-03-30 00:00:00 09:20PM  HGB-12.5 calcHCT-38
+2010-03-30 00:00:00 09:10PM  GLUCOSE-142* UREA N-30* CREAT-1.2* SODIUM-137
+POTASSIUM-4.5 CHLORIDE-102 TOTAL CO2-24 ANION GAP-16
+2010-03-30 00:00:00 09:10PM  CALCIUM-9.3 PHOSPHATE-3.4 MAGNESIUM-2.3
+2010-03-30 00:00:00 09:10PM  WBC-9.5 RBC-4.11*# HGB-12.1# HCT-36.5# MCV-89
+MCH-29.3 MCHC-33.1 RDW-15.5, PLT COUNT-367
+2010-03-30 00:00:00 09:10PM  NEUTS-71.6* LYMPHS-18.6 MONOS-4.1 EOS-5.1*
+BASOS-0.6
+2010-03-30 00:00:00 09:10PM   PT-12.1 PTT-33.6 INR(PT)-1.0
+.
+.
+CARDIAC ENZYMES:
+2010-03-30 00:00:00 09:10PM   CK(CPK)-126
+2010-03-30 00:00:00 09:10PM   cTropnT-<0.01
+2010-03-30 00:00:00 09:10PM   CK-MB-9
+2010-03-30 00:00:00 07:36AM BLOOD CK-MB-6 cTropnT-<0.01
+.
+.
+ADDITIONAL STUDIES:
+
+2010-03-30 00:00:00 EKG: rate 80s, Normal sinus rhythm. Normal tracing with
+normal intervals and no abnormal ischemic changes
+.
+IMAGING:
+.
+2010-03-30 00:00:00 -RLE DOPPLER US: IMPRESSION- No acute deep vein
+thrombosis of the right lower extremity.
+.
+2010-03-30 00:00:00: CXR / PA and Lateral views: Moderate bilateral pleural
+effusions, increased from 2010-03-30 00:00:00. Persistent mild pulmonary
+edema.
+.
+2010-03-30 00:00:00 VIDEO SWALLOW STUDY: ASPIRATION/PENETRATION: There was
+one episode of penetration before the swallow with a cup sip of
+thin liquids due to premature spillover and swallow delay,
+however, cleared at the height of the swallow. IMPRESSION: Mild
+oral and pharyngeal dysphagia, with no aspiration to account for
+persistent cough following meals.
+.
+2010-03-30 00:00:00 UGI AIR W/O KUB:
+IMPRESSION:
+1. No gastroesophageal reflux observed.
+2. Persistent irregularity along the wall of the mid third of
+the esophagus,which could be due to tertiary contractions,
+however may indicate presence of esophagitis. Endoscopy could be
+performed for confirmation.
+.
+2010-03-30 00:00:00 CXR - IMPRESSION: The left subclavian line tip again
+projects over the expected location of the aorta, suggest
+rechecking position. Cardiomegaly with worsening effusions and
+mild overhydration. Bibasilar atelectasis.
+.
+2010-03-30 00:00:00 CXR for LINE PLACEMENT - (Left Subclavian)- INDICATION:
+Line placement.Left subclavian vascular sheath has been placed,
+terminating in the left brachiocephalic vein. Focal kinking of a
+catheter sheath is present at the expected skin insertion site.
+Nasogastric tube terminates in proximal stomach with distal tip
+directed cephalad. New patchy right lower lobe opacity and
+worsening patchy left retrocardiac opacity. Differential
+diagnosis includes aspiration, atelectasis and developing
+infectious pneumonia.
+.
+2010-03-30 00:00:00 CT of ABD/PELVIS:
+CT OF THE ABDOMEN: There is mild bibasilar atelectasis
+identified. There is
+no pleural effusion or pneumothorax identified. There is no
+pericardial
+effusion identified. There is calcification of the descending
+aorta and its
+branches identified. The kidneys demonstrate contrast within the
+collecting
+systems, likely from prior procedures. The spleen, liver, and
+adrenal glands are unremarkable. The pancreas demonstrates
+hypodensities which are
+incompletely characterized on this non-contrast exam ( 2, 30 and
+29). The
+gallbladder is distended. Small bowel loops are normal in
+caliber. There is
+no mesenteric or retroperitoneal lymphadenopathy.
+
+There is extensive right-sided retroperitoneal hemorrhage
+extending from the liver to the right inguinal region.
+High-density blood is seen within the perihepatic space as well
+as displacing the right kidney medially (2, 31). High-density
+fluid is also seen tracking into the presacral space (2, 63). CT
+OF THE PELVIS: The bladder, rectum, and sigmoid colon are
+unremarkable. There is a small right-sided fat-containing
+inguinal hernia. There is no significant pelvic or inguinal
+lymphadenopathy.
+BONE WINDOWS: There is diffuse osteopenia and degenerative
+changes throughout the spine. There are no focal lytic or
+sclerotic lesions identified.
+IMPRESSION:
+1. Extensive retroperitoneal bleed extending from the hepatic
+dome to the
+right inguinal region.
+2. Pancreatic hypodensities, evaluated on this non-contrast
+exam.
+ .
+2010-03-30 00:00:00 CXR : Scoliosis is noted, moderate to severe with right
+convexity. The position, contour and width of the mediastinum
+are stable since 2010-03-30 00:00:00. Lungs are essentially clear.
+There is no pleural effusion or pneumothorax. No evidence of
+acute abnormality demonstrated on the current radiograph.
+
+2010-03-30 00:00:00 - ANGIOGRAM w/IR : Given the lack of active contrast
+extravasation or vascular abnormality,the catheter was removed
+and the sheath left in place for repeat angiography if indicated
+at a later time.
+IMPRESSION: Mesenteric angiogram demonstrating a replaced common
+hepatic
+artery arising from the SMA. No evidence for contrast
+extravasation noted on our study.
+.
+2010-03-30 00:00:00 MESENTERIC ANGIOGRAM:
+IMPRESSION: Mesenteric angiogram including the celiac, SMA, and
+Citori Yeatts with no
+evidence for active contrast extravasation, angiodysplasia, or
+neovascularity. Incidental note made of a replaced common
+hepatic artery arising from the SMA
+.
+.
+MICROBIOLOGY:
+2010-03-30 00:00:00 C.Difficile stool assay -negative
+2010-03-30 00:00:00 Urine Culture -negative to date at discharge, final
+pending
+2010-03-30 00:00:00 Blood Cultures x 2-no growth to date
+2010-03-30 00:00:00 2:23 pm SPUTUM
+Source: Expectorated.//**FINAL REPORT 2010-03-30 00:00:00**
+ GRAM STAIN (Final 2010-03-30 00:00:00):
+   2010-03-30 00:00:00 PMNs and <10 epithelial cells/100X field.
+   4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI IN PAIRS.
+   1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final 2010-03-30 00:00:00):
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+      STREPTOCOCCUS PNEUMONIAE.    MODERATE GROWTH.
+        PRESUMPTIVELY PENICILLIN SENSITIVE BY OXACILLIN SCREEN.
+
+2010-03-30 00:00:00 MRSA nasal swab - negative
+
+.
+URINE STUDIES:
+
+2010-03-30 00:00:00 12:43AM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+2010-03-30 00:00:00 12:43AM URINE Color-Yellow Appear-Clear Sp Yeatts-1.010
+.
+DISCHARGE LABS:
+WBC 8.4, Hemoglobin 11.4, Hematocrit 33.7, MCV 86,
+MCH 29.2, MCHC 33.8, Platelet Count 443
+Glucose 87, BUN 19, Creatinine 0.9,  Sodium 143, K 3.9, Cl 106
+
+
+Brief Hospital Course:
+INITIAL ADMISSION AND BRIEF MICU COURSE:
+
+The patient was admitted to the MICU in stable condition. GI
+advised starting Golytely with plan for colonscopy in the AM on
+the day after admission. On the night of admission, however, her
+hematocrit dropped to 28 and she was noted to have voluminous
+blood from the rectum.  General Surgery and IR were consulted
+simultaneously given the volume of bleeding, and it was felt
+that waiting for a tagged RBC scan would be unsafe so the
+patient was taken emergently to the IR suite. NGL negative. 4
+units pRBCs and one unit of platelets were transfsued
+immediately via the Level One.  No source of bleeding was
+identified on angio. The patient remained HD stable and returned
+to the MICU with the sheath in the R femoral artery left in
+place in case of rebleeding.  GI performed a colonscopy the next
+AM w/o finding obvious source, concern for bleeding from small
+bowel. She returned to the IR suite; again no source could be
+identified. Within one hour of patient returning to floor,
+abdomen became exquisitely tender, pt was already being
+transfused upon return then dropped BP.  Pt required 8u pRBCs, 3
+FFP, 3 platelets.  A stat CT ABD/PEL revealed a large
+retroperitoneal hematoma, and the blood presure transiently
+dropped to the 70s. The patient had an epiosde of emesis with
+likely aspiration. Vascular and IR were consulted, no
+intervention thought to be warranted as patient had stabilized.
+A left subclavian cordis line was placed.  In total, the patient
+was transfused 13 units PRBCs before her Hct stabilized at 29.
+On Hospital Day 3, the patient was feeling better, without
+further rectal bleeding. She had a productive cough with
+evidence of aspiration on the CXR, sputum with GPCs and GNRs,
+and she was started on a course of IV Levaquin/Vancomycin before
+transfer to the general medical floor on the evening of 2010-03-30 00:00:00
+.
+.
+
+ADDITIONAL HOSPITAL COURSE AFTER TRANSFER FROM MICU TO GENERAL
+MEDICAL UPMCE:
+
+In summary, Mrs. Yeatts is a 64-year-old female with known
+recurrent BRBPR, and recent complication of retroperitoneal
+bleed after IR angiography procedure during GI bleed workup, and
+new aspiration PNA, who was afebrile with stable hematocrits for
+nearly 2 days by the time she was transferred from MICU to
+general medical floor on 2010-03-30 00:00:00.
+.
+# GI Bleed /BRBPR: Prior to this admission Mrs. Yeatts had a
+known history of cecal AVM per records, as well as
+diverticulosis. She had gross blood noted in ED on rectal exam.
+It was thought that her known AVM was the likely source although
+it was unable to be definitively located on both colonoscopy and
+repeat angiography. Rectal bleeding had subsided by time of
+transfer to the medical floor. As above, her second
+interventional radiology angiography was complicated after
+sheath removal and sudden blood pressure drops, hematocrit drips
+and RLQ / right inguinal and flank pains. NGT placed on 2010-03-30 00:00:00 for
+aspiration concerns and airway protection after an emesis
+episode with coughing. This was due to a confirmed
+retroperitoneal bleed. She needed IVFs,pressor support for BP
+control, about 13 Units of blood and several bags of platelets
+and FFP to stabilize. She had been on Aggrenox for CVA history
+but this was held as of 2010-03-30 00:00:00 after presentation to an outside
+hospital prior her re-admission only days latter to UPMCE for
+recurrent BRBPR. GI team followed patient while she was in
+hospital and recommended another follow-up outpatient
+colonoscopy in 8 weeks time.  The patient wished to resume her
+care with her prior GI physician Yeatts. Yeatts here at UPMCE so
+she was asked to set up a follow-up appointment within a few
+weeks of discharge.
+
+Left subclavian trauma line placed for about 2 days and then
+removed and she also had IV access with 2 large guage PIVs up
+until 2010-03-30 00:00:00 and she was switched to one IV. Team kept an active
+type and cross. She was kept NPO immediately after the large
+blood loss and GI/RP bleeding over 2010-03-30 00:00:00 -2010-03-30 00:00:00 but was then
+started back slowly on clears, then she had a video swallow
+study that confirmed no major aspiration issues so she was
+advanced to a regular PO diet with gluten restrictions in place
+for her Celiac Disease. Nutrition consult assisted with helpful
+diet recommendations and she tolerated a regular diet very well,
+although she limited some of her intake due to her worry that
+some of her loose stools from Celiac Disease would worsen. She
+was reassured that she was on a gluten free diet and that she
+needed to preserve her nutrition as much as possible given her
+deconditioned state. She had been placed on UPMCE IV Protonix
+during her active bleeding but this was transitioned to an oral
+40mg Protonix tablet several days prior to discharge. Admission
+Hct was 36.5 and nadir was to 27. If she was not given back
+multiple transfusions so rapidly in setting of heavy GI/RP
+bleeding her hematocrit would have likely plunged much lower,
+much quicker. By time of discharge her Hct was stable for days
+at about the 31-34 range.
+.
+#Retroperitoneal bleed: As above, hematocrits have been stable
+and climbing. Abdominal pain at RLQ continues to improve slowly.
+Able to sit up in chair and ambulate with a walker. She was
+reminded not to lift any heavy objects >10-lbs. or to do any
+straining/strenuous activities for 2-3 weeks. PT/OT worked with
+patient and she progressed slowly. RP bleed should eventually
+fully reabsorb and this was explained to patient. As she was
+clinically stable the team felt there was no need to repeat CT
+again, and she can discuss timing of repeat imaging, if any, at
+her outpatient follow-up with PCP Citori Yeatts/or Dr. Yeatts, her GI
+physician here at UPMCE.
+.
+# Prior CVA: She had a right thalamic capsular stroke with
+short-lived resultant left sided ataxic hemiparesis in 2010-03-30 00:00:00. Now
+she ambulates well at baseline with slight unsteadiness at times
+from her RLQ discomfort but has been given a walker to be used
+for better stability. She was taken off of Aggrenox 3/22 per
+records and was asked not to restart her Aggrenox or aspirin.
+Despite sudden drops in her blood pressure due to hemorrhage in
+retroperitoneum while in the ICU, she has no signs of any
+lasting mentation deficits. A&Ox3 and no focal deficits on
+neurological exam for the entirety of her hospital course.
+Physical therapy followed patient during hospitalization and
+felt she was stable for discharge back to her UPMCE
+facility with some home services and use of a walker for
+ambulation while she fully recuperates.
+ .
+# Hypertension: Blood pressures slightly elevated to 140-160s
+systolic ranges for a few days after transfer out of the ICU.
+The medical team was purposefully allowing more laxity due to
+recent bleeds. She was continued on her usual home Valsartan and
+Norvasc was initially held but gradually added back and the dose
+was slowly uptitrated to her usual 10mg daily dose, which is the
+dose she was discharged on. Blood pressures on day of discharge
+were predominantly normotensive in the 118-140/50-70s range.
+.
+#Aspiration PNA: Per notes and patient reports, Mrs. Yeatts
+has a chronic cough at baseline in recent months. Sputum
+production and coarse rhonchi with progressive cough occurred
+soon after she had an aspiration event. CXR infiltrates all
+appeared new from prior comparisons and her cough flared up
+within minutes after she had an  aspiration on 2010-03-30 00:00:00. Sputum
+production but no hemoptysis. No CP, mild SOB with improving
+oxygen requirement now. She weaned quickly from 4L to 2L NC and
+is now comfortable on room air with oxygen saturation levels in
+the mid-90s. Sputum culture confirmed Streptococcal pneumonia.
+She was given 10 days of IV vancomycin and levaquin with
+improvement in her breathing and cough. She was also given nasal
+saline spray and guaifenisen for more cough suppression.
+Shortness of breath and cough markedly improved by time of
+discharge and she had no fevers or leukocytosis so she was not
+placed on any extended oral antibiotics at discharge. She will
+plan to see her PCP on Thursday, 2010-03-30 00:00:00 for close follow-up.
+.
+# Chronic facial neuralgia: Chronic issue, symptoms for > 1
+year. Most painful around forehead area. Continued on Tylenol
+and avoided NSAIDs/Motrin due to GI & RP  bleeding.
+.
+#Right lower extremity swelling: On 2010-03-30 00:00:00 the team noticed that
+her right lower extremity was a little more swollen and there
+was asymmetry. Given her immobility she was certainly at risk
+for DVT. Fortunately, lower extremity ultrasound showed no
+evidence of any DVTs. Edema is on same side a her large RP bleed
+which may explain the swelling.
+.
+#Cellulitis left forearm: After her IV was pulled out on 2010-03-30 00:00:00
+she had an erythematous 2" diameter circular area over her left
+antecubital region with some tenderness, and some purulent fluid
+at prior IV site. She was given local bacitraicin ointment and
+continued on her usual IV Vancomycin and Levaquin through the
+weekend, prior to discharge. On day of discharge the area was
+nonedematous, and there was no additional expressible discharge
+and erythema had abated so an additional oral antibiotic was not
+added.
+.
+# Hypothyroidism: She was continue on her usual home dose of
+Levoxyl therapy daily.
+.
+# Glaucoma of left eye: She was continued on home eye drop
+routine daily with
+Cosopt drops to left eye twice daily and she also got her
+nightly left eye Latanoprost drops as well. No loss of vision or
+report of any visual changes while in the hospital.
+.
+# Celiac disease: Stable, gluten free regular diet continued.
+She had some loose stools which were likely due to her Celiac
+condition. However, given her recent hospitalizations and
+antibiotics a C.difficile assay was collected and was negative.
+If results return positive, team will notify PCP.  Citori Yeatts above, she
+was followed by the inpatient nutrition service as well.
+
+.
+# Code Status: DNR/DNI, confirmed with patient
+.
+
+
+Medications on Admission:
+- Valsartan 160 qd
+- Amlodipine 10 qd
+- mirapex 0.25 qd
+- protonix 40 qd
+- lumigan 0.03% one drop qhs
+- tramadol 50mg q6h prn
+- levothyroxine 0.112 mg qd
+- klonopin 0.25mg q 12h prn
+- cosopt one drop UPMCE OS
+- tylenol 1000mg q6 h
+saline nasal spray 2 sprays each q2h prn
+- colace 100mg qd prn
+
+
+Discharge Medications:
+1. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic twice a day: one drop to LEFT EYE
+only; twice daily .
+2. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical once a day.
+3. Clonazepam 0.5 mg Tablet Sig: 2010-03-30 00:00:00  Tablet PO BID (2 times a
+day) as needed for insomnia.
+4. Pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO qd ().
+5. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+9. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime): one drop in left eye at bedtime .
+10. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed.
+11. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+12. Colace 100 mg Capsule Sig: One (1) Capsule PO once a day as
+needed for constipation.
+13. Ultram 50 mg Tablet Sig: One (1) Tablet PO every six (6)
+hours as needed for pain.
+14. Saline Nasal 0.65 % Aerosol, Spray Sig: One (1)  Nasal
+q2-4hrs as needed for congestion.
+15. Bacitracin 500 unit/g Ointment Sig: One (1)  Topical twice a
+day for 1 weeks: Please apply a coat of topical ointment to left
+forearm affected area twice daily x 1 week. .
+Disp:*1 1* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE senior life home health vna
+
+Discharge Diagnosis:
+Primary:
+-Lower GI Bleed
+-Pneumonia
+-Retroperitoneal Bleed
+.
+Secondary:
+-Celiac Disease
+- Hypertension
+- Hypothyroidism
+- Iron-deficiency anemia
+- Osteoarthritis
+- prior right thalamic capsular stroke (left sided ataxic
+hemiparesis for several months in 2010-03-30 00:00:00)
+- Osteoporosis
+- Glaucoma (left eye)
+
+
+
+
+Discharge Condition:
+Stable. Alert and oriented to person, time and place. No
+apparent distress.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you here at UPMCE.
+.
+You were admitted after having some bloody bowel movements. You
+continued to have dropping levels of red blood cells and
+required multiple blood transfusions. You had an interventional
+radiology procedure to try to find the bleeding source in your
+GI tract. After having a sheath placed and then removed from a
+major blood vessel in your groin area you had a complication
+called a retroperitoneal bleed with some bleeding into your
+right lower abdominal region. This eventually stabilized after
+additional blood transfusions, IVFs and medications to help keep
+your blood pressure from dropping.
+.
+Shortly after having a colonoscopy you experienced some nausea
+and vomiting which may have been from bloating post-colonoscopy
+or from increased abdominal pressure from some internal bleeding
+you had. This vomiting episode unfortunately involved some
+aspiration which is when droplets of digestive contents and
+vomit can go down the wrong passage way and end up in the lungs.
+This led to a cough, fevers, and a pneumonia that was identified
+on chest x-ray.  Therefore, you were placed on antibiotics which
+helped you to recover. Later in your hospital course you also
+had some redness over your left arm where an IV had been placed.
+This was concerning for a local skin infection but improved
+within 48 hours. Please continue to cover it with Bacitraicin
+ointment topically for 1 week.
+.
+Please follow-up with all of your appointments as outlined
+below. Also, please be sure to have a repeat colonoscopy in
+about 8 weeks time.
+.
+Lastly, please do not lift any heavy objects greater than 10 lbs
+for at least 2 weeks time after being discharged. If you
+experience any acute worsening abdominal pain, enlargement or
+spread of the bruising over your right flank/lower abdomen,
+dizziness, fainting, visual changes, recurrent bloody stools,
+excessive diarrhea, chest pains, shortness of breath, chills,
+fevers, night sweats, burning with urination, or an other health
+concerns please return to the emergency room or call your
+primary care physician.
+.
+MEDICATION CHANGES:
+1)Your Tylenol dose has been slightly altered to 325-650mg
+every 6 hours as needed
+2)Please continue the anti-acid medication called Protonix
+(pantoprazole) daily
+3) Do not take Aspirin or your 123 Any St.us Aggrenox medication for
+several more weeks ; discuss specific timeline with your PCP as
+an outpatient.
+4) Please continue application of topical bacitraicin ointment
+to your left forearm twice daily for 1 week.
+5)Otherwise, your usual eye drops, blood pressure medications,
+and all of your other home medications have not been changed,
+please continue taking all of your usual medication as
+123 Any St.usly prescribed
+
+
+Followup Instructions:
+1) Please make a follow-up to see your PCP, Yeatts. Yeatts,
+over the next 10 days. Phone #test@mail.com
+.
+2) Please call test@mail.com to schedule a follow-up colonoscopy
+in 8 weeks time.
+.
+3) Please make a follow-up appointment with Citori Yeatts,
+MD, PhD, in the gastroenterology department. Phone #test@mail.com
+
+
+
+
+Completed by:2010-03-30 00:00:00

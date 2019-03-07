@@ -1,0 +1,407 @@
+Admission Date:  2009-09-21 00:00:00              Discharge Date:   2009-09-21 00:00:00
+
+Date of Birth: 1926-09-04 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Serevent Diskus / Theraflu Multi Symptom
+
+Attending:Jazmere Giebner
+Chief Complaint:
+Difficulty urinating, urinary retension and edema
+
+Major Surgical or Invasive Procedure:
+Right heart catheterization 2009-09-21 00:00:00
+Peripherally inserted central catheter insertion (PICC) 2009-09-21 00:00:00
+
+History of Present Illness:
+This is an 83 year-old Russian-speaking man with diastolic heart
+failure, CKD, DM on insulin, asthma, atrial fibrillation (on
+Coumadin), CAD (s/p CABG), h/o colon cancer, newly diagnosed
+breast cancer (s/p biopsy 2 weeks ago), presenting with
+abdominal distention, decreased urine output for the past two
+weeks with urinary retention for the past two days.
+
+His wife noticed increasing edema and abdominal girth
+approximately 1 month ago. He saw his outpatient cardiologist
+who increased his Torsemide dose from 100 to 150 mg PO daily.
+Approximately 2 weeks ago, his wife again noticed increasing
+abdominal girth and firmness as well, associated with decreasing
+urine output. His cardiologist again increased his Torsemide
+dose to 200 mg PO daily on week ago. His edema and decreased
+urine output continued to progress, and he began to develop
+scrotal edema. Two days prior to admission he was prescribed
+metolazone 5 mg to be taken prior to dosing Torsemide. However,
+he did not receive this medication. At this point he had urinary
+retention, and his wife brought him to the emergency department.
+Review of his medications from OMR revealed that he had been
+prescribed Tamsulosin for BPH but he was not taking this
+medication.
+
+In the ED, initial VS T 97.5 HR 62 BP 99/49 RR 20 SaO2 96% on
+RA. His creatinine was 2.6 which was an increase above his
+baseline of 1.5-2. A Foley was placed, >600 mL of urine was
+drained. A CXR showed vascular congestion and bilateral pleural
+effusions left>right. An EKG showed atrial fibrillation with
+ventricular rate of 63, RBBB, LAFB, unchanged from prior EKG.
+Bedside US showed bilateral pleural effusions. Abdominal U/S
+showed free fluid and no hydronephrosis, but scrotal fluid. He
+was not given diuretics initially because of his elevated
+creatinine.
+
+During admission to medicine service, he was given furosemide 40
+mg IV with good response. However, on the following day, he
+failed to respond to furosedmie 40mg IV, so the dose was
+repeated. The following day, he also received furosedmie 40 mg
+IV BID. His fluid balance was even over these two days. The next
+day, he was given furosemide 80mg IV in the AM, 2.5 mg
+metolazone followed by furosemide 100mg IV in the late
+afternoon. In the evening, he triggered for worsening shortness
+of breath. He was given metolazone 5 mg with furosemide 140 mg
+IV around 11pm. He was also given his nebulizers and one dose of
+Solumedrol for possible COPD exacerbation. His O2 sats remained
+>95% on 2009-09-21 00:00:00 L/min O2. His CXR at that time showed bilateral
+plueral effusions and vascular congestion. His net fluid balance
+was negative 200 cc that day. Of note he also had two episodes
+of hypoglycemia to 40s overnight accompanied by tachypnea and
+wheezing; his respiratory symptoms resolved with euglycemia. His
+dose of insulin had been decreased earlier that day because of
+decreasing PO intake. His symptoms and hypoglycemia resolved
+with dextrose. His insulin was further decreased to NPH 10 units
+QAM and 5 units QPM with sliding scale. In the morning, he again
+triggered for RR >30 and cardiology was consulted. Patient was
+transferred to cardiology service for further management.
+
+Past Medical History:
+CAD s/p CABG in 2009-09-21 00:00:00 (unknown anatomy)
+CHF (Biventricular diastolic, pulmonary HTN)
+Diabetes mellitus requiring insulin
+Chronic venous stasis dematitis left>right
+Diabetic ulcers on heel and foot
+Colon cancer(s/p Left colectomy '2009-09-21 00:00:00)
+Atrial fibrillation (s/p ablation)
+Gout
+Asthma/Restrictive Lung disease
+CKD Stage III, baseline Cr 1.6-2.0
+
+Social History:
+Patient lives with his wife at home; she is a nurse and is his
+primary caretaker. Adebola Cramer is dependent for ADLs and uses a
+wheelchair. Denies any history of smoking. Used to drink alcohol
+occasionally but now he does not.
+
+Family History:
+lung cancer in father (smoker)
+
+Physical Exam:
+General: Alert, oriented, elderly Russian speaking Caucasian man
+in no acute distress
+Vitals: T: 97.7 BP: 102/52 P: 65 R: 18 SaO2: 96% on 2 L/min NC
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP difficult to assess secondary to body habitus,
+no lymphadenopathy
+Lungs: Crackles and diminished breath sounds half way up lung
+fields.
+CV: Regular rate and rhythm, normal S1 + S2, 2009-09-21 00:00:00 Holosystolic
+murmur at apex; no rubs or gallops
+Abdomen: Distended firm abdomen, non-tender, bowel sounds
+present, no rebound tenderness or guarding
+GU: Prominent scrotal edema, Foley in place
+Ext: Gross Anasarca, legs wrapped with bandages, 3 ulcers 1-2 cm
+in diameter.
+Neuro: CN II-XII intact, motor function grossly normal
+
+Pertinent Results:
+2009-09-21 00:00:00 10:57AM   WBC-5.0 RBC-4.00* HGB-9.9* HCT-31.6* MCV-79*
+MCH-24.8* MCHC-31.4 RDW-17.2*
+2009-09-21 00:00:00 10:57AM   PT-20.4* PTT-30.8 INR(PT)-1.9*
+
+2009-09-21 00:00:00 01:00PM URINE  COLOR-Straw APPEAR-Clear SP Cramer-1.008
+2009-09-21 00:00:00 01:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-SM
+2009-09-21 00:00:00 01:00PM URINE  RBC-1 WBC-6* BACTERIA-FEW YEAST-NONE
+EPI-0 TRANS EPI-<1
+2009-09-21 00:00:00 01:00PM URINE  GRANULAR-2* HYALINE-3*
+
+2009-09-21 00:00:00 10:57AM   GLUCOSE-94 CREAT-2.6*# SODIUM-147*
+POTASSIUM-3.8
+CHLORIDE-105 TOTAL CO2-30 ANION GAP-16
+2009-09-21 00:00:00 10:57AM   ALBUMIN-3.7 CALCIUM-8.0* MAGNESIUM-2.3
+2009-09-21 00:00:00 10:57AM   proBNP-9471*
+2009-09-21 00:00:00 10:57AM   ALT(SGPT)-48* AST(SGOT)-41* ALK PHOS-73 TOT
+BILI-0.4
+2009-09-21 00:00:00 10:57AM   CEA-11* CA27.29-16
+
+ECG 2009-09-21 00:00:00:
+Artifact is present. Atrial fibrillation with a controlled
+ventricular response. Left axis deviation. Right bundle-branch
+block with left anterior fascicular block. There are small R
+waves in the inferior leads consistent with possible infarction.
+Non-specific ST-T wave changes. Compared to the 123 Any St.us tracing
+of 2009-09-21 00:00:00 there is no significant change.
+
+CXR 2009-09-21 00:00:00:
+The patient is status post median sternotomy and CABG. The heart
+size is moderately enlarged but appears similar compared to the
+prior study. There is mild-to-moderate pulmonary edema with
+perihilar haziness and vascular indistinctness as well as
+moderate-sized left and small right pleural effusions. Patchy
+opacities in the lung bases likely reflect compressive
+atelectasis. No pneumothorax is identified. There are no acute
+osseous abnormalities.
+IMPRESSION: Mild-to-moderate congestive heart failure with small
+right, and moderate-sized left, bilateral pleural effusions and
+bibasilar atelectasis.
+
+Renal Ultrasound 2009-09-21 00:00:00:
+The right kidney measured 10.5 cm. The left kidney measured 11.5
+cm. Both kidneys show cortical thinning. No hydronephrosis,
+stones or massesis are observed. The bladder is not distended
+with indwelling catheter within it.
+IMPRESSION: Bilateral renal cortex thinning. No signs of
+hydronephrosis.
+
+Echocardiogram 2009-09-21 00:00:00:
+The left atrium and the right atrium are moderately dilated. The
+estimated right atrial pressure is at least 15 mmHg. There is
+mild symmetric left ventricular hypertrophy with normal cavity
+size and global systolic function (LVEF>55%). Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. The right ventricular cavity is mildly dilated
+with moderate global free wall hypokinesis. There is abnormal
+systolic septal motion/position consistent with right
+ventricular pressure overload. The aortic root is mildly dilated
+at the sinus level. The ascending aorta and the aortic arch are
+mildly dilated. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen. There is severe pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+IMPRESSION: Suboptimal image quality. Severe pulmonary artery
+hypertension. Right ventricular cavity enlargement with free
+wall hypokinesis. Mild mitral regurgitation. Dilated ascending
+aorta. Compared with the prior study (images reviewed) of
+2009-09-21 00:00:00, the findings are similar (prior study image quality
+was superior). These findings are suggestive of a chronic
+pulmonary process, e.g., PPH, chronic pulmonary embolism, COPD,
+OSA, etc.
+
+Chest X-ray 2009-09-21 00:00:00:
+Persistent cardiomegaly accompanied by slight improvement in
+degree of pulmonary edema and associated decrease in right
+pleural effusion, now small in size. Bibasilar opacities appear
+similar to the prior study as well as a moderate left pleural
+effusion.
+
+Right heart catheterization 2009-09-21 00:00:00:
+Hemodynamic Measurements (mmHg)
+Baseline
+Site	Sys	Cramer	End	Mean	A Wave	V Wave	HR
+RA     				11	13	14	62
+RV      89	3	12				60
+PCW    				19	20	23	59
+PA      89	19		42			60
+
+100% O2
+Site	Sys	Cramer	End	Mean	A Wave	V Wave	HR
+PCW    				22	23	28	57
+PA      88	18		41			58
+
+Nitric Oxide
+Site	Sys	Cramer	End	Mean	A Wave	V Wave	HR
+PCW     			21	23	26	57
+PA      87	18		43			58
+
+1. Hemodynamic catheterization revealed the presence of
+pulmonary arterial hypertension in the setting of moderately
+elevated left venticular filling pressures. Right ventricular
+filling pressure was mildly elevated in the setting of severe
+pulmonary arterial hypertension.
+2. Vasodilator test wtih inhaled nitric oxide revealed no
+reversibility of the pulmonary hypertension.
+3. Cardiac index was at the lower limit of normal.
+
+Upper extremity U/S 2009-09-21 00:00:00:
+Grayscale and Doppler sonAdebola Cramer of bilateral subclavian veins
+were performed; normal and symmetric flow was observed.
+Grayscale and Doppler sonAdebola Cramer of left internal jugular,
+axillary, brachial, cephalic and basilic veins were performed.
+There is normal compressibility, flow and augmentation.
+
+Chest, abdominal and pelvic CT 2009-09-21 00:00:00:
+CT OF THORAX:
+Prior median sternotomy noted. There are bilateral pleural
+effusions, slightly larger on the right side. There is
+associated collapse with volume loss involving the posterior
+basal segments of both the right and left lower lobes. More
+confluent airspace opacity is seen radiating from the hila to
+involve the posterior and apical segments of the right upper
+lobe. The right middle lobe remains well aerated. Findings are
+most in keeping with pulmonary edema. Ground-glass change is
+also seen involving the left upper lobe again in keeping with
+less severe pulmonary edema. Satisfactory position of the
+right-sided PICC line with the tip terminating in the lower SVC.
+Dense calcification of the left coronary artery are seen. There
+are multiple nonenlarged mediastinal and axillary lymph nodes.
+There is a 17 x 15 mm thickening in the left subareolar region
+likely representing the primary tumor.
+CT OF ABDOMEN:
+Note is made of a fundal gastric diverticulum (2:50).
+The liver is of diffuse increased attenuation with an average
+Hounsfield value of 100. Causes of this appearance include
+hemochromatosis, hemosiderosis, Wilson's disease and, most
+likely in this patients case, amiodarone drug therapy. No focal
+liver lesions are identified. The gallbladder outlines normally.
+The spleen is enlarged measuring 15 cm in long axis. Note is
+made of a 17-mm low-attenuation focus in the lower pole of
+spleen, which is incompletely characterized, but most likely
+represents a hemangioma. Both kidneys demonstrate cortical
+thinning; however, no focal lesions are identified. Both adrenal
+glands are normal in size and appearance. There are no
+pathologically enlarged upper abdominal. Abdominal aorta
+demonstrates sparse pleural calcifications, but is otherwise
+normal in characters and caliber
+CT OF PELVIS:
+The balloon of the Foley catheter lies within the prostatic
+portion of the urethra and should be repostioned. The prostate
+is normal in size and demonstrates coarse calcifications. Normal
+appearance of the common femoral artery and vein with no
+significant perivenous hematoma following right heart
+catheterization. There were no enlarged inguinal or pelvic
+sidewall lymph nodes. Note is made of a 21 x 18 mm
+low-attenuation cystic structure arising from the anterior
+aspect of the pancreatic body. A larger 2.8 x 3.5 cm cystic mass
+is seen in the pancreatic tail at the s123 Any St. hilum ( 2:56).
+Several other sub centimeter low attenuation foci are seen
+adjacent to the pancreas ( 2:56,57). Findings are in keeping
+with multiple pancreatic cysts or cystic neoplasms and could be
+further evaluated with MRCP.
+OSSEOUS STRUCTURES: Mild degenerative changes are seen involving
+the thoracolumbar spine. A 3-mm sclerotic focus in the right
+ilium has the appearance of a benign bone island.
+IMPRESSION:
+1. Splenomegaly with low-attenuation lesions, incompletely
+characterized, but by demographics likely representing a
+hemangioma.
+2. Malposition of the urethral catheter as described.
+3. High attenuation liver parenchyma likely secondary to
+amiodarone therapy.
+4. No evidence of a retroperitoneal hematoma.
+5. Airspace opacities and pleural effussions most in keeping
+with pulmonary edema.
+6. Cystic pancreatic lesions requiring further evaluation with
+MRCP.
+
+Brief Hospital Course:
+83 yo M with diastolic CHF and pulmonary arterial hypertension,
+CKD, diabetes mellitus on insulin therapy, asthma, atrial
+fibrillation on Coumadin, CAD s/p CABG 2009-09-21 00:00:00, remote H/O colon
+cancer, new breast cancer s/p biopsy 2 weeks ago, presenting
+with volume overload from a combination of right sided CHF and
+acute on chronic kidney injury who is no longer responding to IV
+:asix and was transferred to UPMCE for aggressive diuresis.
+
+Patient was volume overloaded on admission, which was attributed
+to his known left and right sided diastolic CHF (with moderate
+RV hypokinesis). He was transferred to UPMCE for Lasix gtt after
+attempted diuresis with bolus doses of IV Lasix were
+unsuccessful.  Repeat echo was similar to prior showing severe
+pulmonary arterial hypertension and resulting right sided heart
+failure, with EF >60%. Right heart catheterization with inhaled
+vasodilator testing was performed which showed elevated
+pulmonary pressures that were not responsive to either 100% FiO2
+or inhaled nitric oxide (PA 89/19/42). Thus, it was felt he
+would likely not benefit from 123 Any St.hibitor therapy. Aggressive
+diuresis was continued with improvement in his peripheral edema.
+Course was further complicated by transient bradycardia which
+resolved spontanously, acute on chronic renal failure and
+anemia. Despite response to IV diuretics, the patient's
+respiratory status continued to decline. CXR and CT scan of the
+chest demonstrated bilateral pulmonary effusions. He was started
+on empiric broad spectrum antibiotics with vancomycin and
+cefepime to complete a 7 day course. Interventional pulmonary
+was consulted for potential thoracentesis, however they were
+unable to find a pocket suitable for drainage on two occasions
+despite use of ultrasound guidance. The patient's O2 requirement
+increased to 6 L/min via shovel mask with saturations in the mid
+90s.
+
+When it became clear the patient was not responding to maximal
+medical therapy, a conversation about goals of care was
+initiated with the family who ultimately decided to make him
+comfort measures only. Diuretics were discontinued, and the
+patient was given PO morphine, hyoscyamine for secretions and
+PRN Ativan. The plan was to transfer the patient to a hospice
+facility closer to his home. A few hours prior to the scheduled
+transfer, the patient's respirations became more labored. The
+patient was then noted by nursing to be unresponsive. His
+physician were called to bedside. After a few agonal breaths and
+a few faintly audible heart sounds, the patient was documented
+to have undetectable carotid pulses, pupils dilated to 5 mm
+bilateral and non-responsive to light, no apparent respirations
+by visualization and auscultation, no audible heart sounds, and
+several minutes of asystole on the bedside monitor. The
+patient's wife and daughter were present at his bedside. The
+patient was pronounced deceased at 13:13 on 2009-09-21 00:00:00. Chief cause
+of death was respiratory failure secondary to congestive heart
+failure. Attempts to make contact with the patient's PCP were
+unsuccessful. Family declined autopsy.
+
+Medications on Admission:
+warfarin 2.5 mg daily
+Digoxin 62.5 mcg
+Toprol 25 mg daily
+Zolpidem 5 mg daily
+Fluticasone 110 mcg/actuation
+erythromycin ophthalmic ointment
+Ferrous gluconate 325 mg
+atorvastatin 20mg daily
+Humalin 30 units qPM and 10 units qPM
+
+Discharge Medications:
+none - patient passed away
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Acute on chronic biventricular diastolic congestive heart
+failure
+Pulmonary arterial hypertension
+Atrial fibrillation
+Coronary artery disease with prior coronary artery bypass
+surgery
+Prior myocardial infarctions
+Hypertension
+Diabetes mellitus, poorly controlled, with hypoglycemia and
+Acute on chronic renal failure
+Bilateral pleural effusions
+Bifascicular heart block
+Edema
+Heel ulcers
+Anemia
+Breast cancer
+Prior colon cancer
+Gout
+Benign prostatic hypertrophy
+Urinary retention
+Reactive airway disease
+Restrictive lung disease
+Splenomegaly
+S123 Any St. lesions on computed tomography
+Cystic pancreatic lesions
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+None - patient deceased
+
+Followup Instructions:
+Not applicable
+
+                             Jazmere Giebner MD, MSC 12-339
+

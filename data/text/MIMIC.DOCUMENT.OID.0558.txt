@@ -1,0 +1,259 @@
+Admission Date:  2011-10-04 00:00:00              Discharge Date:   2011-10-04 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Hicham Drossel
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+intubation
+central line placement
+
+
+History of Present Illness:
+History of Present Illness: 88F w/ h/o Grave's disease,
+?CRI/?HTN & recently diagnosed RUL lung mass with LAD & liver
+mets who presents from rehab with altered mental. Per her
+rehabilitation facility, the patient is usually responsive to
+her name and this evening became unresponsive to name. It is
+unclear her baseline mental status. There is no evidence of
+fever from rehabilitation records. Patient to altered to tell us
+her symptoms.
+
+In the ED, initial VS were: 86 84/40 18 100% 2L NC. CVL was
+placed in RIJ. Labs were notable for acute kidney injury (Cr 4.3
+<- 1.2 on 2011-10-04 00:00:00), leukocytosis with WBC 24.1 (up from recent
+baseline of 17) w/ 91% polys, no bands & HCO3 15. Transaminases,
+alk phos and lipase were elevated, however the specimen was
+hemolyzed which can falsely elevate these values. Lactate 2.3.
+123 Any St. read of CT head & abd/pelvis were negative for acute
+process. Patient received 3L lactated ringers as well as
+vancomycin 1g IV and zosyn 4.5mg IV empirically. While in the
+ED, patient's BPs were 90s/60s (EMS) -> 84/40s (on presentation)
+-> got 3L fluids with no change in BP -> 90s/40s -> started
+levophed gtt @ 0.09 & BPs increased to 100-107/43-52. VS on
+transfer were 78, 20, 100%2L, CVP 7->12, 98 rectal.
+.
+On arrival to the MICU, the patient is non-verbal and unable to
+partake in a review of systems questions.
+
+
+Past Medical History:
+Grave's disease
+HTN
+thoracic spine fx
+s/p hysterectomy
+urinary retention
+constipation
+osteoarthritis
+possible chronic kidney disease
+
+Social History:
+Lives alone, no biologic children, minimal contact with step
+children
+no ETOH, Jacolby Peffley
+
+
+Family History:
+None relevant to fall
+
+Physical Exam:
+Physical Exam on Discharge:
+Vitals: 95.3 79/64 83 20 96% on RA
+General: Extubated, still altered, not talking in words.  Not in
+any painful distress, but obviously not oriented.
+HEENT: Sclerae anicteric, very dry mucous membranes, +dry eyes
+Neck: supple, unable to assess JVP, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation anteriorly, no wheezes, rales,
+rhonchi
+Abdomen: soft, diffusely tender, non-distended, bowel sounds
+present, no organomegaly
+GU: foley in place
+Ext: warm, bilateral DP pulses observed by doppler, no clubbing,
+cyanosis or edema
+
+
+Pertinent Results:
+2011-10-04 00:00:00 01:15AM BLOOD WBC-24.1* RBC-4.41 Hgb-11.1* Hct-35.9*
+MCV-81* MCH-25.3* MCHC-31.1 RDW-19.6* Plt Ct-264
+2011-10-04 00:00:00 03:25AM BLOOD WBC-26.1* RBC-3.50* Hgb-9.1* Hct-26.6*
+MCV-76* MCH-26.1* MCHC-34.3 RDW-20.1* Plt Ct-286
+2011-10-04 00:00:00 03:25AM BLOOD Neuts-78* Bands-0 Lymphs-13* Monos-6
+Eos-3 Baso-0 Atyps-0 Metas-0 Myelos-0
+2011-10-04 00:00:00 03:25AM BLOOD PT-22.4* PTT-58.1* INR(PT)-2.1*
+2011-10-04 00:00:00 03:25AM BLOOD Glucose-143* UreaN-84* Creat-3.2* Na-137
+K-3.4 Cl-108 HCO3-15* AnGap-17
+2011-10-04 00:00:00 03:06AM BLOOD ALT-105* AST-183* AlkPhos-363* Amylase-88
+TotBili-1.8*
+2011-10-04 00:00:00 03:25AM BLOOD Calcium-8.4 Phos-3.0# Mg-2.7*
+2011-10-04 00:00:00 03:06AM BLOOD Cortsol-42.1*
+2011-10-04 00:00:00 11:48PM BLOOD Vanco-19.9
+2011-10-04 00:00:00 03:45AM BLOOD Lactate-2.6*
+
+CT 2011-10-04 00:00:00
+FINDINGS: There is no evidence of hemorrhage, edema, mass effect
+or
+infarction. The ventricles and sulci are markedly prominent,
+likely secondary to age-related global atrophy. There is no
+shift of normally midline structures. The Hicham Drossel-white matter
+differentiation is grossly preserved.  There is no evidence of
+fracture. A large mucous retention cyst is noted in the right
+maxillary sinus. The remaining visualized paranasal sinuses and
+mastoid air cells are clear.
+
+IMPRESSION:
+1. No acute intracranial process.
+2. Significant global atrophy, likely age-related.
+3. Large mucous retention cyst in the right maxillary sinus.
+
+CT  2011-10-04 00:00:00
+IMPRESSION:
+1. Limited study without IV contrast.
+2. Similar 1.6 x 1.9 cm spiculated right upper lobe lesion with
+associated
+right hilar and mediastinal lymphadenopathy, highly concerning
+for malignancy.
+3. 2-mm left upper lobe nodule, apparently new. Bibasilar
+atelectasis and
+left lower lobe discoid atelectasis. No definite focal airspace
+consolidations.
+4. Multifocal large hypodense lesions in the liver, incompletely
+assessed
+without IV contrast but compatible with widespread hepatic
+metastases.
+5. Moderate-sized hiatal hernia.
+6. Evidence of tracheomalacia.
+7. Large fibroid uterus.
+8. Similar significant T11 and T12 compression fractures.
+
+
+Brief Hospital Course:
+Assessment and Plan:
+This is a 88 yo female that presented with altered mental
+status, hypotension, a right upper mass concerning for lung
+cancer and evidence of metastatic spread.
+.
+#. Hypotension:  The patient presented with hypotension likely
+due to a combination of hypovolemia (poor PO intake for the
+preceeding days) and distributive/septic shock (given a WBC 24).
+ The infectious source was not found.  CT of
+chest/abdomen/pelvis was not revealing. UA was negative.  Blood,
+Urine, and Sputum cultures were unrevealing for an infectious
+source.  The patient was started on levophed gtt, but was
+discontinued and made CMO (see below).  The patient was
+initially place on vancomycin and zosyn, which were discontinued
+after she was made CMO.
+.
+#. Altered mental status from toxic metabolic encephalopathy in
+the context of multi123 Any St.sults including hypotension and
+infection. A CT of her head was negative for an obvious cause of
+altered mental status. Broad spectrim antibotics were started,
+but stopped when made CMO.
+.
+#. Right Upper Lung Mass- The patient presented with a right
+upper lung mass concerning for malignance with evidence of an
+8th rib fracture and hepatic metastases
+A further work up was deferred after the patient was made CMO.
+.
+#. hypercarbic respiratory failure-  The patient presented with
+metabolic acidosis (likely from sepsis) with inappropriate
+respiratory compensation.  She was intubated and placed on
+mechanical ventilation for hypercarbic respiratory failure.  She
+was extubated and made CMO.
+.
+#. Comfort Measures Only- The patient was made CMO after
+confirming with the patient's next of kind that the patient's
+wish would be to remain as comfortable as possible until she
+died.  She was extubated. Pressors were stopped.  The patient
+was started on artificial tears, morphine prn, and all
+medication were stopped other than those to maintain comfort.
+.
+#. Acute kidney Injury.  The patient presented hypovolemic and
+labs consistent with  pre-renal/ATN.  All medications were
+renally dose. Nephrotoxic drugs were avoided.  The Hicham Drossel Peffley
+improved after fluid resuscitation.
+.
+#. Jacolby Peffley Pt home dose of levothyroxine was continued
+until made CMO
+.
+#. Microcytic anemia: Likely from anemia of chronic inflammation
+given labs results.
+
+
+Medications on Admission:
+1. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. polyvinyl alcohol-povidone 1.4-0.6 % Dropperette Sig: 2011-10-04 00:00:00
+Drops Ophthalmic DAILY (Daily).
+4. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical UPMCE
+(2 times a day) as needed for intertrigo.
+5. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for wheezing.
+6. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+7. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H
+(every 8 hours) as needed for constipation.
+
+
+Discharge Medications:
+1. polyvinyl alcohol-povidone 1.4-0.6 % Dropperette Sig: 2011-10-04 00:00:00
+Drops Ophthalmic DAILY (Daily).
+2. acetaminophen 650 mg/20.3 mL Solution Sig: One (1)  PO Q6H
+(every 6 hours) as needed for pain.
+3. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+4. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day) as needed for constipation.
+5. pain management
+please start morphine sulfate 1-5 mg IV Q2H:PRN SOB, pain
+management.  Please titrate to comfort.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+hypoxemia respiratory failure
+hypotension
+right upper lobe mass
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic and not arousable.
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+You were admitted to UPMCE for
+altered mental status.  We found that you had low blood
+pressure, which we treated by giving you intravenous fluids and
+medications to raise the blood pressure.  We also found that you
+had difficult breathing, which we treated by intubation you and
+having a ventilator help you breath.  We also found evidence of
+a likely cancer that has spread around your body.
+
+Medication:
+Stop taking all medications, except the folllowing:
+Acetaminophen 650 every 6 hours for pain
+Artificial tears 1-2 drops both eyes daily
+Morphine sulfate as needed
+
+Followup Instructions:
+please see your primary care providor as needed
+
+
+                             Hicham Drossel Peffley Jacolby Peffley MD 89544
+

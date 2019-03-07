@@ -1,0 +1,176 @@
+Admission Date:  2013-10-22 00:00:00     Discharge Date:  2013-10-22 00:00:00
+
+Date of Birth: 1961-03-15 00:00:00 00:00:00     Sex:  M
+
+Service:  UPMCE
+
+CHIEF COMPLAINT:  Syncope, hematemesis.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 61 year-old
+male with a history of NASH cirrhosis, type 2 diabetes
+mellitus and esophageal varices who was transferred to UPMCE from UPMCE after
+being found down on bathroom floor.  The patient has no
+recollection of the event, but states he believes he fell
+after getting up to urinate.  The patient's wife found him on
+the floor with coffee ground emesis and dark stool.  EMS
+arrived and found his blood sugar to be 24. He was given two
+ampules of D50 at the scene.  The patient had a further
+episode of coffee ground emesis in the ambulance.  At
+arrival at UPMCE the patient's fasting blood
+sugars was 59.  His hematocrit was 42.9.  Although the
+patient was confused regarding the details of the event, the
+patient did note that he felt better after receiving the
+glucose.  He was transferred to UPMCE for a MICU admission.
+
+Upon further questioning the patient states that he has noted
+increased abdominal girth over the last one to two days and
+ten minutes of sharp right sided chest pain on the day prior
+to admission.  The patient states that he felt the pain was
+most likely secondary to muscle strain and denies any
+association with shortness of breath, dizziness, nausea,
+vomiting or diaphoresis.  The patient has been taking his
+insulin as per his routine with his last dose being the night
+prior to admission.  The patient has not been compliant with
+his diuretics over the past few days as he has ran out of his
+prescription.  The wife states that she has noted some
+yellowing of the patient's eyes as well as decreased po
+intake on the day prior to admission.
+
+PAST MEDICAL HISTORY:
+1.  NASH cirrhosis, the patient is currently on the liver
+transplant list.  He had on episode of ascites in the past.
+Liver failure is complicated by esophageal varices status
+post banding in 2013-10-22 00:00:00.
+2.  Insulin dependent diabetes.
+3.  Status post left nephrectomy and embolization for
+ASK-UPMCK kidney.
+
+MEDICATIONS ON ADMISSION:
+1.  Insulin 50 units NPH b.i.d., 20 units regular b.i.d.
+2.  Lasix 40 mg po q.d.
+3.  Aldactone 100 mg po q.d.
+4.  Inderal 10 mg po t.i.d.
+5.  Vitamin E.
+6.  Protonix 40 mg po q.d.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient denies the use of tobacco,
+alcohol or drugs.  He is married and lives with his wife.  Glendora Leeks
+is the owner of a computer chip company.
+
+FAMILY HISTORY:  No history of cancer or liver disease.
+
+PHYSICAL EXAMINATION ON ADMISSION:  The patient was
+hemodynamically stable with a blood pressure of 104/63 and a
+pulse of 70.  Respiratory rate 18.  The patient was 100% on 3
+liters nasal cannula.  In general, the patient was sitting up
+in no acute distress.  His sclera were anicteric.  His chest
+was clear to auscultation bilaterally.  There was spider
+angiomata and gynecomastia.  Cardiovascular examination was
+normal with a regular rate and rhythm.  There was a soft 2
+out of 6 systolic ejection murmur in the left upper sternal
+border without radiation.  The abdomen was soft, mildly
+distended, nontender with normoactive bowel sounds.  Rectal
+examination revealed light brown stool that was hemoccult
+negative.  The patient had no costovertebral angle
+tenderness.  His extremities had no edema except trace edema
+in the left lower extremity to the ankles.
+
+LABORATORY EXAMINATION ON ADMISSION:  White blood cell count
+6.2, hematocrit 35.8 decreased from outside hospital
+measurement of 42.9, platelets 109, sodium 140, potassium
+3.3, chloride 109, bicarb 25, BUN 7, creatinine 0.7, glucose
+137, PT 12.8, PTT 32.8, INR 1.4.  Liver function tests were
+within normal limits.  The patient had 6 to 10 white blood
+cells on urinalysis.
+
+HOSPITAL COURSE:  The patient is a 61 year-old man with known
+esophageal varices and liver failure presents with coffee
+ground emesis.  The patient was admitted to the medical
+Intensive Care Unit for management of presumed upper
+gastrointestinal bleed.  His Intensive Care Unit course is as
+described below.
+
+1.  Gastrointestinal bleed:  During the course of his
+Intensive Care Unit stay the patient exhibited no evidence of
+active bleeding.  His hematocrit was 35 on admission and
+remained stable with a nadir of 32.2.  The patient had
+esophogastroduodenoscopy done, which indicated grade one
+(minor) esophageal varices and portal gastropathy.  No
+additional banding was indicated.  At the time of transfer to
+the floor unit, the patient denied any symptoms of
+hematemesis, fatigue or lightheadedness.
+
+2.  Hypoglycemia:  The patient was hypoglycemic at the time
+of his episode and when transferred to the UPMCE
+as described above.  Per the patient's wife report the
+patient's diet was decreased on the days prior to admission.
+The patient took his normal dose of insulin regardless.  The
+patient was started on a dextrose drip with blood sugars
+ranging less then 150 generally.  He was transitioned to an
+insulin sliding scale and blood sugars have remained below
+250 generally.  His outpatient insulin regimen was
+discontinued until sugars were within normal limits.
+
+3.  Increased abdominal girth:  The patient had been
+noncompliant with diuretics for one week prior to admission.
+After restarting diuretics abdominal girth decreased.
+
+4.  Chest pain:  The patient described chest pain one day
+prior to admission.  The patient's cardiac enzymes were
+cycled and found to be negative.
+
+Given the patient's stability in the MICU the patient was
+transferred to the floor for continued monitoring.  His
+course was as follows.
+
+1.  Upper gastrointestinal bleed:  The patient had no further
+episodes of gastrointestinal bleeding.  His hematocrit
+remained stable.  He was hemodynamically stable.  He
+continued beta blocker therapy for known varices.  He was
+discharged to home on his outpatient medications.
+
+2.  Hypoglycemia:  Once the patient was tolerating regular
+diet, insulin therapy was reinitiated.  The patient had one
+episode of hypoglycemia with a nadir of 47 on 2013-10-22 00:00:00.  The
+patient has no history of prior hypoglycemic episodes despite
+being on his outpatient regimen for over four months.
+However, given the initial episode and inpatient episode of
+hypoglycemia the patient's outpatient regimen was adjusted.
+Per the medical attendings recommendation p.m. NPH dose was
+decreased to 40 units and a.m. dose of regular insulin was
+held.  Other then the described hypoglycemic episode the
+patient's blood sugars remained in good control.
+
+MEDICATIONS ON DISCHARGE:  The patient will continue his
+outpatient medications.  The insulin doses were adjusted as
+described above.
+
+FOLLOW UP:  The patient was instructed to follow up with Dr.
+[**First Name8 (NamePattern2) 1297**] Leeks in seven to ten days.
+
+CONDITION ON DISCHARGE:  The patient was asymptomatic,
+hemodynamically stable, tolerating a regular diet.
+
+DISCHARGE DIAGNOSES:
+1.  Upper gastrointestinal bleed.
+2.  Hypoglycemia.
+3.  Insulin dependent diabetes.
+4.  Cirrhosis.
+5.  Esophageal varices.
+
+
+
+
+
+
+                          Khira Braack, M.D.  2034
+
+Dictated By:Khira Braack
+
+MEDQUIST36
+
+D:  2013-10-22 00:00:00  04:53
+T:  2013-10-22 00:00:00  11:19
+JOB#:  2034

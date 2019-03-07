@@ -1,0 +1,102 @@
+Admission Date:  2014-07-23 00:00:00       Discharge Date:  2014-07-23 00:00:00
+
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 82 year old
+male, who underwent a screening endoscopy and colonoscopy on
+2014-07-23 00:00:00.  During the procedure, polypectomy was performed on
+a polyp seen in the left ascending colon.  The patient was
+discharged home and on the morning of admission, developed
+brisk bright blood per rectum and syncope when he stood up
+from his bed.  He presented to the Emergency Department at
+which time he was found to be hypotensive with a systolic
+blood pressure in the 60's. He was immediately resuscitated
+for hypovolemic shock.
+
+The patient also underwent nasotracheal intubation in the
+Emergency Room for airway protection.
+
+PAST MEDICAL HISTORY:  Significant for prostate cancer, basal
+cell carcinoma, colonic polyp, hiatal hernia,
+gastroesophageal reflux disease.
+
+PAST SURGICAL HISTORY: Significant for bilateral inguinal
+hernia repairs.  Status post XRT for prostate cancer and a
+123 Any St.us transurethral resection of prostate.
+
+MEDICATIONS ON ADMISSION:  None.
+
+ALLERGIES:  None.
+
+SOCIAL HISTORY:   There is no history of tobacco or ETOH use.
+
+PHYSICAL EXAMINATION:  The patient was intubated and sedated.
+Heart rate was 90; blood pressure was 124/70.  Chest is
+clear. His heart is regular.  His abdomen is nontender and
+nondistended.  There is bright red blood per rectum.
+Bilateral lower extremity edema.
+
+LABORATORY DATA:  Initial laboratory results included a white
+count of 10 and hematocrit of 22 which, after resuscitation,
+was repeated and found to be 30; platelet of 343.  BUN of 18;
+creatinine of 0.9.  INR of 1.0.
+
+HOSPITAL COURSE:  After undergoing the abovementioned
+maneuvers in the Emergency Department, the patient was
+transferred to the angio suite to undergo angiography.  Prior
+to angiography, the patient had a nasogastric tube lavage of
+the upper gastrointestinal tract and was found to have no
+evidence of bleeding.  The patient underwent angiography of
+the superior mesenteric artery and inferior mesenteric artery
+and there was no active extravasation seen at that time.  He
+tolerated this procedure well.  He was then transferred to
+the Intensive Care Unit under the care of the surgical team.
+
+Overnight, over his first night, the patient was transfused
+for a total of six units of packed red blood cells and two
+units of FFP.  He remained hemodynamically stable and was
+maintained on a ventilator overnight.
+
+On hospital day number two, the patient was weaned and
+extubated without incident.  There were no further episodes
+of bleeding and the patient's hematocrit remained stable at
+30.  The patient continued to do well with no evidence of
+active bleeding.
+
+On hospital day number three, the diet was advanced and the
+patient was transferred to the floor.
+
+The patient has continued to do well and has been followed by
+the gastroenterology service.  They will follow him as an
+outpatient. His hematocrit remained stable and the patient is
+now ready for discharge to home.
+
+DISCHARGE DIAGNOSES:
+Acute lower gastrointestinal bleed, presumed site of recent
+     polypectomy, Hemorrhagic shock, requiring blood
+transfusion
+     History of prostate cancer.
+Status post XRT and transurethral resection of prostate.
+History of basal cell carcinoma.
+Gastroesophageal reflux disease.
+
+MEDICATIONS:
+Protonic 40 mg p.o. q. day.
+
+The patient will follow-up with Dr. Unzueta in the
+gastrointestinal clinic in one week and will call for an
+appointment.  The patient will also to continue to follow-up
+with his primary care physician as appropriate.
+
+CONDITION ON DISCHARGE:  The patient is tolerating a diet,
+with no evidence of active bleeding. The patient is
+instructed to call should he become symptomatic once again.
+
+                            Anjanette Schils, M.D.  4565
+
+Dictated By:Anjanette Schils Unzueta, M.D.
+MEDQUIST36
+D:  2014-07-23 00:00:00  05:44
+T:  2014-07-23 00:00:00  17:43
+JOB#:  4565

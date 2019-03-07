@@ -1,0 +1,329 @@
+Admission Date:  2006-05-27 00:00:00              Discharge Date:   2006-05-27 00:00:00
+
+Date of Birth: 1922-05-18 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Heparin Agents / Vancomycin
+
+Attending:Kemarion Niederstadt
+Chief Complaint:
+Tx for hypotension/ sepsis
+
+Major Surgical or Invasive Procedure:
+Transesophageal echocardiogram
+
+
+History of Present Illness:
+Pt is a 68 yo male with DM, HTN, deep brain stimulator, who is
+being transferred from the floor from hypotension. Pt says that
+he has been having fevers off and on for 5 weeks. Max temp
+reached 104. No weight loss, night sweats with this but pt does
+endorses rigors/chills. He states that some nights he would have
+fever and sometimes his temperature would be 98.5 (fevers
+generally occured at night). Pt did not go to his [**First Name3 (LF) 3340**] until this
+past Tuesday. Blood cultures were drawn and grew out GPC in
+clusters and pt was told to come to the ED. In the ED, lactate
+was 4.7 (attributed to rigors as lactate was lower 123 Any St.usly)
+but patient did not meet strict criteria for sepsis then and was
+admitted to the floor and started on vancomycin.
+
+Past Medical History:
+1. DM 2 x 11 years
+2. Essential tremor followed by Dr Boersma, w/ DBS placed in 2006-05-27 00:00:00
+
+3. HTN
+4. melanoma of ear 15 years ago
+5. h/o falls, admitted in 2006-05-27 00:00:00
+6. hypertTG leading to pancreatitis in 2006-05-27 00:00:00
+7. ETOH hepatitis
+8. s/p CCY in 2006-05-27 00:00:00
+9. h/o peripheral neruopathy
+10. hx of CHF
+11. depression/anxiety
+
+Social History:
+former physics instructor at UPMCE. Nonmarried no children. Lives
+with sister in Charniece Boersma. No smoking. former heavy EtOH, none now.
+
+
+Family History:
+Mother died of pancreatitis. Sister died of pancreatic cancer;
+father died of bone cancer and another sister died of ovarian
+cancer.
+
+Physical Exam:
+Temp 101.7
+BP 114/74
+Pulse 106
+Resp 20
+O2 sat 96% RA
+Gen - Alert, no acute distress, arousable from sleep
+HEENT - PERRL, extraocular motions intact, anicteric, mucous
+membranes dry
+Neck - no JVD, no cervical lymphadenopathy
+Lymph: no axiallr LAD
+Chest - Clear to auscultation bilaterally
+CV - Normal S1/S2, RRR, 2/6 SEM at LUSB
+Abd - Soft, nontender, nondistended, with normoactive bowel
+sounds, RUQ surgical scar
+Back - No costovertebral angle tendernes
+Extr - No clubbing, cyanosis, or edema. 2+ DP pulses bilaterally
+
+Neuro - Alert and oriented x 3, cranial nerves 2006-05-27 00:00:00 intact,
+upper and lower extremity strength 5/5 bilaterally, sensation
+grossly intact
+Skin - red papularmacular rash over chest wall and arms, AK's on
+neck, no osler nodes or Boersma lesions, no skin breaks
+
+
+Pertinent Results:
+2006-05-27 00:00:00 02:35PM BLOOD WBC-6.7 RBC-4.62 Hgb-15.8 Hct-43.8 MCV-95
+MCH-34.1* MCHC-36.0* RDW-14.2 Plt Ct-131*
+2006-05-27 00:00:00 08:00AM BLOOD WBC-19.8*# RBC-4.29* Hgb-14.7 Hct-41.5
+MCV-97 MCH-34.3* MCHC-35.4* RDW-14.2 Plt Ct-145*
+2006-05-27 00:00:00 07:43PM BLOOD WBC-19.4* RBC-4.23* Hgb-14.3 Hct-40.2
+MCV-95 MCH-33.8* MCHC-35.5* RDW-14.2 Plt Ct-136*
+2006-05-27 00:00:00 05:30AM BLOOD WBC-5.6 RBC-3.48* Hgb-11.8* Hct-33.8*
+MCV-97 MCH-34.0* MCHC-35.0 RDW-14.0 Plt Ct-117*
+.
+2006-05-27 00:00:00 02:35PM BLOOD PT-13.6* PTT-24.1 INR(PT)-1.2*
+2006-05-27 00:00:00 05:54AM BLOOD PT-14.5* PTT-37.1* INR(PT)-1.3*
+.
+2006-05-27 00:00:00 04:24AM BLOOD Fibrino-250 D-Dimer-642*
+2006-05-27 00:00:00 02:35PM BLOOD ESR-0
+2006-05-27 00:00:00 05:56AM BLOOD ESR-28*
+.
+2006-05-27 00:00:00 02:35PM BLOOD Glucose-148* UreaN-18 Creat-1.0 Na-143
+K-3.5 Cl-107 HCO3-27 AnGap-13
+2006-05-27 00:00:00 05:30AM BLOOD Glucose-104 UreaN-12 Creat-1.1 Na-142
+K-3.5 Cl-108 HCO3-26 AnGap-12
+2006-05-27 00:00:00 02:35PM BLOOD ALT-54* AST-50* LD(LDH)-204 AlkPhos-65
+2006-05-27 00:00:00 03:14AM BLOOD ALT-54* AST-37 LD(LDH)-212 AlkPhos-42
+Amylase-20 TotBili-0.8
+2006-05-27 00:00:00 07:07AM BLOOD ALT-41* AST-56* AlkPhos-48 Amylase-17
+TotBili-0.9
+2006-05-27 00:00:00 04:24AM BLOOD Calcium-7.7* Phos-3.0 Mg-1.9
+2006-05-27 00:00:00 05:30AM BLOOD Calcium-8.4 Phos-3.3 Mg-2.2
+2006-05-27 00:00:00 08:00AM BLOOD TSH-2.0
+2006-05-27 00:00:00 02:35PM BLOOD RheuFac-6 CRP-0.8
+2006-05-27 00:00:00 05:56AM BLOOD CRP-61.8*
+2006-05-27 00:00:00 02:43PM BLOOD Lactate-1.3
+2006-05-27 00:00:00 09:42PM BLOOD Lactate-4.7*
+2006-05-27 00:00:00 11:51AM BLOOD Lactate-2.8*
+2006-05-27 00:00:00 09:39PM BLOOD Lactate-1.6
+.
+2006-05-27 00:00:00 08:04AM BLOOD HIV Ab-NEGATIVE
+2006-05-27 00:00:00 07:43PM BLOOD Parst S-NEG
+2006-05-27 00:00:00 05:00AM BLOOD Parst S-NEGATIVE
+.
+2006-05-27 00:00:00 URINE URINE CULTURE-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE ISOLATE FOR MIC-FINAL {STAPHYLOCOCCUS,
+COAGULASE NEGATIVE} INPATIENT - this culture are bacteria sent
+from the 123 Any St. blood culture of 2006-05-27 00:00:00.
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING INPATIENT
+2006-05-27 00:00:00 Blood (Toxo) TOXOPLASMA IgG ANTIBODY-FINAL;
+TOXOPLASMA IgM ANTIBODY-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING INPATIENT
+2006-05-27 00:00:00 SEROLOGY/BLOOD LYME SEROLOGY-FINAL INPATIENT
+2006-05-27 00:00:00 URINE URINE CULTURE-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2006-05-27 00:00:00 URINE URINE CULTURE-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2006-05-27 00:00:00 ABSCESS GRAM STAIN-FINAL; FLUID CULTURE-FINAL {STAPH
+AUREUS COAG +, STAPHYLOCOCCUS, COAGULASE NEGATIVE}; ANAEROBIC
+CULTURE-FINAL; FUNGAL CULTURE-123 Any St.INARY INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+2006-05-27 00:00:00 BLOOD CULTURE ANAEROBIC BOTTLE-FINAL; BRUCELLA BLOOD
+CULTURE-123 Any St.INARY INPATIENT
+2006-05-27 00:00:00 URINE URINE CULTURE-FINAL EMERGENCY UPMCE
+2006-05-27 00:00:00 BLOOD CULTURE ANAEROBIC BOTTLE-FINAL; BRUCELLA BLOOD
+CULTURE-123 Any St.INARY EMERGENCY UPMCE
+2006-05-27 00:00:00 BLOOD CULTURE ANAEROBIC BOTTLE-FINAL; BRUCELLA BLOOD
+CULTURE-PENDING EMERGENCY UPMCE
+.
+2006-05-27 00:00:00  CXR - IMPRESSION: No acute cardiopulmonary process.
+.
+2006-05-27 00:00:00 chest ultrasound - ordered to examine deep brain
+stimulator for infection.  IMPRESSION: No soft tissue fluid
+collection.
+.
+2006-05-27 00:00:00 CXR - IMPRESSION: No acute pulmonary process.
+.
+2006-05-27 00:00:00 - CT-torso with contrast.
+ IMPRESSION:
+1. Enlarged caudate and left lobes of liver with secondary signs
+of portal hypertension, including perigastric and periesophageal
+varices suggesting cirrhosis. Splenomegaly has also progressed
+since 2006-05-27 00:00:00. Small amount of perihepatic ascites.
+2. Diverticulosis without evidence of diverticulitis.
+3. Mediastinal lymph nodes measuring up to 13mm in short-axis
+diameter, not significantly changed.
+.
+2006-05-27 00:00:00 - Transesophageal Echocardiogram.
+IMPRESSION: Mildly thickened mitral and aortic valves with no
+vegetations or abscess seen. Mild mitral regurgitation.
+.
+2006-05-27 00:00:00 - Tagged white blood cell nuclear scan.
+IMPRESSION: No source of fever or bacteremia is identified.
+
+
+Brief Hospital Course:
+This is a 68 year old male with DM, HTN, a deep brain
+stimulator, who presented with 5 weeks of fever, and 2 of 4
+positive blood cultures at 123 Any St. for Staph. lugdunensis on
+2006-05-27 00:00:00.
+
+
+1. Fever - The patient was febrile on admission and on 2006-05-27 00:00:00
+began to have difficulty with hypotension.  Despite nearly 1.5
+liters in bolus normal saline his systolic blood pressure was
+persistently in the low 70s in the setting of recieving his
+anti-hypertensive medication (lasix, verapamil, lisinopril).  He
+was asymptomatic and his heart rate remaind within normal
+limits.  He was transferred to the intensive care unit where he
+recieved another 3.5 liters of normal saline and was on a
+peripheral dopamine drip for 24 hours.  A central venous
+catheter was not placed.  The patient was transferred back to
+the floor on 2006-05-27 00:00:00.  His pressure remained stable for the rest
+of his stay, but he was 123 Any St.tently febrile.  A vigorous
+attempt was made to identify the source of the fever.  Blood
+cultures, urinalysis, urine cultures, two parasite smears, Chest
+x-rays, CT-torso, trans thoracic and esophageal echocardiograms,
+chest ultrasound of his deep brain stimulator, panorex and
+tagged white blood cell scan were all negative.  Blood tests for
+HIV, brucella and lyme were negative.  Blood tests for ehlichia,
+bartonella and babesia were pending at the time of discharge.
+The patient was covered on a variety of antibiotics during his
+stay including vancomycin, doxycycline, ceftriaxone, and
+nafcillin.  Concern arose that the patient's fever was intially
+caused by an infectious Kemarion Niederstadt (possibly staph. lugdenensis),
+which had been treated, but then continued due to drug fever.
+At the time that this hypothesis arose the patient was on
+doxycycline and vancomycin.  The vancomycin was exchanged for
+nafcillin and the patient defervesced.  A PICC line was placed
+and the patient was sent home on a course of PO and IV
+antibiotics (see discharge plan).
+.
+2. Acute renal failure - This was attributed to the patient's
+episode of hypotension that was likley related to his Staph.
+lugdenensis bacteremia.  The renal failure resolved with volume
+resucitation and treatment of the bacteremia.  Mucomyst was
+given for nephroprotection before and after the CT-torso.
+.
+3. Diabetes - We held the patient's sulfonylurea and biguanide
+in setting of IV contrast. We covered the patient with lantus
+and a tight humalog insulin sliding scale.
+.
+4. Hypertriglyceridemia - we held the patient's tricor, as he
+had reported that he recently started this medication and though
+this is not classically associated with fever, we held the
+medication based on the following monograph:
+Diabetes Metab. 2006-05-27 00:00:00 2006-05-27 00:00:00;27(1):66-8.
+Rare side-effects of fenofibrate.
+Rabasa-Lhoret R, Rasamisoa M, Avignon A, Boersma L.
+See copy of abstract in the chart.
+.
+5. Other Medical Issues - managaed with outpatient regimen.
+
+
+
+Medications on Admission:
+lantus 80 u qhs
+amaryl 4 mg
+tricor 48 mg daily
+lisinopril 40 mg daily
+ASA
+lasix 40 mg daily
+b12 q mth
+novolog scale
+paxil 20 mg daily
+glyburide 5 mg UPMCE
+verapamil 180 mg daily
+KCL
+
+
+Discharge Medications:
+1. Nafcillin in D2.4W 2 g/100 mL Piggyback Sig: Two (2) g
+Intravenous Q6H (every 6 hours) for 5 days.
+Disp:*40 g* Refills:*0*
+2. Insulin Glargine 100 unit/mL Solution Sig: Eighty (80) units
+Subcutaneous at bedtime.
+3. Amaryl 4 mg Tablet Sig: One (1) Tablet PO once a day.
+4. PICC Care by VNA
+PICC line care per NEHT protocol.  Please don't use heparin.
+5. Discussion
+Please discuss your discontinuing tricor with your primary care
+physician.  Charniece Boersma inform him that we discontinued this
+medication because of your fever.
+6. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Cyanocobalamin  Oral
+10. Novolog 100 unit/mL Solution Sig: per sliding scale.  units
+Subcutaneous once a day.
+11. Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO
+Q12H (every 12 hours) for 3 days.
+Disp:*6 Capsule(s)* Refills:*0*
+12. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. Glyburide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+14. Verapamil 180 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO once a day.
+15. Potassium Chloride 8 mEq Tablet Sustained Release Sig: One
+(1) Tablet Sustained Release PO once a day: Please take
+potassium as you were prior to admission.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. Home Therpies
+
+Discharge Diagnosis:
+Fever
+Sepsis secondary to Staph Lugdunensis
+Drug induced fever - Vancomycin
+? Heparin induced thrombocytopenia
+
+
+Discharge Condition:
+Vital signs stable.  Fever resolved for greater than 24 hours.
+Ambulating.  Tollerating POs.  Toileting independently.  Still
+requiring IV antibiotics.
+
+
+Discharge Instructions:
+Please take your medications as prescribed.
+Please follow up with your primary care doctor within 1 to 2
+weeks of discharge.
+For now, you should avoid heparin products until you talk to
+your 123 Any St.. Charniece Boersma will be doing further studies in collaboration with
+our blood bank to verify this dx.
+
+Followup Instructions:
+Provider: Charniece Boersma. Boersma AND Charniece Boersma Phone:test@mail.com
+Date/Time:2006-05-27 00:00:00 11:00
+Provider:  Charniece Boersma: Charniece Boersma,Charniece Boersma Charniece Boersma. test@mail.com  Date/Time:
+2006-05-27 00:00:00 1:00pm
+Provider: Charniece Boersma Charniece Boersma 2006-05-27 00:00:00 8:30 am Phone test@mail.com
+
+
+                             Charniece Boersma Charniece Boersma MD 9348
+
+Completed by:2006-05-27 00:00:00

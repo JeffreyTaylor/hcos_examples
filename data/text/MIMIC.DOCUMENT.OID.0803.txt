@@ -1,0 +1,444 @@
+Admission Date:  2006-10-24 00:00:00              Discharge Date:   2006-10-24 00:00:00
+
+Date of Birth: 1931-10-19 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sudafed
+
+Attending:Chavelle Pettinga
+Chief Complaint:
+Hemoptysis
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy on 2006-10-24 00:00:00 and 2006-10-24 00:00:00
+2006-10-24 00:00:00: IR embolization of an intercostal/bronchial artery
+trunk
+supplying the right lower lobe.
+2006-10-24 00:00:00 IR Successful embolization of right bronchial artery
+2006-10-24 00:00:00: IR embolization of two right intercostal arteries
+supplying lung parenchyma
+Intubation
+PICC line
+
+History of Present Illness:
+Mr. Vangieson is a 55yo M with history of NSCLC s/p chemo, XRT
+and surgery in 2006-10-24 00:00:00 with post-rad pulm fibrosis, bronchiectasis
+and emphysema who presented with hemoptysis. He developed a
+cough with frank blood two days prior to admission, and
+presented to an OSH for evaluation. There he had stable vital
+signs and hematocrit and had a CTA which showed bilateral lower
+lobe ground glass opacities, pulmonary herosiderosis vs.
+atypical PNA. Patient refused ambulance transfer to UPMCE and
+presented to our ED this AM.
+.
+In the ED, initial vs were: 98.8, 103, 122/100, 20, 100%.
+Patient was given ativan for anxiety, approximately one liter of
+NS and continued on levaquin which was started on 2006-10-24 00:00:00 by his
+oncologist. Thoracics was consulted and recommended discussing
+his case with IP for possible bronch. Patient had witnessed
+hemoptysis of approximately 200cc of frank blood in the ED and
+has 4 units crossed. His hematocrit and vitals were stable with
+SBP in the 120s and heart rate in the 90s-100s. His EKG was
+unremarkable.  Thoracics wants on west for OR access if
+necessary possibly bronch tomorrow or monday. Had 100-200cc
+hemoptysis here and once at home today. 3 total episodes of
+large bleeding. Satting 100% on Ra. Got levoflox in ED.
+.
+On the floor, He denied other complaints.
+
+
+Past Medical History:
+Non-small cell lung cancer: large cell carcinoma (locally
+advanced, clinical stage T4 N0-1 M0) in 2006-10-24 00:00:00.
+s/p neoadjuvant chemotherapy (Carboplatin/Taxotere) 2006-10-24 00:00:00
+s/p chemoradiation (Radiation + low dose [**Doctor Last Name **]/Taxotere) 2006-10-24 00:00:00
+s/p surgical resection 2006-10-24 00:00:00 with pathologic stage N0. Only scant
+residual tumor noted within lung parenchyma.
+Bronchiectasis
+Emphysema
+Pulmonary fibrosis combined with post-XRT/chemo pulmonary
+changes
+
+
+Social History:
+Social History: No tobacco or excessive alcohol. Negative HIV
+antibody in 2006-10-24 00:00:00. Since 2006-10-24 00:00:00 he has not smoked
+tobacco/cigarretes
+- this was confirmed in today's visit (prior 40 pack-year
+history
+of smoking).
+
+
+Family History:
+N/C
+
+Physical Exam:
+Physical Exam:
+Vitals: T: 97.7 BP: 149/97 P: 90 R: 18 O2: 98% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Absent breath sounds in RUL, decreased BS in RLL
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+2006-10-24 00:00:00 09:00AM   PT-13.7* PTT-27.9 INR(PT)-1.2*
+2006-10-24 00:00:00 09:00AM   PLT COUNT-148*
+2006-10-24 00:00:00 09:00AM   NEUTS-55.4 LYMPHS-34.4 MONOS-7.5 EOS-1.4
+BASOS-1.1
+2006-10-24 00:00:00 09:00AM   WBC-5.1 RBC-5.51 HGB-16.7 HCT-48.2 MCV-87
+MCH-30.2 MCHC-34.6 RDW-13.3
+2006-10-24 00:00:00 09:00AM   estGFR-Using this
+2006-10-24 00:00:00 09:00AM   GLUCOSE-111* UREA N-13 CREAT-1.0 SODIUM-138
+POTASSIUM-4.6 CHLORIDE-101 TOTAL CO2-26 ANION GAP-16
+2006-10-24 00:00:00 10:24AM   LACTATE-1.8
+2006-10-24 00:00:00 10:55AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+2006-10-24 00:00:00 10:55AM URINE  COLOR-Yellow APPEAR-Clear SP Vangieson-1.024
+2006-10-24 00:00:00 10:55AM URINE  GR HOLD-HOLD
+2006-10-24 00:00:00 02:30PM   PLT COUNT-144*
+2006-10-24 00:00:00 02:30PM   PLT COUNT-144*
+2006-10-24 00:00:00 02:30PM   WBC-5.0 RBC-5.08 HGB-15.5 HCT-43.6 MCV-86
+MCH-30.5 MCHC-35.5* RDW-13.5
+2006-10-24 00:00:00 06:21PM   TYPE-ART PO2-201* PCO2-44 PH-7.37 TOTAL
+CO2-26 BASE XS-0
+2006-10-24 00:00:00 07:42PM   HCT-43.4
+2006-10-24 00:00:00 05:00AM BLOOD WBC-8.3 RBC-4.26* Hgb-12.7* Hct-35.3*
+MCV-83 MCH-29.8 MCHC-36.0* RDW-14.1 Plt Ct-209
+2006-10-24 00:00:00 03:26AM BLOOD WBC-8.2 RBC-4.25* Hgb-12.7* Hct-36.3*
+MCV-85 MCH-29.9 MCHC-35.0 RDW-14.0 Plt Ct-224
+2006-10-24 00:00:00 04:30AM BLOOD WBC-6.0 RBC-3.75* Hgb-11.4* Hct-32.7*
+MCV-87 MCH-30.3 MCHC-34.8 RDW-14.1 Plt Ct-241
+2006-10-24 00:00:00 04:18AM BLOOD WBC-6.7 RBC-3.93* Hgb-11.7* Hct-33.9*
+MCV-86 MCH-29.8 MCHC-34.4 RDW-13.8 Plt Ct-238
+2006-10-24 00:00:00 03:36AM BLOOD WBC-5.9 RBC-3.90* Hgb-11.5* Hct-33.4*
+MCV-86 MCH-29.6 MCHC-34.5 RDW-13.9 Plt Ct-222
+2006-10-24 00:00:00 03:25AM BLOOD Neuts-89.2* Lymphs-5.6* Monos-4.7 Eos-0.2
+Baso-0.2
+2006-10-24 00:00:00 03:10AM BLOOD Neuts-72.9* Lymphs-14.2* Monos-7.7
+Eos-4.8* Baso-0.3
+2006-10-24 00:00:00 05:00AM BLOOD Neuts-83.7* Lymphs-7.5* Monos-8.2 Eos-0.2
+Baso-0.4
+2006-10-24 00:00:00 04:30AM BLOOD Neuts-78.6* Lymphs-14.9* Monos-5.0
+Eos-0.9 Baso-0.6
+2006-10-24 00:00:00 03:36AM BLOOD Plt Ct-222
+2006-10-24 00:00:00 03:36AM BLOOD Glucose-118* UreaN-19 Creat-0.7 Na-137
+K-3.4 Cl-108 HCO3-22 AnGap-10
+2006-10-24 00:00:00 03:00PM BLOOD Glucose-112* UreaN-24* Creat-0.9 Na-141
+K-3.3 Cl-109* HCO3-24 AnGap-11
+2006-10-24 00:00:00 04:18AM BLOOD Glucose-106* UreaN-23* Creat-0.9 Na-146*
+K-3.5 Cl-117* HCO3-19* AnGap-14
+2006-10-24 00:00:00 04:30AM BLOOD Glucose-128* UreaN-32* Creat-0.8 Na-144
+K-2.9* Cl-116* HCO3-20* AnGap-11
+2006-10-24 00:00:00 05:00AM BLOOD ALT-42* AST-60* LD(LDH)-347* AlkPhos-52
+TotBili-2.1*
+2006-10-24 00:00:00 03:03PM BLOOD ALT-39 AST-79* AlkPhos-66 Amylase-75
+TotBili-2.7* DirBili-1.2* IndBili-1.5
+2006-10-24 00:00:00 02:30AM BLOOD Amylase-50
+2006-10-24 00:00:00 03:36AM BLOOD Calcium-8.2* Phos-2.4* Mg-1.9
+2006-10-24 00:00:00 03:00PM BLOOD Calcium-8.3* Phos-3.2 Mg-2.0
+2006-10-24 00:00:00 04:18AM BLOOD Calcium-8.2* Phos-2.9 Mg-2.1
+2006-10-24 00:00:00 03:20PM BLOOD Type-ART Temp-37.3 O2 Flow-2 pO2-127*
+pCO2-21* pH-7.53* calTCO2-18* Base XS--2 Intubat-NOT INTUBA
+Comment-NASAL Vangieson
+2006-10-24 00:00:00 04:43AM BLOOD Type-ART Temp-37.4 Rates-/22 pO2-108*
+pCO2-21* pH-7.54* calTCO2-19* Base XS--1 Intubat-NOT INTUBA
+2006-10-24 00:00:00 08:58PM BLOOD Type-ART Temp-38.1 pO2-109* pCO2-20*
+pH-7.55* calTCO2-18* Base XS--1 Comment-O2 DELIVER
+
+Labs on d/c
+2006-10-24 00:00:00: WBC 5.7, HCT 30.1, plt 236
+Diff Neuts 78.6, Lymph 14.9, mono 5.0, Eos 0.9, Baso 0.6
+Glucose 127, BUN 18, Cr 0.7, Na 140, K 3.7, CL 112, HCO 20,
+Ca 7.4, Phos 2.5, Mg 2.1
+2006-10-24 00:00:00 ALT 66, AST 43, Alk 59, Tbili 0.7
+lipase 389
+
+2006-10-24 00:00:00 8:05 pm BLOOD CULTURE      Source: Venipuncture.
+
+                            **FINAL REPORT 2006-10-24 00:00:00**
+
+   Blood Culture, Routine (Final 2006-10-24 00:00:00):    NO GROWTH.
+ECG
+Study Date of 2006-10-24 00:00:00  9:36:34 AM
+Sinus tachycardia. Baseline artifact. ST-T wave abnormalities.
+Since the
+123 Any St.us tracing of 2006-10-24 00:00:00 the rate is somewhat faster.
+BILATERAL LOWER EXTREMITY VENOUS US: Study Date of 2006-10-24 00:00:00 1:34
+PM No comparison is available. Bilateral common femoral,
+superficial femoral and popliteal veins show normal
+augmentation, compressibility and flow. Bilateral calf veins
+show normal flow and compressibility. IMPRESSION: There is no
+evidence of DVT in the bilateral lower extremities.
+
+2006-10-24 00:00:00 embolization:
+IMPRESSION: Successful embolization of two right intercostal
+arteries
+supplying lung parenchyma.
+Arteriography of the right subclavian artery and right imternal
+mammary artery
+showed predominantly pleural based hypervascularity, but no
+significant
+pulmonary parenchymal supply.
+
+2006-10-24 00:00:00 Bronch:
+ This procedure was performed in
+the intensive care unit.  This was under already obtained
+consent of the ICU care.  The patient was correctly
+identified in the intensive care unit.  He was sedated with
+Versed, propofol, and some fentanyl.  Lidocaine was instilled
+through the endotracheal tube.  Next, the currently present
+#39 double-lumen endotracheal tube was unsecured from his
+face.  The cuffs were deflated, and an 11-French Cook
+catheter was threaded through the bronchial lumen into the
+left main-stem, after which the tube was withdrawn, followed
+by replacement with a single-lumen #8 endotracheal tube.  It
+was secured at 24 cm at the lip.  The patient maintained
+saturation at 100% during this portion.
+
+Next, a flexible bronchoscope was introduced through the
+single-lumen endotracheal tube and advanced forward, and as
+we approached the carina, we noticed that there was
+significant distortion from the 123 Any St.us operation.  There
+was a very obtuse angle at the carinal bifurcation, and the
+bronchus to the middle lobe was slit-like and had some
+secretions, which were suctioned out.  Then, the right lower
+lobe bronchus was examined.  There was some clot, which was
+very carefully suctioned.  There was no evidence of active
+bleeding.  After that, we performed aggressive suctioning of
+the left main-stem as well as the left upper and left lower
+lobes.  All the visible clot on the left side was removed.
+At the end of the procedure, everything appeared very patent.
+The patient was saturating above 95% during the entire
+procedure.  Once we were satisfied with the result, the
+bronchoscope was withdrawn.  The patient tolerated the
+procedure well.
+.
+2006-10-24 00:00:00: MRI T spine:
+The alignment of the thoracic spine is preserved. The vertebral
+body height is preserved. There is no prevertebral soft tissue
+edema. There
+is no evidence of abnormal signal within the cord.
+
+There is multilevel T2-hypointense signal in the intervertebral
+disc
+suggesting multilevel disc dehiscence seen in setting of
+degenerative changes.
+At multiple levels including T4-T5, T5-T6, T6-T7 and T7-T8,
+there is minimal
+disc bulging; however, there is no spinal canal or neural
+foraminal narrowing.
+IMPRESSION:
+1. Normal signal in the spinal cord.
+2. Minimal multilevel degenerative changes in the thoracic
+spine, with no
+evidence of spinal canal or neural foraminal narrowing.
+.
+2006-10-24 00:00:00: FINDINGS: Right basilic PICC line is seen with its tip
+in the distal superior vena cava. There are unchanged
+postoperative changes in the right upper lung fields with volume
+loss. Otherwise, there is no acute change in comparison to the
+prior.
+IMPRESSION:
+1. Right basilic PICC line within the distal superior vena cava.
+
+2. No additional acute changes compared to prior radiograph.
+.
+2006-10-24 00:00:00 RUQ US:
+. No evidence of acute cholecystitis.
+
+2. Small echogenic foci dependently within the gallbladder may
+represent non-
+shadowing stones versus small polyps.
+
+3. GB adenomyomatosis.
+
+4. Small hepatic hemangioma adjacent to the gallbladder fossa.
+
+
+
+Brief Hospital Course:
+55 y/o with h/o NSCLC s/p chemo / XRT with resulting pulmonary
+fibrosis and bronchiectasis presents with hemoptysis.
+
+#Hemoptysis: On the day of admission (2006-10-24 00:00:00) bronchoscopy
+demonstrated a rapid bleed in the RLL, but they were unable to
+visualize due to the briskness of bleeding.  He was intubated
+and taken to to IR (details below).  This temporarily controlled
+the bleeding, but Mr. Vangieson has repeated episodes of
+agitation and coughing which led to further episodes.  On 2006-10-24 00:00:00
+he hemoptysized another 75cc and returned to IR for repeat
+embolization.  He rebled on the evening of 2006-10-24 00:00:00 and returned for
+embolization on 2006-10-24 00:00:00.  On 2006-10-24 00:00:00, interventional pulmonology took
+him to the OR and removed a large residual clot.  No further
+bleeding was noted. While in MICU he was extubated on 2006-10-24 00:00:00. By
+discharge he had no oxygen requirement.
+
+IR:
+2006-10-24 00:00:00: R CFA access- R intercosto-bronchial art with late
+communication w/pulm art noted- embolized with 300-500 um
+embospheres; good angiographic result; no other ikely bleeding
+source identified; hemostasis by manual compression.
+2006-10-24 00:00:00: R CFA site no hematoma, palpable distal pulses; no
+apparent hemoptysis but Hct 48 --> 43 (0207) --> 36 (2006-10-24 00:00:00)
+2006-10-24 00:00:00: recurrence of hemoptysis--> repeat bronchial arteriogram
+and embolization(with 500-700 micron embospheres) of a large R
+bronchial art; abnormal arterial blush was noted and there was
+no spinal contribution; good angiographic result achieved; R CFA
+access- hemostasis by digital compression.
+#Sedation/withdrawal: During the initial week of hospitalization
+Mr. Vangieson required heavy sedation to remain comfortable while
+intubated.  This included large doses of midazolam.  After
+extubation he became autonomically unstable with tachycardia,
+hypertension and tremors.  He was treated with q1h CIWA scales
+and initially required frequent valium dosing. His agitation
+eventually improved, and he became less tachycardic. His blood
+pressure also improved.
+
+#Neurological deficits. He was noted to have a left leg motor
+deficit, as well as word finding difficulty. Neurology was
+consulted and felt that he might have spinal cord ischemia
+secondary to embolization. An MRI was ordered and showed no
+ischemia of the spinal cord. Despite this finding they believe
+transient ischemia is responsible for his improving deficits.
+His word finding difficulty improved and he was able to speak
+clearly prior to discharge.. His leg weakness improved as well
+over the next several days. He passed speech and swallow and was
+started on a diet. Diet on discharge: Regular Consistency: Soft
+(dysphagia);  Thin liquids Supplement: Ensure breakfast, lunch,
+dinner. Neurology recommends follow up in 2006-10-24 00:00:00 weeks and repeat
+MRI of T spine with diffusion weighting if deficits remain.
+Despite LLE improvment he remains incontinent of stool and
+retaining urine. Neurology also recommended wearing a soft
+collar for arm tingling.
+
+#Fever: Mr. Vangieson had a fever on 2006-10-24 00:00:00 and spiked again on
+2006-10-24 00:00:00.  He was treated empirically for a ventilator-associated
+pneumonia although no cultures were positive and there were no
+suggestive findings on CXR.  He received an 8-day course of
+vancomycin and piperacillin/tazobactam. Cultures were negative.
+
+#Anemia: Some anemia, secondary to hemoptysis.  Received one
+unit early in stay.  Hct was afterwards stable.
+
+#Elevated Lipase - patient was noted to have a transaminitis as
+well as elevated level of lipase. Most likely secondary to
+propofol use for sedation; no evidence of biliary etiology.  He
+did not complain of abdominal symtpoms. 2006-10-24 00:00:00 RUQ US negative.
+He has been eating without dificulty. Continued monitoring of
+lipase and LFTS biweekly is warrented.
+
+# Tachycardia: Multiple contributing factors, including resp
+failure, anemia, and agitation. However with stabilization of
+the above factors the patient remains tachycardic to the 110s to
+120s. He was orthostatic but remains elevated despite fluid
+resusitation. Benzo withdrawal was considered but thought
+unlikely given the timeframe and administration of valium
+without improvement. He is without onging oxygen requirement
+making PE unlikely. Ongoing IVF resusitation is warrented. It is
+also hypothesized that the tachycardia is from mild
+pancreatitis. Ongoing heart rate monitoring is warrented.
+
+# HTN: After extubation the patient was hypertensive with SBP up
+to 190s. This was attribued to aggitation. He was treated with
+IV metoprolol, clonidine patch, and IV hydral. With improvement
+in his mental status BP improved and he was switch to
+monotherapy with PO metoprolol by discharge.
+
+# Delirium: Patient was aggitated for much of his ICU stay
+requiring IV Valium, zydis, and IV haldol. This likely
+contributed to hypertension and tachycardia. By discharge his MS
+had returned to baseline without need for ongoing antipsycotics.
+
+
+
+Medications on Admission:
+LORAZEPAM 1-2 mg UPMCE PRN anxiety/insomnia (around 3 mg a day)
+ACAPELLA 20 times in both AM and PM
+TESTOSTERONE CYPIONATE [DEPO-TESTOSTERONE] 200 mg/mL Oil - 1.5cc
+IM injection Every 14 days
+MULTIVITAMIN daily
+OMEPRAZOLE 40 mg daily
+
+
+Discharge Medications:
+1. docusate sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg
+PO BID (2 times a day) as needed for constipation.
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+3. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day).
+4. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3
+times a day).
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+7. Acapella     Device Sig: Twenty (20) times Miscellaneous
+twice a day.
+8. testosterone cypionate 200 mg/mL Oil Sig: 1.5 cc
+Intramuscular q 2 weeks: currently on hold.
+9. multivitamin     Capsule Sig: One (1) Capsule PO once a day.
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Radius Specialty Hospital - 123 Any St.
+
+Discharge Diagnosis:
+hempotysis
+123 Any St.tent tachycardia
+LLE weakness and bowel incontinence, bladder retension believed
+2006-10-24 00:00:00 to trainsient spinal cord ischemia
+Delirium
+Anemia
+
+
+Discharge Condition:
+good. A+Ox3, non ambulatory given LLE weakness. HR 110s
+
+
+Discharge Instructions:
+You were admitted because you were coughing up blood. You
+required a breathing tube to help you breath while you bleed.
+You had three special procedures to help stop the bleeding. We
+were able to stop the bleeding and remove the breathing tube.
+After the procedure you had some difficulty moving the left leg
+and with bathroom control. This is believed to be from
+temporarily lack of blood flow to the spinal cord as a
+consequence of the embolization procedures. You also remain with
+an elevated heart rate which will continue to need treatment on
+the rehab. You also had alterations in your mental status and
+swallowing ability which have now improved.
+
+The following changes were made to your medication list:
+Lorazepam was discontinued
+senna and colace were started
+heparin sub cutaneous was started
+metoprolol was started
+testosterone is on hold.
+
+
+Followup Instructions:
+Neurology: Dr 123 Any St.. test@mail.com. 1030
+am, 2006-10-24 00:00:00.
+
+PCP: Kadaisha Vangieson,Kadaisha Vangieson Kadaisha Vangieson. test@mail.com 2006-10-24 00:00:00, 820 am
+
+
+                             Chavelle Pettinga Vangieson Kadaisha Vangieson MD 75542
+
+Completed by:2006-10-24 00:00:00

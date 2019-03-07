@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (Getting Started)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build hcos.getting_started",
+            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Core Launch (Documents)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build hcos.getting_started",
+            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "args": ["documents_demo"],
+            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Core Launch (Documents+Ingestion)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build hcos.getting_started",
+            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "args": ["documents_ingestion_demo"],
+            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Core Launch (Searching)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build hcos.getting_started",
+            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "args": ["searching_demo"],
+            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Core Launch (Searching+Documents)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build hcos.getting_started",
+            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "args": ["searching_documents_demo"],
+            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "Python: Terminal (integrated)",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/python"
+        },
+    ]
+}

@@ -1,0 +1,305 @@
+Admission Date:  2012-01-06 00:00:00              Discharge Date:   2012-01-06 00:00:00
+
+Date of Birth: 1974-12-19 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Addyline Cichoracki
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+80 year old male with h/o COPD, CHF sent in by PCP to evaluate
+hypoxemia.  His baseline O2 sat is 92% and he was noted to be
+78% RA at his PCP's office and satting in the 86% 4Ln.c. in the
+ED.  His CXR with pulmonary congestion and RLL pneumonia.
+Patient states for the past week, he has had increasing dyspnea
+on exertion and also with some dizziness and nausea with
+exertion.  Two days prior to admission, he states he was sanding
+floors with his son, wearing a mask and noticed the symptoms to
+be more prominent after this.  He was initially admitted to the
+MICU as he was started on bipap in the ED.  In the ICU, he
+received nebs, levofloxacin for his pneumonia and diuresed him
+with lasix 20mg iv prn.  He diuresed 2.4 L off since admission
+(24 hrs).  He was transitioned quickly off bipap and onto 40%
+face mask.  ABG on 2012-01-06 00:00:00 a.m. 7.34/61/81.
+.
+He is currently on face mask, states his breathing is much more
+comfortable.  He denies fevers, cough, chest pain, abd pain, leg
+swelling.
+
+Past Medical History:
+COPD (last PFTs 2012-01-06 00:00:00 FEV1/FVC 98%, FEV1 55)
+Coronary artery disease
+CHF (last echo 2012-01-06 00:00:00 showed preserved EF >55%, diastolic
+dysfunction)
+BPH
+Osteoarthritis bilateral hips s/p right total hip replacement
+Hypercholesterolemia
+atopic dermatitis
+cervical spondylosis
+s/p tonsillectomy
+
+Social History:
+Lives with his wife, retired plumbing/heating
+Tob: smoked x60yrs, quit 2012-01-06 00:00:00
+EtOH: "very little"
+Illicits: denies
+
+
+Family History:
+Mother d. 56yrs MI, Father d. 71 MI, brothers with MI in 70s
+
+Physical Exam:
+T 98.3 HR 81 BP 160/82 RR 29 96% 15.0Lventimask
+GEN: sitting at 45degrees, speaking full sentences, breathing
+with pursed lips
+HEENT: PERRL, anicteric, OP clear, dry MM
+Neck: supple, JVP elevated 14cm to base of ear, no LAD, no
+carotid bruits
+CV: RRR, II/VI SEM at LUSB, no radiation
+Resp: bilateral crackles and wheezes. no rhonchi. no egophany.
+no dullness or percussion
+Abd: obese, soft, NT, +BS, mildly distended, no fluid wave
+Ext: 2012-01-06 00:00:00+ BLE edema, 1+ B DPs, 2+ B radials
+Skin: erythematous nodules with central eschar over abdomen,
+erythematous plaques and papules on legs
+Neuro: A&Ox3, CN II-XII intact, strength 5/5 thoughout,
+sensation intact to touch
+
+
+Pertinent Results:
+2012-01-06 00:00:00 06:20PM   PLT COUNT-195
+2012-01-06 00:00:00 06:20PM   HYPOCHROM-3+
+2012-01-06 00:00:00 06:20PM   NEUTS-74.2* LYMPHS-16.9* MONOS-6.9 EOS-1.3
+BASOS-0.6
+2012-01-06 00:00:00 06:20PM   WBC-6.3 RBC-5.09 HGB-15.0 HCT-45.9 MCV-90
+MCH-29.4 MCHC-32.7 RDW-15.0
+2012-01-06 00:00:00 06:20PM   CK-MB-6 proBNP-1813*
+2012-01-06 00:00:00 06:20PM   cTropnT-0.03*
+2012-01-06 00:00:00 06:20PM   LIPASE-50
+2012-01-06 00:00:00 06:20PM   ALT(SGPT)-34 AST(SGOT)-46* CK(CPK)-213* ALK
+PHOS-71 AMYLASE-65 TOT BILI-0.7
+2012-01-06 00:00:00 06:20PM   GLUCOSE-96 UREA N-22* CREAT-1.0 SODIUM-138
+POTASSIUM-5.7* CHLORIDE-100 TOTAL CO2-33* ANION GAP-11
+2012-01-06 00:00:00 06:31PM   freeCa-1.03*
+2012-01-06 00:00:00 06:31PM   HGB-15.6 calcHCT-47
+2012-01-06 00:00:00 06:31PM   GLUCOSE-95 LACTATE-1.8 NA+-138 K+-6.6*
+CL--99* TCO2-36*
+2012-01-06 00:00:00 06:31PM   TYPE-Hosier PH-7.25* COMMENTS-NOT SPECIF
+2012-01-06 00:00:00 07:42PM   LACTATE-0.9
+2012-01-06 00:00:00 09:32PM   TYPE-ART RATES-/16 TIDAL VOL-300 PEEP-5 O2-40
+PO2-75* PCO2-83* PH-7.30* TOTAL CO2-43* BASE XS-11 INTUBATED-NOT
+INTUBA
+.
+pCXR 2012-01-06 00:00:00:
+1. CHF.
+2. Possible superimposed right lower lobe pneumonia.
+3. Small right pleural effusion.
+4. Increase in mediastinal width and tracheal deviation compared
+to 2012-01-06 00:00:00 is probably due to AP technique but suggests
+increased aortic caliber. A full PA and lateral series is
+suggested when the patient may tolerate this.
+.
+Abd ultrasound 2012-01-06 00:00:00:
+1. Unremarkable abdominal ultrasound with no focal liver
+lesions.
+2. No evidence of ascites.
+3. Pancreas and aorta not well imaged in the midline
+.
+Echo 2012-01-06 00:00:00:
+The left atrium is dilated. The right atrium is moderately
+dilated. There is mild symmetric left ventricular hypertrophy.
+The left ventricular cavity size is normal. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Overall left ventricular systolic function is
+normal (LVEF 70%). Right ventricular chamber size and free wall
+motion are normal. The number of aortic valve leaflets cannot be
+determined. The aortic valve leaflets are moderately thickened.
+There is mild aortic valve stenosis (area 1.3 cm2). The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. Trivial mitral regurgitation is seen. The pulmonary
+artery systolic pressure could not be determined. There is no
+pericardial effusion.
+
+Compared with the findings of the prior report (images
+unavailable for review) of 2012-01-06 00:00:00, mild aortic stenosis
+is now present.
+.
+Pa/L CXR:
+Mild pulmonary edema and congestion of pulmonary and mediastinal
+vessels have resolved since 2012-01-06 00:00:00, small bilateral pleural
+effusions are present. It could have been present but
+unrecognized on the 123 Any St.us study. Heart size has returned to
+123 Any St.. There is a roughly 3-cm wide opacity at the base of the
+right lung, which projects over the thoracic spine on lateral
+view and could be a mass. The configuration of the trachea
+suggests chronic lung disease. There is a severe degenerative
+change in the right shoulder.
+.
+CTA chest 2012-01-06 00:00:00:
+1. Small bilateral pleural effusions and bibasilar atelectasis.
+There is more focal airspace disease at the right lower lobe,
+which may represent pneumonia, clinical correlation is
+recommended.
+2. Hilar lymphadenopathy, which may be reactive.
+3. Two indeterminate pulmonary nodules in the right upper lobe
+as described. If the patient has a known malignancy, a one-year
+followup is recommended or comparison with prior CT scans. If
+there is history of malignancy, then a three-month followup is
+recommended.
+4. Suggestion of thoracic outlet syndrome, correlation with
+history and symptoms is recommended. These findings were
+discussed with the intern on call at 7 p.m. on 2012-01-06 00:00:00.
+
+
+Brief Hospital Course:
+80yoM with h/o COPD & CHF presents with hypoxemia and R lower
+lobe pneumonia.
+.
+# Hypoxemic respiratory distress: Etiology was thought to be
+multifactorial, due to decompensated CHF, complicated by RLL PNA
+and COPD.  He was initially sent to the ICU for Bipap, diuresis
+and anitbiotics, but called out after one day.  He underwent an
+echo 2012-01-06 00:00:00, which showed EF of 70%, so likely diastolic CHF.
+D-dimer was elevated so CTA chest was performed and negative for
+PE.  Two small nodules were noted in the R upper lobe (5mm and
+4mm) and need to be followed as an outpatient.  He was continued
+on Lasix 20mg IV, Levofloxacin for pna, and standing nebulizers
+(Ipratropium Bromide and Albuterol).  He was fluid restricted
+with strict I/O measured.  He was started on and ACEI for
+afterload reduction.  The patient improved symptomatically but
+continued to be hypoxic on room air (78%). This improved to low
+90s on 2L oxygen.  It was felt that he is likely chronically
+hypoxic as he has chronically elevated bicarbonate and
+hematocrit.  He was evaluated by physical therapy and felt safe
+for home.  It is recommended that he undergo pulmonary rehab.
+He will be discharged on lasix 20mg PO daily, Levofloxacin x 6
+more days for community acquired pneumonia, and 2L home oxygen
+at all times.
+.
+# CAD: The patient denied chest pain, and there were no acute
+ECG changes. Cardiac enzymes showed flat CK and trops, slightly
+elevated to 0.03 in setting of hypoxia.  He was continued on his
+statin and aspirin.  Stress test was deferred to outpatient as
+pt with acute CHF exacerbation.  Addition of a b-blocker was
+considered by deferred to his primary care provider.
+.
+# HTN- he was hypertensive on admission and not on any
+anti-hypertensives.  ACE-I was started and BP has been well
+controlled on Lisinopril.  Addition of a b-blocker for CHF/CAD
+was considered but deferred to his primary care provider.
+.
+# Dizziness: The patient unable to define "dizziness."  This may
+be due to hypoxia or orthostasis. His neuro exam was wnl.  His
+dizziness resolved with treatment of his CHF and hypoxia.  He
+was cleared by PT for discharge home.
+.
+# Hyperlipideia: The patient was continued on atorvastatin.
+.
+# BPH: The patient was continued on Terazosin.
+.
+# FEN: cardiac diet
+.
+# PPx: SC heparin, po diet, bowel regimen
+.
+# Code: Full
+
+Medications on Admission:
+Meds on admission:
+Lipitor 10mg daily
+ASA 81mg dialy
+MVI
+Etodolac 400mg UPMCE (not taking)
+Addyline Cichoracki 60mg daily (not taking)
+Nasacort 2puffs OU daily
+Terazosin 10mg qHS
+Albuterol MDI 2puffs Q4hr prn (not taking)
+Meclizine 25mg TID prn (not taking)
+.
+Meds on transfer:
+captopril 12.5mg po tid (just started)
+heparin 5000u sc tid
+levofloxacin 500mg po qday
+albuterol Nebs q6
+Atrovent Nebs q6
+terazosin 10mg po qhs
+ASA 81 qday
+atorvastatin 10mg po qday
+
+Discharge Medications:
+1. Oxygen
+Oxygen therapy.  2L nasal cannula to be used at all times.
+2. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation
+prn as needed for shortness of breath or wheezing.
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+6. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for constipation.
+Disp:*50 Tablet(s)* Refills:*0*
+7. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 6 days.
+Disp:*6 Tablet(s)* Refills:*0*
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Terazosin 5 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Community acquired pneumonia
+2. Congestive heart failure exacerbation
+3. COPD
+
+
+Discharge Condition:
+Stable, comfortable.  Requires O2 at all times.
+
+
+Discharge Instructions:
+You have a right lung pneumonia as well as volume overload from
+heart failure.  Your oxygen levels were noted to bee too low and
+you will therefore require home oxygen therapy.  You should use
+oxygen at all times until instructed otherwise by your primary
+care doctor.
+.
+Two small nodules were discovered on your CT scan.  These need
+to be followed over time by your primary care physician.  Beasley Hosier is
+aware of these nodules.
+.
+We recommend a stress test to be done as an outpatient to
+evaluate your arteries in the heart.
+.
+Some new medications were started for you: Lisinopril for your
+blood pressure, Levofloxacin (an antibiotic) for pneumonia (to
+be taken for 6 additional days), and Furosemide (a diuretic) to
+be taken every day for heart failure.
+.
+Please call your doctor or return to the hospital if you have
+shorntess of breath while using your oxygen, chest pain,
+dizziness, or any other concerning symptom.
+
+Followup Instructions:
+You have an appointment with your primary doctor, Dr. Hosier
+on Thursday, 2012-01-06 00:00:00 at 11:30am.
+
+
+
+Completed by:2012-01-06 00:00:00

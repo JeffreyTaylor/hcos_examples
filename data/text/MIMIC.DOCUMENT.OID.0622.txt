@@ -1,0 +1,291 @@
+Admission Date:  2008-12-29 00:00:00              Discharge Date:   2008-12-29 00:00:00
+
+Date of Birth: 1962-12-29 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Binnie Pesak
+Chief Complaint:
+Headache, malaise, nausea, disorientation
+
+Major Surgical or Invasive Procedure:
+Lumbar puncture
+
+
+History of Present Illness:
+This is a 55 year old gentleman with chronic hypocapnia, central
+sleep apnea, episodic hyperventilati, onorthostatic hypotension,
+and autonomic dysfunction who is suspected to have a syndrome
+related either to mitochondrial disease, channelopathy, or an
+uncharacterized metabolic pathway disturbance.  He presented to
+the ED after a particularly severe episode of his chronic
+hypocapnia.   These episodes have been going on for eleven years
+and have been characterized by nausea, headache, malaise and
+lightheadedness.  Particularly bad episodes  will lead to frank
+disorientation, as this one did.   The patient monitors his
+end-tidal CO2 at home and his urinary pH.   He reports that,
+when his end-tidal CO2 is low or his pH is not sufficiently
+alkalemic, he tends to get these episodes.
+The only treatment that seems to have helped his symptoms
+consistently is bicarbonate replacement.
+
+On consultation with his sleep physician, Krauss. Binnie Pesak, it
+was decided that, given his uncharacterized syndrome, he would
+be admitted to the MICU for intensive monitoring of his blood
+gas and chemistries to further define the biochemical nature of
+his syndrome.  This originally was to have occurred next week.
+He, however, had another episode of his hypocapneic syndrome
+yesterday while vacationing in 123 Any St..  He was disoriented for
+two hours. Home test of end-tidal CO2 during a hyperventilation
+episode was in the 20's.  His wife Amista Krauss Dr. Binnie Pesak 6 hours
+prior to admission and it was decided he should fly back to
+123 Any St. and present to the ED for admission to the MICU.
+
+In the ED, initial vital signs T 99.7 P 94 BP 111/67 O2 97 on
+2L.  He was nauseated but no longer disoriented.  He had taken
+bicarbonate last about 8 hours 123 Any St.usly.  A VBG revealed
+7.41/25/147/16.  Bicarb was on chemistries which were otherwise
+unremarkable He received zofran for nausea as well as one liter
+IVF.
+
+On presentation to MICU the patient reports his still feels his
+usual symptoms of nausea, headache and lightheadedness.  He
+denies fevers or sick contacts.  Amista Krauss traveled to 123 Any St. last
+week and does report his symptoms worsen with altitude or with
+air travel.
+
+Past Medical History:
+1) Central sleep apnea
+2) Coronary artery disease, single vessel disease on 2008-12-29 00:00:00
+catheterization: two bare metal stents to the OM2 vessel,
+3) Hypertension, on antihypertensive medications x 6yrs
+4) hyperlipidemia
+5) Orthostasis, postural hypotension
+6) Gout
+7) Hypogonadotropic hypogonadism
+8) Empty sella, nl pituitary function
+9) Chronic kidney disease, stage III, baseline cr 1.1-1.3
+10) Rapid cycling mood disorder
+
+Social History:
+He is married, with two children.  There is no history of
+tobacco, alcohol, or illicit drug use.  He is a venture
+capitalist and engineer.
+
+Family History:
+Mother died at age 72 with a neuromuscular disorder, dystonia,
+and respiratory failure.  She also suffered from hypertension
+and obstructive sleep apnea.
+His father died at age 64 from stomach cancer, but had also been
+diagnosed with stage I renal cell carcinoma and had a CVA at age
+59.  Multiple family members with neurologic difficulties.
+
+Physical Exam:
+T 99.1; P 91;  BP  125/70; RR 14;  O2 95 on RA;
+Gen: WD/WN male Caucasian in NAD, pleasant
+Head: NCAT
+Eyes: PERRL, EOMI, no scleral icterus
+Mouth:  Slightly dry MM
+Neck:  Supple, no bruits, no LND, no lymphadenopathy or
+thyromegaly
+Chest:  CTA bilaterally
+Cor: RR, nl S1S2, sinus rhythm on telemetry
+Abd: Flat, NT
+Ext: No edema, nl distal pulses.
+Neurol: CN 2,3,4,5,6,7,9,10,11,12 grossly intact.
+Normal strength and sensation in upper and lower extremities.
+No nystagmus, dysdiachokinesis.  Nl tracking
+Reflexes somewhat sluggish (brachioradialis, biceps, patellar)
+No pronator drift, tremor or asterixis.
+Skin: No rash
+
+Pertinent Results:
+2008-12-29 00:00:00 10:00PM BLOOD
+WBC-12.0* RBC-5.40 Hgb-16.0 Hct-44.7 MCV-83 MCH-29.6 MCHC-35.8*
+RDW-13.4 Plt Ct-314
+2008-12-29 00:00:00 05:18AM BLOOD
+WBC-7.7 RBC-4.86 Hgb-14.8 Hct-41.3 MCV-85 MCH-30.4 MCHC-35.9*
+RDW-14.0 Plt Ct-321
+
+2008-12-29 00:00:00 10:00PM BLOOD
+Glucose-128* UreaN-30* Creat-1.1 Na-140 K-3.7 Cl-109* HCO3-20*
+AnGap-15
+2008-12-29 00:00:00 07:30PM BLOOD
+Glucose-116* UreaN-19 Creat-1.2 Na-140 K-3.8 Cl-111* HCO3-18*
+AnGap-15
+
+2008-12-29 00:00:00 10:00PM BLOOD Calcium-8.8 Phos-2.4* Mg-1.9
+2008-12-29 00:00:00 07:30PM BLOOD Calcium-8.8 Phos-3.1 Mg-1.8
+
+2008-12-29 00:00:00 12:17AM BLOOD Ammonia-50*
+2008-12-29 00:00:00 01:45AM BLOOD Ammonia-38
+
+2008-12-29 00:00:00 03:27AM BLOOD
+Type-ART Temp-37.3 Rates-/20 FiO2-21 pO2-88 pCO2-29* pH-7.42
+calTCO2-19*
+2008-12-29 00:00:00 06:21PM BLOOD
+Type-ART pO2-110* pCO2-23* pH-7.52* calTCO2-19* Base XS--1
+2008-12-29 00:00:00 01:05AM BLOOD
+Type-ART pO2-119* pCO2-28* pH-7.38 calTCO2-17* Base XS--6
+
+2008-12-29 00:00:00 12:26PM BLOOD Lactate-1.9 Na-139 K-3.6 Cl-104
+calHCO3-21
+
+2008-12-29 00:00:00 03:27AM BLOOD freeCa-1.07*
+2008-12-29 00:00:00 04:32PM BLOOD freeCa-1.16
+
+Brief Hospital Course:
+55-year-old gentleman with chronic hypocapnic syndrome, central
+apnea of unclear etiology believed to have an undefined
+metabolic, mitochondrial, or channel-related syndrome.
+
+1) Hypocapnic syndrome, unknown etiology for past 11 years.  No
+interventions currently beyond bicarbonate therapy.  123 Any St.usly
+seen by many specialists including endocrine and renal.
+Initially admitted to gather data x 48 hours.  While inpatient
+ABGs, electrolytes and urine electrolytes were collected every 2
+hours x 24 hours, then every 4 hours x 24 hours.  The only
+ap123 Any St.ble intervention in his respiratory alkalosis was
+improvement after oxycodone administration for a severe
+headache. We also sent serum metanephrines, urine metanephrines,
+and 24 HOUR urine 5-HIAA which were pending upon discharge.  LP
+performed, pH reported as 7.7 with protein of 83, ammonia sent
+out.  His CSF pH is unexplained, and may be artifactual.
+Following his LP, we attempted collection of ABGs while patient
+was using his CO2-rebreather device.  Mr. Krauss, however, was
+unable to tolerate the attempt.  After discussion of an overall
+plan for diagnosis, he was discharged with follow-up for further
+evaluation, as well as prescriptions for oxycodone and
+ondansetron given that these were the only medications that
+provided symptomatic benefit and ABG improvement during his
+inpatient stay.
+
+2) Orthostasis, long standing.  Not an active problem while
+inpatient, no intervention pursued.
+
+3) Concern for potassium wasting syndrome, very high urine K and
+persistent hypokalemia.  Potassium was monitored while inpatient
+and was never below 3.5.
+
+4) CAD, no symptoms of ischemia.  Known history of CAD s/p PCI
+to OM2.  Was continued on propanol and vytorin while inpatient.
+He probably needs to restart his ACE-I, but this was deferred to
+outpatient management.
+
+5) Tremor.  Not an active inpatient issue.  Was continued on
+propranolol while inpatient.
+
+6) Mood disorder.  During inpatient stay he was intermittently
+very anxious with pressured speech.  Expressed great frustration
+about the lack of answers concerning his acid-base
+abnormalities.  SW was consulted to help with patient coping
+while in the hospital.  He was also continued on Topamax and PRN
+Ativan.
+
+7) Hypogonadism.  Continued on outpatient Androgel.  As this is
+a nonformulary medication, he took his own medication while
+inpatient.
+
+Medications on Admission:
+1) Clonazepam 1.5 daily,
+2) Vytorin combined ezetimibe 10 mg, simvastatin 20 mg daily,
+3) Flonase 2 puffs once daily as need
+4) Lisinopril 10 mg daily,
+5) Magnesium citrate 300 mg every four hours
+6) Potassium citrate 200 mg every four hours
+7) Propranolol ten milligrams twice daily,
+8) AndroGel 25 mg once daily
+9) Topamax 50 four times a day
+10) Lisinopril 10 mg daily
+11) Sodium bicarbonate one teaspoon four times daily
+
+Discharge Medications:
+1. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2)
+Spray Nasal DAILY (Daily).
+4. Clonazepam 1 mg Tablet Sig: 1-1.5 mg PO QHS (once a day (at
+bedtime)) as needed: Insomnia.
+5. Propranolol 10 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+6. Topiramate 25 mg Tablet Sig: Two (2) Tablet PO QID (4 times a
+day).
+7. Testosterone 1 % (25 mg/2.5 g) Gel in Packet Sig: One (1)
+patch Transdermal Daily ().
+8. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain for 3 days.
+Disp:*12 Tablet(s)* Refills:*0*
+9. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO every 6-8 hours as needed for nausea for 3
+days.
+Disp:*12 Tablet, Rapid Dissolve(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis
+# Central sleep apnea
+# Chronic hypocapnia
+# Orthostatic hypotension
+# To-be-defined metabolic, mitochondrial, or channel disorder
+.
+Secondary dignosis
+# Coronary artery disease
+# Hypertension
+# Hyperlipidemia
+# Gout
+# Hypogonadotropic hypogonadism
+# ?Chronic kidney disease
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were hospitalized for closer laboratory monitoring because
+of your central sleep apnea and chronic hypocapnia.  We took
+regular blood samples to assess your blood chemistries.
+.
+We have called for an appointment for you with Dr. Binnie Pesak
+123 Any St., 123 Any St., 123 Any St.,
+[**Numeric Identifier 4708**], Phone: test@mail.com, Fax: test@mail.com.  Please call
+them to set up an appointment as they know you will be a patient
+of Dr. Krauss.
+.
+We have also made an appointment for you with Dr. Amista Krauss,
+your sleep specialist, on Friday, 2008-12-29 00:00:00:40 pm at
+123 Any St..
+.
+We have given you Oxycodone for pain which you can take as
+needed for three days, and have given you ondansetron for nausea
+which you can take as needed for three days.  Please refer to
+your prescriptions for the details of how to take these
+medications.  Otherwise, we have not changed your medications.
+.
+If you feel nauseous, have a headache, or have any other
+symptoms that are concerning to you, call your doctor
+immediately and go to the emergency room.
+
+Followup Instructions:
+Provider: Amista Krauss MD, Phone:test@mail.com.  Date/Time:
+2008-12-29 00:00:00, 12:40 pm.  UPMCE [**Location (un) 851**].
+.
+Provider: Amista Krauss MD, Phone:test@mail.com.  Please call
+to set up your appointment.
+.
+Provider: Binnie Pesak, M.D. Phone:test@mail.com
+Date/Time:2008-12-29 00:00:00 10:00
+Provider: Amista Krauss. Amista Krauss & [**Doctor First Name 4712**] Phone:test@mail.com
+Date/Time:2008-12-29 00:00:00 2:00
+
+
+                             Amista Krauss MD, 32025
+

@@ -1,0 +1,441 @@
+Admission Date:  2009-04-04 00:00:00              Discharge Date:   2009-04-04 00:00:00
+
+Date of Birth: 1995-03-28 00:00:00 00:00:00             Sex:   F
+
+Service: EMERGENCY
+
+Allergies:
+Levofloxacin / Penicillins / IV Dye, Iodine Containing /
+Statins-Hmg-Coa Reductase Inhibitors / simvastatin
+
+Attending:Charyl Siliga
+Chief Complaint:
+red urine
+
+Major Surgical or Invasive Procedure:
+Urinary Foley catherization
+Central line insertion
+Mechanical Intubation
+
+History of Present Illness:
+Mrs. Faylynn F. Tun is a 82 year-old spanish and italian
+speaking woman with DM2, asthma, AFib who presents with weakness
+for the past week. She has been unable to stand or get out of
+bed and has had generalized weakness.
+.
+In the ED, initial vitals were 99, 103, 181/84, 16, 96%. Her
+labs were significant for CK elevation to [**Numeric Identifier 2528**] without renal
+failure. Her EKG was unchanged from prior. Neurology was
+consulted given her weakness and felt this was likely related to
+rhabdo. Patient received approximately 1 liter of NS in the ER
+given CXR with concern for volume overload. Head CT showed small
+(<4.5mm) L frontal area that was possibly SDH vs calcium. She
+was admitted to medicine with vitals on transfer of 94, 155/66,
+16, 98% RA.
+.
+On the floor, her son translates for her and says she feels ok.
+She denies any pain, SOB, CP, palpitations. She is asking for
+water.
+.
+ROS: Per son, patient frequently complains of having to urinate.
+Denies headache, vision changes, sore throat, cough, shortness
+of breath, chest pain, abdominal pain, nausea, vomiting,
+diarrhea, constipation.
+
+
+Past Medical History:
+- Diastolic CHF
+- Hypertension
+- Diabetes
+- Paroxysmal AFib on coumadin
+- Asthma
+- GERD
+
+
+Social History:
+She is originally from 123 Any St. and then moved to 123 Any St., where
+she lived most of her life. She has been in the US since 2009-04-04 00:00:00.
+She denies any current or past history of smoking. Drinks
+alcohol socially and has never used illicit drugs. She lives
+with her husband, who is her primary care taker. She uses a
+walker at baseline and requires a lot of help with her ADLs.
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Admission
+PHYSICAL EXAM:
+VS: 97.7, 145/86, 125, 18, 98% RA
+GENERAL: Elderly female in NAD, comfortable, appropriate.
+HEENT: NC/AT, EOMI, sclerae anicteric, MM dry, OP clear.
+NECK: Supple, no JVD
+HEART: Tachycardic, no MRG, nl S1-S2.
+LUNGS: CTA bilat anteriorly (pt unwilling to sit forward), no
+r/rh/wh, good air movement, resp unlabored.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.
+LYMPH: No cervical LAD.
+NEURO: Awake, CNs II-XII grossly intact, muscle strength 4/5 in
+bilateral feet (would not participate with rest of exam)
+
+.
+2009-04-04 00:00:00
+PHYSICAL EXAM:
+VS: 95.9, 162/51, 78, 18, 99% RA
+GENERAL: Elderly female in NAD, comfortable, appropriate,
+oriented X 0.
+HEENT: NC/AT, EOMI, sclerae anicteric, MM dry, OP clear.
+NECK: Supple, elevated JVD to mandible
+HEART:irregular rhythym, no MRG, nl S1-S2.
+LUNGS: Bilaterl lower lung insp. crackles and decreased breath
+sounds toward the bases.no wheezes, good air movement, resp
+unlabored.
+ABDOMEN: Soft/NT to palp/ND,positive bowel sounds, no masses or
+HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses. No CVA
+tenderness
+LYMPH: No cervical LAD.
+NEURO: Awake, CNs II-XII grossly intact, muscle strength 4/5 in
+bilateral feet on plantarflexion (would not participate with
+rest of exam)
+
+
+Pertinent Results:
+Admission Labs
+
+2009-04-04 00:00:00 08:45PM   SODIUM-138 POTASSIUM-3.8 CHLORIDE-99
+2009-04-04 00:00:00 08:45PM   ALT(SGPT)-507* AST(SGOT)-880* CK(CPK)-[**Numeric Identifier 2529**]*
+ALK PHOS-71 TOT BILI-0.5
+2009-04-04 00:00:00 06:30PM URINE  COLOR-AMBER APPEAR-Hazy SP Tun-1.015
+2009-04-04 00:00:00 06:30PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+2009-04-04 00:00:00 06:30PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE
+EPI-0
+2009-04-04 00:00:00 06:30PM URINE  AMORPH-OCC
+2009-04-04 00:00:00 06:30PM URINE  MUCOUS-OCC
+2009-04-04 00:00:00 05:51PM   PT-34.5* PTT-26.5 INR(PT)-3.4*
+2009-04-04 00:00:00 05:25PM   SODIUM-134 POTASSIUM-6.4* CHLORIDE-95*
+2009-04-04 00:00:00 05:25PM   GLUCOSE-474* UREA N-26* CREAT-0.9 SODIUM-133
+POTASSIUM-7.4* CHLORIDE-96 TOTAL CO2-28 ANION GAP-16
+2009-04-04 00:00:00 05:25PM   estGFR-Using this
+2009-04-04 00:00:00 05:25PM   CK(CPK)-[**Numeric Identifier 2528**]*
+2009-04-04 00:00:00 05:25PM   cTropnT-0.07*
+2009-04-04 00:00:00 05:25PM   proBNP-1537*
+2009-04-04 00:00:00 05:25PM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG
+barbitrt-NEG tricyclic-NEG
+2009-04-04 00:00:00 05:25PM   WBC-11.0# RBC-4.66# HGB-14.1 HCT-42.6 MCV-91
+MCH-30.2 MCHC-33.1 RDW-13.6
+2009-04-04 00:00:00 05:25PM   NEUTS-76.1* LYMPHS-18.3 MONOS-4.2 EOS-0.7
+BASOS-0.7
+2009-04-04 00:00:00 05:25PM   PLT COUNT-251
+.
+Discharge Labs
+
+2009-04-04 00:00:00 07:03AM BLOOD WBC-35.9* RBC-1.82*# Hgb-5.5*# Hct-18.4*#
+MCV-101* MCH-30.3 MCHC-30.0* RDW-16.2* Plt Ct-150
+2009-04-04 00:00:00 05:22AM BLOOD WBC-42.8* RBC-2.93* Hgb-9.0* Hct-28.3*
+MCV-96 MCH-30.7 MCHC-31.9 RDW-15.7* Plt Ct-260
+2009-04-04 00:00:00 09:24PM BLOOD WBC-32.9*# RBC-3.14* Hgb-9.4* Hct-30.1*
+MCV-96 MCH-29.8 MCHC-31.1 RDW-15.5 Plt Ct-274
+2009-04-04 00:00:00 06:38AM BLOOD WBC-20.7* RBC-3.65* Hgb-11.3* Hct-34.5*
+MCV-95 MCH-31.1 MCHC-32.8 RDW-15.0 Plt Ct-259
+2009-04-04 00:00:00 02:40AM BLOOD WBC-15.7* RBC-3.70* Hgb-11.3* Hct-35.2*
+MCV-95 MCH-30.5 MCHC-32.1 RDW-15.2 Plt Ct-231
+2009-04-04 00:00:00 03:19AM BLOOD WBC-14.8* RBC-3.77* Hgb-11.3* Hct-35.6*
+MCV-95 MCH-29.9 MCHC-31.6 RDW-15.2 Plt Ct-232
+2009-04-04 00:00:00 06:29PM BLOOD WBC-15.8* RBC-3.78* Hgb-11.6* Hct-35.6*
+MCV-94 MCH-30.6 MCHC-32.5 RDW-15.3 Plt Ct-227
+2009-04-04 00:00:00 07:03AM BLOOD Neuts-77* Bands-4 Lymphs-10* Monos-4
+Eos-0 Baso-0 Atyps-1* Metas-4* Myelos-0 NRBC-1*
+2009-04-04 00:00:00 09:24PM BLOOD Neuts-81* Bands-3 Lymphs-7* Monos-8 Eos-0
+Baso-0 Atyps-0 Metas-1* Myelos-0
+2009-04-04 00:00:00 06:38AM BLOOD Neuts-75* Bands-2 Lymphs-4* Monos-11
+Eos-2 Baso-0 Atyps-0 Metas-1* Myelos-5*
+2009-04-04 00:00:00 03:19AM BLOOD Neuts-77* Bands-2 Lymphs-12* Monos-4
+Eos-0 Baso-0 Atyps-1* Metas-2* Myelos-2*
+2009-04-04 00:00:00 07:03AM BLOOD Plt Smr-NORMAL Plt Ct-150
+2009-04-04 00:00:00 07:03AM BLOOD PT-63.6* PTT-150* INR(PT)-7.04*
+2009-04-04 00:00:00 05:22AM BLOOD Plt Ct-260
+2009-04-04 00:00:00 05:22AM BLOOD PT-49.4* PTT-69.0* INR(PT)-5.2*
+2009-04-04 00:00:00 09:24PM BLOOD PT-35.3* PTT-150* INR(PT)-3.5*
+2009-04-04 00:00:00 05:00PM BLOOD PT-28.7* PTT-39.4* INR(PT)-2.8*
+2009-04-04 00:00:00 02:40AM BLOOD PT-32.3* PTT-30.0 INR(PT)-3.2*
+2009-04-04 00:00:00 04:20AM BLOOD PT-73.6* PTT-36.9* INR(PT)-8.3*
+2009-04-04 00:00:00 07:15AM BLOOD PT-29.3* PTT-27.1 INR(PT)-2.8*
+2009-04-04 00:00:00 07:03AM BLOOD Glucose-286* UreaN-33* Creat-1.0 Na-141
+K-5.4* Cl-103 HCO3-22 AnGap-21*
+2009-04-04 00:00:00 05:22AM BLOOD Glucose-187* UreaN-32* Creat-0.7 Na-139
+K-5.1 Cl-102 HCO3-24 AnGap-18
+2009-04-04 00:00:00 09:24PM BLOOD Glucose-268* UreaN-26* Creat-0.7 Na-138
+K-4.7 Cl-103 HCO3-26 AnGap-14
+2009-04-04 00:00:00 05:00PM BLOOD Glucose-205* UreaN-24* Creat-0.5 Na-140
+K-4.4 Cl-105 HCO3-28 AnGap-11
+2009-04-04 00:00:00 05:22AM BLOOD ALT-443* AST-508* LD(LDH)-1116*
+AlkPhos-86 TotBili-0.8
+2009-04-04 00:00:00 09:24PM BLOOD ALT-298* AST-144* LD(LDH)-545*
+CK(CPK)-535* AlkPhos-84 TotBili-0.4
+2009-04-04 00:00:00 09:24PM BLOOD CK-MB-17* MB Indx-3.2 cTropnT-1.18*
+2009-04-04 00:00:00 05:00PM BLOOD CK-MB-17* MB Indx-2.9 cTropnT-1.19*
+2009-04-04 00:00:00 11:01AM BLOOD CK-MB-18* MB Indx-3.2 cTropnT-1.36*
+2009-04-04 00:00:00 07:03AM BLOOD Calcium-10.9* Phos-7.7*# Mg-2.3
+2009-04-04 00:00:00 05:22AM BLOOD Albumin-2.1* Calcium-7.2* Phos-4.5 Mg-2.2
+2009-04-04 00:00:00 09:24PM BLOOD Albumin-2.0* Calcium-7.1* Phos-3.1 Mg-1.7
+2009-04-04 00:00:00 05:00PM BLOOD Calcium-7.2* Phos-2.3* Mg-1.7
+2009-04-04 00:00:00 04:01AM BLOOD Osmolal-313*
+2009-04-04 00:00:00 03:46AM BLOOD TSH-0.87
+2009-04-04 00:00:00 08:13AM BLOOD Charyl Siliga-NEGATIVE
+2009-04-04 00:00:00 06:38AM BLOOD Digoxin-2.0
+2009-04-04 00:00:00 05:25PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+2009-04-04 00:00:00 07:17AM BLOOD Type-CENTRAL VE pO2-95 pCO2-68* pH-7.10*
+calTCO2-22 Base XS--9 Comment-GREEN TOP
+2009-04-04 00:00:00 05:45AM BLOOD Type-Tun Comment-GREEN TOP
+2009-04-04 00:00:00 01:06PM BLOOD Type-ART pH-7.36
+2009-04-04 00:00:00 07:17AM BLOOD Lactate-15.3*
+2009-04-04 00:00:00 06:43AM BLOOD Glucose-104 Lactate-14.8* Na-144 K-7.1*
+Cl-99*
+2009-04-04 00:00:00 05:45AM BLOOD Lactate-7.5*
+2009-04-04 00:00:00 09:28PM BLOOD Lactate-4.2*
+2009-04-04 00:00:00 11:10PM BLOOD Lactate-3.4*
+2009-04-04 00:00:00 03:02PM BLOOD Lactate-3.8*
+2009-04-04 00:00:00 07:17AM BLOOD freeCa-1.53*
+2009-04-04 00:00:00 06:43AM BLOOD freeCa-0.77*
+2009-04-04 00:00:00 04:00AM BLOOD freeCa-1.07*
+2009-04-04 00:00:00 01:06PM BLOOD freeCa-0.98*
+
+Brief Hospital Course:
+UPMCE Floor course
+Mrs.  Tun was a very nice 82 year-old spanish and italian
+speaking woman with DM2, asthma, chronic  systolic heart failure
+(EF 55%), HTN, paroxysmal Atiral Fibrilliation who initially
+presented with rhabdo. which was complicated by altered mental
+status, leukocytosis, and acute renal failure, she recieved
+intavenous Bicarbonate and was placed on Amiodarone in the ICU
+and was transferred back to the general wards ( on 2009-04-04 00:00:00) from
+the ICU after her acute renal failure and atrial fibrilliation
+was rate controlled.
+.
+#Positive Troponins/NSTEMI- On morning of 2009-04-04 00:00:00 the patient
+complained of vague abdominal pain and EKG was carried out with
+cardiac enxymes. Troponin was found to be positive at 1.2 with
+CK index of 2.4. The patient's pain resolved with no
+intervention and she was asymptomatic on morning rounds with the
+only complaint of weakness. Her EKG was hard to assess for ST
+changes given chronic left bundle branch block.Her vitals
+remained stable and her troponin remained between 1.2-1.35.
+Heparin drip was started on the morning of 2009-04-04 00:00:00 with full dose
+aspirin with cardiology consult. On the morning of 2009-04-04 00:00:00 the
+patient was in rate controlled atrial fibrilliation on standing
+metoprolol and amiodarone which was continued. During the
+afternoon on 2009-04-04 00:00:00 the patient went into atrial fibrilliation
+with RVR to 140's and responded to 2 pushes of 5mg metoprolol
+and 10mg diltiazam to rate controlled idioventricular rhythym in
+the 60's with BP 150/80's and 100% oxygenation on RA. The
+patient was noted to be unresponsive a few hours later for few
+minutes , blood sugars were normal, neurological exam was
+nonfocal,abdominal exam benign with no distension, only insp
+crackles diffusley was observed, vitals were stable (including
+systolic BP above 150, afebrile, without tachycardia), the
+patient became more responsive but still delirious after 5
+minutues. ABG at the time showed no carbon dioxide retention or
+hypoxemia but was remarkable for lactate of 4. The MICU was
+notified of the patient however the patient did not meet
+transfer criteria vitals wise at the time. The patient was found
+to be pulseless on the floor 2009-04-04 00:00:00 AM code blue was called and
+she was transferred to MICU. In the MICU patient initally had a
+pulse but quickly had another cardiac arrest. Resuscitation
+efforts were continued for another 20 minutes but ultimately the
+patient did not have return of circulation and she was pronouced
+dead on 2009-04-04 00:00:00 at 744am.
+.
+# Atrial fibrillation: Patient was s/p cardioversion here twice
+during this admission which failed to keep her in sinus rhythym.
+Her INR continued to be elevated off coumadin for unclear
+reasons, perhaps acute liver failure. Her LFT's and CK were
+trending down significantly while on the floor and she had
+normal liver ultrasound with patent vasculature. Continued
+Amiodarone and Metoprolol per above.
+.
+# Acute on Chronic  systolic heart failure : Her recent EF was
+approximately 40% last month.However a echocrdiogram on 2009-04-04 00:00:00
+showed a EF of 20% with global hypokinesis and no coronary
+distribution. Possible causes for the lowered EF could have been
+volume overload, atrial fibrilliation or tachycardia induced
+cardiomyopathy though this was lower on the differential. She
+was volume overloaded with elevated JVD, pulmonary edema and
+lower extremity edema. Was monitored clinically and admin IV
+lasix per above for net goal of negative 500cc-1000cc/day. Given
+40mg and 80mg lasix bolus's on 2009-04-04 00:00:00, negative 400cc as of 2009-04-04 00:00:00
+6PM.
+
+.
+# Rhabdomyolysis: Her rhabdo was likely related to statin
+myopathy as she was supposed to stop this medication after
+recent admit to UPMCE in 2009-04-04 00:00:00 but she continued to take it
+secondary to confusion with med rec. Successfully treated with
+IV fluids, and creatinine normalized with good urine output on
+transfer to the floor 2009-04-04 00:00:00. Etiology remained unclear, though
+statin was discontinued on admission, on the differenital
+remained viral myositis (studies EBV, CMy negative), autoimmune
+disease. CK and LFT's had significantly trended down as of the
+morning of 2009-04-04 00:00:00. Neurology recommended myositis panel, and
+EMG(not done) and autoimmune panel including Mi2 pending.TSh was
+normal.
+.
+#Transaminitis- no signs of hepatic disease on ultrasound of the
+liver with patent vasculature. Experienced a significant
+trasnaminits which was associated with a significant elevated
+INR of 8.0. Was hypotensive by report after cardioversion and
+could have been due to ischemic hepatitis with antibiotics/poor
+nutrition contributing though remians unclear.
+.
+#. Asthma: She used albuterol inhaler PRN at home with history
+of asthma and COPD per records. Continued PRN nebs while inpt.
+.
+#. GERD: Continued home PPI.
+.
+# Hyperdense brain lesion: Her CT head in the ER showed a small
+<4.5 mm hyperdense focus in the L frontal area which could be
+small SDH or calcium deposition. This was a film limited by
+motion so repeat may be helpful to further characterize this
+small area.Not signifiant given no neurological signs or
+deficits, plan was to reimage when clinically stable
+.
+#. Diabetes Mellitus Type 2: continued insulin ss
+
+*******************
+MICU course through 2009-04-04 00:00:00:
+Patient admitted to the ICU for altered mental status and
+respiratory distress.  Initially, this was presumed due to flash
+pulmonary edema as she was hypertensive and CXR appeared to be
+consistent.  Therefore, she was initially diuresed.  However, in
+the morning her urine output was minimal, her hematocrit/CBC
+appeared very hemoconcentrated, her lactate was rising and her
+02 sats were >94% on RA.  Renal was consulted who agreed that
+the patient was volume deplete and she was given 5L LR
+throughout the day as well as 150ml/hr of d51/3amps of bicarb to
+alkalinize the urine.  Even with this amount of fluid, her 02
+sat on room air was >90%.  It was hypothesized that the patient
+aspirated on the floor rather than flashed though this is
+unclear.
+.
+The patient's creatinine increased from 1.0 to 1.4 in the first
+day in the ICU.  Her urine was spun and was consistent with ATN.
+ The renal consultants felt this was due to pre-renal azotemia
+on the floor as well as rhabdomyolysis.  Her CK trended down
+from 50,000 to 30,000 over the first day in the ICU.  Her
+creatinine peaked at 2.4 and then started to trend down and her
+urine output increased.  She also had evidence of hypotensive
+liver injury (with some contribution from rhabdomyolysis).  Her
+AST/ALT peaked in the low 2009-04-04 00:00:00 and trended down rapidly.  There
+was no abnormalities in her liver synthetic function.
+.
+The patient' hematocrit also decreased from 47 to 34 after the
+5L IVF and bicarb.  She was guaiac negative.  This was felt to
+be dilutional.  However, her INR was supratherapeutic at 4.5 so
+she was monitored closely for bleeding.  She did not have flank
+echymosis.  Repeat HCTs were 32-37 and she had no further signs
+of bleeding.
+.
+The patient's WBC was 22 on arrival to the ICU (up from 11 on
+admission) and she had fever to 100.8.  She had copious diarrhea
+so C.Diff was sent and PO Vanco and IV flagyl were started
+empirically.  C. Diff came back negative x1, but the suspician
+was still high so Vanco and Flagyl were continued and Cipro was
+added (patient listed allergy to levofloxacin was GI upset).
+She had a CT abdomen (with PO contrast only given acute renal
+failure), this showed no acute process and no signs of colitis,
+and 2 more C. Diff were negative so cipro, flagyl and PO vanco
+were stopped.  She also had blood and urine cultures sent that
+were negative.  The patient's WBC plateued and she was started
+on Vanc/aztreonam for RLL infiltrate.
+.
+The patient's mental status was initially lethargic but after
+IVF resuscitation, improved to close to her baseline per family.
+ However, given the acute onset of the AMS and the patient's
+supratherapeutic INR head CT was performed and showed no acute
+process. Neuro was consulted for myopathy and started a workup.
+The patient continued to have delirium in the ICU with
+sundowning and was started on standing seroquel and night which
+helped.
+.
+Although the patient reportedly came to the hospital in NSR, she
+was tachycardic into the 140s consistently.  It was difficult to
+control her rate with IV dilt, IV metoprolol because her
+pressures became low.  She was trialed on esmolol drip and this
+improved her rate into the 120s but this, too, was limited by
+hypotension. She was cardioverted on MICU day 3 and stayed in
+sinus for about 24 hours before she reverted to tachycardia.
+She then had marginal blood pressures and esmolol was tried but
+stopped.  Cardiology again tried cardioversion and after
+discussing with liver, bolused and loaded with amiodarone.  She
+became hypotensive after the cardioversion and a central line
+was placed and the patient started on neo with good response.
+She again reverted to tachycardia 12 hours later and received 1
+more bolus of amio and reverted to sinus. She reverted yet again
+on 2009-04-04 00:00:00 to afib/flutter to 130s despite being started on amio
+load.  She was seen by cards who recommended diuresis and EP
+consult. EP recommended digoxin loaded which improved her rates
+into low 100s.
+
+Patient was discharged from the ICU to the UPMCE where she was
+noted to have a mildy elevated troponin and a decision was made
+to initiate heparin.  She continued to have intermittent a.
+fibrillation.  On the evening before she died, she had another
+episode of atrial fibrillation.  The team rate controlled the
+atrial fibrillation but approximately 8-12 hours later she
+suffered a sudden cardiac arrest and was transported back to the
+ICU.  I arrived in the ICU that morning while CPR was in
+progress and had been for a prolonged period of time.  Despite
+standard ACLS, the patient did not have ROSC and she was
+pronounced dead.  Though the patient had not been under my care
+for the days preceding the death, I spent time discussing the
+possible reasons for her death.
+
+
+Medications on Admission:
+Tolterodine 2 mg UPMCE
+Levothyroxine 125 mcg daily
+Calcium 600 600 mg (1,500 mg) daily
+Colace 100 mg daily
+Lasix 20 mg daily
+Losartan 100 mg daily
+Multivitamin daily
+Nitroglycerin 0.4 mg SL PRN
+Nortriptyline 10 mg qHS
+Lorazepam 0.5 mg UPMCE PRN
+Insulin glargine 20 units daily
+Insulin aspart sliding scale
+Senna 8.6 mg two tabs qHS
+Albuterol sulfate 90 mcg/Actuation HFA q4 PRN
+Bisacodyl Oral
+Diltiazem CD 180 mg qday
+Metoprolol succinate 200 mg qday
+Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+
+
+
+Discharge Medications:
+patient expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+patient expired
+
+Discharge Condition:
+patient expired
+
+Discharge Instructions:
+patient expired
+
+Followup Instructions:
+patient expired
+
+
+Completed by:2009-04-04 00:00:00

@@ -1,0 +1,399 @@
+Admission Date:  2009-06-12 00:00:00              Discharge Date:   2009-06-12 00:00:00
+
+Date of Birth: 1956-10-09 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Keivonte Arroyd
+Chief Complaint:
+Left leg pain & malaise
+
+
+Major Surgical or Invasive Procedure:
+2009-06-12 00:00:00 R->L fem fem bypass for LLE ischemia
+2009-06-12 00:00:00 L hip irrigation/debridement
+2009-06-12 00:00:00 sigmoid colectomy, hartmann end sigmoid colostomy
+2009-06-12 00:00:00 L hip I&D VAC placement
+2009-06-12 00:00:00 Repeat I&D of left hip, hip left disolocated
+2009-06-12 00:00:00 Repeat I&D of left hip
+2009-06-12 00:00:00 Repeat I&D of l hip, remove fem head and some hardware
+
+2009-06-12 00:00:00 Repeat I&D L hip, remove femoral hardware, vac changed
+
+2009-06-12 00:00:00 Repeat I&D L hip, closed wound with sup wound to VAC
+
+
+
+
+History of Present Illness:
+ 78F has had abd distension x 1 week.  She says she has not
+thrown up but her pcp's note from yesterday says she has.  She
+has been moving her bowels.  For the past two days she has felt
+weak and had diffuse abd pain.  She had a loose bms early
+yesterday.  She looked bad enough that family members called an
+ambulance today.  Initial blood pressure by EMS was 70/palp.
+She
+was not tachycardic because she is beta blocked.  She was given
+4L of fluid and her blood pressure has responded well.  She
+threw
+up when she got to the ER.
+Currently she is not having abd pain.  Her left leg is the only
+source of pain.
+She had a similar episode following her L total hip replacement
+last 2009-06-12 00:00:00.  A CT scan showed a pSBO.  This resolved with
+conservative management after 3 days.
+
+Past Medical History:
+PMHx: HTN, anxiety, psoriasis, osteoporosis, anemia, goiter,
+cataracts
+
+PSHx: h/o lymphoma in spleen s/p splenectomy 2009-06-12 00:00:00 (no f/u
+oncology notes are seen in OMR), s/p TAH-BSO for cervical cancer
+in 2009-06-12 00:00:00, L THR x 3
+
+
+Social History:
+born in 123 Any St.; denies ETOH use, does not smoke
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+On Admission:
+PE: 96.4 74 90/44 22 100 2L   340cc urine last 8 hours
+ngt has brown contents
+Pale, NAD, A&Ox3
+RRR
+CTAB
+Abd - distended, diffusely tender, L subcostal and pffanelsteil
+scars, no hernias.
+Rectal - guiaic +
+Ext - warm, no erythema overlying left hip
+
+On Discharge:
+PR:
+General: Patient tolerating regular diet, appears deconditioned,
+Holtkamp and cooperative, no apparent distress
+VS: 98.2, 119/62, 88, 20, 100% RA BS= 117
+RRR
+Abd: ostomy site intact passing stool and gas, abdomin soft,
+midline abdominal incision with small open area at distal aspect
+of incision line, B/L groin incisions draining a small amount of
+serous drainage and open to air
+Left Hip: Vac dressing in place at 125mmHg, surgical incision
+closed with staples.
+GU: Patient voiding frequently in small amounts.
+Lower Extremities: +2 edema
+Skin: Multiple areas of skin breakdown, skin appears very
+fragile, areas of irritation/rash on upper extremities being
+treated with sarna lotion
+
+Pertinent Results:
+2009-06-12 00:00:00 05:52AM BLOOD WBC-14.7* RBC-3.06* Hgb-9.6* Hct-27.7*
+MCV-91 MCH-31.4 MCHC-34.6 RDW-16.7* Plt Ct-616*
+2009-06-12 00:00:00 05:45AM BLOOD WBC-14.7* RBC-3.17* Hgb-9.9* Hct-28.7*
+MCV-91 MCH-31.1 MCHC-34.3 RDW-16.7* Plt Ct-623*
+2009-06-12 00:00:00 06:00AM BLOOD WBC-15.1* RBC-3.21* Hgb-9.8* Hct-29.1*
+MCV-91 MCH-30.7 MCHC-33.8 RDW-16.7* Plt Ct-515*
+2009-06-12 00:00:00 09:50AM BLOOD WBC-13.0* RBC-3.10* Hgb-9.6* Hct-29.0*
+MCV-94 MCH-30.9 MCHC-33.0 RDW-16.5* Plt Ct-541*
+2009-06-12 00:00:00 06:00AM BLOOD Neuts-58 Bands-2 Lymphs-10* Monos-7
+Eos-20* Baso-2 Atyps-0 Metas-1* Myelos-0
+2009-06-12 00:00:00 01:35PM BLOOD Neuts-82* Bands-8* Lymphs-3* Monos-6
+Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 NRBC-3*
+2009-06-12 00:00:00 03:55AM BLOOD Neuts-60 Bands-24* Lymphs-3* Monos-3
+Eos-0 Baso-0 Atyps-0 Metas-10* Myelos-0
+2009-06-12 00:00:00 05:52AM BLOOD Plt Ct-616*
+2009-06-12 00:00:00 05:45AM BLOOD Plt Ct-623*
+2009-06-12 00:00:00 06:00AM BLOOD Plt Ct-515*
+2009-06-12 00:00:00 09:50AM BLOOD Plt Ct-541*
+2009-06-12 00:00:00 05:52AM BLOOD Glucose-97 UreaN-14 Creat-0.6 Na-137
+K-3.5 Cl-108 HCO3-22 AnGap-11
+2009-06-12 00:00:00 05:45AM BLOOD Glucose-92 UreaN-13 Creat-0.6 Na-136
+K-3.6 Cl-103 HCO3-22 AnGap-15
+2009-06-12 00:00:00 06:54AM BLOOD Glucose-102* UreaN-22* Creat-0.6 Na-134
+K-4.4 Cl-104 HCO3-22 AnGap-12
+2009-06-12 00:00:00 05:36AM BLOOD ALT-45* AST-67* CK(CPK)-10*
+2009-06-12 00:00:00 03:11AM BLOOD ALT-77* AST-110* AlkPhos-303*
+TotBili-6.5*
+2009-06-12 00:00:00 03:17AM BLOOD ALT-89* AST-132* AlkPhos-480*
+TotBili-7.6*
+2009-06-12 00:00:00 01:34AM BLOOD ALT-76* AST-123* AlkPhos-445*
+TotBili-10.6* DirBili-7.9* IndBili-2.7
+2009-06-12 00:00:00 02:08AM BLOOD Lipase-234*
+2009-06-12 00:00:00 02:45AM BLOOD Lipase-245*
+2009-06-12 00:00:00 01:26AM BLOOD GGT-90*
+2009-06-12 00:00:00 02:06PM BLOOD Lipase-13
+2009-06-12 00:00:00 03:00AM BLOOD CK-MB-13* MB Indx-4.5 cTropnT-0.08*
+2009-06-12 00:00:00 09:42AM BLOOD CK-MB-32* MB Indx-6.2* cTropnT-0.12*
+2009-06-12 00:00:00 04:40AM BLOOD cTropnT-0.12*
+2009-06-12 00:00:00 05:52AM BLOOD Calcium-7.6* Phos-2.7 Mg-2.0
+2009-06-12 00:00:00 05:45AM BLOOD Albumin-2.1* Calcium-7.7* Phos-3.1
+Mg-1.5* Iron-37
+2009-06-12 00:00:00 06:54AM BLOOD Albumin-2.1* Calcium-7.7* Phos-3.5 Mg-2.1
+Iron-31
+2009-06-12 00:00:00 05:36AM BLOOD Calcium-7.5* Phos-3.2 Mg-1.8
+2009-06-12 00:00:00 05:58AM BLOOD Calcium-7.8* Phos-2.9 Mg-2.0
+2009-06-12 00:00:00 05:35AM BLOOD Calcium-7.6* Phos-2.9# Mg-1.7
+2009-06-12 00:00:00 05:45AM BLOOD calTIBC-139* Ferritn-1467* TRF-107*
+2009-06-12 00:00:00 06:54AM BLOOD calTIBC-122* VitB12-556 Folate-10.5
+Ferritn-1129* TRF-94*
+2009-06-12 00:00:00 05:45AM BLOOD D-Dimer-2577*
+2009-06-12 00:00:00 05:58AM BLOOD Triglyc-302*
+2009-06-12 00:00:00 03:14AM BLOOD Triglyc-211* HDL-3 CHOL/HD-17.7 LDLcalc-8
+2009-06-12 00:00:00 02:59AM BLOOD T4-3.5* T3-37*
+2009-06-12 00:00:00 03:14AM BLOOD TSH-0.18*
+2009-06-12 00:00:00 02:03PM BLOOD Cortsol-27.9*
+2009-06-12 00:00:00 06:54AM BLOOD CRP-63.9*
+2009-06-12 00:00:00 01:26AM BLOOD CRP-169.2*
+2009-06-12 00:00:00 03:14AM BLOOD CRP-220.2*
+2009-06-12 00:00:00 01:35PM BLOOD CRP-231.0*
+
+Brief Hospital Course:
+Patient known to have a chronic protrusion of the acetabular
+portion of her
+bipolar hip prosthesis. One week prior to 2009-06-12 00:00:00 operative day she
+presented to the emergency room with an elevated white blood
+cell count with a profound bandemia and acidosis. A CT scan
+suggested either a small bowel ileus or potentially
+a distal obstruction. She was found to have an unusual amount of
+gas within the area of the old hip prosthesis. There was no
+clear-cut intra-abdominal abscess or inflammatory process.
+However, the distal sigmoid colon appeared to be closely
+applied to the area of protrusion.  After initial stabilization,
+a CT guided aspiration of the left femoral joint was performed,
+revealing fecal material. I concluded that the patient had
+fistulized most likely from the sigmoid colon to the
+prosthetic hardware used for the most recent hip reconstruction.
+The family was advised that the patient would benefit from
+exploratory laparotomy with diversion of the fecal stream. After
+discussion with her orthopedic attending, Dr. Holtkamp, it was
+thought too treacherous to attempt removal of all of the
+imbedded pelvic hardware.
+
+Major operative interventions 2009-06-12 00:00:00:
+On 2009-06-12 00:00:00 the patient underwent exploratory laparotomy and was
+found to have protrusion of left femoral prosthesis with
+fistulization to sigmoid colon.  She underwent 1. Sigmoid
+colectomy. 2. Hartmann procedure. 3. End sigmoid colostomy. 4.
+Omental flap with general surgery.  She also required L hip
+irrigation/debridement with orthopedics.
+
+On post operative day 0 she was  found to have a cold pulseless
+left foot.  Vascular surgery was consulted and based on physical
+exam findings, concern was for a left iliofemoral artery
+occlusion. Given these findings the patient was brought
+emergently to the operating room for operative repair.  She was
+found to have chronically occluded left external iliac artery
+and left common iliac arteries. There was no evidence of
+thrombosis of the left common femoral artery. Occlusion was
+likely secondary to inflammatory mass over the left hip. They
+were unable to to recanalize the left iliac arterial system.
+Therefore a femoral-femoral bypass was performed which restored
+perfusion to her left lower extremity.
+
+Post operatively the patient was left intubated and admitted to
+the surgical ICU.  She was treated with broad spectrum
+antibiotics with infectious disease following closely.  She was
+started on trophic tube feeds.  2009-06-12 00:00:00 repeat I+D w/ ortho,
+hip dislocated. Hct dropping required PRBC's.  2009-06-12 00:00:00
+continued trophic tube feeds, lasix gtt, albumin for anasarca.
+The patient was also found to have elevated LFT's and had a
+normal RUQ U/S.  Her statin was discontinued as it was
+determined to be contributing.  Her LFT's trended down.
+
+Weeks of 2009-06-12 00:00:00
+After being aggressively diuresed and continued clinical
+improvement in the ICU the patient was vent was wean and on 2009-06-12 00:00:00
+she was extubated.  She went to the OR with ortho for multiple
+repeat I&Ds her left hip with removal of some of her prosthesis
+and vac changes in the OR (operative dates 2009-06-12 00:00:00, 2009-06-12 00:00:00, 2009-06-12 00:00:00 and
+2009-06-12 00:00:00).  After 2009-06-12 00:00:00 ortho determined she would only require vac
+changes on the floor.  The patient was found to be stable enough
+to be tranferred to the floor on 2009-06-12 00:00:00.  The patient had speech
+and swallow evaluation and they recommended a pureed regular
+diet which was started on 2009-06-12 00:00:00 and eventually she was advanced
+to a regular diet which she tolerated well.  There was concern
+for inadequate nutrition and she was given nutrition supplements
+and calorie counts were followed closely.
+
+2009-06-12 00:00:00 the micafungin was discontinued and she started fluconazole
+per ID recommendations. 2009-06-12 00:00:00 OR cultures from her hip grew VRE
+and her antibiotics were changed to daptomycin.  The patient had
+a PICC line placed on 2009-06-12 00:00:00 for her anticipated discharge and
+requirement of long term antibiotics.  On 2009-06-12 00:00:00 the ostomy was
+closely examined after concern for necrosis of the edges brought
+on by the ostomy nurse.  It was determined that the edges had
+been necrotic and sloughed, however the ostomy was otherwise
+viable.   The patients voice remained hoarse and ENT was
+consulted and they thought this was likely due to prolonged
+intubation and recommened outpt follow up.  After requiring
+blood transfusion for slowly decreasing Hct and guiac positive
+stool on 2009-06-12 00:00:00 GI was consulted and recommend IV protonix UPMCE
+and serial hct checks.  The patient was taken for an EGD 2009-06-12 00:00:00
+and only mild esophagitis was seen a colonoscopy was attempted
+through the patients stoma but aborted. The patient was
+transfused PRN for the remainder of admission for low
+hematocrit. Additionally, the patient was instructed to follow
+up with her PCP after admission for continued monitoring of her
+HCT. Protonix by mouth will continued.
+
+On 2009-06-12 00:00:00, the patient was noted to have some breakdown of her
+skin at the site of her fem-fem bypass incision, and vascular
+surgery was made aware. This was initially treated with frequent
+wound checks and dry dressings to the area, but did not respond
+to this and was changed to betadine directly to the wound with
+tagaderm overlying to keep the area clean and dry at the request
+of the vascular surgery service.
+
+The patient appeared lethargic and thyroid hormone levels were
+added. The patient was found to be hypothyroid on this admission
+and Sythroid was initiated on 2009-06-12 00:00:00.
+
+By 2009-06-12 00:00:00, the patients NG tube had been removed and the patient
+was tolerating a general diet. Because of concern for low PO
+intake, the patient had calorie counts started and was started
+on supplementation. Nutrition was consulted for further
+assistance in managing this patients nutritional status, and she
+was weaned off of TPN.
+
+Regarding her ID issues, the patient had been maintained on a
+regimen of Daptomycin, Fluconazole and Zosyn for her intraop
+cultures that were positive for multiple organisms. PRior to
+discharge, this was revisited with the infectious disease team
+and it was determined that the patient would require long term
+continuation of this regimen. She did develop multiple wheals on
+2009-06-12 00:00:00, but these were followed and resolved spontaneously, so the
+patient was continued on the above regimen.
+
+They patient continued to work with physical therapy and was
+provided a orthopedic shoe with a lift prescribed for her
+orthopedic needs. She was rehab screened for discharge.
+
+
+Medications on Admission:
+Atenolol 25', aleve, gabapentin 300'', vicodin, pantoprazole
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Atenolol 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+3. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for Pain.
+4. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours).
+5. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Sodium Chloride 0.65 % Aerosol, Spray Sig: One (1) Spray
+Nasal TID (3 times a day).
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+10. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+UPMCE (2 times a day) as needed for itching.
+11. Dronabinol 2.5 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+12. Piperacillin-Tazobactam-Dextrs 4.5 gram/100 mL Piggyback
+Sig: One (1)  Intravenous Q8H (every 8 hours).
+13. Daptomycin 500 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous Q24H (every 24 hours).
+14. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Center - UPMCE
+
+Discharge Diagnosis:
+Medial Acetabulum Fracture and Acetabular Hardware Perforated
+Into Sigmoid Colon
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to the hospital for treatment of an infection
+which developed in your prostetic hip. You were very sick from
+this infection and required close moniotoring in the intesive
+care unit and multiple surgeries to control this infeciton. Your
+intestines were also involved in this infection and this
+required surgical treatment with sigmoid colectomy and hartmann
+end sigmoid colostomy. After your long hospital stay you have
+recovered a great deal and you are ready to be discharged to a
+rehabilitation hospital where you will recieve further physical
+therapy in increase your strength. It is important that you
+continue to care for your skin, ostomy, as well as where the
+orthopedic shoe while you are active.
+
+You will be discharged on a medication regimen treat your
+infection which includes two IV antibiotics and one antifungal
+by mouth. Please take these medications as ordered, the
+rehaabilitation facility will assist you. You will be followed
+by Dr. Keivonte Arroyd at the UPMCE infectious disease clinic who
+will be monitoring your laboratory values weekly.
+
+Please monitor your bowel function, if you notice that you
+become constipated, have nausea or vomiting, increased abdominal
+distension, or increasing abdominal pain please call the office
+or seek emergency care. Please notify the staff at the
+rehabilitation hospital if you are concerned about any symptoms
+you may be having. It is very important that you increase your
+nutritional intact. Be sure to drink supplements with your meals
+and increase your caloric intake as needed.
+
+Your voice remains hoarse. We have had the ear nose and throat
+doctors Deshaunta Holtkamp Deshaunta Holtkamp during your admission and they expect this to
+improve. You will need to follow-up with ENT in their outpatient
+clinic. Please call the number below to make an appointment.
+
+During your stay your had compromised blood flow to your lower
+extremity. This required bipass surgery to restore blood flow to
+this area. Please monitor your lower extremities for changes in
+color such as purple, blue, or red, coolness of the extremities,
+pain in the lower extremities. If you experience these symptoms
+or they are severe seek medical attention or go to the emergency
+room.
+
+You skin is very fragile related to fluid collecting in your
+extremities. This is related to multi123 Any St.sues incluidng your
+nutrition. It is important that you increase your intact of
+healthy foods and take in plenty of protien. You will be given
+nutritional supplements with your meals. The nursing staff will
+assist you in the care of your skin and ostomy site.
+
+Followup Instructions:
+Please make a follow-up appointment with Dr Holtkamp in 2009-06-12 00:00:00 weeks
+call (test@mail.com to make an appointment.
+Please Make a follow-up appointment with Dr. Keivonte Arroyd in 6 weeks
+call test@mail.com to make this appointment, you will have Xrays
+of your hip at this time.
+Please follow-up with ENT for your hoarse voice call Dr.
+Holtkamp st test@mail.com to be seen in 2009-06-12 00:00:00 weeks.
+Provider: Deshaunta Holtkamp, MD Phone:test@mail.com
+Date/Time:2009-06-12 00:00:00 10:00
+Provider: Deshaunta Holtkamp, MD Phone:test@mail.com
+Date/Time:2009-06-12 00:00:00 11:45
+
+Please also schedule a follow up appointment with your primary
+care provider regarding your hospital stay. You will require
+monitoring of your hematocrit and nutritional status
+
+
+                             Deshaunta Holtkamp MD, 77484
+
+Completed by:2009-06-12 00:00:00

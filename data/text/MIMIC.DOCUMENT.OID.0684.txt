@@ -1,0 +1,159 @@
+Admission Date:  2006-08-09 00:00:00              Discharge Date:   2006-08-09 00:00:00
+
+Date of Birth: 1959-07-24 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Jamilia Kreymer
+Chief Complaint:
+Fall
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+This is a 56 year old man who has been seen in the Ed on
+multiple occasions for frequent falls while intoxicated. He fell
+from standing the night of admission and this was witnessed by
+friends. Karismah Pierini was transferred to UPMCE for evaluation. CT head
+showed bilateral SDH. He received Dilantin 1gm IV x1.
+Neurosurgery was consulted.
+
+
+Past Medical History:
+1. Alcoholism, prior MICU admission for airway protection during
+
+acute intoxication (w/ valium overdose).
+2. Hepatitis C.
+3. Seizure disorder.
+4. Status post depressed skull fracture in 2006-08-09 00:00:00.
+5. Status post right craniotomy.
+6. Status post C4 fracture in 2006-08-09 00:00:00.
+7. Status post delirium tremens.
+8. H/o Aspiration pneumonia.
+9. Hypertension.
+10. Right ankle fracture.
+11. Right arm thrombophlebitis.
+
+Social History:
+He is homeless and currently staying with friends.  Karismah Pierini reports
+to parole services.  He is not currently working.  He has a 43
+year smoking history, currently smokes <2006-08-09 00:00:00 PPD. He drinks up to
+3 quarts of vodka daily. He has a history of occasional
+marijauna use.  No documentation of cocaine or heroin use, but
+patient has h/o IVDU is his teens.  His sister managed his
+finances.
+
+
+Family History:
+Mother has h/o alcoholism, HTN.
+
+Physical Exam:
+On Admission:
+O: T: 97.6   BP: 165/106    HR: 55    R 14   O2Sats 100%
+
+Neuro:
+Mental status: Intoxicated
+Orientation: Oriented to person, place, and date.
+Language: Speech thick/slurred
+
+Given patient's intoxication, neuro exam is limited. Pt opens
+eyes to voice, oriented x3, follows commands w/prompting, pupils
+2mm reactive bilaterally, BUE antigravity- full motor assessment
+limited from lack of effort/intoxication; BLE slightly
+antigravity but briskly withdraws to noxious. Face appears
+symmetric and tongue midline.
+
+At Discharge:
+Patient left AMA
+
+Pertinent Results:
+2006-08-09 00:00:00 02:20AM   PT-12.1 PTT-31.2 INR(PT)-1.0
+2006-08-09 00:00:00 02:20AM   PLT COUNT-133*
+2006-08-09 00:00:00 02:20AM   NEUTS-46.5* LYMPHS-46.3* MONOS-5.2 EOS-1.4
+BASOS-0.6
+2006-08-09 00:00:00 02:20AM   WBC-3.2* RBC-3.94* HGB-13.6* HCT-38.9*
+MCV-99* MCH-34.6* MCHC-35.0 RDW-14.4
+2006-08-09 00:00:00 02:20AM   ASA-NEG ETHANOL-295* ACETMNPHN-NEG
+bnzodzpn-POS barbitrt-NEG tricyclic-NEG
+2006-08-09 00:00:00 02:20AM   PHENYTOIN-LESS THAN
+2006-08-09 00:00:00 02:20AM   estGFR-Using this
+2006-08-09 00:00:00 02:20AM   GLUCOSE-85 UREA N-10 CREAT-0.9 SODIUM-148*
+POTASSIUM-3.5 CHLORIDE-107 TOTAL CO2-31 ANION GAP-14
+2006-08-09 00:00:00 02:27AM   GLUCOSE-78
+2006-08-09 00:00:00 02:27AM   COMMENTS-GREEN TOP
+2006-08-09 00:00:00 02:40AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-2* PH-5.0
+LEUK-NEG
+2006-08-09 00:00:00 02:40AM URINE  COLOR-Straw APPEAR-Clear SP Pierini-1.007
+2006-08-09 00:00:00 02:40AM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+2006-08-09 00:00:00 02:40AM URINE  HOURS-RANDOM
+
+CT head 2006-08-09 00:00:00
+1. Acute small bifrontal subdural hematomas with small amounts
+of adjacent
+subarachnoid blood.
+2. Non-displaced left superior frontal fracture extending to the
+sagittal
+suture at the vertex, with overlying subgaleal hematoma.
+3. This patient had 32 prior head CTs since 2006-08-09 00:00:00, and 9
+additional prior
+head CTs between 2006-08-09 00:00:00 and 2006-08-09 00:00:00.
+
+CT C-spine 2006-08-09 00:00:00
+1. No acute fracture or subluxation.
+2. Unchanged chronic dens fracture and posterior fusion of
+C1-C3, without
+evidence of hardware related complications.
+3. This patient had 19 prior cervical spine CTs since 2006-08-09 00:00:00.
+
+CT head 2006-08-09 00:00:00
+1. Stable appearance of right frontal hemorrhagic contusion
+which exerts mass effect on the frontal Jamilia Kreymer of the right
+lateral ventricle. Adjacent
+subarachnoid hemorrhage shows mild increase.
+2. Nondisplaced left superior frontal bone fracture, better
+demonstrated on prior bone algorithm-reconstructed images.
+
+
+
+Brief Hospital Course:
+//Mr. Pierini was admitted to UPMCE on 2006-08-09 00:00:00 for bilateral SDH's.
+He was in a cervical /collar for CT finding of stable C2
+fracture and posterior cervical fusion. Repeat CT findings
+showed a large increase in right SDH. He remained neurologically
+unchnaged with LUE weakness and drift.
+
+Patient left on 2006-08-09 00:00:00 against medical advice.
+
+Medications on Admission:
+Unknown, patient has not been compliant in the past.
+
+
+Discharge Medications:
+Patient left AMA
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Bilateral SDH
+Cervical Fracture
+
+
+Discharge Condition:
+Patient Left AMA
+
+Discharge Instructions:
+Patient left AMA
+
+
+Followup Instructions:
+Patient Left AMA
+
+
+Completed by:2006-08-09 00:00:00

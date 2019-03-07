@@ -1,0 +1,418 @@
+Admission Date:  2013-03-15 00:00:00              Discharge Date:   2013-03-15 00:00:00
+
+Date of Birth: 1969-07-22 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Damase Paso
+Chief Complaint:
+Prim card: [**First Name8 (NamePattern2) 1012**] Damase Paso
+Intervent: Kalman Tasch
+.
+cc:test@mail.com.
+HPI: Pt is a 79yo male h/o of aortic stenosis (asymptomatic) and
+recently discovered adenocarcinoma of the colon (by colonoscopy
+in 2013-03-15 00:00:00) presenting for aortic valvuloplasty and pre-op L heart
+cath for resection of adenoCA of mid-ascending colon on Tuesday
+AM by Dr.Kalman Tasch service.
+.
+OMR note from 2013-03-15 00:00:00 states pt was doing well with no sx of CHF.
+An echocardiogram on 2013-03-15 00:00:00 showed progression of aortic
+stenosis with aortic valve area falling from 0.9 to 0.6
+centimeters squared between
+last year and this year.  The LVEF had decreased from 50% to
+35-40%.  There was severe hypokinesis at the anterior septum.
+There was mild to moderate MR.  Compared with 2013-03-15 00:00:00, LV
+systolic function was diminished and aortic stenosis thought to
+have progressed.
+.
+R heart cath and L heart cath was performed in addition to the
+valvuloplasty. C.O. 4.25 baseline, 4.15 s/p intervention; CI
+2.14, 2.12 s/p intervention. Hemodynamics showed baseline mean
+aortic valve gradient ~35mm Hg with calculated 123 Any St. 0.69cm2.
+Mildly elevated left-sided filling pressures.  LV gram was not
+performed.  L heart cath revealed left dominant system:
+LMCA: dual ostia of LAD and LCx from aorta
+LAD: 50% ostial, otherwise normal
+LCX: normal
+RCA: normal.
+After interventon (balloon valvuloplasty, mean aortic valve
+gradient reduced to 30mmHg wtih calculated 123 Any St. of 0.8cm2.
+
+.
+Pt was Admitted to UPMCE for post valvuloplasty care.
+.
+Meds: aspirin 325 mg po daily, protonix 40 mg po daily, senna
+one UPMCE prn, tylenol prn, colace 100 mg po bid, iron.
+.
+PMH:
+-aortic stenosis
+-adenocarcionoma of colon
+cscope in 2013-03-15 00:00:00 showed tumor in mid asceding colon,
+angioextasias, bx showed adenocarcinoma. Pt has had a 50lbs
+weight lost hx over past 2 yrs.
+-Zenkers diverticulum s/p surgical repair by Tasch 2013-03-15 00:00:00
+-h/o splenomegaly and thrombocytosis
+-Anemia iron deficiency--baseline 31-32%
+-Bilateral inguinal hernia repair 35 years ago as well as repair
+
+of a right inguinal hernia in 2013-03-15 00:00:00
+-Decreased hearing
+-Esophageal stenosis diagnosed several years ago at the UPMCE, but chose not to undergo surgical
+procedure.
+-History of pulmonary asbestosis diagnosed by CT scan in 2013-03-15 00:00:00
+-History of a jejunal microperforation diagnosed by barium
+swallow in 2013-03-15 00:00:00
+-Left rotator cuff partial tear
+-Manic depression/anxiety
+.
+FMH:
+Has one brother with Kalman Tasch and other c Kalman Tasch Disease
+Doesn't remember parents illness
+.
+Social: currenlty lives with daughter after wife hospitalized.
+former smoker, no etoh.
+.
+Admission PE:
+Physical Exam:
+VITALS: 98.0 95/66 HR 102-106 18 99%RA
+GENL: cachectic, pale, pleasant appearing frail man in NAD
+HEENT: anicteric, mmm, pale conjunctiva, JVP not elevtated
+CV: tachy, 2013-03-15 00:00:00, harsh, late-peaking systolic m, radiated to
+carotids, no RG, warm extremities, ? pericardial rub. radial
+pulses 1+ b/l
+RESP: CTAB without crackles or wheeze
+ABD: scaphoid, s/nt/nd, hyperactive bs, no bruit, +splenomegaly,
+
+no CVA tenderness
+Groin: sheath removed, no hematoma, no bruits auscultated
+EXTREM: cap refill <3 sec, trace pedal edema
+
+.
+Labs (see below)
+.
+Studies:
+.
+Cardiac cath 2013-03-15 00:00:00
+COMMENTS:
+  1.  Selective coronary angiography in this right dominant
+patient
+revealed mild single vessel disease.  The LMCA was absent as
+there were dual ostia for the LAD and LCX.  The LAD had a 50%
+ostial lesion but was otherwise angiographically normal
+including branch vessels.  The LCX and dominant RCA were
+angiographically normal.
+  2.  Resting hemodynamics revealed normal right sided filling
+pressures with very mild elevation of left sided filling
+pressure with PCWP and LVEDP of about 15mmHG.  The cardiac index
+was slightly low at 2.17. There was no step up in oxygen
+saturations from SVC to PA.
+3.  Baseline trans aortic gradient was measured at mean of
+35mmHG
+corresponding with 123 Any St. of .69cm2.
+4.  After valvuloplasty the mean gradient fell to 30mmHG with
+123 Any St. of
+.8cm2.
+5. Aortic valvuloplasty was performed using a 20 x 60 mm balloon
+and a 22 x 50 mm balloon.  Following balloon valvuloplasty, the
+aortic valve gradient decreased to 30 mmHg with a calculated
+valve area of 0.8 cm2.
+
+FINAL DIAGNOSIS:
+1. Mild single vessel CAD in LAD
+2. Critical Aortic stenosis at baseline which improved slightly
+after
+valvuloplasty
+3. Low cardiac index with slightly elevated left sided filling
+pressures.
+4. Successful balloon aortic valvuloplasty.
+.
+HEMODYNAMICS RESULTS BODY SURFACE AREA:  1.96 m2
+  HEMOGLOBIN: 10.1 gms %
+  REST
+**PRESSURES
+RIGHT ATRIUM {a/v/m} 5/10/5
+RIGHT VENTRICLE {s/ed} 32/6
+PULMONARY ARTERY {s/d/m} 32/15/24
+PULMONARY WEDGE {a/v/m} 19/19/15
+LEFT VENTRICLE {s/ed} 134/14 140/14
+AORTA {s/d/m} 95/59/75 107/66/82
+**CARDIAC OUTPUT
+HEART RATE {beats/min} 86 91
+RHYTHM SINUS SINUS
+O2 CONS. IND {ml/min/m2} 125 125
+CARD. OP/IND FICK {l/mn/m2} 4.25/2.17 4.15/2.12
+**RESISTANCES
+SYSTEMIC VASC. RESISTANCE 1318
+PULMONARY VASC. RESISTANCE 169
+  REST
+**VALVULAR STENOSIS
+AORTIC VALVE GRADIENT {mmHg} 35 30
+AORTIC VALVE AREA {sq-cm} .69 .8
+
+**% SATURATION DATA (NL)
+SVC LOW 57
+PA MAIN 54
+AO 96
+**ARTERIAL BLOOD GAS
+INSPIRED O2 CONCENTR'N 21
+
+.
+Echo 2013-03-15 00:00:00: There is moderate regional left ventricular
+systolic dysfunction with global hypokinesis with more severe
+hypokinesis of the anterior septum. Right ventricular chamber
+size and free wall motion are normal. The aortic root is mildly
+dilated. The ascending aorta is mildly dilated. The aortic valve
+leaflets are moderately thickened. There is moderate to severe
+aortic valve stenosis with a valve area of 0.6cm. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild to moderate (2013-03-15 00:00:00+) mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension. EF has
+decreased from 50% to 30-40%
+Echo data: (excerpt)
+Left Ventricle - Ejection Fraction: 35% to 40% (nl >=55%)
+Aorta - Valve Level: *3.9 cm (nl <= 3.6 cm)
+Aorta - Ascending: *3.8 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: *3.9 m/sec (nl <= 2.0 m/sec)
+Aortic Valve - Peak Gradient: 61 mm Hg
+Aortic Valve - Mean Gradient: 39 mm Hg
+Aortic Valve - Valve Area: *0.6 cm2 (nl >= 3.0 cm2)
+.
+EKG on admission: HR 108. Sinus rhythm with ventricular and
+atrial premature beats. First degree A-V heart block.
+Non-specific ST-T wave changes. LVH.
+
+.
+Impression: 79 yo male with critical aortic stenosis and
+adenocarcinoma of the colon admitted to UPMCE service post aortic
+valvuloplasty going to colon resection in AM with Dr. Damase Paso.
+.
+#Cardiovascular: Aortic stenosis. S/P "moderately successfull"
+valvuloplasty with increasing 123 Any St. and slightly improved
+hemodynamics.
+Ischemia: no critical lesions identified, but the patient does
+have 50% ostial LAD lesion. Patient is not and has not been
+symptomatic.  No Dx of CAD in the past. no coronary
+interventions were made.
+-continue ASA
+-no need for plavix since no intervention
+-consider starting statin after the colorectal surgery
+Pump: EF decreased on recent echo from 50% to 30-40%
+(pre-valvuloplasty). BP borderline at 95/66.  Tenous
+hemodynamics 2013-03-15 00:00:00 aortic stenosis. Pt not on BB or ACEI.
+-hold off starting BB and ACE 2013-03-15 00:00:00 tenous hemodynamics
+-gentle fluids Ok of BP lowers below 90s
+-getting PRBC transfusion
+Rhythm: pt has a baseline h/o baseline asymptomatic first degree
+AV block.  1 episode of degeneration to Wenchebach, asx, HR of
+99. ? reason, may be 2013-03-15 00:00:00 manipulation during valvuloplasty?
+-cont to monitor tele, mostly in 1st degree AV block
+-hold BB, nodal agents
+-atropine at bedside if symptomatic bradycardia
+-if degenerateds into Mobitz I type II, call EP for
+consideration of pacemaker placement
+.
+#GI: colorectal adenocarcinoma/bleeding polyp.  Pt scheduled for
+resection tomorrow AM by Dr.Kalman Tasch service.
+-NPO after MN for surgery
+.
+#Heme: iron deficiency anemia.  h/o recent GI bleed in the past
+requiring 7u of PRBCs.  Hct on admission was 31.6, but post cath
+Hct was 27.4.
+-type and x-match 2 units
+-X-fuse 1 U prbcs
+-more on call to the OR.
+-will hold iron supplements
+.
+FEN: sips of clears, then NPO after MN.  IVF NS at 75cc/hr x 1L
+PPx: pneumatic boots, PPI
+Code:FULL
+Dispo: to GI Damase Paso service tomorrow AM.
+
+
+Major Surgical or Invasive Procedure:
+aortic valvuloplasty, laproscopic right colectomy
+
+
+History of Present Illness:
+HPI: Pt is a 79yo male h/o of aortic stenosis (asymptomatic) and
+recently discovered adenocarcinoma of the colon (by colonoscopy
+in 2013-03-15 00:00:00) presenting for aortic valvuloplasty and pre-op L heart
+cath for resection of adenoCA of mid-ascending colon on Tuesday
+AM by Dr.Kalman Tasch service.
+.
+OMR note from 2013-03-15 00:00:00 states pt was doing well with no sx of CHF.
+An chocardiogram on 2013-03-15 00:00:00 showed progression of aortic
+stenosis with aortic valve area falling from 0.9 to 0.6
+centimeters squared between last year and this year.  The LVEF
+had decreased from 50% to 35-40%.  There was severe hypokinesis
+at the anterior septum. There was mild to moderate MR.  Compared
+with 2013-03-15 00:00:00, LV systolic function was diminished and aortic
+stenosis thought to have progressed.
+.
+R heart cath and L heart cath was performed in addition to the
+valvuloplasty. C.O. 4.25 baseline, 4.15 s/p intervention; CI
+2.14, 2.12 s/p intervention. Hemodynamics showed baseline mean
+aortic valve gradient ~35mm Hg with calculated 123 Any St. 0.69cm2.
+Mildly elevated left-sided filling pressures.  LV gram was not
+performed.  L heart cath revealed left dominant system: LMCA:
+dual ostia of LAD and LCx from aorta LAD: 50% ostial, otherwise
+normal LCX: normal
+RCA: normal. After interventon (balloon valvuloplasty, mean
+aortic valve gradient reduced to 30mmHg wtih calculated 123 Any St. of
+0.8cm2.
+
+
+Past Medical History:
+PMH:
+-Zenkers diverticulum s/p surgical repair by Tasch 2013-03-15 00:00:00,
+-h/o splenomegaly and thrombocytosis,
+-Anemia iron deficiency--baseline 31-32%,
+-Bilateral inguinal hernia repair 35 years ago as well as repair
+of a right inguinal hernia in 2013-03-15 00:00:00,
+-Decreased hearing,
+-Esophageal stenosis diagnosed several years ago at the UPMCE, but chose not to undergo surgical
+procedure.
+-History of pulmonary asbestosis diagnosed by CT scan in 2013-03-15 00:00:00,
+-History of a jejunal microperforation diagnosed by barium
+swallow in 2013-03-15 00:00:00,
+-Left rotator cuff partial tear
+-Manic depression/anxiety.
+
+
+Social History:
+-Iron
+-ASA
+-Zoloft
+-Advil. He takes not more than 2 qd for arthritis
+
+
+Family History:
+Family
+Has one brother Damase Paso Kalman Tasch and other c Kalman Tasch Disease
+Doesn't remember parents illness
+
+
+Physical Exam:
+Physical Exam:
+VITALS: 98.0 95/66 HR 102-106 18 99%RA
+GENL: cachectic, pale, pleasant appearing frail man in NAD
+HEENT: anicteric, mmm, pale conjunctiva, JVP not elevtated
+CV: tachy, 2013-03-15 00:00:00, harsh, late-peaking systolic m, radiated to
+carotids, no RG, warm extremities, ? pericardial rub. radial
+pulses 1+ b/l
+RESP: CTAB without crackles or wheeze
+ABD: scaphoid, s/nt/nd, hyperactive bs, no bruit, +splenomegaly,
+
+no CVA tenderness
+Groin: sheath removed, no hematoma, no bruits auscultated
+EXTREM: cap refill <3 sec, trace pedal edema
+
+
+Pertinent Results:
+2013-03-15 00:00:00 09:24PM BLOOD WBC-4.6 RBC-3.39* Hgb-9.1* Hct-27.8*
+MCV-82 MCH-27.0 MCHC-32.9 RDW-17.2* Plt Ct-599*
+2013-03-15 00:00:00 01:15PM BLOOD Glucose-92 UreaN-18 Creat-0.7 Na-140
+K-4.9 Cl-104 HCO3-26 AnGap-15
+2013-03-15 00:00:00 03:38PM BLOOD Type-ART pO2-112* pCO2-36 pH-7.50*
+calHCO3-29 Base XS-5
+
+Brief Hospital Course:
+The patient was admitted on 2013-03-15 00:00:00 for a pre-operative aortic
+balloon valvuloplasty (please see cardiology note for details).
+On 2013-03-15 00:00:00 the patient underwent a laproscopic right colectomy by
+Dr. Damase Paso (please see operative note for details).  The
+operation went well with no complications.  On POD 0, the
+patient spiked a temperature of 102.4, which was determined to
+be from atelectasis as his wounds looked and chest X-ray looked
+good.  Blood and urine cultures were subsequently negative.
+Vancomycin, gentamycin and flagyl were started empirically
+because of his recent valvuloplasty.  On POD 1, he required 1.5
+liters in fluid boluses for hypotension (SBP in the 70's to
+80's).  He seemed to respond and his urine output was
+outstanding at over 100 cc/ hour.  However, that night he
+developed tachycardia  to the 130's-140's and hypotension to
+80/55.  He was assymptomatic, however an EKG showed A-flutter vs
+A-fibrillation.  He was subsequently transferred to the surgical
+ICU.  The cardiology service was consulted and responded
+immediately and cardioverted the patient.  Afterwards he was
+hemodynamically stable.  Amiodarone was started at 200 mg PO
+TID.  Consideration was given to heparinize the patient, however
+cardiology did not feel the need to do so given that he
+responded well to the amiodarone and cardioversion and did not
+experience any more atrial fibrillation.  Gentamycin was
+discontinued.  On POD 2, he continued to require fluid boluses
+to keep his SBP above 90.  On POD 3, he was started on clears.
+He did not require any more fluid boluses.  Antibiotics were
+discontinued as he was afebrile with a normal WBC.  On POD 4, he
+was started on a regular diet which he tolerated well.  His IV
+was heparin locked.  His central line was discontinued.
+Physical therapy saw and evaluated the patient and determined
+that he was fit to go to his daughter's house with services and
+not to rehabillitation.  On POD 6, he continued to do well and
+was discharged home on an amiodarone taper.
+
+Medications on Admission:
+Meds: aspirin 325 mg po daily, protonix 40 mg po daily, senna
+one UPMCE prn, tylenol prn, colace 100 mg po bid, iron.
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day) for 3 days.
+Disp:*9 Tablet(s)* Refills:*0*
+3. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO twice a day
+for 2 weeks: please start on 2013-03-15 00:00:00.
+Disp:*28 Tablet(s)* Refills:*0*
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day
+for 2 weeks: please start after 2 weeks of taking amiodarone
+200mg PO BID.
+Disp:*14 Tablet(s)* Refills:*0*
+5. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+6. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation for 2 weeks.
+Disp:*30 Capsule(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+colon cancer, atrial fibrillation, aortic stenosis
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please call or come to the ED with any fevers > 101, nausea,
+vomiting, abdominal pain, chest pain, rapid heart rate, or any
+other concerning symptoms.  Please take your amiodarone taper as
+directed.  Please do not drive while taking pain medication.
+Please continue home physical therapy to build up youy strength.
+
+Followup Instructions:
+Please call the office of Dr. Damase Paso to schedule a follow-up
+appointment in 2013-03-15 00:00:00 days (test@mail.com).
+
+Please call Dr. Tasch tomorrow to schedule a follow-up for your
+atrial fibrillation.
+
+Provider: Damase Paso, M.D. Phone:test@mail.com
+Date/Time:2013-03-15 00:00:00 3:30
+
+
+
+Completed by:2013-03-15 00:00:00

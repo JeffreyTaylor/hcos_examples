@@ -1,0 +1,488 @@
+Admission Date:  2010-05-27 00:00:00              Discharge Date:   2010-05-27 00:00:00
+
+Date of Birth: 1953-05-13 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Unasyn / Oxycodone
+
+Attending:Anav Huntting
+Chief Complaint:
+hypotension, diarrhea, poor PO intake
+
+Major Surgical or Invasive Procedure:
+EJ placement
+Swan placement
+ICU stay
+
+History of Present Illness:
+Pt is a 64 yo male PMHx significant for non-ischemic
+cardiomyopathy with EF 25%, s/p ICD placement 2010-05-27 00:00:00 (v paced),
+mild-mod MR/TR, DM, ICD, Afib on coumadin, gout, hypothyroidism,
+CKD p/w vtach and ICD firing, recently admitted for ICD firing,
+CHF w/ EF 20-25%% who presents from heart failure clinic
+w/hypotension. Pt has presumed Cdiff w/ continued diarrhea,
+vomitting and decreased PO intake w/ associated dehydration and
+lethargy at UPMCE rehab facility, d/c'ed from UPMCE ~1.5 wk
+ago. Has been taking PO vanco.  At heart failure clinic pt was
+found to have BP of 60/40 (baseline SBP of 90s) and sent to ED.
+.
+In ED, VS were 97.1 99 106/70 16 100% 15L NRB then switch to
+BiPAP.
+Lactate:2.4, Trop of 0.05, Na 130, BUN 68, Cr 3.6, lipase was
+277, UPMCE 2.4 and INR of 3.1. Blood cultures pending. CXR
+showed increased alveolar opacities most consistent w/pulmonary
+edema but atypical PNA can't be ruled out. Very dehydrated on
+exam; has L arm PICC in place, L 16 ga EJ placed in ED. Pt
+recieved cefepime and vanco. RUQ US performed which showed
+dilated hepatic veins and right atrium c/w right heart failure,
+gallbladder sludge and mild wall thickening w/trace fluid in
+porta hepatis but no gallbladder distension, wall edema or
+tenderness on exam. For hypotension pt rec'd 500cc over 2 hrs,
+then approx 100 cc/hr, givne low EF and worsening renal fxn.
+.
+On arrival to the floor and when seen in ED, patient is
+lethargic. VS improved VS on transfer 80, 87/55, 22, 100% on 4L.
+Pt wife and pt, he denies belly pain but does have nausea and
+vomitting in addition to diarrhea. Pt reports SOB as well. Less
+LE edema per wife. Possible fever. Blood cultures were drawn at
+rehab but pt's wife was not told what they were treating w/abx.
+.
+REVIEW OF SYSTEMS
+On review of systems, has some sputum but minimal cough,
+possible fevers but chills or rigors.
+.
+Cardiac review of systems is notable for absence of chest pain,
+but does have SOB, some orthopnea, and ankle edema.
+.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Diabetes, +Dyslipidemia, Hypertension
+
+2. CARDIAC HISTORY:
+-CABG:
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+-PACING/ICD:  ICD v paced placed 2010-05-27 00:00:00
+3. OTHER PAST MEDICAL HISTORY:
+Nonischemic cardiomyopathy, LVEF 15-20%
+ICD placement for primary prevention of sudden cardiac death
+Diabetes mellitus type 2 insulin dependent
+Gout
+Peripheral neuropathy
+Chronic atrial fibrillation
+Chronic kidney disease
+Elevated transaminases, unknown etiology
+Umbilical hernia repair, 2010-05-27 00:00:00
+Gallstone pancreatitis s/p ERCP (2010-05-27 00:00:00)
+Internal hemorrhoids
+Hemoglobin C carrier
+
+Social History:
+Pt originally from 123 Any St., spends much of year there but
+recently had to return to US b/c of severe gout flare. Married,
+lives w/ his wife.  Chawn Grochowski had difficult maintaining low salt diet.
+Also, his diet is generally difficult because he feels like any
+food he eats causes gout flare.
+-Tobacco history:  No smoking.
+-ETOH:  He quit alcohol use
+-Illicit drugs:  No IV drug ues
+
+Family History:
+No first-degree relatives with coronary artery disease.  Mother
+had breast cancer.
+
+Physical Exam:
+Exam on Admission:
+VS on transfer 80, 87/55, 22, 100% on 4L
+VS after fluids: T=97.6 BP= 100/61 HR= 81 RR= 28 O2 sat= 99% on
+4L NC
+GENERAL: lethargic very ill appearing. Oriented x3.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. very dry mucus
+membranes.
+NECK: Supple, JVD difficult to ap123 Any St.te b/c of beard.
+dehydrated appearing
+CARDIAC: heart sounds very distant, RR. No m/r/g.
+LUNGS: No chest wall deformities, ICD in place, scoliosis.
+Coarse lung sounds especially at bases but no accessory muscle
+use. on sup O2
+ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits
+ap123 Any St.ted. neg murphies
+EXTREMITIES: LE +2 edema, but per report this is better than
+123 Any St.usly
+SKIN: dry skin, signs of chronic edema.
+NEURO: lethargic but able to follow commands and answer
+questions. weak but able to squeeze hands and wiggle toes.
+sensation intact.
+
+Pertinent Results:
+Labs:
+WBC:
+2010-05-27 00:00:00 01:50PM BLOOD WBC-10.2 RBC-3.85* Hgb-11.4* Hct-32.3*
+MCV-84 MCH-29.5 MCHC-35.1* RDW-19.3* Plt Ct-214
+2010-05-27 00:00:00 09:22PM BLOOD WBC-9.2 RBC-3.51* Hgb-10.4* Hct-29.4*
+MCV-84 MCH-29.6 MCHC-35.4* RDW-19.3* Plt Ct-204
+2010-05-27 00:00:00 06:50AM BLOOD WBC-10.1 RBC-3.54* Hgb-10.9* Hct-29.7*
+MCV-84 MCH-30.7 MCHC-36.6* RDW-19.4* Plt Ct-212
+2010-05-27 00:00:00 03:57AM BLOOD WBC-12.3* RBC-3.60* Hgb-10.6* Hct-30.2*
+MCV-84 MCH-29.4 MCHC-35.0 RDW-19.6* Plt Ct-187
+2010-05-27 00:00:00 03:53AM BLOOD WBC-11.7* RBC-3.28* Hgb-9.9* Hct-27.7*
+MCV-85 MCH-30.1 MCHC-35.6* RDW-19.5* Plt Ct-169
+
+Coags:
+2010-05-27 00:00:00 01:50PM BLOOD PT-31.1* PTT-51.8* INR(PT)-3.1*
+2010-05-27 00:00:00 06:50AM BLOOD PT-33.6* PTT-52.3* INR(PT)-3.3*
+2010-05-27 00:00:00 03:57AM BLOOD PT-35.9* PTT-59.7* INR(PT)-3.6*
+2010-05-27 00:00:00 03:53AM BLOOD PT-41.9* PTT-67.5* INR(PT)-4.3*
+
+Chemistry:
+2010-05-27 00:00:00 01:50PM BLOOD Glucose-108* UreaN-68* Creat-3.6* Na-130*
+K-4.1 Cl-94* HCO3-23 AnGap-17
+2010-05-27 00:00:00 09:22PM BLOOD Glucose-114* UreaN-66* Creat-3.1* Na-132*
+K-4.1 Cl-99 HCO3-21* AnGap-16
+2010-05-27 00:00:00 06:50AM BLOOD Glucose-86 UreaN-64* Creat-2.8* Na-131*
+K-4.2 Cl-98 HCO3-23 AnGap-14
+2010-05-27 00:00:00 03:57AM BLOOD Glucose-117* UreaN-62* Creat-2.5* Na-136
+K-3.8 Cl-101 HCO3-19* AnGap-20
+2010-05-27 00:00:00 03:45PM BLOOD Glucose-182* UreaN-62* Creat-2.5* Na-136
+K-3.7 Cl-103 HCO3-20* AnGap-17
+2010-05-27 00:00:00 03:53AM BLOOD Glucose-156* UreaN-58* Creat-2.7* Na-135
+K-3.7 Cl-102 HCO3-21* AnGap-16
+2010-05-27 00:00:00 04:13PM BLOOD UreaN-64* Creat-2.8* Na-127* K-8.6* Cl-99
+HCO3-22 AnGap-15
+
+LFTs:
+2010-05-27 00:00:00 01:50PM BLOOD ALT-8 AST-88* AlkPhos-212* TotBili-2.4*
+2010-05-27 00:00:00 06:50AM BLOOD ALT-8 AST-86* LD(LDH)-229 CK(CPK)-26*
+AlkPhos-198* TotBili-2.1* DirBili-1.2* IndBili-0.9
+2010-05-27 00:00:00 03:57AM BLOOD ALT-9 AST-81* AlkPhos-183* TotBili-2.2*
+2010-05-27 00:00:00 03:53AM BLOOD ALT-10 AST-87* AlkPhos-166* TotBili-2.1*
+2010-05-27 00:00:00 01:50PM BLOOD Lipase-227*
+2010-05-27 00:00:00 06:50AM BLOOD Lipase-184*
+2010-05-27 00:00:00 03:57AM BLOOD Lipase-160*
+2010-05-27 00:00:00 03:53AM BLOOD Lipase-119*
+
+Enzymes:
+2010-05-27 00:00:00 01:50PM BLOOD cTropnT-0.05*
+2010-05-27 00:00:00 09:22PM BLOOD CK-MB-2 cTropnT-0.03* proBNP-[**Numeric Identifier 3493**]*
+2010-05-27 00:00:00 06:50AM BLOOD CK-MB-2 cTropnT-0.03*
+
+Elements:
+2010-05-27 00:00:00 06:50AM BLOOD Albumin-2.7* Calcium-8.2* Phos-4.1 Mg-2.4
+UricAcd-9.7*
+2010-05-27 00:00:00 03:57AM BLOOD Albumin-2.9* Calcium-8.1* Phos-3.4 Mg-2.2
+2010-05-27 00:00:00 03:45PM BLOOD Calcium-7.8* Phos-3.5 Mg-2.0
+2010-05-27 00:00:00 03:53AM BLOOD Calcium-8.1* Phos-3.1 Mg-1.9
+
+TFTs:
+2010-05-27 00:00:00 09:22PM BLOOD TSH-20*
+2010-05-27 00:00:00 06:50AM BLOOD TSH-21*
+2010-05-27 00:00:00 06:50AM BLOOD Free T4-1.0
+
+Microbiology:
+2010-05-27 00:00:00 BC x 2 PENDING
+2010-05-27 00:00:00 Urine Cx No growth FINAL
+2010-05-27 00:00:00 / 2010-05-27 00:00:00 Blood cultures PENDING
+2010-05-27 00:00:00 **FINAL REPORT 2010-05-27 00:00:00**
+
+   FECAL CULTURE (Final 2010-05-27 00:00:00):    NO SALMONELLA OR SHIGELLA
+FOUND.
+
+   CAMPYLOBACTER CULTURE (Final 2010-05-27 00:00:00):    NO CAMPYLOBACTER
+FOUND.
+
+   FECAL CULTURE - R/O VIBRIO (Final 2010-05-27 00:00:00):    NO VIBRIO
+FOUND.
+
+   FECAL CULTURE - R/O YERSINIA (Final 2010-05-27 00:00:00):    NO YERSINIA
+FOUND.
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final 2010-05-27 00:00:00):
+      NO E.COLI 0157:H7 FOUND.
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final 2010-05-27 00:00:00):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+2010-05-27 00:00:00 MRSA No MRSA isolated
+2010-05-27 00:00:00 NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN
+
+Imaging:
+- ECG Study Date of 2010-05-27 00:00:00  1:48:00 PM
+Ventricular paced rhythm. Atrial mechanism is uncertain. Since
+the 123 Any St.us
+tracing of 2010-05-27 00:00:00 no significant change.
+
+- CHEST (PORTABLE AP) Study Date of 2010-05-27 00:00:00 1:48 PM
+IMPRESSION:
+1. Increasing alveolar opacities, most consistent with severe
+pulmonary
+edema. Persistent small bilateral effusions.
+2. Intact and standard position of ICD and pacemaker wires.
+3. New left PICC at the level of the mid SVC. No pneumothorax.
+4. Stable moderate-to-severe cardiomegaly
+5. Increasing left lower lobe atelectasis.
+
+- LIVER OR GALLBLADDER US (SINGLE ORGAN) Study Date of 2010-05-27 00:00:00
+3:59 PM
+IMPRESSION:
+1. Mild gallbladder edema and sludge. No signs of acute
+cholecystitis.
+2. Dilated hepatic veins and right atrium consistent with
+right-sided heart
+failure.
+
+- ABDOMEN (SUPINE ONLY) PORT Study Date of 2010-05-27 00:00:00 10:05 PM
+IMPRESSION: 1. Normal bowel gas pattern. No evidence of
+obstruction, ileus, or megacolon.
+
+- Cardiac Cath Study Date of 2010-05-27 00:00:00
+HEMODYNAMICS RESULTS BODY SURFACE AREA:  2.03 m2
+  HEMOGLOBIN: 10.9 gms %
+  FICK
+**PRESSURES
+RIGHT ATRIUM {a/v/m} 18/14/16 7/10/8
+RIGHT VENTRICLE {s/ed} 60/12 44/21
+PULMONARY ARTERY {s/d/m} 60/22/34 53/17/30
+PULMONARY WEDGE {a/v/m} 26/29/26 24/28/23
+AORTA {s/d/m} 96/54 97/64/75
+**CARDIAC OUTPUT
+HEART RATE {beats/min} 80 80
+RHYTHM N N
+O2 CONS. IND {ml/min/m2} 125 125
+CARD. OP/IND FICK {l/mn/m2} 3.63/1.79 4.38/2.16
+**RESISTANCES
+SYSTEMIC VASC. RESISTANCE 1300 1224
+PULMONARY VASC. RESISTANCE 176 128
+
+**% SATURATION DATA (NL)
+SVC LOW 52 55
+PA MAIN 49 55
+AO 96 94
+
+
+
+
+TECHNICAL FACTORS:
+Total time (Lidocaine to test complete) = 0 hour46 minutes.
+Arterial time = 0 hour minutes.
+Fluoro time = 3 minutes.
+IRP dose = 136 mGy.
+Contrast injected:
+          Non-ionic low osmolar (isovue, optiray...), vol  ml
+Anesthesia:
+          1% Lidocaine subq.
+Anticoagulation:
+Other medication:
+          Milrinone ggt iv
+          Lidocaine 8ml sq
+Cardiac Cath Supplies Used:
+          - ALLEGIANCE, CUSTOM STERILE PACK
+          - MERIT, RIGHT HEART KIT
+          - ARROW, BALLOON WEDGE PRESSURE CATHETER 110CM
+          - Anav Huntting, SWAN-GANZ VIP
+
+
+COMMENTS:
+1. Limited resting hemodynamics revealed moderately elevated
+left and
+right sided filling pressures with an LVEDP of 26mmHg and RVEDP
+of
+12mmHg. There was moderately elevated pulmonary artery systolic
+pressures with a PASP of 60mmHg. There was a moderately reduced
+cardiac
+index at baseline of 1.79L/min/m2 with significant response to
+milrinone
+to 2.16mmHg.
+
+FINAL DIAGNOSIS:
+1. Dilated cardiomyopathy.
+2. Good hemodynamic response to milrinone.
+3. To CCU with milrinone infusion.
+
+- CHEST (PORTABLE AP) Study Date of 2010-05-27 00:00:00 1:58 PM
+FINDINGS: AP single view of the chest has been obtained with
+patient in
+sitting semi-erect position. Analysis is performed in direct
+comparison with the next preceding similar study obtained six
+hours earlier during the same day. The findings are unchanged
+and characterized by severe pulmonary congestion with
+perivascular haze and central edema densities. The Swan-Ganz
+catheter approached via right internal jugular sheath was
+advanced far into the left pulmonary circulation and the tip in
+location indicating a posterolateral branch of the left lower
+lobe. The catheter is still in an unusual peripheral position
+and withdrawal was not effective. New effort to withdraw the
+Swan into more central position in the pulmonary circulation is
+recommended. Position of 123 Any St.usly described ICD device is
+unchanged. No pneumothorax has developed. Dr. Anav Huntting was
+paged.
+
+Brief Hospital Course:
+Pt is a 64 yo male PMHx significant for non-ischemic
+cardiomyopathy with EF 25%, s/p ICD placement 2010-05-27 00:00:00 (v paced),
+mild-mod MR/TR, DM, ICD, Afib on coumadin, gout, hypothyroidism,
+CKD p/w vtach and ICD firing, recently admitted for ICD firing,
+CHF w/ EF 20-25%% who presents from heart failure clinic
+w/hypotension. Pt has ?Cdiff w/ continued diarrhea, vomitting
+and decreased PO intake w/associated dehydration and lethargy
+after recently being d/c'ed to UPMCE rehab facility ~1wk ago.
+.
+# Goals of care: Upon admission to the ICU, the patient was
+started on a milrinone gtt, with some improvement in fluid
+balance and blood pressures. A discussion was held with both the
+wife and the patient spelling out the patient's very poor
+prognosis; cardiac transplant was off the table secondary both
+to the patient's wishes in addition to his poor compliance in
+the past. The patient did not wish for any further escalation of
+care. Palliative care was consulted, and the ptaient's nausea
+was treated with haldol/ativan/zofran PRN; he was given morphine
+boluses for pain. All non-comfort medications were discontinued,
+and the patient was made DNR/DNI. The patient expired on 2010-05-27 00:00:00
+at 945 PM
+
+# Hypotension/diarrhea/vomiting/?C diff: Pt reportedly had ?c
+diff associated diarrhea, nausea/vomiting and decreased PO
+intake over the last week. Pt presented to Heart Failure clinic
+and found to be very hypotensive (60/40; wife reported SBP in
+70s) and was sent to ED. Cr was elevated to 3.6 and pt appeared
+very dehydrated on exam. There he had a lactate of 2.5. Started
+on vanco and cefepime. Also received gentle fluid rehydration.
+CXR showed significant pulmonary edema but atypical PNA could
+not be ruled out. KUB was negative. All BP lowering meds
+(holding metoprolol, amioderone) were held as was torsemide. The
+patient was subsequently transferred to the ICU for a milrinone
+gtt in order to maintain pressures, particularly after the small
+bolus of NS he received caused him to go into pulmonary edema. A
+Swan-Ganz was floated, which showed moderately elevated left and
+right sided filling pressures with an LVEDP of 26mmHg and RVEDP
+of 12mmHg. There was moderately elevated pulmonary artery
+systolic pressures with a PASP of 60mmHg. There was a moderately
+reduced cardiac index at baseline of 1.79L/min/m2 with
+significant response to milrinone
+to 2.16mmHg. UPMCE Rehab was contactChawn Grochowski and indicated that they
+had emperically started C. Diff treatment with PO vancomycin
+without cultures; C. Diff assay here was negative, and so
+antibiotics were discotninued on the patient. The patient was
+noted to have nausea controlled with Zofran and
+Prochlorperazine; nausea was attributed to hepatic congestion
+secondary to heart failure. The diarrhea similarly was thought
+to be attributable to the patient's congestive heart failure.
+
+# Pancreatitis: Pt found to have elevated lipase in ED, nause,
+vomitting. Pt does not drink. RUQ US did not show stones or
+dilation. Evidence of sludge. Concern for possiblely being drug
+related. Recently started on amiodarone so held but per pharm,
+unlikely to cause pancreatitis. Non-acute belly on exam,
+negative Anav Huntting. Was made NPO given ?pancreatitis, N/V and
+given gentle fluids given low EF. Repeat lipase trending down
+(277-->184), making pancreatitis less likely. Ultimately the
+patient was transitioned from NPO to thin liquids.
+
+# CHF:  Pt has hx of non-ischemic cardiomyopathy with EF 25%,
+s/p ICD placement 2010-05-27 00:00:00 (v paced), mild-mod MR/TR. Was recently
+admitted for CHF exacerbation and ICD firing in setting of
+running out of meds and non-adherence to low salt diet. Had ICD
+leads changed so no UPMCE-v paced in setting of having
+?inappropriate discharges. Pt initially d/c'ed to UPMCE rehab
+on 2010-05-27 00:00:00 after diuresis. Per wife pt got worse at rehab. In ED,
+CXR now showed ?pulm edema vs atypical PNA (started on vanco,
+flagyl and cefipime on day of admission 2010-05-27 00:00:00). Pt also has
+been vomiting so possible aspiration was also complicating the
+picture. Pt was given very gentle fluids which improved renal
+function but pt reported worsening respiratory status and O2
+sats began to decline, required sup O2. Decision was made by
+attending that pt should be transferred to the ICU for closer
+monitoring given tenuous fluid state, in addition to be
+monitored with a Swan for closer fluid management. Milrinone gtt
+during Swan improved cardiac output, and so the patient was
+continued on milrionne gtt while in the ICU; after goals of care
+discussion, ths gtt was discontinued.
+
+# Pulmonary Edema vs ?PNA: pt found to have signs of pulmonary
+edema but per read can't r/o atypical PNA. Also, given
+vomitting, aspiration is also possible. Chest xray was
+significant for cardiomegaly, pulmonary edema vs ?atypical PNA
+or both. Started on vanco, flagyl and cefipime on day of
+admission 2010-05-27 00:00:00. These medications were subsequently DC'ed
+after the patient was found to be C. Diff negative and was not
+displaying any other signs of infection such as fever or WBC
+count.
+
+# Hyponatremia: tends to run low, baseline around low 130s. 2010-05-27 00:00:00
+be worse in setting of dehydration. Remained stable during
+admission. Labs were subsequently discontinued once the patient
+was made CMO.
+
+# Grochowski on chronic renal failure: Pt has significant bump in Cr
+3.6 baseline Cr of 2.6-2.8. Likely bump related to dehydration
+due diarhea, N/V, decreased PO intake and getting home
+diuretics. Received gentle fluids and improved, and subsequently
+the patient but fluid and diuresis were both discontinued after
+goals of care discussion.
+
+# Afib: The patient was on coumadin on admission, and was
+continued on such until his goals of care discussion, at which
+point it was discontinued.
+
+#  DMII: Initially on ISS, subsequently DC'ed after goals of
+care discussion
+
+.
+# Gout: Has a history of severe gout; did not require colchine
+on this admission.
+
+# Hypothyroid: Continued home dose levothyroxine.
+
+Medications on Admission:
+-allopurinol 100 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+-colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+-digoxin 125 mcg Tablet Sig: One (1) Tablet PO 3X/WEEK
+(TU,TH,SA).
+-levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+-docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+-multivitamin Tablet Sig: One (1) Tablet PO DAILY (Daily).
+-senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+-polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+packet PO DAILY (Daily) as needed for constipation.
+-aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+****Pt wife states should be on 200mg now but per OMR should
+still be 400mg-amiodarone 200 mg Tablet Sig: Two (2) Tablet PO
+DAILY
+(Daily): Until 2010-05-27 00:00:00 and then decrease to 200mg PO Daily.
+-warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM: Please hold warfarin and Check INR on Sunday 2010-05-27 00:00:00. If
+below 3 start warfarin at 2mg.
+****Chawn Grochowski wife says Chawn Grochowski him so will hold-trazodone 50 mg
+Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomnia.
+-torsemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+-metoprolol succinate 200 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+-insulin glargine 100 unit/mL Solution Sig: Fifteen (15)
+units Subcutaneous at bedtime as needed for As needed for high
+sugar.
+-insulin lispro 100 unit/mL Solution Sig: As per sliding
+scale Subcutaneous QACHS.
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Expired
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+

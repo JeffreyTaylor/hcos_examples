@@ -1,0 +1,347 @@
+Admission Date:  2008-05-12 00:00:00              Discharge Date:   2008-05-12 00:00:00
+
+Date of Birth: 1951-05-12 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Drexal Egging
+Chief Complaint:
+Respiratory distress.
+
+Major Surgical or Invasive Procedure:
+1. Inubation
+2. Placement of central venous access via the right internal
+jugular
+
+
+History of Present Illness:
+Mr. Spivey is a 59yo M with history of severe COPD and pulmonary
+hypertension who was brought in by ambulance for respiratory
+distress.  Per report, when EMS arrived all of his inhalers were
+empty.
+.
+In the ED, initial vs were: T 98.8 P 121 BP 100/67 R 17 O2 sat
+100%.  He was immediately intubated for respiratory distress as
+he wasn't able to speak few words.  He was on propofol for
+sedation.  His pressures were in the 90s and dipped to the 80s
+so R IJ was placed and levophed was started.  CXR showed fluffy
+bilateral infiltrates and ABG was significant for hypcarbia to
+106.  He received 125mg IV solumedrol, albuterol, magnesium,
+levaquin, ceftriaxone and was started on versed/fent drips.
+.
+In the ICU, patient is intubated and sedated.
+
+Past Medical History:
+# COPD - was seen frequently at UPMCE. Has
+smoked 3 packs /day x 45 years, quit on last admission to UPMCE.
+
+No PFTs in our system.
+# Congential Bicuspid Aortic Valve; s/p porcicine repair 2008-05-12 00:00:00.
+Echo in 2008-05-12 00:00:00 on recent admission within normal limits
+# Hypertension
+# Lower Extremity Edema
+# Hypertension
+
+Social History:
+Smoked 3pks ppd x 45 years. Former head of maintence at UPMCE
+
+and women's hospital, also a car mechanic. No exposure to
+asbestos. Now on disability due to dyspnea. Lives wtih
+girlfriend. Minimal etoh now though former heavy alcohol user
+
+
+Family History:
+Parents with heart disease - MIs.  Sister with arrhythmia that
+went away.
+No fhx of cancers.
+
+Physical Exam:
+Upon admission:
+T: 99.5 BP: 91/55 P: 94 100% on AC 550x18, 50% Fi02, PEEP 5
+General: Sedated, intubated, not following commands
+HEENT: Pinpoint pupils bilaterally slightly responsive to light,
+sclera anicteric, MMM, oropharynx clear, tongue with abnormal
+fasciculations
+Neck: supple, JVP unable to be assessed, no LAD
+Lungs: Bilateral coarse wheezing
+CV: Tachycardic, regular rhythm, normal S1 + S2, no murmurs,
+rubs, gallops
+Abdomen: obese, soft, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+GU: Foley
+Ext: warm, well perfused, 1+ DP pulses bilaterally, bilateral
+lower extremities with chronic venous stasis changes, no
+clubbing, cyanosis or edema
+.
+At discharge:
+VS: 97.3 129/78 (149/86) 94 (88) 20 92-97 on 3L NC
+I/O not well recorded yesterday
+General: NAD, sitting up in bed, pleasant, funny and interactive
+
+HEENT: MMM tongue with no abnormal fasciculations
+Lungs: Bilateral coarse sounds, very tight, scattered wheezes
+throughout lung fields.
+CV: Tachycardic, regular rhythm, normal S1 + S2, no murmurs,
+rubs, gallops
+Abdomen: obese, soft, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 1+ DP pulses bilaterally, bilateral
+lower extremities with chronic venous stasis changes, no
+clubbing, cyanosis or edema
+
+Pertinent Results:
+ADMISSION
+2008-05-12 00:00:00 06:25AM   FIBRINOGE-651*
+2008-05-12 00:00:00 06:25AM   PLT COUNT-146*
+2008-05-12 00:00:00 06:25AM   WBC-10.0 RBC-5.08 HGB-15.6 HCT-47.2 MCV-93
+MCH-30.7 MCHC-33.0 RDW-12.6
+2008-05-12 00:00:00 06:25AM   WBC-10.0 RBC-5.08 HGB-15.6 HCT-47.2 MCV-93
+MCH-30.7 MCHC-33.0 RDW-12.6
+2008-05-12 00:00:00 06:25AM   LIPASE-11
+2008-05-12 00:00:00 10:58AM   LACTATE-0.9
+2008-05-12 00:00:00 11:51AM   PT-12.6 PTT-27.6 INR(PT)-1.1
+2008-05-12 00:00:00 11:51AM   GLUCOSE-165* UREA N-20 CREAT-0.5 SODIUM-140
+POTASSIUM-4.6 CHLORIDE-97 TOTAL CO2-40* ANION GAP-8
+.
+DISCHARGE
+2008-05-12 00:00:00 06:25AM BLOOD WBC-7.4 RBC-4.65 Hgb-13.7* Hct-42.5
+MCV-92 MCH-29.6 MCHC-32.3 RDW-13.1 Plt Ct-185
+2008-05-12 00:00:00 02:46AM BLOOD Neuts-80.0* Lymphs-14.2* Monos-5.5
+Eos-0.2 Baso-0.1
+2008-05-12 00:00:00 06:25AM BLOOD Glucose-121* UreaN-15 Creat-0.5 Na-143
+K-3.5 Cl-97 HCO3-37* AnGap-13
+2008-05-12 00:00:00 06:25AM BLOOD Calcium-9.0 Phos-3.8 Mg-2.0
+2008-05-12 00:00:00 02:56AM BLOOD Type-Spivey Temp-36.7 Rates-16/ Tidal V-550
+PEEP-5 FiO2-40 pO2-46* pCO2-64* pH-7.39 calTCO2-40* Base XS-10
+-ASSIST/CON Intubat-INTUBATED
+.
+IMAGING STUDIES
+CHEST XRAY ADMISSION 2008-05-12 00:00:00
+PORTABLE AP CHEST RADIOGRAPH: Sternotomy wires are midline and
+intact.
+Surgical clips are noted in the midline. The ET tube is above
+the thoracic
+inlet, approximately 7.5 cm above the expected location of the
+carina.
+Nasogastric tube is traced best up to the level of the mid
+esophagus,
+uncleAeryn Spivey traced thereafter. A tube-like structure within the
+expected region of the stomach may represent the continuation of
+the nasogastric tube, however uncertain. Bilateral low lung
+volumes are noted with appearance suggestive of pulmonary
+fibrosis.
+.
+CHEST XRAY 2008-05-12 00:00:00
+Frontal view of the chest is compared to multiple prior
+examinations. Right IJ catheter terminates in superior vena
+cava. Remainder of lines and tubes are unchanged. There is
+moderate congestive failure, small bilateral pleural effusions
+and atelectasis at the right lung base. Heart and mediastinum
+are stable.
+.
+CT SCAN 2008-05-12 00:00:00 FINAL REPORT
+IMPRESSION:
+1. Diffuse ground glass and nodular opacities with an appearance
+most consistent with mycoplasma pneumonia. Extensive mediastinal
+and hilar lymphadenopathy, likely reactive. Trace bilateral
+pleural effusions.
+2. Endotracheal tube ends approximately 1 cm above the carina.
+.
+CT SCAN WITH AND WIHTOUT CONTRAST 2008-05-12 00:00:00
+1. No acute intracranial process.
+2. Intubation, with retained sinonasal secretions.
+
+Brief Hospital Course:
+HOSPITAL COURSE
+Mr. Spivey is a 59yo M with history of severe COPD and pulmonary
+hypertension who presented with hypercarbic respiratory distress
+requiring intubation. He did well after extubation and was
+discharged to pulmonary rehabilitation for further care.
+.
+ACTIVE ISSUES
+# Hypercarbic respiratory failure: His respiratory distress was
+likely related to extreme hypercarbia due to his underlying
+COPD.  His COPD flare was likely due to medication noncompliance
+in setting of running out of inhalers.  Chest CT showed diffuse
+bronchopulmonary pneumonia concerning for a mycoplasma/atypical
+process. He was started levofloxacin and will complete a 7 day
+course on the night of discharge. He was started on solumedrol
+and then switched to prednisone.  Extubated 2008-05-12 00:00:00 without
+complication. He was continued on 60mg prednisone on transfer to
+the floor.  A slow prednisone taper was initiated on discharge
+to pulmonary rehab where additional titration of nebulizer
+therapy will be continued and initation of home inhaler regimen
+of advair and spiriva will be started.  His Bipap was continued
+but at lower settings of 18/16, and his supplemental oxygen was
+3L at discharge.  He was encouraged to stop smoking.  He will
+have pulmonary follow up after discharge from pulmonary rehab.
+.
+# Hypotension: He is likely hypertensive at baseline given
+lisinopril on med list but recent baseline is unknown.
+Hypotension in MICU was possibly related to sedation surrounding
+intubation or from decrease in right heart filling pressure with
+positive pressure ventilation.  Normal lactate and lack of
+leukocytosis are reassuring.  He was started on levophed in the
+ED and this was weaned off as fluid boluses given.
+
+# Tongue movement: His abnormal tongue movement in MICU was
+concerning for possible fasciculation or seizure activity.  He
+does not have a history of seizures and recent events leading to
+hospitalization. These events did not continue and no further
+work up pursued.
+.
+# Hypertension with Diastolic Dysfunction: 123 Any St.usly on
+lisinopril and lasix - has not refilled Rx in two years.  He was
+restarted on lisinopril and aspirin with a lower dose of lasix.
+His blood pressure was well controlled and renal function
+stable.  His peripheral edema slowly improved.  It is likely
+that his lasix will need to be uptitrated in the outpatient
+setting.
+.
+TRANSITIONAL ISSUES
+# Disposition: Pulmonary Rehabilitation with close Pulmonary and
+Cardiology follow-up
+Mr. Spivey has not had medical follow-up in over 2 years and
+medication compliance a significant issue in future management.
+# Code: Full
+
+Medications on Admission:
+Medications: Per list from 2008-05-12 00:00:00, unknown if patient taking these
+now:
+ALBUTEROL SULFATE - 2.5 mg/3 mL (0.083 %) Solution for
+Nebulization - 1 vial via nebulizer Every 6-8 hours as needed
+for shortness of breath/wheezing
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler -
+1-2 puffs(s) by mouth every four (4)  to six (6) hours as needed
+for cough/wheezing
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 250 mcg-50 mcg/Dose
+Disk with Device - 1 puff(s) inhaled Twice daily Rinse mouth
+after use
+FUROSEMIDE - 80 mg Tablet - 1 Tablet(s) by mouth daily
+LIDOCAINE -  (Prescribed by Other Provider) - 5 % (700 mg/patch)
+Adhesive Patch, Medicated -
+LISINOPRIL - 10 mg Tablet - 1 Tablet(s) by mouth daily
+MONTELUKAST [SINGULAIR] - 10 mg Tablet - 1 Tablet(s) by mouth
+daily
+NAPROXEN - 500 mg Tablet - 1 Tablet(s) by mouth Twiec a day
+(UPMCE) For 2 week course
+OXYGEN -  (Prescribed by Other Provider) -   - 2L at rest via
+NC; 3L with activity
+PANTOPRAZOLE [PROTONIX] - 40 mg Tablet, Delayed Release (E.C.) -
+1 Tablet(s) by mouth twice a day
+TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule,
+w/Inhalation Device - 1 capsule inhaled Once daily
+ACETAMINOPHEN [TYLENOL ARTHRITIS] -  (OTC) - 650 mg Tablet
+Extended Release - Tablet(s) by mouth
+ASPIRIN [ASPIR-81] - 81 mg Tablet, Delayed Release (E.C.) - 1
+Tablet(s) by mouth daily
+
+
+Discharge Medications:
+1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation every six (6) hours as
+needed for shortness of breath or wheezing.
+2. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+3. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+4. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+6. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO once a day.
+7. ipratropium bromide 0.02 % Solution Sig: One (1) neb
+Inhalation every six (6) hours.
+8. prednisone 10 mg Tablet Sig: 6 pills x 3 days, 5 pills x 3
+days, 4 pills x 3 days, 3 pills x 3 days, 2 pills x 3 days, 1
+pill x three days then STOP Tablets PO once a day: Prednisone
+taper.
+9. Bipap
+BiPap 18/16 when sleeping or napping.
+10. Oxygen therapy
+Oxygen 3L.  Titrate to keep sats >90%, unknown home flow rate.
+11. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO at bedtime
+for 1 doses: Please give on 2008-05-12 00:00:00.
+12. montelukast 10 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary Diagnosis: Acute Exacerbation of Chronic Obtructive
+Pulmonary Disease, Community Acquired Pneumonia, Tobacco Abuse
+Secondary Diagnosis: Hypertension
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted for managment of respiratory distress likely
+caused by pneumonia and a COPD exacerbation.  You were intubated
+for three days to assist with your breathing.  You were treated
+with antibiotics for a pneumonia, and bronchodilator and steroid
+therapy for management of your COPD.  You continued to improve.
+
+While you were here, we restarted many of the medications that
+were prescribed to you in the past.  It is very important that
+you continue these medications and follow-up with your primary
+care physician, Aeryn Spivey and pulmonologist as your
+underyling pulmonary and cardiac issues have not been evaluated
+in some time.  It is likely that some of these medications will
+need to be changed or adjusted.
+
+You are being discharged to a pulmonary rehabilitation center
+prior to going home given the severity of your symptoms.  They
+will prepare you for discharge to home.
+
+We strongly encourage you to quit smoking as this is one of the
+few things that will increase your life expectancy related to
+your lung disease.
+
+The following changes were made to your medication list:
+1. START lisinopril 10mg daily
+2. START lasix 20mg daily
+3. START albuterol Nebulyzer therapy
+4. START ipratropium Nebulyzer therapy
+5. START Nicotine Patch
+6. START Monteleukast
+7. COMPLETE Prednisone taper as prescribed
+8. CONTINUE aspirin and protonix as you have been taking
+9. CONTINUE supplemental oxygen
+10. CONTINUE BIPAP at night and while napping
+
+Please talk to your PCP if you are having any problems with
+obtaining these medications.
+
+These medications may change upon discharge from Pulmonary
+Rehab.
+
+Followup Instructions:
+PULMONOLOGY
+The office of Dr. Drexal Egging will call you to set up an
+appointment on discharge.  If you have not heard from his office
+when you leave Pulmonary Rehab: Please call (test@mail.com  to
+schedule an appointment.
+
+CARDIOLOGY
+Department: CARDIAC SERVICES
+When: FRIDAY 2008-05-12 00:00:00 at 11:20 AM
+With: Aeryn Spivey, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+

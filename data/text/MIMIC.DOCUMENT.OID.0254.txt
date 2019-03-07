@@ -1,0 +1,331 @@
+Admission Date:  2008-11-16 00:00:00              Discharge Date:   2008-11-16 00:00:00
+
+Date of Birth: 1979-07-27 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Brennus Nellenback
+Chief Complaint:
+left arm weakness, slurred speech
+
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+41 year old right handed male with history of crack cocaine use,
+prior strokes, presents with sudden onset left arm weakness,
+left nasolabial flattening and dysarthria. Pt reports last
+smoking a marijuana and crack cocaine cigarette at 7pm this
+evening. At 10:30pm while he was playing pool in a bar he
+noticed the sudden onset of left arm "weakness." He was lining
+up to take a shot and could not manipulate his left arm to
+steady the cue. At the same time his left face felt droopy and
+he was slurring his speech. He did not have any trouble thinking
+of the right words to say, or any difficulty comprehending
+speech. This was not preceded or followed by any headache,
+diplopia or visual loss. He was concerned this could be a
+stroke, as he has had two in the past, and he drove himself
+towards the hospital, however he had to stop at a gas station
+because he was finding it difficult to use the wheel with his
+left arm. A woman at the gas station who saw him driving said
+that he should not be driving (he also had 4 shots of Hennesey
+whiskey and a beer), but he reports that he was not
+intoxicated. They called EMS and he was brought to UPMCE for evaluation.
+
+At UPMCE, urine positive for cocaine, blood ETOH level was 76
+and his blood pressure on arrival was 230/120. Noted to have
+Left internal capsule hemorrhage by CT. He was given Labetalol
+IV and transferred to UPMCE for further management.
+
+He had a stroke last year when he was at a carribean carnival
+and he was drinking heavily and smoking marijuana. He noted
+right facial droop this time accompanied by right hand/arm
+weakness. He went to UPMCE Hospital where he was told
+he had a "blood clot." His symptoms resolved completely within
+24hours. He was prescribed aspirin, and possibly plavix, but he
+no longer takes this. He also has not been taking his blood
+pressure medication
+(unsure of the name) regularly.
+
+He had another stroke about four years ago, which he
+characterizes as left facial droop and dysarthria. He was
+admitted to UPMCE and his symptoms resolved within an
+hour.
+
+At present the pt denieds headache, loss of vision, blurred
+vision, diplopia, lightheadedness, vertigo, tinnitus or hearing
+difficulty. Denied difficulties comprehending speech.  He denies
+numbness, parasthesiae. No bowel or bladder incontinence or
+retention. He reporst feeling somewhat unsteady while walking.
+
+On review of systems, the pt denied recent fever or chills.  No
+night sweats or recent weight loss or gain. Denied cough,
+shortness of breath.  Denied chest pain or tightness,
+palpitations.  Denied nausea, vomiting, diarrhea, constipation
+or abdominal pain.  No recent change in bowel or bladder habits.
+ No dysuria.  Denied arthralgias or myalgias. Denied rash.
+
+
+Past Medical History:
+Stroke
+Hypertension
+Motor Vehicle Accident (3months ago)- sustained laceration to
+forehead requiring sutures, he was noted to have elevated blood
+pressure by Dr. Hanf at UPMCE Hospital and started on a
+blood
+pressure medicine.
+
+
+Social History:
+Has domestic partner x18years (female). He runs a chiropractic
+practice. active marijuana smoker, active crack cocaine user,
+denies tobacco use. Drinks 5-8 drinks 3-4 nights per week.
+
+
+Family History:
+Mother had a stroke at age 60.
+Father has diabetes.
+Paternal Grandfather has diabetes.
+
+
+Physical Exam:
+Vitals: T: 99 P: 89 R:16 BP: 185/90 SaO2: 97% RA
+General: slouched to L side in bed, Awake, cooperative, but
+visibly anxious, looking around the room.
+HEENT: NC/AT, bilateral scleral injection. no icterus noted,
+MMM,
+no lesions noted in oropharynx
+Neck: Supple, no JVD or carotid bruits ap123 Any St.ted. No nuchal
+rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3.  Able to relate history
+without difficulty.  Attentive, able to spell WORLD backwards
+without difficulty. He does however appear somewhat anxious and
+is looking about the room.  Language is fluent with intact
+repetition and comprehension. He is however dysarthric. Normal
+prosody.  There were no paraphasic errors. Pt. was able to name
+both high and low frequency objects.  Able to read without
+difficulty.  He interprets cookie theft picture appropriately.
+Able to follow both midline and appendicular commands. Pt. was
+able to register 3 objects and recall 2008-11-16 00:00:00 at 5 minutes.  No
+apraxia or neglect.
+
+
+-Cranial Nerves: Olfaction not tested.  Pupils were large ERRL
+brisk 6-->4mm. VFF to confrontation.  Left UMN facial droop/NL
+flattening. Pt would not cooperate with funduscopic examination.
+EOMI without nystagmus.  Normal saccades. Facial sensation
+intact
+to pinprick. No facial droop, facial musculature symmetric.
+Hearing intact to finger-rub bilaterally.  Palate elevates
+symmetrically.  5/5 strength in trapezii and SCM bilaterally.
+Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No adventitious movements
+noted. No asterixis noted.
+
+The patient has a left pronator drift.
+
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA [**First Name9 (NamePattern2) 2305**] Hanf EDB
+L  5    5    5  4-   5  5  4- 5   5   5  5    5     5    5
+R  5    5    5  5    5  5  5  5   5   5  5    5     5    5
+
+-Sensory: Reduced light touch, pinprick, cold sensation,
+vibratory sense, proprioception throughout on left hemibody with
+arm > leg. + extinction to DSS.
+
+-Coordination: No intention tremor, slight dysdiadochokinesia
+noted on left hand. he has difficulty performing FNF on left.
+
+-DTRs:
+  Idali Hanf Tri Hanf Pat Ach
+L  2   2   2    2   2
+R  2   2   2    2   2
+
+Plantar response was muted on the left. Downgoing on the right.
+
+-Gait: ataxic gait with circumduction of the left leg, left arm
+flexion, decreased left arm swing.
+
+
+Pertinent Results:
+2008-11-16 00:00:00 11:55p
+Urine Cocaine Pos
+Urine Benzos, Barbs, Opiates, Amphet, Mthdne Negative
+Serum ASA, EtOH, Acetmnphn, Benzo, Barb, Tricyc Pending
+
+UA- negative
+
+141  105  16 AGap=16
+-------------<98
+3.8  24  1.1
+
+CK: Pnd  MB: Pnd  Trop-T: Pnd
+
+Ca: 9.1 Mg: 2.5 P: 3.1
+
+MCV 92
+WBC 12.5, Hgb 15.5, Hct 46.4, Platelet 325
+
+N:79.1 L:15.9 M:3.2 E:1.4 Bas:0.4
+
+PT: 11.7  PTT: 24.8  INR: 1.0
+
+2008-11-16 00:00:00 06:00AM BLOOD %HbA1c-5.4
+2008-11-16 00:00:00 06:00AM BLOOD Triglyc-130 HDL-90 CHOL/HD-1.9 LDLcalc-58
+
+Radiologic Data:
+NCHCT 2008-11-16 00:00:00: right internal capsule genu and anterior limb
+4.2x1.7cm
+hemorrhage. Small ~2mm midline shift.
+
+NCHCT 2008-11-16 00:00:00 2:39 am:  Slight increase to right external
+capsule intracranial hemorrhage.  Additional history provided by
+neurology team reveals that the patient has been using cocaine.
+ATTENDING NOTE: The change in size of hematoma is subtle and can
+also be due to differences in slice selection. Continued follow
+up recommended.
+
+NCHCT 2008-11-16 00:00:00 12:20 pm: No significant interval change in size
+or mass effect of right lentiform nucleus intraparenchymal
+hemorrhage.
+
+ECHO 2008-11-16 00:00:00: The left atrium is mildly dilated. A left-to-right
+shunt across the interatrial septum is seen at rest. A secundum
+type atrial septal defect is present. There is mild symmetric
+left ventricular hypertrophy with normal cavity size. Left
+ventricular systolic function is hyperdynamic (EF>75%). A
+mid-cavitary gradient is identified. There is no ventricular
+septal defect. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. No masses or vegetations are seen on the aortic
+valve. The mitral valve leaflets are mildly thickened. There is
+no mitral valve prolapse. No mass or vegetation is seen on the
+mitral valve. No mitral regurgitation is seen. The estimated
+pulmonary artery systolic pressure is normal. There is no
+pericardial effusion.  IMPRESSION: No echocardiographic evidence
+of endocarditis. Probably small secundum ASD with left to right
+shunting at rest. There is a mid-cavitary gradient seen with the
+Valsalva maneuver, probably due to hyperdynamic LV function.
+There is no resting gradient.
+EKG: Sinus rhythm. Increased QRS voltage with ST-T wave
+abnormalities.
+Probable left ventricular hypertrophy but may be normal for age.
+
+No 123 Any St.us tracing available for comparison.
+
+
+Chest Xray- no infiltrate or acute cardiopulmonary process.
+
+
+Brief Hospital Course:
+Mr. Hanf is a 41 year old male with uncontrolled hypertension
+and cocaine abuse who presented with left lower motor neuron
+seventh cranial nerve palsy, left hemiparesis with diminished
+sensation to all modalities on the left and was found to have a
+right internal capsule hemorrhage.
+
+This was likely a hypertensive hemorrhage related to cocaine
+use. He was admitted to the neuro ICU and started on a
+nicardipine drip for MAP's < 130, and ultimately titarated off
+as his pressures came down. The patient was evaluated by the
+neurosurgery service who did not deem the patient a candiate for
+surgery or invasive intracranial pressure monitoring. The
+patient's hemorrhage was essentially stable on serial head CTs.
+Beta blockers were avoided in the setting of recent cocaine use.
+ Serial cardiac enzymes were negative.  He was placed on a CIWA
+scale given history of alcohol use and he was given normal
+saline + thiamine, folate, and multivitamin.  His deficits
+dramtically improved, such that he had only some breakable right
+hand weakness in the finger extensors and interossei.  He also
+had a mild left UMN facial droop.  Otherwise his neurological
+exam was unremarkable, and was transferred to the floors.
+
+On the floors, he was started on lisinopril 10 mg/d for BP
+control and increased to 20 mg/d for persistent hypertension.
+Risk stratification revealed a normal A1C and excellent lipid
+profile.  He refused MRI for evaluation of underlying etiology,
+even with the offer of medication for sedation.  Given his prior
+history of cocaine use, we checked an ECHO on the day of
+discharge.  The echocardiogram showed no evidence of
+endocarditis.  An initial leukocytosis, likely related to the
+hemorrhage resolved, and he remained afebrile.  Blood cultures
+were pending.  There was suggestion of a small secundum ASD with
+left to right shunting at rest.  His exam remained stable and he
+was deemed stable for discharge on 2008-11-16 00:00:00.
+
+The patient was offered substance abuse counseling, and will be
+in contact by Idali Hanf Idali Hanf as an outpatient.
+
+For future communication:
+Wife- Idali Hanf Idali Hanf test@mail.com
+Mother- test@mail.com
+Brother- test@mail.com
+
+
+Medications on Admission:
+Aspirin 81mg Daily- started taking following last stroke ~1 year
+ago.
+"Blood pressure medication"- wife and pt are unsure of the name.
+
+
+Discharge Medications:
+1. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Hemorrhagic stroke in the right internal capsule genu and
+anterior limb
+
+
+Discharge Condition:
+Stable, patient has only some mild weakness in the left hand,
+with breakable finger extensors and interossei.  He also has a
+left sided upper motor neuron facial droop.  Otherwise, normal.
+
+
+Discharge Instructions:
+Please take your medications as prescribed and follow up with
+your appointments as scheduled.  If you experience new,
+worsening, or concerning symptoms, such as weakness, slurred
+speech, vision changes, or trouble swallowing, please contact
+Dr.Idali Hanf office at (test@mail.com or after hours, the
+neurologist on-call at (test@mail.com.  If you are unable to
+reach someone for any reason, please return to the nearest
+emergency room.  It is vital that you refrain from the use of
+any illicit substances such as cocaine ("crack").  We would also
+advise that you refrain from alcohol and tobacco use.
+
+Followup Instructions:
+1) Please call Dr. Brennus Nellenback office at (test@mail.com to
+arrange a follow up visit in the next 2-4 weeks.  On this visit,
+please inquire about a repeat head CT to evaluate the progress
+of your stroke.  Also, please ask about a renal ultrasound to
+investigate your hypertension.
+
+2) Please expect a call from [**First Name8 (NamePattern2) 2377**] Hanf from addiction
+services for treatment of substance use.
+
+
+                             Idali Hanf Idali Hanf MD 28644
+

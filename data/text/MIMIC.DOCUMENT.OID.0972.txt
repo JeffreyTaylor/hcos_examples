@@ -1,0 +1,533 @@
+Admission Date:  2006-02-12 00:00:00              Discharge Date:   2006-02-12 00:00:00
+
+Date of Birth: 1947-01-31 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Eleuterio Mcglennon
+Chief Complaint:
+abdominal pain
+
+Major Surgical or Invasive Procedure:
+PICC placement
+ERCP
+
+
+History of Present Illness:
+79 M with a history of lung CA, interstitial lung dz on home O2
+and chronic prednisone, CHF (EF 40%), prostate cancer and afib
+on coumadin presents with acute onset abdominal pain x 2
+hours--epigastric, RUQ, no radiation. He also reports anorexia x
+1 day, +rigors.  no fevers. His shortness of breath is at his
+baseline.
+
+In the ED: Labs with Eleuterio Mcglennon: 1159 Lip: 3866. Abd u/s:
+cholelithiasis w/o cholecystitis. Surgery consulted. ERCP fellow
+notified.  Given 3L NS, ZOfran 4 mg IV, KPhos 30mm/500 cc,
+Metoprolol 25 mg.
+
+Past Medical History:
+HTN
+Atrial Fibrillation
+COPD lung CA s/p LUL lobectomy 20 yrs ago for squamous cell
+carcinoma and LLL for large cell carcinoma
+prostate cancer in 2006-02-12 00:00:00 treated with radiation therapy
+Gout
+Hypertension
+Hypoxemia from COPD, pulmonary hypertension, CHF (chronic
+systolic), interstitial lung disease
+Chronic systolic CHF
+AVN on rt hip
+
+Pulmonary specialist - Dr Clio Delima
+PCP Clio Delima Clio Delima Clio Delima
+
+
+Social History:
+The patient smoked two to three packs of cigarettes per day for
+
+40 years, but stopped 13 years ago. He has a son at home
+requiring large amount of family care due to multiple sclerosis.
+Wife Clio Delima - is the health care proxy.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Exam on arrival to floor from ICU
+VS: 96.0, BP 159/111, 76, HR 76, RR 20, 97% 3L O2
+GEN: pleasant, comfortable, sitting at 45 degrees; mildly
+labored breaths
+HEENT: EOMI, watery eyes, anicteric, MMM, op without lesions
+NECK: no supraclavicular or cervical lymphadenopathy, no
+jvd,supple
+RESP: dry rales on R base, otherwise moving good air; no focal
+ronchi or wheeze
+CV: irregular, variable S1, no m/r/g
+ABD: obese, non-tender, non-distended. NABS
+EXT: 1+ edema b/l le
+SKIN: venous stasis changes
+NEURO: AAOx3. language garbled (adentulous) but able to speak in
+full stences appropriately. Able to answer questions of
+orientation and follow commands without difficulty. strength 5/5
+upper and lower extremities
+
+
+Pertinent Results:
+2006-02-12 00:00:00 06:39AM BLOOD WBC-5.7 RBC-3.43* Hgb-11.3* Hct-32.8*
+MCV-96 MCH-33.0* MCHC-34.4 RDW-14.1 Plt Ct-284
+2006-02-12 00:00:00 05:25AM BLOOD WBC-3.5*# RBC-3.86* Hgb-12.6* Hct-36.9*
+MCV-96 MCH-32.7* MCHC-34.3 RDW-13.8 Plt Ct-176
+2006-02-12 00:00:00 07:26PM BLOOD WBC-8.2 RBC-4.17* Hgb-14.2 Hct-41.0
+MCV-98 MCH-34.2* MCHC-34.7 RDW-14.9 Plt Ct-210
+2006-02-12 00:00:00 11:39AM BLOOD WBC-12.6* RBC-3.48* Hgb-11.7* Hct-34.0*
+MCV-98 MCH-33.5* MCHC-34.3 RDW-14.7 Plt Ct-142*
+2006-02-12 00:00:00 05:50AM BLOOD PT-15.4* PTT-28.9 INR(PT)-1.4*
+2006-02-12 00:00:00 11:53AM BLOOD PT-20.2* INR(PT)-1.9*
+2006-02-12 00:00:00 08:26PM BLOOD PT-22.6* PTT-25.5 INR(PT)-2.2*
+2006-02-12 00:00:00 05:50AM BLOOD Glucose-119* UreaN-10 Creat-0.8 Na-145
+K-3.3 Cl-109* HCO3-30 AnGap-9
+2006-02-12 00:00:00 05:00AM BLOOD Glucose-115* UreaN-9 Creat-0.8 Na-144
+K-3.0* Cl-107 HCO3-30 AnGap-10
+2006-02-12 00:00:00 07:26PM BLOOD Glucose-196* UreaN-22* Creat-1.1 Na-144
+K-3.0* Cl-104 HCO3-31 AnGap-12
+2006-02-12 00:00:00 05:22AM BLOOD ALT-24 AST-26 AlkPhos-74 Amylase-37
+TotBili-1.0
+2006-02-12 00:00:00 07:26PM BLOOD ALT-132* AST-177* LD(LDH)-390*
+AlkPhos-130* Amylase-1159* TotBili-1.4
+2006-02-12 00:00:00 05:50AM BLOOD Calcium-10.8* Phos-2.4* Mg-1.9
+2006-02-12 00:00:00 05:42AM BLOOD Albumin-3.3* Calcium-10.6* Phos-2.4*
+2006-02-12 00:00:00 07:26PM BLOOD Albumin-4.1 Calcium-11.4* Phos-1.6*#
+Mg-1.7
+2006-02-12 00:00:00 07:26PM BLOOD Triglyc-127
+2006-02-12 00:00:00 07:44AM BLOOD TSH-1.8
+2006-02-12 00:00:00 01:34PM BLOOD PTH-153*
+2006-02-12 00:00:00 04:25PM BLOOD Cortsol-18.3
+2006-02-12 00:00:00 06:20PM BLOOD Type-ART pO2-68* pCO2-33* pH-7.52*
+calTCO2-28 Base XS-3
+2006-02-12 00:00:00 01:34PM BLOOD VITAMIN D 25 HYDROXY
+  Test                          Result              Reference
+Range/Units
+VITAMIN D, 25-OH, TOTAL       7  L                20-100 NG/ML
+VITAMIN D, 25-OH, D3          7                   NG/ML
+VITAMIN D, 25-OH, D2          <4                  NG/ML
+
+25-OHD3 INDICATES BOTH ENDOGENOUS PRODUCTION AND
+SUPPLEMENTATION. 25-OHD2 IS AN INDICATOR OF
+EXOGENOUS SOURCES SUCH AS DIET OR SUPPLEMENTATION.
+THERAPY IS BASED ON MEASUREMENT OF TOTAL 25-OHD,
+WITH LEVELS <20 NG/ML INDICATIVE OF VITAMIN D
+DEFICIENCY WHILE LEVELS BETWEEN 20 NG/ML AND 30
+NG/ML SUGGEST INSUFFICIENCY. OPTIMAL LEVELS ARE
+>30 NG/ML.
+
+
+
+
+2006-02-12 00:00:00 01:12AM URINE Color-Yellow Appear-Clear Sp Delima-1.018
+2006-02-12 00:00:00 01:12AM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-0.2 pH-5.0 Leuks-NEG
+2006-02-12 00:00:00 11:46AM URINE Color-Yellow Appear-Hazy Sp Delima-1.016
+2006-02-12 00:00:00 11:46AM URINE Blood-LG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+2006-02-12 00:00:00 11:46AM URINE RBC-164* WBC-0 Bacteri-NONE Yeast-NONE
+Epi-0
+
+ BLOOD CULTURE
+
+                            **FINAL REPORT 2006-02-12 00:00:00**
+
+   Blood Culture, Routine (Final 2006-02-12 00:00:00):
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   Aerobic Bottle Gram Stain (Final 2006-02-12 00:00:00):
+      REPORTED BY PHONE TO Clio Delima 2006-02-12 00:00:00, 9:45AM.
+      GRAM NEGATIVE ROD(S).
+
+CXR: 2006-02-12 00:00:00  No overt CHF or pneumonia.
+
+LIVER-GALLBLADDER ULTRASOUND: There are no comparisons. The
+liver demonstrates normal echotexture. There is no intra- or
+extra-hepatic biliary duct dilatation. The gallbladder contains
+a shadowing 8-mm gallstone. There is, however, no evidence of
+acute cholecystitis. The common bile duct measures 3 mm. The
+right kidney measures 11.1 cm and is unremarkable without
+evidence of hydronephrosis.
+
+IMPRESSION: Cholelithiasis without evidence of cholecystitis
+
+ECG: Cardiology Report ECG Study Date of 2006-02-12 00:00:00  9:49:34 PM
+
+
+Atrial fibrillation with a rapid ventricular response. Since the
+123 Any St.us
+tracing of 2006-02-12 00:00:00 the rate is slower and ST-T wave
+abnormalities may be less.
+TRACING #2
+
+
+Read by: Delima,[**First Name3 (LF) 888**] A.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+106 0 90 test@mail.com6
+
+NON-CONTRAST HEAD CT: No hemorrhage, mass effect, hydrocephalus,
+or shift of normally midline structures. No major vascular
+territorial infarct is apparent. The Eleuterio Mcglennon-white matter
+differentiation is preserved. The ventricles and sulci are
+prominent reflecting age-related involutional change.
+Subcortical periventricular white matter hypodensities are seen,
+most consistent with chronic microvascular ischemic disease.
+Calcification is seen within the cavernous carotids. Mild
+mucosal thickening is seen within bilateral maxillary sinuses.
+The remainder of the visualized paranasal sinuses and mastoid
+air cells remain normally aerated.
+
+CTA HEAD AND NECK: The brachiocephalic trunk and the left common
+carotid originate from a common trunk off the aortic arch, in
+what is termed a bovine arch configuration, a normal variant.
+
+The right vertebral artery is diminutive compared to the left,
+throughout its course. While this may be due to hypoplasia,
+superimposed atherosclerotic stenosis cannot be excluded given
+the presence of calcifications at its origin.
+
+The left vertebral artery and basilar arteries are wideley
+patent. The basilar and posterior cerebral arteries remain
+patent.
+
+There is marked medial course of the common cartoid arteries,
+including the bifurcation and the proximal cervical internal
+carotid arteries.
+
+Moderate atherosclerotic narrowing is seen involving the left
+proximal internal carotid after the bifurcation. Both cavernous
+carotids show mild atherosclerotic calcification. The anterior
+and middle cerebral arteries are patent. No evidence of venous
+sinus thrombosis.
+
+The right lung apex shows diffuse ground glass opacity , which
+may be related to hypoventilatory change although underlying
+infection cannot be excluded. Right pleural effusion is present.
+
+IMPRESSION:
+1. No hemorrhage.
+2. Moderate atherosclerotic disease involving the left internal
+carotid after the bifurcation.
+3.The right vertebral artery is diminutive, which may be due to
+hypoplasia; however, superimposed atherosclerotic stenosis
+cannot be excluded given the presence of calcifications at the
+origin.
+This is a 123 Any St.inary report pending Curved and VR reformations.
+An addendum will be dictated once these are reviewed.
+
+The curved multiplanar reformations and volume rendered
+reformations of the carotid and vertebral arteries were
+reviewed.
+
+There is short segment focal stenosis of the left proximal
+internal carotid artery, from fibro-fatty and calcified plaques,
+causing 55-65% stenosis, tortuous and over a total length of
+aprroximately 1.5cm.
+
+The right vertebral artery is diminutive in caliber. This can be
+due to hypoplasia as well as superimposed atherosclerotic
+disease causing near complete non-visualization of a short
+segment at C6 level followed by faint visualization at C% and
+then onwards upwards. The V3 segment is again very faintly
+visualized. V4 segment appears well opacified.
+
+Marked medial, tortuous course of the left common, external and
+internal carotid arteries which needs to be kept in mind if
+planning interventions in this region.
+
+Right lung apex disease worsened since the CT Chest on 2006-02-12 00:00:00
+can be due to superimposed infection or other causes. To
+correlate clinically and consider detailed evaluation with CT
+Chest.
+
+CT chest: IMPRESSION:
+1. No intra-abdominal abscess or source of patient's bacteremia.
+Bowel loops are overall normal in appearance.
+2. Likely chronic lung disease at the bases with more focal area
+of consolidation in the right lower lobe, which may reflect
+developing pneumonia or recent aspiration.
+3. Cardiomegaly and atherosclerosis.
+4. Enlarged 2.8 x 1.6-cm subcarinal lymph node.
+5. Small pericardial effusion.
+
+2006-02-12 00:00:00: PORTABLE SUPINE CHEST, ONE VIEW: Cardiomediastinal
+silhouette is enlarged, accentuated by volume loss on the left
+and shift of the mediastinum to the left. However, there is
+likely mild cardiomegaly. Again noted is chronic volume loss of
+the left hemithorax secondary to multiple wedge resections.
+Since prior study, there is an interval increase in bibasilar
+atelectasis as well an increase in left pleural effusion.
+Pulmonary vascular engorgement is consistent with moderate
+pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+1. Moderate pulmonary edema.
+
+2. Increased size of left pleural effusion, moderate in size.
+
+EEG: IMPRESSION: This is an abnormal portable EEG due to
+disorganized and
+slow rhythm, admixed with bursts of generalized mixed frequency
+slowing,
+consistent with a mild encephalopathy or excessive drowsiness.
+Encephalopathy suggests dysfunction of deep midline or bilateral
+
+subcortical dysfunction. Medications, metabolic disturbances and
+
+infection are among the common causes of encephalopathy. There
+were no
+areas of prominent focal slowing. There were no epileptiform
+features.
+
+2006-02-12 00:00:00:
+PORTABLE UPRIGHT CHEST: Patient is status post partial resection
+of the left lung with volume loss and leftward shift of the
+mediastinum. Ill-defined retrocardiac opacity is seen and may
+represent a combination of pleural effusion and atelectasis or
+infectious consolidation. There is interval resolution of
+pulmonary edema with chronic right basilar interstitial
+abnormalities identified. Prominence of pulmonary vasculature is
+similar in appearance from 2006-02-12 00:00:00, and may reflect pulmonary
+arterial hypertension. Tip of right PICC line projects over mid
+SVC.
+
+IMPRESSION:
+
+1. Interval improvement of pulmonary edema.
+
+2. Left retrocardiac opacity, which likely reflects pleural
+effusion and adjacent atelectasis or consolidation.
+
+ERCP:
+Findings: Esophagus: Limited exam of the esophagus was normal
+Stomach: Limited exam of the stomach was normal. Protruding
+Lesions A single sessile 8mm polyp was found in the second part
+of the duodenum.
+
+Cold forceps biopsies were performed for histology at the
+duodenum.
+Major Papilla: A single periampullary diverticulum with large
+opening was found at the major papilla.
+Biliary Tree: The common bile duct, common hepatic duct, right
+and left hepatic ducts, biliary radicles and cystic duct were
+filled with contrast and well visualized. The course and caliber
+of the structures are normal with no evidence of extrinsic
+compression, no ductal abnormalities, and no filling defects.
+Pancreas: The pancreatic duct was filled with contrast in the
+head of the pancreas and appeared normal.
+Procedures: A sphincterotomy was performed in the 12 o'clock
+position using a sphincterotome over an existing guidewire. A 15
+mm balloon was pulled through the duct - no stones were found.
+Impression: Polyp in the second part of the duodenum (biopsy)
+Periampullary diverticulum Normal biliary tree
+Normal pancreatic duct
+Given h/o gallstone pancreatitis, a biliary sphincterotomy was
+performed.
+Otherwise normal ercp to third part of the duodenum
+
+Brief Hospital Course:
+# Acute pancreatitis: Th epatient was diagnosed with acute
+pancreatitis likely from hypercalcemia or gallstones. After
+stabilization and other medical problems (refer below) and ERCP
+was done with sphincterotomy. Outpatient cholecystectomy may be
+considered, however, given patients cardiopulmonary state that
+may carry some risk. Follow up with surgeon may be considered
+per PCP. Clio Delima duodenal polyp was biopsied and results pending at
+this timke. Will defer to PCP for follow up.
+
+The hospital course was complicated by the following issues:
+
+# Delirium: Resolved. Multifatorial from the hypercalcemia,
+infection, meds given peri-procedure etc. He transiently needed
+sitter, haloperidol. Eventually as the medical problems
+resolved, patient returned to 123 Any St. mentation and was at
+baseline at discharge.
+
+# Hypercalcemia: was noted. On work up and endocrine evaluation,
+it was thought to be likely from primary hyperparathyroidism.
+Calcium levels were high but stable. Low phos levels as well. He
+was treated with lasix and IVF initially. Eventually, he was
+started on low dose lasix 2006-02-12 00:00:00 + oral KCl (has low K while
+on lasix). Follow up with endocrinology is arranged. US neck may
+be considered at that time. He was also Vitamin D deficiency:
+Per Dr Delima, endocrine fellow - plan is not to replace
+vitamin D at this time for risk of increasing Calcium levels.
+They may consider it out-pt.
+
+# Hospital acquired Pneumonia: Swallow evaluation is as per OMR
+note. Instructions given to patient. He hasc ompleted a course
+of levofloxacin. On home O2. Follows up with pulmonary clinic.
+An enlarged lymphnode was seen on imaging whic could be reactive
+from infection but given h/o lung cancer, a follow up CT is
+recommended to assess resolution in 2006-02-12 00:00:00 months. Will defer to
+PCP to arrange this.
+
+# E coli septicemia: th esource was likely biliary. Surveillance
+cultures negative. He has completed a course of levofloxacin.
+Remained afebrile.
+
+# Hypoxemia: Multifactorial from baseline COPD, pulmonary HTN,
+CHF, ILD. Resolving on CXR dated 2006-02-12 00:00:00.
+- low dose lasix, keep on home O2, follow with Dr Delima
+in pulmonary.
+
+# Possible TIA: He had an acute change in responsiveness and
+speech in ICU and neurology was consulted. CT head did not show
+bleeding or acute CVA. EEG and CT neck as above. The symptoms
+resolved. Per neurology, could have been a TIA, and warfarin was
+continued. It was transiently stopped during the ERCP. Warfarin
+restarted 2006-02-12 00:00:00 and VNA arranged for INR checks at home,
+results of INR will be forwarded to PCP.
+
+# A fib: HR well controlled on metoprolol and warfarin for CVA
+prophylaxis. INR as above.
+
+# Lisinopril and amlodipine were stopped since his BP was well
+controlled on metoprolol. It is possible he may need these
+reintroduced at some point.
+
+He was eventually discharged home with services per PT, home O2,
+INR checks, nursing.
+
+His wife and nephew Clio Delima test@mail.com were the main contacts.
+
+Medications on Admission:
+ADVAIR DISKUS 500-50MCG UPMCE
+ALLOPURINOL 100MG Tablet 2 BY MOUTH TWICE A DAY
+Furosemide 60 mg UPMCE M/W/F, 60 mg daily on T/Th/Sat/Sun
+Lisinopril 80 mg daily
+Metoprolol Tartrate 25 mg Tablet UPMCE
+NORVASC 10 mg daily
+POTASSIUM CHLORIDE 20MEQ Tab Sust.Rel. daily
+Prednisone 10 mg Tablet daily
+WARFARIN 5 MG TABLET
+
+Discharge Medications:
+1. Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE ().
+Disp:*3 Disk with Device(s)* Refills:*0*
+2. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation
+four times a day as needed for shortness of breath or wheezing.
+Disp:*3 inhalers* Refills:*0*
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+8. Allopurinol 100 mg Tablet Sig: Two (2) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Delirium
+Hypercalcemia likely from primary hyperparathyroidism
+Vitamin D deficiency
+Hospital acquired pneumonia
+E coli Septicemia
+Hypoxemia from COPD, pulmonary hypertension, CHF (chronic
+systolic), interstitial lung disease.
+Acute pancreatitis, gallstone
+Possible TIA
+Atrial fibrillation
+Lymph node on CT chest
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+Return to the hospital if you develop any fevers, chills,
+abdominal pain, nausea, vomiting, shortness of breath or any
+other symptoms of concern to you.
+
+Keep your appointments. Take the medications as stated. As you
+know, you are on the warfarin (coumadin) and it is very
+important that the INR levels be monitored closely. Visiting
+nurse will be checking your INR levels and send results to Dr
+Delima - your primary doctor so he can monitor the level.
+
+Physical therapy is also arranged for you at home.
+
+Continue to use the oxygen at home at all times.
+
+You are scheduled to see the endocrinologist for the high
+calcium levels and further work up for that.
+
+Biopsy done during the ERCP procedure last week is pending at
+this time. Please discuss with your primary doctor and he can
+look up the results in a 1 week.
+
+It is recommended by our swallow therapist that you adhere to a
+diet of thin liquids and soft consistency solids.
+
+The medications you were on have been changed (either stopped or
+dose changed). Please refer to the new discharge medication list
+and take medications as instructed.
+
+Followup Instructions:
+Primary care doctor: Delima,[**First Name3 (LF) 1556**] test@mail.com on 2006-02-12 00:00:00 at
+10AM
+
+Provider: Clio Delima,[**First Name8 (NamePattern2) 2318**] Eleuterio Mcglennon APG (SB)
+Phone:test@mail.com Date/Time:2006-02-12 00:00:00 9:50
+
+Endocrinology: Appointment with Drs Eleuterio Mcglennon Delima /
+Dr Delima test@mail.com 2006-02-12 00:00:00 at 11AM. (UPMCE 7)
+
+Provider: [**First Name8 (NamePattern2) 533**] Delima Phone:test@mail.com Date/Time:2006-02-12 00:00:00
+8:30
+Provider: [**First Name8 (NamePattern2) 533**] Delima Phone:test@mail.com Date/Time:2006-02-12 00:00:00
+8:30
+
+Pulmonary: Delima,[**First Name3 (LF) **]. Please keep your appointments
+with the pulmonary clinic
+
+
+

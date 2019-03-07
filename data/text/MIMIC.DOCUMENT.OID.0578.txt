@@ -1,0 +1,323 @@
+Admission Date:  2006-03-23 00:00:00              Discharge Date:   2006-03-23 00:00:00
+
+Date of Birth: 1929-03-23 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+lisinopril
+
+Attending:Brawley Whitthorne
+Chief Complaint:
+fever at dialysis
+
+Major Surgical or Invasive Procedure:
+Hemodialysis
+
+
+History of Present Illness:
+64M w/ h/o schizoaffective disorder & ESRD 2006-03-23 00:00:00 lithium toxicity
+admitted from 123 Any St. 123 Any St. for fever at HD, in ED febrile to
+104F w/tachycardia to 130s (sinus), admitted to ICU for possible
+septic shock, source still unclear. CXR clear. UA clean. No
+line; LUE AVF w/normal ultrasound; no known graft material
+therein per transplant surgery prior notes. Most of his care is
+at UPMCE but he is transitioning to transplant nephrology at UPMCE
+where he is being evaluated for transplant.
+.
+ROS negative for N/V, diarrhea, URI symptoms, no sick contacts.
+On exam, only noted to have mild LLQ abdominal pain. Started on
+vanc/zosyn in the ED after BCx and UCx sent; these were
+continued in the ICU.. BPs have been stable 120s-130s since
+admission, no pressor requirement; total 2L IVF received.
+Afebrile since initial spike to 104 in the ED.
+.
+ICU labs notable for pancytopenia: WBC 2.4, Hct 27.6, Plt 98;
+suspect medication effect. ICU staff called PCP's office to
+inquire about temporality, prior workup; per report, pt has seen
+Dr. [**First Name8 (NamePattern2) 2064**] Scogin at UPMCE for pancytopenia. In 2006-03-23 00:00:00 he felt the
+pt had appropriate retic index & felt thrombocytopenia was 2006-03-23 00:00:00
+medication effect, no intervention required. PCP notes show
+baseline plts 125-150; on last CBC in 2006-03-23 00:00:00, WBC 4.3,
+11.3/32.9, Plts 107.
+
+Past Medical History:
+ESRD 2006-03-23 00:00:00 lithium toxicity (started dialysis on 2006-03-23 00:00:00 via LUE AVF)
+
+Schizoaffective disorder
+Bipolar disorder
+Hypercholesterolemia
+Hypertension
+.
+Past Surgical History:
+s/p appendectomy
+
+Social History:
+Lives alone in 123 Any St., MA. Currently unemployed; studied
+anthropology at the 123 Any St..
+- Tobacco: 2ppd x 30 years; quit at age 50
+- Alcohol: Rare wine; last appx q4-5 months
+- Illicits: None currently. H/o marijuana use in college
+
+Family History:
+Mother alive in 123 Any St., age 89 w/Alzheimers disease. Father
+deceased @age 89. Two brothers, both healthy, one in Darliene Scogin, MN
+and one in 123 Any St..
+
+Physical Exam:
+ADMISSION
+VS Tm 104.4 Tc 99.0 HR 105 BP 119/80 RR 19 O2 94%/RA
+GEN Alert, oriented, no acute distress, pleasant
+HEENT: NCAT, EOMI, PERRL, OP clear, sclera anicteric, dry
+membranes w/ dried saliva around lips;
+Neck: supple, JVP not elevated, no adenopathy palpated
+CV: tachycardic RR, normal S1 + S2, no murmurs, rubs, gallops
+Lungs: CTAB, no wheezes, rales, ronchi
+Abdomen: soft NT ND + bulging flanks but no fluid wave,
+hyperactive BS
+Ext: LUE fistula w/palpable thrill throughout; no erythema,
+induration, fluctuance, or TTP; fingers/toes all warm, well
+perfused, 2+ pulses, no clubbing, cyanosis or edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, gait deferred, finger-to-nose intact
+Skin: no rashes or lesions except fine greasy scale across
+erythematous nose & forehead
+.
+DISCHARGE
+VS 98.5 98.0 95/68 (95/68-134/85) FS101
+GEN Alert, oriented, sitting up in bed, no acute distress
+HEENT: NCAT, EOMI, PERRL, OP clear, sclera anicteric MMM
+Neck: supple, JVP not elevated, no adenopathy palpated
+CV: tachycardic RR, normal S1 + S2, no murmurs, rubs, gallops
+Lungs: CTAB, no wheezes, rales, ronchi
+Abdomen: soft NT ND +lipodystrophy, no fluid wave, normoactiveBS
+
+Ext: LUE fistula w/palpable thrill throughout; no erythema,
+induration, fluctuance, or TTP; fingers/toes all warm, well
+perfused, 2+ pulses, no clubbing, cyanosis or edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, gait deferred, finger-to-nose intact
+Skin: no rashes or lesions except fine greasy scale across
+erythematous cheeks & forehead
+
+Pertinent Results:
+ADMISSION LABS
+2006-03-23 00:00:00 08:50PM BLOOD WBC-3.7* RBC-3.45* Hgb-11.2* Hct-31.3*
+MCV-91 MCH-32.4* MCHC-35.8* RDW-13.2 Plt Ct-103*
+2006-03-23 00:00:00 08:50PM BLOOD Neuts-87.7* Lymphs-3.9* Monos-7.7 Eos-0.4
+Baso-0.2
+2006-03-23 00:00:00 08:50PM BLOOD PT-11.5 PTT-27.1 INR(PT)-1.1
+2006-03-23 00:00:00 08:50PM BLOOD Glucose-105* UreaN-20 Creat-3.3*# Na-138
+K-4.3 Cl-95* HCO3-29 AnGap-18
+2006-03-23 00:00:00 08:50PM BLOOD ALT-18 AST-21 AlkPhos-203* Amylase-227*
+TotBili-0.2
+2006-03-23 00:00:00 08:50PM BLOOD Albumin-4.6
+.
+LACTATE TREND
+2006-03-23 00:00:00 08:54PM BLOOD Lactate-2.3* K-4.3
+2006-03-23 00:00:00 12:28AM BLOOD Lactate-1.1
+.
+URINALYSIS
+2006-03-23 00:00:00 12:09AM URINE Color-Straw Appear-Clear Sp Scogin-1.004
+2006-03-23 00:00:00 12:09AM URINE Blood-NEG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.5 Leuks-NEG
+2006-03-23 00:00:00 12:09AM URINE RBC-0 WBC-<1 Bacteri-NONE Yeast-NONE
+Epi-0.
+.
+DISCHARGE LABS
+2006-03-23 00:00:00 07:27AM BLOOD WBC-3.1* RBC-3.46* Hgb-11.1* Hct-31.6*
+MCV-91 MCH-32.0 MCHC-35.0 RDW-13.3 Plt Ct-88*
+2006-03-23 00:00:00 07:27AM BLOOD Neuts-64.3 Lymphs-21.9 Monos-11.0 Eos-2.5
+Baso-0.3
+2006-03-23 00:00:00 07:27AM BLOOD Glucose-91 UreaN-30* Creat-4.4*# Na-141
+K-4.4 Cl-100 HCO3-30 AnGap-15
+2006-03-23 00:00:00 07:27AM BLOOD Calcium-9.1 Phos-3.4 Mg-2.0
+.
+MICRO
+2006-03-23 00:00:00 Blood cultures x2 NGTD
+2006-03-23 00:00:00 Urine culture - FINAL NEGATIVE
+2006-03-23 00:00:00 Blood cultures x2 NGTD
+2006-03-23 00:00:00 Blood cultures x2 NGTD
+.
+CXR: AP upright portable chest radiograph is obtained. Right CP
+angle inferior most aspect is excluded. The imaged portions of
+the lungs appear clear without focal consolidation, effusion, or
+pneumothorax.
+Cardiomediastinal silhouette is normal. Bony structures are
+intact. No free air is seen below the right hemidiaphragm.
+IMPRESSION: No acute findings in the chest.
+.
+2006-03-23 00:00:00 LUE NONVASCULAR ULTRASOUND
+FINDINGS: Transverse and sagittal images were obtained of the
+left upper arm at the area of interest indicated by the patient.
+There is no fluid collection seen within the superficial
+tissues. No suspicious soft tissue mass is identified. The
+adjacent graft is noted to be patent but is not formally
+evaluated.
+IMPRESSION: No fluid collection or other signs of infection seen
+in the left upper arm.
+.
+2006-03-23 00:00:00 EKG: Sinus tachycardia at 138 bpm. Normal axis and
+intervals (QTc = 414); No ST-T wave changes.
+
+Brief Hospital Course:
+Assessment and Plan:
+64 yo M w/ h/o ESRD 2006-03-23 00:00:00 lithium toxicity being evaluated for
+renal transplant admitted with fevers at dialysis, no source
+identified by exam/imaging/labs, discharged home after he was
+afebrile 24h off antibiotics.
+
+# Fever/hypotension on admission:
+Admitted to ICU with concern for SIRS, w/fever to 104, relative
+hypotension (105->93 systolic evolved in the ED), elevated WBC
+and tachycardia. Source unclear - studies were unrevealing (CXR
+and UA wnl, UCx negative, BCx NGTD). Renal consult team
+evaluated fistula and felt there was mild warmth but no
+erythema; follow-up AVF ultrasound non-concerning for
+inflammation. Patient reports he had been feeling malaised at
+home yesterday even before going to HD, cancelled some social
+appointments yesterday morning. ROS negative in full including
+GI and GU. No evidence of thrombus on exam. Antibiotics were
+stopped the morning of 2006-03-23 00:00:00; he remained afebrile for 24h
+thereafter, so was discharged home with instructions to check
+temperature UPMCE and call PCP if Darliene Scogin>101, subjective fever or
+malaise.
+.
+#Pancytopenia
+All lines low on admission labs. ICU d/w PCP reveals this to be
+a chronic issue, already evaluated by heme/onc at UPMCE a few
+months ago and thought to be a med effect; no known med changes
+since that time. Admission labs here were slightly worse than
+prior, with Plts 98 from baseline 125-150. Peripheral smear was
+evaluated by hematology fellow who saw microcytic hypochromic
+RBCs and some atypical lymphocytes but no teardrop and no
+dysplasia. Recommended he arrange f/u with heme-onc at UPMCE,
+will need bone marrow.
+.
+# ESRD on HD:
+Pt has ESRD secondary to lithium toxicity, dialysis initiated in
+2006-03-23 00:00:00 via LUE AVF without difficulty at 123 Any St. [**Location (un) **]. Being
+evaluated by Drs. Scogin and Darliene Scogin for renal transplant.
+Nephrology followed closely during this admission; transplant
+surgery saw him in the ED. He was continued on HD qTuThSat, with
+no difficulty accessing LUE AVF. Continued home sevelamer 800 mg
+PO qAC, decreased iron 325 mg PO BID -> QD, continued epogen qHD
+& started nephrocaps per renal recs.
+.
+# Schizoaffective/Bipolar disorder:
+Well compensated on current regimen. Is followed by Dr. [**First Name4 (NamePattern1) 4532**]
+Scogin who has followed him weekly for the past 15 years.
+Continued home abilify, benztropine, clonipine, and haldol.
+There was concern that his abilify may contribute to
+pancytopenia, but defer any med changes to his outpatient
+providers.
+.
+# Elevated Anion Gap on admission:
+Anion gap of 14 on admission, likely secondary to lactate of 2.3
+in setting of relative hypoperfusion, since resolved with PO
+hydration.
+.
+TRANSITIONAL ISSUES
+1. Follow-up pancytopenia, needs re-evaluation at UPMCE, possible
+med adjustment and bone marrow eval for MDS
+2. Follow-up fever curve (patient will check temp UPMCE for next
+week)
+
+Medications on Admission:
+ARIPIPRAZOLE 30 mg PO once a day
+BENZTROPINE 0.5 mg PO once a day
+CLONAZEPAM 0.5 mg PO BID (1 mg qHS)
+HALDOL 5mg PO breakfast, lunch; 10mg PO qHS
+OMEPRAZOLE 20 mg PO daily
+SEVELAMER HCL 800 mg Tablet qAC
+SIMVASTATIN 10 mg PO daily
+ASPIRIN 81 mg PO daily
+DOCUSATE SODIUM 100 mg PO BID
+FERROUS SULFATE 325 mg PO BID
+SENNOSIDES 17.2 mg PO BID
+
+
+Discharge Medications:
+1. aripiprazole 15 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. benztropine 0.5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+4. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+5. haloperidol 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day): breakfast, lunch.
+6. haloperidol 5 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+8. sevelamer carbonate 800 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+9. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+11. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+12. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+13. sennosides 17.2 mg Tablet Sig: One (1) Tablet PO twice a day
+as needed for constipation.
+14. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+Disp:*30 capsule* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Fever
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to the hospital with fever.
+
+You went to the ICU first because we were concerned about
+serious infection. You received broad-spectrum antibiotics
+initially but stopped these after 2 days because your fever was
+gone. You were feeling well and had no concerning results on
+labs, x-rays or examination.
+
+Please take your temperature twice daily (morning and night)
+over the next week, and any time you feel feverish, sweaty, or
+ill. If your temperature is 101 or greater, please call your
+PCP's office.
+
+We made the following changes to your medications:
+DECREASED IRON TO ONCE-PER-DAY
+STARTED NEPHROCAPS (RENAL VITAMIN SUPPLEMENT)
+
+Please review your medication list with your doctor at your next
+appointment.
+
+Followup Instructions:
+Name: Scogin,[**First Name3 (LF) 4534**] E.
+Location: UPMCE PRIMARY CARE
+Address: 123 Any St.,[**Numeric Identifier 802**]
+Phone: test@mail.com
+Appointment: Wednesday 2006-03-23 00:00:00 11:50am
+.
+Your PCP may consider referring you back to see your
+hematologist at UPMCE for re-evaluation of your low blood
+counts.
+.
+Department: TRANSPLANT
+When: TUESDAY 2006-03-23 00:00:00 at 10:10 AM
+With: Darliene Scogin, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+

@@ -1,0 +1,300 @@
+Admission Date:  2007-03-13 00:00:00              Discharge Date:   2007-03-13 00:00:00
+
+
+Service: SURGERY
+
+Allergies:
+Codeine / Aspirin / Ibuprofen / Lipitor / Crestor
+
+Attending:Eran Porton
+Chief Complaint:
+fall down stairs, syncope
+
+Major Surgical or Invasive Procedure:
+Paravertebral block by Acute Pain Service
+
+
+History of Present Illness:
+This is a 63 y/o F, with h/o 123 Any St.us C7 vertebral body
+compression fx last year after a syncopal event while
+defecating, who presents to UPMCE ED after falling down flight
+of stairs today.  Pt was carrying laundry up a flight of stairs
+and fell when she had a syncopal event.  Pt aroused at bottom of
+stairs and called for help.  At presentation she complained of
+right sided back pain.  She had head, c-spine, and torso CT scan
+which showed multiple right sided rib fractures. Pt does have
+chronic neck pain after compression fx last year.  She wears a
+neck brace as needed at night for comfort.  She currently denies
+neck pain, headache, abdominal pain or distension, and
+additionally denies any chest pain or SOB or palpitations prior
+to the fall.
+
+Past Medical History:
+PMH:
+1. A-fib
+2. Type II DM
+3. Hx of PE 20 yrs ago
+4. Hyperlipidemia
+5. Osteoporosis
+6. Osteoarthritis
+7. Anxiety
+8. C7 compression fracture s/p fall
+
+PSH: None
+
+Social History:
+Patient lives at home, engages in water aerobics everyday,
+denies use of tobacco, alcohol, or IV drug use
+
+
+Family History:
+Father died from MI at age 50
+Brother died from MI at age 37
+
+Physical Exam:
+At discharge
+VS: Afebrile, VSS
+96.2   87    158/82   16   98%2L
+Constitutional: Well appearing, no acute distress
+Neck: No masses
+CV: RRR, no murmurs.
+Resp: CTAB, no wheezes or crackles, IS 300. + TTP R ant/post
+chest. No crepitus.
+Abd: Soft, no TTP, nondistended, +BS
+Ext: Warm, distal pulses palpable bilaterally
+Skin: Face, neck and chest is normal
+Musculoskeletal: Normal to gait and station
+Spine, Pelvis and Extremities: Stable
+Psychiatric: Normal to judgment, insight, memory, mood and
+affect
+
+
+Pertinent Results:
+2007-03-13 00:00:00
+Lactate:3.8
+UA negative
+132  95  22     AGap=19
+-------------328
+4.8  23  0.8
+CK: 270  MB: 5  Trop-T: <0.01
+ALT: 70 AP: 55 Tbili: 0.7 Alb:
+AST: 102 LDH:  Dbili:  TProt:
+Eran Porton:  Lip:
+Dig: 0.7
+     13.0
+15.4 ----- 165
+      39.1
+ N:91 Band:5 L:2 M:2 E:0 Bas:0
+Poiklo: OCCASIONAL Ovalocy: OCCASIONAL
+PT: 24.8  PTT: 24.5  INR: 2.4
+.
+2007-03-13 00:00:00 Carotid Duplex: 60-69% stenosis of L ICA, 40-59%
+stenosis of R ICA
+.
+2007-03-13 00:00:00 CT head: no acute intracranial process
+.
+2007-03-13 00:00:00 CT c-spine: interval C7 vertebral body height loss new
+since prior but could represent
+.
+2007-03-13 00:00:00 CT abd/pelvis: 1. Multiple acute right rib fractures
+without evidence of flail chest or
+segmental fractures.
+2. Asymmetric pulmonary edema, right greater than left, with
+trace right
+pleural effusion and bibasilar atelectasis.
+3. 1.5 cm left lower lobe pulmonary nodule, not included in the
+field of view
+of the prior study. If clinically indicated, a three-month
+followup is
+recommended.
+4. Unchanged left adnexal cyst.
+
+
+
+
+Brief Hospital Course:
+The patient was admitted to the trauma surgery service on
+2007-03-13 00:00:00 after a syncopal episode causing a fall down stairs
+resulting in multiple broken ribs, but no other injuries.
+
+Neuro: Pain control was [**Last Name **] problem for this patient during her
+hospitalization and the acute pain service was consulted to
+provide recommendations to better manage the patient's rib pain.
+She initially received IV pain medicaions, including a PCA, and
+also had a paravertebral block performed by APS. When tolerating
+oral intake, the patient was transitioned to oral pain
+medications, on a regimen including neurontin, lidoderm patch,
+standing tylenol, tramadol and dilaudid for break-through pain,
+with fair pain control. The pt also underwent carotid duplex
+ultrasound in the evaluation for syncope, which showed 60-69%
+stenosis of L ICA, 40-59% stenosis of R ICA. She will follow up
+with vascular surgery in 6 months for this, but this is not
+likely the cause of her syncope.
+
+CV: The patient was stable from a cardiovascular standpoint;
+vital signs were routinely monitored. She was kept on telemetry
+which was reassuring. ECG on admission was not thought to be
+consistent with STEMI. Additionally, cardiac enzymes were
+negative x 1. Vital signs were routinely monitored and were
+stable. She needs follow up with her regular doctor, as she may
+need an echo or holter monitoring as an out-patient.
+
+Pulmonary: The patient was stable from a pulmonary standpoint;
+vital signs were routinely monitored. She did require 2L of O2
+nasal cannula at discharge, this was thought to be due to poor
+deep breathing 2007-03-13 00:00:00 mild persistent rib pain. Chest xrays did not
+reveal any pneumonia or fluid overload. The pt did have a 1.5 cm
+left lower lobe pulmonary nodule noted on CT chest. She will
+need follow up by her regular doctor, likely with repeat CT
+chest to eval for interval change.
+
+GI/GU: At admission, the patient was resuscitated with IV fluids
+until tolerating oral intake. Her diet was advanced when
+appropriate, which was tolerated well. She was also started on a
+bowel regimen to encourage bowel movement. Foley was removed on
+HD#2. Intake and output were closely monitored and were normal.
+She did have some episodes of incontinence.
+
+Prophylaxis: The patient received subcutaneous heparin during
+this stay, and was encouraged to get up and ambulate as early as
+possible with PT.
+
+At the time of discharge on HD#7, the patient was doing well,
+afebrile with stable vital signs, tolerating a regular diet,
+working with PT, voiding without assistance, and pain was fairly
+well controlled.
+
+
+Medications on Admission:
+Digoxin 250 mcg 6 out of 7 days of the week, Zetia 10',
+Lisinopril 5', Toprol XL 25', Coumadin, Vitamin C, Vitamin D,
+MVI
+
+Discharge Medications:
+1. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO 6X/WEEK
+(Eran Porton,MO,TU,WE,TH,FR).
+3. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical Q12 (): 12 hours with
+patch on, 12 hours with patch off.
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+10. Hydromorphone 2 mg Tablet Sig: 0.5-1 Tablet PO every 2007-03-13 00:00:00
+hours as needed for pain for 30 days: Hold for sedation, RR <
+12.
+11. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H
+(Every 8 Hours) as needed for pain for 30 days: Do not exceed
+more than 4g tylenol daily.
+12. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) for 30 days: Hold for sedation.
+13. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: 2.5 Tablet Sustained Release 24 hrs PO DAILY (Daily): Hold
+for SBP < 100 and HR < 60 .
+14. Tramadol 50 mg Tablet Sig: 0.5 Tablet PO QID (4 times a day)
+for 30 days.
+15. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours).
+Disp:*120 neb* Refills:*0*
+16. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for constipation for 10
+days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the Eran Porton
+
+Discharge Diagnosis:
+Primary: 1) fall (trauma), 2) syncope, 3) right posterior 2007-03-13 00:00:00
+rib fractures, 4) right anterior 6th rib fx
+
+Secondary:  1) atrial fibrillation, 2) Osteoporosis, 3) diabetes
+mellitus II, 4) PE 20 years ago, 5) [** Location **]us C7 fx
+
+
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Out of Bed with assistance to chair or
+wheelchair
+
+
+Discharge Instructions:
+*You were admitted to UPMCE to the trauma service after a fall
+due to losing consciousness.
+*You were found to have 5 rib fractures on CT scan. The most
+important treatment for this kind of fracture is pain control to
+optimize deep breathing. There is no surgery or brace for
+support that is recommended. Optimization of pain control is
+imperative because splinting (weak breathing due to pain) can
+result in pneumonia.
+* You should expect to have rib pain for 4-6 weeks from your
+injury until your ribs have begun to heal. Please continue to
+take the pain medication prescribed until then. Please also
+continue to use the incentive spirometer (breathing machine) 10
+times per hour in order to keep your lungs adequately inflated
+(like a balloon).
+* You had CT scan of your head, neck, abdomen and pelvis which
+revealed no other injuries. CT scan of the chest did show a
+small nodule in your left lung. You should follow up with your
+regular doctor to discuss imaging the lung in several months
+evaluate for growth.
+* In evaluation for your loss of consciousness, we did blood
+tests that look at heart strain or decreased blood flow
+(troponins) which were normal.  Additionally you were kept on
+telemetry (continuous heart monitoring) which was reassuring.
+Finally, you underwent an ultrasound study of your carotids,
+which showed some degree of narrowing but not narrowing
+significant enough to have caused your syncopal episodes.  You
+need to follow up with vascular surgery Dr. Covey in 6 months
+for this.  You may also need additional evaluation for heart
+monitoring, and should follow up with your regular doctor to
+discuss this.
+
+Please call your doctor, talk to your doctor at rehab or return
+to the ER if:
+* If you are vomiting and cannot keep in fluids or your
+medications.
+* If you have shaking chills, fever greater than 101.5 (F)
+degrees or 38 (C) degrees, chest pain, cough, shortness of
+breath, or anything else that is troubling you.
+* Any serious change in your symptoms, or any new symptoms that
+concern you.
+* Please resume all regular home medications and take any new
+meds as ordered.
+* Do not drive or operate heavy machinery while taking any
+narcotic pain medication. You may have constipation when taking
+narcotic pain medications (oxycodone, percocet, vicodin,
+hydrocodone, dilaudid, etc.); you should continue drinking
+fluids, you may take stool softeners, and should eat foods that
+are high in fiber.
+
+
+Followup Instructions:
+Call Dr.Almudena Covey office for a follow up appointment in 6
+months, tell them that you will need carotid ultrasound prior to
+appointment.
+Phone: test@mail.com.
+
+Please also follow up with Dr. Covey in 2007-03-13 00:00:00 weeks.  Call (test@mail.com for an appointment.
+
+Please let your regular doctor know about this hospitalization
+and follow up with him or her in 2007-03-13 00:00:00 weeks.  You may need
+additional monitoring of your heart rhythm.
+
+
+

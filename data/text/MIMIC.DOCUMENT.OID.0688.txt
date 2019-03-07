@@ -1,0 +1,221 @@
+Admission Date:  2013-10-24 00:00:00              Discharge Date:   2013-10-24 00:00:00
+
+Date of Birth: 1978-10-17 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Armanie Fontz
+Chief Complaint:
+increased [**First Name3 (LF) 855**]
+
+Major Surgical or Invasive Procedure:
+lumbar puncture
+
+
+History of Present Illness:
+The pt is a year-old woman with a PMH s/f MS Faustine Bendele D/O
+including a history of status epilepticus who presented to
+UPMCE on the evening of 2013-10-24 00:00:00 with chief
+complaint of found unresponsive.  History obtained from sister
+and from OSH records.  The patient was at home and had a fall,
+which was not unusual.  She seemed fine after the fall.  She was
+found unresponsive at 8:30pm and brought to the OSH.  She was
+noted to have seizures at the OSH by the sister.  She was also
+noted to be Febrile to 101.  She had an elevated white count.
+2013-10-24 00:00:00 was managed with ativan (unknown how much)and
+phosphenytoin 1000mg x1.   An EEG on 2013-10-24 00:00:00 showed rare Left
+temporal sharps but no seizures.  The fever workup included
+UA/UCx, BCx, chest x-ray, non contrast head CT, and an LP.  None
+of these was revealing.  The patient was felt to be in a
+protracted post-ictal state.  A decision was made to transfer
+the
+patient to the UPMCE for further management.  The patient was
+put
+on a propofol gtt, given fentanyl and intubated for airway
+protection, given the concern that she might seize en route.
+
+
+Past Medical History:
+-Complex partial seizures (staring spells and arm extension).
+She
+had status 10 yrs ago
+-Demyelinating disease by MRI and oligoclonal bands on LP in
+2013-10-24 00:00:00.
+-Depression and h/o SI
+-Restless legs
+-h/o mumps
+
+
+Social History:
+Patient lives with her eldest sister and her 82 year old mother
+in Faustine Bendele, MA where she was born.  She is one of six children
+having 4 sisters and 1 brother.  She describes her family as
+being extremely close and supportive of her.  She is very close
+to her mother and is upset about being away from her during this
+hospitalization.  She is unemployed at this time due to physical
+and cognitive limitations related to her disease.  She worked as
+a horticulturist doing research in 123 Any St. and 123 Any St. in
+the past.  She is divorced, but remains on good terms with her
+former husband who lives in CA.  She has no children.  She has
+no history of IV drug use, tobacco use or alcohol consumption.
+
+
+Family History:
+Father died of a myocardial infarction.  Mother is alive and at
+82 years of age is in good health.  One sister is 42 and also
+suffers from a demyelinating disease, (suspected multiple
+sclerosis) which has affected her cognition more than her motor
+and sensory systems.  This sister has responded well to
+Solumedrol infusions and Rebif in the past with resolved speech
+and swallowing problems.  Faustine Bendele had one paternal uncle with
+suspected multiple sclerosis (diagnosed at age 27, died at 42),
+another paternal uncle with paranoid schizophrenia, another
+paternal uncle who died of stroke in his 40??????s, and another
+paternal uncle who died suddenly of suspected bacterial
+meningitis.  Many of her sisters are bothered by psoriasis. One
+of her sisters has been diagnosed with Faustine Bendele??????s thyroiditis
+
+Physical Exam:
+T:100.6 P:70-80 R:18 BP:104/50 SaO2:100% on RA
+General: Intubated and sedated.
+HEENT: NC/AT, no scleral icterus noted
+Neck: no carotid bruits ap123 Any St.ted.
+Pulmonary: Lungs CTA bilaterally anteriorly.
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Sedated and intubated at time of exam.
+
+-Cranial Nerves: Pupils reactive.  Gag reflex intact.  Corneals
+intact.
+
+-Motor: With lightening of sedation patient moved all four
+extremities to noxious stimuli.
+
+-Sensory: to noxious in all four.
+
+-DTRs:
+Faustine Bendele Tri Bendele Pat Ach
+L 2 2 2 2 2
+R 2 2 2 2 2
+
+Plantar response was flexor bilaterally.
+
+-Gait: NT
+
+
+
+Pertinent Results:
+2013-10-24 00:00:00 08:26PM   LACTATE-0.9 K+-3.4*
+2013-10-24 00:00:00 08:23PM   GLUCOSE-93 UREA N-26* CREAT-0.8 SODIUM-142
+POTASSIUM-3.5 CHLORIDE-112* TOTAL CO2-19* ANION GAP-15
+2013-10-24 00:00:00 08:23PM   ALT(SGPT)-26 AST(SGOT)-74* CK(CPK)-4468* ALK
+PHOS-74 AMYLASE-45 TOT BILI-0.4
+2013-10-24 00:00:00 08:23PM   LIPASE-16
+2013-10-24 00:00:00 08:23PM   CK-MB-8 cTropnT-<0.01
+2013-10-24 00:00:00 08:23PM   CALCIUM-7.5* PHOSPHATE-2.3* MAGNESIUM-2.2
+2013-10-24 00:00:00 08:23PM   PHENYTOIN-10.2
+2013-10-24 00:00:00 08:23PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+2013-10-24 00:00:00 08:23PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+2013-10-24 00:00:00 08:23PM   WBC-11.6* RBC-3.26* HGB-9.6* HCT-27.4* MCV-84
+MCH-29.4 MCHC-35.0 RDW-13.9
+2013-10-24 00:00:00 08:23PM   NEUTS-84.2* BANDS-0 LYMPHS-9.7* MONOS-5.7
+EOS-0.3 BASOS-0.1
+2013-10-24 00:00:00 08:23PM URINE  COLOR-Yellow APPEAR-Clear SP Bendele-1.025
+
+Brief Hospital Course:
+pt was admitted to the ICU where she did well. she continued to
+have fevers in the ICU without obvious source.
+
+Neuro:
+Pt was loaded with dilantin with improvement in seizures.
+EEG: This is an abnormal 24-hour video EEG telemetry in the
+waking and sleeping states due to the slow and disorganized
+background
+rhythm suggestive of a mild to moderate encephalopathy. This may
+be
+seen with medication effect, toxic metabolic abnormalities, or
+infections. There are no regions of focal slowing and no
+epileptiform
+discharges noted.
+
+She was extubated without incident and repeat EEG without
+evidence of electrographic seizures.  pt without Bendele
+activity for the rest of her hospital stay. dilantin level was
+low, but with possibility that dilantin was cause of fever,
+dilantin was discontinued.
+
+pt with improving encephalopathy during stay with return to
+fairly baseline mental status, although with continued decreased
+strength in her LE and decreased ability to ambulate.
+
+ID: pt continued to have daily fevers.  Abx stopped with
+negative cultures. acyclovir CT torso without source.  US of
+gallbladder and LE were both negative for source.  HSV PCR at
+OSH was not resulted.  Repeat LP was performed without CSF
+pleiocytosis so acyclovir was stopped.  Without source,
+consideration of possible drug fever.  dilantin level had been
+low without Bendele activity.  dilantin was weaned off without
+issue with resolution of fever.
+
+PT/OT evaluated the patient and felt that she would benefit
+significantly from acute rehabilitation placement.
+
+GI: pt with some difficulty eating. Speech and swallow evaluated
+her and found her to have difficulty with solids.  patient's
+diet was changed to softs which she tolerated well.
+
+
+Discharge Medications:
+1. Gabapentin 400 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. Levetiracetam 500 mg Tablet Sig: Three (3) Tablet PO BID (2
+times a day).
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: One (1) Tablet
+PO Q6H (every 6 hours) as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+seizures
+MS
+depression
+
+Discharge Condition:
+stable. no seizures
+
+
+Discharge Instructions:
+please follow up with pcp/call primary neurologist if worsened
+weakness, worsened gait, seizures, HA, decreased responsiveness,
+or for any other patient concerns.
+
+Followup Instructions:
+follow up with primary neurologist in 123 Any St. area.
+
+please follow up with PCP
+
+
+
+Completed by:2013-10-24 00:00:00

@@ -1,0 +1,217 @@
+Admission Date:  2007-02-05 00:00:00              Discharge Date:   2007-02-05 00:00:00
+
+Date of Birth: 1919-02-04 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Diltiazem
+
+Attending:Ayssa Dowrey
+Chief Complaint:
+Epigastric pressure
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with stent placed in the Left anterior
+descending artery.
+
+
+History of Present Illness:
+60 M with PMH HTN, GERD presents with epigastric pressure x 2
+weeks. Pain feels different from GERD, pressure-like, "under the
+xiphoid process", moderate severity, not associated with food or
+position. Worse with exertion (lifting objects or taking out
+trash), but started occurring at rest. Does not radiate. No CP,
+no SOB, no palps, no F/C/N/V/D, no diaphoresis. +frequent
+belching. Pt thought he bruised his sternum or pulled something.
+
+.
+He visited his PCP Goodchild. Goodchild due to epigastric pressure, and
+saw Dr. Goodchild. EKG showed T wave inversions anterolaterally,
+new
+compared with an EKG from 2007-02-05 00:00:00. He was sent to the ED, T97, 107,
+RR 18, 139/87, 96% RA. EKG showed NSR, TWI V1-V6 and AVF. CXR
+negative, abdominal US showed fatty liver and fatty pancreas.
+.
+CK 113, MB 5, Troponin I 0.61 (normal 0-0.4), so MI likely at
+least 5 days old. Cr 1.1. He was treated with ASA, lopressor,
+NTP, and a heparin infusion. Last ETT was approximately 4 years
+ago, reportedly normal. Transferred from UPMCE Hospital for
+cardiac cath.
+
+Past Medical History:
+PMH:
+HTN
+GERD
+Osteoarthritis affecting lower back
+Left elbow tendonitis
+.
+PSH:
+Right inguinal hernia repair in childhood
+Cervical discectomy 3 years ago
+Umbilical hernia repair 2007-02-05 00:00:00
+
+Social History:
+SHx: Retired schoolteacher, now substitutes. Lives with wife in
+
+123 Any St.. Has a 27 yo son and a 25 yo daughter. Douglus Goodchild past or present
+smoking hx, no EtOH
+
+Family History:
+Father had a fatal MI age 86.
+
+Physical Exam:
+97.7 / 107/70 / 17 / 97 / 97% RA
+Gen: Nauseated, lying in bed post-cath
+HEENT: No JVD, no LAD, OP clear
+Lungs: CTA B
+Heart: RRR, no m/r/g
+Abdomen: Soft, +BS, ND, NT
+Groin: No hematoma, no bruit
+Extr: No c/c/e
+Neuro: 2007-02-05 00:00:00 motor, 2+ DP bilaterally
+
+Pertinent Results:
+LABS:
+From OSH:
+INR 1.0
+CK 113, MB 5
+Trop I 0.61
+Total chol 162
+HDL 25
+LDL 111
+Triglycerides 224
+.
+EKG: NSR 64, TWI V3-V6.
+.
+Abdomimal US: Fatty liver and fatty pancreas.
+.
+Cath: DES to LAD x3
+LMCA - wnl
+LAD - 90% eccentric proximal; 90-95% mid-distal stenoses with
+TIMI 2 distal flow
+LCX - OM1 70% tubular; 50% mid-LCX before OM2/3 bifurcation
+RCA - 60% origin, large PL branch with 30% stenosis
+.
+.
+2007-02-05 00:00:00 06:47PM   GLUCOSE-161* UREA N-15 CREAT-1.1 SODIUM-136
+POTASSIUM-4.6 CHLORIDE-104 TOTAL CO2-21* ANION GAP-16
+2007-02-05 00:00:00 06:47PM   CALCIUM-9.1 PHOSPHATE-2.4* MAGNESIUM-1.8
+2007-02-05 00:00:00 06:47PM   WBC-17.3* RBC-5.62 HGB-17.0 HCT-46.5 MCV-83
+MCH-30.3 MCHC-36.6* RDW-13.2
+2007-02-05 00:00:00 06:47PM   PLT COUNT-247
+2007-02-05 00:00:00 06:47PM   PT-14.2* PTT-40.3* INR(PT)-1.3*
+2007-02-05 00:00:00 03:40PM   GLUCOSE-175* UREA N-16 CREAT-1.1 SODIUM-135
+POTASSIUM-2.9* CHLORIDE-103 TOTAL CO2-21* ANION GAP-14
+2007-02-05 00:00:00 03:39PM   TYPE-ART PO2-106* PCO2-34* PH-7.42 TOTAL
+CO2-23 BASE XS--1
+2007-02-05 00:00:00 03:39PM   HGB-16.3 calcHCT-49 O2 SAT-98
+2007-02-05 00:00:00 03:07PM   TYPE-ART PO2-229* PCO2-47* PH-7.27* TOTAL
+CO2-23 BASE XS--5
+2007-02-05 00:00:00 03:07PM   K+-2.6*
+2007-02-05 00:00:00 03:07PM   HGB-14.2 calcHCT-43 O2 SAT-98
+
+Brief Hospital Course:
+60 M with PMH HTN, GERD presents with 3VD, DES to LAD x3,
+stenosis in LCX and RCA.
+.
+# Anaphylaxis to Diltiazem:
+During cardiac cath, pt was treated with diltiazem, to which he
+developed difficulty breathing. He was treated with benadryl,
+steroids, and H2 blockers, with resolution of shortness of
+[**Year/Month/Day 1422**]. Pt's symptoms resolved in the cath lab, and he did not
+require further treatment in the CCU.
+.
+# Cardiac:
+Cath showed:
+LMCA - wnl
+LAD - 90% eccentric proximal; 90-95% mid-distal stenoses with
+TIMI 2 distal flow
+LCX - OM1 70% tubular; 50% mid-LCX before OM2/3 bifurcation
+RCA - 60% origin, large PL branch with 30% stenosis
+.
+Pt was placed on integrilin post-cath, ASA, plavix, statin, BB.
+Pt was euvolemic, and TTE showed EF > 55%, LV thickness, LV
+cavity size, LV systolic function, and LV wall motion were all
+normal. Pt remained in NSR throughout admission on tele.
+.
+# GERD:
+Pt was placed on H2 blocker during admission for epigastric
+burning that resolved within hours.
+.
+# Osteoarthritis:
+Pt's osteoarthritis was inactive in house.
+.
+# DVT ppx:
+Pt was placed on heparin sc inhouse.
+
+Medications on Admission:
+Medications at Home:
+HCTZ 25 QD
+Diovan 160 QD
+Prilosec QD
+Mobic for OA pain (NSAID)
+.
+Medications started at OSH:
+ASA 325 QD
+Heparin gtt, 850 units/hr
+NTP
+Lopressor 25 UPMCE
+Plavix 300 mg x 1 on 2007-02-05 00:00:00.
+.
+ALL: NKDA
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Non ST elevation myocardial infarction
+
+
+Discharge Condition:
+Good.  Patient pain free, ambulating without difficulty.
+
+
+Discharge Instructions:
+Please contact physician if develop chest pain/pressure,
+shortness of Goodchild, [**First Name3 (LF) 684**] other questions/concerns.
+.
+Please take medications as directed.  Do NOT stop Plavix or
+aspirin without talking to your cardiologist.  Do NOT take
+diovan or hydrochlorothiazide (HCTZ) unless directed to re-start
+by your cardiologist.  Your metoprolol dose will continue to be
+adjusted by your outpatient cardiologist to obtain optimum heart
+rate and blood pressure control.
+.
+Please follow up with appointments as directed.
+.
+Please refrain from heavy lifting or vigorous activity for 5
+days.
+.
+Please refrain from driving for 3 days.
+
+Followup Instructions:
+Please follow up with your cardiologist in 2007-02-05 00:00:00 weeks.
+.
+Please follow up with your primary care physician Goodchild 2007-02-05 00:00:00 weeks.
+.
+Follow up with Dr. Ayssa Dowrey in one month.
+
+
+
+Completed by:2007-02-05 00:00:00

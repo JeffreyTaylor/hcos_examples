@@ -1,0 +1,336 @@
+Admission Date:  2012-07-12 00:00:00              Discharge Date:   2012-07-12 00:00:00
+
+Date of Birth: 1949-07-12 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ibuprofen / Ace Inhibitors / Bupropion / Zoloft / Aspirin
+
+Attending:Aasim Rorvik
+Chief Complaint:
+GI bleed
+
+Major Surgical or Invasive Procedure:
+Sigmoidoscopy
+
+History of Present Illness:
+Patient is a 42yo male with history of CAD s/p stents x 3
+admitted with acute GI bleed.
+.
+Patient reports being in his normal state of health until this
+evening when he developed sudden onset of BRBPR. It occurred
+around 9pm. He was taken to the ED by his parents where he
+continued to have lower GI bleed. He has never had a GI bleed
+before. Pt denied abd pain and n/v, no hematemesis,
+coffee-ground emesis or melena. Patient states he has on and off
+suprapubic pain for the past year and that he has frequent
+constipation with straining and painn with bowel movements.
+Of note, he is on aspirin and plavix for coronary stent
+placement.
+.
+In the ED, initial vs were: T- 98.0, HR- 118, BP- 184/157, RR-
+18, SaO2- 98% on RA. Patient was initially given 250cc NS but
+had persistent tachycardia and developed lightheadedness. He was
+then give 3U PRBC and 2L NS with resolution of the tachycardia.
+He never became hypotensive or had a fever. Abdominal exam was
+benign. Rectal exam showed bright red [**First Name3 (LF) **]. NG lavage was
+negative. EKG was unchanged from prior. Hct on admission to ED-
+45.8 (with normal coags). Patient lost about 1L of [**First Name3 (LF) **] from GI
+tract.
+.
+GI was consulted and recommended angiogram with embolization as
+they were concerned for diverticulosis vs AVM. General surgery
+was also made aware of the patient and are available if needed.
+IR-team notified and will be coming in tonight to perform
+embolization if needed.
+.
+On the floor, he remained hemodynamically stable. Vitals on
+transfer: BP- 126/87, HR- 88, SaO2- 98% on RA, RR- 12, and
+afebrile. Patient lost another 100cc of [**First Name3 (LF) **] on arrival to the
+floor but remained hemodynamically stable. He denied any
+nausea/vomiting, chest pain, shortness of breath, dizziness,
+lightheadedness. He did report some lower abdominal tenderness
+to palpation (L>R) but was not in any distress and did not
+demonstrate any signs of acute abdomen.
+
+
+Past Medical History:
+1. Inferior MI in 2012-07-12 00:00:00, treated with BMSx3 at UPMCE
+2. LV systolic dysfunction, EF 40-45%
+3. Diabetes type 2 last A1C in 2012-07-12 00:00:00 8.6%
+4. Hypertension
+5. Depression
+6. Hyperlipidemia
+7. past h/o cocaine use
+8. R knee surgery
+9. MRSA leg abscess in the past
+10. fracture left tibia in 2012-07-12 00:00:00
+11. IBS history
+
+Social History:
+He lives with his parents and was unemployed. He worked
+yesterday as in HPI. Smoked 2ppd for 25 years and quit in 2012-07-12 00:00:00.
+No alcohol in 3 weeks because he was pulled over for a DUI.
++marijuana. Cocaine use in teh past. Pt reports that he was
+doign cocaine when he has his MI in 2012-07-12 00:00:00. Reports he did cocaine
+last week.
+
+
+Family History:
+has several relative with MI in their 40's. Maternal grandmother
+with stroke.
+
+Physical Exam:
+Vitals: T: 97.9 BP: 183/98 P: 87 R: 13 O2: 96% on RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended. +bowel sounds.
+Slightly TTP in lower abdomen (L > R)- no rebound tenderness or
+guarding, no organomegaly
+GU: Foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema. LUE- fluctuance consistent with cellulitis, TTP.
+
+
+Pertinent Results:
+Sigmoidoscopy on 2012-07-12 00:00:00:
+2012-07-12 00:00:00 in the sigmoid colon and rectum
+Diverticulosis of the rectum and sigmoid colon
+Otherwise normal sigmoidoscopy to s123 Any St. flexure
+Recommendations: Diverticular bleed likely with adjacent clot
+visible. Scope reached mid sigmoid colon. Monitor hematocrit.
+Surgical consultation for potential hemi-colectomy if continued
+severe bleeding. Monitor in ICU. Outpatient colonoscopy is
+indicated.
+Additional notes: The attending was present for the entire
+procedure.
+
+ADMISSION LABS:
+
+2012-07-12 00:00:00 10:10PM 2012-07-12 00:00:00 WBC-8.2 RBC-5.63 Hgb-15.9 Hct-45.9 MCV-82
+MCH-28.2 MCHC-34.7 RDW-14.4 Plt Ct-290
+2012-07-12 00:00:00 11:09PM 2012-07-12 00:00:00 PT-12.6 PTT-24.1 INR(PT)-1.1
+2012-07-12 00:00:00 10:10PM 2012-07-12 00:00:00 Glucose-199* UreaN-23* Creat-1.3* Na-133
+K-4.0 Cl-100 HCO3-20* AnGap-17
+
+DISCHARGE LABS:
+
+2012-07-12 00:00:00 09:35AM 2012-07-12 00:00:00 WBC-6.0 RBC-5.61 Hgb-15.6 Hct-45.7
+MCV-81* MCH-27.8 MCHC-34.2 RDW-14.3 Plt Ct-332
+2012-07-12 00:00:00 09:35AM 2012-07-12 00:00:00 Plt Ct-332
+2012-07-12 00:00:00 09:35AM 2012-07-12 00:00:00 Glucose-146* UreaN-15 Creat-1.1 Na-138
+K-4.0 Cl-103 HCO3-22 AnGap-17
+
+Brief Hospital Course:
+42M with CAD s/p stent (most recent 2012-07-12 00:00:00 in 2012-07-12 00:00:00) on clopidogrel
+and ASA, CHF w/EF=40-45%, h/o of MRSA leg abscess, and
+diet-controlled diabetes (A1C 6.2%) who presented with severe GI
+bleed 2012-07-12 00:00:00 diverticulosis of sigmoid colon.  The patient was
+given 4 units of pRBC's and stabilized in the ICU, and was
+discharged in stable condition, with no active bleeding back on
+his ASA and plavix, and tolerating regular diet and having
+small, formed, dark brown to black stools.  He was also treated
+with antibiotics for cellulitis in his left arm due to an insect
+bite. Course summarized by problem below:
+
+# GI bleed secondary to diverticulosis of the sigmoid colon:
+Followed by surery and GI. Tagged red 2012-07-12 00:00:00 cell scan revealed
+2012-07-12 00:00:00 in rectal area. GI performed sigmoidoscopy and found
+diverticuli with 2012-07-12 00:00:00 clots explaining source of the bleed.
+Admitted to ICU for careful observation in setting of acute GI
+bleed with significant 2012-07-12 00:00:00 loss. He received 4u of pRBC's, and
+did not require further transfusions after leaving the ICU. He
+remained hemodynamically stable throughout his course, with Hcts
+in the 43-45 range, and was tolerating a regular diet prior to
+discharge. On the day of discharge he was having small, formed,
+dark brown to black stools, with no further bright red 2012-07-12 00:00:00.
+His aspirin and Plavix were initially held in the setting of his
+acute bleed, but were re-started during this hospitalization and
+he had no BRBPR, Hct remained stable. He did have dark BMs
+during his hospital stay, consistent with old 2012-07-12 00:00:00.  The
+importance of a high-fiber, high-vegetable content diet with
+ample hydration was emphasized to the patient and his family.
+Also, it was emphasized to patient that he MUST NOT stop the ASA
+or plavix and take both of these medications daily and not stop
+these without talking to his cardiologist. The patient was
+scheduled for outpatient follow-up with GI for full colonoscopy.
+
+# Coronary artery disease: patient has history of MI s/Aasim Rorvik Hirsh
+123 Any St.es) **] in RCA on 11/2012-07-12 00:00:00. While inpatient, his ASA and plavix
+were held during acute GI bleed. His aspirin was carefully
+restarted (ASA desensitization done in ICU) and plavix restarted
+after patient stabilized.  Given the recent placement of a [**Year (4 digits) **]
+in 2012-07-12 00:00:00, as well as his allergy to aspirin and need for
+desensitization, the importance of strict adherence to this
+daily regimen was emphasized with both the patient and the
+family. His home metoprolol was also re-started during
+admission, after initial stabilization.
+
+# Acute renal failure: Cr was slightly elevated at 1.3 on
+admission, likely secondary to GI losses and pre-renal state. Cr
+returned to 123 Any St. during hospitalization. Cr on discharge was
+1.1.
+
+# Left arm lesion and cellulitis: Patient reported a "horse fly
+bite" and was started on Bactrim (1DS UPMCE)for cellulitis one day
+prior to admission. While inpatient he was given 3 doses (1.5
+days) of Vancomycin and then restarted on Doxycycline for a
+total of 5 days antibiotic treatment, which he finished during
+his hospital stay.  The cellulitis subsided, and the patient
+remained afebrile throughout. The patient did report 2 year
+history of myalgias in bilateral calves and shoulders which may
+suggest possible tick bite and underlying lyme disease. Lyme
+serologies were pending at time of discharge.
+
+Medications on Admission:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+4. Epinephrine Base 0.3 mg/0.3 mL (1:1,000) Syringe Sig: One (1)
+ Injection anaphylaxis.
+5. Fenofibrate Micronized 67 mg Capsule Sig: One (1) Capsule PO
+once a day.
+6. Losartan 50 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+4. Epinephrine Base 0.3 mg/0.3 mL (1:1,000) Syringe Sig: One (1)
+ Injection anaphylaxis.
+5. Fenofibrate Micronized 67 mg Capsule Sig: One (1) Capsule PO
+once a day.
+6. Losartan 50 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+1. Diverticulosis of the sigmoid colon
+
+SECONDARY DIAGNOSES:
+1. Cellulitis
+2. Hypertension
+3. Coronary artery disease
+
+
+Discharge Condition:
+Stable, eating regular diet.  With some bowel movements with old
+dark UPMCE but no bright red UPMCE in stool. UPMCE levels have
+been stable during whole hospital stay.
+
+
+Discharge Instructions:
+Dear Mr. Hirsh,
+
+Thank you for allowing us to participate in your care.  You were
+admitted to the hospital for bleeding from your intestines.  You
+were diagnosed with diverticulosis of the sigmoid colon.
+Diverticulosis is a condition in which there are small
+outpouchings in the wall of the intestine; in your case, these
+small outpouchings eroded into a neighboring Brison Hirsh vessel,
+causing significant bleeding.  The sigmoid colon is the
+lowermost portion of the large intestine before connecting to
+the rectum and anus.
+
+Due to the extensive Brison Hirsh loss from your intestine, you were
+given a Brison Hirsh transfusion.  You were cared for first in the
+Intensive Care Unit (ICU), then after your condition stabilized,
+you were transferred to the regular medical floor.  Over the
+course of your stay, you did not have recurrence of bleeding,
+and you were able to tolerate eating normal food once again.
+
+When you were admitted, a test called Sigmoidoscopy was done to
+look inside the sigmoid colon.  Due to the bleeding and
+inflammation, it was not possible to look inside the rest of the
+colon, further up, to evaluate for any problems there.  It will
+be very important for you to follow up with a gastroenterologist
+to be further evaluated and have a full colonoscopy done.
+Please see below for information on the appointment that has
+been arranged with Dr. Hirsh.
+
+While in the hospital, you were also treated with antibiotics
+for a skin infection in your left arm due to an apparent insect
+bite. You finished the course of antibiotics in the hospital.
+Since the possibility exists that this was a tick bite, a test
+for Lyme disease was done, but the results of this test were not
+ready before you left the hospital.  You will need to discuss
+the results of this test with your primary care doctor.
+
+Finally, an important note about your medications: during the
+bleeding from your intestine, your aspirin and Plavix were
+temporarily stopped.  This was done because although these
+medications did not cause the bleeding, their effect is to
+worsen any bleeding that may occur for another reason, such as
+diverticulosis, as in your case.  These medications are
+extremely important to prevent clots from forming at the sites
+where stents were placed in the Hirsh vessels in your heart, so
+they were both re-started once your bleeding stopped.  Since you
+were de-sensitized to aspirin, it is EXTREMELY IMPORTANT that
+you take aspirin EVERY DAY, since if you skip doses, this may
+cause you to have a bad reaction to the medication.
+
+MEDICATION CHANGES:
+There were no changes made to your medications.  Please continue
+taking your regular home medications.
+
+Followup Instructions:
+You have a follow up appointment with your primary care doctor:
+Department: UPMCE
+When: FRIDAY 2012-07-12 00:00:00 at 11:30 AM
+With: Brison Hirsh Brison Hirsh, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST Best Parking: UPMCE Garage
+
+You also have an important follow up appointment with Dr. Hirsh,
+of gastroenterology:
+Department: GASTROENTEROLOGY
+When: TUESDAY 2012-07-12 00:00:00 at 9:00 AM
+With: Brison Brison Hirsh, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST Best Parking: UPMCE Garage
+
+
+
+
+Department: UPMCE
+When: FRIDAY 2012-07-12 00:00:00 at 11:30 AM
+With: Brison Hirsh Brison Hirsh, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: GASTROENTEROLOGY
+When: TUESDAY 2012-07-12 00:00:00 at 9:00 AM
+With: Brison Brison Hirsh, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+Department: UPMCE
+When: FRIDAY 2012-07-12 00:00:00 at 11:30 AM
+With: Brison Hirsh Brison Hirsh, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: GASTROENTEROLOGY
+When: TUESDAY 2012-07-12 00:00:00 at 9:00 AM
+With: Brison Brison Hirsh, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+

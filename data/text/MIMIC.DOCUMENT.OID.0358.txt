@@ -1,0 +1,192 @@
+Admission Date:  2006-09-24 00:00:00       Discharge Date:  2006-09-24 00:00:00
+
+Date of Birth: 1992-09-24 00:00:00 00:00:00       Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Bright red blood per rectum.
+
+HISTORY OF PRESENT ILLNESS:  This is a 74-year-old gentleman
+with a history of bleeding, internal hemorrhoids, status post
+cauterization seven days prior to admission who was started
+on Plavix three days prior to admission.  He was admitted to
+the medical Intensive Care Unit for bright red blood per
+rectum.  The patient said the bleeding started suddenly at 2
+o'clock PM on the day of admission with passing large clots
+and bright red blood per rectum.  This was not associated
+with abdominal pain, nausea, fevers, chills, diarrhea.  The
+patient reports he has bright red blood per rectum on a daily
+basis, this is basically self-limited.
+
+REVIEW OF SYSTEMS:  The patient complains of severe rectal
+pain.  No complaints of chest pain, dyspnea, short of breath
+or dysuria.
+
+In the emergency department, the patient continued to have
+profuse bright red blood per rectum and was transfused two
+units of packed red blood cells.  His blood pressure had
+decreased, systolic blood pressure in the 80's which was
+corrected by fluid boluses. Colonoscopy revealed an actively
+bleeding internal hemorrhoid which was ligated.
+
+PAST MEDICAL HISTORY:
+1.  Internal hemorrhoids.
+2.  Diverticula and polyp seen on 2006-09-24 00:00:00 colonoscopy.
+3.  Chronic renal insufficiency with a baseline creatinine of
+2 to 3 thought to be secondary to hypertensive glomerulus
+scleras.
+4.  Atrial fibrillation.
+5.  Cerebrovascular accident on 2006-09-24 00:00:00.
+6.  Obstructive sleep apnea intolerance of CPAP.
+7.  Hypercholesterolemia.
+8.  Anemia.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:
+1.  Plavix 75 mg p.o. q day.
+2.  Diovan 80 mg p.o. q day.
+3.  Allopurinol 100 mg p.o. q day.
+4.  Zantac.
+5.  Lipitor.
+6.  E123 Any St. 10,000 units q week.
+7.  Iron.
+
+SOCIAL HISTORY:  The patient lives with his wife.  Quit
+smoking several years ago, no alcohol, no intravenous drug
+use.
+
+PHYSICAL EXAMINATION:  On admission temperature was 97.4,
+blood pressure 192/47, heart rate 16 sating 100% on two
+liters nasal cannula.  General:  Alert and oriented times
+three.  Some discomfort in the rectal area.  Head, eyes,
+ears, nose and throat:  Pupils are equal, round, and reactive
+to light and accommodation.  Extraocular movements intact.
+Dry mucous membranes.  Neck:  Supple, no lymphadenopathy or
+jugular venous distention.  Pulmonary:  Clear to auscultation
+bilaterally.  Cardiac:  Bradycardiac.  Regular.  S1 and S2.
+No murmurs, rubs or gallops.  Abdomen:  Obese, nontender.
+Normal active bowel sounds, no organomegaly.  Extremities:
+No cyanosis, clubbing or edema.  2+ dorsalis pedis pulses
+bilaterally.  Skin: Several nevi.  Cranial nerves 2 through
+12 intact.  Upper and lower extremity strength 5/5
+bilaterally.
+
+LABORATORY on admission white cell count 8.3, hemoglobin 9.8,
+hematocrit 29.7, platelets 157, sodium 142, potassium 4.0.
+Chloride 107, bicarbonate 23, BUN 54, creatinine 4.7, glucose
+152.  AST 15, ALT 11, alk phos 86, Left ventricular
+hypertrophy 189, amylase 92, lipase 52, total bilirubin 1.1,
+magnesium 2.0, phosphorus 4.0, calcium 8.9.  Urinalysis:
+Positive for moderate blood, 100 protein.
+
+HOSPITAL COURSE:
+1.  Gastrointestinal bleed. The patient admitted with
+gastrointestinal bleed from internal hemorrhoids, status post
+ligation in the emergency department.  The patient received a
+total of 5 units packed red blood cells in the emergency
+department and medical Intensive Care Unit.  By 2006-09-24 00:00:00 the
+patient was having only trace bleeding and hematocrit has
+stabilized.  Upon transfer to the floor on 2006-09-24 00:00:00 hematocrit
+continued to be monitored closely.  On the morning of 2006-09-24 00:00:00
+the patient had a drop in hematocrit from 26.9 to 24.6 and
+received one more unit of packed red blood cells.  Throughout
+the remainder of the stay the patient's hematocrit was stable
+and he did not require further transfusions.
+
+2.  Change in mental status.  In the medical Intensive Care
+Unit, the patient received Ambien, Morphine, and Tylenol for
+control of rectal pain.  After receiving these medications
+the patient became confused with orientation only to his self
+on 2006-09-24 00:00:00.  It was hypothesized that the Morphine was the
+most likely cause of the patient's change in mental status.
+The Morphine was discontinued and the patient was given
+Tylenol for pain control.  Other possible causes of change in
+mental status that were considered included Intensive Care
+Unit psychosis which was unlikely the short amount of time
+the patient spent in the unit.  In addition, an underlying
+infection was considered but the patient remained afebrile
+and without an elevated white blood count.  After being taken
+off the Morphine and having his pain controlled only with
+Tylenol the patient's mental status changes resolved.
+
+3.  Acute on chronic renal failure. The patient was increased
+in creatinine from baseline.  Most likely secondary to
+hyperperfusion in the setting of his gastrointestinal bleed.
+A renal ultrasound was obtained which did not show any
+hydronephrosis or post obstructive problems.  His creatinine
+is trending down following intravenous hydration and p.o.
+intake.
+
+4.  Atrial fibrillation.  The patient is currently off
+anti-coagulation given his gastrointestinal bleed.  At this
+time, anti-coagulation will be held until the patient follows
+up with surgery in two weeks.  At that time, if the patient
+is cleared by surgery, Neurology and the Stroke Team
+recommend long-term anti-coagulation for the patient with a
+goal INR of 2 to 3.
+
+5.  Hypertension.  The patient's anti-hypertensive was held
+on admission given his hypotension from the severe
+gastrointestinal bleed.  It was later held due to the
+patient's chronic renal failure.  The patient will be
+restarted on his Sparling today.  Blood pressure has been trending
+upward and his creatinine is trending down to baseline.
+
+6.  Fluid, Electrolytes and Nutrition.  The patient
+tolerating a house diet.  Electrolytes have been corrected as
+needed.
+
+7.  Prophylaxis.  The patient was on Unna boots for deep vein
+thrombosis prophylaxis throughout the hospitalization.  He
+was continued on a bowel regimen to avoid constipation.  The
+patient was continued on PPI.
+
+CONDITION ON DISCHARGE:  Stable.
+
+STATUS:  The patient will be discharged to a rehabilitation
+facility.
+
+DISCHARGE DIAGNOSIS:
+1.  Gastrointestinal bleed from internal hemorrhoids, status
+post ligation.
+2.  Mental status changes, not otherwise specified, now
+resolved.
+3.  Paroxysmal atrial fibrillation.
+4.  Hypertension.
+5.  Anemia.
+6.  Chronic renal insufficiency.
+7.  Acute renal insufficiency.
+
+DISCHARGE MEDICATIONS:
+1.  Colace 100 mg p.o. twice a day.
+2.  E123 Any St. 10,000 units subcutaneously one time per week.
+3.  Ederson Hanss 8.6 mg one tab p.o. twice a day.
+4.  Pantoprazole 40 mg p.o. four times a day.
+5.  Allopurinol 100 mg p.o. q day.
+6.  Valsartan 80 mg p.o. q day.
+7.  Acetaminophen 325 mg one to two tabs p.o. q 4 to 6 hours
+p.r.n.
+
+FOLLOW-UP:  The patient should follow-up with PCP Sparling. Brandan
+at earliest convenience.
+
+The patient will follow-up with Dr. Ederson Hanss from Behavioral
+Neurology on 2006-09-24 00:00:00 at 10:00.
+
+The patient should follow-up with Dr. Sparling in two weeks.
+Please call test@mail.com to make an appointment.
+
+
+
+
+
+
+
+
+Dictated By:Ederson Hanss
+MEDQUIST36
+
+D:  2006-09-24 00:00:00  13:52
+T:  2006-09-24 00:00:00  16:03
+JOB#:  26219

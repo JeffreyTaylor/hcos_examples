@@ -1,0 +1,700 @@
+[** **] Date:  2008-01-19 00:00:00              Discharge Date:   2008-01-19 00:00:00
+
+Date of Birth: 1985-01-19 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Desmopressin
+
+Attending:Jazzilyn Dyrud
+Chief Complaint:
+hyponatremia
+
+Major Surgical or Invasive Procedure:
+endoscopy - EGD with EUS, [**First Name3 (LF) 2748**]
+
+
+History of Present Illness:
+74F the patient w/ hx of PE, hyponatremia, breast CA, HTN states
+that she was sent in by her primary care doctor Hammad Buchler.
+The patient has a colonscopy on Wednesday (today) to evaluate
+for a possible cause of the patient's stool incontinence.
+Otherwise the patient does state that she has been drinking a
+bit more fluids for upcoming Buchler (but stopped after PCP
+coverage told her to come into the hospital, and has not taken
+the bowel prep yet). Otherwise the patient is not having any
+chest pain or shortness of breath. The patient is not having any
+symptoms that are new or acute. Pt has persistent stool
+incontinence. The patient notes that she has had 6 BMs in the
+past 24 hrs, and usually has a number of loose BMs per day. No
+CP, SOB, palpitations, cramps, joint pain. No headaches.
+.
+In the ED inital vitals were, 96.7 76 128/58 20 94%
+No symptoms. Nothing remarkable on exam. Patient's Na decreased
+from 119 --> 115 despite fluid restriction. CT head
+unremarkable.
+Peaked T's on EKG --> 1g calcium, insulin and dextrose.  K+ 6.0
+to 5.2.
+Ativan was given for anxiety.
+Cr 1.2 from 0.7 (2008-01-19 00:00:00).
+WBC 5.5, Hct 32.4, Plt 205
+Na 119 --> 115
+K+ 6.0 --> 5.2
+Cl 81; Bicarb 23; BUN 20; Cr 1.2
+Ca 8.6, P 3.6, Mg 1.7
+Access: 18 in R AC
+Fluids: no fluids
+.
+On arrival to the ICU, patient vitals are afebrile 63 132/63  18
+100%ra. Patient was drowsy, likely secondary to ativan that was
+given before transport in ED.  1L NS bolus initiated.  Repeat
+EKG showed a rate of 64 in sinus rhythm, J-point elevation
+V2-V6, QTc 477, peaked T waves V2, V3, II.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, constipation, abdominal pain. Denies
+dysuria, frequency, or urgency. Denies arthralgias or myalgias.
+Denies rashes or skin changes.   Denies headache.
+
+
+Past Medical History:
+- history of PE (last in 2008-01-19 00:00:00 at UPMCE)
+- cystocele followed by Dr. Jazzilyn Dyrud
+- L breast DCIS in 2008-01-19 00:00:00 s/p breast conserving surgery followed
+by recurrence in 2008-01-19 00:00:00 requiring mastectomy with immediate
+reconstruction. No re-occurance since.
+- R breast reduction performed in 2008-01-19 00:00:00
+- Hypertension
+- GERD/Barrett's esophagus
+- Gout
+- Asthma
+- OA of knees
+- L popliteal DVT s/p anticoagulation
+- IBS w/fecal incontinence
+- Spinal stenosis
+- History of [**Year (4 digits) 493**] adenomas
+- Charcot's arthropathy of R ankle
+- History of endometrial cancer in 2008-01-19 00:00:00 s/p TAH-BSO
+- History of diverticulitis
+- Cholecystectomy
+- Hernia repair at CCY site
+
+
+Social History:
+Originally from 123 Any St., lives with husband. Denies tobacco or
+illicits. She drinks wine occasionally. Her daughter is a
+med/peds resident at 123 Any St.. She is disabled by
+chronic ankle and foot pain.
+
+
+Family History:
+Father - lung cancer
+Mother - pulmonary embolism, heart problems
+Sister - melanoma
+Sister - Hammad Buchler cancer
+
+
+Physical Exam:
+Hammad Buchler Physical Exam:
+afebrile 63 132/63  18 100%ra
+General: no acute distressed, drowsy, arousable to voice
+HEENT: Sclera anicteric, MM dry, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, obese, bowel sounds present, no
+rebound tenderness or guarding, no organomegaly
+Skin: bruises on pannus
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis;
+charcot feet; pedal edema
+Neuro: PERRL, no focal abnl on cranial nerve exam
+.
+Discharge Physical Exam:
+
+
+Pertinent Results:
+Hammad Buchler Labs:
+2008-01-19 00:00:00 10:35PM BLOOD WBC-5.5 RBC-3.43* Hgb-11.4* Hct-32.4*
+MCV-95 MCH-33.2* MCHC-35.1* RDW-14.2 Plt Ct-205
+2008-01-19 00:00:00 10:35PM BLOOD Neuts-71.0* Lymphs-17.0* Monos-10.7
+Eos-1.0 Baso-0.3
+2008-01-19 00:00:00 03:09AM BLOOD WBC-4.7 RBC-3.46* Hgb-11.3* Hct-32.7*
+MCV-95 MCH-32.8* MCHC-34.7 RDW-14.2 Plt Ct-181
+2008-01-19 00:00:00 03:09AM BLOOD Neuts-79.0* Lymphs-9.1* Monos-10.5
+Eos-0.7 Baso-0.7
+2008-01-19 00:00:00 03:09AM BLOOD PT-11.2 PTT-41.4* INR(PT)-1.0
+2008-01-19 00:00:00 03:09AM BLOOD Glucose-70 UreaN-19 Creat-0.9 Na-119*
+K-4.3 Cl-89* HCO3-21* AnGap-13
+2008-01-19 00:00:00 10:35PM BLOOD Glucose-74 UreaN-20 Creat-1.2* Na-115*
+K-5.2* Cl-81* HCO3-23 AnGap-16
+2008-01-19 00:00:00 03:20PM BLOOD UreaN-22* Creat-1.2* Na-119* K-6.0*
+Cl-81* HCO3-25 AnGap-19
+2008-01-19 00:00:00 03:09AM BLOOD ALT-27 AST-40 LD(LDH)-149 AlkPhos-88
+TotBili-0.7
+2008-01-19 00:00:00 03:09AM BLOOD Albumin-3.5 Calcium-9.0 Phos-3.7 Mg-1.8
+2008-01-19 00:00:00 10:35PM BLOOD Osmolal-283
+
+2008-01-19 00:00:00 02:30AM URINE Color-Straw Appear-Clear Sp Buchler-1.004
+2008-01-19 00:00:00 02:30AM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-70 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM
+2008-01-19 00:00:00 02:30AM URINE RBC-0 WBC-5 Bacteri-FEW Yeast-NONE Epi-0
+2008-01-19 00:00:00 02:30AM URINE Hours-RANDOM UreaN-203 Creat-28
+2008-01-19 00:00:00 03:14PM URINE Hours-RANDOM Na-18 K-47 Cl-22
+2008-01-19 00:00:00 03:14PM URINE Osmolal-276
+
+IMAGING:
+EKG: 2008-01-19 00:00:00
+Sinus arrhythmia. P-R interval prolongation. Since the 123 Any St.us
+tracing
+of 2008-01-19 00:00:00 the rate is slower. The P-R interval is longer.
+Repolarization
+pattern is unchanged.
+.
+2008-01-19 00:00:00 Head CT:
+IMPRESSION:
+1. No evidence of cerebral edema. If there is concern for
+central pontine
+myelinolysis, MRI is recommended for increased sensitivity.
+2. Stable sequelae of chronic small vessel ischemic disease and
+global
+atrophy.
+3. No mass effect or evidence of herniation.
+NOTE ADDED IN ATTENDING REVIEW: Osmotic demyelination syndrome
+("central and extra-pontine myelinolysis") generally occurs as
+complication of the
+treatment, with too-rapid correction, of patients with profound,
+
+life-threatening hyponatremia, rather than the hyponatremia, per
+se
+.
+2008-01-19 00:00:00 EKG:
+Sinus rhythm. Borderline P-R interval prolongation. Q-T interval
+prolongation. Early R wave progression. J point and ST segment
+elevation are more apparent in limb and precordial leads. The
+QRS width is also wider. Consider metabolic derangements.
+Clinical correlation is suggested
+.
+CXR 2008-01-19 00:00:00:
+IMPRESSION: AP chest compared to 2008-01-19 00:00:00:
+Antilordotic positioning probably explains mild enlargement of
+both hila.
+Lateral aspect right hemithorax is excluded from the
+examination. Remainder of the imaged lungs and pleural surfaces
+are normal aside from mild bibasilar atelectasis. Heart is not
+enlarged.
+.
+2008-01-19 00:00:00 Knee xray:
+FINDINGS: There are severe degenerative changes involving the
+patellofemoral compartment with bone-on-bone contact to the
+patella with the trochlea at the lateral aspect. Bony
+irregularity and erosion is seen. There is also faint
+chondrocalcinosis. These overall findings can be seen in the
+setting of CPPD arthropathy. There is a knee joint effusion.
+.
+2008-01-19 00:00:00 06:30AM BLOOD WBC-5.0 RBC-3.26* Hgb-10.8* Hct-31.0*
+MCV-95 MCH-33.1* MCHC-34.8 RDW-14.2 Plt Ct-175
+2008-01-19 00:00:00 03:09AM BLOOD WBC-4.7 RBC-3.46* Hgb-11.3* Hct-32.7*
+MCV-95 MCH-32.8* MCHC-34.7 RDW-14.2 Plt Ct-181
+2008-01-19 00:00:00 10:35PM BLOOD WBC-5.5 RBC-3.43* Hgb-11.4* Hct-32.4*
+MCV-95 MCH-33.2* MCHC-35.1* RDW-14.2 Plt Ct-205
+2008-01-19 00:00:00 03:09AM BLOOD Neuts-79.0* Lymphs-9.1* Monos-10.5
+Eos-0.7 Baso-0.7
+2008-01-19 00:00:00 10:35PM BLOOD Neuts-71.0* Lymphs-17.0* Monos-10.7
+Eos-1.0 Baso-0.3
+2008-01-19 00:00:00 03:09AM BLOOD PT-11.2 PTT-41.4* INR(PT)-1.0
+2008-01-19 00:00:00 03:09AM BLOOD Eos Ct-60
+2008-01-19 00:00:00 01:03PM BLOOD Glucose-128* UreaN-17 Creat-0.9 Na-124*
+K-4.4 Cl-89* HCO3-26 AnGap-13
+2008-01-19 00:00:00 06:30AM BLOOD Glucose-108* UreaN-14 Creat-0.8 Na-123*
+K-4.6 Cl-91* HCO3-26 AnGap-11
+2008-01-19 00:00:00 02:45AM BLOOD Glucose-116* UreaN-16 Creat-0.9 Na-120*
+K-4.5 Cl-91* HCO3-24 AnGap-10
+2008-01-19 00:00:00 09:15PM BLOOD Glucose-137* UreaN-18 Creat-0.9 Na-125*
+K-4.5 Cl-91* HCO3-24 AnGap-15
+2008-01-19 00:00:00 04:10PM BLOOD Glucose-110* UreaN-16 Creat-0.9 Na-125*
+K-4.4 Cl-90* HCO3-26 AnGap-13
+2008-01-19 00:00:00 09:52AM BLOOD Glucose-168* UreaN-17 Creat-0.9 Na-120*
+K-4.6 Cl-91* HCO3-23 AnGap-11
+2008-01-19 00:00:00 03:09AM BLOOD Glucose-70 UreaN-19 Creat-0.9 Na-119*
+K-4.3 Cl-89* HCO3-21* AnGap-13
+2008-01-19 00:00:00 10:35PM BLOOD Glucose-74 UreaN-20 Creat-1.2* Na-115*
+K-5.2* Cl-81* HCO3-23 AnGap-16
+2008-01-19 00:00:00 03:20PM BLOOD UreaN-22* Creat-1.2* Na-119* K-6.0*
+Cl-81* HCO3-25 AnGap-19
+2008-01-19 00:00:00 06:30AM BLOOD ALT-26 AST-31 AlkPhos-80 TotBili-0.9
+2008-01-19 00:00:00 03:09AM BLOOD ALT-27 AST-40 LD(LDH)-149 CK(CPK)-85
+AlkPhos-88 TotBili-0.7
+2008-01-19 00:00:00 09:52AM BLOOD CK-MB-2 cTropnT-<0.01
+2008-01-19 00:00:00 03:09AM BLOOD CK-MB-3 cTropnT-<0.01
+2008-01-19 00:00:00 01:03PM BLOOD Calcium-8.5 Phos-3.1 Mg-1.8
+2008-01-19 00:00:00 06:30AM BLOOD UricAcd-3.0
+2008-01-19 00:00:00 02:45AM BLOOD Calcium-8.1* Phos-2.9 Mg-1.8
+2008-01-19 00:00:00 09:52AM BLOOD Calcium-8.4 Phos-2.9 Mg-2.1
+2008-01-19 00:00:00 03:09AM BLOOD Albumin-3.5 Calcium-9.0 Phos-3.7 Mg-1.8
+2008-01-19 00:00:00 10:35PM BLOOD Calcium-8.6 Phos-3.6 Mg-1.7
+2008-01-19 00:00:00 09:52AM BLOOD Triglyc-29
+2008-01-19 00:00:00 06:30AM BLOOD Osmolal-256*
+2008-01-19 00:00:00 10:35PM BLOOD Osmolal-283
+2008-01-19 00:00:00 06:30AM BLOOD Osmolal-256*
+2008-01-19 00:00:00 06:30AM BLOOD Osmolal-256*
+2008-01-19 00:00:00 09:52AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2008-01-19 00:00:00 03:25PM URINE Color-Yellow Appear-Clear Sp Buchler-1.010
+2008-01-19 00:00:00 02:30AM URINE Color-Straw Appear-Clear Sp Buchler-1.004
+2008-01-19 00:00:00 03:25PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-SM
+2008-01-19 00:00:00 02:30AM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-70 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM
+2008-01-19 00:00:00 03:25PM URINE RBC-2 WBC-13* Bacteri-FEW Yeast-NONE
+Epi-1
+2008-01-19 00:00:00 02:30AM URINE RBC-0 WBC-5 Bacteri-FEW Yeast-NONE Epi-0
+2008-01-19 00:00:00 03:25PM URINE Hours-RANDOM UreaN-454 Creat-52 Na-67
+K-54 Cl-90
+2008-01-19 00:00:00 03:25PM URINE Hours-RANDOM
+2008-01-19 00:00:00 02:30AM URINE Hours-RANDOM UreaN-203 Creat-28
+2008-01-19 00:00:00 03:14PM URINE Hours-RANDOM Na-18 K-47 Cl-22
+2008-01-19 00:00:00 05:28AM URINE Osmolal-185
+2008-01-19 00:00:00 03:25PM URINE Osmolal-435
+2008-01-19 00:00:00 03:14PM URINE Osmolal-276
+2008-01-19 00:00:00 02:30AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+2008-01-19 00:00:00 07:25AM BLOOD Glucose-105* UreaN-17 Creat-0.8 Na-128*
+K-4.3 Cl-94* HCO3-28 AnGap-10
+.
+
+2008-01-19 00:00:00 05:30AM BLOOD WBC-4.4 RBC-2.87* Hgb-9.2* Hct-27.7*
+MCV-96 MCH-32.1* MCHC-33.3 RDW-13.9 Plt Ct-298
+2008-01-19 00:00:00 05:30AM BLOOD WBC-4.4 RBC-2.87* Hgb-9.2* Hct-27.7*
+MCV-96 MCH-32.1* MCHC-33.3 RDW-13.9 Plt Ct-298
+2008-01-19 00:00:00 05:26AM BLOOD WBC-6.9 RBC-3.09* Hgb-10.0* Hct-29.6*
+MCV-96 MCH-32.4* MCHC-33.8 RDW-13.9 Plt Ct-279
+2008-01-19 00:00:00 05:26AM BLOOD WBC-6.9 RBC-3.09* Hgb-10.0* Hct-29.6*
+MCV-96 MCH-32.4* MCHC-33.8 RDW-13.9 Plt Ct-279
+2008-01-19 00:00:00 05:30AM BLOOD Glucose-92 UreaN-18 Creat-0.7 Na-133
+K-3.6 Cl-98 HCO3-29 AnGap-10
+2008-01-19 00:00:00 07:20PM BLOOD Glucose-196* UreaN-21* Creat-0.8 Na-133
+K-3.5 Cl-97 HCO3-25 AnGap-15
+2008-01-19 00:00:00 05:26AM BLOOD Glucose-90 UreaN-23* Creat-0.9 Na-133
+K-3.8 Cl-94* HCO3-29 AnGap-14
+2008-01-19 00:00:00 05:26AM BLOOD Glucose-90 UreaN-23* Creat-0.9 Na-133
+K-3.8 Cl-94* HCO3-29 AnGap-14
+2008-01-19 00:00:00 06:10AM BLOOD Glucose-86 UreaN-23* Creat-0.9 Na-128*
+K-4.1 Cl-93* HCO3-27 AnGap-12
+2008-01-19 00:00:00 05:30AM BLOOD Calcium-8.5 Phos-3.3 Mg-1.6
+2008-01-19 00:00:00 06:16PM URINE Color-Yellow Appear-Hazy Sp Buchler-1.017
+2008-01-19 00:00:00 07:13PM URINE Osmolal-643
+2008-01-19 00:00:00 06:05AM URINE Osmolal-465
+.
+MRSA screen (2008-01-19 00:00:00): MRSA positive
+C. diff (2008-01-19 00:00:00): negative for C. diff toxin.
+Urine Culture (2008-01-19 00:00:00):
+URINE CULTURE (123 Any St.inary):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+         Cefazolin interpretative criteria are based on a dosage
+regimen of
+         2g every 8h.
+      GRAM POSITIVE BACTERIA.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+.
+.
+Endoscopy (2008-01-19 00:00:00):
+colonscopy
+
+Findings:	
+Mucosa:	Mild and patchy erythema at sigmoid 2008-01-19 00:00:00 and rectum
+were noted. Cold forceps biopsies were performed for histology.
+Protruding Lesions: A single sessile 4 mm polyp of benign
+appearance was found in the hepatic flexure. A single-piece
+polypectomy was performed using a cold forceps. The polyp was
+completely removed.
+Excavated Lesions: Multiple diverticula were seen in the sigmoid
+2008-01-19 00:00:00. Diverticulosis appeared to be of moderate severity.
+Other: The exam of terminal ileum was normal. Otherwise the exam
+of the rest of 2008-01-19 00:00:00 was normal. Cold forceps biopsies were
+performed to rule out microscopic colitis.
+Impression:	
+The exam of terminal ileum was normal.
+-A 4 mm polyp in the hepatic flexure (polypectomy)
+-Mild patchy erythema at sigmoid 2008-01-19 00:00:00 and rectum in the 2008-01-19 00:00:00
+(biopsy)
+-Moderate diverticulosis of the sigmoid 2008-01-19 00:00:00.
+-Otherwise the exam of the rest of 2008-01-19 00:00:00 was normal. Cold
+forceps biopsies were performed to rule out microscopic colitis.
+
+-Otherwise normal 2008-01-19 00:00:00 to cecum and terminal ileum.
+.
+EGD/EUS
+Findings:
+Esophagus: Z line was regular. A 1 cm sliding hiatal hernia was
+seen. otherwise the exam of the esophagus was normal.
+Stomach: The exam of the stomach was normal. Cold forceps
+biopsies were performed for histology.
+Duodenum: The mucosa at the proximal bulb of duodenum appeared
+mildly nodular. Cold forceps biopsies were performed for
+histology. The exam of the second part of the duodenum was
+normal. Cold forceps biopsies were performed for histology.
+Other findings:	EUS was performed using a linear echoendoscope
+at 7.5 MHz frequency. The head and uncinate pancreas were imaged
+from the duodenal bulb and the second / third duodenum. The body
+and tail [partially] were imaged from the gastric body and
+fundus. A 0.8 cm X 0.6 cm discrete anechoic lesion, consistent
+with a cyst was noted in the uncinate process of the pancreas.
+The walls of the cysts were thin and well-defined. No intrinsic
+mass, septations or debris were noted within the cyst. The cyst
+did not appear to communicate with the main pancreatic duct. FNA
+was not performed because of the use of anticoagulant and no
+''alarm features''.  Pancreas parenchyma: there were mild
+lobularity and hyperechoic strands throughout. But there was no
+other chronic pancreatitis changes. Pancreas duct: The pancreas
+duct measured 1.8-2 mm in maximum diameter in the head and neck
+of the pancreas and 1.5 mm in maximum diameter in the body of
+the pancreas. The walls of the duct were hyperchoic. No stone or
+dilated side branch was seen. The exam of CBD was normal. It
+measured 4 mm. The celiac take-off was normal. The portal
+confluence was normal. The left lobe of liver was normal.
+.
+Impression:	
+-Hiatal hernia
+-EGD exam revealed a normal stomach and D2 (biopsy) and slightly
+nodular duodenal bulb (biopsy) The
+-Linear EUS evaluation was then performed
+-A 0.8 cm X 0.6 cm discrete anechoic lesion, consistent with a
+cyst was noted in the uncinate process of the pancreas. The
+walls of the cysts were thin and well-defined. No intrinsic
+mass, septations or debris were noted within the cyst. The cyst
+did not appear to communicate with the main pancreatic duct. FNA
+was not performed because of the patient's anticoagulated
+status.
+-Pancreas parenchyma: there was mild lobularity and hyperechoic
+strands throughout. But there were no other findings of chronic
+pancreatitis. These findings are compatible with, but not
+diagnostic of, early chronic pancreatitis.
+-Pancreas duct: The pancreas duct measured 1.8-2 mm in maximum
+diameter in the head and neck of the pancreas and 1.5 mm in
+maximum diameter in the body of the pancreas. The walls of the
+duct were hyperchoic. No stone or dilated side branch was seen.
+-The exam of CBD was normal. It measured 6 mm, compatible with
+post-cholecystectomy dilation
+-The celiac take-off was normal. The portal confluence was
+normal. The left lobe of liver was normal.
+.
+
+Brief Hospital Course:
+74 yo woman with history of breast ca, HTN, cystocele and
+hyponatremia, presented with recurrent hyponatremia and ARF,
+found to have ETOH withdrawal.
+.
+ACTIVE ISSUES:
+# Hyponatremia: Patient has had 123 Any St.us admissions for
+hyponatremia (and chronic hyponatremia with Na in mid-120s),
+which was thought to be SIADH in setting of vasopressin
+administration. Current presentation most likely a
+multifactorial process, from low solute intake, possible excess
+free water at home, diarrhea, as well as beer ingestion. Per
+report, patient had some somnolence in the ICU but was easily
+arousable to voice, which was thought to be most likely
+secondary to the IV ativan she received prior to transport up to
+the ICU. CXR negative for acute process and head CT was also
+negative. Nephrology was consulted to help with management of
+hyponatremia. Nephrology felt that presentation was consistent
+with a combination of low solute intake, SIADH and perhaps
+excess free water at home. In addition, pt also presented with
+an osmolar gap suggestive of ETOH ingestion. Recent TSH was
+normal, am cortisol 7 prior to 2008-01-19 00:00:00, not suggestive of
+adrenal insufficiency.  Repeat AM cortisol was 11.7.  Her sodium
+levels were followed closely as well as her blood and urine
+osmolarity. Pt was encouarged to have a liberal salt diet,
+1200ml fluid restriction, Ensure TID and was started on salt
+tabs 1gm UPMCE on 2008-01-19 00:00:00. Pt's sodium was monitored closely to ensure
+that she did not correct too quickly.  Sodium level on day of
+discharge was 133.  She will have her lytes repeated in
+approximately 10 days time, on 2008-01-19 00:00:00.  A prescription for a lab
+check was provided to the patient and the results will be
+forwarded to her PCP.  Hammad Buchler will also see her nephrologist in
+follow-up in Renal Clinic.
+.
+# L.knee pain-DDX included severe osteoarthritis vs. pseudogout
+vs. gout. Pt did have a mechanical fall preceding Hammad Buchler but
+did not have any 123 Any St.us knee pain. No new apparent trauma. No
+new erythema or induration or warmth to suggestion infection or
+septic joint. Xray confirmed severe arthritis with evidence to
+suggest CPPD. Pt was given tylenol and a lidocaine patch for
+pain. Uric acid was 3.
+.
+# Hyperkalemia: Peaked T's on initial EKG. She was given 1g
+calcium, insulin and dextrose in ED. K+ 6.0 to 5.2. Baseline is
+around 5.0. Was given kayexylate in ICU. Likely due to volume
+contraction in the setting of ACE-i use.  Potassium levels were
+monitored and remained normal.
+.
+#ARF: Presented with a creatinine of 1.2 from 0.7, although pt
+stated she was drinking a lot of water at home, presentation was
+still likely c/w pre-renal, given recent diarrhea. FENA
+initially was 0.8%, FENA 0.9% 2/8. ACE-i and Celebrex were held
+and can re-started in the outpatient setting after repeat Cr
+check.  Creatinine on discharge was 0.7.
+.
+# Diarrhea/fecal incontinence/abdominal pain-pt with h/o IBS-
+was recently supposed to have Hammad Buchler, endoscopy, and EUS to
+further evaluate these complaints. Per report lipase elevated in
+the past and that is why EUS was scheduled. The GI team was
+contactHammad Buchler during Hammad Buchler as it was felt that the patient would
+certainly need inpatient prep given profound hyponatremia and
+risk for recurrent profound hyponatremia. The pt was prepped and
+underwent a C-scope, EGD/EUS on 2008-01-19 00:00:00, and tolerated the
+procedure well.  C-scope showed a 4mm poly (removed via
+polypectomy), patchy erythema (biopsied), moderate
+diverticulosis, and random biopsies of 2008-01-19 00:00:00 were also taken to
+rule out microscopic colitis.  All the biopsies are currently
+pending.  The EGD/EUS revealed a hiatal hernia, nodular duodenal
+bulb (biopsied), pancreatic changes consistent with chronic
+pancreatitis, and also a discrete lesion in the pancreas
+measuring less than 1 x 1cm in size, consistent with cyst.  Pt
+will need to have her biopsy results followed-up on, and per GI
+recommendations, she will need a MRCP in 3 months time to
+evaluate her pancreas again.  Given recent EtOH use, would
+recommend waiting 3 months, but sooner if she develops weight
+loss.  The cyst could not be biopsied as the patient is on
+anticoagulation for her PE with fondaparanaux.
+.
+# Hx PE / DVT: Pt was continued on 7.5 fondaparanaux sc qd. She
+remained on room air.
+.
+#ETOH use/abuse-Pt's daugther raised concern of drinking at
+home. No reports of prior withdrawals. Pt appeared upset when
+asked to give specifics on her intake. She was tangential on
+answering the questions as well. Pt developed signs of ETOH
+withdrawal upon transfer out of ICU to the medical floor was was
+placed on a CIWA scale and given PRN valium. She was given MVI,
+thiamine and folate and SW was consulted.
+.
+UTI - pt complained of dysuria.  Urine culture grew
+Cipro-sensitive E. coli. Pt to complete a course of Cipro.
+However, Urine culture also still growing 2nd organism, although
+at lower colony count, only 10 - 10,000 CFU of GPC.  Will f/u
+final culture data/results and will contact pt if antibiotic
+regimen will need adjustment.
+.
+CHRONIC ISSUES:
+#normocytic anemia-baseline appears to be between 21-40.
+Presented at 32.
+.
+#GERD-continued UPMCE PPI
+.
+#asthma-no sign of acute flare, continued fluticasone
+.
+#h.o breast ca-outpt f/u and monitoring.
+.
+#HTN, benign-did not appear to be on any meds at baseline
+.
+#gout-allopurinol
+.
+TRANSITIONAL ISSUES:
+.
+GI - will need outpatient MRCP in 3 months or sooner if weight
+loss occurs.  Pt is already has order placed by ERCP but will
+need to call to schedule actual MRCP appointment.  GI will need
+to follow-up biopsy results.
+Renal - pt will have to continue on fluid restriction, salt
+tabs, and will need her lytes checked in 10 days, with results
+to be faxed to and followed by PCP.  Hammad Buchler see Renal in follow-up
+as well.  Should continue to hold her Celebrex and lisinopril
+given recent Buchler until follow-up with PCP or Renal.
+EtOH use/withdrawl - should continue on MVI/thiamine/folate.
+Can follow-up with PCP to discuss treatment options.
+.
+UTI - currently growing Cipro sensitive E. Coli.  Patient to
+complete course of ciprofloxacin.  However, 2nd bacteria also
+growing, albeit only at 10 - 10,000 CFU of GPC.  Will f/u result
+and call pt if she needs additional or changed antibiotic.
+.
+
+Medications on Buchler:
+1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q6H (every 6 hours) as needed for shortness
+
+of breath or wheezing.
+2. allopurinol 100 mg Tablet Sig: One (1) Tablet PO BID (2 times
+
+a day).
+3. Celebrex 200 mg Capsule Sig: One (1) Capsule PO 1-2 per day.
+
+4. conjugated estrogens 0.625 mg/gram Cream Sig: One (1) gram
+Vaginal Twice per week: Intravaginal.
+5. fondaparinux 7.5 mg/0.6 mL Syringe Sig: 7.5 mg Subcutaneous
+DAILY (Daily).
+6. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation UPMCE (2 times a day).
+7. lorazepam 0.5 mg Tablet Sig: 0.5 - 2 Tablet PO twice a day as
+
+needed for anxeity or insomnia.
+8. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+9. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. nystatin powder apply qd to affected areas
+11. pantoprazole 40mg UPMCE
+
+
+Discharge Medications:
+1. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q4H (every 4 hours) as needed for cough,
+wheeze.
+2. fluticasone 110 mcg/actuation Aerosol Sig: Two (2) Puff
+Inhalation UPMCE (2 times a day).
+3. fondaparinux 7.5 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous
+DAILY (Daily).
+4. allopurinol 100 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+6. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO BID (2 times a
+day) as needed for anxiety.
+9. Premarin 0.625 mg/gram Cream Sig: One (1) gram Vaginal
+2X/WEEK (2 times a week).
+10. sodium chloride 1 gram Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+11. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+12. Outpatient Lab Work
+please obtain chemistry-10, including Na, K, Chloride, Bicarb,
+BUN/Cr, Glucose, Ca, Mg, Phos.  Please fax results to Dr. Jazzilyn Dyrud
+Buchler at test@mail.com.
+13. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+hyponatremia
+acute renal failure
+alcohol withdrawal, anxiety
+knee pain-due to arthritis
+hyperkalemia
+urinary tract infection
+.
+Chronic
+diarrhea/IBS
+gout
+asthma
+HTN
+
+
+Discharge Condition:
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+
+
+Discharge Instructions:
+You were admitted for evaluation and treatment of hyponatremia
+(low blood sodium), elevated potassium and impairment in your
+kidney function. You were initially monitored in the ICU and
+your symptoms improved. You were also followed by the kidney
+team to help with monitoring of your sodium levels.  You will
+need to continue taking salt tabs and restricting your fluid
+intake.  You will need repeat labs done in approximately 1 week
+(you can have them checked the day you see Dr. Jazzilyn Dyrud on 2008-01-19 00:00:00).
+.
+You underwent an endoscopy, 2008-01-19 00:00:00 and EUS (endoscopic
+ultrasound), which showed a polyp in your 2008-01-19 00:00:00, some areas of
+inflammation (biopsied), diverticulosis, a hiatal hernia, a
+nodular stomach (biopsied), possible chronic pancreatitis, and a
+pancreatic cyst.  For your pancreatic cyst and possible changes
+c/w chronic pancreatitis, you will need follow-up imaging with a
+MRI in approximately 3 months.  This has already been ordered by
+the GI doctors, and you will need to call after discharge to
+schedule the exact date.  The contact number is listed below.
+Your polyp could not be removed, as you are on a blood thinner.
+This will need to be addressed by your PCP/GI doctors with
+repeat Hammad Buchler when you are off your blood thinning
+medication.  Please call Dr. [**First Name4 (NamePattern1) 2750**] Buchler office to get the
+results of your biopsy.  His office number is test@mail.com.
+.
+You were also noted to have a urinary tract infection with a
+urine culture growing E. Coli.  We have started you on an
+antibiotic.  We will notify you if that antibiotic will need to
+be changed.
+.
+You were also treated for alcohol withdrawal.
+.
+Medication changes:
+1.STOP lisinopril
+2.START salt tablets
+3.START ciprofloxacin (complete a course for UTI)
+4.STOP Celebrex
+.
+Please take all of your medications as prescribed below and
+follow up with the appointments below.
+
+Followup Instructions:
+.
+Department: 123 Any St. INTERNAL MED.
+When: THURSDAY 2008-01-19 00:00:00 at 2:15 PM
+With: Hammad Buchler, MD test@mail.com
+Building: 123 Any St. (123 Any St., MA) 123 Any St.
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+.
+Department: WEST SPECIALTIES CLINIC/NEPHROLOGY
+When: THURSDAY 2008-01-19 00:00:00 at 11:00 AM
+With: Jazzilyn Dyrud, M.D. test@mail.com
+Building: De 123 Any St.
+Campus: WEST     Best Parking: 123 Any St. Garage
+You have also been put on a waiting list to be seen sooner.
+.
+Department: URO/GYNECOLOGY
+When: WEDNESDAY 2008-01-19 00:00:00 at 2:45 PM
+With: Hammad Buchler Hammad Buchler, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+.
+You will need a MRCP (imaging study to evluate your pancreas),
+please call test@mail.com to schedule an appointment.  This
+should be done in approximately 3 months time.  Dr. [**First Name4 (NamePattern1) 2750**] Buchler
+will follow-up the results of this study.
+.
+If you have any GI symptoms, please call Dr.Hammad Buchler office
+at test@mail.com to schedule an appointment to be seen as
+necessary.
+.
+
+
+

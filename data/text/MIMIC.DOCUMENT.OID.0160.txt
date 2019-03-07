@@ -1,0 +1,242 @@
+Admission Date:  2008-02-15 00:00:00              Discharge Date:   2008-02-15 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Dariyan Stiemsma
+Chief Complaint:
+s/p collapse
+
+Major Surgical or Invasive Procedure:
+Intubation
+Central venous line placement
+
+History of Present Illness:
+79 yo F hx IDDM, HTN who presented after she collapsed in the
+lobby of her building while awaiting her son to pick her up for
+appointment to see her PCP.  Amontay Manzano was reportedly feeling well
+recently according to son, no infectious symptoms.  She came
+down to the lobby and sat in a chair while waiting and then
+collapsed.  Pt had CPR initiated from bystanders (RN and aide in
+lobby), per report EMS on presentation noted VFib, was
+defibrillated 200J x1.  Review of provided strip appears to
+demonsrate a NSR with artifact followed by shock and resumption
+of NSR.  FS was 188, unresponsive, intubated in the field.  Pt
+hypotensive to 60's on arrival to ED, rec'd 1.5 L NS, started on
+levophed transiently.  Pt had head, chest/abd CTs performed
+which were unrevealing.
+
+
+Past Medical History:
+IDDM c/b retinopathy, neuropathy
+HTN
+H/O FRONTAL LOBE MENINGIOMA - RESECTED IN 2008-02-15 00:00:00
+S/P HEMORROIDECTOMY
+S/P T AND A
+
+
+Social History:
+lives by herself, independently, no prior hx of tobacco.
+
+
+Family History:
+NC
+
+Physical Exam:
+VS: T 93.4, BP 156/60, HR 58 , RR 16, O2 % on
+Gen: elderly female, sedated, intubated, unresponsive.
+HEENT: Pupils 2mm, nonreactive.
+CV: RRR nl S1, S2, no m/r/g
+Chest: breath sound b/l
+Abd: soft, ND, no HSM
+Ext: 2+ R pedal edema, palpable DP and PT pulses b/l
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Pertinent Results:
+2008-02-15 00:00:00 02:46PM BLOOD WBC-7.4 RBC-3.00* Hgb-9.6* Hct-28.7*
+MCV-96 MCH-32.2* MCHC-33.6 RDW-15.1 Plt Ct-265
+2008-02-15 00:00:00 02:46PM BLOOD PT-12.2 PTT-25.8 INR(PT)-1.0
+2008-02-15 00:00:00 07:15PM BLOOD Glucose-216* UreaN-27* Creat-0.9 Na-141
+K-4.1 Cl-108 HCO3-22 AnGap-15
+2008-02-15 00:00:00 07:15PM BLOOD CK-MB-10 MB Indx-5.2 cTropnT-<0.01
+2008-02-15 00:00:00 06:00AM BLOOD CK-MB-9 cTropnT-0.02*
+2008-02-15 00:00:00 07:15PM BLOOD CK(CPK)-192*
+2008-02-15 00:00:00 06:00AM BLOOD CK(CPK)-131
+2008-02-15 00:00:00 04:10PM BLOOD ALT-12 AST-13 AlkPhos-41 TotBili-0.5
+2008-02-15 00:00:00 02:34AM BLOOD Calcium-8.8 Phos-4.1 Mg-2.6
+2008-02-15 00:00:00 09:55PM BLOOD calTIBC-226* VitB12-325 Ferritn-158*
+TRF-174*
+2008-02-15 00:00:00 04:10PM BLOOD TSH-0.80
+2008-02-15 00:00:00 04:10PM BLOOD Free T4-1.0
+2008-02-15 00:00:00 04:10PM BLOOD Cortsol-42.3*
+2008-02-15 00:00:00 02:46PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-14.5
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2008-02-15 00:00:00 02:48AM BLOOD Type-ART pO2-88 pCO2-35 pH-7.34*
+calTCO2-20* Base XS--5
+
+CXR:
+No priors available for comparison. Today's examination is
+markedly limited by low lung volumes causing crowding of the
+bronchovascular structures. The right hemidiaphragm is
+asymmetrically elevated in comparison to the left hemidiaphragm.
+There is marked distention of the stomach and abdominal bowel
+likely related to resuscitative effort. Slightly increased
+spacing between the gastric bubble and the left hemidiaphragm
+may suggest a component of subpulmonic effusion. There is an
+ill-defined retrocardiac opacity which may reflect atelectasis
+and/or sequelae of aspiration. Endotracheal tube terminates 4.7
+cm from the carina. The aorta is slightly ectatic and calcified
+and there is multilevel degenerative changes of the spine. No
+pneumothorax or large effusions are identified.
+
+IMPRESSION:
+
+1) Appropriately positioned endotracheal tube. Gaseous
+distention of stomach and bowel likely related to resuscitative
+efforts. NGT may be of benefit.
+
+2) Ill-defined retrocardiac opacity may represent atelectasis
+and/or sequelae from aspiration.
+
+CTA Torso:
+1. No etiology for acute arrest identified. No PE or aortic
+dissection. Mild dilatation of the right main pulmonary artery
+may suggest underlying pulmonary arterial hypertension.
+
+2. Moderate amount of secretions distal to the endotracheal tube
+within the trachea proximal to the carina may place the patient
+at risk for aspiration.
+
+3. Non-obstructive left renal calculi and simple left renal
+cyst.
+
+4. Incompletely characterized right adrenal lesion, likely
+benign on patient of this age. Hypoattenuating right thyroid
+lesion also likely benign in a patient's age.
+
+5. Cholelithiasis without evidence of acute cholecystitis.
+
+6. Extensive vasculopathy. Is there a history of diabetes?
+
+TTE:
+The left atrium is elongated. The interatrial septum is
+aneurysmal. Left ventricular wall thicknesses are normal. The
+left ventricular cavity is small. Left ventricular systolic
+function is hyperdynamic (EF 70-80%). Tissue Doppler imaging
+suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Trace aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. Trivial mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] The left ventricular inflow
+pattern suggests impaired relaxation. The tricuspid valve
+leaflets are mildly thickened. The supporting structures of the
+tricuspid valve are thickened/fibrotic. The pulmonary artery
+systolic pressure could not be determined. There is no
+pericardial effusion.
+
+EEG:
+ This is an abnormal EEG due to the existence of an active
+area of epileptogenesis in the left posterior frontal to
+anterior
+temporal region. Though this activity did not meet criteria for
+focal
+status epilepticus, there were periods of apparent
+electrographic
+seizures without evident clinical correlate. The presence of a
+slow and
+disorganized background is consistent with a moderate
+encephalopathy of
+toxic, metabolic, or anoxic etiology.
+
+CT C-SPINE W/O CONTRAST  2008-02-15 00:00:00 9:17 PM
+1. No fracture or malalignment is detected.
+2. Diffuse calcification of the transverse ligament adjacent to
+the dens causes severe canal narrowing and cord impingement. The
+thecal sac measures approximately 5 mm at this area.
+3. Hyperdense focus within the lower pole of pons and upper
+medulla, might represent intraparenchymal hemorrhage or
+cavernoma.
+4. Bilateral thyroid nodules which can be further evaluated on
+nonemergent basis.
+
+CT HEAD W/O CONTRAST  2008-02-15 00:00:00 9:15 PM
+SMALL INTRAVENTRICULAR HEMOORHAGE IN THE OCCIPITAL HORNS AND
+SMALL FOCUS OF HEMORRHAGE IN THE UPPER MEDULLA. HOWEVER, THE
+CAUSE OF THIS IS UNCERTAIN FROM THE PRESENT STUDY. A CLOSE
+FOLLOW-UP EXAMINATION OR MR HEAD WITHOUT AND WITH IV CONTRAST,
+WOULD BE HELPFUL.
+
+MRI HEAD/CSPINE 2008-02-15 00:00:00
+1-cm hemorrhagic non-enhancing lesion of the caudal medulla with
+expansion and edema. This finding may represent a hemorrhagic
+infarct versus a cavernoma. Given the findings on the concurrent
+MR cervical spine, a hemorrhagic infarct is favored. Hemorrhagic
+neoplasm is thought to be less likely given the lack of contrast
+enhancement and no prior history of cancer.
+Multiple extra-axial partially calcified enhancing masses as
+described above consistent with meningiomas.
+Intraventricular blood as before.
+
+
+Brief Hospital Course:
+The patient presented with syncope of unknown etiology, but
+likely secondary to ischemia/hemorrhage in her caudal medulla
+and also found to have cervical lesion and edema causing canal
+stenosis and compression. She was initially treated with cooling
+protocol due to possible cardiac arrest, but found to be in
+sinus rhythm. Patient was intubated and not breathing
+spontaneously. Initially, patient evaluated by CT head on 2008-02-15 00:00:00
+that showed no intracranial hemorrhage or mass. Unable to do MRI
+as patient with staples from prior meningioma surgery from
+2008-02-15 00:00:00. We did daily neurologic assessments to follow recovery
+s/p cooling protocol, showing patient was awake, sometimes
+tracking with her eyes, with some facial movements, but not
+moving any extremities. Repeat CT head/spine on 2008-02-15 00:00:00 showing
+multiple hemorrhages including a lesion in her caudal medulla
+and edema/mass around her cervical spine. Neurology was
+following and after speaking to neuroradiology, patient was
+deemed safe to have MRI evaluation. On 2008-02-15 00:00:00, patient evaluated
+by MRI which showed same findings. Read of MRI showing two
+hemorrhagic/ischemic lesions of the caudal medulla and cervical
+cord with severe cord compression. No indication for any
+surgical intervention per neurosurg and neurology.Patient
+trialed twice on PSV with no spontaneous respirations. One week
+after insult, family meeting arranged to discuss poor prognosis
+given lack of recovery and goals of care. Family made decision
+not to remove care but to place patient on spontaneous breathing
+trial without reinstating intubation.  The patient failed the
+the SBT and expired 8 minutes afterwards.
+
+
+Medications on Admission:
+Klonopin
+Insulin
+
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+
+Completed by:2008-02-15 00:00:00

@@ -1,0 +1,274 @@
+Admission Date:  2009-10-20 00:00:00              Discharge Date:   2009-10-20 00:00:00
+
+Date of Birth: 1924-10-20 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Aixa Catasus
+Chief Complaint:
+Transferred from OSH for management of CAD, PCI vs CABG
+
+Major Surgical or Invasive Procedure:
+2009-10-20 00:00:00 CABG x 4
+
+
+History of Present Illness:
+This is a 58 year old male with a history of hypertension, type
+II DM, hyperlipidemia, chronic renal insufficiency, and
+polysubstance abuse who presents from an OSH s/p cardiac cath
+for further management of his coronary disease. Per report from
+UPMCE, Mr. Bobbitt was admitted on 2009-10-20 00:00:00 with
+epigastric discomfort that subsequently developed into chest
+pain radiating to the jaw and left shoulder. Per the patient, he
+has been having intermittent abdominal pain associated with
+nausea and vomitting for approximately 2.5 weeks to 1 month. The
+abdominal pain is in the epigastrium, not associated with eating
+or with position and is non-radiating. The abdominal pain has
+resolved since being in the hospital.
+.
+On the evening of 2009-10-20 00:00:00, he reports that his abdominal pain,
+was accompanied by 8 out of 10 substernal chest pain. The chest
+pain radiated to his jaw and left shoulder. This pain lasted for
+approximately 1 hour and resolved in the ED at UPMCE. He
+does not recall 123 Any St.itating factors for this chest pain. But
+does report that his roommate informed him that he had "passed
+out" for an unknown period of time on this same evening. The
+patient does not recall this event.
+.
+At UPMCE, he was found to have a Utox positive
+for cocaine and benzos. From review of records, his cardiac
+markers were negative x 1, and it is unknown whether there were
+any EKG changes. Per report, he was advised to undergo a cardiac
+cath, but the patient was initially reluctant, until today, the
+patient finally became agreeable to the procedure. On cardiac
+cath at UPMCE, he was found to have 95% RCA, 90% LAD, and
+90% LCx disease. He was transferred to UPMCE for further
+management of his coronary disease, originally for plans for
+PCI.
+.
+On arrival to the UPMCE cath holding area, he reported having
+5/10 chest pain. He was given SL NTG x 2, lopressor IV 5 mg x 1,
+and NTG gtt. He became hypotensive to SBP 60s and was given IVF
+NS 400cc which brought up his blood pressure to SBP 130s. He was
+restarted on NTG gtt for persistent chest pain. No EKG findings
+noted at the time. Per evaluation by Dr. Aixa Catasus, he was
+transferred to the CCU with plans for CABG. He currently denies
+chest pain. He does report that he has 2009-10-20 00:00:00 diffuse HA that
+started earlier today since being started on the nitro gtt.
+.
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+
+Past Medical History:
+Hypertension
+Insulin dependent diabetes mellitus
+Hyperlipidemia
+Cocain abuse
+Tobacco abuse
+Chronic Renal Insufficiency (Cr 1.3 to 1.5 at baseline)
+GERD
+"Stomach ulcers"
+
+
+Social History:
+He currently lives with a friend, is unemployed. He smokes 2009-10-20 00:00:00
+PPD to 2 PPD x 40 years, reports active cocaine use (he last
+used 2 weeks ago), has been drinking ETOH "more than usual"
+since his wife's death, he reports "blacking out" from ETOH
+binges, but denies history of seizures or DTs from withdrawl.
+0/4 CAGE questionnaire. He denies IVDA.
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.
+
+Physical Exam:
+VS: T 96.9 , BP 165/95 , HR 61 , RR 16 , O2 100 % on 2 L NC
+Gen: WDWN middle aged male in NAD, resp or otherwise. Oriented
+x3. Mood appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple, JVP flat.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No S4, no S3.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheeze,
+rhonchi.
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Ext: No c/c/e. No femoral bruits. Right groin cath site with
+dressing dry and in tact.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 1+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+
+
+Pertinent Results:
+CAROTID SERIES COMPLETE  2009-10-20 00:00:00 2:19 PM
+IMPRESSION: No significant ICA or CCA stenosis bilaterally
+.
+CHEST (PRE-OP PA & LAT)  2009-10-20 00:00:00 10:08 AM
+The lungs are clear. There is minimal bilateral apical pleural
+thickening. There is no pneumothorax. The cardiac silhouette and
+pulmonary vasculature are within normal limits.
+IMPRESSION: No acute cardiopulmonary process.
+.
+TTE 2009-10-20 00:00:00 at 10:16:08 AM
+The left atrium is normal in size. Left ventricular wall
+thickness, cavity size, and systolic function are normal
+(LVEF>55%). There is mild focal hypokinesis of the mid
+infero-lateral segment. Right ventricular chamber size and free
+wall motion are normal. The aortic root is mildly dilated at the
+sinus level. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion. Trace aortic regurgitation
+is seen. The mitral valve appears structurally normal with
+trivial mitral regurgitation. Torn mitral chordae are present.
+The estimated pulmonary artery systolic pressure is normal.
+There is no pericardial effusion.
+.
+PFTs:
+WNL
+
+CHEST (PA & LAT)  2009-10-20 00:00:00 8:20 AM
+Two views. Comparison with 2009-10-20 00:00:00. A slight interval change in
+streaky density of the left base consistent with subsegmental
+atelectasis. No pleural fluid is identified. The right lung
+remains clear. The patient is status post median sternotomy and
+CABG as before. There is a homogenous density in the
+retrosternal space consistent with postsurgical change. The bony
+thorax is grossly intact.
+
+IMPRESSION: Mild subsegmental atelectasis left base. No pleural
+effusion is identified. Post-surgical change in the mediastinum.
+
+2009-10-20 00:00:00 10:55AM BLOOD Hct-30.6*
+2009-10-20 00:00:00 07:15PM BLOOD WBC-10.5 RBC-3.17* Hgb-9.9* Hct-28.5*
+MCV-90 MCH-31.3 MCHC-34.9 RDW-14.1 Plt Ct-285
+2009-10-20 00:00:00 09:00PM BLOOD WBC-7.2 RBC-4.15* Hgb-12.6* Hct-36.5*
+MCV-88 MCH-30.4 MCHC-34.6 RDW-13.8 Plt Ct-257
+2009-10-20 00:00:00 07:15PM BLOOD Plt Ct-285
+2009-10-20 00:00:00 12:20PM BLOOD PT-13.3* PTT-35.4* INR(PT)-1.2*
+2009-10-20 00:00:00 09:00PM BLOOD PT-12.7 PTT-25.4 INR(PT)-1.1
+2009-10-20 00:00:00 09:00PM BLOOD Plt Ct-257
+2009-10-20 00:00:00 10:55AM BLOOD Glucose-172* UreaN-27* Creat-1.4* Na-140
+K-4.5 Cl-99 HCO3-31 AnGap-15
+2009-10-20 00:00:00 07:15PM BLOOD Glucose-277* UreaN-27* Creat-1.6* Na-135
+K-4.4 Cl-96 HCO3-28 AnGap-15
+2009-10-20 00:00:00 02:18AM BLOOD Glucose-109* UreaN-16 Creat-1.2 Na-138
+K-4.4 Cl-101 HCO3-27 AnGap-14
+2009-10-20 00:00:00 02:30PM BLOOD Glucose-152* UreaN-19 Creat-1.0 Na-139
+K-4.3 Cl-104 HCO3-26 AnGap-13
+2009-10-20 00:00:00 02:30PM BLOOD ALT-18 AST-14 CK(CPK)-63 AlkPhos-139*
+Amylase-54 TotBili-0.3 DirBili-0.1 IndBili-0.2
+
+Brief Hospital Course:
+He continued to be chest pain free, but was kept on the heparin
+gtt until surgery.
+For his history of Abdominal pain/history of "ulcers, he refused
+stool guaiac, but GI consultation was obtained which showed that
+the patient had no current need for endoscopy.  Tox screen for
+cocaine was negative, and he was seen by addiction services and
+social work.
+He was taken to the operating room on 2009-10-20 00:00:00 where he underwent a
+CABG x 4. He was transferred to the ICU in critical but stable
+condition. He was extubated later that same day. He was
+transferred to the floor on POD #2. He did well postoperatively
+and was ready for discharge home on POD 5.
+
+Medications on Admission:
+ASA 325
+Diltiazem 120
+Lopid 600 UPMCE
+Protonix 40
+Lantus 50 qhS
+Lexapro 10
+Ativan prn
+Ambien 10 qhs
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+8. Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+9. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+10. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+11. Lantus 100 unit/mL Solution Sig: Fifty (50) units
+Subcutaneous at bedtime.
+Disp:*QS 1 month* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Home Health Care Agency
+
+Discharge Diagnosis:
+primary:
+3 vessel coronary artery disease
+
+Secondary:
+cocaine dependence
+hypertension
+diabetes
+renal insufficiency
+GERD
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions,creams or powders to incisions.
+No heavy lifting or driving until follow up with surgeon.
+
+
+Followup Instructions:
+Dr. Bobbitt 2 weeks
+Dr. Aixa Catasus 4 weeks
+
+
+
+Completed by:2009-10-20 00:00:00

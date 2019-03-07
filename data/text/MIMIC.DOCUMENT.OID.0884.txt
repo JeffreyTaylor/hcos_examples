@@ -1,0 +1,233 @@
+Admission Date:  2009-02-09 00:00:00              Discharge Date:   2009-02-09 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Johni Hudd
+Chief Complaint:
+Fatigue
+
+Major Surgical or Invasive Procedure:
+Tranfusion of 2 units of packed red blood cells
+
+
+History of Present Illness:
+88 yo M PMH of pancreatic CA, no recent tx, in clinic for
+survaillence CT scan (which showed no change) mentioned that he
+was tired to his oncologist, hct was 18.8 down from 28 in
+2009-02-09 00:00:00, sent to ED for eval.
+
+In the ED, vitals on presentation were T 97.7 BP 153/65 HR 70 RR
+24 97%RA. On exam, he had no stool in rectal vault, but mucous
+was guaiac (+). NG lavage negative. 2u pRBC ordered, but not yet
+hung. He was given Protonix 40 mg IV x 1.
+
+On transfer to unit, patient reports a 2 month history of
+progressive DOE, now SOB when he walks to the bathroom. Was able
+to walk a city block and work in his garden over the summer.
+Denies PND, no orthopnea. No increased lower extremity edema -
+has chronic on L side from vein harvest for CABG. Denies any
+BRBPR, stool is always black as he is on iron, but no sticky
+stool suggestive of melena. Occasionally has blood on toilet
+paper when he wipes, but nothing that has turned the toilet bowl
+red. Denies any hematemesis, no hemoptysis.
+
+ROS: The patient denies any fevers, chills, weight change,
+nausea, vomiting, abdominal pain, diarrhea, constipation,
+melena, hematochezia, chest pain, PND, cough, urinary frequency,
+urgency, dysuria, gait unsteadiness, focal weakness, vision
+changes, headache, rash or skin changes.
+
+
+Past Medical History:
+# Pancreatic CA localized to pancreatic tail s/p cyber knife
+therapy, deemed a poor surgical candidate
+# Anemia - Chronic GI bleed with recent hospitalization 2009-02-09 00:00:00
+
+# Coronary artery disease status post coronary artery bypass
+graft in 2009-02-09 00:00:00, left internal mammary coronary artery to left
+anterior descending coronary artery, saphenous vein graft to
+posterior descending coronary artery, saphenous vein graft to
+D1/OM1
+# Noninsulin dependent diabetes mellitus
+# Status post cholecystectomy
+# Hypertension
+# Hypercholesterolemia
+
+
+Social History:
+Positive tobacco times thirty five pack years. Quit
+approximately twenty years ago.  Lives with wife.  Retired from
+UPMCE.  Rare EtOH, no drugs.
+
+
+Family History:
+No history of colon CA.
+
+Physical Exam:
+On Presentation:
+
+Vitals: T: 98.1 BP:125/65 HR:78 RR:15 on 2l nc
+GEN: Well-appearing, well-nourished, no acute distress
+HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or
+rhinorrhea, MMM, OP Clear. Pale conjunctiva, pale oral mucosa
+NECK: No JVD no cervical lymphadenopathy, trachea midline
+COR: regular rate, soft SEM at RUSB.
+PULM: Lungs CTAB, no W/R/R
+ABD: Obese, Soft, NT, ND, +BS, no HSM, no masses
+EXT: 1+ pitting edema of LLE. 2+ distal pulses
+NEURO: alert, oriented to person, place, and time. CN II ?????? XII
+grossly intact. Moves all 4 extremities. Strength 5/5 in upper
+and lower extremities.
+SKIN: Pale. Scattered sebhorric keratosis, delayed capillary
+refill
+
+
+Pertinent Results:
+DISCHARGE LABS:
+-2009-02-09 00:00:00 02:55PM BLOOD Hct-24.0*
+-2009-02-09 00:00:00 04:42AM BLOOD Glucose-110* UreaN-30* Creat-1.4* Na-140
+K-4.6 Cl-109* HCO3-22 AnGap-14
+
+IMAGING: CT ABD with contrast;
+1. Slight decrease in size of rim-enhancing but mostly necrotic
+pancreatic
+tail neoplasm with fiducial seeds. No evidence of progression
+here.
+
+2. Interval development of significant bibasilar
+peribronchovascular axial
+interstitial and peripheral interstitial thickening in the
+context of
+enlarging pleural effusions and focal nodularity. These findings
+in the lung bases are incompletely assessed but have
+significantly changed from 2009-02-09 00:00:00 and all prior
+examinations. While they could be infectious, more sinister lung
+disease, specifically lymphangitis carcinomatosis is not
+excluded.Correlation with symptoms recommended:If the patient
+has infectious symptomology then these are probably not too
+concerning but if there are no symptoms then a formal HRCT chest
+should be performed to further evaluate.
+
+
+Brief Hospital Course:
+88 yo M with PMH of pancreatic CA, CAd s/p CABG, DM, who
+presents with acute on chronic anemia, guaiac (+) in ED, hct of
+18.8 in clinic, VSS. Transferred to ICU for acute GI bleed.
+Refused EGD.  Received 2 units pRBC with rise of hct to 24.
+Discharged in stable condition with plans for hct follow up as
+outpatient.
+
+# GIB: Sub-acute in nature given prior history. Baseline is high
+30's. Was likely lower as NG lavage negative. He does have a
+number of possible sources of bleeding both upper and lower -
+diverticulosis, polyps, hemorrhoids, or bleeding from cyber
+knife treatment. His last colonoscopy in 2009-02-09 00:00:00 shouwed internal
+hemorrhoids and a polyp that was removed. He has been recent
+hospitalized in 2009-02-09 00:00:00 for similar presentation.  Refused EGD.
+Transfused 2 units pRBC with hct rise to 24.  Discharged in
+stable condition with GI follow up and scheduled EDG.
+Instructed to have follow up hct on 2009-02-09 00:00:00.
+
+# Fatigue: Patient reported significant fatigue, very likely 2009-02-09 00:00:00
+acute on chronic anemia.  Treated and worked up as above.
+
+# Pancreatic CA localized to pancreatic tail: s/p cyber knife
+therapy x3. deemed a poor surgical candidate. CT scan today
+showed no worsening.  Not actively managed while in-patient.
+Has follow up with priamry oncolgist.
+
+# CAD s/p coronary artery bypass: Held BP meds and ASA given
+bleed.  Restarted on discharge.
+
+# Noninsulin dependent diabetes mellitus: Covered with SSI and
+discharged on home glyburide.
+
+# Hypertension:  BP meds held gived GIB and restarted on
+discharge.
+
+# Hypercholesterolemia: Continued home statin.
+
+
+Medications on Admission:
+Atenolol 25 mg PO daily
+Lasix 20 mg PO 2X/week
+Zocor 40 mg PO daily
+Omeprazole 20 mg PO daily
+Cozaar 25 mg PO daily
+Compazine 10 mg PO PRN nausea
+Imdur 30 mg PO daily
+Glyburide 2.5 mg PO daily
+Nitro SL PRN
+Iron 325 mg PO TID
+
+
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+4. Cozaar 25 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Imdur 30 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+6. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a week.
+7. Iron (Ferrous Sulfate) 325 mg (65 mg Iron) Tablet Sig: One
+(1) Tablet PO three times a day.
+8. Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet
+Sublingual as needed as needed for chest pain: call 911 if you
+need more than 2 doses.
+10. Outpatient Lab Work
+Please have you Hematocrit (Hct) checked on 2009-02-09 00:00:00.
+
+Please have the results called in to your PCP, Alden. Angula
+Alden (2009-02-09 00:00:00
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+chronic blood loss anemia requiring transfusion
+pancreatic cancer s/p XRT
+coronary artery disease s/p coronary bypass grafting
+diabetes mellitus
+
+
+Discharge Condition:
+fair; hemodynamically stable, eating, walking
+
+
+Discharge Instructions:
+You were admitted for anemia from chronic bleeding into the GI
+tract. Your hematocrit was 18 on arrival, and you were
+transfused 2 units of blood. GI consult saw you, and discussed
+performing an EGD (you did not have hematochezia, so colonoscopy
+was not deemed necessary), but you declined to have the
+procedure done during this admission. As this was not urgent,
+due to the chronicity of the bleeding, we have scheduled this
+for you as an outpatient.
+
+Please follow up with all of your appointments.
+
+Please have you blood level (Hematocrit) checked on 2009-02-09 00:00:00.
+Have the results called in to Dr. Johni Hudd
+(2009-02-09 00:00:00.
+
+Followup Instructions:
+Gastroenterology (GI Doctors) for endoscopy:
+Provider: Angula Alden Alden, MD Phone:test@mail.com
+Date/Time:2009-02-09 00:00:00 9:00
+Provider: Angula Alden ROOM 9 (ST-3) GI ROOMS Date/Time:2009-02-09 00:00:00 9:00
+-- procedure will start at 9, please arrive by 8:00am. Call
+test@mail.com for directions.
+
+Keep the following, 123 Any St.usly scheduled appointments:
+Provider: Angula Alden SCAN Phone:test@mail.com Date/Time:2009-02-09 00:00:00 11:00
+
+
+

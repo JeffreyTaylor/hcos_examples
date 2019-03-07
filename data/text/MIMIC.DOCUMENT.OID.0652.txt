@@ -1,0 +1,98 @@
+Admission Date:  2009-05-03 00:00:00       Discharge Date:  2009-05-03 00:00:00
+
+Date of Birth: 1945-10-07 00:00:00 00:00:00       Sex:  F
+
+Service:  GEN Eidan Balhorn
+
+ADMITTING DIAGNOSIS:
+1.  Pancreatic mass.
+
+DISCHARGE DIAGNOSES:
+1.  Pancreatic mass.
+
+PROCEDURES DURING ADMISSION:
+1.  Exploratory laparotomy, lysis of adhesions and
+enucleation of a neuro-endocrine pancreatic mass.
+
+HISTORY OF PRESENT ILLNESS:   The patient is a 77 year old
+female who presents with a history of a benign pancreatic
+mass, which causes her significant abdominal pain.  The
+patient presents electively to have this resected.
+
+PAST MEDICAL HISTORY:
+1.  Diabetes mellitus.
+2.  Increased cholesterol.
+3.  Idiopathic hypertrophic subaortic stenosis with an
+echocardiogram 2009-05-03 00:00:00, revealing an ejection fraction of
+greater than 55%.
+
+PAST SURGICAL HISTORY:
+1.  Pancreatic resection in 2009-05-03 00:00:00.
+
+ALLERGIES:   No known drug allergies.
+
+MEDICATIONS:
+1.  Aspirin.
+2.  Atenolol 125 mg p.o. twice a day.
+3.  Hydrochlorothiazide 25 mg p.o. q. day.
+4.  Zestril 40 mg p.o. q. day.
+5.  Prilosec 20 mg p.o. q. day.
+6.  Verapamil 240 mg p.o. twice a day.
+
+PHYSICAL EXAMINATION:  On examination the patient is awake
+and alert in no apparent distress.  Her heart is regular rate
+and rhythm, S1, S2.  Her lungs are clear to auscultation
+bilaterally.  Abdomen soft.  She has a well healed midline
+scar.
+
+HOSPITAL COURSE:   The patient was admitted to the hospital
+on 2009-05-03 00:00:00, and taken to the Operating Room for
+enucleation of the pancreatic mass and lysis of adhesions.
+
+The patient tolerated the procedure well, however, in the
+Post Anesthesia Care Unit she was noted to be extremely
+somnolent.  A blood gas revealed a pCO2 of 104.  The patient
+was followed closely.  Given the fact that her blood gases
+did not improve and it was thought that she had been
+over-narcotized, the patient was electively intubated and
+transferred to the Intensive Care Unit for further
+monitoring.
+
+She remained hemodynamically stable the this event, however,
+her pH was significantly decreased, running from 7.04 to 7.1.
+The patient's course in the Surgical Intensive Care Unit was
+only notable for a transient rise in her liver function
+tests.  These, however, slowly trended down.
+
+The patient was extubated and her respiratory status remained
+good.  She was started on her outpatient cardiac medications.
+Her diet was fully advanced.
+
+On 2009-05-03 00:00:00, the patient was transferred from the Intensive
+Care Unit to the floor with intensive pulmonary toilet.  Her
+diet was advanced.  A drain amylase was checked and revealed
+a value of 3,724.  Value was rechecked.  This value trended
+down, however, given the fact that the patient was stable,
+her diet was advanced.  She was tolerating p.o.
+
+It was decided that she would be discharged home on her
+preoperative medications on 2009-05-03 00:00:00, in stable condition.
+
+She would also be discharged on:
+
+DISCHARGE MEDICATIONS:
+1.  Protonix 40 mg p.o. q. day.
+
+DISCHARGE INSTRUCTIONS:
+1.  She was told to follow-up with Dr. Alvi in the office
+and to call for a follow-up appointment.
+
+
+                            Eidan Balhorn, M.D.  21156
+
+Dictated By:Eidan Balhorn
+MEDQUIST36
+
+D:  2009-05-03 00:00:00  13:21
+T:  2009-05-03 00:00:00  16:01
+JOB#:  21156

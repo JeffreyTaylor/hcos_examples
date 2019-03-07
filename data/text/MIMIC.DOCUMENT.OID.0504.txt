@@ -1,0 +1,761 @@
+Admission Date:  2010-02-28 00:00:00              Discharge Date:   2010-02-28 00:00:00
+
+Date of Birth: 1950-12-09 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Losartan / Aspirin / Lisinopril-Hctz
+
+Attending:Adenn Barthelette
+Chief Complaint:
+aspiration, hypoxia
+
+
+Major Surgical or Invasive Procedure:
+Multi123 Any St.tubations
+Nasogastric tube
+Left internal jugular central line
+PEG tube placed and replaced
+
+
+History of Present Illness:
+This is a 69 year old bedbound Somalian speaking only woman well
+known to UPMCE with end stage renal disease on hemodialysis,
+diabetes mellitus type 2, chronic hyponatremia, history of
+pulmonary embolus on coumadin and recent admissions to ICU with
+enterobacter/klebsiella/pseudomonas bacteremia who presents from
+rehab with hypoxia and decreased responsiveness in setting of
+apparent aspiration. Events at rehab unclear but during
+hemodialysis, patient desatted to 74%. Apparently a code was
+called but event details not known. Pt was suctioned which
+produced "thick yellow sputum and vomit". Concern of MD at that
+time was of mucus plug verse aspiration. Pt placed on
+nonrebreather and transferred to UPMCE. Pt unable to give
+detailed history given baseline mental status. Son says patient
+has not been feeling right since yesterday. Reports decreased PO
+in setting of abdominal pain and nausea/vomitting. Of note
+patient is a known chronic aspirator with history of failed
+multiple speech and swallow evals. Patient's family aware, yet
+continues to take PO despite inherent risks because patient
+refusing tube feeds. Per son, patient without specific complaint
+and she looks much improved than earlier in the day.
+.
+Patient was discharged from UPMCE 2 days prior to admission
+after being admitted with fevers and hypotension. Initially
+started on meropenum/linezolid in the ICU and then narrowed to
+meropenum for which she is currently com123 Any St.g a 7 day course
+(day 2). Blood culture data negative. Tagged WBC scan with
+uptake in femor:? osteo vs healing fracture. Needed MRI for
+further eval but given poor surgical candidate opted for medical
+treatment.
+.
+ED Course: Initially hypotensive but responded to 1.5 liters
+intravenous fluid. 100% on nonrebreather. Received Levo/Flagyl.
+
+Past Medical History:
+1. Type 2 diabetes mellitus
+2. Diabetic nephropathy resulting in ESRD for which she is on
+HD Mon, Wed, and Fri.
+3. Status post left femur fracture
+4. Hyponatremia
+5. Hypercholesterolemia
+6. Unsteady gait
+7. Cataracts
+8. Back pain
+9. Hypertension
+10.Anemia of chronic disease
+11. S/P L shoulder hemiarthroplasty following a left humeral
+fracuture in 2010-02-28 00:00:00- Course was complicated by a PEA arrest
+secondary to PE. 2010-02-28 00:00:00 new humerus fracture
+12. PE 2010-02-28 00:00:00 leading to PEA arrest
+13. Hospitalization 2010-02-28 00:00:00 for Sepsis (negative work-up) treated
+
+empricially with Vanc
+14. h/o C-diff 2010-02-28 00:00:00, Urine citrobacter (tx w/Cipro)
+
+Social History:
+Lives with son who is very involved and well informed regarding
+her care needs. Non-smoker. No alcohol. Patient most recently at
+UPMCE Rehab prior to transfer here. Patient has family members
+at the bedside 24 hours per day.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals
+- ED: 100.4 (rectal) BP 90/47 HR 102 RR 24 O2sat 100%NRB
+- MICU: 98.7, 141/38, 33, 100% FM
+.
+GEN: comfortable, opens eyes
+HEENT: perrl, anicteric, OP clear
+Neck: supple, no LAD, no JVD
+Chest: diffuse rhonci bilaterally ant and laterally.
+CVR: RR, tachy, nl S1, S2, no M/R/G
+ABD: obese, soft, NT/ND, hypoactive BS
+Rectal (ED): guaiac negative
+EXT: Left UE in sling. 3+ pitting edema in LUE, RUE with 1+
+edema. Bilaterally lower extremities with 2+ edema L>R. Left DP
+palp, Right DP dopp.
+Neuro: Awake and alert, opens eyes in response to voice. Speaks
+with son -> answers some ?'s correctly others not. Not oriented.
+
+Skin: chronic changes, cool/dry
+LINES: R tunnelled chest HD line without erythema or tenderenss.
+Left IJ
+
+
+Pertinent Results:
+Labs on admission:
+GLUCOSE-158* UREA N-14 CREAT-2.5* SODIUM-145 POTASSIUM-4.0
+CHLORIDE-111* TOTAL CO2-26 ANION GAP-12 CALCIUM-7.7*
+UPMCE-2.4* MAGNESIUM-2.1
+.
+WBC-18.5*# RBC-3.21* HGB-10.3* HCT-31.9* MCV-100* MCH-32.1*
+MCHC-32.2 RDW-21.2*
+NEUTS-77.7* LYMPHS-14.0* MONOS-3.5 EOS-4.2* BASOS-0.6
+HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+ MACROCYT-NORMAL
+MICROCYT-NORMAL POLYCHROM-1+ OVALOCYT-1+.
+PT-19.1* PTT-38.5* INR(PT)-2.6
+.
+FDP-40-80 FIBRINOGE-486* D-DIMER-5648*
+.
+ALT(SGPT)-9 AST(SGOT)-23 LD(LDH)-449* CK(CPK)-39 ALK PHOS-135*
+AMYLASE-19 TOT BILI-0.3 LD(LDH)-391* LIPASE-12 ALBUMIN-2.2*
+.
+2010-02-28 00:00:00 05:48PM   CK-MB-3 cTropnT-0.78*
+2010-02-28 00:00:00 12:40PM   CK(CPK)-35 cTropnT-0.71*
+.
+2010-02-28 00:00:00 10:00AM URINE Color-Yellow Appear-Cloudy Sp Lafon-1.014
+Blood-MOD Nitrite-NEG Protein-30 Glucose-TR Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-MOD RBC-0 WBC->50
+Bacteri-MOD Yeast-NONE Epi-0
+.
+2010-02-28 00:00:00 07:23PM URINE Color-Yellow Appear-Cloudy Sp Lafon-1.014
+Blood-MOD Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-MOD RBC->50 WBC->50
+Bacteri-MOD Yeast-MOD Epi-2010-02-28 00:00:00 CastHy-2010-02-28 00:00:00*
+.
+2010-02-28 00:00:00 05:30AM URINE Color-Yellow Appear-Hazy Sp Lafon-1.025
+Blood-LG Nitrite-POS Protein->300 Glucose-NEG Ketone-TR
+Bilirub-SM Urobiln-1 pH-8.0 Leuks-SM
+.
+URINE CULTURE 2010-02-28 00:00:00: YEAST.    >100,000 ORGANISMS/ML..
+.
+.
+2010-02-28 00:00:00 9:59 am URINE      CATHETER.
+   URINE CULTURE (Final 2010-02-28 00:00:00):
+      YEAST.    >100,000 ORGANISMS/ML..
+      GRAM NEGATIVE ROD(S).    ~1000/ML.
+      GRAM POSITIVE COCCUS(COCCI).    ~1000/ML.  SUGGESTING
+ENTEROCOCCI.
+.
+.
+2010-02-28 00:00:00 9:59 am SWAB      Source: right leg wound.
+   GRAM STAIN (Final 2010-02-28 00:00:00):
+      THIS IS A CORRECTED REPORT 2010-02-28 00:00:00.
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      123 Any St.USLY REPORTED AS.
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   YEAST(S) 2010-02-28 00:00:00.
+   WOUND CULTURE (Final 2010-02-28 00:00:00):
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+         OF THREE COLONIAL MORPHOLOGIES.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+ _________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------    16 I
+CEFTAZIDIME-----------    32 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------  =>16 R
+MEROPENEM-------------     4 S
+PIPERACILLIN----------    64 S
+PIPERACILLIN/TAZO-----    16 S
+TOBRAMYCIN------------  =>16 R
+.
+.
+2010-02-28 00:00:00 12:02 am STOOL     CONSISTENCY: SOFT
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final 2010-02-28 00:00:00):
+      REPORTED BY PHONE TO [**First Name5 (NamePattern1) 1503**] Lafon @ 12:50 ON 2010-02-28 00:00:00.
+      CLOSTRIDIUM DIFFICILE.
+         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+.
+.
+2010-02-28 00:00:00 6:19 pm BLOOD CULTURE      PICC LINE.
+   AEROBIC BOTTLE (Final 2010-02-28 00:00:00):    NO GROWTH.
+   ANAEROBIC BOTTLE (Final 2010-02-28 00:00:00):
+      REPORTED BY PHONE TO [**Doctor First Name **],[**Doctor Last Name 4116**] -CC7A- @ 12:30 2010-02-28 00:00:00.
+      ENTEROCOCCUS FAECALIS.    FINAL SENSITIVITIES.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             ENTEROCOCCUS FAECALIS
+                             |
+AMPICILLIN------------   <=2 S
+CHLORAM123 Any St.OL-------   <=4 S
+LEVOFLOXACIN----------   =>8 R
+LINEZOLID-------------     2 S
+PENICILLIN------------     2 S
+VANCOMYCIN------------  =>32 R
+.
+.
+2010-02-28 00:00:00 10:45 pm CATHETER TIP-IV      Source: R-PICC line.
+   WOUND CULTURE (Final 2010-02-28 00:00:00):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    <15 colonies.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    <15 colonies.  2ND
+MORPHOLOGY.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |          STAPHYLOCOCCUS,
+COAGULASE NEGATIVE
+                             |          |
+CLINDAMYCIN-----------     1 I   <=0.25 S
+ERYTHROMYCIN----------<=0.25 S   <=0.25 S
+GENTAMICIN------------  =>16 R    <=0.5 S
+LEVOFLOXACIN----------   =>8 R   <=0.12 S
+OXACILLIN-------------     4 R   <=0.25 S
+PENICILLIN------------     4 R    =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------     2 S
+VANCOMYCIN------------   <=1 S
+.
+.
+2010-02-28 00:00:00 11:22 am BLOOD CULTURE      LINE: PICC.
+   AEROBIC BOTTLE (Final 2010-02-28 00:00:00):    NO GROWTH.
+   ANAEROBIC BOTTLE (Final 2010-02-28 00:00:00):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    FINAL
+SENSITIVITIES.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------     1 I
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------  =>16 R
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------     1 R
+PENICILLIN------------     4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------       S
+VANCOMYCIN------------   <=1 S
+.
+.
+STUDIES:
+2010-02-28 00:00:00 Radiology PERC G/G-J TUBE PLMT
+.
+.
+G/GJ TUBE CHECK  2010-02-28 00:00:00: GJ-tube with the tip terminating in
+jejunum, without evidence of obstruction or leak.
+.
+.
+ECHO 2010-02-28 00:00:00: No thrombus is seen in the left atrial appendage.
+No mass or thrombus is seen in the right atrium or right atrial
+appendage. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There are simple atheroma in the aortic arch. There are simple
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets are mildly thickened. No masses or vegetations are seen
+on the aortic valve. Mild to moderate (2010-02-28 00:00:00+) aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. No mass or vegetation
+is seen on the mitral valve. There is no pericardial effusion.
+.
+.
+[**Numeric Identifier 4117**] CENTRAL TUNNELED W/O PORT  2010-02-28 00:00:00 2:49 PM
+Reason: change old tunnelled HD line to new tunnelled HD line.
+send
+Successful replacement of a 24 cm hemodialysis catheter through
+preexisting subcutaneous tunnel over the wire. The catheter is
+ready to use.
+The tip of the preexisting catheter was sent for culture.
+.
+.
+VIDEO OROPHARYNGEAL SWALLOW  2010-02-28 00:00:00 2:14 PM
+Marked decreased oral motion was identified. Premature spillover
+of contrast was seen with thin consistencies. This was seen with
+a significant swallow delay. There is also reduced laryngeal
+elevation with normal epiglottic deflection. Penetration was
+seen with thin liquids although no aspiration was identified.
+.
+Limited evaluation of the esophagus was performed during the
+study. No significant holdup of contrast is seen as it passed
+through the esophagus. Numerous tertiary contractions of the
+esophagus were seen. Small amount of reflux was also identified
+of contrast in the distal esophagus. No extrinsic or intrinsic
+anatomic abnormalities were identified on this limited
+esophageal study.
+.
+.
+ART EXT (REST ONLY)  2010-02-28 00:00:00 3:28 PM
+Reason: please do ABIs, PVRs, assess for arterial supply
+pre-debride
+70 year old woman with bilateral lower extremity ulcers over
+calves
+REASON: Leg ulcer.
+FINDINGS: Limited Doppler evaluation was performed of both lower
+extremities. At both the ankle levels all waveforms are
+monophasic. On the right, the ABI is 0.6. On the left it is
+0.44. Pulse volume recordings are dampened starting at the low
+thigh level and are essentially flat line at both the
+metatarsals.
+IMPRESSION: Significant flow deficit to both lower extremities.
+The exact location of arterial disease cannot be determined by
+the study, but it appears to be multisegmental.
+.
+.
+TIB/FIB (AP & LAT) BILAT  2010-02-28 00:00:00: Four views of the left tibia
+and fibula were obtained. There is marked diffuse osteopenia and
+mottled appearance of the diaphyses of the mid tibia and fibula.
+No definite cortical destruction is identified. There is diffuse
+edema of the leg.
+.
+.
+UNILAT UP EXT VEINS US LEFT  2010-02-28 00:00:00: Thrombosis of left AV
+fistula graft. The basilic vein, axillary vein, subclavian vein
+and internal jugular veins are patent.
+.
+.
+[**Numeric Identifier 4118**] PERC PLCMT GASTROMY TUBE  2010-02-28 00:00:00: Successful placement
+of a gastrojejunostomy tube with the tip in the proximal jejunum
+.
+.
+CTA CHEST W&W/O C &RECONS  2010-02-28 00:00:00:
+1. No pulmonary embolism involving the main pulmonary arteries
+or segmental branches, although the subsegmental branches are
+not well evaluated due to body habitus and patient motion
+throughout the examination.
+2. Severe tracheobronchomalacia, which may be related to the
+patient's symptoms. In regions, the trachea diameter appears
+essentially obliterated. The left lower lobe bronchus is also
+virtually obliterated in our imaging series.
+3. Volume loss of both lower lobes, partially atelectasis, and
+partially which may be chronic.
+.
+.
+CT HEAD W/O CONTRAST  2010-02-28 00:00:00: No acute intracranial pathology
+including no evidence of intracranial hemorrhage or mass effect.
+No change from prior study 2010-02-28 00:00:00.
+.
+.
+EKG 2010-02-28 00:00:00:
+Sinus tachycardia
+Poor R wave progression - probable normal variant
+Low QRS voltages in precordial leads
+Nonspecific ST-T abnormalities
+Since 123 Any St.us tracing of 2010-02-28 00:00:00, no significant change
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+114 118 68 322/389.71 52 2 54
+.
+.
+CHEST (SINGLE VIEW)  2010-02-28 00:00:00: No acute process or change.
+
+Brief Hospital Course:
+Briefly, this is a 69 year old bedbound Somalian speaking only
+woman with endstage renal disease on hemodialysis, diabetes
+mellitus type 2, chronic hyponatremia, history of pulmonary
+embolus on coumadin, history of enterobacter/klebsiella
+bacteremia (2010-02-28 00:00:00), klebsiella and pseudomonas UTI (2010-02-28 00:00:00) who
+presents status post hypoxia and hypotensive episode.
+.
+.
+*. Hypoxia: Patient was admitted with hypoxic episode thought to
+be secondary to aspiration versus mucous plug.  She was brought
+to UPMCE and placed on a nonrebreather and was admitted to the
+MICU. Initially she was hypotensive but responded to IVFs.
+Chest x-ray did not show a pneumonia and CTA was done which did
+not show evidence of PE but did show some tracheobronchomalacia,
+which could have caused the patient's symptoms.  At that time,
+she was not intubated.  She was a known aspirator who had failed
+multiple speech and swallows in the past.  In the MICU she was
+given tube feeds through an NG tube.  She was stable for the
+floor after several days and did well for some time on room air.
+ A PEG tube was placed for feeds so the patient could reduce her
+PO intake and risk of aspiration. Several bedside speech and
+swallow evaluations were done and recommended only small amounts
+of PO food for pleasure.  On 2010-02-28 00:00:00 the patient was noted to be
+less responsive and more tachypneic that improved with
+suctioning.  On 2010-02-28 00:00:00 the patient was noted to be hypoxic to
+63% on room air.  Chynia Lafon RN thought the patient had an episode of
+emesis prior to the event and food particles were removed with
+suctioning.  The patient was intubated and sent to the MICU at
+that time. She was extubated on 2010-02-28 00:00:00 and sent back to the
+floor on 2010-02-28 00:00:00.  She did well on the floor for a few days,
+though at times she appeared more tachypneic.  Multiple chest
+x-rays were done and showed no new infiltrates.  The patient's
+family wanted to continue feeding her, so a video swallow and
+esophagram was done.  It suggested the patient was at risk to
+aspirate thin liquids and was refluxing her food. She was
+already on lanszoprazole and reglan prior to this.  She was
+continued on aspiration precautions and allowed small volumes of
+food at a time.  Patient was subsequently transferred back to
+the MICU on 2010-02-28 00:00:00 given concern for new sepsis and
+hypercarbia.  She was noted to be febrile to 100.3, tachycardic
+to the 100s with a blood pressure of 77/40 on forearm.  When the
+cuff was moved to her upper arm, the blood pressure was found to
+be 120/60.  Respiratory rate was noted to be in the 40s, 98% on
+2L.  Chest x-ray was unchanged.  ABG 7.27/61/90 with a lactate
+of 1.4.  Hypercarbia was thought to be secondary to lethargy and
+confusion. However, Patient had received a liter of fluid on the
+floor and no sedative medications prior to new lethargy.
+Increased CO2 in the setting of tachypneia was thought to be
+attributed to either increased CO2 production from infection or
+worsening dead space ventilation.  Patient was intially started
+on vancomycin on 2010-02-28 00:00:00 and subsequently switched to linezolid and
+meropeneum for pseudmonas in leg wounds on 2010-02-28 00:00:00.  She was
+reintubated on 2010-02-28 00:00:00 for resp acidosis and successfully extubated
+without complications.  While on the floor, she was breathing
+comfortably and sat'ing in high 90's on room air. Patient was
+NPO and continued on tube feeds.
+.
+.
+*. Hypotension: Patient was hypotensive at admission and treated
+with IVFs.  She became hypotensive again at hemodialysis and was
+on pressors for one day.  She was weaned off pressors after
+fluid boluses.  She was on meropenem at admission and improved
+with fluid boluses so likely not sepsis.  Could have been
+secondary to hypovolemia or fluid shifts associated with HD.
+She was transferred to the floor and remained hemodynamically
+stable.  She completed a full 14 day course of meropenem and she
+was weaned off the steroids she had been started on in the MICU.
+Patient was subsequently stable and discharged to the floor.
+Patient was subsequently transferred back to the MICU on 2010-02-28 00:00:00
+given concern for new sepsis and hypercarbia.  She was noted to
+be febrile to 100.3, tachycardic to the 100s with a blood
+pressure of 77/40 on forearm.  When the cuff was moved to her
+upper arm, the blood pressure was found to be 120/60.
+.
+.
+*. Leukocytosis: Multiple sources of infection including coag
+neg Staph pansensitive, coag neg Staph oxacillin resistant and
+vancomycin resistant enterococcus from PICC line; C diff in
+stool and pseudamonas in LE wounds.  Considered PICC line,
+dialysis cath and leg wounds as sources of infection.  In
+addition, chronic urinary tract infections, aspiration pneumonia
+and c diff were also considerations. PICC line was removed on
+2010-02-28 00:00:00.  Hemodialysis catheter was changed over wire by IR on
+2010-02-28 00:00:00.  Patient finished 14 day course of flagyl on 2010-02-28 00:00:00 for C.
+diff.  Patient started on a 14 day course of linezolid (for VRE
+& Staph) and meropenem (for pseudamonas) on 2010-02-28 00:00:00.
+Transesophageal echo was negative for vegetations and was not
+suggestive of no endocarditis.  After resuming antibiotics
+patient remained hemodynamically stable and afebrile with
+downtrending WBC.
+.
+.
+*. Fevers: Patient spiked fevers several times during the
+admission.  Could have been secondary to line infection, urinary
+tract infection, pneumonia or possible osteomyelitis.  There was
+also a question of possible osteomyelitis in the past, but it
+was decided not to do an MRI earlier because no further
+intervention would be done based on the results.  Patient also
+had a question of aspiration pneumonia at admission but nothing
+was ever seen on chest x-ray.  Blood cultures durng the early
+part of her admission showed no growth, so it was thought that
+UTI may have been the source. later in her admission she
+developed c. diff which could have contributed, as well as
+infection in leg ulcer.  Her fevers subsided on meropenem, which
+was re-started empirically for her fevers. She completed a
+7-day course from 2010-02-28 00:00:00 in addition to the intial course of
+meropenem she completed.  Patient was noted to have a new fever
+on 2010-02-28 00:00:00 and was subsequently resumed on meropenum and linezolid
+for a 14 day course.
+.
+.
+*. Urinary tract infections: Patient was noted to have a
+significant recent history of UTIs leading to sepsis.  Several
+urine samples were obtained during her stay and UA suggested
+UTI.  urine cultures grew out yeast or mixed bacterial colony
+types. There was a concern that UTIs were leading to urosepsis.
+the patient had been started on Meropenem (for her
+enterobacter/Kleb/psuedomonas UTIs )at her last admission and
+she was continued for a 14 day course.  After the Meropenem was
+dc'd she did well for several dsy, remained afebrile with stable
+WBC.  She then developed low grade fevers.  She was re-started
+on meropenem but per ID she was just to be continued on a 7 day
+course, because she had already been colonized by bacteria
+resistant to other antibiotics.  Her fevers resolved and were
+thought to be secondary to urinary tract infection, though last
+few urine cultures grew out yeast only.  She was treated with
+fluconazole for 7 days for the yeast.  Blood cultures showed no
+growth.  It was thought that the patient will likely continue to
+get repeat UTIs as she makes a little urine that stays in the
+bladder for long periods of time. Spoke with ID regarding
+possible prohpylactic antibiotics, but they were resistant to
+start this as patient already had developed resistance to many
+bacteria. Spoke with urology multiple times and they suggested
+qod straight caths to relieve the patient of urine.  This was
+attempted in the hospital but required 4 people to perform it.
+Additionally, little urine came out through this method, because
+much of it was sludge.  Spoke with urology who stated she should
+make an appointment as an outpatient and they would try to come
+up with the appropriate regimen for straight cath.  ID also
+recommended trying qd cranberry tablets. Patient will be on
+meropenum until 2010-02-28 00:00:00 and linezolid until 2010-02-28 00:00:00 then left IJ line
+may be pulled if patient has peripheral IVs.
+.
+.
+*. Endstage kidney disease - The patient is hemodialysis
+dependent (M/W/F) and received hemodialysis throughout her stay.
+ She was followed by renal.  She was arranged to have outpatient
+hemodialysis at UPMCE. Tunnelled HD cath was replaced per IR
+on 2010-02-28 00:00:00.  Continued nephrocaps.
+.
+.
+*. Melena: Patient developed melena during her admission, while
+on heparin.  Her hematocrit did not drop and she was continued
+on protonix. Her anti-coagulation was not stopped because she
+had recently had a very severe pulmonary embolism and required
+anti-coagulation.
+.
+.
+*. History of pulmonary embolus: Patient had a recent history of
+PE status post PEA arrest.  Her goal INR was 2010-02-28 00:00:00 and coumadin
+was adjusted to keep her in this therapeutic range.  When she
+was subtherapeutic, she was on a heparin drip.  Patient was
+therapeutic on coumadin at discharge.  She will likely need
+anticoagulation for at least 12 months.
+.
+.
+*. History of atrial fibrillation : Her course was complicated
+by new atrial fibrillation with RVR while on Levophed for
+pressure support, was cardioverted with 200 J with successful
+return of MAP.  Had transient atrial fibrillation during her ICU
+course without any hemodynamic instability, which spontaneously
+resolved.  INR was intially supratherapeutic INR 4.0 then 1.9
+reversed with 3U FFP for central line placement.  Heparin drip
+was started on 2010-02-28 00:00:00 for anticoagulation and coumadin was resumed
+on 2010-02-28 00:00:00. Patient was continued on warfarin 5mg PO QHS with goal
+INR 2010-02-28 00:00:00.  Heparin drip was discontinued on 2010-02-28 00:00:00.
+.
+.
+*. Sinus Tachycardia: Patient was found to be in sinus
+tachycardia on the floor and remained like that for many days.
+Was thought to be likely secondary to and infectious process or
+fluid shifts during HD.  PE was less likely since patient was
+anticoagulated. Now resolved.
+.
+.
+*. Diarrhea: Patient had intermittent diarrhea throughout her
+course.  Her c.diff toxin assay was checked several times during
+the admission and was initially negative. She was found to be
+positive for c. diff on 2010-02-28 00:00:00 and started on Flagyl for a 14 day
+course which she completed on on 2010-02-28 00:00:00.
+.
+.
+*. Diabetes: She was well controlled on a sliding scale and had
+QID fingersticks. Patient was started on insulin drip for better
+BS Control goal 80-120.  Weaned insulin drip to off and restart
+ISS on 2010-02-28 00:00:00.
+.
+.
+* Decubitus/Ischemic ulcers: She had ulcers on the posterior
+aspect of her calves. They were healing well but during her
+admission she was noted to have some purulent exudate from the
+left leg. This area was superficially swabbed and found to be
+growing pseudomonas.  She was already being treated with
+meropenem at that time.  An x-ray was done at the time and
+showed no evidence of osteomyelitis on films.  Vascular surgery
+was contactChynia Lafon and did not think any intervention was necessary
+at this time.  She was followed by the wound care team and wound
+care recs were implemented.  Patient is now on wet to dry twice
+daily wound care.
+.
+.
+* FEN - Patient was initially fed with an NG tube in the unit.
+The necessity of a PEG tube to help patient's nutritional status
+and reduce the risk of aspiration was discussed with her family
+and a PEG tube was placed by IR on 2010-02-28 00:00:00. The patient was
+started on tube feeds with probalance and was followed by
+nutrition.  She failed several speech and swallow evals and was
+noted to be at risk for aspiration, with reflux events by video
+swallow.  She was placed on aspiration precautions and only
+allowed to take 30 cc/hr of food PO.  She was continued on
+nephrocaps and her lytes were repleted PRN.  After an episode of
+possible aspiration patient was kept NPO and continued on tube
+feeds only. Prior to discharge, PEG was chronically plugged
+despite UPMCE flushes, discontinuing banana flakes and
+viokase infusions. GJ tube imaging showed patent and functional
+lumen. Interventional radiology was consulted and replaced tube.
+Tube requires vigorous flushing with 1/2NS after administering
+medications or tube feeds per tube using a 10cc syringe (to
+obtain enough pressure) as patient is prone to tube clogging.
+Make sure flushes are with normal saline, 10cc syrine and
+uncapped.
+.
+.
+*. PPx - Heparin drip, coumadin, PPI, bowel regimen
+.
+.
+* Access: Left IJ 2010-02-28 00:00:00; R SCL - dialysis line 2010-02-28 00:00:00, R Arm Picc
+2010-02-28 00:00:00;  Will d/c left IJ.
+.
+.
+* Precautions: VRE/MRSA and Aspiration.
+.
+.
+* Code - FULL CODE (reconfirmed with son on 2010-02-28 00:00:00, 2nd family
+meeting with Dr. Adenn Barthelette reconfirmed Full Code status as well as if
+pt requires another intubation it will require a trach at that
+next Intubation, meaning no option of intubation without trach
+for next rewpiratory failure/distress in setting of multiple
+intubations/extubations)
+.
+.
+* Communication - son Chynia Lafon (test@mail.com or (test@mail.com
+
+Medications on Admission:
+1. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+2. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+4. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+5. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+6. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+7. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime).
+8. Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed.
+9. Clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane
+
+ QID (4 times a day).
+10. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) inj
+Injection TID (3 times a day).
+11. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two
+(2) ML Intravenous  DAILY (Daily) as needed: 2 ml IV DAILY:PRN
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units
+heparin) each lumen Daily and PRN. Inspect site every shift.  .
+
+12. Meropenem 500 mg Recon Soln Sig: Five Hundred (500) mg
+Intravenous  once a day for 7 days.
+
+Discharge Medications:
+1. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+2. Acetaminophen 160 mg/5 mL Solution Sig: Six 68y
+(650) mg PO Q4-6H (every 4 to 6 hours) as needed for fever.
+3. Chlorhexidine Gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML
+Mucous membrane  TID (3 times a day).
+4. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: 2010-02-28 00:00:00
+Drops Ophthalmic  PRN (as needed).
+5. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+6. Albuterol Sulfate 0.083 % Solution Sig: One (1) Neb
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+7. Ipratropium Bromide 0.02 % Solution Sig: One (1) Neb
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+8. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: One
+(1)  PO DAILY (Daily).
+10. Ascorbic Acid 90 mg/mL Drops Sig: Five Hundred (500) mg PO
+DAILY (Daily).
+11. Insulin Regular Human 100 unit/mL Solution Sig: per sliding
+scale Units Injection ASDIR (AS DIRECTED).
+12. Amylase-Lipase-Protease 468 mg Tablet Sig: 1-2 Tablets PO
+once a day as needed for clogged PEG tube for 1 doses: Crush 2010-02-28 00:00:00
+tabs with 1 tab NaHCO3 add to 5cc of water. Infuse into tube and
+clamp for 10 minutes. Then drain and attempt to flush.
+13. Heparin Flush CVL  (100 units/ml) 1 ml IV DAILY:PRN
+10ml NS followed by 1ml of 100 units/ml heparin (100 units
+heparin) each lumen QD and PRN.  Inspect site every shift
+14. Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous  Q24H (every 24 hours) for 3 days: until 2010-02-28 00:00:00.
+15. Morphine 2 mg/mL Syringe Sig: 1-2 mg Injection Q4H (every 4
+hours) as needed.
+16. Linezolid 600 mg/300 mL Parenteral Solution Sig: Six Hundred
+(600) mg Intravenous  Q12H (every 12 hours) for 4 days: until
+2010-02-28 00:00:00.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Hospital
+
+Discharge Diagnosis:
+primary diagnosis:
+1. PICC line infection
+2. Decubitus/ischemic lower extremiy ulcers bilaterally with
+Pseudamonas on swab culture
+3. Clostridium difficile colitis
+4. Chronic urinary tract infection
+5. Status post PEG tube on tube feeds
+6. History of atrial fibrillation status post cardioversion
+.
+secondary diagnosis:
+7. Type 2 diabetes mellitus
+8. Diabetic nephropathy/ESRD on HD MWF
+9. Status post left femur fracture
+10.S/P L shoulder hemiarthroplasty following a left humeral
+fracuture in 2010-02-28 00:00:00- Course was complicated by a PEA arrest
+secondary to PE. 2010-02-28 00:00:00 new humerus fracture
+11.PE 2010-02-28 00:00:00 leading to PEA arrest
+12.Hospitalization 2010-02-28 00:00:00 for Sepsis (negative work-up) treated
+empricially with Vanc
+13.h/o C-diff 2010-02-28 00:00:00, Urine citrobacter (tx w/Cipro)
+14.Chronic Hyponatremia
+15.Hypercholesterolemia
+16.Unsteady gait
+17.Cataracts
+18.Back pain
+19.Hypertension
+20.Anemia of chronic disease
+
+
+Discharge Condition:
+Breathing comfortably on room air, sating high 90's on room air
+Afebrile
+NSR
+Therapeutic INR
+
+
+Discharge Instructions:
+Please take medications as prescribed.
+.
+Please keep follow-up appointments.
+.
+Please have your INR/PT labs checked daily for goal INR 2010-02-28 00:00:00.
+Have your MD adjust your warfarin dose accordingly.
+.
+If you have any nausea/vomitting, fevers/chills, chest pain,
+severe abominal pain, difficulty breathing or any other worrying
+department.
+.
+Frequent 1/2NS flushes required after administering meds or tube
+feeds per tube to prevent chronic clogging. Uncap the tube, use
+a 10cc or smaller syringe and vigorously flush. Use UPMCE
+flush and viokase if still clogged. No banana flakes per tube.
+Make sure medications are ground very finely.
+
+Followup Instructions:
+Adenn Barthelette, M.D.
+Date/Time: Wed 2010-02-28 00:00:00 1:50pm
+Location: UPMCE Clinical Center Floor 6
+Phone: test@mail.com
+.
+[]Provider: Chynia Chynia Lafon, Chynia Lafon.D., PH.D. Date/Time:2010-02-28 00:00:00 1:30
+.
+[] Dialysis: Please continue outpatient dialysis on MWF
+
+
+
+Completed by:2010-02-28 00:00:00

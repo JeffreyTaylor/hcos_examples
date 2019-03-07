@@ -1,0 +1,393 @@
+Admission Date:  2005-08-24 00:00:00              Discharge Date:   2005-08-24 00:00:00
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Jaisean Mirafuentes
+Chief Complaint:
+hyperkalemia, chest pain,
+Ischemic Colitis
+Chronic Renal Insufficiency
+
+
+Major Surgical or Invasive Procedure:
+1.  Exploratory laparotomy.
+2.  Extensive lysis of adhesions.
+3.  Repair of small bowel serosal injury.
+4.  Right and left component ventral herniorrhaphy.
+
+
+History of Present Illness:
+87 yo F with h/o chronic renal insuficiency, nephrectomy for
+renal cell carcinoma, and hypertensive nephrosclerosis who
+presents to the ED after being found in her doctor's office to
+be hyperkalemic. At the ED, ECG changes consistent with
+hyperkalemia were found.
+.
+Patient reported history through mother and phone interpreter.
+She has not been feeling well for a while now, with chest pain,
+fatigue and SOB.  These symptoms have been present for many
+months, but the CP and SOB have been more severe over the last
+couple days.  Two days ago she started experiencing a squeezing,
+pressure pain on the left side of the chest and left shoulder,
+which at times radiated down the left arm. The pain occurs at
+rest and nothing, except for nitroglycerin, improves or resolve
+this pain. This episode she had two weeks ago lasted for about
+two hours. Pt took nitro, which decreased the pain but did not
+resolve it completely. After two hours the pain resolved on its
+own. She is not experiencing CP, SOB now.
+.
+In the ED, VS were T 97.1, HR 64, BP 192/48, RR 16, O2sat 98%. K
+was 6.6 on admission to ED. She was given calcuim gluconate,
+sodium bicarbonate, dextrose, insulin, Kayexelate 30 g.  At time
+of admission to the medicine service her K was 5.3.
+.
+ROS:
+Ms. Bourdon has had a 20 pound weight loss over the last 6 months
+because of loss of a123 Any St.e.  She mostly drinks tea during the
+day. She has had chronic abdominal pain not related to eating,
+last colonoscopy in 2005-08-24 00:00:00. Denied nausea, vomiting, hematochezia,
+orthopnea, PND. Has had bilateral leg swelling for many years,
+but no pain or worsening edema now.
+
+
+Past Medical History:
+1. Diabetes
+2. HTN
+3. Hypercholesterolemia
+4. Arthritis
+5. Hypothyroid
+6. S/p nephrectomy for renal cell ca done in 94 at BU
+7. MRegurgitation
+8. Chronic abdominal pain
+9. H/o pancreatitis
+10. pancreas divisum
+11. hiatal hernia repair
+12. left colectomy 2005-08-24 00:00:00 [**Location (un) 6473**] b 2 colon cancer with neg nodes
+13. ccy
+
+Social History:
+no tob, no etoh, no narcotics, lives by self in UPMCE
+
+
+Family History:
+NC
+
+Physical Exam:
+VS: HR 64  BP 181/87  RR 16  O2 sat 99%
+GEN: NAD
+HEENT: PERRLA, EOMI, sclera anicteric, OP clear, MMM, no LAD,
+bilateral carotid bruits. No JVD.
+CV: regular, nl s1, s2, holosystolic murmur 2005-08-24 00:00:00 on LSB
+CHEST: no pain with palpation
+PULM: CTA Bl, no r/r/w.
+ABD: soft, tender throughout more on the LLQ, ND, + BS, no HSM.
+
+EXT: warm, 1+ dp/radial pulses BL, edema up to the knees
+bilaterally.
+NEURO: alert & oriented x 3, CN II-XII grossly intact.
+
+Pertinent Results:
+2005-08-24 00:00:00 03:00PM BLOOD WBC-4.5 RBC-2.70* Hgb-8.5* Hct-27.3*
+MCV-101*# MCH-31.6 MCHC-31.3 RDW-14.8 Plt Ct-148*
+2005-08-24 00:00:00 09:11PM BLOOD WBC-12.0*# RBC-2.50* Hgb-7.7* Hct-24.3*
+MCV-97 MCH-30.9 MCHC-31.7 RDW-14.9 Plt Ct-134*
+2005-08-24 00:00:00 03:00PM BLOOD UreaN-37* Creat-1.7* Na-144 K-6.3*
+Cl-116* HCO3-17* AnGap-17
+2005-08-24 00:00:00 09:30PM BLOOD Glucose-123* UreaN-34* Creat-1.9* Na-143
+K-4.2 Cl-119* HCO3-17* AnGap-11
+2005-08-24 00:00:00 02:05AM BLOOD Glucose-120* UreaN-71* Creat-3.2* Na-141
+K-3.8 Cl-111* HCO3-20* AnGap-14
+2005-08-24 00:00:00 03:00PM BLOOD ALT-13 AST-16 AlkPhos-46 TotBili-0.2
+DirBili-0.1 IndBili-0.1
+2005-08-24 00:00:00 07:35AM BLOOD Lipase-44
+2005-08-24 00:00:00 04:30PM BLOOD Lipase-50
+2005-08-24 00:00:00 06:33PM BLOOD CK-MB-NotDone cTropnT-0.02*
+2005-08-24 00:00:00 03:00PM BLOOD TotProt-6.0* Albumin-3.6 Globuln-2.4
+Calcium-7.9* Cholest-116
+2005-08-24 00:00:00 02:05AM BLOOD Calcium-7.0* Phos-4.7* Mg-2.2
+2005-08-24 00:00:00 03:00PM BLOOD %HbA1c-5.5
+.
+CT ABDOMEN W/CONTRAST  2005-08-24 00:00:00 1:20 PM
+IMPRESSION: Free fluid and large amount of fat stranding seen
+within the abdomen, particularly in the region of the s123 Any St.
+flexure. Relative narrowing of the SMA. Findings are concerning
+for ischemic colitis. 2) No evidence of obstruction or
+intra-abdominal mass. 3) Status post left nephrectomy. Multiple
+small rounded low attenuation lesions seen within the right
+kidney, possibly representing cysts but incompletely
+characterized on this single-phase study.
+.
+PORTABLE ABDOMEN  2005-08-24 00:00:00 7:31 AM
+IMPRESSION:
+1. Unchanged appearance of the multiple massively dilated loops
+of large bowel.
+
+2. Unusual appearance of a loop of bowel projecting within the
+mid pelvis, probably air filled small bowel--continued followup
+advised.
+.
+2005-08-24 00:00:00 2005-08-24 00:00:00 2005-08-24 00:00:00 DR. Jaisean Mirafuentes. Jaisean Mirafuentes/kg
+DIAGNOSIS:
+
+Fibroadipose tissue and mesothelium with reactive changes,
+consistent with hernial sac.
+.
+RENAL U.S. PORT  2005-08-24 00:00:00 12:22 AM
+
+IMPRESSION:
+Mild prominence of the collecting system suggestive of a very
+mild hydronephrosis. Probable non-obstructive 4 mm right upper
+pole renal calculi.
+.
+
+CHEST (PORTABLE AP)  2005-08-24 00:00:00 4:20 PM
+
+IMPRESSION:
+
+1. Low position of endotracheal tube as communicated to Dr.
+Bourdon.
+
+2. Left lower lobe atelectasis.
+
+
+Brief Hospital Course:
+A/P:  87 yo F with h/o chronic renal insuficiency, nephrectomy
+for renal cell carcinoma, and hypertensive nephrosclerosis who
+presents with hyperkalemia and ECG changes.
+.
+.
+1. Hyperkalemia: Pt's h/o of CRI and hypertensive
+nephrosclerosis are most concerning for an etiology. She also
+has a history of MGUS. Pt has been eating poorly which would
+suggest a component of decreased effective circulating volume.
+Given these conditions it is likely that decreased urinary
+potassium excretion (from all these separate causes) is the
+underlying process. It is unclear how compliant patient is with
+meds and this could be contributing as well.
+- Give IV fluids
+- check K q6h; give kayexelate if K elevated
+- Maintain on telemetry
+- Reorder ECG
+- Check SPEP, UPEP - to check for multiple myeloma
+- Hold ACE inhibitor
+- low K diet
+- nutrition consult
+.
+2. CRI: baseline creat 2.0, pt at baseline now.
+- IV fluids
+- check creat
+- renal consult was obtained
+.
+3. Hypertension: Patient with history of poorly controlled
+hypertension.
+- Will continue home BP meds, and uptitrate as tolerated.
+- Hold ACEI
+.
+4. Chest pain: Patient with episode of chest pain two days
+prior, with multiple RF including high cholesterol, DM2, age,
+hypertension. Although pain resolved at this time, will check
+for cardiac origin.
+- Will check CE
+- EKG shows no acute ST-T changes
+- Continue labetolol, aspirin. Hold ACEI for now.
+- Check lipid panel, A1c
+- Check repeat echocardiogram
+.
+5. Weight loss: Patient endorses recent 20# weight loss, and has
+history of colon cancer. Overdue for colonoscopy. Also noted to
+have abdominal pain, but without acute abdomen.
+- Check LFTs, amylase, lipase
+- Needs outpatient colonoscopy
+- Guaiac all stools.
+- Nutrition consult as above
+.
+6. Anemia: baseline HCT per records has been in low 30s. Now at
+28.  Might be anemia of chronic disease or secondary to
+malnutrition given reported poor PO intake in last months. No
+obvious bleeding, but will like to check stool.
+- guiaic all stools
+- Fe studies.
+.
+7 Hyperlipidemia: history of hyperlipidemia on record, but
+current lipid panel results were within normal levels
+.
+8 Chronic LE edema: long time issue.  Stable now. No pain,
+erythema or skin color changes. CHF a possibility and will be
+explored.
+- check Echocardiogram for EF
+.
+9 Hypothyroid: stable condition
+- continue Levothyroxine
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+She was transfered to the Surgery service and went to the OR on
+2005-08-24 00:00:00 for:
+1.  Exploratory laparotomy.
+2.  Extensive lysis of adhesions.
+3.  Repair of small bowel serosal injury.
+4.  Right and left component ventral herniorrhaphy.
+
+She remained in the ICU for 6 days.
+
+CRI: She had post-op low urine output with ATN. She continued on
+IVF and occasional Lasix and Diuril. Once her urine output
+picked up, the Diuretics were held. She had autodiuresis and her
+Cr began to fall as she mobilized fluids. She continued on D5
+1/2NS for several day and we then encouraged PO intake. Her
+Foleuy was removed as her urine output picked up.
+
+Abd/GI: She was NPO with a NGT. Her incision was intact with a
+moderate amount of serosanguinous drainage. She had a
+surrounding area of ecchymosis around the incision. She had
+abdominal JP drains in place with high output (>1000cc
+drainage).
+She was started on a PO diet on POD 5. Her PO intake was
+marginal and we encouraged additional PO's. The drain output was
+still high from drain #2 at time of discharge (1000-2000cc/day).
+The drains will remain in place until follow-up.
+
+CV: She was in normal sinus rhythm with frequent PVC's. She was
+started on an Amiodarone drip. She had occasional bradycardia.
+She had a episode of rapid Afib while repostioning the patient
+on POD 4 with a rate in the 150's. She converted shortly
+thereafter with a rate in the 60's. She continued on PO
+Amiodarone once back on a diet.
+
+Resp: She remained intubated and on the vent. She was extubated
+on 2005-08-24 00:00:00 and tolerated this.
+
+ID: She was on Cipro/Flagyl and Ampicillin antibiotics for
+peritonitis and ischemic bowel. Stop antibiotics on 2005-08-24 00:00:00.
+
+
+Medications on Admission:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Labetalol 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+
+day).
+3. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+4. Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Nifedipine 30 mg Tablet Sustained Release Sig: One (1) Tablet
+
+Sustained Release PO BID (2 times a day).
+6. Doxazosin 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+
+7. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4
+to 6 hours) as needed.
+9. Quinine Sulfate 325 mg Capsule Sig: One (1) Capsule PO HS (at
+
+bedtime).
+10. Metformin 500 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+2. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Sliding Scale Injection ASDIR (AS DIRECTED).
+3. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day) for 1 days.
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO twice a day
+for 1 weeks: Start 2005-08-24 00:00:00. Then transition to maintenance.
+5. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Labetalol 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day): Please hold for SBP<100 and HR<60.
+7. Nifedipine 30 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO DAILY (Daily): Hold for SBP < 100 and HR <
+60.
+8. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed.
+9. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 3 days: Stop on 2005-08-24 00:00:00.
+10. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 3 days: Stop on 2005-08-24 00:00:00.
+11. Ampicillin 250 mg Capsule Sig: Two (2) Capsule PO Q24H
+(every 24 hours) for 3 days: Stop on 2005-08-24 00:00:00.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. of 123 Any St.
+
+Discharge Diagnosis:
+Hyperkalemia
+Ischemic Colitis
+Chronic Renal Insufficiency
+Malnutrition
+Bradycardia
+
+
+Discharge Condition:
+Fair
+Weak, deconditioned
+Needs assistance with eating and drinking
+Incision C,D,I with eccymosis
+
+
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the
+following:
+* You experience new chest pain, pressure, squeezing or
+tightness.
+* New or worsening cough or wheezing.
+* If you are vomitting and cannot keep in fluids or your
+medications.
+* You are getting dehydrated due to continued vomitting,
+diarrhea or other reasons. Signs of dehydration include dry
+mouth, rapid heartbeat or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a
+bowel movement.
+* Your skin, or the whites of your eyes become yellow.
+* Your pain is not improving within 8-12 hours or not gone
+within 24 hours. Call or return immediately if your pain is
+getting worse or is changing location or moving to your chest or
+
+back.
+* You have shaking chills, or a fever greater than 101.5 (F)
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that
+concern you.
+* Please resume all regular home medications and take any new
+meds
+as ordered.
+* Continue to amubulate several times per day.
+
+
+Followup Instructions:
+Please follow-up with Dr. Bourdon in 2005-08-24 00:00:00 weeks. Call (test@mail.com
+to schedule an appointment.
+
+
+                             Carven Bourdon MD, 31320
+
+Completed by:2005-08-24 00:00:00

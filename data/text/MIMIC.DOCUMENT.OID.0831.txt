@@ -1,0 +1,363 @@
+Admission Date:  2012-03-06 00:00:00              Discharge Date:   2012-03-06 00:00:00
+
+Date of Birth: 1940-03-24 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Phenergan
+
+Attending:Jentzen Canelli
+Chief Complaint:
+transferred to UPMCE for bronchoscopy
+
+Major Surgical or Invasive Procedure:
+bronchoscopy
+
+History of Present Illness:
+Mrs. Brener is a 70 year old woman with a history of severe COPD
+
+NSCLC s/p LUL lobectomy 2012-03-06 00:00:00 s/p XRT, vent-dependence has s/p
+tracheostomy since 2012-03-06 00:00:00,  status post Y-stent placement
+secondary to severe chronic obstructive pulmonary disease and
+tracheobronchomalacia in 2012-03-06 00:00:00. Y stent finally removed on 2012-03-06 00:00:00
+due to recurrent migration of Y stent.
+Patient has been at rehab where a tracheostomy was noticed to be
+malfunctioning for the last days. Per nurse notes, on 2012-03-06 00:00:00
+patient had a "respiratory arrest" and code blue was called.
+Tracheostomy tube  changed to Brener # 7. Old trach looked
+clogged with dry mucous. Patient respiratory status improved
+overnight, however this am, her respiratory status deteriorated
+with SpO2 of 83% on vent. Tracheostomy was suctioned ,found to
+have a "resistance" and copious amount of blood. Patient
+transferred  ED where per report there have been no new episodes
+of bleeding but obvious fresh bloo in suction tube.
+In ED ABGs 7.35/58/111/34 on A/C 450 cc of TV and RR of 14.
+
+ROS is negative for fever , chills, cough, night sweats,
+abdominal pain, chest pain , hematemesis or weight loss.
+
+
+Past Medical History:
+1. CHF s/p respiratory failure s/p trach
+2. COPD - O2 dependent
+3. NSCLC s/p LUL lobectomy 2012-03-06 00:00:00, s/p chemo (Iressa)/XRT, s/p ?
+pleurodesis
+4. DM II
+5. Anemia, thrombocytopenia
+6. Hx recurrent bacteremias
+7. Hx [**First Name5 (NamePattern1) 558**] Brener fungemia
+8. s/p L THR
+9. s/p cataract surgery
+2012-03-06 00:00:00. s/p TAH
+11. paroxysmal afib
+
+
+Social History:
+Patient living at rehab, UPMCE UPMCE Hospital. + Hx tobacco
+(uncertain duration). No EtoH, illicits. Very involved,
+supportive family.
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: T 98.7 HR 71 sinus BP 123/46 RR 16Sat 100%
+Vent: AC 450x14 PEEP 5 FIO 0.5
+GEN: Pleasant obese woman +trach +foley +PICC
+HEENT: OP clear, MMM, PERRL, sclerae anicteric
+CV: nl s1/s2 RRR
+PUL: Diffuse rhonchi
+ABD: Obese, soft, NT, ND +BS
+EXT: 2+ LE edema to thighs, 2+ LUE edema, 1+ RUE edema. PICC in
+R AC.
+NEURO: Awake, alert.
+
+
+Pertinent Results:
+-EKG : NSR
+.
+-CxR :  The tip of the internal portion of the tracheostomy tube
+overlies the left aspect of the tracheal column:  No free
+mediastinal air is seen.  Appearance of the chest is unchanged
+from 2012-03-06 00:00:00.
+.
+ECHO:
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function.
+Height: (in) 64
+Weight (lb): 175
+BSA (m2): 1.85 m2
+BP (mm Hg): 78/39
+HR (bpm): 60
+Status: Inpatient
+Date/Time: 2012-03-06 00:00:00 at 17:08
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007W029-0:00
+Test Location: West MICU
+Technical Quality: Suboptimal
+
+REFERRING DOCTOR: DR. Jentzen Canelli
+
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *4.9 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *5.9 cm (nl <= 5.2 cm)
+Aorta - Valve Level: *4.0 cm (nl <= 3.6 cm)
+Aorta - Ascending: *3.5 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: 1.2 m/sec (nl <= 2.0 m/sec)
+Mitral Valve - E Wave: 1.1 m/sec
+Mitral Valve - A Wave: 0.4 m/sec
+Mitral Valve - E/A Ratio: 2.75
+Mitral Valve - E Wave Deceleration Time: 186 msec
+TR Gradient (+ RA = PASP): *31 mm Hg (nl <= 25 mm Hg)
+
+INTERPRETATION:
+
+Findings:
+
+This study was compared to the prior study of 2012-03-06 00:00:00.
+
+
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Aneurysmal interatrial septum.
+
+
+LEFT VENTRICLE: Mild symmetric LVH. Suboptimal technical
+quality, a focal LV wall motion abnormality cannot be fully
+excluded. Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Dilated RV cavity. Normal RV systolic function.
+[Intrinsic RV systolic function likely more depressed given the
+severity of TR].
+
+AORTA: Moderately dilated aortic sinus. Mildly dilated ascending
+aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Moderate [2+] TR.  Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with
+physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+
+
+Conclusions:
+The left atrium is mildly dilated. The interatrial septum is
+aneurysmal. There is mild symmetric left ventricular
+hypertrophy. Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Overall left
+ventricular systolic function is normal (LVEF>55%). The right
+ventricular cavity is dilated. Right ventricular systolic
+function is normal. [Intrinsic right ventricular systolic
+function is likely more depressed given the severity of
+tricuspid regurgitation.] The aortic root is moderately dilated
+athe sinus level. The ascending aorta is mildly dilated. The
+aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. Moderate [2+] tricuspid regurgitation is seen. There
+is mild pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of 2012-03-06 00:00:00,
+the right
+ventricle is now dilated.
+
+Electronically signed by Jacob Brener, MD on 2012-03-06 00:00:00 17:32.
+123 Any St. PHYSICIAN: Jacob Brener,Jacob Brener Jacob Brener.
+.
+V/Q scan 2012-03-06 00:00:00: Ventilation images obtained with Tc-99m aerosol
+in 6 views demonstrate decreased tracer activity within the
+right upper lobe, medially, in a non-segmental distribution.
+Small subsegmental ventilation abnormalities are also noted
+within both lower lobes. Tracer activity is noted to pool within
+the airway, around
+the patient's tracheostomy tube. Perfusion images in the same 6
+views show a matched perfusion defect within the right upper
+lobe medially. Small subsegmental perfusion defects in both
+lower lobes match the ventilation abnormalities. Chest x-ray
+shows an opacity within the right upper lobe medially
+corresponding to the matched ventilation and perfusion defect in
+the right upper lobe. The triple matched defect in the right
+upper lobe is indeterminant for pulmonary embolus. Otherwise,
+there is no evidence for pulmonary embolus elsewhere in the
+lungs.
+IMPRESSION:
+Triple matched defect in the right upper lobe medially which is
+indeterminant for pulmonary embolus. Otherwise, there is no
+evidence for pulmonary embolus elsewhere in the lungs.
+
+
+Brief Hospital Course:
+A/P: 70 year old woman with respiratory failure, tracheomalacia,
+CHF,
+COPD on home o2 presenting from rehab with respiratory failure
+and blood in trachesotomy for rigid bronchoscopy.
+.
+# Respiratory Failure: patient has underlying severe COPD, lung
+resection, diastolic dysfunction. Most likely exacerbation of
+respiratory failure secondary to upper airway obstruction due to
+tracheostomy malfunctioning ?granulation tissue. Bronch showed
+patent airways.  No signs on imaging or clinical exam to suspect
+PNA or CHF exacerbation, however sputum growing pseudomonas and
+GPC - unclear if these are contaminants or true pathogens.
+Patient treated initially treated with zosyn, cipro, and vanc.
+Sensitivities showed pan-sensitive Pseudomonas but Zosyn was
+continued since it will cover both psuedomonas in sputum as well
+as proteus and klebsiella in urine. Plan is to treat for 7 days
+(day one 2012-03-06 00:00:00). She was continued on bronchodilators. She was
+restarted on her regular dose of diuretics.  She had an ECHO
+cradiogram which showed a dilated right ventricle, so we
+obtained a VQ scan to assess patient for possible PE.  The scan
+was indeterminate for evidence of chronic pulmonary embolism so
+she was not started on anticoagulation.
+.
+# Hypotension: Patient has history of intermittent hypotension
+of unclear etiology.  Her first 2 nights in the unit she dropped
+her pressures with concurrent decrease in uop, leading to her
+being supported on pressors overnight.  Her pressures improved
+during the day. She was admitted on midodrine TID.  She had two
+Brener stim tests, one with 250 mcg and one with 1 mcg of
+cosyntopin which were both normal and an ECHO with no
+elucidating reason.  Her midodrine was increased to 10 mg PO QID
+with stabilization of her pressures.
+.
+# UTI: Intial UA showed 21-50 WBC.  While patient has chronic
+foley, given hypotension and ill appearance decided to treat as
+infection.  She was treated with cipro.  Added zosyn 2012-03-06 00:00:00 for
+pseudomonas in sputum but will cover urine as well. Foley
+catheter was changed during this admission.
+.
+# Diastolic dysfunction : Patient has CHF, preserved ef with
+diastolic dysfunction, which was essentially unchanged on repeat
+ECHO except for new finding of dilated right ventricle.  She is
+not significantly fluid overloaded on exam.  Lasix was initially
+held for hypotension and then restarted once her pressures had
+stabilized.  Her digoxin was continued at outpatient dose.
+.
+#Elevated troponins : Patient had elevated tropinins on
+admission, which as attributed to diastolic dysfunction . CKs
+were flat and there were no concerning dynamic changes on EKG.
+ECHO did not show any new wall motion abnormalities, although it
+did show a new dilated right ventricle.
+.
+#Hypothyroidism: continue levothyroxine.  TSH was normal.
+.
+#Anemia: Stable.
+.
+# Diabetes: Patient was covered with insulin sliding scale.
+Plan to restart her standing NPH on discharge.
+.
+# PPX: Patient received pneumoboots for DVT prophylaxis, PPI,
+and her head of bed was kept at > 30degrees.
+.
+# CODE: full
+
+
+Medications on Admission:
+Fluticasone 220mcg MDI twice daily
+Combivent inh 4puffs q6h
+Atorvastatin 10mg daily
+Spironoalactone 50mg UPMCE
+Lasix 40mg po q12hr
+Digoxin 0.125mg daily
+Aranesp 0.06mg qFri
+Digoxin 0.125mg daily
+Esomeprazole 40mg daily
+Iron Sulfate 300mg daily
+Seroquel 50 mg qhs
+Seroquel 15 mg tid
+NPH 6u sc qAM
+Midodrine 10mg po q8h
+Paroxetine 20mg daily
+Trazadone 50mg prn insomnia
+Levothyroxine 50 mcg qd
+
+Discharge Medications:
+1. Levothyroxine 25 mcg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. Quetiapine 25 mg Tablet Sig: Two (2) Tablet PO QHS (once a
+day (at bedtime)).
+3. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+4. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+7. Docusate Sodium 50 mg/5 mL Liquid Sig: Two (2)  PO BID (2
+times a day) as needed for constipation.
+8. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed.
+10. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: 2012-03-06 00:00:00
+Puffs Inhalation Q4H (every 4 hours).
+11. Midodrine 5 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6
+hours).
+12. Pantoprazole 40 mg IV Q24H
+13. Heparin Flush Port (10units/ml) 5 ml IV DAILY:PRN
+10 ml NS followed by 5 ml of 10 Units/ml heparin (50 units
+heparin) each lumen Daily and PRN.  Inspect site every shift.
+14. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+15. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed.
+16. Fluticasone 110 mcg/Actuation Aerosol Sig: Eight (8) Puff
+Inhalation UPMCE (2 times a day).
+17. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+Intravenous Q 24H (Every 24 Hours) for 6 days.
+18. Insulin Lispro (Human) 100 unit/mL Solution Sig: as directed
+ Subcutaneous ASDIR (AS DIRECTED).
+19. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: One (1) Recon
+Soln Intravenous Q8H (every 8 hours) for 6 days.
+20. Iron (Ferrous Sulfate) 325 (65) mg Tablet Sig: One (1)
+Tablet PO once a day.
+21. NPH  Sig: Six (6) units  Q AM.
+22. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO once a
+day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+chronic intermittent hypotension
+pseudomonas in sputum
+gram positive cocci in sputum
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+care facility if weight > 3 lbs.
+
+Adhere to 2 gm sodium diet.
+
+
+Followup Instructions:
+Follow up with the doctor at the extended care facility as
+necessary.
+
+
+

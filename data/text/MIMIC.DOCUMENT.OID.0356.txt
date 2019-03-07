@@ -1,0 +1,231 @@
+Admission Date:  2008-10-26 00:00:00              Discharge Date:   2008-10-26 00:00:00
+
+Date of Birth: 1952-12-04 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Amoxicillin
+
+Attending:Kira Mutzabaugh
+Chief Complaint:
+Residual Rt Frontal Mass
+
+Major Surgical or Invasive Procedure:
+2008-10-26 00:00:00: Right Craniotomy for mass resection
+
+
+History of Present Illness:
+Patient is a 42F electively admitted for right craniotomy for
+mass resection. She had prior surgery with Dr. Fender on 2008-10-26 00:00:00,
+but intraop, lesion was found to infiltrate the bone table and
+brain parenchyma. Surgery was further aborted pending
+neurosurgical consultation and planning for complete resection.
+
+Past Medical History:
+s/p aborted r frontal mass Iannotti, [**First Name3 (LF) 3179**], 2008-10-26 00:00:00, HTN,
+anxiety, insomnia and hypercholesterolemia
+
+Social History:
+non-contributory
+
+Family History:
+non-contributory
+
+Physical Exam:
+Upon discharge:
+Alert and oriented to person, place, and time. MAE with 5/5
+strength. Neuro exam is nonfocal, intact. Head incision is C/D/I
+with dissolveable sutures.
+Ambulating steadily with normal gait. Tolerating POs.
+
+Pertinent Results:
+Labs on Admisson:
+2008-10-26 00:00:00 05:27PM BLOOD WBC-11.7* RBC-3.94* Hgb-10.9* Hct-33.3*
+MCV-85 MCH-27.7 MCHC-32.8 RDW-14.0 Plt Ct-389
+2008-10-26 00:00:00 05:27PM BLOOD Glucose-175* UreaN-10 Creat-0.7 Na-144
+K-4.5 Cl-111* HCO3-25 AnGap-13
+2008-10-26 00:00:00 05:27PM BLOOD Calcium-9.3 Phos-3.9 Mg-1.7
+
+Imaging:
+Post-op MRI 2008-10-26 00:00:00: IMPRESSION: Expected post-surgical changes
+are seen following resection of a large bony tumor within the
+skull in the right frontoparietal region. Pneumocephalus and
+small amount of blood products are seen in the region. No acute
+infarcts or hydrocephalus.
+
+
+Brief Hospital Course:
+Patient was electively admitted for com123 Any St.n of right sided
+tumor resection. Post-operatively, she was observed in the ICU
+for 24 hours. On POD#2, she was transfer to the NSURG floor,
+neuro exam remained intact. Post-operative MRI revealed complete
+resection of the lesion.  She tolerated POs and was cleared by
+PT for discharge home. She was discharged on 2008-10-26 00:00:00.
+
+Medications on Admission:
+Acyclovir Kira Mutzabaugh
+Fluticasone nasal spray
+HCTZ 25mg daily
+Labetolol 100mg UPMCE
+
+Discharge Medications:
+1. Duricef 500 mg Capsule Sig: One (1) Capsule PO twice a day
+for 7 days.
+Disp:*14 Capsule(s)* Refills:*0*
+2. Acetaminophen 160 mg/5 mL Solution Sig: 2008-10-26 00:00:00  PO Q6H (every 6
+hours) as needed for pain/T>100/HA.
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+6. Senna 8.8 mg/5 mL Syrup Sig: 1-2 Tablets PO DAILY (Daily) as
+needed for constipation.
+7. Levetiracetam 250 mg Tablet Sig: Three (3) Tablet PO BID (2
+times a day).
+Disp:*180 Tablet(s)* Refills:*2*
+8. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Right Frontal Mass
+
+
+Discharge Condition:
+Neurologically Stable
+
+
+Discharge Instructions:
+GENERAL INSTRUCTIONS
+WOUND CARE:
+??????	You or a family member should inspect your wound every day and
+report any of the following problems to your physician.
+??????	Keep your incision clean and dry for 7 days post-op. Your
+sutures are dissolveable.
+??????	Do NOT apply any lotions, ointments or other products to your
+incision.
+??????	DO NOT DRIVE until you are seen at the first follow up
+appointment.
+??????	Do not lift objects over 10 pounds until approved by your
+physician.
+
+DIET
+Usually no special diet is prescribed after a craniotomy. A
+normal well balanced diet is recommended for recovery, and you
+should resume any specially prescribed diet you were eating
+before your surgery.  Be sure however, to remain well hydrated,
+and increase your consumption of fiber, as pain medications may
+cause constipation.
+
+MEDICATIONS:
+??????	Take all of your medications as ordered.  You do not have to
+take pain medication unless it is needed.  It is important that
+you are able to cough, breathe deeply, and is comfortable enough
+to walk.
+??????	Do not use alcohol while taking pain medication.
+??????	Medications that may be prescribed include:
+o	Narcotic pain medication such as Dilaudid (hydromorphone).
+o	An over the counter stool softener for constipation (Colace or
+Docusate). If you become constipated, try products such as
+Dulcolax, Milk of Magnesia, first, and then Magnesium Citrate or
+Fleets enema if needed). Often times, pain medication and
+anesthesia can cause constipation.
+??????	You have been discharged on Keppra (Levetiracetam), you will
+not require blood work monitoring.
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and
+Ibuprofen etc, as this can increase your chances of bleeding.
+
+ACTIVITY:
+The first few weeks after you are discharged you may feel tired
+or fatigued. This is normal. You should become a little stronger
+every day. Activity is the most important measure you can take
+to prevent complications and to begin to feel like yourself
+again. In general:
+??????	Follow the activity instructions given to you by your doctor
+and therapist.
+??????	Increase your activity slowly; do not do too much because you
+are feeling good.
+??????	You may resume sexual activity as your tolerance allows.
+??????	If you feel light headed or fatigued after increasing
+activity, rest, decrease the amount of activity that you do, and
+begin building your tolerance to activity more slowly.
+??????	DO NOT DRIVE until you speak with your physician.
+??????	Do not lift objects over 10 pounds until approved by your
+physician.
+??????	Avoid any activity that causes you to hold your breath and
+push, for example weight lifting, lifting or moving heavy
+objects, or straining at stool.
+??????	Do your breathing exercises every two hours.
+??????	Use your incentive spirometer 10 times every hour,  that you
+are awake.
+
+WHEN TO CALL YOUR SURGEON:
+With any surgery there are risks of complications. Although your
+surgery is over, there is the possibility of some of these
+complications developing. These complications include:
+infection, blood clots, or neurological changes. Call your
+Physician Immediately if you Experience:
+
+??????	Confusion, fainting, blacking out, extreme fatigue, memory
+loss, or difficulty speaking.
+??????	Double, or blurred vision. Loss of vision, either partial or
+total.
+??????	Hallucinations
+??????	Numbness, tingling, or weakness in your extremities or face.
+??????	Stiff neck, and/or a fever of 101.5F or more.
+??????	Severe sensitivity to light. (Photophobia)
+??????	Severe headache or change in headache.
+??????	Seizure
+??????	Problems controlling your bowels or bladder.
+??????	Productive cough with yellow or green sputum.
+??????	Swelling, redness, or tenderness in your calf or thigh.
+
+Call 911 or go to the Nearest Emergency Room if you Experience:
+??????	Sudden difficulty in breathing.
+??????	New onset of seizure or change in seizure, or seizure from
+which you wake up confused.
+??????	A seizure that lasts more than 5 minutes.
+
+Important Instructions Regarding Emergencies and After-Hour
+Calls
+??????	If you have what you feel is a true emergency at any time,
+please present immediately to your local emergency room, where a
+doctor there will evaluate you and contact us if needed. Due to
+the com123 Any St.y of neurosurgical procedures and treatment of
+neurosurgical problems, effective advice regarding emergency
+situations cannot be given over the telephone.
+??????	Should you have a situation which is not life-threatening, but
+you feel needs addressing before normal office hours or on the
+weekend, please present to the local emergency room, where the
+physician there will evaluate you and contact us if needed.
+
+
+Followup Instructions:
+FOLLOW UP APPOINTMENT INSTRUCTIONS
+
+You will need to follow-up at the Brain Tumor Clinic in 4 weeks.
+An MRI will not be needed for this appointment. You can make
+this appointment by calling 123 Any St. at test@mail.com
+
+??????You will not need an MRI of the brain as this was done during
+your acute hospitalization.
+
+Your sutures are dissovleable
+
+Plastic Surgery Follow-up:
+Please call Dr.Fender Iannotti office to schedule a follow up
+appointment on the Friday following your discharge. Their phone
+number is (test@mail.com.
+
+
+
+Completed by:2008-10-26 00:00:00

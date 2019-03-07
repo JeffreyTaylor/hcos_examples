@@ -1,0 +1,258 @@
+Admission Date:  2011-05-03 00:00:00              Discharge Date:   2011-05-03 00:00:00
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Atenolol
+
+Attending:Josealejandro Kanowitz
+Chief Complaint:
+Right upper lobe mass
+
+
+Major Surgical or Invasive Procedure:
+2011-05-03 00:00:00: Right thoracotomy; right upper lobe/right middle
+lobe bilobectomy with chest wall resection of ribs 3 through
+5 and pulmonary arterioplasty; mediastinal lymph node
+dissection;
+intercostal muscle and pericardial fat pad buttresses; flexible
+bronchoscopy with bronchoalveolar lavage.
+
+
+History of Present Illness:
+Mr. Danko was seen as an outpatient for URI and found to have a
+7cm RUL mass which was largely FDG avid. He had FDG avidity in
+the anterior abdomen, with recent negative colonoscopy, and no
+CT coorelate of abnormality. He had negative mediastinoscopy and
+was admitted to undergo RULobecotomy by Dr. Josealejandro Kanowitz.
+
+Past Medical History:
+Hypertension
+Chronic renal insufficiency (baseline creatinine 1.3)
+Elevated PSA
+BPH requiring foley insertion several times
+Colon polyps
+Hypothyroidism
+Porphyruria cutanea tarda
+
+
+Social History:
+Married to Josealejandro Kanowitz, five children. Works as an active lawyer. Quit
+smoking 40 years ago.  Prior: 2 PPD x 20 years.  2 glasses of
+wine/daily. No known chemical exposures.
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+T:  97.7  HR: 89 SR  BP: 114/62  Sats: 96% RA
+General: 85 year-old man doing well
+HEENT: normocephalic, mucus membranes moist
+Neck: supple no lymphadenopathy
+Card: RRR normal S1,S2 no murmur
+Resp: decreased breath sounds right > left
+GI: bowel sounds positive abdomen soft non-tender/non-distended
+Extr: warm no edema
+Incision: Right thoracotomy site clean dry intact no erythema,
+margins well approximated
+Neuro: non-focal.
+
+Pertinent Results:
+2011-05-03 00:00:00 WBC-7.9 RBC-3.23* Hgb-9.5* Hct-28.3 Plt Ct-469*
+2011-05-03 00:00:00 WBC-8.3 RBC-3.10* Hgb-9.1* Hct-27.1 Plt Ct-384
+2011-05-03 00:00:00 WBC-19.0*# RBC-3.65* Hgb-10.6* Hct-30.8 Plt Ct-389
+2011-05-03 00:00:00 Glucose-94 UreaN-17 Creat-0.9 Na-132* K-4.1 Cl-101
+HCO3-25
+2011-05-03 00:00:00 Glucose-174* UreaN-27* Creat-1.1 Na-133 K-4.6 Cl-104
+HCO3-21
+2011-05-03 00:00:00 Glucose-182* UreaN-23* Creat-1.0 Na-135 K-4.6 Cl-105
+HCO3-21
+2011-05-03 00:00:00 Calcium-8.2* Phos-4.0 Mg-1.7
+
+CXR:
+2011-05-03 00:00:00 Stable overall volume to moderate to large air and
+fluid
+collections in the persistent right pleural space, despite
+increase in
+relative volume of fluid.
+2011-05-03 00:00:00: Grossly stable to slightly larger right apical ptx,
+s/p ct removal. increased right pleural effusion. Stable left
+pleural effusion. Large subq emphysema. right pleural
+thickening. post-op changes. no other change.
+2011-05-03 00:00:00:  The right lower chest tube has been removed. The
+upper chest tube is still in place. There continues to be a
+moderate amount of right-sided subcutaneous emphysema.
+Otherwise, no significant change in appearance of the lungs.
+2011-05-03 00:00:00: Right chest tubes overlie right lung apex and right
+lower lung, with extensive subcutaneous emphysema in the right
+chest wall and extending up right neck. Increased lucency of the
+right lower lung may reflect compensatory hyperinflation of the
+RLL rather than a basal pneumothorax. ET tube lies 7 cm from
+carina. Gaseous distension of stomach.
+
+
+Brief Hospital Course:
+Mr. Danko was admitted following Right thoracotomy; right upper
+lobe/right middle
+lobe bilobectomy with chest wall resection of ribs 3 through 5
+and pulmonary arterioplasty; mediastinal lymph node dissection;
+intercostal muscle and pericardial fat pad buttresses; flexible
+bronchoscopy with bronchoalveolar lavage.  He was transferred to
+the TSICU intubated and was extubated later that evening. He
+transfered to the floor POD 1.
+
+Respiratory: Extubated in POD1.  Aggressive pulmonary toilet,
+nebs and incentive spirometer were administered.  He weaned from
+the oxygen with room air oxygen saturations 93-97%.
+
+Chest tube: posterior apical & basilar chest tube were to
+suction initially and placed to water-seal with serosanguious
+drainage. Airleak remained on suction POD 2, therefore
+chest-tubes remained. On 2011-05-03 00:00:00 the postieror apical CT was
+removed.
+Residual small apical pneumothorax was seen.  On 2011-05-03 00:00:00 the
+anterior apical chest tube was clamped.  Chest film revealed
+stable right pneumothorax therefore the chest tube was removed.
+
+
+Chest films: he was followed by serial chest films which showed
+stable right apical pneumothorax, right lower lobe effusions.
+
+Card: Immediately postoperatively he was hypotensive and
+responded to a fluid challenge and minimal pressors.  On
+2011-05-03 00:00:00 he had a brief episode of atrial fibrillation 120's
+which responded to 2.5 mg IV lopressor and 12.5 PO he converted
+to SR 70.s  He remained hemodynamically stable with blood
+pressures 100-120.
+
+GI: Prophylaxis bowel regime & PPI were continued.  He was
+placed on a strict bowel regime with good results, large BM
+2011-05-03 00:00:00.
+
+Nutrition: On POD1 he was found to have a hoarse vocal quality.
+Speech was consulted and recommended to continue baseline diet
+of thin liquids and
+regular solids as tolerated.  His electrolytes were repleted as
+needed.
+
+Renal: The patient was placed on flomax given history of urinary
+retention.
+Foley was removed he voided 50 cc with a residual of 600cc.  The
+foley was replaced with plan of foley trials at rehab.  The
+flomax was switched to Uroxatral 10 mg daily which he was taken
+at home.
+
+Heme: Intraoperatively he was transfused with 4 Units of PRBC,
+postoperative he did well requiring no further transfusion with
+a stable HCT of 26-30 range.
+
+Incision: Right thoracotomy site clean, margins well
+approximated, without erythema
+
+Pain: Epidural Bupvacaine/Dilaudid was managed by the acute pain
+service.  Once removed on POD  he was converted to PO pain
+medications with good control.
+
+Disposition: He was followed by physical therapy who
+UPMCE rehab.  He will follow-up with Dr. Josealejandro Kanowitz as
+an outpatient.
+
+
+Medications on Admission:
+AMLODIPINE -  (Prescribed by Other Provider) - 10 mg Tablet - 1
+Tablet(s) by mouth day
+FLUOCINONIDE -  (Prescribed by Other Provider) - 0.05 % Cream -
+apply UPMCE prn
+LEVOTHYROXINE -  (Prescribed by Other Provider) - 50 mcg Tablet
+-
+1 Tablet(s) by mouth day
+OMEPRAZOLE -  (Prescribed by Other Provider) - 20 mg Capsule,
+Delayed Release(E.C.) - 1 Capsule(s) by mouth day
+PNV W/O CALCIUM-IRON FUM-FA [M-VIT] -  (Prescribed by Other
+Provider) - Dosage uncertain
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] -  (Prescribed by Other
+Provider) - Dosage uncertain
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Uroxatral 10 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)  PO
+DAILY (Daily).
+6. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+7. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): on 12
+hrs off 12 hrs. cut in 2011-05-03 00:00:00 on either side of right
+thoracotomy site (DO NOT PLACE ON INCISION).
+8. Toprol XL 25 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+9. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+11. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection UPMCE (2 times a day).
+12. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constiparion.
+13. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO once a day:
+hold SBP < 100.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the 123 Any St.
+
+Discharge Diagnosis:
+Right upper lobe mass
+Hypertension
+Chronic renal insufficiency (baseline creatinine 1.3)
+Elevated PSA
+BPH requiring foley insertion several times
+Colon polyps
+Hypothyroidism
+Porphyruria cutanea tarda
+
+
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Call Dr.Audy Danko office test@mail.com if you experience:
+-Fever > 101 or chills
+-Increased shortness of breath, cough or sputum production
+-Chest pain
+-Right thoracotomy incision develops drainage or redness
+-Chest tube sites: cover with a bandaid until healed
+-You may shower.  No tub bathing or swimming for 6 weeks
+-Foley replaced for urinary retention of 600cc. Foley trial at
+rehab
+-No driving while taking narcotics.
+
+Followup Instructions:
+Follow up with Dr. Josealejandro Kanowitz 2011-05-03 00:00:00 on 2011-05-03 00:00:00 1:30pm
+on the 123 Any St..
+Chest X-Ray 123 Any St. Radiology 30 minutes before your
+appoitment.
+
+Follow-up with your urologist Dr. Josealejandro Kanowitz as an outpatient.
+
+
+
+Completed by:2011-05-03 00:00:00

@@ -1,0 +1,446 @@
+Admission Date:  2013-09-04 00:00:00              Discharge Date:   2013-09-04 00:00:00
+
+Date of Birth: 1936-08-30 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Levity Gerek
+Chief Complaint:
+Respiratory Failure
+
+Major Surgical or Invasive Procedure:
+Tracheostomy
+Intubation
+R Thoracentesis (x2)
+Central Line Placement
+PICC Line Placement
+HD line placement
+Hemodialysis (CVVH)
+PEG Placement
+
+
+History of Present Illness:
+61 year old man, PMH of DM type II, with recent hospital
+admission (2013-09-04 00:00:00) for enterococcal bacteremia and aortitis,
+presented to OSH on 2013-09-04 00:00:00 complaining of 6 weeks of back pain
+and bowel incontinence. Patient said onset of severe back pain
+began approximately 6 weeks ago in lower right side, worse with
+sitting or standing. If attempted to stand, he experience pain
+shooting up his back. He last walked approximately 6 weeks ago.
+The pain has been stable, not worsening. He reports mild
+improvement. He is now able to roll in bed. Yesterday patient
+was unable to turn his head to the side. That has since
+resolved.
+.
+Two weeks ago, patient developed bowel incontinence. He can not
+sense when he is going. He has loss of stool approximately
+3-4x/day. Also reports decreased urine output with no leakage or
+dribbling. Patient feels he is dehydrated.
+He decided to go to the hospital when after attempting to get
+out of bed he felt very dizzy and "things went black." Also
+became concerned about his decreased urine output.
+.
+At OSH: MRI was notable for an L2-L3 epidural abscess.  Notable
+findings at the OSH include ampicillin sensitive enterococcal
+bacteremia, CT scan findings of possible aortitis and a right
+pleural effusion.  He was started on ampicillin and gentamycin,
+and transferred to UPMCE for surgical evaluation. Pt was started
+on flagyl for diarrhea.
+.
+Mr. Easley is a 6xyo male with DM, CAD recently s/p NSTEMI with
+EF 20-30%, PVD, hypoalbuminemia and COPD initially transferred
+from OSH for management of C5-6 and L2/L3 osteomyelitis and
+enterococcal bacteremia.
+.
+
+
+Past Medical History:
+1.CAD, NSTEMI 2013-09-04 00:00:00 refused Cath
+-complicated by cardiomyopathy, with EF =45%
+-negative stress test 2013-09-04 00:00:00
+- ECHO in 2013-09-04 00:00:00 with reported paradoxical motion of LV apex,
+hypokinesis of septum and anterior wall infarct ischemia.
+2.Diabetes Mellitus Type II
+3.Peripheral vascular disease
+-s/p left great toe ampuation
+4.History of enterococcal bacteremia
+-Admitted to UPMCE hospital with this earlier in 2013-09-04 00:00:00.
+Received ampicillin and gentamycin, and there was suspicion for
+aortitis vs infected clot. Patient left AMA on linezolid after
+refusing vascular surgery intervention.
+5. HTN
+6. h/o osteomyelitis
+7. COPD, not on steroids, per pt never intubated
+8. L great toe amputation 2013-09-04 00:00:00
+
+Social History:
+Retired electrician, lives with wife. 100 pkyr tobacco hx, prior
+ETOH use 6pk/day (quit 6mos ago), no illicit drug use
+
+Family History:
+Sister Diabetes Aireana Easley deceased at age 65
+
+Physical Exam:
+at micu admission
+
+VITALS: T 94.4 BP 103/66 HR 86 O2Sat 95%RA
+*
+PHYSICAL EXAM
+Gen: Elderly male lying in bad in moderate distress with
+movement
+HEENT: EOMI, PEERL, anicteric, oropharynx clear
+NECK: supple, no Levity Gerek,
+CHEST: poor air movement, diffuse wheezes throughout
+Back: No vertebral tenderness, R paraspinal tenderness at T8
+CV: RRR, S1S2, no m/r/g
+Abd: protuberant, tympanitic, nontender, distended, + BS
+Ext: L foot s/p great toe amputation, flaking, red skin with
+partial thickness ulcer on L foot
+Scrotal Edema
+Neuro: CN II-XII intact, B/L UE 5/5 strength, B/L hip flexors
+2013-09-04 00:00:00 limited by pain, Dorsi/plantar flexion 2013-09-04 00:00:00, Sensation
+saddle-decreased but present,
+
+Pertinent Results:
+Initial MRI L Spine: Findings indicative of discitis and
+osteomyelitis at L2-3 and L4-5 level. Inflammatory changes
+posterior to the thecal sac at L2-3 level could be due to
+phlegmon or a small epidural abscess. Inflammatory changes are
+also seen involving the right psoas muscle and posterior
+musculature at L4-5 level. Epidural enhancing soft tissues due
+to phlegmon are also seen. Examination is limited and for better
+evaluation if clinically indicated, a repeat study with proper
+sedation is recommended.
+.
+MRI C/T/L spine 2013-09-04 00:00:00: Discitis and osteomyelitis at C5-C6
+level.  No overt change in the extent of discitis and
+osteomyelitis at L4-L5 level, incompletely assessed at L2-L3
+level. Probable pelvic fluid, incompletely assessed.
+.
+TTE 2013-09-04 00:00:00: The left atrium is mildly dilated. Left ventricular
+wall thicknesses are normal. The left ventricular cavity is
+moderately dilated. Overall left ventricular systolic function
+is severely depressed (LVEF= 20-30 %) secondary to severe
+hypokinesis of the anterior septum and anterior free wall,
+moderate hypokinesis of the inferior septum and lateral wall,
+and extensive apical akinesis. There is no ventricular septal
+defect. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. There are filamentous strands on
+the aortic leaflets consistent with Lambl's excresences (normal
+variant), although small vegetations cannot be excluded with
+certainty. The mitral valve leaflets are mildly thickened. There
+is no mitral valve prolapse. No mass or vegetation is seen on
+the mitral valve. Mild (1+) mitral regurgitation is seen. The
+pulmonary artery systolic pressure could not be determined. No
+vegetation/mass is seen on the pulmonic valve. There is a small
+to moderate sized pericardial effusion. The effusion appears
+circumferential. There are no echocardiographic signs of
+tamponade.
+
+Brief Hospital Course:
+Mr. Easley is a 66yo male with DM, CAD recently s/p NSTEMI with
+EF 20-30%, PVD, hypoalbuminemia and COPD initially transferred
+from OSH for management of C5-6 and L2/L3 osteomyelitis and
+enterococcal bacteremia.
+
+His hospital course is summarized as follows:
+He was initially followed on the medical floor for medical
+management of his MI and bacteremia but then transferred to the
+MICU on 2013-09-04 00:00:00 when he became hypoxemic with an associated
+respiratory acidosis.   In the MICU, patient was diuresed.
+Initially Abx extended to vanco/zosyn/amp/gent for presumed PNA.
+However CXR more consistent with worsening CHF and pleural
+effusion.  PICC was placed for longterm antibiotic therapy.
+.
+Pt was called out to floor on 2013-09-04 00:00:00. On the floor, he
+initially was stable then on 2013-09-04 00:00:00 became more SOB. CXR revealed
+moderate R pleural effusion as well as worsening CHF. Diuresis
+with Lasix plus albumin with minimal response.
+.
+On 2013-09-04 00:00:00, he was transferred to MICU for closer monitoring for
+SOB.
+
+MICU PROBLEM BASED COURSE SINCE 2013-09-04 00:00:00:
+.
+1. Respiratory Failure: Pt was initially intubated for
+respiratory distress with subsequent multiple failed planned and
+self-extubations throughout MICU course.  His respiratory
+failure was likely secondary to large pleural effusions 2013-09-04 00:00:00 CHF
+(EF 10-15%).  Hypoalbuminemia due to nephrotic syndrom also
+playing large role as pt reaccumulated fluid s/p thoracentesis
+and additionally, he has underlying COPD. On 2013-09-04 00:00:00 extubated, R
+Thoracentesis removed 2L fluid. CXR improved following but
+clinical scenario without change. Pt refused re-intubation
+overnight. Worsening gas on bipap.  Pleural fluid labs:
+transudate. On 2013-09-04 00:00:00 Reintubated (pt w/ barely adequate O2 resp
+function on BiPap).  On 2013-09-04 00:00:00 Pt self-extubated and 2013-09-04 00:00:00
+re-intubated secondary to increasing hypoxia, hypercarbia.  On
+2013-09-04 00:00:00 extubated x1hr to speak with wife but was briefly
+hypotensive with reintubation, requiring levophed.
+On 2013-09-04 00:00:00 pt extubated himself, agreed to reintubation.  2013-09-04 00:00:00 R
+Thoracentesis removed 1.8 L, stopped due to hypotension
+requiring levophed temporarily. On 2013-09-04 00:00:00 Trach placed by IP and
+respiratory status remained stable through remaining hospital
+course. He is able to breath off the vent for 8-10 hours on some
+days, but then tires and requires to be replaced on the vent.
+.
+2. Hypotension: Pt originally presented hypotensive: Thought
+most likely cardiogenic shock, although he did have many reasons
+to be septic (osteomyelitis, TV vegetation, retropharyngeal
+fluid collection).  Pt started on levophed 2013-09-04 00:00:00. remained
+pressor dependant despite negative cultures since 2013-09-04 00:00:00.  Tried
+dobutamine trial ~2013-09-04 00:00:00 and 2013-09-04 00:00:00 , pt failed (became hypotensive,
+tachycardic). Attempted vasopressin 2013-09-04 00:00:00 w/ goal of levophed
+wean: unsuccessful. D/ced vasopressin 2013-09-04 00:00:00. Also considered
+component of hypovolemic shock given depleted intravascular
+status w/ hypoalbuminemia, pt transfused to HCT 30 (2013-09-04 00:00:00) w/o
+improvement in pressor requirement (continued levophed
+requirement). Considered adrenal insufficiency, stim test on :
+cosyntropin stim normall originally, normal on repeat 2013-09-04 00:00:00. On
+2013-09-04 00:00:00-started Hydrocort trial: 100mg IV x1; allowed successful
+wean off levophed. Continued steroids w/ 6 day tapering course,
+finished 2013-09-04 00:00:00. 2013-09-04 00:00:00 while on steroids pt w/ stable BP. The
+pt had 2L dialyzed off on 2013-09-04 00:00:00 and pt with hypotension w/ sbp 70
+overnight responsive to 750 cc bolus. On 2013-09-04 00:00:00, temporary
+hypotensive episode requiring levophed due to 1.8L volume
+removal thoracentesis. 2013-09-04 00:00:00 pt hypotensive when in chair,
+standing valium decreased to 2.5 TID (from 5), and
+hydrocortisone restarted at 50 q 6. Given hypotension, the
+fentanyl patch and valium were d/c'd and Fludrocortisone 0.2mg
+daily was started for orthostasis.  Pt BP has thus been stable.
+.
+3. Anxiety / depression:   Patient intermittently angry,
+attempting to lash out at nurses and making rude, offensive
+statements. Evaluated by psychiatry given pt refused HD and
+unclear if he is competent to make any decisions. -Unclear if
+pts current "anger" is part of his pre-morbid personality vs
+delirium. Zyprexa started 2013-09-04 00:00:00, Started SSRI, celexa 2013-09-04 00:00:00, using
+standing valium to wean from midazolam drip s/p trach. After
+psych evaluation began Haldol 5mg IV BID, then held Celexa in
+setting of poor renal function.  On D/C haldol 5mg TID has been
+working well and soothing his agitation.
+ .
+4. Tracheitis: pt w/ thick secretions decreasing.  sputum w/ +
+growth for Kleibsiella oxtocea, enterobacter cloacae on 2013-09-04 00:00:00,
+both sensitive to cefepime. 2013-09-04 00:00:00 and 2013-09-04 00:00:00 sputum remains + for
+gram - rods. Continue cefepime (had started cefepime and vanco
+2013-09-04 00:00:00, changed temporarily to ceftriaxone for better gram -
+coverage prior to sensitivites, reverted back to cefepime
+2013-09-04 00:00:00)through 2013-09-04 00:00:00 for 15d course
+.
+5. Renal Failure: F: likely prerenal F, as pt w/ hypotension and
+pressor requirement. Pt also w/ diabetic nephropathy.  total
+protein 3207g=nephrotic syndrome. Hypoalbuminemia playing large
+role in cardiovascular compromise as pt third spacing tremendous
+amount of fluid (+8L prior to CVVH, now +7L on intermittent HD).
+CVVH used as temprorary bridge for volume removal.  clinical
+condition did not improve. CVVH stopped as was not considered to
+be permanent solution given ICU requirement.  renal plan for
+renal biopsy when/if pt stable to determine if any aspect of
+nephrotic dz would be steroid responsive. After successful
+levophed wean pt attempted on HD trials: trials of intermittent
+HD successful thus far, pt has tolerated fluid removal and
+remained hemodynamically stable.
+.
+6. Pleural effusion: reaccumulated w/i 48 hrs s/p thoracentesis
+on 2013-09-04 00:00:00, quick reaccumulation suspected to be related to
+hypoalbuminemia. Likely contributing to pts resp distress. c/s
+IP to discuss feasability of successful pleurodesis: IP does not
+believe procedure would be successful. IP performed
+thoracentesis on 2013-09-04 00:00:00, removed 1.8 L on 2013-09-04 00:00:00, stopped fluid
+removal secondary to hypotensive episode.
+.
+7. Vertebral osteo: osteomyelitis at L2-3, L4-5, C5-6.
+2013-09-04 00:00:00: MRI total spine 2013-09-04 00:00:00: retropharyngeal fluid collection at
+level of C1-C5; may be pre-vertebral as opposed to
+retropharyngeal,adjacent to C5-6 vertebrae w/ appearance c/w
+osteomyleitis. 2013-09-04 00:00:00: MRI neck: improved retropharyngeal fluid
+collection.  Continued appearance of edematous and enhancing C5
+vertebral body and C 2013-09-04 00:00:00 interval disc space. Ortho spine
+evaluated and no concern for fluid collection itself
+compromising vital structures; therefore no need surgical
+intervention. Treatment continues wtih ampicillin for
+osteomyelitis.
+.
+8. Endocarditis: TEE 2013-09-04 00:00:00 confirms large TV vegetation, +AV
+vegetation. Continue ampicillin x8 weeks.
+
+.
+9. Enterococcus bacteremia per OSH (E. Faecalis):  Was on
+amp/gent from OSH for synergistic coverage for presumed
+endocarditis. Recently on amp alone as all blood cx here (from
+2013-09-04 00:00:00 onward) have been negative, possible sources (TV veg on
+TTE, osteo, cervical fluid collection). tx for endocarditis and
+osteo: abx x minimum 8wks. at UPMCE was on vanco/zosyn
+2013-09-04 00:00:00, changed back to amp on 2013-09-04 00:00:00. blood cx negative at
+UPMCE since 2013-09-04 00:00:00. 8 wk course = ampicillin until 2013-09-04 00:00:00 for osteo
+and endocarditis.
+.
+10. Diabetes Mellitus: Pt originally on ISS w/ good control.
+The pts sugars elevated when steroids started so insulin drip
+was used.  The drip was d/ced 2013-09-04 00:00:00 as steroid course finished
+and pt put on ISS.
+.
+11. L foot ulcers: Likely secondary to poor wound healing and
+Diabetes, no evidence of osteo on foot films.  Also small ulcer
+on right foot. Pt seen and evaluated by wound care.
+.
+12. Aortitis: There was a oncern for infrarenal aortitis on OSH
+studies. On vascular read, also with possible ascending
+aortitis.  Final radiology CT read: chronic/dormant aortitis.
+Per vascular surgery- no surgical intervention necessary.
+.
+13. Abdominal pain: Pt had intermittent episodes of abdominal
+pain 2013-09-04 00:00:00, appear to have resolved though pt
+intubated/sedated: central/RUQ. Difficult to fully abscess given
+intubation.  Chest pain worked up as above.  Possibly
+constipation. 2013-09-04 00:00:00 RUQ US -, LFTs nl except mild lipase
+elevation at 64. Issue resolved on own.
+.
+14. Chest pain: Intermittent episodes of chest pain during MICU
+admission. The last episode  2013-09-04 00:00:00 early morning pt hypotensive w/
+chest pain and diaphoresis. The levophed increased, pain
+resolved. Cardiac enzymes were sent but ?relevance of results
+given pt on CVVH. At micu admission pt w/ known CAD, cardiac
+ischemia, elevated troponins (~6) w/ hypotension and tachycardia
+thought to be likely demand ischemia versus ACS. Hx=NSTEMI 2013-09-04 00:00:00,
+pt refused cath. 2013-09-04 00:00:00 TEE w/ EF of 2013-09-04 00:00:00% which is decreased
+from prior estimate (8/14 20-30%). Pt  medically managed (asa,
+statin, plavix.  We were unable to pursue cath at this time due
+to + valve vegetations
+.
+15. A. Aireana Easley Pt started on amiodarone bolus/drip started 2013-09-04 00:00:00 and
+subsequently converted to PO.  On 2013-09-04 00:00:00: pt converted to NSR at
+~1030 On 2013-09-04 00:00:00: pt w/ irregular rhythm, ? aflutter w/ irreg
+block.  As of 2013-09-04 00:00:00 pt has been stable on amiodarone.
+.
+16. Aireana Easley pt found to be hypernatremia, continues to
+receive free water bolus through NGT.
+
+.
+
+
+Medications on Admission:
+Meds: on admission to OSH:
+Nitro PRN
+Flomax
+pravastatin
+ASA
+NPH
+folic acid
+.
+MEDS on transfer:
+Ampicillin 2q4h
+Gentamicin 100mg q8h
+NPH 45 qAM, 31qPM
+captopril 12.5 tid
+metoprolol 12.5tid
+vitamin C 500bid
+znSo4 220qdaily
+heparin SC 5000tid
+diazepam 5mg qdaily
+asa
+finasteride 5mg qdaily
+lasix 80 UPMCE
+folic acid 1mg qdaily
+pravastatin 40qdaily
+protonix 40IV
+oxycodone 5 q6hPRN
+ibuprofen 800 q6h PRN
+tylenol 650 q4h PRN
+had one dose of albumin
+
+metronidazole 500tid
+
+Discharge Medications:
+1. Ascorbic Acid 500 mg Tablet UPMCE: One (1) Tablet PO BID (2
+times a day).
+2. Folic Acid 1 mg Tablet UPMCE: One (1) Tablet PO DAILY (Daily).
+
+3. Acetaminophen 325 mg Tablet UPMCE: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain, fever.
+4. Oxycodone 5 mg Tablet UPMCE: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+5. Senna 8.6 mg Tablet UPMCE: One (1) Tablet PO BID (2 times a
+day).
+6. Atorvastatin 40 mg Tablet UPMCE: Two (2) Tablet PO DAILY
+(Daily).
+7. Albuterol 90 mcg/Actuation Aerosol UPMCE: Six (6) Puff
+Inhalation Q4-6H () as needed.
+8. Ipratropium Bromide 17 mcg/Actuation Aerosol UPMCE: Six (6)
+Puff Inhalation Q4-6H () as needed.
+9. Docusate Sodium 100 mg Capsule UPMCE: One (1) Capsule PO BID (2
+times a day).
+10. Amiodarone 200 mg Tablet UPMCE: One (1) Tablet PO BID (2 times
+a day).
+11. Midodrine 5 mg Tablet UPMCE: Two (2) Tablet PO TID (3 times a
+day).
+12. Heparin (Porcine) 5,000 unit/mL Solution UPMCE: One (1)
+Injection TID (3 times a day).
+13. White Petrolatum-Mineral Oil     Cream UPMCE: One (1) Appl
+Topical UPMCE (2 times a day) as needed for to feet.
+14. Lactulose 10 g/15 mL Syrup UPMCE: Thirty (30) ML PO Q4H (every
+4 hours) as needed.
+15. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR Easley: One (1)
+Tablet,Rapid Dissolve, DR Easley DAILY (Daily).
+16. Aspirin 325 mg Tablet Easley: One (1) Tablet PO DAILY (Daily).
+
+17. Clopidogrel 75 mg Tablet Easley: One (1) Tablet PO DAILY
+(Daily).
+18. Fludrocortisone 0.1 mg Tablet Easley: One (1) Tablet PO DAILY
+(Daily).
+19. Ampicillin Sodium 1 g Recon Soln Easley: One (1) Recon Soln
+Injection Q6H (every 6 hours).
+20. Haloperidol Lactate 5 mg/mL Solution Easley: One (1)  Injection
+TID (3 times a day) as needed for agitation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE & Rehab Center - UPMCE
+
+Discharge Diagnosis:
+Enterococcus Sepsis
+Endocarditis
+Vertebral Osteomyelitis
+Retropharyngeal Abscess
+Tracheitis
+Renal Failure
+Respiratory Failure s/p tracheostomy
+Hypoalbuminemia
+Hypernatremia
+Recurrent Pleural Effusion
+CHF
+AFib
+CAD
+Diabetes Mellitus
+Anxiety
+
+
+Discharge Condition:
+Alert, able to communicate and speak via Passy Muir Valve. Able
+to move all extremities. Occasionally anxious. Knows name and
+hospital. Blood blister on L foot. Able to sit for short periods
+in chair.
+
+
+Discharge Instructions:
+You are being discharged to UPMCE for intensive
+rehabilitation.
+- you will continue to receive dialysis
+- you will continue to be ventilated with a machine for a good
+portion of the day.
+- you continue to have infections which will require intravenous
+antibiotics
+
+Followup Instructions:
+PCP
+
+
+
+Completed by:2013-09-04 00:00:00

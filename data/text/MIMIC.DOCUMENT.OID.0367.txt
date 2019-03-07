@@ -1,0 +1,384 @@
+Admission Date:  2011-09-15 00:00:00              Discharge Date:   2011-09-15 00:00:00
+
+Date of Birth: 1953-09-15 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Blackie Massier
+Chief Complaint:
+respiratory distress
+
+Major Surgical or Invasive Procedure:
+Right internal jugular line (2011-09-15 00:00:00)
+
+History of Present Illness:
+53 yo M w/ h/o Down's syndrome, non-verbal at baseline,
+hypothyroidism, cataracts, dysphagia s/p G-tube, h/o aspiration
+pna's, hypoNa on 4Lnc QHS who presents w/ cough and hypoxia from
+group home.
+
+Per report, patient with acute on chronic cough found to desat
+to 88% on RA this AM. Looked as if he were in respiratory
+distress. Per OMR had been empirically treated for pna back in
+2011-09-15 00:00:00 w/ multiple notes documenting cough.
+
+In the ED, initial VS were: 98.2 74 92/50 28 100% nrb. Tmax
+100.2. On exam +crackles L>R. Labs notable for Na 129, Cl 93,
+HCO3 28, BUN 11, Cr 0.8, Glu 114, Lactate 1.4, UA neg
+leuk/nitr/3wbc/neg bact/epis O, wbc 7.2, HCT 41.3, plt 313. CXR:
+gastric distention, bibasilar atelectasis. He received
+ceftriaxone and levo, vanc, and Flagyl, 1LNS.
+
+A right IJ was placed and followup chest x-ray showed small
+right upper lobe pneumothorax.
+
+On the floor, Abx were narrowed to Zosyn. He became hypotensive
+to 76/doppler, thick secretions on nasotracheal suctioning and
+increased work of breathing. Mentation was unchanged during
+event and held his sats at 100% on 3LNC. CXR showed new
+pneumothorax and bilateral infiltrates. He received
+albuterol/impratropium and 500cc NS, pressures improved to
+83/doppler. He was transferred to the MICU for hypotension.
+
+On arrival to the MICU, the patient is lethargic, awakens to
+sternal rub, does not interact. Not in acute distress.
+
+
+Past Medical History:
+Down's syndrome, non-verbal at baseline
+-Alzheimer's
+-B12 deficiency
+-hypothyroidism
+-cataracts, legally blind
+-dysphagia s/p G-tube
+-h/o aspiration pna's
+-h/o DVT
+-h/o cdiff
+
+
+Social History:
+Lives in a group home, brothers very involved with care.
+
+
+
+Family History:
+No memory disorders
+
+Physical Exam:
+General: Lethargic, arouses to sternal rub, no acute distress
+HEENT: Pupils equal, round and reactive
+Neck: No LAD
+CV: Regular rate and rhythm, no murmurs
+Lungs: No accessory muscle use, no retractios. Good air
+movement. Diffuse ronchi throughout.
+Abd: Soft, Gtube site c/d/i, normoactive BS, nontender
+nondistended
+GU: Foley in place
+Ext: warm, well perfused, 2+ pulses pedal pulses, no clubbing,
+cyanosis or edema
+
+
+Pertinent Results:
+Admission Labs:
+2011-09-15 00:00:00 11:02PM URINE  HOURS-RANDOM UREA N-59 CREAT-7
+SODIUM-127 POTASSIUM-11 CHLORIDE-126
+2011-09-15 00:00:00 11:02PM URINE  OSMOLAL-291
+2011-09-15 00:00:00 11:02PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+2011-09-15 00:00:00 10:32PM   GLUCOSE-96 UREA N-6 CREAT-0.5 SODIUM-135
+POTASSIUM-3.4 CHLORIDE-99 TOTAL CO2-31 ANION GAP-8
+2011-09-15 00:00:00 10:32PM   CALCIUM-7.9* PHOSPHATE-2.6* MAGNESIUM-1.8
+2011-09-15 00:00:00 10:32PM   TSH-3.0
+2011-09-15 00:00:00 10:32PM   WBC-5.9 RBC-3.55* HGB-12.5* HCT-36.9*
+MCV-104* MCH-35.3* MCHC-33.9 RDW-13.3
+2011-09-15 00:00:00 10:32PM   PLT COUNT-262
+2011-09-15 00:00:00 09:07AM   LACTATE-1.4
+2011-09-15 00:00:00 08:55AM   GLUCOSE-114* UREA N-11 CREAT-0.8 SODIUM-129*
+POTASSIUM-4.4 CHLORIDE-93* TOTAL CO2-28 ANION GAP-12
+2011-09-15 00:00:00 08:55AM   WBC-7.2# RBC-3.99* HGB-14.0 HCT-41.3 MCV-104*
+MCH-35.2* MCHC-34.0 RDW-12.9
+2011-09-15 00:00:00 08:55AM   NEUTS-79.7* LYMPHS-13.4* MONOS-4.5 EOS-1.5
+BASOS-0.9
+2011-09-15 00:00:00 08:55AM   PLT COUNT-313
+
+UPMCE:
+2011-09-15 00:00:00 06:36AM BLOOD Albumin-2.9* Calcium-7.9*
+2011-09-15 00:00:00 10:32PM BLOOD TSH-3.0
+2011-09-15 00:00:00 03:28AM BLOOD Cortsol-11.9
+2011-09-15 00:00:00 05:13AM BLOOD Vanco-24.9*
+2011-09-15 00:00:00 09:58PM BLOOD Vanco-19.8
+
+Discharge Labs:
+2011-09-15 00:00:00 05:50AM BLOOD WBC-5.4 RBC-3.71* Hgb-13.1* Hct-39.9*
+MCV-108* MCH-35.2* MCHC-32.8 RDW-12.9 Plt Ct-264
+2011-09-15 00:00:00 05:50AM BLOOD Glucose-94 UreaN-7 Creat-0.9 Na-138 K-4.2
+Cl-97 HCO3-31 AnGap-14
+
+Microbiology:
+2011-09-15 00:00:00 SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL;
+FUNGAL CULTURE-123 Any St.INARY
+2011-09-15 00:00:00 URINE Legionella Urinary Antigen - FINAL
+2011-09-15 00:00:00 URINE CULTURE - FINAL
+2011-09-15 00:00:00 MRSA SCREEN - POSITIVE FOR METHICILLIN RESISTANT
+STAPH AUREUS
+2011-09-15 00:00:00 BLOOD CULTURE - PENDING
+
+Imaging:
+CXR 2011-09-15 00:00:00: Two frontal radiographs were obtained.  Lung volumes
+are low.  There is no
+focal consolidation, large effusion, or pneumothorax.  There are
+no abnormal cardiac or mediastinal contours.  Basilar
+atelectasis is noted.
+
+CXR 2011-09-15 00:00:00: As compared to the [** Location **]us radiograph, there is
+increasing radiodensity in the right lung, predominating in the
+right upper lobe. Developing pneumonia cannot be excluded.
+
+CXR 2011-09-15 00:00:00:  As compared to the [** Location **]us radiograph, the
+current image is taken in a highly rotated patient position.  As
+a result, hyperlucency of the left lung apex without definite
+signs of pneumothorax is seen.  The pre-existing opacity at the
+right lung apex is unchanged.  Lung volumes have minimally
+decreased, but the pre-existing signs suggesting fluid overload
+have decreased.  No evidence of pleural effusions, interposition
+of colon between the liver and the abdominal wall.  Unchanged
+position of the right internal jugular vein catheter.  Unchanged
+appearance of the cardiac silhouette.
+
+CXR 2011-09-15 00:00:00:  The lungs are now clear.  Right upper lobe opacity
+has completely resolved. There is only minimal bibasilar
+atelectasis.  Right jugular line ends in upper SVC.  Mediastinal
+and cardiac contours are normal.  No significant pleural
+effusions or pneumothorax.
+
+CT Head without contrast 2011-09-15 00:00:00:  pending at time of discharge
+
+
+Brief Hospital Course:
+SUMMARY: 54 yo M w/ h/o Down's syndrome, non-verbal at baseline,
+hypothyroidism, dysphagia s/p G-tube, h/o aspiration pna's,
+hypoNa on 4Lnc QHS who presents w/ cough and hypoxia from group
+home.
+
+# Hypotension: Blood pressure on the floor dropped to 92/50 and
+he was transferred to the MICU where his blood pressure
+responded to fluid boluses (total 3L). The etiology of his
+hypotension is likely secondary to acute infection. On CXR he
+has a possible right lobe infiltrate that could represent
+infection, pneumonitis or pulmonary edema. He was started on IV
+Vanc and Zosyn for coverage of healthcare associated pneumonia
+since he lives in a group home. At the time of discharge, his
+blood pressure was at baseline (100s/80s) and did not require
+pressors.
+
+# Respiratory Distress: Initially hypoxic to 88% at group home.
+No evidence of CHF by exam or CXR. No history of CHF in past.
+Could be secondary to infiltrate in right lobe that could
+represent pneumona, pneumonitis or pulmonary edema. EKG did not
+have any ischemic changes. On 2011-09-15 00:00:00 patient had RIJ placed and
+follow up CXR showed small pneumothorax but there was no change
+in the patient's respiratory status. He was put on supplemental
+oxygen, and on 2011-09-15 00:00:00 CXR showed resolution of the pneumothorax.
+He was discharged on a total 14 day course of antibiotics for
+his presumed HCAP, due to complete 2011-09-15 00:00:00. At the time of
+discharge, his oxygen saturation was high 90s on 2L nasal
+cannula.
+
+# pulmonary edema: No cardiac history, but patient developed
+findings c/w pulmonary edema on CXR after minimal fluids. EKG
+was unconcerning.
+
+# Seizure Disorder: Etiology unclear. Myoclonic jerks observed
+after transfer from MICU to the floor, and EEG showed seizure
+activity. His home Keppra was increased to 1.5g UPMCE.
+
+# HypoNa: Chronic per facility records, though hypovolemic this
+admission. Resolved with fluid resuscitation.
+
+# Down's syndrome, non-verbal at baseline: Per NH at baseline.
+Given his lack of responsiveness, head imaging was performed to
+ensure lack of new pathology.
+
+# Hypothyroidism: Continued on home synthroid. TSH was normal.
+
+# Social: Over the last few months that patient's health has
+been declining and he was made DNR/DNI by HCP (brother).
+Currently in discussion with PCP about making Dechelle Klemp and moving to
+hospice care.  During this admission a meeting with the
+patient's group home, DMH case worker, UPMCE social work and
+case management, UPMCE medical staff, and the patient's two
+brothers was held to discuss his prognosis and goals of care.
+The medical team stated that the patient's overall life
+expectancy is in the range of months, but that this could be
+much shorter if he has an acute respiratory event.  He will
+continue to aspirate and may continue to have infections.
+However, treating these infections may require him to remain in
+a hospital, which his family agrees is not the best setting for
+his comfort.  His brothers recognized that moving to hospice/DNH
+and taking him back to the group home would improve his quality
+of life, but they were concerned that this might shorten his
+overall lifespan.  After discussion of the options, they decided
+to complete this course of antibiotics (2 weeks) and then plan
+to return him to the group home.  They recognized that this
+course of treatment may not provide him any long-term benefit,
+and that he could die while undergoing the treatment.  They
+stated that they would consider a DNH order after this current
+course of antibiotics.
+
+FOLLOW-UP ISSUES
+
+1. Please follow up on his blood cultures and sputum cultures.
+They were pending at the time of discharge.
+
+2. Please evaluate for evidence of seizure-like activity. At the
+time of discharge, he was having occasional myoclonic jerks that
+did not correspond to epileptiform discharges on EEG. He may
+need an EEG at a future time.
+
+3. Please check his sodium and fluid balance, as he presented
+initially with hyponatremia, likely secondary to dehydration.
+
+4. Patient tested positive for MRSA, and should be on contact
+precautions.
+
+5. Head CT read pending on discharge, may show signs of subacute
+pathology that changes his overall prognosis.
+
+6.  IV Zosyn and vancomycin planned 14 day course through 2011-09-15 00:00:00,
+however this may be adjusted by the patient's response and
+clinical situation.
+
+Medications on Admission:
+- Acetaminophen 650 mg PO Q4H:PRN Pain/Fever
+- Atropine Sulfate 1% 2 DROP SL Q4H:PRN Secretions
+- Bacitracin Ointment 1 Appl TP UPMCE:PRN open wounds
+- Bisacodyl 10 mg PO/PR DAILY:PRN constipation
+- Denta 5000 Plus *NF* (sodium fluoride) 1.1 % Dental UPMCE
+- Fleet Enema 1 Enema PR DAILY:PRN constipation
+- Haloperidol 0.5-1 mg NG Q4H:PRN agitation
+- Kaopectate (bismuth subsalicy) *NF* (bismuth subsalicylate)
+- LeVETiracetam 500 mg PO QAM
+- LeVETiracetam 1000 mg PO QPM
+- Levothyroxine Sodium 88 mcg PO/NG QAM
+- Lorazepam 0.5 mg PO/NG Q4H:PRN Anxiety
+- Milk of Magnesia 30 mL NG PRN constipation
+- Multivitamins 5 mL PO/NG DAILY
+- Neutra-Phos 1 PKT PO BID
+- OxycoDONE (Immediate Release) 5 mg PO Q4H:PRN Pain/Shortness
+of Breath
+- Simethicone 40 mg PO Q4H
+
+
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q4H:PRN Pain/Fever
+2. Bacitracin Ointment 1 Appl TP UPMCE:PRN open wounds
+Apply to open wounds on coccyx and buttocks
+3. Bisacodyl 10 mg PO/PR DAILY:PRN constipation
+4. Fleet Enema 1 Enema PR DAILY:PRN constipation
+If dulcolax not effective
+5. Haloperidol 0.5-1 mg NG Q4H:PRN agitation
+Via G tube
+6. LeVETiracetam 1500 mg PO BID
+7. Levothyroxine Sodium 88 mcg PO QAM
+Via G tube
+8. Lorazepam 0.5 mg PO Q4H:PRN Anxiety
+Via G tube
+9. Milk of Magnesia 30 mL PO PRN constipation
+If no BM for 3 days. Give via G tube
+10. Multivitamins 5 mL PO DAILY
+Via G tube
+11. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN
+Pain/Shortness of Breath
+12. Simethicone 40 mg PO Q4H
+13. Denta 5000 Plus *NF* (sodium fluoride) 1.1 % Dental UPMCE
+14. Kaopectate (bismuth subsalicy) *NF* (bismuth subsalicylate)
+262 mg/15 mL Oral QD:PRN diarrhea
+Per G tube
+15. Neutra-Phos 1 PKT PO BID
+16. Atropine Sulfate 1% 2 DROP SL Q4H:PRN Secretions
+17. Vancomycin 1000 mg IV Q 12H
+RX *vancomycin 500 mg 1000mg IV twice a day Disp #*44 Each
+Refills:*0
+18. Piperacillin-Tazobactam 4.5 g IV Q8H
+RX *piperacillin-tazobactam 4.5 gram 4.5mg IV every 8 hours Disp
+#*33 Each Refills:*0
+19. Ipratropium Bromide Neb 1 NEB IH Q6H wheezing, dyspnea
+RX *ipratropium bromide 0.2 mg/mL  (0.02 %) 1 NEB Every six
+hours Disp #*15 Each Refills:*1
+20. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN dyspnea, wheezing
+
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 NEB Every six
+hours Disp #*15 Each Refills:*1
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary:
+- Aspiration pneumonia
+
+Secondary:
+- hypvolemia
+- Hypotension
+- Hyponatremia
+- Seizure disorder
+- Down's syndrome
+- Alzheimer's dementia
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic and not arousable.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Dear Mr. Klemp,
+
+It was a pleasure taking care of you in the hospital. You were
+admitted for shortness of breath, and were found to have an
+infection of your lungs from chronic aspiration. You were
+treated with IV antibiotics and regular suctioning of oral
+secretions, and your breathing improved. Your blood pressure was
+also occasionally low, and received IV fluids. You were found to
+have seizure activity during this hospitalization, and your home
+doses of keppra was increased.
+
+Please start taking the following medications:
+1. IV vancomycin 1gm twice a day
+2. Piperacillin-Tazobactam 4.5 g IV every 8 hours
+3. Albuterol 0.083% Neb Soln every 6 hours as needed for
+shortness of breath
+4. Ipratropium Bromide Neb every 6 hours as needed for shortness
+of breath
+
+Please change the dosing on the following medications:
+1. Levetiracetam 1500 mg twice a day
+
+Please continue to take your other medications.
+
+Followup Instructions:
+Department: PODIATRY
+When: MONDAY 2011-09-15 00:00:00 at 2:20 PM
+With: Dechelle Blackie Massier Klemp, DPM test@mail.com
+Building: Ba 123 Any St.
+Campus: WEST     Best Parking: 123 Any St. Garage
+
+Department: MEDICAL SPECIALTIES
+When: THURSDAY 2011-09-15 00:00:00 at 2:00 PM
+With: Dechelle Dechelle Klemp, MD test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+                             Dechelle Klemp MD 63327
+
+Completed by:2011-09-15 00:00:00

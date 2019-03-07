@@ -1,0 +1,193 @@
+Admission Date:  2014-09-13 00:00:00              Discharge Date:   2014-09-13 00:00:00
+
+Date of Birth: 1932-09-02 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Analucia Leskow
+Chief Complaint:
+headaches
+
+Major Surgical or Invasive Procedure:
+2014-09-13 00:00:00: right temporal craniotomy and resection of lesion
+
+
+History of Present Illness:
+Pt was seen a week prior to this admission for headaches. work
+up at that time revealed a right temporal lesion. It was
+recommended that the patient undergo surgical intervention. He
+recommended discharge home and to follow up electively. He now
+presents electively for craniotomy and resection
+
+Past Medical History:
+[] Neurologic - Possible/questionable seizures (lightheaded,
+fatigue, Teitelbaum vu, +/- LOC), Left hearing loss
+[] Psychiatric - Anxiety, depression
+[] Cardiovascular - Hyperlipidemia
+
+
+Social History:
+Works as a waiter. +Tobacco, 1ppd x 20 years. No
+ETOH. No illicit drug use.
+
+
+Family History:
+Heart valve issue (mother). No seizures. No malignancies.
+
+
+Physical Exam:
+Mental Status - Awake, alert, oriented x 3. Fluent speech.
+Naming and repetition intact. No dysarthria.
+
+Cranial Nerves - [II] PERRL 3->2 brisk. VF full
+[III, IV, VI] EOMI, 3-4 beats extreme end gaze nystagmus
+bilaterally, fatigable.
+[V] V1-V3 intact to light touch bilat
+[VII] face symmetric
+[VIII] Hearing intact to finger rub
+[IX, X] Palate elevation symmetric.
+[Analucia Leskow SCM/Trapezius strength 5/5 bilaterally.
+[XII] Tongue midline.
+
+Motor: Normal bulk and tone. No pronation, no drift. No
+tremor or asterixis.
+Strength is 2014-09-13 00:00:00 in all muscle groups
+
+Sensation intact to light touch
+
+Pertinent Results:
+2014-09-13 00:00:00 MRI Brain: IMPRESSION:  Status post resection of right
+temporal mass.  Residual enhancement is identified.  Blood
+products are seen in the region.  No change in degree of edema
+identified.  No hydrocephalus or midline shift.
+
+
+Brief Hospital Course:
+Pt electively presented and underwent a craniotomy and resection
+of lesion. Surgery was without complication and he tolerated it
+well. He was extubated and transferred to the ICU for close
+neurological monitoring overnight and systolic blood pressure
+control less then 140.  Postoperative MRI demonstrated no
+hemorrhage.  Minimal enhancement remained in the tumor bed.
+
+On POD 1 the patient was doing well and was transferred to the
+floor.  He was started on SC heparin for DVT prophylaxis.  He
+remained Neurologically intact.  He developed moderate
+rightsided postop facial and periorbital edema.
+
+On POD 2 the patient was mobilizing well.  At the time of
+discharge he was tolerating a regular diet, ambulalating without
+difficulty, afebrile with stable vital signs.
+
+Medications on Admission:
+1. Acetaminophen-Caff-Butalbital 2014-09-13 00:00:00 TAB PO Q4H:PRN pain,
+headache RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg 1
+tablet(s)
+by mouth every six (6) hours Disp #*40 Tablet Refills:*0
+2. Dexamethasone 4 mg PO Q6H
+RX *dexamethasone 4 mg 1 tablet(s) by mouth Q6 hours Disp #*60
+Tablet Refills:*0
+3. Famotidine 20 mg PO BID
+RX *famotidine 20 mg 1 tablet(s) by mouth twice a day Disp #*60
+Tablet Refills:*0
+4. LeVETiracetam 1500 mg PO BID
+5. Nicotine Patch 14 mg TD DAILY
+RX *nicotine 14 mg/24 hour 1 patch daily Disp #*30 Each
+Refills:*0
+6. Sertraline 50 mg PO DAILY
+
+
+Discharge Medications:
+1. Acetaminophen-Caff-Butalbital 2014-09-13 00:00:00 TAB PO Q4H:PRN headache
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg 2014-09-13 00:00:00
+tablet(s) by mouth every 8 hours as needed for headache Disp
+#*60 Tablet Refills:*0
+2. Bisacodyl 10 mg PO DAILY
+3. Dexamethasone 1 mg PO SEE TAPER BELOW
+2014-09-13 00:00:00: 3mg Q8 hrs
+2014-09-13 00:00:00: 3mg Q12 hrs
+2014-09-13 00:00:00 and continue: 2mg UPMCE and continue this dose until follow up
+
+RX *dexamethasone 1 mg See taper tablet(s) by mouth See Taper
+Disp #*90 Tablet Refills:*1
+4. Docusate Sodium 100 mg PO BID
+5. Omeprazole 20 mg PO BID
+continue this medication while you are taking Dexamethasone
+RX *omeprazole 20 mg 1 capsule(s) by mouth Twice daily Disp #*60
+Capsule Refills:*1
+6. LeVETiracetam 750 mg PO BID
+RX *levetiracetam [Keppra] 750 mg 1 tablet(s) by mouth Twice
+daily Disp #*60 Tablet Refills:*1
+7. Lorazepam 0.5 mg PO HS:PRN anxiety
+8. Nicotine Patch 14 mg TD DAILY
+RX *nicotine 14 mg/24 hour 1 patch Transdermal Daily Disp #*1
+Pack Refills:*1
+9. OxycoDONE (Immediate Release)  5-10 mg PO Q4H:PRN pain
+RX *oxycodone 5 mg 2014-09-13 00:00:00 tablet(s) by mouth every 4 hrs Disp #*60
+Tablet Refills:*0
+10. Senna 1 TAB PO BID
+11. Sertraline 50 mg PO QAM
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Right temporal mass
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Craniotomy for Tumor Excision
+Dr. Analucia Leskow
+
+??????	Have a friend/family member check your incision daily for
+signs of infection.
+??????	Take your pain medicine as prescribed.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	Dressing may be removed on Day 2 after surgery.
+??????	Your wound was closed with staples or non-dissolvable sutures
+then you must wait until after they are removed to wash your
+hair. You may shower before this time using a shower cap to
+cover your head.
+??????	Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace) &
+Senna while taking narcotic pain medication.
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and
+Ibuprofen etc.
+??????	You have been discharged on Keppra (Levetiracetam) for seizure
+prevention.  Continue to take this medication as , you will not
+require blood work monitoring.
+??????	If you are being sent home on steroid medication, make sure
+you are taking a medication to protect your stomach (Prilosec,
+Protonix, or Pepcid), as these medications can cause stomach
+irritation.  Make sure to take your steroid medication with
+meals, or a glass of milk.
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit.
+??????	Make sure to continue to use your incentive spirometer while
+at home.
+
+
+Followup Instructions:
+??????You have an appointment in the Brain Tumor Clinic on 2014-09-13 00:00:00 at
+3pm.  The Brain Tumor Clinic is located on the UPMCE of
+123 Any St.. Their phone number is
+test@mail.com. Please call if you need to change your
+appointment, or require additional directions. Your Staples will
+be removed at this appointment.
+
+
+
+Completed by:2014-09-13 00:00:00

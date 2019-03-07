@@ -1,0 +1,398 @@
+Admission Date:  2009-07-31 00:00:00              Discharge Date:   2009-07-31 00:00:00
+
+Date of Birth: 1948-07-28 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Latex / Demerol / Codeine /
+Penicillins / Propoxyphene
+
+Attending:Clerence Birdinground
+Chief Complaint:
+Overdose
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Ms. Laurich is a 60-year-old female with past medical history
+significant for Bipolar disorder, borderline personality
+disorder, multiple suicide attempts, h/o alcoholism, PTSD, COPD
+on home O2, breast cancer s/p lumpectomy who presented to ED via
+EMS after being found disoriented and wandering around her
+housing complex barefoot with 1 empty and 1 full bottle of
+clonazepam. She had 1 empty bottle of clonazepam filled 2009-07-31 00:00:00
+with 0 tablets and a 2nd bottle of clonazepam filled with 39
+pills (filled yesterday, so 21 tablets gone). She is supposed to
+be taking up to 4 pills per day per 2009-07-31 00:00:00. Patient states on
+further history that she dropped "a bunch" of her clonazepam
+tablets fell on the floor. She repeatedly denies any overdose.
+
+She was initially very agitated and unable to give detailed
+history. She also c/o pain all over her body pain and was
+slightly tremulous at rest. Per patient, she also complained of
+having recently run out of her home 02 a "few days ago" which
+she takes for history of COPD.
+
+In the ED, initial vital signs were: T 100.1, HR 83, BP 116/86,
+RR 20 and O2 sat 99% 2L . She denied fevers, cough, dysuria or
+abdominal pains on ROS in ED. She was a limited historian
+however, and difficult as she refused FSG and refused attempt at
+LP. Despite negative ETOH level she claims she has been drinking
+a bottle of wine daily but also made several confusing
+statements about timeline of her ETOH use so it is unclear if
+she actively using alcohol now. CT head and CXR in ED were both
+negative. EKG also showed normal intervals, NSR with no
+concerning ST changes. While in ED, she received 1.5L NS IVFs.
+2mg Ativan, 5mg Haldol and 50mg Benadryl for agitation which
+slowly improved through the afternoon. She was also given 1x
+dose 2g Ceftriaxone to cover possible urinary source and
+meningitis per ED resident although given no headaches and
+normal neuro exam there was limited concern for meningitis as
+her AMS improved in the ED.
+
+Given notice of recent TSH of 50 that has been untreated an
+endocrinology consult was also called from 123 Any St. and patient was
+given 200mcg IV levothyroxine. Per report, endocrinology service
+did not feel she was in overt myxedema coma but felt her
+metabolism of recent drugs likely impaired given her severe
+hypothyroidism.
+
+On arrival to UPMCE, initial vital signs were: T 99.3F, BP
+107/58, HR 77, RR 22 and O2 sat 98% on 2L NC. She seemed mildly
+confused and very easily agitated and refused to answer multiple
+questions. In no apparent distress.
+
+
+Past Medical History:
+-h/o cervical fracture ( wears soft collar 24 hours )
+-h/o hypokalemia
+-history of laxative abuse
+-anorexia nervosa
+-Bipolar disorder
+-Borderline personality disorder
+-h/o seizures in setting of alcohol withdrawal
+-PTSD
+-H/O multiple suicide attempts - cut wrists and multiple drug
+overdoses in past
+-mild systolic CHF ( EF 45% to 50% ) 2009-07-31 00:00:00
+-breast cancer s/p lumpectomy (no chemo or radiation therapy)
+-H/O Bell's palsy
+-Jaeya Laurich Pt is on 2L oxygen at home. (FEV1 48%; reduced DLCO, but
+restrictive physiology on PFTs)
+-Fibromyalgia
+-Inflammatory osteoarthritis
+-attention deficit disorder
+-CVA many years ago
+-TAHBSO- for cancer in 2009-07-31 00:00:00
+
+
+Social History:
+Lives alone in section 8 housing and has visiting nurse 5-6 days
+a week. She is married but states she has been separated from
+her husband for over 15 years. On [**Year (4 digits) 3658**] now. States she
+quit smoking 7 months ago and had smoked 80 pack year history
+prior to that. History of alcohol and cocaine abuse in the past.
+States she stopped going to AA meetings this year and has been
+drinking a bottle of wine daily (although ETOH level not
+detected).
+
+Family History:
+Mother - CAD, Breast cancer
+Father - pancreatic cancer, lung cancer
+
+
+Physical Exam:
+Vitals: T 99.3F, BP 107/58, HR 77, RR 22 and O2 sat 98% on 2L
+NC.
+General: Alert and oriented to year, person, place. No acute
+distress but very easily irritated and mildly tremulous during
+exam. Rapid angry speech at times.
+HEENT: PERRL. EOMI. Sclera anicteric, dry MM, oropharynx clear.
+No thrush. Nares clear, NC in place.
+Neck: soft neck brace in place, supple, JVP not elevated, no
+LAD, no thyromegaly and no notable thyroid nodules
+Lungs: Clear to auscultation bilaterally, mild end expiratory
+wheezes at mid fields over backside but no rales, ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley in place
+Ext: very thin extremities, warm, well perfused, 2+ pulses, no
+clubbing, cyanosis or edema
+Neuro: CNs 2009-07-31 00:00:00 in tact, face and neck sensation in tact but
+patient unwilling to cooperate with rest of neuro exam.
+
+
+Pertinent Results:
+2009-07-31 00:00:00 11:10AM BLOOD WBC-11.5* RBC-2.99* Hgb-10.3* Hct-32.5*
+MCV-109* MCH-34.5* MCHC-31.8 RDW-12.7 Plt Ct-347
+2009-07-31 00:00:00 02:00PM BLOOD WBC-17.2*# RBC-2.94* Hgb-9.9* Hct-29.5*
+MCV-100* MCH-33.7* MCHC-33.5 RDW-13.5 Plt Ct-521*#
+2009-07-31 00:00:00 02:00PM BLOOD Neuts-85.5* Lymphs-10.4* Monos-3.5
+Eos-0.4 Baso-0.2
+2009-07-31 00:00:00 02:04AM BLOOD PT-11.3 PTT-22.6 INR(PT)-0.9
+2009-07-31 00:00:00 07:20AM BLOOD Glucose-94 UreaN-13 Creat-0.7 Na-129*
+K-3.9 Cl-99 HCO3-23 AnGap-11
+2009-07-31 00:00:00 02:00PM BLOOD Glucose-116* UreaN-27* Creat-1.1 Na-131*
+K-4.5 Cl-92* HCO3-24 AnGap-20
+2009-07-31 00:00:00 02:04AM BLOOD ALT-21 AST-53* AlkPhos-67 TotBili-0.1
+2009-07-31 00:00:00 02:00PM BLOOD ALT-20 AST-43* AlkPhos-69 TotBili-0.2
+2009-07-31 00:00:00 02:00PM BLOOD Lipase-15
+2009-07-31 00:00:00 07:20AM BLOOD Calcium-8.3* Phos-1.9*# Mg-1.7
+2009-07-31 00:00:00 02:04AM BLOOD Albumin-4.0 Calcium-9.9 Phos-3.7 Mg-2.2
+Iron-42
+2009-07-31 00:00:00 02:04AM BLOOD calTIBC-241* Ferritn-115 TRF-185*
+2009-07-31 00:00:00 02:00PM BLOOD Osmolal-274*
+2009-07-31 00:00:00 02:00PM BLOOD TSH-28*
+2009-07-31 00:00:00 02:04AM BLOOD T4-6.2 T3-85 calcTBG-1.12 TUptake-0.89
+T4Index-5.5 Free T4-1.0
+2009-07-31 00:00:00 02:04AM BLOOD Cortsol-48.9*
+2009-07-31 00:00:00 02:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2009-07-31 00:00:00 02:15PM BLOOD Lactate-1.6
+
+ECG 2009-07-31 00:00:00: Sinus rhythm with sinus arrhythmia, likely left
+ventricular hypertrophy. Non-specific ST-T wave changes.
+Compared to the 123 Any St.us tracing of 2009-07-31 00:00:00 findings are
+similar.
+
+2009-07-31 00:00:00 CXR PORTABLE AP:
+INDICATION: 60-year-old female with altered mental status.
+
+COMPARISON: 2009-07-31 00:00:00.
+
+CHEST, AP: The lungs are clear, other than some mild
+retrocardiac
+atelectasis. The cardiomediastinal and hilar contours are
+normal. There are no pleural effusions. No acute fractures are
+identified.
+IMPRESSION: No acute intrathoracic process
+
+CT HEAD W/O CONTRAST 2009-07-31 00:00:00:
+FINDINGS: There is no acute intracranial hemorrhage, large areas
+of edema,
+large masses or mass effect. Clerence Birdinground-white matter differentiation
+is preserved.  The ventricles and sulci are normal in size and
+configuration. Mucosal thickening/mucous retention cyst is noted
+within the left maxillary sinus.  Otherwise, the visualized
+paranasal sinuses and mastoid air cells are clear.  Visualized
+soft tissues of the orbits and nasopharynx are within normal
+limits.
+
+IMPRESSION: No acute intracranial process.
+
+
+Brief Hospital Course:
+60yo F with h/o bipolar disorder, borderline personality
+disorder, PTSD, fibromyalgia, multiple suicide attempts, COPD on
+home O2, cervical neck fracture (in chronic brace), and severe
+OA who presents with altered mental status after questionable
+overdose.
+
+Questionable Overdose/AMS: Head CT in ED was within normal
+limits and neuro exam also non-focal. No evidence of infection,
+the patient also admits to ETOH so her initial presentation
+could have been withdrawal and seizure but no witnessed seizure
+activity and ETOH serum negative (although w/d obviously still
+would be possible in the setting of neg ETOH).  The patient was
+found to be unresponsive in the setting of an open klonopin
+bottle on the floor, although the patient adamantly denied a
+suidcide attempt this was still a very likely possibility as she
+was on multiple sedating medications and no other organic cause
+for change in level of consciousness could be found.  In
+addition patient improved with time / medication washout.
+
+BIPOLAR DISORDER: The patient was on multiple psychotropic
+medications.  These were held inpt, risperdal 1mg po qhs was
+started back while inpatient. The patient is medically cleared
+for discharge to a psychiatric facility.
+
+HYPONATREMIA: She had dilute urine but admits to taking in large
+amounts of water, hypothyroidism also a likely contributer.  1
+liter free H2O restriction and levothyroxine.
+
+COPD: no active flare. continue low flow 2-3L O2 via nasal
+cannula for O2 sats >90% goal, on home O2.
+
+Fever: Unclear etiology. Also has an elevated WBC to 17 with 85%
+PMN shift. CXR with no clear infiltrates. She has fairly normal
+UA despite complaints of dysuria "off and on". No abdominal pain
+but does mention recent diarrhea. Lactate is WNL at 1.6 and
+patient has stable vitals throughout hospitalization.  2 days of
+afebrile prior to discharge.
+
+Hypothyroidism: Endocrine consulted, continue levothyroxine
+50mcg daily and recheck TSH in 6 weeks.
+
+Cervical spine fracture (in chronic brace):
+--continue soft neck brace
+--pain control with lidocaine patch
+--Tylenol PRN (serum tox acetominophen level negative)
+
+Mild systolic CHF: last EF 45% back in 2009-07-31 00:00:00. Written for
+home dose of 40mg PO BID lasix. Seems dry on exam and states she
+has been having diarrhea for few days.  Continue lasix 40mg po
+daily and follow up as outpatient.
+
+Contact: sister and HCP Jaeya Laurich Jaeya Laurich (h) test@mail.com (c)
+test@mail.com other sister BJ (h) test@mail.com (c) test@mail.com
+
+Medications on Admission:
+ALBUTEROL SULFATE - 0.83 mg/mL Solution for Nebulization - 1
+(One) vial inhaled via nebulizaiton up to 4 times daily as
+needed
+for shortness of breath or wheezing
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler - 2
+
+(Two) puffs inhaled 4-5 times a day as needed for shortness of
+breath or wheezing
+AMPHETAMINE-DEXTROAMPHETAMINE [ADDERALL] - (Prescribed by Other
+
+Provider) - 20 mg Tablet - 1 Tablet(s) by mouth three times a
+day
+BUTALBITAL-ACETAMINOPHEN-CAFF [FIORICET] - 50 mg-325 mg-40 mg
+Tablet - 1 Tablet(s) by mouth q 6hr as needed for prn HA
+CLONAZEPAM - (Prescribed by Other Provider) - 2 mg Tablet - 1
+Tablet(s) by mouth four times a day
+CVS GENTLE LAXATIVE PILLS - - as directted by physician three
+times Jaeya Laurich day
+ESSENTIAL SOY BY MOTHER SOY Jaeya Laurich - - 10 cc mixed with
+liquid three times a day
+FEXOFENADINE - (Prescribed by Other Provider) - 180 mg Tablet -
+
+1 (One) Tablet(s) by mouth once a day
+FLUOXETINE - (Prescribed by Other Provider; Dose adjustment - no
+
+new Rx) - 40 mg Capsule - 1 Capsule(s) by mouth once daily
+FLUTICASONE - 50 mcg Spray, Suspension - 1 to 2 sprays in each
+nostril twice a day
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 500 mcg-50 mcg/Dose
+Disk
+with Device - 1 (One) inhlations twice a day
+FUROSEMIDE - 40 mg Tablet - 1 Tablet(s) by mouth twice a day
+LIDOCAINE [LIDODERM] - 5 % (700 mg/patch) Adhesive Patch,
+Medicated - 3 patches on neck and 3 on back once a day keep on
+for 12 hours, remove for 12 hours
+MISOPROSTOL [CYTOTEC] - 100 mcg Tablet - two Tablet(s) by mouth
+
+twice a day
+MONTELUKAST [SINGULAIR] - 10 mg Tablet - 1 Tablet(s) by mouth at
+
+bedtime
+MORPHINE - 30 mg Tablet Sustained Release - 1 Tablet(s) by mouth
+
+twice a day
+NITROGLYCERIN - 0.4 mg Tablet, Sublingual - 1 (One) Tablet(s)
+sublingually every 5 minutes for 3 doses as needed for chest
+pain
+OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s)
+
+by mouth UPMCE 1/2 hour prior to breakfast and dinner
+OXYCODONE - 5 mg Capsule - 2009-07-31 00:00:00 Capsule(s) by mouth q 6 hr as
+needed for pain
+PERPHENAZINE - (Prescribed by Other Provider) - 8 mg Tablet - po
+
+Tablet(s) by mouth at bedtime
+POTASSIUM CHLORIDE - 10 mEq Tablet Sustained Release - 3 (Three)
+
+Tablet(s) by mouth twice a day
+RALOXIFENE [EVISTA] - (Prescribed by Other Provider) - 60 mg
+Tablet - 1 Tablet(s) by mouth once a day
+RISPERIDONE - (Prescribed by Other Provider; Dose adjustment -
+no new Rx) - 1 mg Tablet - 1 Tablet(s) by mouth at bedtime
+SULFASALAZINE - 500 mg Tablet - 2 Tablet(s) by mouth twice a day
+
+THICK IT - - Use with all oral liquids to create honey
+consistency Patient uses 1 30 ounce can monthly
+TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule,
+w/Inhalation Device - one inhalation once a day
+TRAMADOL - 50 mg Tablet - 2 Tablet(s) by mouth qid prn
+TRAZODONE - (Dose adjustment - no new Rx) - 100 mg Tablet - 1
+Tablet(s) by mouth at bedtime
+TRIAMCINOLONE ACETONIDE - 0.1 % Cream - apply small amount to
+rash twice a day
+Medications - OTC
+ANUSOL HC-1 - 1 % Ointment - 1 suppository rectally at bedtime
+day
+B COMPLEX VITAMINS - (Prescribed by Other Provider) - Capsule
+- 1 Capsule(s) by mouth
+BIFIDOBACTERIUM INFANTIS [ALIGN] - 4 mg (1 billion cell) Capsule
+
+- 1 Capsule(s) by mouth once a day
+CALCIUM CARBONATE [CALCIUM 600] - (OTC) - 600 mg (1,500 mg)
+Tablet - one Tablet(s) by mouth twice a day
+CERAMIDES 1,3,2009-07-31 00:00:00 [CERAVE] - Cream - twice a day
+CHROMIUM PICOLINATE - (OTC) - 400 mcg Tablet - 2 (Two) Tablet(s)
+
+by mouth once a day
+DIPHENHYDRAMINE HCL [SIMPLY SLEEP] - (OTC) - 25 mg Tablet - 2
+Tablet(s) by mouth at bedtime
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] - (OTC) - 1,000 unit
+Capsule - 1 (One) Capsule(s) by mouth once a day
+FERROUS GLUCONATE - 324 mg (38 mg Iron) Tablet - 1 Tablet(s) by
+
+mouth twice a day
+FOLIC ACID - (Prescribed by Other Provider) - 0.4 mg Tablet - 1
+
+Tablet(s) by mouth once a day
+MAGNESIUM OXIDE - 400 mg Tablet - 1 Tablet(s) by mouth once a
+day
+NUTRITIONAL SUPPLEMENTS [BOOST SMOOTHIE] - Liquid - 6 cans by
+mouth once a day dx: severe weight loss, aspiration, and oxygen
+
+dependent COPD and atonic colon
+PRAMOXINE-MINERAL OIL-ZINC [ANUSOL] - (Prescribed by Other
+Provider) - Dosage uncertain
+SIMETHICONE - 80 mg Tablet, Chewable - one Tablet(s) by mouth 3
+
+times a day as needed
+SODIUM PHOSPHATES [FLEET ENEMA] - 19 gram-7 gram/118 mL Enema -
+
+2009-07-31 00:00:00 Enema(s) rectally once a day as needed for constipation
+VITAMIN E - (OTC) - 1,000 unit Capsule - 1 (One) Capsule(s) by
+mouth once a day
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary diagnosis:
+Oversedation related to medication
+
+Secondary Diagnosis:
+Bipolar disorder
+Chronic systolic CHF
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted after being confused and unresponsive, you
+have improved with time and witholding of your sedating
+psychiatric medications.  These will be slowly reintroduced and
+titrated so you are being discharged to a psychiatric facility
+as you are medically cleared.
+
+Followup Instructions:
+Department: NUTRITION
+When: WEDNESDAY 2009-07-31 00:00:00 at 3:30 PM
+With: Jaeya Clerence Birdinground Laurich, RD test@mail.com
+Building: Ra UPMCE (UPMCE/UPMCE Complex) Basement
+Campus: EAST     Best Parking: Main Garage
+
+Department: GASTROENTEROLOGY
+When: WEDNESDAY 2009-07-31 00:00:00 at 12:45 PM
+With: Jaeya Laurich, MD test@mail.com
+Building: LM 123 Any St.
+Campus: WEST     Best Parking: UPMCE Garage
+
+
+

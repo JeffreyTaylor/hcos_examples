@@ -1,0 +1,523 @@
+Admission Date:  2005-05-09 00:00:00              Discharge Date:   2005-05-09 00:00:00
+
+Date of Birth: 1992-08-18 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Arik Linkhorn
+Chief Complaint:
+R toe pain
+
+Major Surgical or Invasive Procedure:
+Intubation and extubation x3
+
+
+History of Present Illness:
+79M with history of DMII, CAD s/p MI, PVD, COPD, hyperchol, HTN
+who was  admitted to the Vascular Surgery service from his
+cardiologist's office with ~ 1 week of R second toe pain. He had
+seen his cardiologist on the day of admission for this complaint
+and his cardiologist advised him to go to the hospital for
+evaluation because he felt his exam at the time was consistent
+with ischemia vs. cellulitis. Given both his history of DM type
+II and CAD/PVD, the patient was admitted for IV antibiotics and
+further workup of his R toe pain.
+
+Past Medical History:
+1. COPD, with 200 pack-yr smoking hx
+2. CAD s/p MI, cath 2005-05-09 00:00:00 with failed PTCA/stent RCA complicated
+by dissection and on IVBP
+3. PVD, with RLE claudication symptoms
+4. Right hip fx
+5. HTN
+6. Hyperlipidemia
+7. Lung CA s/p RUL lobectomy 2005-05-09 00:00:00, mediastinoscopy
+8. NHL on scalene biopsy
+9. Ventral hernia repair
+10. VRE + (confirmed this hospitalization 2005-05-09 00:00:00)
+
+
+Social History:
+Married, lives w/ wife in low income housing. Has 3 sons who
+live nearby. Used to work as school custodian. + tob (200
+pack-yrs).
+
+Family History:
+NC
+
+Physical Exam:
+VS - T 98.1, BP 117/62, HR 73, RR 20, sats 99% on RA
+Gen: NAD.
+Neck: + bilateral carotid bruits
+Lung: decreased BS
+CV: IRRR
+Abd: Soft, no palpable pulsatile mass/bruit
+Ext: 1+ bilateral fem, + dopplerable DP/PT on L, popliteal R, R
+dopplerable PT
+Neuro: + sensory, motor intact.
+
+
+Pertinent Results:
+LABS on admission:
+WBC 7.6, Hct 42.7, MCV 89, Plt 182
+(DIFF: Neuts-79.5* Lymphs-14.6* Monos-4.6 Eos-0.9 Baso-0.4)
+PT 12.7, PTT 26.8, INR(PT) 1.1
+Na 138, K 5.6, Cl 104, HCO3 23, BUN 33, Cr 1.3, Glu 139
+.
+CARDIAC ENZYMES:
+2005-05-09 00:00:00 09:40AM BLOOD CK(CPK)-38 CK-MB-NotDone cTropnT-0.01
+2005-05-09 00:00:00 05:00PM BLOOD CK(CPK)-40 CK-MB-NotDone
+2005-05-09 00:00:00 12:50AM BLOOD CK(CPK)-36 CK-MB-NotDone
+2005-05-09 00:00:00 12:33PM BLOOD CK-MB-NotDone cTropnT-<0.01
+(proBNP-12,026*)
+2005-05-09 00:00:00 02:55AM BLOOD CK-MB-3 (proBNP-6878*)
+.
+ABG:
+2005-05-09 00:00:00: 7.06/94/62/28/6, AADO2 558, REQ O2 90, FiO2 98%, not
+intubated
+2005-05-09 00:00:00: 7.48/42/145/32/7
+.
+LABS on discharge:
+WBC 10.0, Hct 36.1, MCV 88, Plt 230
+Na 136, K 4.4, Cl 100, HCO3 30, BUN 29, Cr 1.1, Glu 132
+Ca 7.9, Mg 2.2, Ph 3.3
+Albumin 2.7
+.
+MICRO:
+BCx 2005-05-09 00:00:00 - negative
+Wound cx (R 3rd toe) 2005-05-09 00:00:00 - heavy MSSA
+MRSA screen, rectum and nasal 2005-05-09 00:00:00 - negative
+UCx 2005-05-09 00:00:00 - negative
+Rectal swab 2005-05-09 00:00:00- + for VRE
+BAL 2005-05-09 00:00:00 - 10,000-100,000 pansensitive Pseudomonas
+DFA 2005-05-09 00:00:00 - negative DFA and viral Cx
+Blood cx 2005-05-09 00:00:00 - no growth
+Urine cx 2005-05-09 00:00:00 - no growth
+Blood cx 2005-05-09 00:00:00 - no growth
+Urine cx 2005-05-09 00:00:00 - no growth
+Wound tip cx 2005-05-09 00:00:00 - no growth
+MRSA screen 2005-05-09 00:00:00 - negative
+Urine cx 2005-05-09 00:00:00 - no growth
+Blood cx 2005-05-09 00:00:00 - pending
+SC line cx 2005-05-09 00:00:00 - no growth
+Stool cx 2005-05-09 00:00:00 - neg for C diff
+Stool cx 2005-05-09 00:00:00 - neg for C diff
+.
+STUDIES:
+PFTs (2005-05-09 00:00:00): FVC 2.58 (77%), FEV1 1.83 (83%), FEV1/FVC 107%,
+MMF 1.09 (52%)
+.
+Foot X-ray (2005-05-09 00:00:00): no bone erosion
+.
+Arterial Duplex (2005-05-09 00:00:00): Extensive plaques involving the left
+common carotid artery and bilateral internal and external
+carotid arteries with significant stenosis at left internal
+carotid artery, 80-99%, common carotid artery, 60-69%, and right
+internal carotid artery, 70-79%. Retrograde flow in the left
+vertebral artery indicating left subclavian steal, Significant
+bilateral iliac, superficial femoral artery and tibial disease.
+
+.
+Carotid US (2005-05-09 00:00:00): Extensive plaques involving the left common
+carotid artery and bilateral internal and external carotid
+arteries with significant stenosis at left internal carotid
+artery, 80-99%, common carotid artery, 60-69%, and right
+internal carotid artery, 70-79%
+.
+MRA LEs (2005-05-09 00:00:00):
+1. Moderate-severe atherosclerotic disease of the right common
+iliac artery, including a focal high-grade stenosis
+approximately 2.6 cm distal to the aortic bifurcation. There is
+also moderate-severe disease within the right external iliac and
+right common femoral arteries.
+2. Occlusion of the distal right common femoral artery and
+proximal right superficial femoral artery which extends for
+approximately 5 cm. The right profunda femorus artery is patent
+and supplies collateral vessels to the more distal right SFA.
+3. Diffuse moderate-severe disease of the right superficial
+femoral artery, with multiple focal stenoses identified. The
+most high-grade disease is in the region of the adductor canal,
+focally. The right below-knee popliteal artery od a good quality
+vessel, and there is normal 3- vessel runoff to the foot.
+4. Moderate disease of the left common iliac artery with
+multiple focal stenoses identified.
+5. Moderate-severe disease of the left superficial femoral
+artery, with multiple focal stenoses identified. The most severe
+disease is in the region of the adductor canal.
+6. Normal 3-vessel runoff on the left.
+.
+CXR (2005-05-09 00:00:00): New moderate-sized left and probable small right
+pleural
+effusions. Dedicated PA and lateral chest radiograph may be
+helpful for initial further assessment when the patient's
+condition permits
+.
+CXR (2005-05-09 00:00:00): Perihilar and basilar opacities are likely due to
+pulmonary edema. Pneumonia is considered less likely.
+.
+Chest CTA (2005-05-09 00:00:00): Similar lymphadenopathy in the mediastinum. No
+evidence of pulmonary embolism. Areas of air trapping,
+ground-glass opacity and slight peripheral septal thickening,
+suggesting pulmonary venous hypertension or mild congestive
+heart failure, and perhaps obstructive pulmonary disease as
+mentioned in the requisition. Increased left effusion. Calcified
+posterior wall of left ventricle, unchanged
+.
+Head CT (2005-05-09 00:00:00): No evidence of acute intracranial hemorrhage or
+other acute process.
+.
+ECHO (2005-05-09 00:00:00): Overall left ventricular systolic function is mildly
+to moderately depressed with inferior akinesis and basal
+infero-septal and infero-lateral hypokinesis. EF 40%. Inferior
+akinesis and basal infero-septal and infero-lateral hypokinesis
+
+.
+CXR (2005-05-09 00:00:00): Interval improvement in right middle and upper lobe
+opacities, likely representing improved pulmonary edema
+.
+CXR (2005-05-09 00:00:00): Worsening pulmonary edema with moderate bilateral
+pleural
+effusions. No pneumothorax.
+.
+CXR (2005-05-09 00:00:00): Endotracheal tube is 8 cm above carina. NG tube is in
+proximal body of stomach. Left subclavian CV line has tip
+located in region of cavoatrial junction. No pneumothorax. There
+is a left pleural effusion with associated atelectasis in the
+left lung zone, unchanged since the prior film of 2005-05-09 00:00:00.
+.
+CXR (2005-05-09 00:00:00): The superior portion of the chest is obscured by the
+flexed neck and chin. Tip of endotracheal tube is difficult to
+localize on this film, as is the NG tube. There is a left
+pleural effusion and ill-defined opacity in the left lower zones
+consistent with associated atelectasis. Left subclavian CV line
+has tip in region of cavoatrial junction. No definite
+pneumothorax. Repeat
+film may be obtained for better localization of endotracheal
+tube and NG tube if clinically indicated.
+.
+CXR (2005-05-09 00:00:00): No endotracheal tube present. Nasogastric tube ends
+in a mildly distended stomach. Small bilateral pleural effusions
+improved substantially since 2005-05-09 00:00:00. Borderline interstitial
+edema, improved. Heart size normal. Left subclavian central
+venous line tip projects over the superior cavoatrial junction.
+No pneumothorax. Status post right upper rib resections.
+
+
+Brief Hospital Course:
+79yo M with MMP including DMII, CAD s/p MI, PVD, COPD, multiple
+malignancies, hypercholesterolemia, and HTN who was admitted to
+vascular with toe pain, but then developed hypercarbic
+respiratory failure.
+.
+# ICU COURSE: Mr. Ruhlman presented to his cardiologist's office
+with 7-10 days of increasing pain in his R foot, specifically
+his R second toe. His exam at the time was felt to be consistent
+with ischemia or cellulitis. His cardiologist referred to the
+hospital and he was admitted to the vascular service. He was
+started on IV antibiotics (kefzol and flagyl) and a wound
+culture grew MSSA. XR showed no evidence of osteomyelitis.
+Noninvasive vascular studies were performed as the patient was a
+known vasculopath and it was assumed that an intervention would
+need to be performed to preserve his toe. Studies revealed that
+he had extensive plaques in the L common carotid artery,
+bilateral internal and external carotid arteries, as well as
+significant bilateral iliac, superficial femoral, and tibial
+disease. There was retrograde flow in the L vertebral artery
+indicating L subclavian steal. On 2005-05-09 00:00:00, while on the vascular
+service, he developed nausea and vomiting while moving around
+for all of his studies. He was given reglan and anzemet for his
+nausea, as well as percocet for his toe pain. He did well until
+2005-05-09 00:00:00 when he began to have labored breathing and a decreased O2
+sat to 81%. He was felt to be wheezing and he was given
+nebulizers with good effect. However, he was then found to be
+very tachycardic, with a lot of ectopy on telemetry. He was
+given IV metoprolol for his tachycardia, but overnight, again
+developed respiratory distress. EKG was unchanged from priors.
+It was decided to electively intubate him as his RR was in the
+30s-40s and his sats were only in the low 90s on a NRB. His ABG
+at the time was 7.14/71/72. He was given 20mg lasix IV and 80mg
+IV solumedrol, but he remained in respiratory distress so he was
+transferred to the SICU for intubation. He was sedated and CT of
+his chest and head were performed to look for causes of his SOB.
+CT of his head revealed no intracranial pathology, and the CTA
+was negative for PE, but did reveal that he had pleural
+effusions. BNP was elevated at the time, so he was given
+additional lasix.
+.
+Mr. Ruhlman was extubated the following evening, with the hope
+that treatment for CHF and COPD would have improved his
+respiratory status. He did well overnight, but again developed
+tachypnea acutely on the morning of 2005-05-09 00:00:00, associated with
+wheezing and hypoxia. He was given nebulizer treatments x3,
+solumedrol, and lasix with no improvement. Serial ABGs at the
+time revealed 7.35/43/63/25/-1 (post-extubation) ->
+7.08/81/62/-8 (during his distress) -> 7.28/41/246/-6(post
+intubation). On 2005-05-09 00:00:00, a TTE was performed which revealed left
+ventricular systolic function of ~40%, which was considered to
+be moderately depressed with inferior akinesis and basal
+infero-septal and infero-lateral hypokinesis. An attempt was
+made at thoracentesis given his bilateral pleural effusions,
+however the IP team did not feel that they could get a good view
+through which to tap. An NGT was inserted and tubefeeds were
+started.  On 2005-05-09 00:00:00, the decision was made to discontinue the
+patient's beta-blocker because of increased wheezing. The
+patient's cardiologist instead recommended using verapamil
+instead for rate control.
+.
+Attempt was made at his second extubation on 2005-05-09 00:00:00, but again
+he became acutely tachypneic, tachycardic and hypertensive, with
+his O2 sats again dropping into the 80s. At this point, he was
+reintubated and diuresis was continued. Cardiac enzymes were
+cycled x3 and were negative. EP was consulted on 2005-05-09 00:00:00 and felt
+that the arrhythmias he was having were consistent with episodes
+of MAT/afib, with no episodes of sustained ventricular rhythms.
+EP confirmed that the patient needed to be on a beta-blocker,
+not a CCB, and brought up the issue of anticoagulation.  They
+also recommended continuing with diuresis and attempting
+extubation again only after his pulmonary edema had resolved. He
+was also started on afterload reduction with an ACE inhibitor.
+On 2005-05-09 00:00:00, a bronchoscopy was performed for further evaluation
+of his copious, thick, blood-tinged secretions and to see if
+there is an anatomical reason that Mr. Ruhlman was unable to be
+weaned off the vent. BAL culture results were significant for
+gram negative rods, raising the concern for ventilator
+associated pneumonia. He performed an SBT on 2005-05-09 00:00:00, but developed
+tachypnea and tachycardia after just 2 hrs. He was then
+transferred to the MICU for help with achieving stable
+extubation.
+.
+In the MICU, his antibiotics were broadened to cover for
+Pseudomonas in his sputum (with levaquin and ceftazidime) and he
+was given vancomycin for gram positive cocci from his R toe
+(which turned out to be MSSA). He was started on an ACE
+inhibitor for improved BP control as well as standing nebulizers
+and steroids for treatment of his COPD. An insulin gtt was added
+to better control his hyperglycemia. Diuresis was continued and
+his respiratory status improved. He was able to come down to
+pressure support. He passed a SBT and was extubated successfully
+on 2005-05-09 00:00:00. He was able to maintain his oxygenation with 40-50%
+FiO2 by shovel mask. He was transferred to the floor on 2005-05-09 00:00:00
+and by the morning of 2005-05-09 00:00:00, he was down to 2L by nasal
+cannula.
+.
+# PNEUMONIA: He underwent a BAL on 2005-05-09 00:00:00 which grew a
+pansensitive Pseudomonas. Mr. Ruhlman completed an 8 day course
+of ceftazidime (along with 7 days of levaquin, for double
+coverage initially) for the treatment of Pseudomonas ventilator
+associated pneumonia on 2005-05-09 00:00:00. He continued to have a
+productive cough, but his oxygenation improved. He was able to
+maintain stable O2 sats of 100% on 2L by nc, but still was
+mildly hypoxemic on RA (91%). CXR showed that he still has small
+residual pleural effusions that are resolving.
+.
+# COPD: Mr. Ruhlman likely had a COPD exacerbation that
+contributed to his difficulty in weaning off of the ventilator.
+However, he was able to be changed from IV solumedrol to PO
+prednisone on the floor. The prednisone taper was started on
+discharge and his steroids will be slowly tapered over two
+weeks. He was continued on standing albuterol and ipratroprium
+nebulizers as he easily became wheezy with any exertion. He was
+also given albuterol inhalers prn. There was some concern, as
+Ruhlman above, that his beta-blocker worsened his respiratory
+status, but the patient seemed to tolerate oral metoprolol
+without any exacerbation of his COPD.
+.
+# LEUKOCYTOSIS: Mr. Ruhlman WBC began to rise on the floor, at
+the same time that he began to have diarrhea. Given that he was
+on several antibiotics at the time, there was concern for C diff
+infection. Stool studies were sent x2 and were negative for C
+diff. He was started on flagyl for empiric treatment of C. diff
+and cultures were followed. ID was consulted for advice in the
+length of treatment for his Pseudomonas pneumonia, as well as
+advise for the treatment of his R toe. ID felt that his
+ceftazidime could be discontinued after 8 days, that
+levofloxacin was no longer needed for double coverage, and that
+his R toe did not look infected, so  vancomycin could also be
+discontinued. Ceftazidime was completed on 2005-05-09 00:00:00 and per ID,
+Mr. Ruhlman will be continued on flagyl until 2005-05-09 00:00:00. Stool
+cultures were sent, including C diff toxin B, which was still
+pending upon discharge.
+.
+# ARRHYTHMIA: Mr. Ruhlman was noted to have various sinus
+arrhythmias in the ICU, possibly MAT vs sinus tachycardia with
+ectopic beats. He was given beta-blocker for his tachycardia,
+but in the ICU, there was concern that the beta-blocker was
+worsening his wheezing and COPD, so it was discontinued.
+Verapamil was tried instead, but Mr. Ruhlman became very
+tachycardic without beta-blockade. EP was consulted while the
+patient was in the ICU and recommended discontinuing the
+verapamil and going back to metoprolol, which the team did with
+improvement in controlling his rate. On transfer to the floor,
+Mr. Exodus Ruhlman was continued on telemetry and appeared to have
+multiple different rhythms, including MAT, sinus tachycardia
+with ectopic beats (both ventricular and atrial) and ventricular
+bigeminy. He had episodes of NSVT, maximum of 14 beats, but
+remained hemodynamically stable and asymptomatic throughout all
+episodes. His attending recommended increasing the beta-blockade
+if possible, but his blood pressure was on the lower side, so he
+was maintained on metoprolol 75mg PO TID with adequate rate
+control.
+.
+# PVD: Mr. Ruhlman has a long history of claudication. On
+admission, there was concern for cellulitis vs. gangrene in his
+R toe.  MRA showed moderate to severe atherosclerotic disease,
+but no surgical intervention was planned during this admission
+due to his tenous respiratory status. Mr. Ruhlman prefers to have
+the summer to heal and would like to pursue whatever
+intervention is necessary in the fall. Dr. Ruhlman is aware of
+his decision and plans to follow him as an outpatient for now.
+Mr. Exodus Ruhlman will follow-up with Dr. Ruhlman 2-3 weeks after
+discharge.
+.
+# DM type II: Mr. Ruhlman had been on an insulin gtt in ICU, with
+labile fingersticks. Ruhlman was consulted to help control his
+hyperglycemia in the setting of acute illness and the
+administration of tube feeds. On the floor, he was changed back
+to SC insulin, but became hypoglycemic on the recommended
+regimen. His steroid use for his COPD exacerbation and
+discontinuation of tube feeds likely contributed to the lability
+of his glycemic control. He did have a symptomatic episode of
+hypoglycemia on the morning of 2005-05-09 00:00:00 which quickly resolved
+with the administration of 1/2amp of D50. He was discharged on
+glipizide 5mg daily, which is half of his normal home dose, as
+well as a humalog insulin sliding scale while he is still on
+prednisone. His glipizide will be titrated as needed at rehab
+based on his fingersticks.
+.
+# FEN: In the ICU, he had an NGT through which he was given tube
+feeds. On transfer to the floor, he was reevaluated by speech
+and swallow and passed, so he was given  a regular, Arik Linkhorn, heart
+healthy diet with thin liquids and soft solids. He needed no
+additional IVF upon transfer to the floor. His electrolytes were
+checked daily and were repleted prn.
+.
+# PPX: He received heparin SC for DVT prophylaxis, a PPI for GI
+prophylaxis, and a bowel regimen prn.
+.
+# ACCESS: He had a left subclavian line placed in the ICU on
+2005-05-09 00:00:00. He had a PICC line placed in his R forearm 2005-05-09 00:00:00 and
+the SC line was pulled on 2005-05-09 00:00:00. After com[** Location **]n of his
+antibiotic course, his PICC line was pulled and he was able to
+have a peripheral IV.
+.
+# CODE: Full
+.
+# COMM: Exodus Ruhlman and his wife.
+.
+# DISPO: To rehab.
+
+
+Medications on Admission:
+1. Imdur 60mg daily
+2. Norvasc 10mg daily
+3. Benecar 40mg daily
+4. Toprol XL 100mg daily
+5. Lipitor 10mg daily
+6. Glucotrol 10mg daily
+7. Flovent
+
+
+Discharge Medications:
+1. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+5. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+milliliter Injection TID (3 times a day): Until patient is fully
+ambulatory. .
+6. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+Disp:*90 Tablet(s)* Refills:*2*
+7. GlipiZIDE 5 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 5 doses.
+9. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID
+(3 times a day).
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+11. Prednisone 10 mg Tablet Sig: Varied Tablet PO once a day:
+Please adhere to the following taper schedule: 60mg daily for 3
+days (2005-05-09 00:00:00, 2005-05-09 00:00:00, 2005-05-09 00:00:00); 40mg daily for 3 days (2005-05-09 00:00:00, 2005-05-09 00:00:00,
+2005-05-09 00:00:00); 20mg daily for 3 days (2005-05-09 00:00:00, 2005-05-09 00:00:00, 2005-05-09 00:00:00); 10mg daily for
+3 days (2005-05-09 00:00:00, 2005-05-09 00:00:00, 2005-05-09 00:00:00); 5mg daily for 3 days (2005-05-09 00:00:00, 2005-05-09 00:00:00,
+2005-05-09 00:00:00).
+12. Albuterol Sulfate 0.083 % Solution Sig: One (1) nebulizer
+Inhalation Q6H (every 6 hours).
+13. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer
+Inhalation Q6H (every 6 hours).
+14. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q4H (every 4 hours) as needed.
+15. Insulin Lispro (Human) 100 unit/mL Solution Sig: Varied
+units Subcutaneous four times a day: As per sliding scale.
+16. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day).
+17. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary diagnosis:
+R second toe cellulitis
+Pseudomonas ventilator associated pneumonia
+CHF
+COPD
+.
+Secondary diagnosis:
+HTN
+PVD
+DM type II
+COPD
+CAD
+Lung cancer s/p lobectomy
+
+
+Discharge Condition:
+Stable. Afebrile. BP 122/64, HR 78. RR 20, sats 95% on 2L
+
+
+Discharge Instructions:
+Please take all your medications as prescribed. Your medications
+have been changed since you've been in the hospital, so please
+make sure that you are taking ONLY what has been prescribed
+while in the hospital.
+.
+Please call your PCP or go to the nearest ER if you have any of
+the following symptoms: fever, chills, chest pain, shortness of
+breath, difficulty breathing, pain in your legs, pain in your
+abdomen, worsening diarrhea, nausea, vomiting, or any other
+worrisome symptoms.
+.
+Please follow-up with your doctors Exodus Ruhlman below.
+
+Followup Instructions:
+Please follow-up with Exodus Ruhlman, MD on 2005-05-09 00:00:00 at 10:00am.
+His office number is test@mail.com. Please call if you have any
+questions or concerns.
+.
+Please follow-up with Dr. Ruhlman (vascular surgery) on
+Wednesday 2005-05-09 00:00:00 at 2pm. His office number is
+test@mail.com if you have any questions or need to reschedule
+this appointment. His office is located at Ruhlman.
+(UPMCE Bldg) Suite 5C.
+.
+Please follow-up with Dr. Arik Linkhorn (cardiology) on Wednesday, 2005-05-09 00:00:00, 2005-05-09 00:00:00 at 11:00am. Please call his office at test@mail.com if
+you have any questions or need to reschedule.
+.
+Please follow up with Dr. Arik Linkhorn for a full physical on 2005-05-09 00:00:00 at 11:30am. Please call his office at test@mail.com if you
+have any questions or need to reschedule.
+
+
+

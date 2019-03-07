@@ -1,0 +1,177 @@
+Admission Date:  2010-03-01 00:00:00       Discharge Date:  2010-03-01 00:00:00
+
+Date of Birth: 2002-05-07 00:00:00 00:00:00       Sex:  M
+
+Service:  COLORECTAL SURGERY SERVICE
+
+HISTORY OF PRESENT ILLNESS:  This is a 74 year old gentleman
+with a history of prostate cancer who presented in 2010-03-01 00:00:00
+of last year with rectal bleeding.  Evaluation included a
+colonoscopy which showed an ulcerative lesion in the rectum.
+These were biopsied and showed moderately differentiated
+adenocarcinoma.  The patient presents for curative resection.
+
+PAST MEDICAL HISTORY:  Prostate cancer with radiation
+implants and external beam radiation; hypercholesterolemia;
+history of peptic ulcer disease.
+
+SOCIAL HISTORY:  No tobacco; occasional alcohol.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:
+1.  Cardura 2 mg once a day.
+2.  Lipitor 10 mg once a day.
+
+INITIAL PHYSICAL EXAMINATION:  The patient was afebrile.
+Vital signs, within normal limits.  Well developed male, no
+apparent distress.  Chest was clear.  Heart was regular.
+Abdomen, soft, nondistended, without masses.  Extremities are
+warm.
+
+PREOPERATIVE LABORATORY:  Preoperative labs were significant
+for a hematocrit of 40.4.
+
+BRIEF HOSPITAL COURSE:  The patient was taken to the
+Operating Room on 2010-03-01 00:00:00, where he underwent a
+proctocolectomy with a coloanal anastomosis and a loop
+ileostomy under general endotracheal anesthesia.  Estimated
+blood loss was 500 cc.  The patient had a #14 French q day
+catheter placed due to his history of prostate cancer and
+ureteral stenosis.  He tolerated the procedure well.  There
+were no intraoperative complications and he was transported
+to the Recovery Room in stable condition.
+
+Immediately postoperatively, the patient was relatively
+comfortable with an epidural catheter in place for pain
+control.  He remained hemodynamically stable, however, was
+without flatus.  He was started on clear liquids on
+postoperative day #2 as well as restarted on his whole
+medications.  Of note, he began to have a large amount of
+light brown loose output from his ostomy.  Due to the large
+volume, he was started on intravenous fluid replacement to
+prevent dehydration.  His diet was advanced to a regular diet
+and his fluid re123 Any St.n was kept for the next few days.
+
+His Foley catheter was removed on postoperative day #7,
+however, he failed to void.  Urology was consulted and a 18
+French Foley was placed with a PVR of 190 cc.  Towards
+postoperative day #8, the patient's ostomy output decreased.
+His abdomen became distended and his a123 Any St.e worsened.  He
+also had an episode of emesis as well.
+
+KUB revealed a PSBO.  A small red rubber catheter was placed
+in the stoma with some relief, however, the patient remained
+distended.  His partial small bowel obstruction was slow to
+resolve where on postoperative day #18 he was started on
+clears with continued decompression through his ostomy via
+the red rubber catheter.
+
+Postoperative day #13, the patient became hypotensive with a
+severe abdominal pain in the right upper quadrant above his
+ostomy.  Abdominal CT with p.o. and intravenous contrast was
+done which showed dilated loops of small bowel and mild edema
+proximal to the ostomy without free air or contrast
+extravasation.  He was made NPO and resuscitated with
+intravenous fluids, however, later that evening, his O2 sats
+were noted to decrease to the 80s on room air.
+
+Electrocardiogram was obtained which showed no change from
+prior, however, in light of the patient's obstruction,
+marginal urine output and pending instability, he was
+transferred to the Intensive Care Unit for further
+management.  There he underwent a VQ scan which was low
+probability for pulmonary embolus.
+
+On rectal examination, he was found to have an area of
+anterior separation of his anastomosis and about 30 cc of
+serosanguinous fluid was drained.  He was kept on broad
+spectrum antibiotics and close observation.
+
+CT scan of the abdomen was repeated which showed, again,
+thickened bowel but no contrast extravasation.  Of note, as
+well, the patient's white blood cell count had increased to
+24, however, over the next few days, he stabilized with a
+decreasing white blood cell count, pain abating and better
+urine output.
+
+During this time, while he was NPO, he was also started on
+TPN for nutritional support.  Due to the patient's apparent
+stability, he was started on p.o. diet again which was
+advanced. He did continue over the next few days to require a
+few fluid boluses due to his high ileostomy output.
+
+He continued to make slow gains and required two additional
+CT scans that showed some free fluid in the abdomen which did
+not show evidence of having extravasated.  These were
+percutaneously drained.  The first around the 17th and the
+18th with the initial culture growing E-coli and Morganella
+Morgani and subsequent cultures with no growth.  As note,
+throughout his period of sepsis, several blood cultures were
+drawn which have showed no growth to date.
+
+Due to the patient's poor p.o. intake, a nasal gastric
+feeding tube was placed and he was started on tube feeds
+which he tolerated well.  His antibiotics were also continued
+through this interval as well.
+
+Around postoperative day #30, he was started on a regular
+diet.  His tube feeds had been at goal, however, his
+ileostomy output again started to increase for which he was
+placed on intravenous fluid replacement.
+
+He had a CT scan of his abdomen which did not show evidence
+of a leak or any new intra-abdominal fluid collections.
+
+He was slowly able to advance his diet.  His TPN was d/c'd
+and at the time of this dictation, the patient is meeting
+100% of his caloric and protein needs orally.  His tube feeds
+have been decreased to 35 cc per hour to compensate for what
+he himself may not take in.
+
+His antibiotics were stopped on postoperative day #32.  He
+remained afebrile, hemodynamically stable and otherwise
+feeling well.
+
+CONDITION OF DISCHARGE:  Good.
+
+DISCHARGE STATUS:  The patient will be discharged to a
+rehabilitation facility for conditioning and regain of
+strength.
+
+DISCHARGE DIAGNOSIS:
+1.  Rectal cancer.
+2.  Status post proctocolectomy with coloanal anastomosis and
+a loop ileostomy.
+3.  Partial small bowel obstruction, resolved.
+4.  Postoperative leak, resolved.
+5.  Hyperlipidemia.
+6.  History of prostate cancer.
+
+DISCHARGE MEDICATIONS:
+1.  Lipitor 10 mg p.o. q d.
+2.  .................... 2 mg p.o. q hs.
+3.  Heparin subcutaneous 5,000 units b.i.d.
+4.  Vitamin D 500 mg p.o. b.i.d.
+5.  Zinc Sulfate 220 mg p.o. q d for a total of two weeks.
+6.  Protonix 40 mg p.o. q d.
+7.  Lopressor 50 mg p.o. b.i.d.
+8.  Calcium Carbonate 1 gram p.o. b.i.d.
+9.  Imodium 4 mg p.o. b.i.d.
+
+DISCHARGE INSTRUCTIONS:  This patient is to follow up with
+Dr. Jarelin Flintoff Murrah at telephone # (test@mail.com in 10 to 14
+days.  He is also to follow up with his Urologist, Dr
+Murrah at telephone # (test@mail.com for planning of Foley
+catheter removal and further care.
+
+
+
+                            Murrah, [**First Name3 (LF) 1097**]
+
+Dictated By:Jarelin Flintoff
+MEDQUIST36
+
+D:  2010-03-01 00:00:00  14:08
+T:  2010-03-01 00:00:00  14:04
+JOB#:  25780

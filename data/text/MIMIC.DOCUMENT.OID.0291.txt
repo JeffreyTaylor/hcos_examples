@@ -1,0 +1,296 @@
+Admission Date:  2008-03-02 00:00:00              Discharge Date:   2008-03-02 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Iodine-Iodine Containing / Ampicillin / Phenergan Plain /
+Zaroxolyn / Ambien
+
+Attending:Amyri Perriera
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+intubation
+
+History of Present Illness:
+Ms. Ozer is a 98yoF with severe diastolic HF NYHA class IV
+with multiple exacerbations in past year, HTN, HLD, Afib, and
+gait abnormality related to ?DM who presented from home on 2008-03-02 00:00:00
+after sustaining a fall 3 day before. Her fall was unwitnessed,
+but was thought to be mechanical, as pt tripped while getting
+out of bed to the commode.  L hip pain developed over the next
+few days, and her family brought her to the ED.  CT scans of the
+cervical spine and head were negative for fracture or bleed. A
+plain film of the hip showed chronic fractures of the left
+superior and inferior pubic rami but no new fractures.  UA was
+concerning for UTI, she was started on macrobid.  She was
+subsequently transferred to the floor.
+.
+On transfer to the floor, her VS were 98.2 128/70 98 18 98/4L.
+She was without acute complaints initially.  Her antibiotics
+were broadened to linezolid and cipro on 2008-03-02 00:00:00.  On the evening
+of 2008-03-02 00:00:00, she triggered on the floor for desaturation to 88% on
+2-3L; came up to 94-95% with 5L O2.  At baseline, she is in the
+low 90s on 2-3L at home.  She got lasix 60 IV x1 (takes
+torsemide 100 UPMCE at home, but has been off since presentation
+due to hypotension), mucomyst, morphine 0.5, and nebs. Repeat
+lasix 40mg IV x1.  ABG 7.51/45/51/37. HR was noted to be in the
+120-130s (home B-blockers also stopped secondary to
+hypotension), got lopressor 5mg IV x 2 with little effect.
+Attempted to put her on face mask for mouth breathing, but
+patient kept ripping it off.  Pt was also complaining of chest
+pain, and was felt to have altered mental status and increased
+agitation.  Pt was trasferred to the MICU for further
+management.
+
+Of note, she is UPMCE speaking only; per her daughter, she has
+not had any decreased interaction or confusion. The patient
+lives in subsidized senior housing and has 24/7 care. The
+daughter notes a slow decline in her functional status since a
+2008-03-02 00:00:00 admission for MRSA pneumonia in which she was
+temporarily intubated. She was recently admitted in 2008-03-02 00:00:00 for
+CHF, and per the daughter, has not fully recovered functionally
+since. She has had multiple 123 Any St.us falls in the past related
+to neuropathy and already unsteady gait.
+
+Past Medical History:
+- Chronic diastolic heart failure, last EF 65% (2008-03-02 00:00:00)
+- Hypertension
+- Dyslipidemia
+- Atrial fibrillation (not anticoagulated due to fall risk)
+- Microvascular disease
+- Extensive basal ganglia disease
+- Gait disorder
+- Advanced degenerative joint disease
+- Meniere's disease
+- Hard of hearing
+
+Social History:
+Patient lives at home by herself at subsidized senior housing in
+123 Any St. with assistance from family. She has a 24 hour care
+worker that watches her 5 days a week. Her daughter watches her
+the other 2 days each week. Her Grandson Juridia Ozer is an interpreter
+at UPMCE and is very active in her care. Granddaughter is ?also
+HCP. Aids help her with cleaning and shopping. No smoking or
+drinking.
+
+Family History:
+NC
+
+Physical Exam:
+Admission Physical Exam:
+VS - Temp 98.2F, BP128/70 , HR98 , R18 , O2-sat98 % 4LNC dry
+weight 60.4 kg
+GENERAL - fatigued appearing elderly female in NAD
+HEENT - bruising around right orbit with swelling, PERRLA, EOMI,
+sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, JVD to 8cm
+LUNGS - bibasilar crackles ap123 Any St.ted
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials,
+DPs). Pain on palpation of the feet bilaterally.
+SKIN - no rashes or lesions
+LYMPH - no cervical, axillary, or inguinal LAD
+NEURO - awake, alert, oriented to person and place. Poor
+compliance with neurologic exam, though CN were intact
+bilaterally. Strength 5/5 in all extremities. Normal sensation
+to light touch in all extremities. Patient declined getting out
+of bed for gait assessment and orthostatic vital signs.
+
+
+Pertinent Results:
+Admission Labs:
+2008-03-02 00:00:00 09:58PM URINE  COLOR-Yellow APPEAR-Clear SP Ozer-1.009
+2008-03-02 00:00:00 09:58PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0
+LEUK-LG
+2008-03-02 00:00:00 09:58PM URINE  RBC-16* WBC-92* BACTERIA-FEW YEAST-NONE
+EPI-<1
+2008-03-02 00:00:00 09:58PM URINE  HYALINE-18*
+2008-03-02 00:00:00 09:58PM URINE  MUCOUS-RARE
+2008-03-02 00:00:00 01:30PM   GLUCOSE-117* UREA N-32* CREAT-1.1 SODIUM-139
+POTASSIUM-4.3 CHLORIDE-97 TOTAL CO2-33* ANION GAP-13
+2008-03-02 00:00:00 01:30PM   estGFR-Using this
+2008-03-02 00:00:00 01:30PM   cTropnT-<0.01
+2008-03-02 00:00:00 01:30PM   PHENYTOIN-8.1*
+2008-03-02 00:00:00 01:30PM   WBC-7.0 RBC-3.50* HGB-11.0* HCT-32.2* MCV-92
+MCH-31.5 MCHC-34.1 RDW-18.3*
+2008-03-02 00:00:00 01:30PM   NEUTS-75.2* LYMPHS-16.4* MONOS-4.5 EOS-2.8
+BASOS-1.2
+2008-03-02 00:00:00 01:30PM   PLT COUNT-218
+
+Discharge Labs:
+
+Notable Labs:
+2008-03-02 00:00:00 01:30PM BLOOD cTropnT-<0.01
+2008-03-02 00:00:00 06:50AM BLOOD CK-MB-2 cTropnT-<0.01
+2008-03-02 00:00:00 12:10AM BLOOD CK-MB-1 cTropnT-<0.01
+2008-03-02 00:00:00 05:01AM BLOOD CK-MB-2 cTropnT-<0.01
+2008-03-02 00:00:00 03:34AM BLOOD proBNP-5862*
+2008-03-02 00:00:00 06:50AM BLOOD calTIBC-373 VitB12-1327* Folate-GREATER
+TH Ferritn-41 TRF-287
+
+EKG 2008-03-02 00:00:00:
+Atrial fibrillation with a rapid ventricular response. Variation
+in precordial lead placement as compared to the 123 Any St.us tracing
+of 2008-03-02 00:00:00. The inferior ST-T wave changes are slightly more
+prominent. Otherwise, no diagnostic interim change.
+
+TWO VIEWS OF THE LEFT TIBIA AND FIBULA 2008-03-02 00:00:00: Diffuse
+demineralization limits 2008-03-02 00:00:00 of the osseous structures. No
+fracture or dislocation is present. The left knee is partially
+imaged and demonstrates mild-to-moderate degenerative changes
+within the medial and lateral compartments. No focal lytic or
+sclerotic osseous abnormality is seen. There are no radiopaque
+foreign bodies. No focal lytic or sclerotic osseous
+abnormalities are present.
+.
+PELVIS PLAIN FILMS 2008-03-02 00:00:00:
+Limited 2008-03-02 00:00:00. Chronic fractures of the left superior and
+inferior pubic rami. No definite new fractures seen. If there is
+continued clinical concern for a pelvic fracture, a CT of the
+pelvis can be obtained for further 2008-03-02 00:00:00.
+.
+CT C-SPINE 2008-03-02 00:00:00: 123 Any St.inary read shows no fracture or
+subluxation of the cervical spine
+.
+CT HEAD W/O CONTRAST 2008-03-02 00:00:00: 123 Any St.inary read shows no acute
+intracranial pathology, chronic small vessel ischemia and
+atrophy stable. Sinus mucosal thickening new compared with
+prior, correlate for sinusitis
+.
+CXR 2008-03-02 00:00:00: No acute traumatic injury identified. Enlargement
+of the hila likely reflective of underlying pulmonary arterial
+hypertension. Hiatal hernia with adjacent atelectasis.
+.
+
+
+Brief Hospital Course:
+Medicine Floor Course:
+Ms. Ozer is a 98yo 98-speaking female with severe dCHF,
+HTN, HLD, neuropathy, gait abnormalities who presents 3 days
+after likely mechanical fall without evidence of significant
+trauma.
+
+# RESPIRATORY FAILURE:  She developed hypoxia to the low 80s on
+3LNC on HD3 with significant resipiratory distress and
+tachypnea. CXR showed mild fluid overload.  She was given
+albuterol and ipratropium nebulizers and IV lasix with
+rebounding of her sats to the upper 90s on 5LNC. She was
+agitated and refused to wear an oxygen mask or complete her neb
+treatments.  She calmed with IV morphine which likewise lessened
+her tachypnea.  She again decompensated with respiratory
+distress that evening and was subsequently transferred to the
+ICU for further care. The etiology was felt likely combination
+of pneumonia plus flash pulmonary edema in the setting of
+elevated HR in DHF, also possible aspiration in the setting of
+AMS. Pt was intubated and sedated. She was started on Meropenam
+and Linezolid for a 10d abx coverage and underwent significant
+diuresis with lasix gtt. She became afebrile, leukocytosis
+resolved and resp secretions decreased. There were ongoing
+discussions with palliative care regarding goals of care and
+eventually family decided to extubate without reintubation. Soon
+after, patient's oxygenation deteriorated on NC and face mask
+and goals of care were shifted towards comfort measures only.
+Non essential medications were discontinued and she was put on a
+morphine drip. She passed away secondary to hypoxemic
+respiratory failure on 2008-03-02 00:00:00 at 1:15AM with her daughter at her
+bedside.
+.
+# S/P FALL:  She is a poor historian but states that she did not
+lose consciousness or suffer any prodromal syncopal or
+presyncopal symptoms.  She sustained no major trauma from her
+fall aside from right eye echymoses, and CT of the head and
+cervical spine revealed no fractures or bleeds.  She was
+admitted for a syncope workup.  Her EKG and cardiac enzymes
+ruled out MI.  She had no abnormalities on telemetry.  She was
+mentating normally on admission.  She did not start new
+medications recently.  She was not orthostatic.  Her daughter
+relates a progressive functional decline over the last year
+since being intubated in 2008-03-02 00:00:00 for MRSA pneumonia.  She
+had fallen a number of times since.  Mechanical fall was
+suspected given her history of lower-half parkinsonism, [** Location **]us
+cerebellar strokes, severe arthritis, unstable gait, and
+neuropathy.  Her family had [** Location **]usly decline rehab admission
+and had chosen to keep her home with 24 hour care.
+
+# ATRIAL FIBRILLATION:  she has been rate controlled with
+diltiazem and metoprolol, which were continued on admission.
+These were continued on admission but were intermittently held
+due to hypotension. She is not on coumadin given her repeated
+falls.  Her rates ranged from the 90s to low 100s, but climbed
+to the 110s-120s at the time of her respiratory distress.
+Metoprolol was continued during ICU stay at 12.5mg TID, dilt was
+held.
+
+# SEIZURE DISORDER:  She has been on phenytoin since her CVA
+about 10 years ago which was accompanied by severe seizures.
+Phenytoin was continued until goals of care shifted.
+
+#) Altered mental status / agitation - differential includes
+hypoxia, infection, MI, PE, antibiotic side effect, delirium.
+Pt apparently had normal MS when she presented.  MS appears to
+be altered in the setting of hypoxia and respiratory distress.
+Infection is also a possibility with known UTI and question of
+PNA in the setting of worsened respiratory status.  MI was
+considered as possibility as pt complained of chest pain,
+although she has had negative CE x 2 since admission.  Pt was
+started on cipro for UTI, which is known to cause AMS in elderly
+patients. Pt was subsequently intubated and therefore it was
+difficult to assess her status, however she alternated between
+more agitated and more lethargic. She was started on seroquel
+25mg UPMCE with some improvement of agitation. As goals of care
+shifted, she was put on a morphine drip and agitation resolved.
+
+#) Hypernatremia: Pt developed hypernatremia to 150 in setting
+of lasix gtt with inability to take PO. Pt was started on free
+water flushes with TF with resolution of hypernatremia.
+
+#) Hypotension: Pt became hypotensive in setting of intubation
+and sedation. She was started on neo for pressure support given
+tachycardia from a.fib. This was then transitioned to levophed
+to improve peripheral perfusion. With decreasing sedation and
+decreasing diuresis patient was able to be weaned off pressure
+support.
+
+Medications on Admission:
+1. diltiazem HCl 240 mg Capsule, Sustained Release daily
+2. metoprolol succinate 150 mg daily
+3. phenytoin sodium extended 300 mg daily
+4. aspirin 325 mg daily
+5. ursodiol 300 mg UPMCE
+6. polyethylene glycol 17grams daily prn constipation
+7. senna 8.6 mg UPMCE as needed for constipation.
+8. docusate sodium 100 mg UPMCE
+9. torsemide 100 mg Tablet UPMCE
+10. potassium chloride 20 mEq daily
+
+Discharge Medications:
+None.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Congestive Heart Failure
+Pneumonia
+
+
+Discharge Condition:
+Deceased.
+
+
+Discharge Instructions:
+None.
+
+Followup Instructions:
+None.
+
+
+                             Juridia Ozer Juridia Ozer MD 21139
+
+Completed by:2008-03-02 00:00:00

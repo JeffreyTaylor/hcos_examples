@@ -1,0 +1,377 @@
+Admission Date:  2013-09-02 00:00:00              Discharge Date:   2013-09-02 00:00:00
+
+Date of Birth: 1945-08-27 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Demerol / Lovastatin / Levaquin / Gentamicin / Iodine Containing
+Agents Classifier
+
+Attending:Jasun Marrale
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+History of Present Illness:  Patient is a 79 y/o Russian
+speaking female with a hx of Pulmonary MAC diagnosed in 2013-09-02 00:00:00, on
+standing clarithromycin, ethambutol and rifampin, complicated by
+bronchiectasis who presented from home with worsening shortness
+of breath, cough and sputum production for 2 days.  Patient
+reports that yesterday her breathing started becomming more
+difficult with increased cough productive of yellow/clear sputum
+without associated fevers or chills.  Her breathing improved
+with clearing of her secretions, however this morning she was
+unable to produce any phlegm and her breathing became much more
+labored.  She presented to the ED due to worseing SOB.  She
+denies recent chest pain, pleuritic pain, nausea, vomiting or
+diarrhea.  Per her husband she has had less energy and decreased
+a123 Any St.e since her last hospitalization, however her breathing
+had been stable until 2 days ago. Patient denies night sweats,
+however, reports increased weight loss over the past months.
+.
+Of note, patient was recently admitted to UPMCE on 2013-09-02 00:00:00 with
+similar complaints.  Imaging at that time showed progression of
+widespread small airway bronchiectasis and bronchiolitis.  She
+was admitted to the ICU however did not require intubation or
+steroids.  She completed 5 days of cefepime per ID
+recommendations and completed an additional 10 day course of
+cefpodoxime 200mg po BID for presumed CAP.
+.
+In the ED VS initially showed T 96.7 BP 149/84 HR 89 RR 28-48 O2
+sat 97% on RA.  CXR showed interval improvement in the
+multifocal patchy opacities 123 Any St.usly noted.  She was given one
+dose of cefepime and ASA 325mg x1.  She was placed on oxygen for
+comfort and then desaturated into the 80's and was placed on NRB
+with inc. in her oxygen sat to 100%, however she remained
+tachypneic.  Due to inability to wean off NRB she was admitted
+to the ICU for further treatment.
+
+
+Past Medical History:
+1. Pulmonary MAC infection with tree-in-Avreet Fortuna opacities and
+bronchiectasis, now on antibiotics nearly continuously since
+2013-09-02 00:00:00
+2013-09-02 00:00:00. Has been on triple therapy since 2013-09-02 00:00:00
+2. Significant head tremor - worsened with albuterol & flovent
+3. Lower airway colonization with pseudomonas - recently
+completed course of cefepime/cefpodoxime (unclear how diagnosis
+of colonization made)
+4. Obstructive airways disease.
+5. Hypertension.
+6. GERD.
+7. Weight loss.
+8. Headaches.
+9. Possible Levaquin and or Zithromax allergy.
+10. Hyperlipidemia
+
+
+Social History:
+Denies alcohol or tobacco use; moved to the US 13 years ago with
+her husband.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals - T:96.4 BP: 139/123  HR: 108 RR:24-40 02 sat: 100% NRB
+GENERAL: cachectic elderly woman, moderate respiratory distress,
+unable to speak in full sentences, using accessory muscles
+HEENT: AT/NC, EOMI, anicteric sclera
+NECK: JVP not elevated
+CARDIAC: Tachycardic, regular, normal S1/S2, no m/r/g
+LUNG: decreased respiratory effort, fine crackles throughout, no
+wheezes
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no
+rebound/guarding
+EXT: moving all extremities well, no cyanosis, no edema
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+NEURO: AAO x3
+
+Pertinent Results:
+2013-09-02 00:00:00 01:00PM BLOOD cTropnT-0.04
+2013-09-02 00:00:00 09:46PM BLOOD cTropnT-0.44
+2013-09-02 00:00:00 04:43AM BLOOD cTropnT-0.24
+2013-09-02 00:00:00 10:20AM BLOOD cTropnT-0.20
+2013-09-02 00:00:00 04:32PM BLOOD cTropnT-0.19
+2013-09-02 00:00:00 01:58PM BLOOD cTropnT-0.12
+.
+2013-09-02 00:00:00 05:09PM BLOOD Type-ART O2 Flow-4 pO2-65* pCO2-57*
+pH-7.31* calTCO2-30 Base XS-0 Intubat-NOT INTUBA Comment-NASAL
+Fortuna
+2013-09-02 00:00:00 12:15AM BLOOD Type-ART FiO2-60 pO2-106* pCO2-46*
+pH-7.38 calTCO2-28 Base XS-0 Intubat-NOT INTUBA
+.
+2013-09-02 00:00:00 CXR: Marked interval improvement in 123 Any St.usly noted
+peripheral
+basilar opacities consistent with essential resolution of active
+MAC
+infection.  There are subtle areas of increased density noted
+medially in the left apex and laterally in the bilateral lung
+bases which likely correspond to the stigmata of the chronic
+infection.
+.
+2013-09-02 00:00:00 CTA:
+1. No pulmonary embolism is noted.
+2. Presence of multiple fluid filled bronchi, thickening along
+the axial interstitium, development of multiple new inflammatory
+nodules and worsening of the primary sites of bronchiolitis
+suggest worsening of the patient's underlying
+bronchiectasis/bronchiolitis .
+3. Atelectatic changes of the right middle lobe. Small bilateral
+pleural effusion.
+4. Mitral annulus calcification and significant calcification of
+the coronary arteries appear unchanged.
+.
+2013-09-02 00:00:00 2D Echo:
+Regional left ventricular systolic dysfunction c/w CAD (mid-LAD
+
+lesion). Mild mitral regurgitation.  Compared with the report
+(images unavailable for review) of 2013-09-02 00:00:00, the regional left
+ventricular systolic dysfunction is new.
+.
+C.CATH Study Date of 2013-09-02 00:00:00
+1.  Coronary angiography in this right-dominant system revealed
+two-vessel coronary artery disease.
+--The LMCA had no angiographically apparent disease.
+--The mid-LAD had a 50% stenosis.  D1 had a 60% stenosis.
+--The LCx had no angiographically apparent disease.
+--The RCA had a 40% ostial stenosis.
+2.  Resting hemodynamics revealed low right-sided filling
+pressures with
+RA mean 3 mmHg.  PA and PCW pressures were not obtained -- it
+was not
+possible to advance the swan-ganz catheter into the PA easily so
+the
+right-heart catheterization was aborted aver RV pressures were
+obtained.
+3.  Left ventriculography revealed a calculated LVEF 44%,
+moderate
+anterolateral hypokinesis, and no mitral regurgitation.
+4.  At the beginning of arterial access, a small 3x3cm hematoma
+developed at the site of arterial puncture.  Manual pressure was
+
+performed, and by com123 Any St.n of the case there was resolution of
+the
+hematoma with no evidence of recurrence or extension.
+FINAL DIAGNOSIS:
+1. Moderate coronary artery disease most suitable for continued
+medical
+therapy.
+2. Moderate left ventricular systolic dysfunction with low
+filling
+pressures.
+
+Brief Hospital Course:
+79 yo Russian speaking female with a hx of Pulmonary MAC
+complicated by bronchiectasis who presented with worsening
+shortness of breath and hypoxia and found to have recent MI.
+.
+# Shortness of Breath/Hypoxia:  Pt was admitted to the UPMCE as
+she could not be weaned off NRB.  The SOB is likely due to a
+combination of exacerbation of COPD, bronchiectasis (improved on
+CXR), pneumonia, and subacute left ventricular dysfunction.  Pt
+was started on IV methylpred along with levalbuterol/ipatropium
+nebulizer treatments.  CTA on 2013-09-02 00:00:00 ruled out PE.  ID was
+consulted and did not feel the pt's chronic MAC infection is the
+cause of the respiratory distress.  She was started on
+vancomycin and Zosyn.  Vancomycin was discontinued when gram
+stain of sputum from 2013-09-02 00:00:00 returned with GNRs.  Sputum culture
+grew Pseudomonas, which pt was known to be colonized with.
+Given that pt remained afebrile without leukocytosis, Zosyn was
+discontinued as recommended by ID.  After discussion with her
+pulmonologist Dr. Fortuna, it was decided to treat her for
+pneumonia and she was dischared on 7 more days of Cefpodixime.
+She was continued on her MAC triple antibiotic therapy:
+ethambutol, clarithromycin, and rifampin.  Pt is scheduled for
+follow-up with ID and Pulmonology as outpatient.  Pt was
+discharged on steroid taper, nebulizer, Cefpodixime, and MAC
+triple antibiotic therapy.
+.
+# CAD with recent MI:  As part of her SOB work-up, she was
+evaulated for MI.  ECG showed possible V1-V4 STE and biphasic Ts
+new since 2013-09-02 00:00:00.  Pt had elevated troponins, peaking at 0.44 on
+day of admission, with nl CKs; heparin gtt was started.  ECHO on
+2013-09-02 00:00:00 showed new moderate to severe regional left ventricular
+systolic dysfunction with near akinesis/aneurysm of the distal
+third of the ventricle and hypokinesis of the mid-septum and
+mid-anterior walls; LVEF = 30% (60-65% in 2013-09-02 00:00:00).  Cardiology was
+consulted and felt that this injury represented a recent
+myocardial infarction from the 123 Any St.us days to weeks.  Pt was
+started on a statin and plavix in addition to her aspirin and
+beta-blocker. Pt had a cardiac catheterization on 2013-09-02 00:00:00 that
+showed moderate disease without intervenable lesions, likely
+prior MI that revascularized.  Pt was transferred to the
+cardiology service post-catheterization.  She was maintained on
+heparin gtt until warfarin was therapeutic for the akinetic
+distal ventricle.  Plan is to anticoagulate for at least 6
+months.  Fortuna was also added as blood pressure tolerated.  After
+discussion with Dr. Fortuna, it was decided that the pt would
+not continue with plavix given her pulmonary status and
+propensity for hemoptysis.  Pt is to follow-up with her PCP,
+UPMCE, and cardiologist.  Pt had requested Dr.
+Jasun Marrale as her cardiologist and a follow-up appointment was
+made.
+.
+# CHF, EF 30%:  Pt appeared euvolemic throughout ther hospital
+stay.  Pt was discharged on her outpatient beta-blocker
+propranolol and valsartan.
+.
+# Palpitations:  This may be due to increased albuterol use.  A
+recent TSH in 2013-09-02 00:00:00 was 1.3.  Pt had no sig. events on tele.
+.
+# Loose stools:  Pt complained of loose, small-volume stools
+2-3x during the nights, associated with cramping.  DDx inc.
+viral gastroenteritis, side effect of medications (new meds
+included Zosyn, statin at the time), C. diff 2013-09-02 00:00:00 Zosyn (c. diff
+neg x1, afebrile, no leukocytosis noted).
+.
+# Hyponatremia on admission: This resolved slowly with IV NS on
+admission and return of her a[** Location **]e.
+.
+# Head Tremor:  Pt was continued on her outpatient propranolol.
+
+.
+# HTN: She was continued on her outpatient propranolol and
+started on valsartan.
+.
+# GERD: Pt was restarted on PPI with administration of high-dose
+steroids.
+
+Medications on Admission:
+Biaxin 250 mg twice daily
+Ethambutol 400 mg twice daily
+Rifampin 300 mg daily
+Aspirin 81mg daily
+Inderal LA 80 mg daily
+Hydrochlorthiazide 12.5mg daily
+Mucinex 600mg daily
+Spiriva 18mcg INH daily
+Albuterol prn
+
+Discharge Medications:
+1. Ethambutol 400 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+2. Clarithromycin 250 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Rifampin 300 mg Capsule Sig: One (1) Capsule PO Q24H (every
+24 hours).
+4. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+5. Inderal LA 80 mg Capsule,Sustained Action 24 hr Sig: One (1)
+Capsule,Sustained Action 24 hr PO once a day.
+6. Guaifenesin 600 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO daily ().
+7. Pravastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Valsartan 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Prednisone 10 mg Tablet Sig: See comments Tablet PO once a
+day for 10 days: Please take 4 tablets (40 mg total) tomorrow.
+Then take 3 tablets (30 mg) for 3 days.  Then take 2 tablet (20
+mg) for 3 more days.  Then take 1 tablet (10 mg) for 3 days and
+stop.
+Disp:*22 Tablet(s)* Refills:*0*
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+12. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: 2013-09-02 00:00:00
+vial Inhalation three times a day.
+Disp:*120 vials* Refills:*2*
+13. Pulmicort 0.25 mg/2 mL Solution for Nebulization Sig: One
+(1) vial Inhalation four times a day.
+Disp:*120 vials* Refills:*2*
+14. Nebulizer
+Please dispense 1 nebulizer.  Use as directed with aersolized
+medications.
+15. Suction
+Please dispense 1 suction machine with Yankauer.  Use as
+directed.
+16. Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO every
+twelve (12) hours for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Coronary artery disease
+Myocardial infarction
+Congestive heart failure
+Chronic obstructive pulmonary disease
+.
+Secondary Diagnoses:
+Pulmonary MAC infection
+Hypertension
+Hyperlipidemia
+Head tremor
+Gastroesophageal reflux disease
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted for shortness of breath, which has improved
+with steroids, nebulizer breathing treatments, and antibiotics.
+You were also found to have had a recent heart attack and are on
+new medications for this.
+.
+You have been started on new medications:  1) valsartan, 2)
+warfarin (Coumadin), 3) pravastatin, 4)prednisone, and 5)
+Cefpodoxime (antibiotics for pneumonia).  The visiting nurses
+will tell you how much warfarin to take.  We change the amount
+of warfarin according to a lab test called INR.  Your goal INR
+is 2.0-3.0.  You were also given a prescription for prednisone,
+which will be tapered off slowly.  Please see the attached
+medications and take them accordingly.  You were also given a
+nebulizer machine with prescriptions for the medications for it.
+ You will also get a oral suction catheter delivered to your
+home tomorrow.
+.
+Please keep your follow-up appointments.  Appointments with your
+pulmonologist Dr. Fortuna and the cardiologist you requested
+Dr. Fortuna have been made.  You also have an appointment with
+the Infectious Diseases doctor Dr. Fortuna.  Visiting nurses
+will also follow you at home to help with your medications,
+especially warfarin.
+.
+If you develop chest pain, worsening shortness of breath, a
+high-fever, bleeding, or any other worrisome symptoms, please
+call your primary care physician or go to the Emergency
+Department.
+
+Followup Instructions:
+Please keep the following appointments:
+.
+Provider: Avreet Fortuna,INTERPRET W/LAB NO CHECK-IN Avreet Fortuna INTEPRETATION
+BILLING Date/Time:2013-09-02 00:00:00 10:30
+Provider: [**First Name8 (NamePattern2) 3962**] Avreet Fortuna, MD Phone:test@mail.com
+Date/Time:2013-09-02 00:00:00 10:00
+Provider: Jasun Marrale, M.D. Phone:test@mail.com
+Date/Time:2013-09-02 00:00:00 1:00
+.
+You also have an appointment with Dr. Fortuna on 2013-09-02 00:00:00 at
+9:00AM.  If he has an earlier opening, his clinic will call you.
+ The clinic phone number is test@mail.com.
+.
+You also have an appointment with Dr. Fortuna on 2013-09-02 00:00:00 at
+1:00PM.  His clinic is located at 123 Any St..  His
+clinic number is test@mail.com.
+
+
+

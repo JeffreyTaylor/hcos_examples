@@ -1,0 +1,74 @@
+Admission Date:  2013-08-06 00:00:00       Discharge Date:  2013-08-06 00:00:00
+
+Date of Birth: 1963-08-06 00:00:00 00:00:00       Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 62-year-old
+right handed African-American woman with metastatic breast
+cancer to the brain.  She is status post a resection of the
+right cerebellum metastasis by Dr. Daeson Guarniere on 2013-08-06 00:00:00 and was
+followed by stereotactic radiosurgery.  Spinal tap was done
+in 2013-08-06 00:00:00, but the cytology was negative.  A chest CT
+revealed pulmonary metastases and she has been treated with
+chemotherapy since 2013-08-06 00:00:00.  The patient developed
+symptoms of loss of balance, slurred speech and double
+vision.  An MRI was done which revealed cerebellum metastasis
+and possible leptomeningeal spread.  A chest x-ray from
+2013-08-06 00:00:00 showed an increase in lung nodules.
+
+PHYSICAL EXAM:
+VITAL SIGNS:  Blood pressure 148/84, pulse 84, respiratory
+rate 18, temperature 96.6??????.
+
+NEUROLOGIC:  She is awake, alert, able to follow commands
+readily.  Her language is fluent with good comprehensions.
+Cranial nerve exam:  Pupils equal, round and reactive to
+light, 5 mm to 3 mm.  There is no afferent papillary defect.
+EOMs are full.  Her EOM exam shows saccadic intrusions.  Her
+fundi show sharp disc margins and spontaneous venous
+pulsation.  She has decreased gag reflex on the right.  She
+has nasal voice and poor guttural sounds.
+Sternocleidomastoids are strong bilaterally.  She has
+significant dysmetria in the right upper and right lower
+extremities and has postural tremor in her right upper
+extremity that is worse distally than proximally.  She has
+increased tone on the right side.  Her sensory exam is
+grossly intact.  Her gait is wide based and unsteady.
+
+On 2013-08-06 00:00:00, the patient underwent right craniotomy for
+excision of cerebellum metastasis.  The patient tolerated the
+procedure well.  She was afebrile with stable vital signs.
+She was out of bed to chair, continued with double vision.
+She was getting patches over the alternating eyes.  She does
+continue to have mild dysmetria of the upper extremities and
+mild left lateral gaze.  She was seen by physical therapy and
+occupational therapy and found to require short
+rehabilitation stay.  Her dressing was clean, dry and intact.
+She remained afebrile with stable vital signs and will be
+transferred to rehabilitation with follow up in the brain
+tumor clinic on 2013-08-06 00:00:00 with Dr. Daeson Guarniere with a steroid taper.
+
+DISCHARGE MEDICATIONS:
+1.  Decadron 6 mg po
+2.  Protonix 40 mg po q day
+3.  Percocet 1 to 2 tablets po q4h prn
+4.  Colace 100 mg po bid
+5.  Dulcolax suppository 1 pr qd prn
+6.  Tylenol 650 po q4h prn
+
+DISCHARGE CONDITION:  Stable at the time of discharge.  Her
+staples should be removed on postoperative day #10 and her
+follow up is 2013-08-06 00:00:00 in the Brain Tumor Clinic.
+
+
+
+
+                            Daeson Guarniere, M.D.  21457
+
+Dictated By:Daeson Guarniere
+MEDQUIST36
+
+D:  2013-08-06 00:00:00  12:21
+T:  2013-08-06 00:00:00  12:32
+JOB#:  21457

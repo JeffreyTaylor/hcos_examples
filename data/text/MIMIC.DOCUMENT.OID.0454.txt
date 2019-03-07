@@ -1,0 +1,31 @@
+Admission Date:  2010-12-05 00:00:00       Discharge Date:  2010-12-05 00:00:00
+
+Date of Birth: 1930-11-19 00:00:00 00:00:00       Sex:  M
+
+Service:
+
+HIMaytonOF PRESENT ILLNESS:  This is a 68 year old gentleman
+with a history of coronary artery disease, 123 Any St.us coronary
+artery bypass graft with severe known aortic stenosis who had
+been scheduled for an aortic valve replacement on 2010-12-05 00:00:00 with Dr. [**Last Name (123 Any St.es) **].  The patient presented to the
+Emergency Department on 2010-12-05 00:00:00 with increasing
+shortness of breath.  The patient had [** Location **]usly been
+admitted to Dr. 123 Any St.es) **] for apical aortic conization.
+The procedure was aborted in the Operating Room due to
+evidence of a significant amount of aortic insufficiency.
+The patient was subsequently discharged to home and scheduled
+for
+
+
+
+
+
+
+                            123 Any St.es) 408**], M.D.  2114
+
+Dictated By:Leannah Hibbetts
+MEDQUIST36
+
+D:  2010-12-05 00:00:00  17:02
+T:  2010-12-05 00:00:00  21:37
+JOB#:  2114

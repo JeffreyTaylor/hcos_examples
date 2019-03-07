@@ -1,0 +1,444 @@
+Admission Date:  2010-07-06 00:00:00              Discharge Date:   2010-07-06 00:00:00
+
+Date of Birth: 1952-08-26 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Pneumovax 23
+
+Attending:Lorell Schmutte
+Chief Complaint:
+pneumonia, hypoxia, hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+The pt is a 66-yo man with paroxysmal atrial fibrillation,
+hepatitis C, h/o C.diff colitis, and a recent pneumonia,
+discharged 2010-07-06 00:00:00 on Vanc / Zosyn, who was found by his family
+to be more hypoxic and tired than usual so they brought him into
+the ED. His wife found him to be more sick than usual at about
+4pm today, needing more supplemental O2 than prior (2L -->
+3-4L), feeling warm and looking Lorell Schmutte. She called EMS, who
+brought him in to the ED today.
+.
+On arrival in the ED, VS - Temp 101.4F, 148/78, HR 98, R 28,
+SaO2 99% NRB. He received Tylenol 650mg PR x2. Blood Cx sent x2,
+UA negative. He was initially weaned down to 4L NC, but
+desaturated to the 80s so was re-started on the NRB with
+improvement to the mid-90s. Lactate was 2.6 and CXR showed a
+possible right basilar pneumonia and a coiled PICC line. He
+subsequently became hypotensive to the high-70s but was fluid
+responsive. His PICC line was pulled and sent for Cx and a RIJ
+CVL was placed, and he got 4L NS IVF with SBPs 95-100. ID was
+curbsided regarding Abx coverage, and he received Vancomycin,
+Meropenem, and Tobramycin for broad coverage. He is admitted to
+the MICU for sepsis. He did not require any vasopressor support.
+.
+On arrival to the ICU, he feels well and has no complaints. He
+acknowledges fever but denies SOB, chest pain, abdominal pain,
+nausea, diarrhea, or swelling.
+
+
+Past Medical History:
+- Paroxysmal Atrial Fibrillation
+- History of C diff colitis
+- Bipolar Affective Disorder
+- History of resolved hepatitis B
+- History of rheumatic heart disease
+- History of right MCA aneurysm clipped in 2010-07-06 00:00:00 at UPMCE
+- History of pernicious anemia
+- Gastroesophageal reflux disease
+
+Social History:
+He lives with his wife.  Questionable history of alcohol abuse
+(did abuse alcohol >20 years ago).  He has not smoked for one
+month but 123 Any St.usly has a 40 pack year history.  123 Any St.usly on
+2L O2 at home but not prior to this hospitalization.
+
+Family History:
+His father had lung cancer and his mother had congestive heart
+failure.
+
+Physical Exam:
+VS: Temp 96.9F, BP 112/87, HR 85, R 17, SaO2 96%NRB; CVP 4
+GENERAL: NAD
+HEENT: PERRL, dry MM
+NECK: supple
+LUNGS: +crackles @ left base, decreased BS on right
+HEART: irreg irreg, nl S1-S2, 2010-07-06 00:00:00 SM
+ABDOMEN: +BS, soft/NT/ND, no rebound/guarding
+EXTREM: 2+ BLE pitting edema
+SKIN: no rash
+NEURO: A&Ox3, strength 5/5 throughout, sensation grossly intact
+throughout
+.
+
+Pertinent Results:
+Pertinent labs:
+2010-07-06 00:00:00 06:15PM BLOOD WBC-8.3 RBC-3.52* Hgb-11.4* Hct-35.0*
+MCV-99* MCH-32.4* MCHC-32.6 RDW-16.6* Plt Ct-162
+2010-07-06 00:00:00 06:15PM BLOOD Neuts-68.9 Lymphs-22.5 Monos-7.1 Eos-1.1
+Baso-0.4
+2010-07-06 00:00:00 06:15PM BLOOD PT-16.1* PTT-39.9* INR(PT)-1.4*
+2010-07-06 00:00:00 06:15PM BLOOD Glucose-125* UreaN-8 Creat-0.8 Na-139
+K-3.6 Cl-103 HCO3-25 AnGap-15
+2010-07-06 00:00:00 06:15PM BLOOD ALT-9 AST-47* CK(CPK)-48 AlkPhos-253*
+TotBili-1.0
+2010-07-06 00:00:00 06:15PM BLOOD Lipase-63*
+2010-07-06 00:00:00 06:15PM BLOOD CK-MB-NotDone cTropnT-<0.01 proBNP-1333*
+2010-07-06 00:00:00 06:15PM BLOOD Albumin-3.0* Calcium-8.4 Phos-2.5* Mg-2.2
+2010-07-06 00:00:00 03:46AM BLOOD IgG-815 IgA-198 IgM-93
+2010-07-06 00:00:00 03:15AM BLOOD HIV Ab-NEGATIVE
+2010-07-06 00:00:00 03:15AM BLOOD Vanco-20.6*
+2010-07-06 00:00:00 06:15PM BLOOD Vanco-15.5
+2010-07-06 00:00:00 06:15PM BLOOD Digoxin-0.5*
+2010-07-06 00:00:00 04:14AM BLOOD Valproa-23*
+2010-07-06 00:00:00 06:27PM BLOOD Lactate-2.6*
+2010-07-06 00:00:00 03:42PM BLOOD B-GLUCAN-Test      >500 pg/mL *
+.
+Labs on discharge: Na139  Cl103  BUN9  Na4.7  Bicarb30
+Creatinine0.7
+WBC4.22 H/H 10/30.5 plts 138
+.
+Blood cx:
+2010-07-06 00:00:00 1:43 am BLOOD CULTURE      Source: Venipuncture.
+   Blood Culture, Routine (123 Any St.inary):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    OF TWO COLONIAL
+MORPHOLOGIES.
+         ISOLATED FROM ONE SET ONLY.  SENSITIVITIES PERFORMED ON
+REQUEST..
+.
+PICC line and central line tips negative on 2010-07-06 00:00:00 & 2010-07-06 00:00:00
+Bloox cx pending 2010-07-06 00:00:00 & 2010-07-06 00:00:00, blood cx neg from 2010-07-06 00:00:00, 2010-07-06 00:00:00, 2010-07-06 00:00:00
+C diff negative x3
+Ucx 2010-07-06 00:00:00 grew yeast
+.
+2010-07-06 00:00:00 CXR:
+FINDINGS: In comparison with the study of 2010-07-06 00:00:00, there is some
+increasing
+opacification at the right base medially with silhouetting of
+the
+hemidiaphragm, consistent with right middle lobe consolidation.
+Mild
+atelectatic changes at the left base with blunting of the
+costophrenic angle persist. Upper lung zones remain clear.
+.
+2010-07-06 00:00:00 CXR:
+IMPRESSION: Limited study due to patient motion.
+1. Possible right basilar pneumonia. Recommend repeat radiograph
+of the chest to confirm with more optimized technique.
+2. Interval slight retraction of the right PICC which is looped
+in the right subclavian vein.
+.
+2010-07-06 00:00:00 ECHO:
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thickness, cavity size, and global systolic
+function are normal (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets are moderately
+thickened/deformed. No discrete vegetation is seen, but cannot
+be excluded due to suboptimal image quality and diffuse aortic
+valve thickening. There is a minimally increased gradient
+consistent with minimal aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Physiologic mitral regurgitation is seen (within
+normal limits). The pulmonary artery systolic pressure could not
+be determined. There is no pericardial effusion.
+Compared with the prior study (images reviewed) of 2010-07-06 00:00:00,
+the findings are similar.
+CLINICAL IMPLICATIONS:
+Based on 2010-07-06 00:00:00 AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis is NOT recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+.
+2010-07-06 00:00:00 Video swallow
+IMPRESSION: Moderate-to-severe oral and mild pharyngeal
+dysphagia resulting in penetration and aspiration due to
+premature spillover, delayed swallow initiation, and mildly
+reduced laryngeal valve closure.
+.
+2010-07-06 00:00:00 CT head
+NONCONTRAST CT HEAD: There is no intra- or extra-axial
+hemorrhage, shift of normally midline structures, edema, mass
+effect, or evidence of acute infarct.
+Evidence of 123 Any St.us right 123 Any St.nal craniotomy and vascular
+clip in the right ICA are unchanged since 2010-07-06 00:00:00.
+Periventricular and subcortical white matter hypodensity
+represent chronic microvascular infarction, unchanged since
+2010-07-06 00:00:00. The paranasal sinuses and mastoid air cells are
+unremarkable.
+IMPRESSION: No acute intracranial process.
+.
+2010-07-06 00:00:00 LE U/S
+IMPRESSION: No evidence of bilateral lower extremity DVT,
+although there is limited visualization of the calf veins
+bilaterally.
+.
+2010-07-06 00:00:00 CT Chest
+IMPRESSION:
+1. Stable right middle lobe consolidation with interval increase
+in right
+middle lobe volume loss without evidence of endobronchial
+lesion. Several
+enlarged and numerous prominent mediastinal lymph nodes not
+significantly
+changed from the prior study and likely reactive in nature.
+2. Interval increase in bilateral pleural effusions right
+greater than left.
+3. Multiple bilateral 3-6 mm nodules, unchanged compared to the
+prior study.
+A followup CT is recommended in one year to ensure two-year
+stability.
+4. Findings consistent with cirrhosis and portal hypertension.
+
+
+Brief Hospital Course:
+Assessment and Plan: 66M with a history of pAF, c.diff colitis,
+recent pneumonia, admitted to the ICU with recurrent PNA/sepsis
+and found to have RML/RLL PNA & and being empirically tx for c
+diff colitis.
+.
+# Pneumonia: The patient was admitted with high fever, hypoxia,
+and hypotension. His CXR showed evidence of a RML/RLL pneumonia
+thought to be due to aspiration given dysphagia on swallow
+study. He was treated with a 14 day course of meropenem which
+was completed today.  He does have pleural effusions but no
+thoracentesis was done given that it was difficult to position
+the patient and there was not enough fluid to safely tap. He was
+gently diuresed during his admission. His CT scan showed
+pulmonary nodules that need to be followed up as an outpatint.
+Given his repeated pneumonias checked HIV Ab and IgG both
+unremarkable.  His b-glucan came back at >500 pg/mL.  Given his
+clinical improvement and no known reason for immunocompromise he
+was not treated for a fungal infection.  This lab should be
+redrawn in 2010-07-06 00:00:00 weeks after discharge to ensure that it improves.
+ A galactomannan was drawn while he was in the ICU and should be
+followed up as an outpatint.  He was placed on a dysphagia diet
+given concern for repeat aspiration PNA and failure of swallow
+study.  He required 3L of oxygen at the time of discharge (he
+had 2L oxygen requirement prior to admisison).
+.
+# Fever/ Sepsis: Pt has septic physiology in the ED and MICU.
+She grew gram + cocci in clusters in 1 bottle anaerobic from
+2010-07-06 00:00:00 and was started on vancomycin IV which she received for
+one day until it came back coag negative staph. His last fever
+was 2010-07-06 00:00:00.  All other blood cx have been negative. His urine
+cx was negative (except for Jamayia Sabillon).  His fever/sepsis was
+treated with a 14 day course of meropenem as detailed above
+under the PNA section.
+.
+# Diarrhea: The patient had diarrhea while in the ICU.  He was
+empirically treatment for c.diff although he was c diff negative
+x3 during this hospitalizatoin. He had 5 BM the day prior to
+discharge some of which were loose stools.  Given his com123 Any St.n
+of meropenem on 2010-07-06 00:00:00 the patient will be given an additional
+7 day course of flagyl with the last dose the eveing of 2010-07-06 00:00:00.
+ His diarrhea may not be c diff in origin and could just be due
+to his meropenem.
+.
+# Anisicoria: Anisicoria was noticed on exam with R eye dilated
+more than left.  This is an old finding for the patient as he
+has a PCOM aneurysm compressing CN III.
+.
+# Paroxysmal atrial fibrillation: The patient is being continued
+on his home dose of Flecainide and Digoxin.  His metoprolol was
+decreased to UPMCE on 2010-07-06 00:00:00 given occassional low HR and at times
+his metoprolol still needs to be held for decreased BP.  He is
+being continued on aspirin. Per a discussion the ICU team had
+with his PCP and cardiology he is not being anticoagulation
+given his history of falls.  On the medicine floor he did not
+have a fib with RVR, however, he is at higher risk for RVR given
+that he was started on ritalin. However, given his decreased
+affect and the positive effect of ritalin on his energy level we
+have continued the ritalin.
+.
+#Anemia: His HCT has been stable at approximately 30.  The
+anemia is macrocytic and likely from liver disease. His recent
+B12/Folate were within normal limits.  His ferrous sulfate
+supplement should be continued.
+.
+# Psych: The patient has bipolar disorder and has been stable on
+Depakote for several years with no recent changes. In the ICU
+there was concern for somnolence and his flat affect and his
+Zyprexa was discontinued. Given his decreased energy level he
+was started on ritalin (2010-07-06 00:00:00) which he has responded to.  His
+outpatient psychiatrist Dr. Sabillon is aware of these changes.  I
+spoke with Dr. Sabillon about our concern for his depression and he
+was started on citalopram 20mg daily (2010-07-06 00:00:00) which should be
+increased to 30mg daily (on 2010-07-06 00:00:00) if he does well on it.
+Given his history of bipolar disorder he needs to be closely
+monitored for symptoms of mania since his zyprexa was stopped
+and citalopram was started. He varied from A & O x2 to 3.  He
+does not always participate when asked date. His mental status
+can wax and wanes sometimes with the patient not always
+answering questions in an appropriate time frame especially in
+evening.  His affect is flat and his thinking is very slow.
+.
+Severe dry eyes and keratitis: also saw the patient and found
+severe dry eyes and keratitis of the right eye.  Continue
+aritifical tears.
+.
+# ? Liver disease: There is concern for liver disease given AP
+408, AST 89, INR 1.4, and mild thrombocytopenia.  He was Hep C
+Ab neg. His Hep B serologies were consistent with prior
+infection (surface and core Ab+). He hoes have a remote history
+of heavy alcohol use.  He needs outpatient liver follow up after
+he leaves rehab.
+.
+# Bradycardia/Hypotension: he had a few short episodes of
+bradycardia and hypotension on arrival to ED which resolved.  He
+has some low BPs in the ICU. He also had some SBP in the high
+80s/low 90s while on the medicine floor and he was
+assymptomatic.
+.
+# Nutrition: He is on a dysphagia diet: PO diet nectar thick
+liquids, soft solids, and pills whole with puree or nectar thick
+liquid.  He aspirated liquids when he takes large sips. At rehab
+he can take small sips of regular liquids between meals if he is
+undersupervison.  He still has severe LE edema which is likely
+influenced by poor nutrition.
+.
+# Prophylaxis:
+-DVT: heparin sc. No anticoagulation for A fib (see above)
+-Stress ulcer: H2 blocker
+.
+# Code status: Full code
+.
+# Emergency contact: wife makes health care decisions Jamayia Sabillon
+Sabillon test@mail.com (home), test@mail.com (cell)
+.
+FOLLOW UP NEEDED by PCP AFTER DISCHARGE:
+-galactomannan
+-repeat b-glucan in 2010-07-06 00:00:00 weeks
+-liver follow up
+-psychiatry follow up
+
+Medications on Admission:
+MEDICATIONS (per d/c summary 2010-07-06 00:00:00)
+- Aspirin 325mg PO daily
+- Cholyestyramine-Sucrose 4grams PO BID
+- Divalproex 500mg PO QAM
+- Divalproex 1000mg PO QPM
+- Digoxin 125mcg PO daily
+- Ferrous sulfate 325mg PO daily
+- Olanzapine 5mg PO daily
+- Ranitidine 75mg PO daily
+- MVI daily
+- Flecainide 50mg PO Q12hrs
+- Vancomycin 1gram IV Q12hrs (5 more days)
+- Piperacillin-Tazobactam 4.5gram IV Q8hrs (5 more days)
+- Tylenol 325-650mg PO Q6hrs PRN fever, pain
+- Metoprolol 25 mg TID (had been held at home)
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+4. Ranitidine HCl 75 mg Tablet Sig: One (1) Tablet PO once a
+day.
+5. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Flecainide 50 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours).
+7. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain.
+8. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as
+needed for wheezing.
+9. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical QID
+(4 times a day) as needed for rash.
+10. Divalproex 125 mg Capsule, Sprinkle Sig: Four (4) Capsule,
+Sprinkle PO QAM (once a day (in the morning)).
+11. Divalproex 125 mg Capsule, Sprinkle Sig: Eight (8) Capsule,
+Sprinkle PO QPM (once a day (in the evening)).
+12. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+13. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H
+(every 8 hours) as needed for empiric tx for cdiff for 7 days.
+14. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: 2010-07-06 00:00:00
+Drops Ophthalmic QID (4 times a day).
+15. Methyl123 Any St.ate 5 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day): at 8 am and 3 pm.
+16. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection UPMCE (2 times a day).
+17. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day): hold BP<100 or HR<55.
+18. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 4 days: continue until 2010-07-06 00:00:00 and then discuss with Dr.
+Sabillon (psychiatrist) about increasing dose to 30mg daily.  .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St. Of 123 Any St.
+
+Discharge Diagnosis:
+Primary diagnosis:
+-RML and RLL pneumonia
+-Diarrhea presumptive c diff (negative x3)
+-Abnormal liver enzymes
+-Severe dry eyes and keratitis
+-Depression
+-Dysphagia
+.
+Secondary Diagnosis:
+- Paroxysmal Atrial Fibrillation
+- History of C diff colitis
+- Bipolar Affective Disorder
+- History of hepatitis C
+- History of rheumatic heart disease
+- History of right MCA aneurysm clipped in 2010-07-06 00:00:00 at UPMCE
+- History of pernicious anemia
+- Gastroesophageal reflux disease
+
+
+Discharge Condition:
+Stable. A & O x2 to 3 (does not always participate when asked
+date). Mental status can wax and wanes sometime with the patient
+not always answering questions in an appropriate time frame-
+especially in evening.  Flat affect.  Very slow thinking.
+
+
+Discharge Instructions:
+You were admitted with increased oxygen requirement and
+decreased blood pressure and found to have a new pneumonia. You
+went to the ICU and you were treated with a 14 day course of
+meropenem which has been completed.  Your pneumonia is likely a
+result of aspiration and a swallow study showed that your are
+aspirating thin liquids. You are being discharged on the
+following diet: nectar thick liquids, soft solids, pills whole
+with puree or nectar thick liquids.  You can have regular
+liquids between meals but ONLY IF YOU TAKE SMALL SIPS AND
+SOMEONE SUPERVISES YOU. If you take large sips you will likely
+aspirate again.
+You also developed diarrhea and you were treated with flagyl
+although your stool never tested positive for c diff.  You need
+to take 7 more days of flagyl to continue to treat your
+diarrhea.
+
+Followup Instructions:
+Please make a follow up appointment to see your PCP
+Jamayia Sabillon,[**First Name3 (LF) 2899**] Jamayia Sabillon. test@mail.com after you leave rehab
+.
+Please call your psychiatrist Dr. Sabillon and make a follow up
+appointment for after you leave rehab.
+.
+Please discuss with your PCP seeing Jamayia Sabillon liver specialist after you
+leave rehab.
+.
+The patient needs a b-glucan drawn in Mid/End of 2010-07-06 00:00:00 to trend
+it.
+
+
+                             Jamayia Sabillon Jamayia Sabillon MD 2589
+
+Completed by:2010-07-06 00:00:00

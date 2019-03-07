@@ -1,0 +1,417 @@
+Admission Date:  2010-06-18 00:00:00              Discharge Date:   2010-06-18 00:00:00
+
+Date of Birth: 1984-06-08 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Elida Jojo
+Chief Complaint:
+Shortness of [**First Name3 (LF) 1422**]
+
+Major Surgical or Invasive Procedure:
+Bipap
+
+
+History of Present Illness:
+59 year old female with type 1 diabetes, hypertension, frequent
+UTI on tetracycline immunosup123 Any St.n, ESRD s/p CRT in 2010-06-18 00:00:00, who
+presents with acute onset of dyspnea.
+.
+The patient was recently admitted from 2010-06-18 00:00:00/09 for
+pyelonephritis and e. coli bacteremia.  She presented with
+weakness and fever. She was on Zosyn and ciprofloxacin until
+sensitivies returned and then switched to oral ciprofloxacin.
+She was on tetracycline for UTI suppression by her ID MD, Dr.
+Sanon.  She was discharged with 2 week course of ciprofloxacin.
+Also, Cr elevated and felt to be prerenal secondary to
+bacteremia but also with some component of ATN, which resolved
+with IVFs.  Diuretics slowly restarted upon discharge.
+.
+The patient went to her appointment with her NP this morning.
+Today, her wt was noted to be up 28 lbs from 2010-06-18 00:00:00. The plan
+was to increase lasix from 80 mg UPMCE to 120 mg qAM and 80 mg QPM
+and to follow up with Dr. Sanon on 2010-06-18 00:00:00.  After her
+appointment, she went home, and around noon, while walking, she
+felt acute onset of dyspnea.  She notes increased wt gain since
+her recent discharge from UPMCE on 2010-06-18 00:00:00, but notes that she is
+on increased doses of her lasix.  She also denies any medication
+noncompliance.  Denies dietary indiscretions, but has been
+eating only chicken soup which her daughters prepare for her (1
+tsp salt in each batch).  She also drinks 2 glasses of cranberry
+juice, cup of coffee, and cup of tea.  She also has been eating
+many low salt saltine crackers and ginger ale per her daughter.
+Charmella Sanon daughter visited her the night prior to discharge, and noted
+that her mom wsa tired and weak but not SOB.  Today, though, the
+patient called her daughter and complained of "gasping for air"
+and then she was instructed to call 911.  The patient then
+presented to UPMCE ED.  She states she has had subjective fevers
+at night for the last 2 days with a cough.  Chest pain with
+presentation to ED, but now resolved. No abdominal pain, N/V or
+diarrhea.  She has been making good UOP at home.
+.
+In the ED, initial VS: T(not recorded) HR 96  BP 147/93  RR 44
+O2 36% --> then 60% on NRB with good pleth per ED.  Labs were
+drawn, significant for leukocytosis 13, Cr 2.3.  Blood culture x
+2 and urine culture pending.  VBG 7.24/70/36/31.  UA negative.
+EKG and portable CXR obtained.  PE c/w with fluid overload with
+bilateral LE pitting edema.  Pt was confirmed DNR/DNI by patient
+and daughter.  She was placed on bipap (settings FiO2 100%, PS
+10, PEEP 5) with O2 sat 100%.
+.
+In the ED, she was started on NTG SL x 1 then NTG gtt for
+elevated BP (SBP 170-213s) and lasix 80 mg IV x 1 was given
+after foley placement.  Ceftriaxone 1 gm IV x 1 and levofloxacin
+750 mg IV x 1 given.  She was given 2 mg IV morphine x 1 for abd
+pain and repeat 80 mg IV lasix given.  Per ED verbal signout,
+she had made 500 cc of UOP.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies chest pain, n/v, diarrhea, constipation, abd pain
+currently.
+
+
+Past Medical History:
+1. Hypertension
+2. Diabetes-45+ years, type I
+3. Status post renal transplant in 2010-06-18 00:00:00 crt 1.3-1.6
+4. Sciatica
+5. Multinodular goiter
+6. Cataract surgery.
+7. Hyperlipidemia.
+8. Depression.
+9. History of vertigo.
+10. History of nephrolithiasis.
+11. s/p left eye vitreous hemorrhage
+
+Social History:
+The patient is divorced with two adult children.  She lives
+alone in a one family house with stairs.  Her two daughters and
+ex-husband see her regularly and lve near by.  No tobacco, ETOH,
+illicit drug use. From 123 Any St..
+
+
+Family History:
+Father with CAD, died age 55yo.
+
+Physical Exam:
+On discharge-
+VITAL SIGNS: T 97.4  HR 64  BP 152/93  RR 18  96% 2L NC
+GEN: Comfortable, in no acute distress
+HEENT: anicteric, OP - no exudate, no erythema, unable to see
+JVP secondary to anatomy
+CHEST: lungs clear to auscultation bilaterally
+CV: RRR, nl S1, S2, no m/r/g
+ABD: NDNT, soft, obese, NABS
+EXT: 2010-06-18 00:00:00+ pitting edema to bilateral knees
+NEURO: A&O x 3
+DERM: no rashes
+
+Pertinent Results:
+Admission:
+.
+2010-06-18 00:00:00 11:18AM   WBC-7.6 RBC-3.32* HGB-8.0* HCT-27.1* MCV-82
+MCH-24.1* MCHC-29.6* RDW-16.5*
+2010-06-18 00:00:00 11:18AM   PLT COUNT-300
+2010-06-18 00:00:00 11:18AM   UREA N-72* CREAT-2.3*# SODIUM-144
+POTASSIUM-4.8 CHLORIDE-99 TOTAL CO2-29 ANION GAP-21*
+2010-06-18 00:00:00 11:18AM   GLUCOSE-125*
+2010-06-18 00:00:00 02:55PM   LACTATE-2.9*
+2010-06-18 00:00:00 02:55PM   TYPE-ART PO2-36* PCO2-70* PH-7.24* TOTAL
+CO2-31* BASE XS-0
+.
+Discharge:
+.
+2010-06-18 00:00:00 06:20AM BLOOD WBC-8.3 RBC-3.34* Hgb-8.1* Hct-27.2*
+MCV-81* MCH-24.3* MCHC-29.9* RDW-16.1* Plt Ct-279
+2010-06-18 00:00:00 06:20AM BLOOD Glucose-188* UreaN-77* Creat-2.8* Na-135
+K-4.3 Cl-92* HCO3-32 AnGap-15
+2010-06-18 00:00:00 06:20AM BLOOD Calcium-8.9 Phos-5.4* Mg-2.2
+.
+Studies:
+1. pCXR: Diffuse bilateral lung opacities likely represent
+pneumonia
+although an element of CHF is also possible.
+.
+2. Renal transplant u/s: Persistent elevated resistive indices
+in the renal transplant, with interval development of forward
+diastolic flow. No evidence of perinephric fluid collection or
+hydronephrosis
+.
+TTE 2010-06-18 00:00:00
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Moderate pulmonary hypertension.
+.
+Compared with the prior study (images reviewed) of 2010-06-18 00:00:00,
+pulmonary hypertension is identified. Aortic regurgitation is no
+longer seen.
+.
+2010-06-18 00:00:00 RUQ U/S
+FINDINGS: No focal abnormality is seen within the liver and
+there is no
+biliary dilatation seen. The extrahepatic common duct measures
+0.4 cm. The
+gallbladder is normal with no stones identified and no signs of
+cholecystitis. No gallbladder wall thickening is seen and there
+is no pericholecystic fluid. A small right pleural effusion is
+seen but there is no ascites in the right upper quadrant.
+IMPRESSION:
+1. No gallstones and no signs of cholecystitis.
+2. Small right pleural effusion.
+.
+CXR 2010-06-18 00:00:00
+CHEST RADIOGRAPHS, AP UPRIGHT AND LATERAL VIEWS: Heart size
+remains mildly
+enlarged and mural calcifications are again noted along the
+aortic arch. Right lung base consolidation is improved, with
+improved definition of the right hemidiaphragm. Likely bilateral
+small pleural effusions persist, along with left retrocardiac
+likely atelectasis. No new pneumothorax is seen. A right upper
+extremity PICC tip is again seen terminating in the right
+subclavian vein region.
+IMPRESSION: Right lung base consolidation is slightly improved.
+Small
+likely bilateral pleural effusions persist.
+.
+Micro:
+Blood cx 2010-06-18 00:00:00: negative
+Urine cx 2010-06-18 00:00:00: negative
+Respiratory viral cx 2010-06-18 00:00:00: negative
+
+
+
+Brief Hospital Course:
+1. Dyspnea: Clinical picture most consistent with CHF
+exacerbation with flash pulmonary edema in setting of
+hypertensive urgency.  Initially required nitro gtt and placed
+on bipap in ED and admitted to the MICU for further management.
+Also presented with low grade fever/infiltrates/sob and
+therefore could not rule out pneumonia and she was treated with
+vanc/zosyn for possible HAP given recent admission.  She was
+diuresed aggressively in the ICU with Lasix 160 mg IV/500 mg IV
+Diuril combination and was 2L negative on 2010-06-18 00:00:00 and continued to
+be negative.  She required 2 doses of diuretics per day and
+nitroglycerin gtt discontinued early on arrival to ICU.
+Electrolytes were stable, however creatinine bumped to 3.7 from
+2.3 and therefore diuresis was held on 2010-06-18 00:00:00.  Diuretics were
+restarted on 2010-06-18 00:00:00 at home dose of 80mg lasix UPMCE when Cr
+decreased to 2.8 which was close to patient's baseline.  Her
+respiratory status continued to improve and she was weaned down
+from 4L NC to 2L NC with sats in high 90s.  While working with
+PT on 2010-06-18 00:00:00 she was noted to desat with ambulation to 85% on 3L
+NC and therefore it was felt that a short course of rehab with
+continued diuresis and respiratory care would be necessary.  She
+continued to diurese well to lasix, however her weight remained
+stable and therefore metolazone was added on 2010-06-18 00:00:00, 5mg daily
+with am lasix.  Her Cr remained stable.  On transfer to the
+floor her antibiotics were changed to Levaquin and she completed
+a total of 10 days, last day 2010-06-18 00:00:00.
+
+2. Fever/infiltrate/sob: febrile at home, tmax 100 in the ICU.
+espiratory viral screen was negative as was Legionella urinary
+antigen. Treated for HAP as above with Vanc/Zosyn that was
+transitioned to levaquin on the medicine floor. Beta glucan was
+sent given she is immunosuppressed and this was negative.  She
+completed 10 days of abx on 2010-06-18 00:00:00. Her WBC was normal at 8.3 on
+the day of discharge and she remained afebrile her entire stay
+on the floor.
+
+3. ESRD s/p transplant: renal transplant followed. She was
+continued on her home regimen of immunosuppressants and ESRD
+medications. Held sodium bicarbonate as HCO3 rose in setting of
+diuressis. Transplant ultrasound normal. Cr on day of discharge
+was 2.8 and patient's baseline is 2.4-3. Her UOP remained
+stable. She has follow up with her transplant nephrologist Dr.
+Sanon next week.
+.
+4. DM1: Patient was continued on home lantus and HISS, however
+lantus dose the decreased to 7 units qhs while in the ICU.  On
+the floor her FS were elevated to 200s and this was uptitrated
+to 10 units qhs. Suspect the elevation was in setting of
+increased prednisone dose to treat gout flare and will likely
+need to be decreased once she resumes her home dose of 5mg
+prednisone on 2010-06-18 00:00:00
+
+5. Hypertension: goal SBP 140s, Nifedipine CR was increased to
+90 mg daily while in the ICU and she was continued on home dose
+of metoprolol.  While in ICU her BP dropped with increased
+nifedipine dose to 89/44 in addition to diuresis and sitting up
+to eat, so her dose was decreased back to nifedipine 60 mg
+daily. Her BP remained stable on the floor. If it increases
+again may consider increasing nifedipine to 90mg once again.
+
+6. Anemia: Patient's baseline Hct ranges 25-30. Felt to be
+anemia of chronic disease.  Hct slowly trended down to 22 and
+she received one unit pRBCs on 2010-06-18 00:00:00 with appropriate bump. Hct
+remained stable at 27 the day of discharge. She was maintained
+on epo.
+
+7. Hyperlipidemia: continued simvastatin
+
+8.  Frequent UTIs: remained on tetracycline suppression
+
+9. Obesity: sibutramine held while in the hospital and may be
+resumed on discharge.
+
+10. Gout: she was maintained on allopurinol, renally dosed. On
+2010-06-18 00:00:00 the patient began complaining of increased pain, swelling
+and erythema of her right hand, particularly in her thumb and
+first digit. This was felt to be consistent with her typical
+gout flare and her prednisone was increased to 40mg daily for a
+5 day burst.  She will need 3 more days of 40mg and then will
+need to resume her daily immunosuppression dose of 5mg daily.
+
+11. Access: PICC was placed for IV access for antibiotics. This
+was removed 2010-06-18 00:00:00 prior to discharge.
+
+
+Medications on Admission:
+Acetaminophen-Codeine 300-30 1-2 tablets po BID prn pain/fever
+Albuterol Sulfate 90 mcg inhaler - 1 inhaled puffs q4-6 hours
+prn SOB
+Allopurinol 100 mg po QOD
+Calcitriol 0.25 mcg po daily
+Cyclosporine 75 mg po q12 hours
+Epo 20,000 units SQ weekly
+Fluticasone 50 mcg 1 inh nasally daily
+Lantus 25 units SQ UPMCE
+Lactulose 30 ml po q8 hours prn constipation
+Metoprolol Tartrate 200 mg po BID
+Mycophenolate Mofetil 500 mg po BID
+Nifedipine 60 mg SR po daily
+Nystatin 100,000 unit 18187 application topical UPMCE
+Prednisone 5 mg po daily
+Roxicet 5-325 mg 1-2 tablets po q4-6 hours
+Sibutramine 10 mg po daily
+Simvastatin 5 mg po daily
+Calcium carbonate 1000 mg po TID
+Ferrous sulfate 325 mg po daily
+Ciprofloxacin 500 mg po q24 hours x 7 days (day 1 = 2010-06-18 00:00:00)
+Lasix 80 mg po qAM
+Lasix 40 mg po qhs
+Novolog sliding scale
+Tetracycline 250 mg po BID after com123 Any St.n of cipro
+Sevelamer Carbonate 800 mg po TID with meals
+Sodium bicarbonate 1300 mg po TID
+
+Discharge Medications:
+1. Albuterol Sulfate 0.63 mg/3 mL Solution for Nebulization Sig:
+One (1) neb Inhalation every 4-6 hours as needed for shortness
+of 2010-06-18 00:00:00 or wheezing.
+2. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO EVERY OTHER
+DAY (Every Other Day).
+3. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+4. Cyclosporine Modified 25 mg Capsule Sig: Three (3) Capsule PO
+Q12H (every 12 hours).
+5. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+spray Nasal once a day.
+6. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units
+Subcutaneous at bedtime.
+7. Insulin Lispro 100 unit/mL Solution Sig: per sliding scale as
+directed Subcutaneous four times a day.
+8. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day) as needed for constipation.
+9. Metoprolol Tartrate 100 mg Tablet Sig: Two (2) Tablet PO
+twice a day.
+10. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day).
+11. Mycophenolate Mofetil 250 mg Capsule Sig: One (1) Capsule PO
+BID (2 times a day).
+12. Nifedipine 60 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO DAILY (Daily).
+13. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 2 days: then resume home dose of 5mg.
+14. Prednisone 5 mg Tablet Sig: One (1) Tablet PO once a day:
+Please restart 5mg daily on monday 2010-06-18 00:00:00.
+15. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q6H (every 6 hours) as needed for pain.
+16. Sibutramine 10 mg Capsule Sig: One (1) Capsule PO once a
+day.
+17. Simvastatin 10 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+18. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2)
+Tablet, Chewable PO TID (3 times a day).
+19. E123 Any St. Alfa 10,000 unit/mL Solution Sig: 10,000 units
+Injection QMOWEFR (Monday -Wednesday-Friday).
+20. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+21. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+22. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+23. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+24. Tetracycline 250 mg Capsule Sig: One (1) Capsule PO Q12H
+(every 12 hours).
+25. Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+26. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+27. Metolazone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+to be given with am lasix.
+28. Sevelamer Carbonate 800 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+29. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical UPMCE
+(2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Primary: Pneumonia, Pulmonary edema, Acute on chronic renal
+failure, anemia, gout
+Secondary: End stage renal disease s/p transplant, Diabetes
+
+
+Discharge Condition:
+Afebrile. Sats stable on 2L O2.  Ambulating with walker.
+
+
+Discharge Instructions:
+You were admitted to the hospital for pneumonia and fluid in
+your lungs. You were initially admitted to the ICU for close
+monitoring where you received strong IV antibiotics and
+agressive medication to help you lose your fluid through urine.
+You were eventually transferred to the medicine floor, and your
+antibiotics were changed to oral medications. Your lasix was
+held transiently because it wornsened your kidney function and
+was restarted on 2010-06-18 00:00:00.
+.
+Please seek immediate medical attention if you experience
+shortness of 2010-06-18 00:00:00, chest pain, fevers, chills, abdominal pain,
+cough, or any change from your baseline health status.
+
+Weigh yourself every morning, Charmella Sanon MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction:
+
+Followup Instructions:
+Provider: Elida Jojo, M.D. Phone:test@mail.com
+Date/Time:2010-06-18 00:00:00 4:00
+Provider: Charmella Sanon, MD Phone:test@mail.com
+Date/Time:2010-06-18 00:00:00 10:00
+Provider: Charmella Sanon Charmella Sanon, RNC Phone:test@mail.com
+Date/Time:2010-06-18 00:00:00 11:40
+
+
+                             Charmella Sanon MD, 18187
+

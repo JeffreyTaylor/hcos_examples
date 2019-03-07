@@ -1,0 +1,244 @@
+Admission Date:  2008-12-16 00:00:00              Discharge Date:   2008-12-16 00:00:00
+
+Date of Birth: 1930-12-04 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfonamides
+
+Attending:Jazalyn Kizner
+Chief Complaint:
+Found unresponsive by friends.
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+Ventriculostomy
+Lumbar punctures
+
+History of Present Illness:
+41 year-old female with a PMHx significant for major depression
+and migraine headaches, transferred from Mt. UPMCE Hospital
+where she was brought after being found unresponsive by her
+friends.
+
+Per report, Ms. Buckalew was diagnosed with otitis media in the
+week prior to admission and treated with Z-pac and cortisporin
+ear drops. 2 days PTA, she complained of a severe headache,
+"possibly worst ever", accompanied by vomiting and fatigue. No
+one saw her in the following 2 days. On the day of admission,
+she was found unresponsive in her house on a couch, with "hoarse
+breathing". EMS were called and Ms. Buckalew was taken to UPMCE, where she was electively intubated for airway
+protection. She was given fentanyl, Mannitol, NS X 1 liter, and
+etomidate. A tox screen at the OSH was positive for BDZ and
+opioids (on amphetamines and a sleeping pill at home, and
+possibly received opioids prior to intubation and tox screen).
+Her exam raised concern for increased ICP with extensor
+posturing and lack of corneal relexes. A CT head was remarkable
+for foci of parenchymal hemorrhage, and she was transferred to
+UPMCE for further evaluation and consideration for neurosurgery.
+
+
+Past Medical History:
+Major depression
+Migraine headaches
+Status post emergent colectomy in 2008-12-16 00:00:00 for cecal volvulus
+Recurrent ovarian cysts on ultrasound
+Status post nasal septoplasty
+Hemorrhoids status post hemorrhoidectomy
+
+
+Social History:
+Per friends, patient is a lawyer and teaches Cheryce Buckalew school. She
+is divorced. Her family lives in 123 Any St.. No known history of
+tobacco or EtOH consumption.
+
+Family History:
+Father with anxiety.
+
+Physical Exam:
+Per MICU evaluation note:
+VITALS: T 99.2, BP 100-130/60-80, HR 50-115
+VENT AC 550 X 12 (RR 16) 100%
+GEN: Thin female, intubated and sedated.
+HEENT: Pupils pinpoint 1mm, non reactive. Nares with blood
+bilaterally. ETT and OGT in place.
+RESP: CTA bilaterally. No wheezing or rhonchi.
+CV: RRR, normal S1, S2. No S3, S4. No murmur/rub.
+GI: BS normoactive. Abdomen soft. No HSM. No palpable mass.
+EXT: Thin, + ecchymoses on knees, elbows. No pedal edema. Warm.
+NEURO: Sedated. Withdraws to painful stimuli. Toes upgoing
+bilaterally. + rigidity. + corneal reflexes.
+INTEGUMENT: Dry skin. Ecchymoses over flanks bilaterally.
+
+Pertinent Results:
+Relevant data on admission:
+CBC:
+WBC-21.3*# RBC-3.61* Hgb-11.3* Hct-30.7* MCV-85 MCH-31.3
+MCHC-36.9* RDW-12.5 Plt Ct-236 (Neuts-93.4* Bands-0 Lymphs-3.5*
+Monos-2.8 Eos-0.3 Baso-0)
+
+Coagulation profile:
+PT-14.0* PTT-38.6* INR(PT)-1.2
+
+Chemistry:
+Glucose-128* UreaN-18 Creat-0.7 Na-139 K-3.7 Cl-104 HCO3-21*
+AnGap-18
+ALT-30 AST-76* LD(LDH)-237 CK(CPK)-1269* AlkPhos-89 Amylase-143*
+TotBili-0.7
+Albumin-3.1* Calcium-8.1* Phos-2.5* Mg-2.3 UricAcd-3.2 Iron-8*
+
+Misc:
+ESR-72*
+2008-12-16 00:00:00 07:31PM BLOOD Acetone-NEG Osmolal-295
+2008-12-16 00:00:00 07:31PM BLOOD Phenoba-<1.2* Phenyto-<0.6* Valproa-<3.0*
+2008-12-16 00:00:00 07:31PM BLOOD ASA-4 Ethanol-NEG Carbamz-<1.0*
+Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+2008-12-16 00:00:00 09:01PM BLOOD Lactate-1.9
+
+2008-12-16 00:00:00 CT HEAD: At least three punctate foci of parenchymal
+hemorrhage are identified, one within the left frontal
+subcortical white matter, the second within the right inferior
+temporal lobe, and the third in the high right posterior
+parietal lobe. There is no ap123 Any St.ble mass effect. There is no
+shift of the normally midline structures. Ventricles and sulci
+are normal in size and configuration. Basal cisterns remain
+patent. There is a large area of hypodensity in the right
+cerebellum. No abnormally enhancing lesions are identified
+following the administration of contrast. The osseous structures
+appear grossly normal. Note is made of fluid within the right
+mastoid air cells and middle ear, a finding concerning for
+mastoiditis in light of reports of patient right ear pain. No
+underlying abscess is identified on the post- contrast images.
+There is aerosolized fluid within the ethmoid air cells, likely
+relating to intubation.
+
+IMPRESSION
+1. At least three tiny foci of parenchymal hemorrhage as above.
+2. Findings consistent with mastoiditis in a patient with an
+elevated white
+blood cell count and ear pain.
+3. No evidence of intracranial abscess.
+
+Brief Hospital Course:
+The patient's ICU  course will be reviewed by problems.
+
+1. Meningitis: The initial LP on 2008-12-16 00:00:00 was remarkable for an
+opening pressure of 32, and CSF fluid with diplococci (later
+identified as Streptococcus pneumonia). Given her recent otitis
+media, ENT was consulted to rule out ongoing seeding +/-
+mastoiditis. A bedside myringotomy was performed on 2008-12-16 00:00:00.
+Subsequent imaging data and clinical examination ruled out
+mastoiditis. Neurology and neurosurgery were also consulted on
+admission. Ms. Buckalew was empirically started on Ceftriaxone 2
+gm IV BID, Vancomycin 1 gm IV BID and Acyclovir. She was also
+initially given Flagyl per ORL for anaerobic coverage.
+Antibiotherapy was subsequently tailored given pansensitive
+Strep pneumo (all subsequent CSF cultures sterile). Flagyl was
+D/C'd on 2008-12-16 00:00:00, and Vanco and Acyclo were D/C'd on 2008-12-16 00:00:00. She
+was continued on CTX (query allergy to PCN) with the plan to
+complete a 14-day course. She was also started on IV decadron 10
+mg Q 6H on admission, along with mannitol for management of high
+ICP.
+
+On 2008-12-16 00:00:00 and 2008-12-16 00:00:00, her clinical exam was suggestive of slow
+neurological decline. Imaging studies (CT head and MRI) were
+also consistent with increasing cerebral edema. Per neuro, daily
+LPs were performed, both diagnostic and therapeutic, with
+results as follows: 2008-12-16 00:00:00: OP 38, Closing pressure 23; 2008-12-16 00:00:00 OP
+25/ CP 17, removed 20cc; 2008-12-16 00:00:00: OP 25, CP 13, removed 25 cc.
+
+On 2008-12-16 00:00:00, the patient was noted to have a new downward and
+adducted left eye, prompting a repeat CT head which showed
+stable punctate hemorrhages, increased white matter edema, mass
+effect on the lateral 3rd ventricle, extensive bilateral
+watershed infarcts, acute infarct in the left thalamus, and
+query uncal herniation. Neurosurgery was called and a
+ventriculostomy drain was placed at the bedside. Insertion was
+notable for a normal opening pressure, an ominous sign
+suggesting that the edema was of parenchymal origin. Her ICP
+remained low over the next 24 hours, and decision was made to
+remove the EVD. She was subsequently weaned off Mannitol and
+Dexamethasone.
+
+On 2008-12-16 00:00:00, an EEG was performed to rule out seizure activity
+given new ocular bobbing on exam. Per neuro, the patient was
+also started on seizure prophylaxis with Dilantin.
+
+From 2008-12-16 00:00:00 onward, serial neurological exams revealed no
+meaningful recovery. Her brainstem reflexes, however, were
+intact throughout. Serial CTs also revealed stable edema and
+hemorrhages. Per the family's wishes, given the lack of
+meaningful recovery despite adequate therapy, decision was made
+to withdraw care on 2008-12-16 00:00:00.
+
+2. Respiratory: Ms. Buckalew was intubated at the OSH for airway
+protection. She was kept intubated until com123 Any St.n of the
+antibiotic course. Serial ABGs were consistent with respiratory
+alkalosis. She was extubated on 2008-12-16 00:00:00 per family's wishes,
+and expired shortly thereafter.
+
+3. Elevated amylase and lipase: In the ICU, rising amylase and
+lipase were noted, the etiology of which was unclear. A RUQ U/S
+revealed mild edema without obstruction/gallstone. Our suspicion
+was low for acalculous cholecystitis. A medication list review
+could not identify a clear culprit. A literature review revealed
+possible pancreatic enzyme elevation in the setting of
+intracranial hemorrhage. Enzymes trended down with IVF, and NPO
+status.
+
+4. Rash: A new rash was noted on 2008-12-16 00:00:00, erythematous, with
+papules and comedones over the anterior chest, non-dermatomal,
+and expanding. Dermatology was consulted. The rash was
+consistent with steroid acne, which was not treated.
+
+5. Communication: Her parents travelled here from 123 Any St. on 2008-12-16 00:00:00.
+The family was kept abreast of developments. The plan was for
+continued aggressive care until com123 Any St.n of 14 days of
+antibiotherapy, and then reassessment of direction of care.
+Given the  lack of meaningful recovery despite aggressive
+therapy, a family meeting was held on 2008-12-16 00:00:00 with Dr. Buckalew,
+neurology team, ICU team, and SW present. Per family's wishes,
+the decision was taken to withdraw care on 2008-12-16 00:00:00. The NE
+Organ Bank was called at the family's request, and procedures
+were initiated for potential organ donation should the patient
+expire rapidly after extubation.
+
+The patient was extubated on 2008-12-16 00:00:00. All medications were
+withdrawn and comfort measures were instituted. She past away on
+2008-12-16 00:00:00 at night, >4 hours after extubation.
+
+Medications on Admission:
+Symbalta 20 mg PO QD
+Dexadrine 10 mg PO QD
+Ambien HS PRN
+Vitamin B12
+Vitamin B6
+Alprazolam 0.5 mg PO PRN
+Dextroamphetamine 5 mg PO QD
+
+Discharge Medications:
+Patient expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Streptococcus pneumonia meningitis
+Intracerebral hemorrhages
+Cerebral edema
+Anemia
+Steroid acne
+Pancreatitis
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+
+Completed by:2008-12-16 00:00:00

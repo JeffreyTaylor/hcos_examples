@@ -1,0 +1,485 @@
+Admission Date:  2014-08-07 00:00:00              Discharge Date:   2014-08-07 00:00:00
+
+Date of Birth: 1974-12-19 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Glendolyn Kampel
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+84M h/o COPD, dCHF, AF, AS valve area 0.7, s/p superior
+segmentectomy of right lower lobe 2014-08-07 00:00:00, c/o dyspnea and cough.
+.
+He was seen initially at UPMCE hospital where sats noted as
+high 80s-low 90s on 3L with borderline trop (0.08 which is
+UPMCE reference cutoff). BNP there 734 by report. CXR
+there also showed pna, but he was not treated there. Given trop,
+cards at OSH was called however defferred cath since INR 3.5.
+Patient was given aspirin, steroids, and Lasix 40mg (approx 5
+hours PTA here).  Also had CT head/cspine (both negative) for
+fall 1 week ago.
+.
+On arrival to the ED at UPMCE, VS were: 98.6, 76, 107/57, 16,
+hypoxic in the mid 80s on 3 L, but mentating very well and says
+he feels relatively well. Lungs had  minimal crackles at
+bilateral bases.
+.
+Creatinine 1.2 (baseline 0.9-1.0).  CBC 8.5 95% N/37.8/312.  UA
+was negative.  ABG was 7.38/33/132 on NRB 100%.  Lactate 1.5.
+INR 3.6. Trop was 0.07. CXR consistent with pneumonia.  ED
+resident thinks no ST changes on EKG.  Blood cultures were sent.
+Patient was discussed with Dr. Hosier who agrees that this may be
+pneumonia and demand and recommends diuresis and that he may
+need cath if does not improve medically.  He was given
+Levofloxacin 750mg before transfer to ICU.
+.
+VS on transfer: afebrile (99), 71, 117/70s, mid 20s, 98% on NRB.
+ BP low to mid 90s when arrived per ED resident.  Access is 2
+18G IV. Tried titrating down on oxygen a couple of hours ago and
+did not tolerate it.
+.
+On the floor, history is obtained from the patient and his son.
+They state that since his wife's passing on 2014-08-07 00:00:00 he has not been
+doing well but denies dyspnea or CP during that time. His
+daughter moved from Beasley Hosier and has been living with him and
+helping with his medications.  He has not missed any medications
+nor had any changes except an antidepressant. Patient did have a
+fall 2014-08-07 00:00:00 when he had been drinking wine and fell over a dining
+room chair after he tripped. He was evaluated in the ED the next
+day and had neg CT scans.   Day prior to admission he was doing
+well, did yard work and then took 3 cans of prune juice because
+of constipation. (Children report he takes a lot of OTC stool
+meds.) He then had multiple unknown number of episodes of
+diarrhea yesterday and last night. No fevers or chills, no
+cough. His son states that the patient told him that he awoke at
+4am with pain up and down his epigastrum which resolved. No back
+pain.  He then went back to bed and his son found him this
+morning at 8:30am sitting in a chair and pale. He was unsteady
+and not very responsive.  No history of stroke or CVA.
+Currently, he states that he feels much improved though has been
+dyspneic for the past day since doing the yardwork.  No chest
+pain at all.  No swelling. + Cough, no sputum. Home sat is
+90-91% without home oxygen need.
+
+
+Past Medical History:
+Right lung nodule s/p R VATS superior segmentectomy of right
+lower lobe. 2014-08-07 00:00:00, 3.0 x 2.5 x 2.0 cm poorly differentiated
+pleomorphic carcinoma T2aN0, Stage 1B
+COPD (last PFTs 2014-08-07 00:00:00 FEV1/FVC 98%, FEV1 55)
+Coronary artery disease
+CHF (last echo 2014-08-07 00:00:00 showed preserved EF >70%, diastolic
+dysfunction)
+BPH
+Osteoarthritis bilateral hips s/p right total hip replacement
+Hypercholesterolemia
+atopic dermatitis
+cervical spondylosis
+s/p tonsillectomy
+
+
+Social History:
+Lives with his daughter, wife recently passed away 2014-08-07 00:00:00,
+retired plumbing/heating
+Tob: smoked x60yrs, quit 2014-08-07 00:00:00
+EtOH: less than daily
+
+
+Family History:
+Mother d. 69, father d. 72, 3 brothers and 1 sister, all passed
+away.
+
+
+Physical Exam:
+Vitals: 99, 62, 113/60, 91/5l
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, ecchymoses b/l
+eyes and chin
+Neck: supple, JVP to mandible
+Lungs: no ronchi, occassional end expiratory wheeze with minimal
+decrease at bases b/l
+CV: Regular rate and rhythm, normal S1 + S2, 4/6 SEM best at
+RUSB and radiating to carotids
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, decreased hair growth, no
+edema
+
+
+Pertinent Results:
+At admission:
+
+2014-08-07 00:00:00 01:50PM BLOOD WBC-8.5 RBC-4.34* Hgb-12.5* Hct-37.8*
+MCV-87 MCH-28.8 MCHC-33.1 RDW-14.6 Plt Ct-312
+2014-08-07 00:00:00 01:50PM BLOOD Neuts-94.7* Lymphs-3.9* Monos-0.9*
+Eos-0.3 Baso-0.2
+2014-08-07 00:00:00 01:50PM BLOOD PT-35.4* PTT-41.5* INR(PT)-3.6*
+2014-08-07 00:00:00 01:50PM BLOOD Glucose-191* UreaN-35* Creat-1.2 Na-137
+K-4.7 Cl-97 HCO3-30 AnGap-15
+2014-08-07 00:00:00 07:48PM BLOOD ALT-24 AST-37 CK(CPK)-273 AlkPhos-67
+TotBili-0.4
+2014-08-07 00:00:00 01:50PM BLOOD proBNP-4829*
+2014-08-07 00:00:00 01:50PM BLOOD cTropnT-0.07*
+2014-08-07 00:00:00 07:48PM BLOOD CK-MB-8 cTropnT-0.04*
+2014-08-07 00:00:00 02:52PM BLOOD Type-ART FiO2-100 O2 Flow-15 pO2-132*
+pCO2-53* pH-7.38 calTCO2-33* Base XS-5 AADO2-529 REQ O2-88
+Intubat-NOT INTUBA Comment-NON REBREA
+2014-08-07 00:00:00 01:58PM BLOOD Lactate-1.5
+2014-08-07 00:00:00 03:20PM URINE Color-Straw Appear-Clear Sp Hosier-1.009
+2014-08-07 00:00:00 03:20PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+2014-08-07 00:00:00P URINE Legionella Urinary Antigen -PENDING
+INPATIENT
+2014-08-07 00:00:00P MRSA SCREEN MRSA SCREEN-PENDING INPATIENT
+2014-08-07 00:00:00P BLOOD CULTURE Blood Culture, Routine-PENDING
+EMERGENCY UPMCE
+2014-08-07 00:00:00P BLOOD CULTURE Blood Culture, Routine-PENDING
+EMERGENCY UPMCE
+
+Final Report
+CHEST RADIOGRAPH PERFORMED ON 2014-08-07 00:00:00
+
+Comparison with a CT chest from 2014-08-07 00:00:00 as well as a chest
+radiograph from
+2014-08-07 00:00:00.
+
+CLINICAL HISTORY: Hypoxia, question acute process in the chest.
+
+FINDINGS: Portable AP upright chest radiograph is obtained.
+Slight increase
+in vague opacities involving the mid-to-lower lungs are
+increased from the
+prior radiograph and could reflect underpenetration and poor
+technique, though
+the possibility of pneumonia is difficult to exclude. Suture
+material in the
+right perihilar region is unchanged. No large pleural effusion
+is seen.
+Cardiomediastinal silhouette is stable. No pneumothorax. Bony
+structures are
+grossly intact.
+
+IMPRESSION: Limited study with subtle increased opacity
+involving the
+mid-to-lower lungs bilaterally, may reflect pneumonia. Consider
+more
+optimized technique with dedicated PA and lateral views to more
+clearly and
+thoroughly assess.
+
+DR. Glendolyn Kampel
+Approved: WED 2014-08-07 00:00:00 2:27 PM
+
+TTE 2014-08-07 00:00:00
+The left atrium is dilated. The estimated right atrial pressure
+is 0-5 mmHg. There is mild symmetric left ventricular
+hypertrophy. Overall left ventricular systolic function is
+normal (LVEF>55%) with possible mild inferolateral hypokinesis.
+Cannot exclude other focal wall motion abnormality due to
+suboptimal views. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets are severely
+thickened/deformed. There is probably severe aortic valve
+stenosis (valve area 0.8-1.0cm2); estimation limited by
+suboptimal left ventricular outflow tract Doppler recordings and
+uncertainty in measurement of the left ventricular outflow tract
+diameter. The mitral valve leaflets are mildly thickened.
+Physiologic mitral regurgitation is seen but may be
+underestimated. The tricuspid valve leaflets are mildly
+thickened. The pulmonary artery systolic pressure could not be
+determined. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of 2014-08-07 00:00:00,
+the aortic valve gradient is similar.
+
+Brief Hospital Course:
+Mr. Hosier is an 84 year old man with history of COPD, dCHF,
+AF, Aortic Stenosis valve area 0.7, s/p superior segmentectomy
+of right lower lobe 2014-08-07 00:00:00, transfered from OSH with very mild
+troponin elevation, transfered to UPMCE for cardiac evaluation,
+admitted to the MICU with pneumonia and heart failure.
+
+# Community Acquired Pneumonia
+Patient was noted to have RML and retrocardiac opacities on CXR.
+ He was started on levofloxacin for pneumonia, transitioned to
+ceftriaxone and azithromycin in the ED, then transitioned back
+to levofloxacin on the floor for treatment course of 7 days
+total antibiotics, finished during hospitalization.  Legionella
+urinary antigen negative.  On discharge, satting 89% on room air
+and 95% on 3L nasal cannula.  Ambulatory sats were 85% on RA,
+improved with 2L nasal canula.  Pt was discharged on home
+oxygen.
+
+# Acute on Chronic dCHF:
+Baseline weight of 214 lbs per son.  Beasley Hosier was felt to be in acute
+on chronic heart failure in the MICU where he was given IV lasix
+as needed for diuresis.  He takes furosemide 40mg UPMCE at
+baseline.  Patient was discharged on furosemide 40mg every Other
+day in setting of elevated bicarbonate and limited fluid buildup
+after two days of holding diuretics, felt to have contraction
+alkalosis.  Pt's daughter was advised to call if weight
+increasing by 3 lbs. Followup appointment with PCP next week.
+
+# COPD Exacerbation
+Patient was treated 5 day 123 Any St.one burst. Given nebulizers.
+
+# Troponin elevation:
+Very mild troponin elevation to 0.08 at OSH, normalized on
+admission, likely secondary to demand ischemia. No EKG changes
+to suggest active ischemia.  Most likely became hypovolemic,
+possible with poor foward flow in setting of AS, and had demand
+episode.  He was changed back to ASA 81 (from 325 initiatially)
+and Atorvastatin 10mg (from 80mg initially).
+
+# Diarrhea:
+Resolved on admission. Most likely due to prune juice/oral
+medications including miralax per daughter.
+
+# Delirium:
+Patient with episodes of delirium overnight during
+hospitalization, likely in setting of infection and ICU stay,
+improved by time of discharge.
+
+# Acute grieving/depression:
+Patient recovering from recent loss of wife (2014-08-07 00:00:00). Spent
+time with pastoral care and social work and recommend follow-up
+with Beasley Hosier psych as outpatient.
+
+# Hypothyroidism
+TSH elevated to 21 with low Free T4 0.04. This level of
+elevation unlikely to only be secondary to acute illness, so low
+dose levothyroxine started at 25mcg daily.  Pt will require
+repeat TSH in 6wks as outpatient.  Hypothyroidism may contribute
+to functional decline over last couple of months and depressive
+symptoms.
+
+# Acute renal insufficiency
+Discharged with creatinine of 1.2.  Decreased furosemide dose to
+40mg every other day from 40mg UPMCE, until followup by PCP.
+
+# Atrial fibrillation
+Currently in NSR. Initially held coumadin because of elevated
+INR, then restarted.  Warfarin should be continued at 2.5mg
+daily for 2 more days then decreased to half tab (1.25mg), then
+back to home dosing of alternating 2.5mg and 1.25mg.  Patient's
+primary care physician office was notified.  INR on discharge
+was 1.8. INR will be redrawn by PCP's office on Friday 2014-08-07 00:00:00.
+Continued amiodarone.
+
+# BPH:
+Continued finasteride, held terazosin given BP effects.
+Terazosin may be restarted and uptitrated back to home dose by
+PCP.
+
+# Communication: Patient, son/daughter HCP
+Beasley Hosier test@mail.com; test@mail.com; [**Doctor First Name 547**] test@mail.com
+
+# Code: Full
+
+==============================
+TRANSITIONAL ISSUES:
+- TSH will need to be rechecked in 6 weeks as an outpatient
+(started on 25 mcg of levothyroxine because of elevated TSH and
+low Free T4)
+- 2014-08-07 00:00:00 need Beasley Hosier psych consult
+- INR to be drawn 2014-08-07 00:00:00, followed up by PCP
+Beasley Hosier Beasley Hosier will follow daily weights
+- PCP to recheck lytes at next visit and uptitrate the
+furosemide as necessary
+- PCP to consider restarting terazosin
+
+
+Medications on Admission:
+(confirmed with family)
+mirtazapine 7.5 mg Tab
+1 Tablet(s) by mouth at bedtime
+.
+Lipitor 10 mg Tab
+1 Tablet(s) by mouth daily
+.
+Centrum Silver Tab
+1 tab Tablet(s) by mouth once daily
+.
+Advair Diskus 500 mcg-50 mcg/dose for Inhalation
+1 puff by mouth twice a day
+.
+Spiriva with HandiHaler 18 mcg & inhalation Caps
+1 Puff by mouth once daily
+.
+triamcinolone acetonide 0.5 % Topical Cream
+Apply as needed twice a day
+.
+aspirin 81 mg Tab, Delayed Release
+1 Tablet(s) by mouth daily
+.
+albuterol sulfate HFA 90 mcg/Actuation Aerosol Inhaler
+2 Puffs by mouth every 4-6 hours as needed
+.
+furosemide 40 mg Tab
+1 Tablet(s) by mouth twice a day
+.
+finasteride 5 mg Tab
+5 mg Tablet(s) by mouth once daily
+.
+amiodarone 200 mg Tab
+one Tablet(s) by mouth once a day
+.
+spironolactone 25 mg Tab
+1 Tablet(s) by mouth once a day
+.
+warfarin 2.5 mg Tab
+2014-08-07 00:00:00 tab M, W,F; 1 tablet Tues, Th Sat, Sun
+.
+terazosin 5 mg Cap
+2 Capsule(s) by mouth at bed time
+
+.
+Allergies:  NKDA
+
+
+Discharge Medications:
+1. mirtazapine 15 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).
+
+2. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Centrum Silver     Tablet Sig: One (1) Tablet PO once a day.
+
+4. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation UPMCE (2 times a day).
+5. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+6. triamcinolone acetonide 0.5 % Cream Sig: One (1)  Topical
+twice a day: Apply as needed twice a day.
+7. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+8. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) Puff Inhalation Q4H (every 4 hours) as needed for
+shortness of breath or wheezing.
+9. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+12. Home Oxygen
+2L continuous oxygen via nasal cannula.
+Note: Patient desatted to less than 84% when ambulating.
+13. furosemide 40 mg Tablet Sig: One (1) Tablet PO every other
+day: Until you see your PCP and he adjusts the dose. Tablet(s)
+14. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO every other
+day: Please take for 2 more days 2014-08-07 00:00:00 and 2014-08-07 00:00:00 and then take
+1.25mg (2014-08-07 00:00:00 tab) on Friday 2014-08-07 00:00:00 and return to regular dose of
+2.5mg (1 tab) every other day and a half pill on the other days.
+
+15. warfarin 2.5 mg Tablet Sig: 0.5 Tablet PO every other day:
+Please start this dose on Friday 2014-08-07 00:00:00 and continue every other
+day (alternating with 2.5mg tab) unless otherwise specified by
+your primary care doctor.
+16. Outpatient Lab Work
+Please have INR (coumadin level) drawn at primary care doctor's
+office Friday 2014-08-07 00:00:00.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Community Acquired Pneumonia
+Acute on Chronic Diastolic Congestive Heart Failure
+Severe Aortic Stenosis
+
+Secondary Diagnoses:
+Atrial Fibrillation
+Delirium
+
+
+Discharge Condition:
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+
+
+Discharge Instructions:
+Dear Mr. Hosier,
+
+You were admitted to the hospital because you were found to have
+a pneumonia, COPD exacerbation, and had extra fluid.
+
+You first came to UPMCE, which transferred you to
+UPMCE, where you stayed in the intensive care unit for one
+night and then moved to the medical floor. Here, you continued
+to receive antibiotics and steroids and your breathing improved.
+
+The following changes were made to your medications:
+- Please STOP your spironolactone for now.
+- Please DECREASE your furosemide to 40 mg once EVERY OTHER day
+until you see your primary care doctor.  In the meantime, please
+check your weight daily at home and call your doctor if your
+weight increased by more than 3 lbs.
+- Please START Levothyroxine 25mcg daily
+- Please STOP your terazosin for now.  This medication may be
+slowly restarted by your primary care doctor.
+- Continue your warfarin at 2.5 mg for 2 more days (Wednesday
+2014-08-07 00:00:00 and Thursday 2014-08-07 00:00:00) and then return to your normal dose of
+2.5mg (1 tab) every other day and 1.25 (2014-08-07 00:00:00 tab) on the other
+days.  You should take 1.25mg (2014-08-07 00:00:00 tab) on Friday 2014-08-07 00:00:00 unless
+otherwise specified by your primary care doctor.
+
+Please have your INR (coumadin level) checked on Friday 2014-08-07 00:00:00
+at your primary care doctor's office.
+
+Please use your oxygen at home, particularly while walking,
+until you follow up with your primary care doctor.
+
+Please have your electrolytes drawn at your primary care doctor
+visit next Thursday.
+
+Your thyroid function will need to be rechecked in 2014-08-07 00:00:00 wks after
+starting the levothyroxine.
+
+Because of your heart failure, please weigh yourself every
+morning and call the doctor if your weight goes up more than 3
+lbs and please do not eat more than 2grams of total daily salt
+per day.
+
+
+Followup Instructions:
+Please follow up with your primary care doctor and keep your
+other appointments as follows:
+
+Department: BIDHC 123 Any St.
+When: THURSDAY 2014-08-07 00:00:00 at 3:00 PM
+With: Beasley Hosier, MD test@mail.com
+Building: 123 Any St. (123 Any St., MA) 123 Any St.
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+Department: RADIOLOGY
+When: MONDAY 2014-08-07 00:00:00 at 10:30 AM
+With: CAT SCAN test@mail.com
+Building: 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: CARDIAC SERVICES
+When: TUESDAY 2014-08-07 00:00:00 at 11:45 AM
+With: Glendolyn Kampel, M.D. test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+
+Completed by:2014-08-07 00:00:00

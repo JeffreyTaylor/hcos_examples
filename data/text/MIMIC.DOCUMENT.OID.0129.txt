@@ -1,0 +1,289 @@
+Admission Date:  2012-03-31 00:00:00              Discharge Date:   2012-03-31 00:00:00
+
+Date of Birth: 1966-02-27 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Zofran / Toradol / Phenobarbital / Trazodone /
+Compazine / Oxycodone
+
+Attending:Aneil Colardo
+Chief Complaint:
+encephalopathy
+
+Major Surgical or Invasive Procedure:
+Blood transfusion
+Paracentesis x2 (2012-03-31 00:00:00, 2012-03-31 00:00:00)
+2012-03-31 00:00:00 liver transplant
+
+
+History of Present Illness:
+45 y/o male with ESLD from HCV, HBC, and EtOH who had a TIPS
+done on 2012-03-31 00:00:00 who presented to the OSH yesterday with altered
+mental status. The patient was treated with lactulose at the OSH
+with some improvement in his encelpalopathy. There was concern
+that there was a problem with the TIPS and he was transferred to
+UPMCE for further workup.
+Denied chest pain, shortness of breath, fevers, chills. He
+reports abdominal pain slightly worse than his baseline. No
+melena or BRBPR.
+.
+Labs at the OSH significant for AST/ALT 186/124, TB 12, DB 5,
+Ammonia 330, Na 132.
+
+
+Past Medical History:
+# L4,L5,S1 fusion
+# Decompensated liver cirrhosis 2012-03-31 00:00:00 to HCV, HBC, and alcohol c/b
+encephalopathy and ascites
+# Chronic pancreatitis
+# Non bleeding grade 2 esophageal varices in 2012-03-31 00:00:00
+# GERD-Barrett's esophagus
+# COPD
+# s/p incarcerated umbilical hernia repair 2012-03-31 00:00:00, recent
+admission on 2012-03-31 00:00:00 to 2012-03-31 00:00:00 for concern for cellulitis
+around his surgical incision, started on clindamycin then vanc
+then bactrim for a total course of 7 days
+#OLT 2012-03-31 00:00:00
+
+
+Social History:
+Married, but separated, has 3 children. Lives with roommates -
+limited support. Smokes a pack every 3 days. Quit cocaine and
+heroine in 2012-03-31 00:00:00. Quit EtOH in 2012-03-31 00:00:00.
+
+
+Family History:
+Family Hx: No known family history of hepatitis or liver
+disease
+
+Physical Exam:
+VS: 97.5 95/69 90 12 93%RA
+Gen: awake, oriented x 2 (able to state month and year, stated
+he was at B+W's)
+HEENT: NC/AT. PERRL, EOMI, MMM. OP clear.
+Neck: Supple, no LAD.
+CV: RRR, S1, S2 no m/r/g.
+Chest: CTAB no wheezes or crackles.
+ABD: Distended, + tense ascites, TTP diffusely
+Ext: WWP, no edema. + asterixis
+
+Pertinent Results:
+Upon admission, a CT of the abd/pelvis was done 2012-03-31 00:00:00
+demonstrating:
+1. Large amount of ascites. Tiny amount of high-density fluid
+layers in the deep pelvis consistent with blood not changed from
+prior study at 2:13 a.m. today, 2012-03-31 00:00:00. No subcapsular hepatic
+hematoma.
+2. Small subcentimeter focus of arterial enhancement of hepatic
+segment VIII becomes isodense to liver parenchyma on the delayed
+phase. This is more conspicuous compared to 2012-03-31 00:00:00 and 2012-03-31 00:00:00.
+Finding is non- specific but given cirrhosis a small focus of
+hepatocellular carcinoma cannot be excluded. Continued imaging
+surveillance is recommended.
+3. Cirrhosis with splenomegaly indicating portal hypertension.
+4. Patent TIPS.
+
+On 2012-03-31 00:00:00 a  ruq u/s was performed showing  a patent TIPS with
+increased velocities, little changed.
+Head CT was  negative and EEG was abnormal with findings
+consistent with moderate encephalopathy . There were no
+epileptiform features and no seizure activity.
+.
+2012-03-31 00:00:00 ct chest:
+1. Abnormality in the right upper lobe demonstrates marked
+panlobular
+emphysematous changes. No evidence of pneumothorax.
+
+2. Atelectasis within the right upper and bilateral lower lobes.
+No evidence
+of airspace consolidation.
+
+3. Limited images through the upper abdomen show a large volume
+ascites,
+TIPS, and splenomegaly.
+
+
+Brief Hospital Course:
+ Patient initially transfered from OSH with encephalopathy and
+concern for clotted TIPS.  TIPS initially placed 2012-03-31 00:00:00.
+Ultrasound showed patent TIPS and his mental status improved
+with lactulose and regular bowel movements.  The patient was
+tapped for a large amount of ascites and it was negative for
+SBP.
+He continued to have waxing and Aneil Colardo encephalopathy,  He
+required admission to the MICU twice for unresponsiveness, both
+times which he was intubated for airway protection, and given
+additional lactulose. His head CT on first MICU admission was
+negative for any acute process such as intracranial bleed. EEG
+findings were consistent with encephalopathy without seizure
+activity.
+
+An attempted Re-Do TIPS to divert blood through portal veins and
+not the TIPS was attempted, but technically unsuccessful and
+complicated by small hemoperitoneum that required transfusion
+but otherwise self-limited. He finally had successful TIPS
+revision on 2012-03-31 00:00:00.
+
+He continued to receive therapeutic paracentesis. Ultrasound
+initially showed patent TIPS but subsequent ones showed
+increased velocities concerning for stenosis.  He was restarted
+on diuretics because his sodium was improved from prior
+admissions, but these were held for worsening renal function.
+He was continued on 1500ml fluid restriction and Cipro for SBP
+prophylaxis. CVVHD was started.
+
+A CXR showed new right sided infiltrate and the patient had
+moderate growth of MRSA from his sputum with sparse growth of 2
+colonies of GNR. He was treated with vancomycin and zosyn.
+
+On 2012-03-31 00:00:00 he underwent Orthotopic deceased donor liver transplant
+(piggyback), portal vein-portal vein anastomosis, common bile
+duct-common bile duct anastomosis with no T-tube, branch patch
+(recipient) to celiac patch (donor)hepatic artery anastomosis.
+Surgeon was Dr. Aneil Colardo. Please see operative report
+for further details.  EBL was 2 liters replaced with PRBC, plt,
+FFP, cryo and cellsaver. Two JPs were placed. He was maintained
+on CVVHD during the case. He received HBIG intraop and on pod
+2012-03-31 00:00:00. HBsAb titers were greater than 450. HBIG IM was given on
+pod 7 and 14. Entecavir was started immediately postop. This
+dose was renally dosed.
+
+Postop, he was transferred to the SICU per protocol. He was
+extubated on POD 2. CVVHD continue for ~ 2 days then lasix was
+started. He received prbc/plt/ffp on pod 0. Labs were monitored
+q 6 hours.  US of the liver demonstrated difficulty detecting
+the expected hepatic arterial supply to the left lobe. Otherwise
+U/S was normal. LFTs trended down. The medial JP was removed on
+pod 5. The lateral JP continued to drain large amounts of
+ascites. Outputs were as high as 4.5liters per day. He received
+IV fluid replacements and albumin for JP outputs. Of note,
+creatinine started trending up off CVVHD as high as 4.3 from
+2.7. Urine output averaged 1000-1200cc/day. Nephrology was
+consulted. It was felt that he had ATN on resolving hepatorenal
+syndrome. Fluconazole dose was renally dosed to 200mg qd as this
+was felt to increase the prograf level. Creatinine slowly
+trended down to 2.9. Hyperkalemia was a persistent problem that
+required treatment with insulin, dextrose, lasix and kayexalate.
+Hyperkalemia improved with improved renal function. A low
+potassium diet was ordered.
+
+The lateral JP was removed on 2012-03-31 00:00:00 for outputs of 600cc. The
+transplant incision remained clean, dry and intact. His abdomen
+appeared a little distended
+
+PT evaluated him and initially recommended rehab, but he
+improved significant and it was felt that he would be safe for
+discharge to home. He was also started on insulin for
+hyperglycemia. Glargine and humalog sliding scale were given.
+
+Immunosuppression consisted of cellcept 1 gram UPMCE, steroids
+were tapered to prednisone 20mg qd per protocol, and prograf was
+started on pod 1. Prograf was decreased to 2.5mg UPMCE per trough
+levels of 2012-03-31 00:00:00.2.
+
+VNA services were arranged for home.
+
+
+Medications on Admission:
+1. Morphine 30 mg SR UPMCE
+2. Lactulose 30ML PO TID
+3. Pantoprazole 40 mg Q24H
+4. Folic Acid 1 mg DAILY
+5. Oxycodone 5 mg Q6H as needed for Pain.
+6. Colace 100 mg twice a day
+7. Ciprofloxacin 250 mg Q24H
+8. Entecavir 0.5 mg DAILY
+9. Hexavitamin Daily
+--Of note, has been off diuretics since last admission 2012-03-31 00:00:00
+hyponatremia
+.
+Allergies: PCN, zofran, toradol, phenobarbital, trazadone
+
+
+Discharge Medications:
+1. Prednisone 5 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+4. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+BID (2 times a day).
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+9. Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic PRN
+(as needed).
+10. Entecavir 0.05 mg/mL Solution Sig: Three (3) ml PO DAILY
+(Daily).
+Disp:*50 ml* Refills:*2*
+11. Valganciclovir 450 mg Tablet Sig: One (1) Tablet PO EVERY
+OTHER DAY (Every Other Day).
+12. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+Disp:*1 MDI* Refills:*0*
+13. Tacrolimus 1 mg Capsule Sig: Two (2) Capsule PO Q12H (every
+12 hours).
+14. Tacrolimus 0.5 mg Capsule Sig: One (1) Capsule PO twice a
+day.
+15. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units
+Subcutaneous at bedtime.
+16. Insulin Lispro 100 unit/mL Solution Sig: follow sliding
+scale  Subcutaneous four times a day.
+17. Insulin Syringes
+Low dose syringes for qid injections
+25 guage needle
+supply: 1 box
+Refill: 1
+
+
+Discharge Disposition:
+Home with Service
+
+Facility:
+UPMCE & Rehab Center - UPMCE
+
+Discharge Diagnosis:
+ESLD from HCV/HBV/ETOH cirrhosis
+Hepatic encephalopathy
+Hepatorenal syndrome
+ARF, improving
+malnutrition
+Chronic back pain
+Barrett's esophagus
+GERD
+COPD
+s/p incarcerated umbilical hernia repair
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please call the Transplant Office test@mail.com if fever, chills,
+nausea, vomiting, inability to take any of your medications,
+weight loss, jaundice, abdominal incision appears red, bleeds or
+has drainage.
+Labs every Monday and Thursday
+
+Followup Instructions:
+Provider: Aldona Beverly, MD, PHD31294:test@mail.com
+Date/Time:2012-03-31 00:00:00 9:40
+Provider: Aldona Beverly, MD, PHD31294:test@mail.com
+Date/Time:2012-03-31 00:00:00 9:40
+Provider: Aldona Beverly,Aldona Beverly TRANSPLANT SOCIAL WORK Date/Time:2012-03-31 00:00:00
+10:30
+
+
+                             Aldona Beverly MD, 31294
+
+Completed by:2012-03-31 00:00:00

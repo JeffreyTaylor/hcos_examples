@@ -1,0 +1,191 @@
+Admission Date:  2008-05-17 00:00:00              Discharge Date:   2008-05-17 00:00:00
+
+Date of Birth: 1922-07-03 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Dilaudid
+
+Attending:Jaelon Goltermann
+Chief Complaint:
+ventral hernia
+
+Major Surgical or Invasive Procedure:
+umbilical and ventral hernia repair
+
+History of Present Illness:
+30yo female currently on HD, had PD catheter removed in 2008-05-17 00:00:00
+2008-05-17 00:00:00, with ongoing complaint of pain from an umbilical hernia.
+
+Past Medical History:
+- ESRD since 2008-05-17 00:00:00, currently on HD via tunneled line
+- Peritonitis 2008-05-17 00:00:00
+- Type I DM complicated by neuropathy and nephropathy
+- Bilateral cataract surgeries
+- Ventral Hernia
+
+
+Social History:
+- Lives with her mother, + tobacco history, social ETOH,
+marijuana use noted in history
+
+
+
+Family History:
+DM type II, otherwise NC
+
+
+Physical Exam:
+upon admission:
+Gen - NAD, AOx3
+CV - RRR, S1/S2 ap123 Any St.ted
+Chest - CTAB
+Abdomen - soft, nontender, nondistended, well healed PD cath
+removal site left abdomen, normal bowel sounds
+Ext - no C/C/E
+
+Pertinent Results:
+upon admission:
+WBC-7.9 RBC-3.72* Hgb-10.9* Hct-34.8* MCV-94 MCH-29.2 MCHC-31.2
+RDW-18.1* Plt Ct-239
+Glucose-78 UreaN-21* Creat-6.4*# Na-144 K-3.6 Cl-104 HCO3-30
+AnGap-14
+Calcium-8.4 Phos-3.3 Mg-2.1
+
+2008-05-17 00:00:00 07:30AM BLOOD WBC-7.1 RBC-3.83* Hgb-11.4* Hct-36.3
+MCV-95 MCH-29.9 MCHC-31.5 RDW-17.8* Plt Ct-253
+2008-05-17 00:00:00 04:40AM BLOOD Glucose-122* UreaN-20 Creat-8.5*# Na-140
+K-3.9 Cl-100 HCO3-24 AnGap-20
+
+Brief Hospital Course:
+The patient was admitted to the West-1 surgery for scheduled
+ventral/umbilical herniorrhaphy on 2008-05-17 00:00:00, which went well
+without complication (please refer to Operative Note for
+details). In the PACU, the patient experienced significant pain
+control issues as well as nausea and emesis.  After
+stabilization and improvement in symptoms, the patient was
+transferred to the inpatient floor in stable condition.
+
+Neuro: The patient received dilaudid with adequate pain control,
+however patient experienced nausea likely related to narcotic
+analgesia.  She was transitioned to oxycodone during her
+admission after improvement in surgical site pain.
+
+CV: The patient remained stable from a cardiovascular
+standpoint; vital signs were routinely monitored.
+
+Pulmonary: The patient remained stable from a pulmonary
+standpoint; vital signs were routinely monitored. Good pulmonary
+toilet, early ambulation and incentive spirrometry were
+encouraged throughout hospitalization.
+
+GI/GU/FEN: Post-operatively, diet was advanced when appropriate
+and tolerated. Patient's intake and output were closely
+monitored, and IV fluid was adjusted when necessary.
+Electrolytes were routinely followed, and repleted when
+necessary. Patient underwent scheduled hemodialysis while an
+inpatient.
+
+ID: The patient's white blood count and fever curves were
+closely watched for signs of infection.
+
+Endocrine: Post-operatively, the patient's blood sugar levels
+were monitored and a sliding scale implemented.
+
+Hematology: The patient's complete blood count was examined
+routinely; no transfusions were required.
+
+Prophylaxis: The patient received subcutaneous heparin and
+venodyne boots were used during this stay; was encouraged to get
+up and ambulate as early as possible.
+
+At the time of discharge, the patient was doing well, afebrile
+with stable vital signs. The patient was tolerating a regular
+diet, ambulating, voiding without assistance, and pain was well
+controlled. The patient received discharge teaching and
+follow-up instructions with understanding verbalized and
+agreement with the discharge plan.
+
+Medications on Admission:
+Carvedilol 12.5 mg UPMCE, Sensipar 30 mg Tdaily, Furosemide 60 mg
+daily, Novolog
+100 unit/mL Solution per sliding scale QID, Glargine 100 unit/mL
+Solution
+15 units qhs- fluctuates with a123 Any St.e and blood sugars,
+Lisinopril 20 mg daily, Oxycodone 5 mg Tablet 2008-05-17 00:00:00 every four (4)
+hours as needed for pain   Sevelamer HCl 800 mg TID with meals,
+Travoprost (Benzalkonium) [Travatan]
+0.004 % Drops 1 gtt ou hs, Aspirin 81 mg daily, B complex
+Vitamins daily,  Folic Acid 1 mg daily,
+
+
+Discharge Medications:
+1. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+2. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+4. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+6. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. B Complex Vitamins     Capsule Sig: One (1) Cap PO DAILY
+(Daily).
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+10. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS
+(at bedtime).
+11. Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+12. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+13. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units
+Subcutaneous once a day.
+14. Novolog 100 unit/mL Solution Sig: follow sliding scale
+Subcutaneous four times a day.
+15. Epogen 10,000 unit/mL Solution Sig: One (1) ml Injection
+once a week.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. Dialysis 123 Any St.
+
+Discharge Diagnosis:
+ESRD
+Ventral hernia repair
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Please call Dr.Kayeleigh Sower office test@mail.com if you have any of
+the warning signs listed below.
+Continue with your usual dialysis schedule
+No heavy lifting/straining
+No driving while you are taking pain medication
+
+Followup Instructions:
+Provider: Kayeleigh Sower, MD Phone:test@mail.com
+Date/Time:2008-05-17 00:00:00 3:40
+Provider: Kayeleigh Sower Kayeleigh Sower, MD Phone:test@mail.com
+Date/Time:2008-05-17 00:00:00 10:40
+Provider: Kayeleigh Sower, MD Phone:test@mail.com Date/Time:2008-05-17 00:00:00
+10:40
+
+
+
+Completed by:2008-05-17 00:00:00

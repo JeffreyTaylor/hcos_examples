@@ -1,0 +1,321 @@
+Admission Date:  2005-03-08 00:00:00              Discharge Date:   2005-03-08 00:00:00
+
+Date of Birth: 1946-03-08 00:00:00 00:00:00             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Colum Rebro
+Chief Complaint:
+1. Severe abdominal pain
+
+Major Surgical or Invasive Procedure:
+2005-03-08 00:00:00: Sigmoid colon resection and end colostomy.
+
+
+History of Present Illness:
+The patient is a 52 year old male who complains of ABD PAIN and
+unable to urinate. She was seen in the ED one week ago for left
+lower quadrant pain, diagnosed with diverticulitis  and placed
+on Cipro Flagyl. That left lower quadrant pain  has been
+gradually improving. However he urinated last night
+normally and then has been unable to urinate since then and
+developed lower abdominal pain this morning. No nausea vomiting
+fevers or chills.
+
+
+Past Medical History:
+PMH: diverticulitis
+PSH: exploratory laparoscopy, exploratory laparotomy (stabbing)
+
+
+Social History:
+The patient is a smoker and drinks occasional alcohol.
+
+
+Family History:
+Non contributory
+
+Physical Exam:
+On Admission:
+VS: T98.1  HR 90s  BP 150/60  RR 18  Sats 100%RA
+General:In moderate distress
+HEENT-anicteric
+CV-RRR
+Pulm-CTA b/l
+Abd-rigid, rebound, guarding, diffuse abd tenderness.  Well
+healed midline scar.
+Ext-no edema
+
+On Discharge:
+VS:
+General: NAD
+Head/Neck: NC/AT, supple
+Heart: RRR, no m/r/g
+Lungs: Left CTA, right - diminished on base
+Abd: Distended, firm, tenderness around incision sites. Midline
+incision: distal and proximal part with staples; midle part with
+2005-03-08 00:00:00 dressing. LUQ stoma: protruded, pink and patent with liquid
+stool.
+Ext: no c/c/e
+Neuro: AAO x 3, Taulbee, [**First Name3 (LF) 2948**]
+
+
+Pertinent Results:
+2005-03-08 00:00:00 10:35AM   GLUCOSE-135* UREA N-12 CREAT-0.9 SODIUM-138
+POTASSIUM-4.4 CHLORIDE-101 TOTAL CO2-28 ANION GAP-13
+2005-03-08 00:00:00 10:35AM   ALT(SGPT)-34 AST(SGOT)-36 ALK PHOS-87 TOT
+BILI-0.3
+2005-03-08 00:00:00 10:35AM   LIPASE-25
+2005-03-08 00:00:00 10:35AM   WBC-15.8* RBC-5.60 HGB-16.5 HCT-49.1 MCV-88
+MCH-29.4 MCHC-33.5 RDW-13.0
+2005-03-08 00:00:00 10:35AM   PLT COUNT-337#
+
+2005-03-08 00:00:00 CT ABDOMEN W/CONTRAST:
+IMPRESSION: Perforated sigmoid diverticulitis with adjacent 3-cm
+air and
+fluid collection (primarily composed of air), compatible with an
+abscess,
+pneumoperitoneum, and peritonitis. No focal drainable
+collections seen. Small amount [**First Name9 (NamePattern2) 2949**] Taulbee with reactive
+inflammatory changes in the distal small bowel.
+
+2005-03-08 00:00:00 BLOOD CULTURE    FINAL REPORT 2005-03-08 00:00:00**
+Blood Culture, Routine (Final 2005-03-08 00:00:00):    NO GROWTH.
+
+2005-03-08 00:00:00 WOUND CULTURE FINAL REPORT 2005-03-08 00:00:00**
+GRAM STAIN (Final 2005-03-08 00:00:00): 1+    (<1 per 1000X FIELD):
+POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.
+FLUID CULTURE (Final 2005-03-08 00:00:00): LACTOBACILLUS SPECIES.    SPARSE
+GROWTH.
+ANAEROBIC CULTURE (Final 2005-03-08 00:00:00):    NO ANAEROBES ISOLATED.
+
+2005-03-08 00:00:00 URINE CULTURE   FINAL REPORT 2005-03-08 00:00:00**
+URINE CULTURE (Final 2005-03-08 00:00:00):    NO GROWTH.
+
+2005-03-08 00:00:00  BLOOD CULTURE   FINAL REPORT 2005-03-08 00:00:00**
+Blood Culture, Routine (Final 2005-03-08 00:00:00):    NO GROWTH.
+
+2005-03-08 00:00:00 CHEST (PA & LAT):
+IMPRESSION:
+New multifocal right lung opacities suspicious for multifocal
+pneumonia, with possible additional lesser involvement in the
+left lung.
+
+2005-03-08 00:00:00 CHEST PORTABLE:
+IMPRESSION:
+1. Left PICC coiled in SVC, recommend retraction by 3 cm.
+2. Improving multifocal pneumonia.
+
+2005-03-08 00:00:00: ABDOMEN (SUPINE & ERECT):
+IMPRESSION: Multiple air-filled loops of dilated small bowel,
+concerning for ileus.
+
+2005-03-08 00:00:00:  CT ABDOMEN W/CONTRAST:
+IMPRESSION:
+1. Status post sigmoid colectomy and end colostomy. Complex
+collection is
+noted in the right lower quadrant area and in the subcapsular
+location within the liver. These collections are relatively
+small and cannot be drained percutaneously.
+2. Diffuse distention of the small bowel, ascending colon, and
+transverse
+colon is mostly compatible with ileus.
+
+2005-03-08 00:00:00 09:40AM BLOOD WBC-18.0* RBC-4.62 Hgb-12.9* Hct-40.7
+MCV-88 MCH-27.9 MCHC-31.7 RDW-13.4 Plt Ct-456*
+2005-03-08 00:00:00 09:40AM BLOOD Glucose-111* UreaN-12 Creat-0.6 Na-135
+K-4.9 Cl-101 HCO3-25 AnGap-14
+2005-03-08 00:00:00 09:40AM BLOOD Calcium-8.3* Phos-4.0 Mg-2.1
+
+Brief Hospital Course:
+General Brief Hospital Course:
+The patient was admitted to the General Surgical Service for
+evaluation and treatment. On 2005-03-08 00:00:00, the patient underwent
+sigmoid colon resection and end colostomy, which went well
+without complication (reader referred to the Operative Note for
+details). After a brief stay in the PACU, the patient was
+transferred in SICU for observation s/t tachycardia and low
+urine output. In SICU patient's heart rate became regular
+without intervention, he received 2.5 L bolus and his urine
+function improved. Patient was transferred on the floor NPO, on
+IV fluids and antibiotics, with a Foley catheter, and  Dilaudid
+PCA for pain control. The patient was hemodynamically stable.
+
+Neuro: The patient received Dilaudid PCA with IV Dilaudid PRN
+with good effect and adequate pain control. Neurologically
+patient was stable. Alert and oriented x 3, follows all
+commands, and moved all extremities. When tolerating oral
+intake, the patient was transitioned to oral pain medications.
+
+CV: The patient had an episodes of tachycardia postoperatively
+with heart rate up to 120s. After receiving proper hydration
+with IV fluid, patient's HR stabilized within normal limits. The
+patient remained stable from a cardiovascular standpoint; vital
+signs were routinely monitored.
+
+Pulmonary: The patient was extubated in OR. The patient remained
+stable from a pulmonary standpoint; vital signs were routinely
+monitored. On 2005-03-08 00:00:00 patient lung sounds were found diminished
+on right base, chest x-ray was obtained and showed new right
+multifocal pneumonia. Patient was started on Ceftriaxone 1 gm IV
+Q24H. Patient continue with active pulmonary toilet, he started
+early ambulation and incentive spirometry were encouraged
+throughout hospitalization. On 2005-03-08 00:00:00 repeat chest x-ray
+demonstrated improving multifocal pneumonia. Patient was
+continue on Ceftriaxone during hospitalization, and he will
+continue on Ciprofloxacin 10 days after discharge.
+
+GI/GU/FEN: Post-operatively, the patient was made NPO with IV
+fluids, and NGT to low suction. NGT was discontinued on 2005-03-08 00:00:00.
+TPN was started on 2005-03-08 00:00:00, and patient continue on TPN until 2005-03-08 00:00:00.
+Diet was slowly advanced to sips on 2005-03-08 00:00:00, and clears on 2005-03-08 00:00:00,
+which was well tolerated. Patient was advanced to regular diet
+on 2005-03-08 00:00:00 and tolerates diet well. Foley catheter was removed on
+2005-03-08 00:00:00, patient voided without difficulties. Patient's intake and
+output were closely monitored, and IV fluid was adjusted when
+necessary. Electrolytes were routinely followed, and repleted
+when necessary.
+
+ID: Patient's WBC on admission was 15.8, he was started on
+Vancomycin and Zosyn for empiric coverage. On 2005-03-08 00:00:00 Zosyn was
+discontinued, patient was started on Ceftriaxone 1 gm qday,
+Flagyl 500 mg tid, and continue on Vancomycin per Infectious
+Disease recommendation. Patient remained afebrile during
+hospitalization with elevated WBC. Patient's urine, blood x 2
+and wound cultures were sent and remain negative. Patient will
+continue on Flagyl and Ciprofloxacin x 10 days after discharge,
+and he will follow up with PCP for routine CBC test.
+
+Wound: Patient's midline incision was closed with staples
+postoperatively and dry dressing was applied. Dressing was
+removed on POD # 2, and wound was kept open to air. On 2005-03-08 00:00:00
+patient was found to have significant erythema around incision
+line, no exudate was notified. Staples were removed from the
+central portion of the incision, wound cultures were sent to
+microbiology, and wet-to dry dressing was applied. Dressing was
+changed twice a day, cultures came back negative. Patient's
+wound remains clear, no exudate or debrises, distal/proximal
+staples remain intact. To improve wound healing and closure, 2005-03-08 00:00:00
+dressing was started on 2005-03-08 00:00:00. Patient will be discharge home with
+2005-03-08 00:00:00 and his dressing will be changed Q72H by VNA nurses.
+
+Endocrine: The patient's blood sugar was monitored throughout
+his stay; insulin dosing was adjusted accordingly.
+
+Hematology: The patient's complete blood count was examined
+routinely; no transfusions were required.
+
+Prophylaxis: The patient received subcutaneous heparin and
+venodyne boots were used during this stay; was encouraged to get
+up and ambulate as early as possible.
+
+At the time of discharge, the patient was doing well, afebrile
+with stable vital signs. The patient was tolerating a regular
+diet, ambulating, voiding without assistance, and pain was well
+controlled. The patient received discharge teaching and
+follow-up instructions with understanding verbalized and
+agreement with the discharge plan.
+
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for fever or pain.
+2. Nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+Disp:*14 Patch 24 hr(s)* Refills:*1*
+3. Nicotine 7 mg/24 hr Patch 24 hr Sig: One (1) patch
+Transdermal every twenty-four(24) hours: Start this prescription
+once you complete Nicotine 14mg/24hr patches.
+Disp:*14 patches* Refills:*1*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation: Over-the-counter.
+6. Reglan 10 mg Tablet Oral
+7. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS.
+Disp:*120 Tablet(s)* Refills:*0*
+8. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+9. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3-4 Hours: PRN
+as needed for Pain.
+Disp:*70 Tablet(s)* Refills:*0*
+10. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a
+day for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+11. Flagyl 500 mg Tablet Sig: One (1) Tablet PO three times a
+day for 10 days.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+1. Perforated diverticulitis
+2. Pneumoperitoneum, and peritonitis
+3. Pneumonia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+General Discharge Instructions:
+Please resume all regular home medications , unless specifically
+
+advised not to take a particular medication. Also, please take
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times
+per day, and drink adequate amounts of fluids. Avoid lifting
+weights greater than 2005-03-08 00:00:00 lbs until you follow-up with your
+surgeon, who will instruct you further regarding activity
+restrictions.
+Avoid driving or operating heavy machinery while taking pain
+medications.
+Please follow-up with your surgeon and Primary Care Provider
+(PCP) as advised.
+.
+Incision Care:
+*Please call your doctor or nurse practitioner if you have
+increased pain, swelling, redness, or drainage from the incision
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*If you have staples, they will be removed at your follow-up
+appointment.
+*If you have steri-strips, they will fall off on their own.
+Please remove any remaining strips 7-10 days after surgery.
+*A 2005-03-08 00:00:00 dressing has been applied to the medial aspect of your
+surgical incision. The VNA Nurse will change this dressing every
+three days. Please monitor this wound and the 2005-03-08 00:00:00 system. Call
+your VNA Nurse Barba Taulbee system failure, leaks, alarms, or other
+concerns.
+* You still have surgical staples on distal and proximal part of
+your incision. VNA will remove the staples on 2005-03-08 00:00:00.
+* Call General Surgery at test@mail.com if you have any questions
+or concerns. Dr. Colum Rebro.
+
+Followup Instructions:
+Please call (test@mail.com to arrange a follow-up appointment
+with Dr. Barba (PCP) in 2005-03-08 00:00:00 weeks.
+.
+Provider: Barba Taulbee, MD (General Surgery) Phone:test@mail.com
+Date/Time:2005-03-08 00:00:00 2:30. 123 Any St. office: Surgical services. UPMCE
+[**Location (un) 614**], 123 Any St., [**Numeric Identifier 2955**]
+
+
+
+Completed by:2005-03-08 00:00:00

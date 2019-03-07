@@ -1,0 +1,156 @@
+Admission Date:  2012-03-29 00:00:00     Discharge Date:  2012-03-29 00:00:00
+
+Date of Birth:                  Sex:  M
+
+Service:  GEN Geordyn Houmes
+
+The patient is transferred to the Cardiology Service on
+2012-03-29 00:00:00.
+
+HISTORY OF PRESENT ILLNESS:  This is an 87-year-old male with
+an extensive medical history presented to the Emergency
+Department on 2012-03-29 00:00:00 complaining of right lower quadrant
+abdominal pain since 2 a.m.  Patient states that the pain was
+nonradiating.  He also complained of dry heaves without any
+emesis or diarrhea.  He did not report any fevers or chills.
+He states that his fingersticks are within normal limits in
+the 150s.  He does not report any weight gain or loss.  He
+states that he has had similar episodes of right lower
+quadrant pain which had been due to elevated lactate levels
+and acidosis, and he had been treated conservatively in the
+past.
+
+CT scan of the abdomen which was done in the Emergency Room
+on the date of admission showed dilated appendix concerning
+for acute appendicitis.  Given the patient's extensive
+medical history, specifically his cardiac risk factors, the
+decision was made to conservatively treat the patient with
+intravenous antibiotics.
+
+PAST MEDICAL HISTORY:
+1.  Atrial fibrillation with DDI pacer.
+2.  Noninsulin-dependent diabetes mellitus.
+3.  Status post coronary artery bypass graft times three in
+2012-03-29 00:00:00.
+4.  Nephrolithiasis.
+5.  History of colon cancer.
+6.  Status post episode of bowel ischemia.
+7.  End-stage cardiomyopathy with ejection fraction 20 to 30%
+with mitral regurgitation and tricuspid regurgitation.
+8.  Chronic renal insufficiency with a baseline creatinine of
+1.6.
+
+PAST SURGICAL HISTORY:
+1.  Status post coronary artery bypass graft times three in
+2012-03-29 00:00:00.
+2.  Sigmoid colectomy in 2012-03-29 00:00:00.
+
+ALLERGIES:  Penicillin.
+
+MEDICATIONS:
+1.  Glyburide.
+2.  Coumadin.
+3.  Neurontin 100 mg p.o. t.i.d.
+4.  Aspirin 81 mg p.o. q. day.
+5.  Lisinopril 5 mg p.o. q.d.
+6.  Digoxin 0.125 mg p.o. q.d.
+7.  Allopurinol 200 mg p.o. q.d.
+8.  Bumex.
+9.  Carvedilol 12.5 mg p.o. b.i.d.
+10. Zantac 150 mg p.o. b.i.d.
+
+PHYSICAL EXAMINATION UPON EVALUATION:  Temperature of 99.2,
+heart rate 72, respiratory rate 24, blood pressure 133/55,
+oxygen saturation 95% on room air.  He is ill appearing but
+in no acute distress.  He is alert and oriented times three.
+His sclerae are anicteric, and his neck is supple without any
+masses.  His lungs have bibasilar crackles.  His heart is a
+regular rate and rhythm with a II/VI holosystolic murmur.
+His abdomen is nondistended and has normoactive bowel sounds.
+The abdomen is soft and tender in the right lower quadrant
+with guarding and rebound.  His extremities are arm and have
+1+ edema bilaterally to the ankles.
+
+LABORATORY DATA:  His CBC on evaluation was as follows:
+White blood cell count 8.4, hematocrit 31.3 with 85
+neutrophils and 7% lymphocytes.  His electrolytes were as
+follows:  Sodium 134, potassium 5.4, chloride 101,
+bicarbonate 26, BUN 58, creatinine 1.6, glucose 170.
+
+His urinalysis had greater than 50 white blood cells with
+moderate bacteria, moderate leukocyte esterases, and no
+nitrites.
+
+Cardiac enzymes were drawn upon initial evaluation.  The
+first set showed a CK of 82 with a negative MB and troponin
+of 0.05.
+
+STUDIES:  KUB done in Emergency Room showed nonspecific bowel
+gas pattern.
+
+CT of the abdomen revealed a questionably dilated appendix
+and free fluid in the pelvis.
+
+HOSPITAL COURSE:  Given the patient's extensive medical
+history, specifically the patient's cardiac risk factors, the
+patient was not taken to the Operating Room.  It was decided
+to treat the patient conservatively with medical management.
+He was placed on antibiotics which included Levofloxacin and
+Flagyl.  He was made NPO.  Intravenous fluids were started.
+A Foley was placed to strictly measure his I's and O's.
+
+He was admitted to the Intensive Care Unit for the first
+several days of his hospital course.  The patient was
+continued on all of his cardiac medications.  His Coumadin
+was held.  His CBC and electrolytes were closely followed
+during the course of his hospital stay.  The patient's
+symptoms significantly improved during the early part of his
+hospital course.  His abdominal pain significantly subsided
+with the antibiotics and bowel rest.  He remained afebrile,
+and his vital signs were stable.
+
+The CT scan was reviewed with several members of the
+Radiology Department.  A closer look at the CT scan revealed
+patient had a fluid collection that had been loculated and
+was not the appendix, as had been earlier thought.  The
+patient's white count remained within normal limits during
+the course of his hospital stay.
+
+Given that the patient's pain had significantly improved, his
+diet was slowly advanced.  He was able to tolerate clear
+liquids at the point of his transfer to the Cardiology
+service.
+
+The patient was having bowel movements, but he described them
+as loose.  Clostridium difficile toxin studies were ordered
+and were pending at the time this transfer.  Given that his
+urinalysis upon initial admission had been positive for
+urinary tract infection, sensitivities were drawn and the
+organism was found to be sensitive to Macrodantin.  The
+patient was placed on Macrodantin on hospital day four.
+
+The Cardiology service followed the patient during the
+initial part of his hospital course.  Given that they had
+recommended that the patient's pacer be upgrade, it was
+decided that, since he had been stable from a surgical
+standpoint, he would be transferred to the Electrophysiology
+service for management of his pacer.  Per the Cardiology
+service's recommendations, the patient was given a dose of
+vitamin K to reverse his INR in preparation for his pacer
+procedure.  His INR responded to the vitamin K and was 1.9 on
+the day of his transfer to the Cardiology service.  He was
+transferred to their service on hospital day 5.
+
+Remainder portion of this UPMCE hospital stay will be
+dictated at a later date by the Cardiology team.
+
+
+
+                          Geordyn Houmes, M.D.  12798
+
+Dictated By:Geordyn Houmes
+MEDQUIST36
+
+D:  2012-03-29 00:00:00  11:02
+T:  2012-03-29 00:00:00  13:50
+JOB#:  12798

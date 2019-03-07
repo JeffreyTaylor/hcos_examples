@@ -1,0 +1,666 @@
+Admission Date:  2014-02-05 00:00:00              Discharge Date:   2014-02-05 00:00:00
+
+Date of Birth: 2000-02-05 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Nafcillin / cefazolin
+
+Attending:Esaw Fenchak
+Chief Complaint:
+acute epidural abscess, MSSA bacteremia
+
+Major Surgical or Invasive Procedure:
+1. Total laminectomy of L1, L2, L3, L4, and L5.
+2. Incision and drainage.
+3. Debridement.
+
+
+History of Present Illness:
+Mr. Naas is a 52-year-old male with medical history
+significant for gout involving the left ankle for 8 years,
+atrial fibrillation on warfarin, Hypertension, Hyperlipidemia,
+and gout, who presented in atrial fibrillation with rapid
+ventricular response on 2014-02-05 00:00:00, and was later found to have
+MSSA bacteremia. During the admission, he required Medical ICU
+monitoring for neurochecks and further evaluation of epidural
+abscess.
+
+Pt initially presented to his PCP with an erythematous, painful
+left ankle, with concern for gout flare. When seen by his PCP,
+Devohn Naas was SOB and found to be in afib with rapid ventricular
+response. He was transferred to the UPMCE ED, where the
+patient was evaluated by orthopedics who felt that the patient
+had a painful left ankle with somewhat preserved passive range
+of motion, and that his exam could be consistent with cellulitis
+of the lateral aspect of the ankle. Initial labs showed INR of
+7.4, Lactic acid of 1, WBC 18, BUN and creatinine of 44 and 0.8,
+AST and ALT of 108 and 127, respectively, Alkaline Phos 297, and
+C-reactive of 348. He was started on Ampicillin/sulbactam for
+antimicrobial coverage for possible cellulitis overlying gout.
+However, on the night of 2014-02-05 00:00:00, he spiked to 102.3 and 123 Any St.
+cultures grew GPC's and Vancomycin was added. He had x-rays of
+the left ankle that showed no acute fracture, and LENI was
+negative for DVT. CTA was done at that time which showed no PE,
+but showed pulmonary nodules.
+
+Subsequently, blood cultures in 2014-02-05 00:00:00 bottles grew out MSSA
+bacteria, and she was switched to oxacillin 2g IV q4hrs. TTE was
+done, which was poor quality, but showed no vegetations. For his
+Afib, he was treated with IV diltiazem, and subsequently
+switched to IV and then po dilt.  Imaging done at that time was
+concerning for an epidural collection and possibly abcess in the
+L2 , L3 and L4 level. The provisional report was reported by Dr.
+Naas, radiologist at UPMCE. The patient was evaluated by the
+Neurosurgeon Dr. Esaw Fenchak Devohn Naas, who recommended that the
+patient be transfered the patient to UPMCE as the patient
+requires more MRI of the Spine (Thoracic and Cervical) and a MRI
+brain to rule out any more extensive pathology.
+
+On arrival to the MICU,  the patient was somnolent but
+arousable. He has diffuse wheezing bilaterally. He endorses back
+pain and neck pain. His vital signs are HR 111 BP 103/72 O2 96%
+2L.
+
+The patient was subsequently stabilized in the medical ICU and
+later transferred to the hospital medicine service.
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats. Denies headache, sinus
+tenderness, rhinorrhea or congestion. Denies cough, shortness of
+breath, or wheezing. Denies chest pain, chest pressure,
+palpitations, or weakness. Denies nausea, vomiting, diarrhea,
+constipation, abdominal pain, or changes in bowel habits. Denies
+dysuria, frequency, or urgency.
+
+
+Past Medical History:
+-Coronary artery disease with a negative stress in 2014-02-05 00:00:00
+-atrial fibrillation
+-hypertension
+-hypercholesterolemia
+-gout
+-depression
+-recent colonoscopy in 2014-02-05 00:00:00
+-Bilateral knee arthroscopy
+
+
+Social History:
+- Tobacco:  70 year pack hx (smoked 2ppd for 35y, quit 16 years
+ago)
+- Alcohol:  5 bottles of wine/week
+- Illicits:  used cocaine 30 years ago, denies recent drug use.
+Denies IVDA.
+
+Family History:
+Father died of an MI at 72.  Mother died of an MI at 68.
+
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T: 98.1 BP: 103/72 P:110 R: 14 O2: 96% 2L NC
+General: somnolent but redirectable, oriented, no acute distress
+
+HEENT: Sclera anicteric, MMM, PERRL
+Neck: thick neck girth
+CV: irregular rate, tachycardia, normal S1 + S2, no murmurs,
+rubs, gallops
+Lungs: diffuse, generalized wheezes, tight air movement
+bilaterally
+Abdomen: soft, non-tender, distended, bowel sounds present, RUQ
+with incr girth than remainder of abdomen
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing. Bilateral LE
+pitting edema 3+. Area of external malleolus is erythematous and
+outlined but erythema extends beyond borders of outline.
+Neuro: CNII-XII intact, 5/5 strength upper extremities, 2014-02-05 00:00:00
+strength lower extremities, able to move bilateral LE off the
+bed but not able to resist even minimally. grossly normal
+sensation, gait deferred. Range of motion of R ankle is normal.
+Range of motion of R ankle- active is none. Range of motion of L
+ankle passive motion is limited by pain
+
+DISCHARGE PHYSICAL EXAM:
+Vitals:
+General: Alert and oriented in no acute distress
+HEENT: Sclera anicteric, MMM, PERRL
+Neck: thick neck girth
+CV: irregular rate, normal S1 + S2, no murmurs, rubs, gallops
+Lungs: clear to auscultation bilaterally
+Abdomen: obese, soft, non-tender, bowel sounds present,
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing. Bilateral LE
+pitting edema 2+. Left ankle swelling greater than right. Mild
+pain with active and passive range of motion of the left and
+right ankle L>R. DP/PT pulses bilaterally
+Neuro: CNII-XII intact, 5/5 strength upper extremities, 2014-02-05 00:00:00
+strength lower extremities with encouragement, lower ext sensory
+intact
+
+Pertinent Results:
+ADMISSION LABS
+2014-02-05 00:00:00 02:35AM BLOOD WBC-19.3* RBC-3.30* Hgb-10.2* Hct-29.9*
+MCV-91 MCH-31.0 MCHC-34.2 RDW-14.9 Plt Ct-419
+2014-02-05 00:00:00 02:35AM BLOOD Neuts-88.9* Lymphs-8.0* Monos-1.3*
+Eos-1.5 Baso-0.2
+2014-02-05 00:00:00 02:35AM BLOOD PT-28.6* PTT-47.0* INR(PT)-2.8*
+2014-02-05 00:00:00 02:35AM BLOOD ESR-131*
+2014-02-05 00:00:00 02:35AM BLOOD Glucose-131* UreaN-43* Creat-1.2 Na-134
+K-4.3 Cl-100 HCO3-21* AnGap-17
+2014-02-05 00:00:00 02:35AM BLOOD ALT-91* AST-102* LD(LDH)-314*
+AlkPhos-158* TotBili-1.5
+2014-02-05 00:00:00 02:35AM BLOOD Calcium-9.2 Phos-5.0* Mg-2.3
+2014-02-05 00:00:00 02:48AM BLOOD Lactate-1.2
+2014-02-05 00:00:00 02:48AM BLOOD freeCa-1.20
+
+PERTINENT INTERVAL LABS:
+
+2014-02-05 00:00:00 05:24AM BLOOD WBC-9.7 RBC-2.40* Hgb-7.4* Hct-22.3*
+MCV-93 MCH-31.0 MCHC-33.4 RDW-16.2* Plt Ct-415
+2014-02-05 00:00:00 07:19AM BLOOD WBC-9.3 RBC-2.42* Hgb-7.3* Hct-22.5*
+MCV-93 MCH-30.2 MCHC-32.6 RDW-15.4 Plt Ct-416
+2014-02-05 00:00:00 05:24AM BLOOD Neuts-74.5* Lymphs-20.6 Monos-3.6 Eos-0.9
+Baso-0.4
+
+2014-02-05 00:00:00 06:06AM BLOOD PT-16.7* PTT-95.6* INR(PT)-1.6*
+2014-02-05 00:00:00 05:24AM BLOOD PT-18.1* PTT-71.6* INR(PT)-1.7*
+
+2014-02-05 00:00:00 07:01AM BLOOD ESR-146*
+
+2014-02-05 00:00:00 05:24AM BLOOD Glucose-94 UreaN-33* Creat-1.5* Na-143
+K-4.0 Cl-106 HCO3-25 AnGap-16
+2014-02-05 00:00:00 07:19AM BLOOD Glucose-95 UreaN-34* Creat-1.3* Na-142
+K-4.2 Cl-107 HCO3-27 AnGap-12
+
+2014-02-05 00:00:00 05:44AM BLOOD LD(LDH)-314* TotBili-0.7
+
+2014-02-05 00:00:00 06:55AM BLOOD ALT-38 AST-60* LD(LDH)-295* AlkPhos-97
+TotBili-0.8
+2014-02-05 00:00:00 03:40AM BLOOD ALT-32 AST-42* LD(LDH)-232 CK(CPK)-487*
+AlkPhos-79 TotBili-1.3
+
+2014-02-05 00:00:00 05:44AM BLOOD Hapto-559*
+2014-02-05 00:00:00 04:52AM BLOOD Ferritn-2934*
+
+2014-02-05 00:00:00 07:01AM BLOOD CRP-108.0*
+2014-02-05 00:00:00 02:35AM BLOOD CRP-> 300
+
+2014-02-05 00:00:00 07:07PM BLOOD Vanco-23.1*
+
+IMAGING:
+UPMCE RECORDS:
+X-ray spine 2014-02-05 00:00:00:
+Findings:
+     Lumbar vertebral heights are preserved.  Normal lumbar
+vertebral alignment is maintained.  Minimal decrease in
+intervertebral disc spaces noted, predominantly at the L1-L9,
+2014-02-05 00:00:00 levels with anterior osteophytosis.  Posterior elements
+and soft tissues appear unremarkable.
+     Impression:
+Lumbar spondylosis.
+
+Ankle x-ray 2014-02-05 00:00:00:
+Impression:  Overlying cast obscures bony details.  Sclerotic
+line of the medial malleolus may represent a nondisplaced
+fracture if there is a history of trauma.  Slight widening of
+the medial tibial talar joint space.  Soft tissue swelling.
+Results were discussed with Dr. Naas in the ER.
+
+CXR 2014-02-05 00:00:00:
+Impression:  Low lung volumes.  No focal airspace disease, or
+pulmonary vascular congestion.  No pneumothorax.
+
+CTA 2014-02-05 00:00:00:
+Findings:  There are no filling defects within the pulmonary
+arteries and their segmental branches to suggest pulmonary
+embolism.  There is suboptimal evaluation of the subsegmental
+branches.
+
+There are ill-defined densities in both lung apices, which may
+reflect post-inflammatory or infectious changes. There is a 4 mm
+nodule in the left upper lobe (image 56 of series 3), a 6 mm
+ground glass nodule in the right upper lobe (image 45 of series
+3), and a 5 mm nodule in the right lower lobe (image 35 of
+series 3).  There is no pleural effusion. The heart is normal in
+size without a pericardial effusion. There is no axillary,
+mediastinal, or perihilar lymphadenopathy. The aorta is of
+normal caliber. Incidental note is made of a left vertebral
+artery that arises from the aortic arch. There are no thyroid
+nodules.
+The visualized stomach, liver, and spleen are unremarkable.
+The bony thorax is unremarkable.
+
+Impression:
+1.  No pulmonary embolism in the main and segmental pulmonary
+arteries.
+2.  Ill-defined densities in both lung apices, which may reflect
+post-inflammatory or infectious changes.
+3.  Multiple 4 to 6 mm pulmonary nodules.
+
+LENI 2014-02-05 00:00:00: Impression:  No deep vein thrombosis.
+
+Abdominal u/s 2014-02-05 00:00:00:
+Findings:  The liver and spleen are normal in size.  Diffuse
+increase echogenicity of the liver is seen concerning for
+hepatic cellular steatosis.  The gallbladder appears
+unremarkable. Limited evaluation of the common bile duct which
+measures 6mm.
+The pancreas is not visualized due to rule bowel gas and patient
+habitus No mass of the pancreas is seen.  No hydronephrosis or
+mass of either kidney is noted.  The right kidney measures
+13.9cm and the left, 15.7 cm.  The IVC and Aorta are not
+visualized
+Impression:  Hepatic cellular steatosis.  Limited evaluation as
+described above.
+
+TTE 2014-02-05 00:00:00:
+This was a technically difficult study secondary to poor
+penetration.  Moderate left atrial enlargement.  Other chamber
+sizes are within normal limits.  Left ventricular wall thickness
+and systolic function overall preserved estimated at 60-65%.
+There are no regional wall motion abnormalities seen.  Trace
+mitral and tricuspid regurgitation are noted.  There is no
+evidence of a significant pericardial effusion or an
+intracardiac mass.  Given the technical limitations of the
+study, a vegetation cannot be excluded.
+
+EKG:  2014-02-05 00:00:00 from UPMCE EKG read (no EKG present) Atrial
+fibrillation with rapid ventricular response
+Possible Inferior infarct (cited on or before 2014-02-05 00:00:00)
+Abnormal ECG When compared with ECG of 2014-02-05 00:00:00 07:42,
+Atrial fibrillation has replaced Sinus rhythm
+Vent. rate has increased BY  43 BPM
+Left posterior fascicular block is no longer Present
+ST now depressed in Anterior leads
+Nonspecific T wave abnormality, worse in Inferior leads
+T wave inversion no longer evident in Lateral leads
+
+UPMCE IMAGES:
+L ankle film (2014-02-05 00:00:00):
+FINDINGS: No 123 Any St.us images. There is diffuse soft tissue
+prominence about the ankle joint. There is substantial narrowing
+of the tibiotalar articulation, though no definite erosions are
+ap123 Any St.ted. If there is a serious clinical concern for
+infection, MRI would be the next imaging procedure.
+
+MR Devohn Naas w/ and w/out contrast (2014-02-05 00:00:00):
+IMPRESSION: Extremely limited study with motion; although there
+is no large epidural abscess seen or prevertebral abscess
+identified or obvious evidence of discitis or osteomyelitis
+seen. Subtle changes within the spinal canal could not be
+excluded. If there is continued clinical concern, a repeat study
+preferably with sedation can help.
+
+MR T- and L-spine w/ and e/out contrast (2014-02-05 00:00:00):
+IMPRESSION: Heterogeneous pattern of enhancement identified in
+the lumbar spine posteriorly, likely consistent with an early
+epidural phlegmon or epidural abscess formation, extending from
+L2/L3 through L4/L5 levels, causing significant narrowing of the
+thecal sac posteriorly. There is also evidence of fat stranding
+and edema in the paravertebral soft tissues at L3, L4 and L5
+levels as described above with loss of the muscular plane and
+fat on the left at L4 level. The examination is limited due to
+the patient habitus and epidural lipomatosis, grossly in the
+thoracic spine, there is no evidence of
+spinal cord compression or intrinsic signal changes within the
+thoracic spinal cord.
+
+CXR (2014-02-05 00:00:00):
+IMPRESSION: AP chest reviewed in the absence of prior chest
+imaging:
+Extremely low lung volumes are responsible for considerable
+anatomic
+distortions, including crowding of pulmonary vasculature and
+widening of the cardiomediastinal silhouette. Nevertheless,
+there could be a mediastinal adenopathy though there is also
+undoubtedly a contribution of fat deposition.  There is no focal
+pulmonary consolidation, but there could be mild generalized
+interstitial abnormality. Pleural effusions are small, if any. I
+would strongly urge conventional chest radiographs and if
+serious questions of
+abnormality remain clarification by a chest CT scan, if that is
+justified clinically. No pneumothorax.
+
+TTE ECHO (2014-02-05 00:00:00):
+IMPRESSION: Very suboptimal image quality. Normal biventricular
+cavity sizes with preserved global biventricular systolic
+function. No definite valvular pathology or pathologic flow
+identified.
+If the clinical suspicion for endocarditis is moderate or high,
+a TEE is suggested to assess the valves.
+
+MICRO:
+
+2014-02-05 00:00:00 7:01 pm JOINT FLUID      Source: left ankle.
+
+                            **FINAL REPORT 2014-02-05 00:00:00**
+
+   GRAM STAIN (Final 2014-02-05 00:00:00):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Final 2014-02-05 00:00:00):    NO GROWTH.
+-----------
+
+2014-02-05 00:00:00 4:30 pm TISSUE
+      SUPERFICIAL POSTERIOR PARASPINAL MUSCLE ADDON PER MCU Devohn
+Devohn
+      Naas 2014-02-05 00:00:00 @630PM.
+
+                            **FINAL REPORT 2014-02-05 00:00:00**
+
+   GRAM STAIN (Final 2014-02-05 00:00:00):
+      3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND SINGLY.
+      Reported to and read back by Devohn Naas Esaw Fenchak
+2014-02-05 00:00:00 2014-02-05 00:00:00.
+
+   TISSUE (Final 2014-02-05 00:00:00):
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------<=0.25 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Final 2014-02-05 00:00:00):    NO ANAEROBES ISOLATED.
+
+
+   FUNGAL CULTURE (Final 2014-02-05 00:00:00):    NO FUNGUS ISOLATED.
+
+
+Brief Hospital Course:
+The patient is a 52 yo man with h/o CAD, HTN, A-FIB (Coumadin)
+who presented with back pain, found to have MSSA bacteremia and
+epidural abscess s/p drainage, with a hospital course
+complicated by Acute Renal Failure and hospital-acquired
+pneumonia, which both improved prior to discharge.
+
+# Sepsis seconary to MSSA epidural abscess: The patient
+initially presented to his internist's office and was referred
+to an outside hospital, prior to the diagnosis with Staph
+bacteremia and was later with an epidural collection consistent
+with abcess.  MRI at OSH and at UPMCE was consistent with
+epidural abscess L2-L4/5. Patient underwent OR drainage of the
+abcess by ortho spine.  Cultures subsequently grew MSSA,
+prompting the initial use of nafcillin.  At the time of
+diagnosis with hospital-acquired pneumonia, the patient was
+transitioned to Vancomycin and Cefepime, but was transitioned
+back to nafcillin and later cefazolin for ongoing treatment of
+his epidural space infection.
+
+The patient initially required q4h neuro checks given risk of
+epidural hematoma formation, and required medical ICU coverage
+earlier in his hospital course.  After transfer to the hospital
+medicine service, the patient remained hemodynamically stable
+without any signs of sepsis. The patient remained afebrile.
+After he completed his course of IV vancomycin and cefepime the
+patient was transitioned back to nafcillin. Patient subsequently
+developed a drug rash lattributed most likely to the nafcillin,
+at which point he was switched to cefazolin. The rash stabilized
+and slowed in its progression prior to his discharge. The
+patient will be discharged on a protracted course of cefazolin.
+He is being followed with the infectious disease specialists and
+they will monitor him for the length of his antibiotic coverage.
+
+
+# MSSA septicemia: The patient initially presented with evidence
+of sepsis with tachycardia, to the outside hospital, in the
+setting of positive blood cultures with MSSA.  Once the blood
+cultures were noted to be positive at OSH for MSSA, the patient
+was started on nafcillin. He was subsequently treated with
+vancomycin/cefepime before thansitioning to nafcillin again and
+then to cefazolin as noted above.  TTE was without signs of
+endocarditis.  Blood cultures from UPMCE did reveal MSSA, but
+later in his course, serial surveillance cultures did not show
+bacterial growth.  Arthrocentesis did not reveal  clear evidence
+of  joint space involvement.  Per ID, the patient will require a
+2014-02-05 00:00:00 week course of antibiotics. Although there is no
+identifiable source for his bacteremia it is likely secondary to
+skin breakdown. Patient has no history recently of IV drug
+abuse.
+
+# Left leg gout: LLE edema > R and erythema and tenderness.  No
+evidence of DVT on LENIs.  No evidence of bacteria on gram stain
+of joint tap, but many negative biorefringent crystals consitent
+with a gout flare.  Colchicine was held given worsening renal
+function. After transfer to the medicine floor the patient had
+worsening left ankle pain and swelling. He also complained of
+right ankle and left elbow pain. Presentation is consistent with
+polyarticular gout. Patient was transitioned from 20 mg of p.o.
+prednisone 60 mg of p.o. prednisone. Dermatology was consulted
+and recommended this dose change. The patient will be sent out
+on prednisone with a taper until his symptoms improve. A second
+arthrocentesis performed the left ankle to insure that he did
+not have a septic arthritis as he was at risk to do his
+bacteremia and [** Location **]us arthrocentesis. The cultures remained
+negative after the second arthrocentesis.
+
+# Afib with RVR: Started on po dilt at OSH after initiation of
+dilt gtt for afib w/ RVR.  Once on the medicine floor pt
+triggered for A fib with RVR to the 150's.  Once in the MICU he
+was initiated on a dilt gtt.  His dilt gtt was increased to 20
+mcg/hr without adequate control of his heart rate.  Amiodarone
+was briefly started, but was discontinued as it was felt that
+concerting the pt to sinus rhythm would produce an increased
+risk of thromboembolism.  Amiodarone was then stopped,
+metoprolol boluses were initiated and dilt gtt was weaned.  On
+transfer to the floor pt was well controlled on metoprolol 10 mg
+q6h IV. The patient was transitioned to 25 mg every 6 hours. He
+remained stable on the floor and had no episodes of rapid
+ventricular response. The patient was continued on a heparin
+drip as her main subtherapeutic from his warfarin. The patient
+will be sent to his rehabilitation facility with a heparin drip
+as he is transitioned to a therapeutic level on his current
+warfarin dosing.
+
+#ARF:  Pt's creatinine increased to 4.3 from a baseline of 1.0.
+This was thought to be from a pre-renal etiology as the pt was
+diuresed with IV lasix upon presentation to the MICU.  In
+addition, he had nearly a 5-6 L NG tube output once an NGT was
+placed.  A few muddy brown casts were seen on urinalysis.
+Creatinine has begun to downtrend on transfer from the MICU. On
+for the patient's urine output remained stable and his
+creatinine returned to almost baseline and was 1.6 and his day
+of discharge.
+
+#Drug rash: Prior to his discharge patient developed a rash on
+his extremities consistent with a drug rash. The development
+conincided with the reinitiation of the nafcillin. The nafcillin
+was discontinued and he was transitioned to cefazolin. The rash
+improved prior to his discharge to rehab. While there was
+concern for the potentialcross-reactivity with the cefazolin,
+the type of hypersensitivity reaction, as well as the desire to
+maintain a bacteriacidal Esaw Fenchak led the team to continue with
+cefazolin with planned careful monitoring.  The ID team planned
+close follow-up as well, in the event that a change in gents was
+required, given the expected duration of antibiotics.
+
+#Ileus:  Pt developed a post-op ileus following episdural
+abscess surgery.  An NGT was placed and 5-6 L of output was
+immediately seen.  Pt was kept NPO until he was able to pass
+flatus and have BM.  On the day prior to transfer to the
+medicine floor he had three large BM's and had a significant
+decrease in his abdominal pain. On the floor the patient had no
+nausea or vomiting had regular bowel movements and tolerated a
+regular diet.
+
+#Healthcare associated pneumonia: After the patient's surgical
+intervention he began to have increased harsh requirements and
+hypoxia as well shortness of breath and fever. The patient's
+chest x-ray was consistent with pneumonia. The patient initiated
+a course of IV vancomycin and cefepime for total 7 days. The
+patient's oxygen requirements were weaned quickly and at the
+time of his transfer to the medicine floor from the MICU the
+patient no longer required supplemental oxygen.
+
+#Anemia: Postoperatively the patient received 2 units of packed
+red blood cells. After that time the patient's hematocrit is
+Foley downtrend on the medical floor. He had a negative
+hemolysis labwork. He had guaiac negative stools. The patient
+was transfused and additional unit of packed red blood cells.
+His hematocrit stabilized around 23%. There is no clear cause
+for his anemia but he remained stable multiple days prior to his
+discharge. We are recommending that the patient has surveillance
+hematocrits drawn while at rehabilitation to monitor for need
+for transfusion if his hematocrit just below 21%.
+
+#Delirium: Patient had an episode of delirium on the medical ICU
+and required intramuscular Haldol. He responded well. On the
+floor the patient was noted to be somewhat confused at times.
+His opiate analgesics were weaned and the patient's sensorium
+cleared. The patient is alert and oriented times discharge.
+
+=================================================
+TRANSITIONAL ISSUES
+=================================================
+
+# Pulmonary nodules: monitor as outpatient, follow up --> to
+ensure resolution
+# Drug rash: Need to monitor for worsening or new rash. If so
+consider cefazolin as the source.
+
+Medications on Admission:
+Medications at home:  per UPMCE records
+-indomethacin 50 t.i.d. x5 days
+-prednisone 20 a day x7days
+-Coumadin 2.5mg daily
+-Crestor 40 daily
+-Lotrel 10/40
+-citalopram 40
+-amlodipine
+-Arthrotec 75/200 UPMCE
+-carvedilol 3.125 mg b.i.d.
+-fenofibrate 160 once a day
+-Lexapro 20 daily
+-colchicine 0.6mg UPMCE
+-probenecid 500mg daily
+.
+UPMCE Transfer Meds:
+COLCHICINE TABLET 0.6 MG daily
+IBUPROFEN TABLET  600 MG q6hrs prn pain
+
+ESCITALOPRAM OXALATE TABLET  20 MG   daily
+CYCLOBENZAPRINE TABLET 10mg UPMCE
+ACETAMINOPHEN TABLET 650 MG  Every 4 Hours prn pain/fever
+DILTIAZEM TABLET 60 MG QID
+HYDROmorphone VIAL 2 MG  Every 3 hours IV prn pain
+OXACILLIN SODIUM VIAL  2gram  Every 4 Hours IV
+ALBUTEROL 0.083% NEB Devohn Naas 1 NEB  Every 6 Hours  neb
+
+
+Discharge Medications:
+1. prednisone 10 mg Tablet Sig: Six (6) Tablet PO once a day:
+60mg for 5 days then 40mg for 3 days then 20mg for 3 days then
+10mg for 3 days then 5mg for 4 days.
+2. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+3. Crestor 40 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Lotrel 10-40 mg Capsule Sig: One (1) Capsule PO once a day.
+5. escitalopram 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+6. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours).
+7. oxycodone 5 mg Capsule Sig: 2014-02-05 00:00:00 Capsules PO every four (4)
+hours as needed for pain.
+Disp:*60 Capsule(s)* Refills:*0*
+8. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain.
+9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily): hold for loose stools.
+11. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day): hold for loose stools.
+12. cefazolin 10 gram Recon Soln Sig: Two (2) grams Injection
+Q8H (every 8 hours).
+13. heparin (porcine)-0.45% NaCl 12,500 unit/250 mL Parenteral
+Solution Sig: 2200 (2200) units Intravenous per hour: goal PTT
+60-100 seconds; check PTT UPMCE and adjust drip as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE
+
+Discharge Diagnosis:
+Severe sepsis secondary to epidural abscess
+Acute renal failure
+Anemia
+Health care associated pneumonia
+Atrial fibrillation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Mr. Naas,
+
+You were hospitalized for a severe infection in the epidural
+space in your back. You required surgical intervention. During
+your stay you developed a pneumonia and acute renal failure. You
+were treated with antibiotics for the back infection and
+pneumonia. You are being sent to the rehab with plans for
+multiple weeks of IV antibiotics. The infectious diease doctors
+Devohn Naas be managing the antibiotics. You also required blood
+transfusion during your stay. You received a total of 3 units of
+packed red blood cells. Your blood level stabilized. You were
+also found to have an abnormal heart rhythm called atrial
+fibrillation. We are treating you with medication to prevent
+blood clots. This will be managed by the rehab that you go to.
+
+Medication changes:
+STOP probenecid
+STOP colchicine
+Add prednisone
+Stop indomethacin
+ADD metoprolol 25mg by mouth every 6 hours
+ADD cefazolin 2 grams IV every 8 hours
+
+Followup Instructions:
+Name: Naas, Devohn Esaw Fenchak Naas
+Location: UPMCE/ORTHOPEDICS
+Address: 123 Any St.,[**Numeric Identifier 711**]
+Phone: test@mail.com
+When: Friday, 2014-02-05 00:00:00:00 AM
+
+Department: INFECTIOUS DISEASE
+When: TUESDAY 2014-02-05 00:00:00 at 10:00 AM
+With: Devohn Naas, MD test@mail.com
+Building: LM UPMCE Basement
+Campus: WEST     Best Parking: UPMCE Garage
+
+You should also follow up in the rheumatology clinic in 5 weeks.
+You can call test@mail.com to make an appointment with Dr.
+Naas.
+
+
+

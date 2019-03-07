@@ -1,0 +1,306 @@
+Admission Date:  2009-12-25 00:00:00              Discharge Date:   2009-12-25 00:00:00
+
+Date of Birth: 1980-12-16 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+Codeine
+
+Attending:Hasel Domec
+Chief Complaint:
+Weakness for one week
+
+Major Surgical or Invasive Procedure:
+RIGHT CRANIOTOMY FOR EVACUATION OF SUBDURAL HEMORRHAGE
+
+
+History of Present Illness:
+79 year old male presents with generalized weakness for the
+last week.  He says that he feels like he has been moving slow
+and his wife notes that he has needed help getting dressed and
+it
+seems like he is dragging his left leg sometimes.  He denies any
+falls but does note that he sometimes feels like he loses his
+balance.  No other complaints, no history of trauma, no
+headaches.
+(per admission note)
+
+Past Medical History:
+chronic UTIs, hypercholesterolemia, HTN
+
+
+Social History:
+lives with wife, denies tobacco or EtOH use
+
+
+Family History:
+n/c
+
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+O: T: 97.1 BP: 126/74   HR: 60   R  16     O2Sats 97% RA
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: PERRL        EOMs intact
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3mm to 2mm
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+Hasel Domec: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power 2009-12-25 00:00:00, except L deltoid/bicep/tricep
+5-. No pronator drift
+
+Sensation: Intact to light touch,
+
+
+Pertinent Results:
+2009-12-25 00:00:00 05:40AM BLOOD WBC-9.3 RBC-3.69* Hgb-10.8* Hct-31.0*
+MCV-84 MCH-29.3 MCHC-34.8 RDW-13.6 Plt Ct-204
+2009-12-25 00:00:00 01:53AM BLOOD WBC-9.6 RBC-3.89* Hgb-11.6* Hct-32.7*
+MCV-84 MCH-29.7 MCHC-35.3* RDW-13.9 Plt Ct-209
+2009-12-25 00:00:00 06:45AM BLOOD WBC-8.2 RBC-4.23* Hgb-13.0* Hct-35.7*
+MCV-84 MCH-30.8 MCHC-36.5* RDW-14.0 Plt Ct-172
+2009-12-25 00:00:00 03:25PM BLOOD WBC-9.6 RBC-3.84* Hgb-11.5* Hct-32.2*
+MCV-84 MCH-29.8 MCHC-35.6* RDW-13.6 Plt Ct-208
+
+2009-12-25 00:00:00 01:53AM BLOOD Neuts-79.1* Lymphs-13.2* Monos-6.2
+Eos-1.2 Baso-0.3
+2009-12-25 00:00:00 10:28AM BLOOD Neuts-63.4 Lymphs-26.9 Monos-6.0 Eos-3.5
+Baso-0.2
+2009-12-25 00:00:00 05:40AM BLOOD Plt Ct-204
+2009-12-25 00:00:00 04:50AM BLOOD PT-13.2 PTT-28.3 INR(PT)-1.1
+2009-12-25 00:00:00 01:53AM BLOOD Plt Ct-209
+2009-12-25 00:00:00 01:53AM BLOOD PT-22.2* PTT-49.2* INR(PT)-2.1*
+2009-12-25 00:00:00 06:45AM BLOOD Plt Ct-172
+2009-12-25 00:00:00 03:25PM BLOOD Plt Ct-208
+2009-12-25 00:00:00 03:01AM BLOOD Plt Ct-141*
+2009-12-25 00:00:00 02:15AM BLOOD Ret Aut-2.6
+2009-12-25 00:00:00 05:40AM BLOOD Glucose-140* UreaN-13 Creat-0.6 Na-133
+K-3.6 Cl-101 HCO3-25 AnGap-11
+2009-12-25 00:00:00 01:53AM BLOOD Glucose-164* UreaN-19 Creat-0.7 Na-133
+K-3.9 Cl-100 HCO3-24 AnGap-13
+2009-12-25 00:00:00 06:45AM BLOOD Glucose-173* UreaN-14 Creat-0.7 Na-133
+K-4.5 Cl-97 HCO3-23 AnGap-18
+2009-12-25 00:00:00 03:25PM BLOOD Glucose-192* UreaN-13 Creat-0.6 Na-135
+K-4.1 Cl-100 HCO3-25 AnGap-14
+2009-12-25 00:00:00 05:40AM BLOOD Calcium-8.5 Phos-3.0 Mg-2.3
+2009-12-25 00:00:00 01:53AM BLOOD Calcium-8.8 Phos-3.3 Mg-2.4
+2009-12-25 00:00:00 06:45AM BLOOD Calcium-8.9 Phos-3.3 Mg-2.2
+2009-12-25 00:00:00 05:40AM BLOOD Phenyto-12.5
+2009-12-25 00:00:00 01:53AM BLOOD Phenyto-14.3
+2009-12-25 00:00:00 06:45AM BLOOD Phenyto-10.7
+
+CT HEAD W/O CONTRAST  2009-12-25 00:00:00 9:07 AM
+CT HEAD W/O CONTRAST
+Reason: f/u
+UNDERLYING MEDICAL CONDITION:
+79 year old man with subdural hematoma evacuated
+REASON FOR THIS EXAMINATION:
+f/u
+CONTRAINDICATIONS for IV CONTRAST: None.
+ROUTINE UNENHANCED CT HEAD
+Comparison is made with 2009-12-25 00:00:00.
+FINDINGS:
+There are changes from a right frontal craniotomy. Mixed density
+right frontal temporal subdural hematoma is unchanged in size
+and appearance. There is stable midline shift to the left.
+Otherwise, no change from prior study is seen. There is
+scattered ethmoid opacification bilaterally.
+IMPRESSION:
+Stable mixed density right hemis123 Any St. subdural hematoma.
+
+MR HEAD W/O CONTRAST  2009-12-25 00:00:00 3:03 PM
+MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST
+Reason: 79 year old man with SDH, stable on CT, increased left
+weakn
+UNDERLYING MEDICAL CONDITION:
+79 year old man with SDH, stable on CT, increased left weakness,
+r/o stroke, DWI
+REASON FOR THIS EXAMINATION:
+79 year old man with SDH, stable on CT, increased left weakness,
+r/o stroke, DWI
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+MR HEAD
+HISTORY: 79-year-old man with subdural hematoma with increased
+left-sided weakness, assess for stroke.
+TECHNIQUE: Multiplanar multisequence MR images of the head was
+attempted but was incomplete due to patient motion despite
+medication and restraints. Specifically, DWI was not performed.
+FINDINGS: Study is markedly limited by patient motion.
+Comparison is made to CT from the same date.
+Again seen is a large subdural hematoma overlying the left
+cerebral convexity, which is not significantly changed. There is
+right to left shift of the normally midline structures as
+before. The ventricles appear unchanged in size.
+IMPRESSION: Markedly limited study due to patient motion. DWI
+was not performed.
+No significant change in large right-sided subdural hematoma
+causing right to left midline shift.
+
+
+Brief Hospital Course:
+The patient is a 79-year-old male who presents with progressive
+decline in mental status. CT scan showed a large right subdural
+hematoma with different ages of blood and multiple membranes.
+Surgery was suggested by dr. Meister, and the patient  as
+well as the family decided to proceed with the procedure.
+He underwent a Right craniotomy for subdural hematoma
+evacuation, and his post-op neuro exam was intact. Post-op CT
+shows partial evacuation of hematoma with some residual SDH. His
+UA was negative for UTI.
+On 2009-12-25 00:00:00 he was transfered to step down and his Foley was d/c.
+On 2009-12-25 00:00:00 he was transfered to floor. Repeated CT on 2009-12-25 00:00:00 showed
+enlarged SDH, and the patient was transfer to ICU.
+On 2009-12-25 00:00:00 his head CT was slightly worse; however his neuro exam
+had improved. On the same day he was tranfused with Platelets.
+On  2009-12-25 00:00:00 repeated is CT stable, and was transfered to floor. His
+neuro exam was improved as well, and he was alert and oriented x
+3.
+On 2009-12-25 00:00:00 he developed altered mental status, MRI, Chest XR, EKG,
+blood cultures, UA, was done, and Ceftriaxone was started. On
+the same day he was transfered to ICU. MRI imaging was limited,
+with unchanged SDH.
+On 2009-12-25 00:00:00 his mental status and neuro exam had greatly improved and
+he was transfered to floor
+ID was consulted and recomended Amoxicillin, to be followed with
+his outpatient dose of Cipro.
+Physical therapy was consulted as well, and they have
+recommended rehabilitation placement.
+On 2009-12-25 00:00:00 mr. Meister is AxO x 3, neuro exam greatly improved
+with minimal L pronator drift. His overall BUE stregth is 2009-12-25 00:00:00,
+and BLE stregth IP is 5-/5, and rest of muscle groups is 2009-12-25 00:00:00.
+Mr. Meister and the family agree with rehabilitation placement
+and plan.
+
+Medications on Admission:
+Cipro 500mg qod,
+lipitor 10mg qd,
+terazosin 1mg qd,
+ASA 325 qd
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain/fever.
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+6. Terazosin 1 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime).
+7. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule
+PO TID (3 times a day).
+9. Bimatoprost 0.03 % Drops Sig: One (1)  Ophthalmic QHS (once a
+day (at bedtime)).
+10. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+11. Ferrous Gluconate 300 mg (35 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+12. Amoxicillin 500 mg Capsule Sig: One (1) Capsule PO Q8H
+(every 8 hours) for 14 days: 2009-12-25 00:00:00 - 2009-12-25 00:00:00 (this includes 2
+days of Ceftriaxone).
+13. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO q 48
+hours: Please start after Amox therapy finished.
+14. Outpatient Lab Work
+WEEKLY DILANTIN LEVEL
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+Right SUBDURAL HEMORRHAGE
+
+
+Discharge Condition:
+NEUROLOGICALLY STABLE
+
+
+Discharge Instructions:
+??????	Have a member of rehabilitation facility check your incision
+daily for signs of infection
+??????	Take your pain medicine as prescribed
+??????	Exercise should be limited to walking; no lifting, straining,
+excessive bending
+??????	You may wash your hair only after sutures and/or staples have
+been removed
+??????	You may shower before this time with assistance and use of a
+shower cap
+??????	Increase your intake of fluids and fiber as pain medicine
+(narcotics) can cause constipation
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, aspirin, Advil,
+Ibuprofen etc.
+??????	If you have been prescribed an anti-seizure medicine, take it
+as prescribed and follow up with laboratory blood drawing as
+ordered
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING:
+
+??????	New onset of tremors or seizures
+??????	Any confusion or change in mental status
+??????	Any numbness, tingling, weakness in your extremities
+??????	Pain or headache that is continually increasing or not
+relieved by pain medication
+??????	Any signs of infection at the wound site: redness, swelling,
+tenderness, drainage
+??????	Fever greater than or equal to 101?????? F
+
+
+Followup Instructions:
+PLEASE HAVE WEEKLY DILANTIN LEVEL DONE AT THE REHABILITATION
+FACILITY AND THEREAFTER UNTIL YOUR FOLLOW UP WITH DR.
+Meister. PLEASE HAVE THE RESULTS FAXED TO test@mail.com
+
+PLEASE HAVE YOUR STAPLES REMOVED ON 2009-12-25 00:00:00 AT THE
+REHABILITATION FACILITY BY A HEALTH CARE PROVIDER
+
+PLEASE CALL test@mail.com TO SCHEDULE AN APPOINTMENT WITH DR.
+Meister TO BE SEEN IN 4 WEEKS.
+YOU WILL  NEED A CAT SCAN OF THE BRAIN WITHOUT CONTRAST
+
+PLEASE CALL test@mail.com TO SCHEDULE AN APPOINTMENT WITH DR.
+Meister IN UROLOGY IN TWO WEEKS.
+YOU 2009-12-25 00:00:00 NEED TO FOLLOW UP WITH INFECTIOUS DISEASE PER DR.Hasel Domec
+DISCRETION.
+Provider: Amaryana Meister,Amaryana Meister PASTOR ENDOSCOPY SUITES Date/Time:2009-12-25 00:00:00
+9:30
+Provider: Amaryana Meister SUITE GI ROOMS Date/Time:2009-12-25 00:00:00 9:30
+
+
+                             Amaryana Meister Amaryana Meister MD 27349
+
+Completed by:2009-12-25 00:00:00

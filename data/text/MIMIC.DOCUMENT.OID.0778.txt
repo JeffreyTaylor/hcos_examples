@@ -1,0 +1,534 @@
+Admission Date:  2005-04-18 00:00:00              Discharge Date:   2005-04-18 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Enalapril / Ace Inhibitors
+
+Attending:Drewry Eichwald
+Chief Complaint:
+Right arm tingling
+
+Major Surgical or Invasive Procedure:
+Left Craniotomy for resection of mass
+
+
+History of Present Illness:
+Asked to eval this 86 year old white RHM who appears younger
+than his stated age for newly diagnosed brain mass. He takes
+daily ASA and coumadin for AFIB.  Pt and wife give history.
+They report that he has had frequent falls recently, the latest
+being yesterday.  He did strike his head yeadsterday but did not
+have LOC or sz.  He has baseline incontinence from prostate CA
+and straight caths 6 xs day for this.  He feels that he has been
+falling due to weakness on his right side.  Due to the falls he
+has had exacerbation of his back pain.  He stopped his coumadin
+one week ago for planned EDSI at UPMCE.  After his
+EDSI he walked himself over to a neurology clinic requesting to
+be seen - he had imaging and was sent here for neurosurgical
+evaluation.  Admits to pain at back of head, Denies dizziness,
+N/V, sz, CP or SOB.
+
+
+Past Medical History:
+HTN
+MI 2005-04-18 00:00:00-20 yrs ago (no PPM / no stents)
+Prostate CA s/p RT and hormone therapy
+sleep apnea / utilizes CPAP machine
+baseline incontinence
+AFIB
+high cholesterol
+TB s/p 1 year of medical therapy many years ago.
+
+
+Social History:
+lives with wife at home (one fight of stairs to basement),
+retired manager, remote tobacco use (quit>20yrs ago),
+occassional wine
+
+
+Family History:
+unknown
+
+Physical Exam:
+On Admission:
+O: T:97.1  BP:203 / 63  HR: 61   R 18      O2Sats99
+Gen: well appearing male WD/WN, comfortable, NAD.
+HEENT: Pupils: 2-1 mm bilaterally / NC / abrasion noted to
+occiput with minimal bruising / small hematoma noted  EOMs /
+negative battle sign negative raccoon
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused. / bruises noted /scattered and
+small
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 2 to 1
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+Drewry Eichwald: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power 2005-04-18 00:00:00 throughout left side / RUE full
+with slight LE motor weakness in IP QUAD HAM 2005-04-18 00:00:00.  Right
+prontation.
+
+Sensation: Intact to light touch,
+
+No clonus
+
+
+On Discharge:
+VS: T 97.3, BP 110/56, HR 56, RR 18, O2 sat 97% RA
+GEN: A&O x 3, comfortable, appropriate
+HEENT: surgical scar healing, c/d/i
+NECK: Supple
+CHEST: CTAB, no w/r/r
+CV: RRR, no m/r/g
+ABD: normal BS, soft, NT, ND
+EXT: warm, no edema
+NEURO: CNII-XII grossly intact.  Moving all extremities equally.
+ Strength 5/5 biceps, triceps, plantar flexion and dorsiflexion,
+equivalent bilaterally.
+
+
+Pertinent Results:
+Admission Labs:
+2005-04-18 00:00:00 02:45PM   GLUCOSE-120* UREA N-22* CREAT-0.9 SODIUM-139
+POTASSIUM-4.2 CHLORIDE-103 TOTAL CO2-27 ANION GAP-13
+2005-04-18 00:00:00 02:45PM   ALBUMIN-4.3
+2005-04-18 00:00:00 02:45PM   CRP-15.7*
+2005-04-18 00:00:00 02:45PM   SED RATE-30*
+2005-04-18 00:00:00 02:45PM   WBC-7.7 RBC-4.22* HGB-13.7* HCT-39.2* MCV-93
+MCH-32.4* MCHC-34.9 RDW-13.6
+2005-04-18 00:00:00 02:45PM   NEUTS-90.8* LYMPHS-7.2* MONOS-1.6* EOS-0.3
+BASOS-0.1
+2005-04-18 00:00:00 02:45PM   PLT COUNT-143*
+2005-04-18 00:00:00 05:10AM BLOOD PT-13.3 PTT-23.3 INR(PT)-1.1
+
+Discharge Labs:
+2005-04-18 00:00:00 05:55AM BLOOD WBC-6.9 RBC-4.46* Hgb-14.3 Hct-40.9
+MCV-92 MCH-32.1* MCHC-35.0 RDW-13.6 Plt Ct-122*
+2005-04-18 00:00:00 05:55AM BLOOD Glucose-97 UreaN-27* Creat-0.9 Na-137
+K-4.1 Cl-102 HCO3-26
+2005-04-18 00:00:00 05:55AM BLOOD Calcium-8.6 Phos-4.0 Mg-2.1
+
+Microbiology:
+2005-04-18 00:00:00 3:10 pm URINE     Site: CATHETER
+
+                            **FINAL REPORT 2005-04-18 00:00:00**
+
+   URINE CULTURE (Final 2005-04-18 00:00:00):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Studies:
+Brain MRI w/w/o contrast 2005-04-18 00:00:00 -
+A large mass measuring 3.2-cm in greatest dimension is present
+within the
+left posterior parasagittal parietal lobe. The mass is complex
+in its signal characteristics demonstrating peripheral irregular
+enhancement with central non-enhancement as well as peripheral
+slow diffusion. Tumor is felt most likely with central necrosis,
+although typically, central necrosis has homogeneous T2
+hyperintensity centrally whereas this lesion demonstrates T2
+isointensity. A complex hemorrhage is a possibility, although
+the CT obtained at outside institution demonstrates that this
+mass is not hyperdense, in a patient with anemia, it is possible
+that the density may be diminished. Possibly, both may be the
+case, a tumor with complex hemorrhage. Abscess is considered
+less likely given that centrally the lesion is hypointense on
+diffusion with peripheral slow diffusion.
+
+2. Multifocal confluent and FLAIR hyperintensities are present
+within the
+periventricular and subcortical white matter without restricted
+diffusion or gradient signal artifact likely representing the
+sequela of chronic small vessel ischemic disease.
+
+C/A/P CT 2005-04-18 00:00:00 -
+1. Left upper lobe soft tissue mass with coarse calcification,
+associated
+traction bronchiectasis, and calcified hilar nodes. Additionally
+pleural
+calcification can be seen in prior asbestos exposure. There is
+underlying
+emphysema. These findings are worrisome for malignancy, though
+prior
+granulomatous infection might also have this appearance.
+Correlation with
+further studies (e.g. PET-CT, and/or biopsy) is recommended.
+
+2. There is no evidence of malignancy of the abdomen or pelvis.
+
+Head Ct 2005-04-18 00:00:00 -
+1. Status post resection of a left parietal mass with expected
+post-surgical sequelae including pneumocephalus as well as some
+blood products within the surgical bed.
+2. Layering pneumocephalus along the left frontal cerebral
+hemisphere with adjacent mass effect.
+3. Ventricles appear more prominent on today's study compared to
+MRI of 2005-04-18 00:00:00, concerning for early ventriculomegaly.
+Recommend followup CT to monitor.
+4. Extensive periventricular and subcortical white matter
+hypodensities, more prominent on the left versus the right are
+relatively unchanged since MRI
+
+Brain MRI 2005-04-18 00:00:00 -
+1. Status post resection of left parietooccipital mass with
+blood products at the surgical site without definite residual
+enhancement. Pneumocephalus is seen and expected post-surgical
+changes seen at the surgical site.
+
+2. Linear area of restricted diffusion, extending deeper from
+the surgical site to the left periatrial region could represent
+an area of ischemia adjacent to the surgical site. Clinical
+correlation recommended.
+
+3. Changes of small vessel disease and brain atrophy. No other
+enhancing
+brain lesions.
+
+
+Brief Hospital Course:
+Admitted to Neurosurgery for workup of new Left parietal lesion.
+ Coumadin and aspirin were held on admission.  MRI with and
+without Gadolinium revealed only the one solitary left parietal
+lesion and therefore the decision was made to resect the lesion.
+ Steroids were held for the possiblity of lymphoma.  Concern for
+metastatic prostate CA to the brain was low, however CT
+chest/Abd/Pelvis was performed for oncological workup.
+Chest/Abd/Pelv CT obtained on 2005-04-18 00:00:00 demonstrated a LUL mass
+with calcifications and b/l hilar adenopathy.  On 2005-04-18 00:00:00,
+patient underwent left-sided craniotomy and ressection of the
+left parietal mass. He was extubated without incident and
+transferred to SICU for management.  His ICU course was
+uneventful.  His post-operative CT and MRI showed post operative
+changes without evidence of new acute hemorrhage.  He was
+trasnferred to the floor in stable condition.
+
+During his course on the floor, patient had persistent
+hypertension. He was started on amlodipine 5mg with minimal
+response. Medicine was consulted for Hypertension management.
+Additionally, Thoracic surgery and neuro oncology were consulted
+regarding the LUL mass and brain mass, respectively.  He was
+transfered to the medicine service for further evaluation and
+management.  The remainder of his course was as follows:
+
+# Left parietal mass/left upper lung mass/likely new cancer
+diagnosis: Patient and wife aware that mass likely represents a
+cancer, most likely metastatic lung cancer, though not certain
+as pathology is pending at time of discharge.  Dexamethasone was
+tapered off.  Keppra was started for seizure prophylaxis and
+should be stopped 10 days following discharge.  Pathology of the
+mass will be followed-up as an outpatient.  Patient should
+follow-up with Dr. Drewry Eichwald
+in thoracics, and medical oncology in the thoracic oncology
+clinic.  He will also need a PET/CT scan as an outpatient for
+further evaluation and staging of his disease.  Please see
+discharge paperwork regarding the appointments that need to be
+scheduled when he arrives at rehab.  Additionally, he will
+require PCP Dauntay Ulrey on discharge from rehab.
+
+# Hypertension: BP was elevated post-op (160 and higher) and
+improved on amlodipine and tapering of the dexamethasone.  He
+was also continued on his home regimen of metoprolol, prazosin,
+and nitroglycerine patch.  BP was 110-130 on day of discharge.
+If blood pressure drops further, decrease amlodipine to 2.5 mg
+daily.
+
+# Urinary incontinence/retension and E. coli urinary tract
+infection: Patient has a history of urinary retension and
+incontince and straight caths himself multiple times per day
+(~2005-04-18 00:00:00).  His urine culture grew >100K E. coli, pan-sensitive.
+He also had an elevated WBC count.  He was started on
+ceftriaxone on 2005-04-18 00:00:00 and is being discharged on cefpodoxime.  He
+should have a total 14 day course for complicated UTI and will
+need 12 additional days on discharge.  Foley catheter was
+removed and regular straight cathing Q3-4 hours per home regimen
+was reinstated to reduce risk of reinfection and promote
+ambulation.
+
+# Atrial fibrillation: Stable.  Patient remained rate controlled
+on home regimen of amiodarone and metoprolol.  Warfarin was
+stopped due to craniotomy and can be restarted on 2005-04-18 00:00:00.  He
+should have his INR checked on 2005-04-18 00:00:00 and every other day until his
+warfarin dose and INR are stabilized.  Goal INR is 2.0-3.0.
+
+# Coronary artery disease: Stable.  Metoprolol and statin
+continued.  Aspirin was held.  It should be restarted on
+2005-04-18 00:00:00.
+
+# Obstructive sleep apnea - Patient was continued on CPAP per
+home regimen.
+
+# Prostate cancer - Patient was continued on bicalutamide.  He
+also receives goserelin injections from his urologist.
+
+# Glaucoma - Continued timolol and lantanoprost eye drops
+
+# Prophylaxis: Subcutaneous heparin, bowel regimen while on pain
+medications that should be weaned off.
+# Code: Full
+# Communication: Patient, HCP Dauntay Ulrey Dauntay Ulrey (wife)
+test@mail.com
+
+On day of discharge, patient is afebrile and vital signs are
+stable.  He is tolerating an oral diet and ambulating with
+assistance.  His wound is clean, dry and intact.  He has no
+focal neurological deficits.
+
+
+Medications on Admission:
+amioderone 200mg dialy
+skelacin 400- 800 mg po tid prn
+lantanoprost 0.005% one drop elft eye daily
+timolol 0.5% 1 drop left eye at hs
+goserelin 10.8 sc
+bicalutamide 50mg daily
+ultram 100mg po tid
+nitro-dur 0.1mg/hr one patch daily and remove HS
+coumadin 4mg tablets / take 2005-04-18 00:00:00 tab po 5x per week and one tab
+on
+wed and saturday
+metoprolol 50 mg po bid
+zocor 40 mg po hs
+prazosin 4mg po bid
+asa 1 tablet daily OTC
+citrucel daily
+vit D 1000 iu daily
+dish oil
+vit B 12
+
+
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain fever.
+2. senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime):
+while taking oxycodone.
+3. cholecalciferol (vitamin D3) 1,000 unit Capsule Sig: One (1)
+Capsule PO once a day.
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime): to left eye.
+7. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic
+DAILY (Daily): to left eye.
+8. nitroglycerin 0.1 mg/hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily): apply in am and remove in pm.
+9. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+10. prazosin 1 mg Capsule Sig: Four (4) Capsule PO BID (2 times
+a day).
+11. simvastatin 40 mg Tablet Sig: One (1) Tablet PO at bedtime.
+
+12. bicalutamide 50 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain: taper back to home regimen of
+tramadol when pain improved.
+14. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+15. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 10 days.
+16. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+17. cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO every
+twelve (12) hours for 12 days.
+18. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO once a day: Do not start taking until 2005-04-18 00:00:00.
+19. warfarin 2 mg Tablet Sig: as directed Tablet PO once a day:
+Start date: 2005-04-18 00:00:00.  Take 2 mg five times per week and 4 mg
+Qwednesday and Qsaturday.  Adjust dose as needed to maintain INR
+2.0-3.0.
+20. Vitamin D 1,000 unit Capsule Sig: One (1) Capsule PO once a
+day.
+21. B-12 DOTS 500 mcg Tablet Sig: One (1) Tablet PO once a day.
+
+22. Miralax 17 gram Powder in Packet Sig: One (1)  PO once a day
+as needed for constipation: if no bowel movement in 2 days.
+23. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection every eight (8) hours: Stop when patient is ambulating
+sufficiently or INR is therapeutic.
+24. Outpatient Lab Work
+INR.  Check 2005-04-18 00:00:00 and every other day until INR is stable on
+coumadin dose.  Please adjust coumadin dose as needed to
+maintain INR 2.0-3.0.
+25. goserelin 10.8 mg Implant Sig: One (1)  Subcutaneous
+Q3months: Per patient's urologist.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Life Care Center of 123 Any St.
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Brain mass
+Left upper lobe lung mass
+Likely metastatic carcinoma
+E. coli urinary tract infection
+
+Secondary Diagnoses:
+Hypertension
+Coronary artery disease
+Prostate cancer
+Obstructive sleep apnea
+Urinary retention and incontinence
+Atrial fibrillation
+Hyperlipidemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted to the hospital following a fall and found to
+have a mass in your brain.  Dr. Drewry Eichwald, your neurosurgeon,
+removed this mass and the pathology to determine exactly what it
+is, is still pending, though it is most likely some form of
+cancer.  You were also found to have a mass in the left upper
+lobe of your lung.  We have scheduled some specialist follow-up
+appointments for you and additional appointments still need to
+be scheduled.  These appointments are important to make sure
+that you receive prompt evaluation and treatment for your
+condition.  Please be sure to make and go to all appointments.
+
+The following changes were made to your medications:
+START Keppra 500 mg twice a day (for seizure prophylaxis).  You
+should stop this medication 10 days after you leave the
+hospital.
+START Cefpodoxime 200 mg every 12 hours (for urinary tract
+infection) for 12 more days.
+START Amlodipine 5 mg daily for blood pressure.  If your blood
+pressure drops below 115 systolic, this medication can be
+stopped.
+START oxycodone 5 mg every 4 hours as needed for pain.  While
+you take this medication, STOP ultram.  As your pain gets
+better, you can stop the oxycodone and go back to ultram.
+START colace, senna, and miralax as needed to prevent
+constipation
+STOP Skelaxin.  You seemed to do okay without this medication.
+START heparin for clot prophylaxis until your INR is therapeutic
+or you are moving enough at rehab to prevent clots.
+You can RESTART your aspirin and warfarin on 2005-04-18 00:00:00.  Please
+get your INR checked on the 4th day thereafter and at least
+every other day until your INR and warfarin dose are stable.
+Goal INR is 2.0-3.0.
+
+Additional instructions from your neurosurgeons are below:
+General Instructions
+??????	Have a friend/family member check your incision daily for
+signs of infection.
+??????	Take your pain medicine as prescribed.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	You may wash your hair only after you have been seen in clinic
+for your wound check. You must keep that area dry for 10 days.
+??????	You may shower before this time using a shower cap to cover
+your head.
+??????	Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace)
+while taking narcotic pain medication.
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and
+Ibuprofen etc.
+??????	If you were on a medication such as Coumadin (Warfarin), or
+Plavix (clopidogrel), or Aspirin, prior to your injury, you may
+safely resume taking this on 2005-04-18 00:00:00.
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit.
+??????	Make sure to continue to use your incentive spirometer while
+at home, unless you have been instructed not to.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING
+
+??????	New onset of tremors or seizures.
+??????	Any confusion or change in mental status.
+??????	Any numbness, tingling, weakness in your extremities.
+??????	Pain or headache that is continually increasing, or not
+relieved by pain medication.
+??????	Any signs of infection at the wound site: redness, swelling,
+tenderness, or drainage.
+??????	Fever greater than or equal to 101?????? F.
+
+
+Followup Instructions:
+Follow-Up Appointment Instructions
+??????You will not need a CT scan of the brain
+??????You will not need an MRI of the brain
+
+Please call the Thoracic Oncology Clinic at 2005-04-18 00:00:00.  You
+will need a PET/CT scan within the next week.  You will also
+need to be seen by one of the medical oncologists there within
+the next 1-2 weeks.
+
+??????You have an appointment in the Brain Tumor Clinic with Dr Dauntay
+Ulrey on 2005-04-18 00:00:00 at 1pm.  The Brain Tumor Clinic is located
+on the 123 Any St..
+Their phone number is test@mail.com. Please call if you need to
+change your appointment, or require additional directions.
+
+Provider: Dauntay Ulrey, MD Phone:2005-04-18 00:00:00
+Date/Time:2005-04-18 00:00:00 9:30 on the UPMCE UPMCE Clinical
+Center 123 Any St..
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY 2005-04-18 00:00:00 at 9:30 AM
+With: Dauntay Ulrey, MD 2005-04-18 00:00:00
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+A day or two before you leave rehab, please call your primary
+care physician's office, Dr. Drewry Eichwald Ulrey, at test@mail.com to
+schedule a follow-up appointment with him within two weeks of
+discharge.
+
+
+
+

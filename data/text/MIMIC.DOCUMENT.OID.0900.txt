@@ -1,0 +1,291 @@
+Admission Date:  2014-03-16 00:00:00              Discharge Date:   2014-03-16 00:00:00
+
+Date of Birth: 1970-03-16 00:00:00 00:00:00             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Arsal Balades
+Chief Complaint:
+CP and fatigue
+
+Major Surgical or Invasive Procedure:
+s/p CABGx3(LIMA->LAD, SVG->OM, PDA) 2014-03-16 00:00:00
+
+
+History of Present Illness:
+This 60 y/o WF has had exertional angina and it has increased to
+having it at rest.  She underwent cardiac cath at UPMCE on 2014-03-16 00:00:00 which revealed 50-60% LM stenosis, 100% RCA
+and she was transferred on 2014-03-16 00:00:00 for cardiac surgery.
+
+Past Medical History:
+CAD
+s/p MI
+PVD
+OA
+s/p cardiac thrombus
+obesity
+s/p carotid->carotid bypass
+s/p TAH
+^chol.
+
+Social History:
+Lives with husband.
+Branigan Mcnerney as a computer operator.
+Cigs: 20-30 pk. yr., quit in 2014-03-16 00:00:00
+ETOH: denies
+
+Family History:
+F died of MI at age 53, brother +CAD
+
+Physical Exam:
+WDWNWF in NAD
+AVSS
+HEENT: NC/AT, PERLA, oropharynx benign
+Neck: FROM, supple, carotids without bruit
+Lungs: Clear to A+P
+CV: RRR without R/G/M
+Abd: +BS, soft, nontender, without masses or hepatosplenomegaly,
+obese
+Ext: without C/C/E, pulses Fem: 2+ bil., DP: 1+ bil., PT: 1+
+bil., Rad: 2+ bil.
+Neuro: nonfocal
+
+Pertinent Results:
+2014-03-16 00:00:00 03:27AM BLOOD WBC-8.3 RBC-3.38* Hgb-10.3* Hct-30.4*
+MCV-90 MCH-30.4 MCHC-33.9 RDW-13.7 Plt Ct-144*
+2014-03-16 00:00:00 08:44PM BLOOD PT-12.9 PTT-29.8 INR(PT)-1.1
+2014-03-16 00:00:00 03:27AM BLOOD Glucose-95 UreaN-15 Creat-0.9 Na-138
+K-4.3 Cl-101 HCO3-29 AnGap-12
+   RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  2014-03-16 00:00:00 4:17 PM
+
+CHEST (PORTABLE AP)
+
+Reason: eval ptx s/p ct d/c
+
+UNDERLYING MEDICAL CONDITION:
+60 year old woman s/p CABG
+REASON FOR THIS EXAMINATION:
+eval ptx s/p ct d/c
+CHEST, AP PORTABLE SINGLE VIEW
+
+INDICATION: Status post bypass surgery. Discontinued lines and
+extubated. Evaluate for pneumothorax.
+
+FINDINGS: AP single view of the chest obtained with patient in
+sitting semi-upright position is analyzed in direct comparison
+with the next preceding chest examination of 2014-03-16 00:00:00.
+During the interval, the patient has been extubated, and the NG
+tube has been removed. The same holds for the Swan-Ganz catheter
+and the sheath which has been replaced with a central venous
+line seen to terminate overlying the SVC at the level 2 cm below
+the carina. No pneumothorax has developed, and no new
+infiltrates are seen. _____ on 123 Any St.us examinations, the noted
+parenchymal densities in the upper lobe areas have resolved.
+They were interpreted as representing edema.
+
+IMPRESSION: Satisfactory chest findings after instrument
+removal, no evidence of pneumothorax.
+
+DR. Arsal Balades Arsal Balades Mcnerney
+UPMCE ECHOCARDIOGRAPHY REPORT
+
+Mcnerney, Branigan       UPMCE [**Numeric Identifier 6026**]       TEE (Complete)
+Done 2014-03-16 00:00:00 at 1:31:43 PM      FINAL
+Referring Physician     Branigan Mcnerney Information
+Branigan Mcnerney, [**First Name3 (LF) **] R.
+Division of Cardiothoracic Arsal Balades
+UPMCE
+123 Any St., [**Numeric Identifier 711**]  Status: Inpatient DOB: 1970-03-16 00:00:00 00:00:00
+Age (years): 60 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Abnormal ECG. Chest pain. Coronary artery disease.
+Shortness of breath.
+ICD-9 Codes: 786.05, 786.51, 440.0
+Test Information
+Date/Time: 2014-03-16 00:00:00 at 13:31    Interpret MD: Branigan Mcnerney, MD
+
+Test Type: TEE (Complete) SonBranigan Mcnerney: Arsal Balades Mcnerney, MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  45% to 55%  >= 55%
+Aorta - Ascending:  3.1 cm  <= 3.4 cm
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. Good (>20 cm/s) LAA ejection
+velocity. Cannot exclude LAA thrombus.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA and extending into the RV. No ASD
+by 2D or color Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness. Normal LV
+cavity size. Mild regional LV systolic dysfunction.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Simple atheroma in ascending aorta. Simple atheroma in
+aortic arch. Complex (>4mm) atheroma in the descending thoracic
+aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened
+aortic valve leaflets. No AS. Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The patient received antibiotic prophylaxis. The
+TEE probe was passed with assistance from the anesthesioology
+staff using a laryngoscope. No TEE related complications.
+patient.
+Conclusions
+PRE-CPB:1. The left atrium is mildly dilated. A left atrial
+appendage thrombus cannot be excluded. No atrial septal defect
+is seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. There is mild regional left
+ventricular systolic dysfunction with anterior mid and apical
+hypokinesis.
+3. . Right ventricular chamber size and free wall motion are
+normal.
+4. There are simple atheroma in the ascending aorta. There are
+simple atheroma in the aortic arch. There are complex (>4mm)
+atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. The aortic valve
+leaflets are mildly thickened. There is no aortic valve
+stenosis. Trace aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Trivial
+mitral regurgitation is seen.
+7. There is a trivial/physiologic pericardial effusion.
+
+POST-CPB: On infusion of phenylephrine. Episode of transient RV
+dysfunction secondary to air visible in RCA. Epi 8-10 mcg given
+with prompt resolution. Preserved biventricular systolic
+function. Trace MR. Aortic contour is normal post decannulation.
+
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by 123 Any St.g
+physician Mcnerney 2014-03-16 00:00:00 16:17
+
+
+
+
+
+
+Brief Hospital Course:
+The patient was transferred from UPMCE on 2014-03-16 00:00:00.
+She had a preop vascular evaluation regarding her 123 Any St.us
+carotid surgery and she was cleared.  Carotid doppler showed a
+patent graft.  On 2014-03-16 00:00:00 she underwent CABGx3(LIMA->LAD,
+SVG->OM, PDA).  The cross-clamp time was 50 mins., total bypas
+time was 66 mins.  She tolerated the procedure well and was
+transferred to the CVICU in stable condition on Neo and
+Propofol.  She was extubated on the post op night and continued
+to progress.  She was on neo and eventually weaned off.  Her
+chest tubes were d/c'd on POD#1 and wires were d/c'd on POD#3.
+She continued to progress and was discharged to home in stable
+condition on POD#4.
+
+Medications on Admission:
+Metformin 1000 mg PO BID
+Avandia 4 mg PO daily
+Fosamax 70 mg PO q week
+Verapamil SR 240 mg PO BID
+Lipitor 80 mg PO daily
+Isordil 140 mg PO TID
+Toprol XL 25 mg PO daily
+Lisinopril 10 mg PO daily
+Folic acid 1 mg PO daily
+ASA 81 ng PO daily
+Nitro spray PRN
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO BID (2 times a day)
+for 7 days.
+Disp:*14 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+8. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Rosiglitazone 8 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.
+Disp:*4 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE
+
+Discharge Diagnosis:
+CAD
+PVD
+OA
+s/p MI
+s/p cardiac thrombus
+obesity
+^chol.
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Follow medications in discharge instructions.
+Do not drive for 4 weeks.
+Do not lift more than 10 lbs. for 2 months.
+Shower daily, let water flow over wounds, pat dry with a towel.
+Do not use creams, lotions, or powders on wounds.
+Call our office with sternal drainage, temp>101.5
+
+Followup Instructions:
+Make an appointment with Dr. Mcnerney for 1-2 weeks.
+Make an appointment with Dr. Mcnerney for 2-3 weeks.
+Make an appointment with Dr. Arsal Balades for 4 weeks.
+Wound check on UPMCE 6 on 2014-03-16 00:00:00 at 11AM.  Call test@mail.com with
+any changes.
+
+
+Completed by:2014-03-16 00:00:00

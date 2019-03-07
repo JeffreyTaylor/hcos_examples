@@ -1,0 +1,205 @@
+Admission Date:  2006-02-02 00:00:00              Discharge Date:   2006-02-02 00:00:00
+
+Date of Birth: 1939-01-27 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Jaiheim Ruemmele
+Chief Complaint:
+s/p MVC
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is a 47 year old female who was in a motor scooter accident
+in 123 Any St. 2 days ago. She reportedly had loss of consciousness
+and was admitted overnight in a hospital in 123 Any St.. Yesterday
+she presented to UPMCE complaining of a headache
+and right elbow pain. A CT of the head there demonstrated right
+skull fractures and a small left intraparenchymal hemorrhage.
+The patient was transferred here in stable condition. Other than
+her headache she is complaining of slight dizziness, but has no
+focal neurologic complaints.
+
+Past Medical History:
+Depression
+
+Social History:
+The patient is married. She occasionally drinks alcohol.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+On admission:
+
+Afebrile, stable vitals
+
+Gen: pleasant, well-developed/well-nourished young female
+Neuro: GCS 15, alert, oriented x 3, pupils 2-->3 bilaterally,
+tongue midline, CN 2-12 grossly intact, Motor 2006-02-02 00:00:00 throughout, no
+drift, sensory intact to touch throughout, no babinski
+HEENT: EOMI, hemotympanum in right ear, decreased hearing in
+left
+CV: RRR
+Lungs: CTAB
+Abd: soft, NT/ND
+Spine: no tenderness or stepoffs
+Extr: right elbow and left ankle abrasions
+
+
+Pertinent Results:
+2006-02-02 00:00:00 07:35PM   PHENYTOIN-15.2
+2006-02-02 00:00:00 02:09PM   PT-12.1 PTT-19.4* INR(PT)-1.0
+2006-02-02 00:00:00 01:15PM   GLUCOSE-114* LACTATE-1.3 NA+-144 K+-3.6
+CL--104 TCO2-25
+2006-02-02 00:00:00 01:05PM   UREA N-13 CREAT-0.8
+2006-02-02 00:00:00 01:05PM   AMYLASE-38
+2006-02-02 00:00:00 01:05PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+2006-02-02 00:00:00 01:05PM   WBC-10.6 RBC-4.18* HGB-13.7 HCT-38.8 MCV-93
+MCH-32.7* MCHC-35.3* RDW-12.4
+2006-02-02 00:00:00 01:05PM   PLT COUNT-265
+
+2006-02-02 00:00:00 Maxillofacial CT: There is a minimally displaced obliquely
+oriented fracture extending along the right temporal bone which
+extends into the right sphenoid bone, to involve the right
+pterygomaxillary fossa. There is an associated nondisplaced
+fracture involving the right zygomatic arch and right orbital
+wall of the zygomatic bone. High-density material consistent
+with hemorrhage is noted within the sphenoid sinus. There is a
+subtle associated transversely oriented lucency most consistent
+with a nondisplaced fracture along the roof of the sphenoid
+sinus at the level of the orbital apex and optic canals. The
+globes, extraocular eye muscles and optic nerves otherwise
+appear intact. The paranasal sinuses are otherwise well
+pneumatized aside from minor mucosal thickening within the right
+maxillary antrum. There is again demonstrated a small amount of
+pneumocephalus along the inner table of the squamous portion of
+the left temporal bone. A definite fracture is not identified in
+this location. Note is made of several opacified left mastoid
+air cells without fracture ap123 Any St.ted in this location.
+
+2006-02-02 00:00:00 CT Head: 1. Bilateral intraparenchymal hemorrhagic
+contusions, most pronounced in the left inferior temporal lobe.
+2. Small amount of likely subarachnoid hemorrhage in the
+interpeduncular
+cistern and high within the left frontal lobe.
+3. Multiple fractures including the squamous portions of the
+temporal bones bilaterally, roof of the sphenoid sinus, right
+sphenoid, right lateral orbital wall and right zygomatic arch.
+4. Pneumocephalus within the middle left cranial fossa which
+raises possiblility of occult adjacent fracture.
+
+2006-02-02 00:00:00 CT Neck: 1. No evidence for cervical spine fracture or
+malalignment.
+ 2. For additional details regarding the skull base fractures
+and intracranial hemorrhage, please refer to the accompanying CT
+of the head and facial bones.
+
+
+Brief Hospital Course:
+This is 47 yo F who presented s/p fall from scooter while in
+123 Any St. on Friday 2006-02-02 00:00:00. She flew back to U.S. on 2006-02-02 00:00:00
+and has been c/o headache and right elbow pain. By report she
+had loss of consciousness from her accident +and awoke in  a
+hospital in 123 Any St.. She was admitted to UPMCE trauma service
+for managment of her injuries on 2006-02-02 00:00:00. Her work-up revealed
+right zymogatic and sphenoid fractures in the skull as well as a
+a small subarachnoid hemorrhage. She was admitted to the
+intensive care unit and monitored from a neurologic standpoint.
+Neurosurgery was consulted and recommended starting the patient
+on Dilantin for seizure prophylaxis. Plastic surgery service was
+consulted and planned to repair her facial fractures on an
+outpatient basis. She had a normal neurologic exam throughout
+her hospitalization however was complaining of dizziness and
+decreased hearing in her left ear. ENT service was consulted and
+recommended the patient follow-up as an outpatient for an
+audiogram. She was transferred out of the ICU on hospital day 2
+and worked with physical therapy. She was deemed a good
+candidate for outpatient physical therapy. She was discharged to
+home with VNA on 2006-02-02 00:00:00. All questions were answered to her
+satisfaction upon discharge.
+
+
+
+
+Medications on Admission:
+Zoloft 100 mg po qdaily
+Oral contraceptives
+
+Discharge Medications:
+1. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule
+PO TID (3 times a day): to continue until neurosurgery follow-up
+appointment.
+Disp:*90 Capsule(s)* Refills:*2*
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+3. Sertraline 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4
+to 6 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day: for constipation as needed
+.
+Disp:*20 Capsule(s)* Refills:*2*
+6. Dilaudid 2 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as
+needed for pain: for severe pain only; otherwise take tylenol.
+Disp:*40 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+s/p  MVC
+Skull Fracture
+Intracranial Hemorrhage
+Zygomatic Fracture
+Right Sphenoid Fracture
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You should continue to work on walking with outpatient physical
+therapy and UPMCE . You should call the trauma clinic
+or come to the ER with any worsening headaches/dizziness/loss of
+consciousness/ or new-onset numbness/weakness.
+
+Follow up with the Trauma clinic, Neurosurgery, ENT and Plastic
+Surgery after your discharge-- for an appointment.
+
+Kassidey Yoakam M.D. for increase in severity of symptoms, fever, increase
+in pain, numbness or tingling, pain or drainage from ear, nasal
+drainage, questions or concerns.
+
+Followup Instructions:
+Call test@mail.com for appointment in Plastics Clinic
+
+Call test@mail.com for appointment with Dr. Jaiheim Ruemmele in
+Neurosurgery in 2006-02-02 00:00:00 weeks. Please obtain CT head without
+contrast prior to follow-up appointment.
+
+Call test@mail.com for appointment in ENT clinic for an audiogram
+within 1-2 weeks.
+
+You should follow-up in the UPMCE Trauma Surgery clinic within
+2-3 weeks. Call for an appointment at test@mail.com
+
+
+                             Kassidey Yoakam MD, 1164
+
+Completed by:2006-02-02 00:00:00

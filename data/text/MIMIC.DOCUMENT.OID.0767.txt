@@ -1,0 +1,295 @@
+Admission Date:  2007-06-02 00:00:00              Discharge Date:   2007-06-02 00:00:00
+
+Date of Birth: 1980-05-17 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Interferons / Latex
+
+Attending:Ahri Iannacci
+Chief Complaint:
+Altered mental status and hypotension/Pneumonia
+
+Major Surgical or Invasive Procedure:
+2007-06-02 00:00:00: Paracentesis
+2007-06-02 00:00:00: Orthotopic Liver transplant
+2007-06-02 00:00:00: Post pyloric feeding tube placement
+2007-06-02 00:00:00: Flexible Bronchoscopy
+2007-06-02 00:00:00: Pleural tap; ultrasound guided right pleuracentesis
+2007-06-02 00:00:00: Post pyloric feeding tube placement
+
+History of Present Illness:
+72 year old female with ESLD 2007-06-02 00:00:00 HCV cirrhosis admitted to
+MICU with AMS and sepsis.  Patient was noted to be minimaly
+responsive by her family at home and brought to ED where whe was
+febrile to 101.4 (103.2 rectal) and developed hypotension to
+SBP=70s.  Pressors were intiated after IVF rescusitation failed
+to improve her hypotension.  A paracentesis performed showing
+4550 WBC with 72% PMNs. Vanco and zosyn were initiated. CXR
+showing infiltrate as well.  AMS improved per family.  Overnight
+neo was added to levophed for her hypotension.  She has been
+oliguric with urine output of 2007-06-02 00:00:00/hr with an elevated
+creatinine.  Blood cultures have grown GNR.  WBC is 10.9K with 7
+bands.
+
+Patient currently comfortable, states her pain is intermittent,
+now s/p travel to CT scan she feels a bit more pain than before
+going to CT.  No nausea or vomiting.  She gives a history of a
+1-2 days of epigastric pain and intermittent fevers/chills
+(unmeasured). States her abdominal girth is increasing and her
+clothes aren't fitting.  She had a recent admission 2007-06-02 00:00:00 for
+abdominal pain with negative w/u. No h/o nausea, vomiting,
+BRBPR,
+black or tan stools. Loose stools at baseline on lactulose.  Of
+note, aldactone dose recently doubled 2007-06-02 00:00:00 for chronci LE edema
+and ascites.
+
+Review of systems:
+(+) Per HPI  Also rt leg intermittent weakness recently
+(-) Denies headache, sinus tenderness, congestion. Denies cough,
+shortness of breath, or wheezing. Denies chest pain, chest
+pressure, palpitations. Denies nausea, vomiting, constipation,
+melena, hematochezia, or other changes in bowel habits. Denies
+dysuria, frequency, hematuria or urgency. Denies arthralgias or
+myalgias. Denies rashes or skin changes.
+
+
+Past Medical History:
+- ESLD / hep C cirrhosis: believes she acquired Hep C from
+needlestick while working as nurse. Failed 2 courses of IFN
+therapy. On liver transplant list. Likely past episodes of
+hepatic encephalopathy. EGD 2007-06-02 00:00:00 showed 2007-06-02 00:00:00 columns of grade 1
+varices.
+- Hepatocellular carcinoma (1.8 x 1.6cm on imaging 2007-06-02 00:00:00),
+underwent Cyberknife treatment in 2007-06-02 00:00:00/2007-06-02 00:00:00
+- Single seizure: First ever seizure 2007-06-02 00:00:00 with preceding sx
+of confusion, urinary incontinence. Workup negative. On Keppra
+since discharge.
+- Diabetes 2007-06-02 00:00:00: FS found to be in high 200's during last
+hospitalization. Carrara consulted, recommended tx'd as if type
+- Anti-islet cell, anti-insulin, anti-GAD antibodies negative,
+c-peptide WNL.
+- Anemia: Baseline Hct ~30. Per pt, anemia due to IFN therapy.
+MCV 106.
+- Thyroid nodules: All features benign imaging 2007-06-02 00:00:00
+- Gastroesophageal reflux diease
+- Osteopenia: Worst t-score -1.2 on BMD 2007-06-02 00:00:00
+- Essential tremor
+- PUD: s/p gastric polypectomy, subtotal gastrectomy
+- Cholelithiasis
+- S/p b/l salpingo-oopherectomy for cysts 2007-06-02 00:00:00
+
+Social History:
+She used to work as a nurse. She is divorced with 2 children.
+She smoked one-half pack per day for 15 years and stopped 20
+years ago. She does not drink alcohol.
+
+
+Family History:
+Mother died of pancreatic cancer, father died of cancer of
+unknown type of cancer. Siblings in good health except for one
+brother who died of alcohol cirrhosis. No FH of IDDM.
+
+Physical Exam:
+97.4  78  105/51  19  97% NC
+A&Ox3 but slow speech pattern, appropriate responses, follows
+commands appropriately.
++Scleral icterus/jaundic
+RRR, no M/G/R
+Lungs clear to auscultation bilaterally
+Abdomen soft, nondistended, TTP focally at epigastrium, no
+rebound or guarding or other concerns of peritonitis.  no
+palpable masses.  +normoactive bowel sounds;
+DRE with poor tone, mucus in vault no stool, guaiac negative
+No LE pitting edema
+
+
+Pertinent Results:
+On Admission: 2007-06-02 00:00:00
+WBC-3.4* RBC-2.29* Hgb-8.2* Hct-25.2* MCV-110* MCH-35.9*
+MCHC-32.6 RDW-17.6* Plt Ct-49*
+PT-23.7* PTT-45.4* INR(PT)-2.2*
+Glucose-103* UreaN-24* Creat-1.7* Na-136 K-4.0 Cl-105 HCO3-23
+AnGap-12
+AST-71* CK(CPK)-100 AlkPhos-108* TotBili-6.9*
+Albumin-2.0* Calcium-7.8* Phos-3.3 Mg-1.3*
+Ammonia-76*
+On Discharge: 2007-06-02 00:00:00
+WBC-3.9* RBC-3.44* Hgb-10.8* Hct-32.2* MCV-93 MCH-31.4 MCHC-33.7
+RDW-19.5* Plt Ct-128*
+PT-12.1 PTT-23.5 INR(PT)-1.0
+Glucose-216* UreaN-44* Creat-1.9* Na-140 K-3.6 Cl-107 HCO3-25
+AnGap-12
+ALT-66* AST-27 AlkPhos-141* TotBili-1.0
+Calcium-9.0 Phos-3.5 Mg-2.6
+tacroFK-15.3
+
+Brief Hospital Course:
+MICU COURSE:
+72 year old female with ESLD/HCV cirrhosis admitted with altered
+mental status, hypotension, abdominal pain, and gram negative
+rod sepsis.
+
+# Septic Shock:  Patient found to have pansensitive klebsiella
+bacteremia and enterococcus UTI.  She was initially on
+vanc/cipro but was transitioned to cefepime for a 14-day course
+given the bacteremia.  She was weaned off pressors and did well.
+ Transplant surgery followed the patient while here.  She
+received a liver on 2007-06-02 00:00:00 and was then transferred to the
+transplant surgery team.
+.
+# SBP: Patient has SBP by criteria in setting of normal para
+2007-06-02 00:00:00.  Unfortunately, no culture of peritoneal fluid.  Received
+albumin.  Will need lifelong prophylaxis after finished course
+with cipro
+
+# Volume overload: Patient became grossly positive while here.
+She had rales on exam.  She was diuresed with IV lasix with good
+response.
+
+# Encephalopathy: Likely 2007-06-02 00:00:00 infection or hepatic
+encephalopathy.  Initially worsened but improved with lactulose
+and rifaximin.  Her infections were treated appropriately.  She
+did develop myoclonus on 2007-06-02 00:00:00 so the neurology team was
+consulted.  123 Any St. etiology of myclonus is toxic-metabolic.
+
+# Coagulopathy: Patient received FFP, cryo and platelets while
+here as she developed slightly low fibrinogen but normal fibrin
+split products.  Also had elevated INR and decreased Hct.
+Coags, Hct, platelets were monitored closely. This was resolved
+following liver transplant.
+
+# Carrara: Was likely secondary to decreased perfusion vs ATN from
+hypotension. She received volume expansion with blood products
+and creatinine returned to 123 Any St. by 2007-06-02 00:00:00.  SBP was treated with
+albumin and cefepime.
+
+# ESLD/HCV cirrhosis: ALT, AST, bili, INR at baseline. Now with
+evidence of SBP.  Patient given rifaximin and lactulose.  Her
+home doses of spironolactone and lasix were held in the setting
+of hypotension.  Hepatology team followed patient while she was
+here. She was considered appropriately covered and was taken to
+the OR for liver transplant on 2007-06-02 00:00:00 and then transferred to the
+transplant surgery service.
+
+In the immediate post op period, the patient was kept in the ICU
+through POD 10. She was kept on Cefepime following transplant to
+continue SBP treatment. Blood cultures had been taken on the day
+prior to transplant and were returned following the surgery with
+Vanco sensitive enterococcus. She was treated with 14 days of
+Vancomycin. She remained afebrile throughout the rest of the
+hospitalization.
+There was some difficulty in getting her extubated, and volume
+overload was noted to be present. She underwent aggresive
+diuresis with lasix intermittently and then as a drip. She was
+extubated successfully, but required re-intubation due to mental
+status issues and increased oxygen requirements. She was still
+having a small oxygen requirement that continues to be weaned.
+The patient has been receiving tube feeds via a Dobhoff feeding
+tube in the jejuneum. She has intermittently pulled the tube out
+but is discharged with the feeding tube in place. Tube feeds
+were changed to accomadate difficult to control blood glucoses.
+She was also followed by Carrara during the hospitalization whio
+assisted in blood glucose management.
+
+
+Medications on Admission:
+Mycelex 10 mg. troche 5x daily, Vitamin D 50,000
+units, 1 cap weekly, Lantus 4units in the evening, Lispro
+Sliding
+Scale, Lactulose 30 mL 3x daily, protonix 40 mg. 2x daily,
+Propranolol 40 mg 2x daily, mestinon 60 mg. tab daily 2x daily,
+rifaximin 400mg 3x daily, Spironolactone 100 mg. daily, calcium
+carbonate 600 mg. 2x daily, Travatan 0.004% one drop both eyes
+QHS
+
+
+Discharge Medications:
+1. Prednisone 5 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily):
+Until 2007-06-02 00:00:00 then taper to 17.5 mg daily. Follow transplant clinic
+taper.
+2. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+3. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ml
+Injection TID (3 times a day): Until consistently ambulatory.
+4. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as
+needed for wheeze, sob.
+5. Fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+6. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+7. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for sbp> 150.
+8. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+9. Valganciclovir 450 mg Tablet Sig: One (1) Tablet PO 2X/WEEK
+(TU,FR).
+10. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+11. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+BID (2 times a day).
+12. Sulfamethoxazole-Trimethoprim 400-80 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+13. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units
+Subcutaneous at bedtime.
+14. Insulin Regular Human 100 unit/mL Solution Sig: per sliding
+scale  Injection four times a day: Please follow enclosed
+sliding scale.
+15. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4)
+hours as needed for pain.
+16. Tacrolimus 1 mg Capsule Sig: One (1) Capsule PO Once, 2007-06-02 00:00:00
+AM for 1 doses: Please check trough tacro level, give dose then
+await dosing recommendation from transplant clinic.
+17. Tacro(Prograf)
+Hold PM dose on 2007-06-02 00:00:00
+Give 1 mg tacro following lab draw morning 2007-06-02 00:00:00. Await further
+instructions for tacro dosing
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE for the Aged - MACU
+
+Discharge Diagnosis:
+Hepatitis C Cirrhossis/HCC now s/p orthotopic liver transplant
+2007-06-02 00:00:00
+Spontaneous bacterial peritonitis
+Malnutrition
+
+
+Discharge Condition:
+Stable
+Alert,oriented, slow to answer but accurate
+Needs extensive rehab
+
+
+Discharge Instructions:
+Trough Prograf level MUST be drawn and sent on Saturday morning
+2007-06-02 00:00:00.
+Please call the transplant center at test@mail.com for fever,
+chills, nausea, vomiting, diarrhea, constipation, inability to
+take or keep down food, fluids or medications.
+Patient must have labwork drawn and faxed to transplant center
+every Monday and Thursday. CBC, Chem 10, AST, ALT, Alk Phos T
+bili, Trough Prograf level.
+Any medication changes will be under the supervision of the
+transplant center
+Continue tubes feeds as ordered via Dobhoff feeding tube
+Activity per physical therapy recommendations
+
+
+Followup Instructions:
+Davidalexander Carrara, MD, PHD44829:test@mail.com Date/Time:2007-06-02 00:00:00
+1:20
+Davidalexander Carrara, MD, PHD44829:test@mail.com Date/Time:2007-06-02 00:00:00
+10:00
+Davidalexander Carrara, MD, PHD44829:test@mail.com Date/Time:2007-06-02 00:00:00
+10:20
+BONE DENSITY TESTING Phone:test@mail.com Date/Time:2007-06-02 00:00:00 11:40
+
+
+
+Completed by:2007-06-02 00:00:00

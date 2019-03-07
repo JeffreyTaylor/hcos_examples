@@ -1,0 +1,429 @@
+Admission Date:  2005-04-27 00:00:00              Discharge Date:   2005-04-27 00:00:00
+
+Date of Birth: 1958-04-15 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Shellfish Derived / Simvastatin
+
+Attending:Joaopaulo Wilce
+Chief Complaint:
+SOB, increasing lower extremity edema
+
+Major Surgical or Invasive Procedure:
+IVC filter placement 2005-04-27 00:00:00
+10U prbc transfusion
+Midline placement 2005-04-27 00:00:00
+
+
+History of Present Illness:
+70 year old female with h/o RA 123 Any St.usly on humera and mtx who
+was discharged on 2005-04-27 00:00:00 when she presented with R shoulder
+pain. Her joint was tapped and it demonstrated an inflammatory
+joint fluid c/w with RA and negative for septic arthritis.  She
+was discharged on ibuprofen prn. Upon return home 3 days prior
+to presentation she felt very well but one day later noticed the
+gradual onset of dyspnea on exertion.  She also had episodes of
+chest twinges overnight which resolved within minutes.  + lower
+extremity edema. While in the hospital she was ambulatory.  She
+went to 123 Any St. over 2005-04-27 00:00:00 and returned on 2005-04-27 00:00:00.  She
+has not had any long trips or travel rides since then.  At home
+she climbed 13 steps twice a day to get to her bedroom. She last
+had a mammogram one year ago and it was normal. Her last
+colonoscopy was in 2005-04-27 00:00:00 and it was normal. + difficulty
+swallowing solids which began a few weeks ago.
+She saw her rheumatologist Dr. Mago today who referred her to
+the emergency room.
+.
+
+
+Past Medical History:
+RA on adalimumab and MTX
+HTN
+Hyperlipidemia
+s/p left bunionectomy/1st MT osteotomy
+Atrophic vaginitis on premarin
+R eye scleritis
+
+Social History:
+Originally from 123 Any St.. Lives in [**Location 3257**] with her husband.
+Social ETOH. No tobacco. She works as Kaviona Mago
+housecleaner 3x per week. No falls. Her huband drives otherwise
+she is indpendent of IADLS and ADLS. She has a son who lives in
+Kaviona Mago. She walks without a walker or cane. + Glasses. No
+dentures or hearing aides. No recent falls. 1 glass/2 < once per
+month. 1 pk per week tobacco but quit "many years ago."
+
+
+Family History:
+Mother had diverticulosis. Father had lung disease. Sister had
+DM. No family h/o malignancy. First cousin with cancer of
+unknown type.
+
+Physical Exam:
+Vitals: T99.2  125/80  93  18  93%RA
+Pain: denies
+Access: TLC R IJ site c/d/i
+Gen: nad, obese female, sitting up in chair
+HEENT: mmm
+CV: RRR, no m ap123 Any St.ted, no S3, S4
+Resp: CTAB, slight bibasilar crackles, no wheezing
+Abd; soft, very obese, no tenderness, no ecchymosis,  +BS
+Ext; +anasarca, 2+ LLE edema, 1+ RLE edema, 1+ RUE edema
+Neuro: A&OX3, grossly nonfocal
+Skin: no changes
+psych: pleasant
+
+Pertinent Results:
+wbc 7.3->26.6->9.6
+H/H 9.7/27.8 (s/p 1U 2005-04-27 00:00:00)
+(total 10U prbc, nadir HCT 20, admission HCT 31.2)
+INR 1.2
+Chem panel: BUN 48->18, Creat 3.2->1.5->0.7 (baseline)
+BNP 576
+.
+UA 2005-04-27 00:00:00 106 wbc, 826 rbc, no bacteria, UCx negative
+UA 2005-04-27 00:00:00 32wbc, trace LE, no bacteria, Ucx negative
+UA 2005-04-27 00:00:00 4wbc, no LE
+blood cx 2005-04-27 00:00:00 X2 NTD
+.
+.
+Imaging/results:
+.
+LENIs 2005-04-27 00:00:00: No evidence of lower extremity DVT.
+.
+LENIs 2005-04-27 00:00:00: IMPRESSION: Nonocclusive thrombus within the left
+common femoral and left superficial femoral vein, new when
+compared to prior exam. No evidence of thrombus within the right
+lower extremity
+.
+UE dopplers (R) 2005-04-27 00:00:00: negative
+.
+CTA 2005-04-27 00:00:00: CT OF THE CHEST WITH AND WITHOUT INTRAVENOUS CONTRAST:
+There are bilateral segmental and subsegmental pulmonary emboli
+involving the right upper, middle and lower lobe pulmonary
+arteries, and the pulmonary arteries supplying the left upper
+lobe, lingula and the left lower lobe. No saddle pulmonary
+embolus is seen, and no evidence of right heart strain
+.
+TTE 2005-04-27 00:00:00: The left atrium is elongated. The estimated right
+atrial pressure is 0-10mmHg. Left ventricular wall thickness,
+cavity size and regional/global systolic function are normal
+(LVEF 70%). Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Tissue Doppler
+imaging suggests a normal left ventricular filling pressure
+(PCWP<12mmHg). There are focal calcifications in the aortic
+arch. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic regurgitation. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. There is no mitral valve prolapse. The estimated
+pulmonary artery systolic pressure is normal. There is a
+trivial/physiologic pericardial effusion. There are no
+echocardiographic signs of tamponade.
+.
+CT abd/pelvis 2005-04-27 00:00:00:
+1. Moderate-size left rectus sheath hematoma with
+extraperitoneal extension inferiorly along the left piriformis
+muscle. Evidence of IV contrast extravasation suggesting active
+bleeding. No evidence of retroperitoneal hematoma. If serial
+hemacrit continues to drop, the bleeding site may be amenable to
+catheter embolization by interventional radiology.
+2. Large gallstone without evidence of acute cholecystitis.
+.
+CT a/p 2005-04-27 00:00:00:
+
+1. Left retroperitoneal hematoma likely arises from the left
+psoas muscle and
+tracks along the left posterior pararenal fascia. There is no
+evidence of
+acute extravasation.
+
+2. Left rectus sheath hematoma is similar to 2005-04-27 00:00:00.
+
+3. Cholelithiasis without evidence of cholecystitis..
+Renal US 2005-04-27 00:00:00:  No right hydronephrosis. Pelvic hematoma.
+Otherwise, extremely limited exam, did not visualize L kidney
+.
+CXR 2005-04-27 00:00:00: no pulm edema
+.
+CXR 2005-04-27 00:00:00:  In comparison with the study of 2005-04-27 00:00:00, the patient has
+been a very lordotic position which most likely accounts for the
+increasing prominence of the transverse diameter of the heart.
+No evidence of vascular congestion or pleural effusion. Right IJ
+catheter tip extends to the lower portion of the SVC, and there
+is no evidence of pneumothorax.
+.
+CT Head 2005-04-27 00:00:00 (123 Any St.): No ICH or mass.
+
+Brief Hospital Course:
+70year old female with h/o RA, HTN, obesity, recent d/c 2005-04-27 00:00:00
+after acute RA flare,  presented 2005-04-27 00:00:00 with DOE/LE edema, found to
+have bilateral/multifocal PE. LENIs were negative and TTE was
+unremarkable for evidence of cardiac strain. She was started on
+a heparin drip on admission but subsequently developed a rectus
+sheath hematoma on 2005-04-27 00:00:00. Given the large clot burden, she was
+hemodynamically stable, and the thought that the hematoma was
+likely to tamponade itself off, heparin was not initially
+stopped, although the target PTT was changed to the lower end of
+therapeutic (althought PTTs remained elevated up to 90s). She
+eventually developed worsening bleeding (extended
+retroperitoneum) with tachycardia and hypotension and dropping
+HCT (nadir 20), and was tranferred to ICU.  She ended up
+requiring 9U prbc for the acute bleed (10U total during hospital
+course). Heparin was stopped and pt underwent IVC filter
+placement on 2005-04-27 00:00:00 by IR without complications. Her HCT stabilized
+and she was transferred out of ICU on 2005-04-27 00:00:00. She remained stable
+in terms of her HCT. However, developed asymmetrical L>R
+swelling and had a fever on 2005-04-27 00:00:00. LE dopplers checked which
+showed NEW L prox DVT. Heme was consulted to help with decision
+on safety of resuming anticoagulation given significant clot
+burder and ongoing hypercoag that may not be protected by IVC
+filter alone. CT scan was repeated on 2005-04-27 00:00:00 which showed large L
+retroperitoneal bleed (resulting in above HCT drop), but no
+active bleeding.  She was given an additional 1U prbc (10 total)
+for HCT 23.6 though it was not believed she had ongoing
+bleeding. After discussion with patient/husband regarding
+risks/benefit of anticoagulation, decision was made to resume
+heparin. As for her PEs, she remained hemodynamically stable and
+was weaned off of O2. For her LE edema and risk of posthrombotic
+complications, she was placed on TEDs and reccommeded to keep
+her legs elevated. As for the cause of her hypercoagubility, No
+clear 123 Any St.itant: no self-reported history of immobility (last
+flight 2005-04-27 00:00:00), no history of malignancy (up to date with
+Mago/pap/cscope), no personal or family history of blood clots,
+no recent surgery. Only possible trigger identified was her
+recent RA flare, but this was no longer an issue so did not
+explain her ongoing hypercoaguable state (LLE DVT formed
+in-hosp). Another concern was her longstanding use of humira,
+which can be associated with secondary malignancy. Her CT c/a/p
+did not mention any abnormal masses or LAD to suggest lymphoma,
+and as per above she is up to date on cancer screening. She
+needs outpt further w/u for malignancy and hyper coag w/u.
+Hospital course also complicated by ARF, thought to be prerenal,
+s/p IVFs and blood tranfusions, now back to baseline.
+Her Fe studies were c/w low Fe stores, however she likely got
+enough Fe load with the blood transfusions and this can be
+rechecked as outpt. Her B12 was low normal and she was started
+on supplementation.
+Her humira and MTx were held in the acute setting but were
+resumed once pt stabilized.
+Her BP meds were kept the same except norvasc was not resumed
+due to well controlled BP off this.
+.
+.
+See note below for details.
+
+# Bilateral PEs/VTE: significant clot burden on CTA but Echo w/o
+RV strain. LE doppler/CT a/p w/o thrombus on 2005-04-27 00:00:00. As above,
+taken off heparin given significant rectus sheath/RP hematoma.
+underwent IVC filter 2005-04-27 00:00:00. Repeat dopplers 2005-04-27 00:00:00 (feverw w/u) with
+L fem DVT suggesting she continues to be hypercoaguable which is
+concerning. Heme consulted to assess whether appropriate to
+resume heparin. HCT stable and CT 2005-04-27 00:00:00 with subacute hematoma
+(known bleed) but no active bleeding.  Weaned off O2. Heme felt
+risk outweighed benefit, and pt was agreeable to resuming
+heparin gtt on 2005-04-27 00:00:00. She was monitored over 2 days and coumadin
+was started the evening of 2005-04-27 00:00:00. She will need to be bridged
+with heparin gtt (titrate to PTT 60-80) until therapeutic on
+coumadin. Discharged on heparin gtt at 1700 U/hr. Should have
+twice daily PTTs given recent massive bleed. Given no clear
+123 Any St.itant of VTE episode (except perhaps prior RA flare) and
+clot formation while here in her left leg, she will need an
+outpatient hypercoaguable work up. She also should wear TEDs for
+at least 6 months to prevent post-DVT complications. Likely will
+need lifelong anticoagulation. Phone number for outpatient
+hematology follow up in 6 months was given in the discharge
+paperwork.
+.
+.
+# Rectus sheath and RP hematoma: spontaneous bleed while on
+heparin gtt (highest PTT 97). No recent injury, trauma, or
+surgery in that site. Hemodynamic unstable bleed (transferred to
+ICU), heparin gtt stopped, required 9U prbc at the time.  No IR
+intervention, appears to have tamponaded finally. Last t/f 2005-04-27 00:00:00
+for slowly drifting HCT. Has been stable.  Repeat CT ab/pelvis
+on  2005-04-27 00:00:00 as above showing new RP bleed as of 2005-04-27 00:00:00, which
+represents the 10U bleed 2005-04-27 00:00:00 (subacute) rather than active
+bleed. Heparin gtt was restarted on 2005-04-27 00:00:00 with close monitoring.
+Pt will need close monitoring of her PTT/INR while titrating in
+coumadin (twice daily PTT, daily INR). Will not resume ASA or
+NSAIDs on discharge. Would transfuse for hct less than 23 and
+repeat CT scan abdomen/pelvis to eval for new bleed if hct drops
+to less than 22. Hct was 28 at discharge.
+.
+
+# Fever: temp spike 2005-04-27 00:00:00. UA/CXR unremarkable. Blood cx X2
+negative (TLC and peripheral). no leukocytosis. Did have some
+loose stools, but C diff negative.  Another concern was for DVT
+and LE dopplers confirm L prox DVT which may be cause. Low grade
+temp of 100.1 on 2005-04-27 00:00:00.  Again, no clear source other than blood
+clots. Afebrile completely on night prior to and day of
+discharge.
+.
+# Anasarca: likely 2005-04-27 00:00:00 large IVFs and blood in ICU. CXR w/o pulm
+edema though does have significant anasarca (especially L>R LE,
+R>L UE edema).  Albumin low at 2.5. Started nutrition
+supplements.
+.
+# ARF: normal creat at baseline. Developed ARF in ICU, peak
+creat 3.2, BUN 50s. ddx: prerenal vs hematoma resorption vs CIN
+vs ATN from hypotension. Received fluids/blood, improved to
+baseline of 0.6-0.7 at discharge.
+.
+# Nausea:  CT head negative for mass, LFTs/lipase normal.
+Written for zofran as needed. Vomiting/nausea noted after pt
+received her MTX on 2005-04-27 00:00:00, which is felt to  be the likely
+etiology of her symptoms.
+.
+#Acute diastolic CHF: Noted wheezing and elevated JVP on 2005-04-27 00:00:00,
+s/p 10 U PRBC in the days prior. She was given Lasix 10 mg IV
+daily on 2005-04-27 00:00:00 with resolution of wheezing and good urine
+output.
+.
+# HTN: Resumed home dose of lisinopril 40, toprol 50, BP well
+controlled. not resuming amlodipine
+.
+# RA: Humira and MTX held since last admission (2005-04-27 00:00:00) given
+concern at that time for septic shoulder joints (negative fluid
+cx). Were not resumed on last discharge with plan for f/u rheum
+for resuming. Rheum/Dr. Mago does not feel there is any
+contraindication as of 2005-04-27 00:00:00, so humira and MTX were resumed on
+2005-04-27 00:00:00 (MTX received 2005-04-27 00:00:00, humira received 2005-04-27 00:00:00).
+.
+# Anemia, acute and chronic: see above for acute drop 2/2
+hematoma. Also has h/o Fe def and B12 def (93 in 2005-04-27 00:00:00). Received
+good Fe load with transfusion for now, f/u Fe studies in 2
+months. Continued B12 supplements. Hct stable at 28 at time of
+discharge.
+.
+# Hyperlipidemia: Continued pravastatin 20, holding asa 81
+.
+# NAC study: ED protocol. infusion finished 2005-04-27 00:00:00
+.
+# Access: Midline placed 2005-04-27 00:00:00
+
+Medications on Admission:
+Confirmed medications with patient.
+Amlodipine 5 mg Tablet 1 Tablet(s) by mouth once a day
+Esomeprazole Magnesium [Nexium]  40 mg Capsule, Delayed
+Release(E.C.)
+1 Capsule(s) by mouth once a day
+Folic Acid 1 mg Tablet 1 Tablet(s) by mouth once a day
+(Prescribed by Other Provider)  2005-04-27 00:00:00
+Ibuprofen 800 mg Tablet 1 Tablet(s) by mouth three times a day
+PRN
+Lisinopril 40 mg Tablet 1 Tablet(s) by mouth once a day
+Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+1 Tablet(s) by mouth once a day
+Pravastatin [Pravachol] 20 mg Tablet 1 Tablet(s) by mouth at
+bedtime  2005-04-27 00:00:00
+    * OTCs *
+Aspirin 81 mg Tablet, Chewable 1 Tablet(s) by mouth once a day
+Calcium Citrate-Vitamin D3 [Citracal + D] - 2 T UPMCE.
+
+
+
+
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Calcium 600 + D(3) 600-400 mg-unit Tablet Sig: One (1) Tablet
+PO twice a day.
+5. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+6. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. FerrouSul 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO
+once a day.
+9. Cyanocobalamin 250 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Methotrexate Sodium 2.5 mg Tablet Sig: Eight (8) Tablet PO
+QFRI (FR).
+11. Heparin Flush (10 units/ml) 1 mL IV PRN
+12. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) as
+needed.
+13. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for insomnia.
+14. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed.
+15. Humira 40 mg/0.8 mL Kit Sig: 0.8 ML Subcutaneous every 2
+weeks ().
+16. Warfarin 3 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+17. Heparin (Porcine) in D5W 25,000 unit/250 mL Parenteral
+Solution Sig: 1700 (1700) units Intravenous per hour: titrate to
+PTT of 60-80.
+18. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+Mid-line, heparin dependent: Flush with 10 mL Normal Saline
+followed by Heparin as above, daily and PRN per lumen.
+19. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H
+(Every 8 Hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Bilateral pulmonary embolism
+Severe rectus sheath and retroperitoneal hematoma s/p 10U prbc
+Hypercoag state of unclear etiology
+Rheumatoid arthritis
+Anemia 2005-04-27 00:00:00 chronic disease, Fe def, and acute blood loss
+
+
+Discharge Condition:
+STABLE
+
+
+Discharge Instructions:
+You were admitted with leg swelling and shortness of breath. You
+were diagnosed with multiple pulmonary embolisms.
+.
+You were started on heparin for anticoagulation but developed a
+complication of massive bleeding into your muscle and within the
+abdomen for which you recieved 10 Units of blood. Your heparin
+was held for several days and you underwent IVC filter for
+protection from further pulmonary embolism. You developed
+another Left Leg clot while here. Hematology was consulted and
+after careful consideration and discussions with you, decision
+was made to restart heparin.
+.
+You need to have your blood counts carefully monitored. You will
+be followed by Hematology after discharge for further workup of
+why you developed these clots.
+You are started on some new medications. From your [** Location **]us
+list, you will not restart norvasc. You also were started on
+coumadin to help thin your blood. Also your RA meds, humira and
+methotrexate were held for the most part, but were restarted
+prior to discharge.
+.
+Call your doctor or return to the ER for any worsening shortness
+of breath, new leg or arm swelling, chest pain, fainting,
+palpitations, fevers, lightheadedness, or any other concerning
+symptoms.
+
+Followup Instructions:
+1. Please follow up with Dr. Joaopaulo Wilce 2 weeks after discharge from
+rehab
+.
+2. Please follow up with Dr. Mago of hematology in 6 months
+to help work up the reason why you formed all of these blood
+clots. His number is (test@mail.com and you can call in 5 months
+to arrange for follow up.
+.
+3. Please follow up with Dr. Mago of rheumtology after your
+discharge from rehab. fax test@mail.com; phone test@mail.com
+
+
+

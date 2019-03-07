@@ -1,0 +1,446 @@
+Admission Date:  2011-09-15 00:00:00       Discharge Date: 2011-09-15 00:00:00
+
+
+Service:
+
+PRIMARY DIAGNOSIS:
+1.  Volume overload anasarca.
+2.  Status post posterior trach perforation and repair.
+3.  Respiratory failure with ventilatory dependence.
+    Mechanical ventilatory dependence.
+4.  Atrial fibrillation.
+5.  Clostridium difficile infection.
+6.  Malnourishment.
+7.  Sepsis.  Status post treatment and resolution.
+8.  Pneumonia, ventilatory associated status post
+    resolution and treatment.
+9.  Anemia.
+10. Pleural effusions.
+11. Goiter.
+12. Hypothyroidism
+13. Urinary tract infection, numerous including pseudomonas.
+14. Questionable myopathy.
+15. Yeast infection of the urinary tract.
+16. Thrombocytopenia subsequent resolution.
+17. Right internal jugular, non-occlusive clot.
+18. Hyponatremia subsequently resolved.
+19. Tracheostomy.
+20. Hypothyroidism.
+21. Gastroesophageal reflux disease.
+
+SECONDARY DIAGNOSIS:
+1.  Status post cholecystectomy and choledochoduodenostomy.
+2.  Vancomycin resistant enterococcus bacteremia in abscess.
+3.  History of lower gastrointestinal bleed.
+
+HISTORY OF PRESENT ILLNESS:  Mrs. Jerelly Dimmer is a
+79-year-old female with chronic obstructive pulmonary
+disease, hypertension, paroxysmal atrial fibrillation, who
+presents from Shore House Rehabilitation following episodes
+of tachypnea, hypoxemia and obtundation requiring
+endotracheal intubation.  The patient is status post recent
+hospitalization from 2011-09-15 00:00:00 to 2011-09-15 00:00:00 for gallstone
+pancreatitis requiring open cholecystectomy and
+choledochoduodenostomy on 2011-09-15 00:00:00 by Dr. Dimmer with
+hospitalization complicated by E. coli sepsis, volume
+overload and bilateral pleural effusion, atrial fibrillation
+and postop abdominal abscess which grew out Vancomycin
+Resistant Enterococcus.
+
+The patient subsequently had a gallbladder drainage by CT
+guidance on 2011-09-15 00:00:00.  The patient suffered C. diff colitis at
+prior hospitalization.  Towards the end of hospitalization
+was noted to have acute tachypnea.  She was subsequently
+discharged to Shore House on 2011-09-15 00:00:00 on antibiotics
+Linezolide for four week course for her Vancomycin resistant
+enterococcus abscess and Flagyl for 14 day course for C. diff
+colitis.
+
+At the Shore House however, the patient was doing poorly with
+continued lethargy, anorexia and depression.  The patient was
+noted to develop hyponatremia.  She apparently developed
+cough on 2011-09-15 00:00:00 for which she was treated with Robitussin and
+the day prior to admission was noted to have hypoxemia with
+O2 saturations 90% on two liters nasal cannula.
+
+On the morning of presentation to UPMCE the patient shortly was noted to become more
+tachypneic and somnolent with oxygen saturation in the 60's
+and requiring 100% non-rebreather.  The patient subsequently
+then became unresponsive and was subsequently started manual
+artificial respirations and was sent to UPMCE for further evaluation.
+
+In the Emergency Room she was afebrile, heart rate in the 80s
+and blood pressure 140/80, oxygen saturation 90% on 100%
+non-rebreather, unresponsive.  The patient subsequently
+intubated at the Emergency Room at UPMCE.  She was admitted to the Intensive Care Unit
+for further treatment.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Gastroesophageal reflux disease, FEV 1 of 1.74, 70%
+    123 Any St.ted.
+3.  Atrial fibrillation.
+4.  Congestive heart failure with ejection fraction of
+    60%  Basal septal hypokinesis.
+5.  History of Gastrointestinal bleed secondary to aspirin.
+6.  Degenerative joint disease.
+7.  Migraine headaches.
+8.  Cataracts.
+9.  Substernal goiter with hypothyroidism status post
+    biopsy.
+
+ALLERGIES:  Aspirin which causes gastrointestinal bleed.
+
+MEDICATIONS ON PRESENTATION:
+1.  Linezolide 200 mg p.o. b.i.d.
+2.  Flagyl 500 mg p.o. q 8 hours.
+3.  Percocet
+4.  Atenolol 100 mg q day.
+5.  Ranitidine 150 mg p.o. q day.
+6.  Levoxyl 75 mcg q day.
+7.  Lasix 40 mg p.o. q day.
+8.  Amiodarone 200 mg p.o. q day.
+9.  Florinef 0.1 mg p.o. q day.
+10. Prednisone 30 mg p.o. q day.
+
+PHYSICAL EXAMINATION:  Upon presentation the patient was
+subsequently intubated, temperature 101, heart rate 70 to 80
+and atrial fibrillation.  Blood pressure 107/48 on Dopamine.
+Skin was dry.  Head, eyes, ears, nose and throat:
+Normocephalic, atraumatic.  Pupils are equal, round, and
+reactive to light and accommodation.  Oropharynx dry.  Neck:
+Prominent external jugular veins.  Lungs:  Bilaterally coarse
+breath sounds.  Cardiac:  Irregular rate and rhythm, no
+murmurs, rubs or gallops.  Abdomen:  Surgical site healing
+well.  Hyperactive bowel sounds, soft, nontender to
+palpation.  Extremities:  No edema, peripheral pulses 2+.
+Neurological:  Moving all extremities.  On vent setting,
+assist control 500, tidal volume, respiratory rate of 17,
+FIO2 0.7, PEEP of 5.
+
+LABS ON PRESENTATION:  White count 17,300, hematocrit 33.5,
+platelets 187,000.  Prothrombin time of 14, PTT 30, sodium
+130, potassium 2.7, chloride 94, bicarbonate 26, BUN 13,
+creatinine 0.3, glucose 81.  Calcium 7.1, magnesium 1.2,
+albumin 2.2, CK 75, troponin less than 0.3.
+
+Chest x-ray revealed left effusion, questionable
+consolidation left base with mass with tracheal deviation
+which is unchanged from 2011-09-15 00:00:00.  CT of the chest revealed
+no pulmonary embolism, moderate bilateral pleural effusions
+slightly increased from 2011-09-15 00:00:00.  Left sided atelectasis,
+partial collapse adjacent to pleural effusion.  Superior
+mediastinal mass calcific densities consistent with right
+goiter with deviation of the trachea.  Scattered ground glass
+opacities in both lungs.  CT of the head revealed no
+bleeding.  Chronic small vessels with ischemic changes.
+Fluid in the mastoid ear cells, right greater than left,
+right middle ear.
+
+IMPRESSION AND PLAN:  The patient was subsequently admitted
+to the Medical Intensive Care Unit for further treatment.
+She is a 79-year-old person with chronic obstructive
+pulmonary disease, hypertension, congestive heart failure
+presents from rehabilitation on 2011-09-15 00:00:00 following episode of
+tachypnea, hypoxia, obtundation requiring intubation with
+presumed sepsis.  The patient is status post recent
+hospitalization 2011-09-15 00:00:00 to 2011-09-15 00:00:00 for gallstone pancreatitis
+requiring open cholecystectomy and choledochoduodenostomy
+with hospitalization complicated by sepsis, volume overload
+and bilateral effusions, atrial fibrillation, C. diff colitis
+and postoperative intra-abdominal abscess at the
+port-a-hepatis requiring CT guidance drainage and extended
+therapeutic use of Linezolid.  The patient had one episode of
+unexplained respiratory decompensation at hospitalization
+characterized by respiratory acidosis and hypoxemia.  She had
+a negative CT angio of the chest and episode resolved on its
+own after treatment with high flow oxygen.  The patient had
+been failing to thrive at rehabilitation with poor p.o.
+intake, unable to fully participate in rehabilitation
+activities.
+
+THE patient presented on 2011-09-15 00:00:00 in ventilatory failure and
+hypertension requiring volume resuscitation and temple
+posterior support.  Sputum grew out Klebsiella and urine grew
+out pseudomonas.  All blood cultures were surprisingly
+negative.  The initial impression was that the patient may
+have aspirated however, further workup revealed a
+questionable myopathy and we suspected she is unable to
+effectively clear her secretions.  She has since undergone a
+complicated tracheostomy requiring tracheal repair and open
+sternotomy.
+
+SUMMARY OF HOSPITAL COURSE BY SYSTEM AND PLAN:
+1.  Pulmonary.  Infectious disease.  The patient initially
+presented with hypoxemia, hypercarbia, respiratory failure
+requiring intubation.  The patient originally spiked to 102.8
+and developed leukocytosis to 37,000.  Chest x-ray showed
+bilateral moderate effusions with ill defined opacification
+in the right lung.  CT angio of the chest revealed no
+evidence of pulmonary embolism, scattered ground glass
+opacity, emphysematous changes and moderate bilateral
+effusions, slightly increased since last hospitalization.
+She also demonstrated a large substernal goiter which was
+unchanged.  She was covered with broad spectrum antibiotics
+initially with Ceftazidime, Flagyl as well as Linazolid which
+she has been scheduled to be on through mid-2011-09-15 00:00:00 for
+intra-abdominal Vancomycin Resistant Enterococcus abscess.
+Her left sided effusion was subsequently tapped by
+interventional pulmonology which removed 700 cc's of fluid on
+2011-09-15 00:00:00 which was transudative and sterile.  All blood cultures
+proved negative.  Her sputum did show Klebsiella with urine
+showing pseudomonas.  Her antibiotic therapy was changed to
+Zosyn, Piperacillin, Bactrim for which she received a 7 day
+course.  The patient was weaned off chemical process on 2011-09-15 00:00:00,
+extubated on 2011-09-15 00:00:00.  She initially did well though developed
+sudden acute hypoxemia, respiratory acidosis, apnea and
+generalized unresponsiveness requiring emergent re-intubation
+on 2011-09-15 00:00:00.  This occurred while receiving a bath.  The
+feeling is that she had an underlying questionable myopathic
+process which caused the patient to be unable to clear her
+secretions.
+
+The patient improved rapidly following re-intubation with
+excellent oxygenation though required chemical process
+transiently, Levophed.
+
+On 2011-09-15 00:00:00 the patient underwent percutaneous tracheostomy,
+which was complicated by tear of the posterior trachea.  She
+was taken emergently to the operating room and required open
+sternotomy.  She had a large substernal goiter making her
+airway tortuous.  Bilateral thoracostomy tubes were placed
+which were eventually discontinued on 2011-09-15 00:00:00.  She
+had a mediastinal tube with drainage, was subsequently
+discontinued several days afterwards.  During that period she
+required daily bronchoscopies to check placement of the
+endotracheal tube for suctioning.  She was allowed to have a
+mild cuff leak so as not to produce tension on the suture
+line.  On 2011-09-15 00:00:00 the patient underwent a tracheostomy change
+to a Bivoner tracheostomy flexible trach with a foam cuff.
+The patient tolerated the procedure well.  The patient
+currently is being weaned off vents.  The patient is
+currently requiring assist control 500, tidal volume,
+respiratory rate of 12, FIO2 of 0.4% and PEEP of 5 at night
+time.  During the day the patient is able to tolerate
+pressure support of 8 and PEEP of 5 with FIO2 of 0.4% for
+extended periods of time.
+
+The patient was given multiple trials of pressure support.
+however, the longest that the patient is able to tolerate
+pressure support was approximately 36 hours before she
+subsequently had respiratory decompensation including low
+tidal volumes and decreased oxygen saturation.  Ever since
+the tracheostomy changed to the Bivoner valve the patient is
+unable to tolerate trach mask trial.  It is thought that the
+patient's respiratory failure to wean may be secondary to a
+myopathic process.  Will be discussed later in Neurological
+component of this dictation.
+
+The patient will benefit from pulmonary rehabilitation for
+vent weaning.  Ultimately once the patient is tolerating more
+pressure support on her Bivoner valve the patient will be
+changed over to Shiley which is fenestrated tracheostomy in
+transition to removal of trach.  This trach change will be
+performed by Dr. Charis Brawand Jerelly Dimmer at a later date.  Dr. Jerelly
+telephone number is test@mail.com.  Arrangements should be
+made once the patient is able to tolerate pressure support
+for extended periods of time.  No passine valve should be
+placed on the Bivoner valve as her cuff is a foam cuff and
+does not display completely.
+
+2.  Cardiovascular.  The patient has a history of paroxysmal
+atrial fibrillation since her last hospitalization.  She has
+been on Amiodarone which has since subsequently discontinued
+given a question of contributing to her myopathy.  She has
+required DC cardioversion for atrial fibrillation shortly
+after her initial presentation at UPMCE though subsequently reverted to constant
+atrial fibrillation.  She is currently being rate controlled
+with Lopressor 25 mg p.o. b.i.d.  She had an echo in Late
+2011-09-15 00:00:00 which showed basilar septal left ventricular
+hypertrophy, ejection fraction of greater than 55%  2+ MR, 2+
+TR, moderate pulmonary hypertension.  She was also given a
+trial of low dose Captopril however, her blood pressures
+subsequently were to low systolically, 80's to 90's systolic
+so Captopril was subsequently discontinued.  She required
+persistent diuresis with Lasix however, with aggressive
+diuresis the patient's bicarbonate increased to 40 and she
+developed contraction alkalosis and relatively oliguria.
+
+The patient was subsequently rebolused with intravenous
+fluids and her urine output improved and contraction
+alkalosis subsequently resolved.  The patient's urine output
+subsequently began to pick up, 50 cc's an hour without
+aggressive Lasix diuretic treatment.
+
+3.  Renal. Her BUN and creatinine has remained stable
+throughout her hospitalization.  Her 24 hour urine estimates
+for creatinine clearance approximately 50 to 60.  In regards
+to urine output the patient was aggressively diuresed during
+hospital course however, subsequently became intravascularly
+dry and her urine output subsequently dropped to 5 to 10 cc's
+an hour which responded to intravenous fluid boluses.   It is
+thought the patient would start to mobilize her extravascular
+space once her nutritional status improved.  The patient may
+tolerate gentle diuresis at this point however, will run the
+risk of volume contraction alkalosis and intravascular
+de123 Any St.n and anuria requiring further intravenous fluid
+boluses and further worsening of her anasarca.
+
+4.  Neurology.  The patient was originally evaluated by
+Neurology, felt to have a myopathy with possible muscle
+weakness. The patient had a negative Tensilon test.  An EEG
+was also consistent with mild pathic process, MR to severe
+axonal polyneuropathy was also noted.  It is unclear what is
+the cause of her myopathy.  Differential includes critical
+care myopathy versus dry induced myopathy.   Potential
+offenders include Amiodarone and Lanazolide.  She also had
+normal CK laboratory test.  Her thyroid and renal functions
+have been measured and are normal.
+
+Originally there was a planned biopsy by Neurosurgery during
+the trach change in the operating room however, the biopsy of
+the muscle was not performed as Dr. Charis Brawand was unavailable
+for the muscle biopsy.  However, given her recurrent status
+will defer muscle biopsy to a later date.   Her prognosis is
+unclear at this point.  It is unclear whether or not the
+patient will benefit from steroids.
+
+5.  Gastrointestinal.  The patient has a history of lower
+gastrointestinal bleed with bright red blood per rectum
+during her last hospitalization which was a negative
+colonoscopy.  She has been occult blood negative for most
+part during hospitalization.  She did screens which have been
+negative.  However, the most recent C. diff colitis screen
+was positive for C. diff colitis.  The patient was started on
+Metronidazole per percutaneous endoscopic gastrostomy tube
+for treatment, complete a 14 day course.  She had an
+abdominal CT without contrast done earlier in the hospital
+which showed basically resolution of her former abdominal
+abscess.  Her Linazolide was discontinued on 2011-09-15 00:00:00 with
+Infectious Disease's recommendations.  She currently has a
+percutaneous endoscopic gastrostomy tube placed and was
+receiving tube feeds and most of her medications through the
+percutaneous endoscopic gastrostomy tube.
+
+6.  Genitourinary.  The patient had multiple numerous urinary
+tract infections with bacteria and yeast and on 2011-09-15 00:00:00 Foley
+was subsequently changed.  The patient received two days of
+Levofloxacin discontinued following development of a fine
+erythematous rash involving upper chest, back and thighs.
+The patient subsequently development of a urinary tract
+infection is being treated with Bactrim DS tablets p.o.
+b.i.d., will complete a 7 day course.  The patient has
+subsequently had multiple yeast infections as well treated
+with Diflucan and Foley changes.
+
+7.  Heme.  The patient developed thrombocytopenia with a drop
+in her platelets down to 100,000 during earlier part of her
+hospitalization the etiology was unclear.  It is thought to
+be drug related verses thrombocytopenia with sepsis.  Her
+Thrombocytopenia has subsequently resolved.  She has required
+intermittent transfusions of packed red blood cells during
+hospitalization without clear source of bleeding.  The
+patient may have anemia of chronic disease at this point.
+During the later part of her hospitalization the patient's
+hematocrit has subsequently stable around 30.  The patient
+has been on Heparin during a portion of her hospitalization
+for catheter related thrombosis of the right anterior
+jugular, partial non-occlusive clot.  The line was
+subsequently discontinued and was started on Heparin for
+earlier part of her hospitalization and subsequently held
+prior to her procedures of tracheostomy.  Heparin was
+restarted during the later part of her hospital course and
+Coumadin was subsequently started.  INR should be checked and
+Heparin should be discontinued once her INR is greater than
+2.0.  Goal INR is greater than 2, less than 3.0.  The patient
+tolerating Coumadin 5 mg p.o. q h.s.
+
+8.  Endocrine.  The patient was maintained on Synthroid
+throughout her entire hospital course.  Random Cortisol
+during her hospital course revealed measurement of 20, the
+patient was not adrenal insufficient.  The patient's
+hypothyroidism was subsequently treated with hormone
+replacement.
+
+9.  FEN.  The patient had unexplained hyponatremia as an
+outpatient at the rehabilitation and upon presentation at
+UPMCE questionable whether or
+not the patient has inappropriate NIDH also, responded with
+intravenous fluid resuscitation.  The hyponatremia
+subsequently resolved.  The patient was briefly on total
+parenteral nutrition around the time of her tracheal repair.
+The patient was subsequently tolerating tube feeds and
+subsequently had percutaneous gastrostomy tube placed and
+performed by Interventional Radiology and has been receiving
+tube feeds Promod without fiber and subsequently been doing
+well.  Currently at goal of 70 cc's per hour.  During her
+entire hospital course the patient had episodes of
+hypocalcemia, hypokalemia which was subsequently repleted and
+with resolution.  The patient received approximately 250 cc's
+of free water boluses through her percutaneous endoscopic
+gastrostomy tube b.i.d.
+
+10.  Prophylaxis.  The patient currently on Pneumo boots, on
+Heparin GGT and is in the process of transition to Coumadin.
+The patient receives Prevacid through her percutaneous
+endoscopic gastrostomy tube.
+
+11. Lines:  The patient currently has a right single lumen
+PICC line for access.  The patient has Foley and a
+Percutaneous endoscopic gastrostomy tube placed as well.
+
+DISCHARGE MEDICATION:
+1.  Lopressor 25 mg per G-tube b.i.d.
+2.  Synthroid 75 mcg per G-tube q day.
+3.  Prevacid suspension 30 mg per G-tube q day.
+4.  Paxil 20 mg per G-tube q day.
+5.  Heparin GGT.
+6.  Promod without fiber, goal of 70 cc's per hour through
+    the percutaneous endoscopic gastrostomy tube.
+7.  Bactrim DS tablets p.o. b.i.d. times seven day course
+    to finish on 2011-09-15 00:00:00.
+8.  Metronidazole 500 mg per G-tube q 8 hours times 14
+    days to finish on 2011-09-15 00:00:00.
+9.  Coumadin 5 mg per G-tube q h.s.
+10. Lactulose 30 cc's per G-tube q day p.r.n.
+    constipation.
+11. Albuterol MDI 2 puffs q 4 to 6 hours p.r.n.
+    shortness of breath and wheezing.
+12. Atrovent MDI 2 puffs q 4 to 6 hours p.r.n. shortness
+    of breath and wheezing.
+13. Tylenol 650 mg p.o. G-tube/per rectum q 4 to 6 hours
+    p.r.n. temperature.
+14. Trazodone 25 to 50 mg per G-tube q h.s. p.r.n.
+    insomnia.
+15. Nystatin Powder applied to effected area p.r.n.
+
+
+16. Promod without fiber via percutaneous endoscopic
+    gastrostomy tube 70 cc's per hour at goal.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE ACTIVITIES:  Bedrest and per physical therapy.
+
+Discharged to physical and pulmonary rehabilitation for vent
+weaning.
+
+
+
+
+
+
+
+                            Charis Brawand, M.D.  20007
+
+Dictated By:Charis Brawand
+MEDQUIST36
+
+D:  2011-09-15 00:00:00  18:50
+T:  2011-09-15 00:00:00  18:56
+JOB#:  20007
+1
+1
+1
+R
+

@@ -1,0 +1,353 @@
+Admission Date:  2014-02-06 00:00:00              Discharge Date:   2014-02-06 00:00:00
+
+
+Service: SURGERY
+
+Allergies:
+Golytely / Morphine
+
+Attending:Dorlisa Nollman
+Chief Complaint:
+Nausea and Vomiting
+Inability to speak x minutes
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+83F  with h/o seven prior strokes, HTN, NIDDM, vertigo, Bell's
+Palsy who reports a one day history of nausea and vomiting
+complicated by a brief episode of weakness/altered
+responsiveness and inability to speak while sitting on toilet.
+This was witnessed by her daughter.
+
+Past Medical History:
+history of CAD< s/p LAD stent in 2014-02-06 00:00:00
+DM 2 x 25 year
+hypercholesterolemia
+hypertension
+history of CVA x3
+
+
+Social History:
+60 pack year smoking history but quit smoking about 40 years
+ago; denies etoh; currently living w/ one of her daughter
+
+
+Family History:
+history of ulcer disease; father died of MI at 69; mom died of
+MI at age of 66; 1st brother died of CAD , brain hemorrhage at
+the age of 63; 2nd brother died of CVA at the age of 59
+
+Physical Exam:
+Admission Physical Exam - 2014-02-06 00:00:00
+
+96.7  56  139/49  18  99%RA
+NGT with 500 nonbilious drainage
+Abd: soft, mildly tympanitic, ND, hypoactive BS
+
+Pertinent Results:
+Admission Labs
+--------------------
+2014-02-06 00:00:00 06:00PM BLOOD WBC-15.3*# RBC-4.29 Hgb-13.5 Hct-38.8
+MCV-91 MCH-31.5 MCHC-34.8 RDW-13.6 Plt Ct-257
+2014-02-06 00:00:00 06:00PM BLOOD PT-12.0 PTT-21.9* INR(PT)-1.0
+2014-02-06 00:00:00 06:00PM BLOOD Glucose-168* UreaN-28* Creat-0.8 Na-135
+K-5.0 Cl-101 HCO3-19* AnGap-20
+2014-02-06 00:00:00 06:00PM BLOOD CK(CPK)-57
+2014-02-06 00:00:00 06:00PM BLOOD Phos-4.6* Mg-2.2
+2014-02-06 00:00:00 01:14PM BLOOD Phenyto-14.4
+2014-02-06 00:00:00 06:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+Discharge Labs
+--------------------
+2014-02-06 00:00:00 05:15AM BLOOD WBC-8.6 RBC-3.23* Hgb-10.9* Hct-29.7*
+MCV-92 MCH-33.7* MCHC-36.7* RDW-13.2 Plt Ct-189
+2014-02-06 00:00:00 05:15AM BLOOD Plt Ct-189
+2014-02-06 00:00:00 05:15AM BLOOD Glucose-97 UreaN-9 Creat-0.4 Na-137 K-3.8
+Cl-105 HCO3-18* AnGap-18
+2014-02-06 00:00:00 05:15AM BLOOD Calcium-8.3* Phos-2.0* Mg-2.1
+2014-02-06 00:00:00 04:08PM BLOOD Phenyto-11.6
+
+Abdomen/Pelvis CT
+CT ABDOMEN WITHOUT CONTRAST: The visualized lung bases are
+clear. There are extensive coronary artery and mitral annular
+calcifications. There are multiple fluid-filled dilated loops of
+small bowel measuring up to 3 cm in maximal transverse dimension
+consistent with small bowel obstruction. A likely transition
+point is seen in the right lower abdominal quadrant (series 2,
+image 60) with proximal fecalization of small bowel contents and
+collapsed loops of ileum seen distally. There is no evidence of
+free intraperitoneal air or fluid. The unenhanced liver
+demonstrates decreased attenuation in segment IV consistent with
+focal fatty infiltration. There is no intra- or extra- hepatic
+biliary ductal dilatation. The pancreas, spleen, and right
+adrenal gland appear normal. Again noted in the left adrenal
+gland is a 2.1 x 2.4-cm myolipoma, unchanged in size and
+appearance from the prior exam. The right adrenal is normal.
+Within the left kidney, there are numerous well-defined
+hypodense small cysts, the largest in the lower pole measuring
+2.2 x 2.0 cm. The right kidney is unremarkable. The
+gastrojejunostomy anastomosis is intact and appears
+unremarkable. There is no mesenteric or retroperitoneal
+lymphadenopathy. The abdominal aorta and its branches are
+heavily calcified.
+
+CT PELVIS WITH IV CONTRAST: A Foley catheter is seen in a
+partially distended bladder. Calcified fibroids are identified.
+There are numerous sigmoid diverticula without evidence of
+surrounding inflammation. No free pelvic fluid or
+inguinal/pelvic lymphadenopathy is identified.
+
+BONE WINDOWS: No osseous findings suspicious for malignancy are
+identified.
+
+CT RECONSTRUCTIONS: Coronal reconstructions were essential for
+delineating the anatomy and presence of small bowel obstruction
+with transition point in the right lower abdominal quadrant.
+
+IMPRESSION:
+
+1. Small bowel obstruction with a transition point involving the
+distal ileum. No evidence of perforation, obstructing mass, or
+abscess.
+2. Stable left adrenal myolipoma.
+3. Multiple simple left renal cysts.
+4. Fibroid uterus.
+5. Numerous colonic diverticula without evidence of
+diverticulitis.
+6. Stable focal fatty infiltration in segment IV of the liver.
+
+CT Head 2014-02-06 00:00:00
+---------------
+TECHNIQUE: Non-contrast head CT.
+
+FINDINGS: No hemorrhage, mass, hydrocephalus,or shift of
+normally midline structures. No major vascular territorial
+infarct is apparent. Dorlisa Nollman-white matter differentiation is
+preserved. Areas of low attenuation are seen in the
+periventricular white matter, likely reflecting chronic
+microvascular ischemic changes. An old lacunar infarct is seen
+in the left thalamus, as well as a hypodense focus in the left
+paramedian pons, corresponding to the region of diffusion
+abnormality noted on the MRI from 2014-02-06 00:00:00. Paranasal
+sinuses and mastoid air cells are normally aerated. Dense
+vascular calcifications are noted in the cavernous carotid.
+
+IMPRESSION: No acute intracranial process.
+
+CT HEAD W/O CONTRAST  2014-02-06 00:00:00 3:43 AM
+TECHNIQUE: Non-contrast head CT.
+
+FINDINGS: There has been interval development of a moderate
+high-density extra-axial collection layering over the right
+frontal convexity consistent with subdural hematoma. There is
+moderate leftward subfalcine herniation and compression of the
+adjacent right lateral ventricle. No major vascular territorial
+infarct is identified. There is an old lacunar infarct in the
+left thalamus as well as an area of encephalomalacia in the left
+paramedian pons. Dense vascular calcifications are noted in the
+cavernous carotid. No fracture is identified on bone algorithm
+windows. A mucous retention cyst is seen in the left maxillary
+sinus.
+
+IMPRESSION:
+1. Right-sided acute subdural hematoma causing subfalcine
+herniation. Findings were discussed with Dr. Dorlisa Nollman
+immediately upon com123 Any St.n of the study. The need for urgent
+neurosurgical consultation was discussed.
+
+CT HEAD W/O CONTRAST  2014-02-06 00:00:00 11:22 AM
+NON-CONTRAST HEAD CT: Comparison with 2014-02-06 00:00:00, 5:18
+a.m. Again seen is an extraaxial subdural hematoma outlining the
+right frontal, temporal, and parietal cerebral convexities. It
+is similar in appearance and size, with some mass effect exerted
+on the underlying cerebral cortex. The study is somewhat limited
+by motion, however, there is no evidence of intraparenchymal
+hemorrhage, acute major vascular territorial infarct. The degree
+of subfalcine herniation is approximately the same. The bony
+structures are unchanged. Imaged sinuses and mastoid air cells
+are clear.
+
+Small amount of blood is again seen in lateral ventricles. A
+small focus of hemorrhage is also again noted in septum
+pellucidum.
+
+IMPRESSION: Continued appearance of right cerebral convexity
+subdural hematoma. No new findings.
+
+CT HEAD W/O CONTRAST  2014-02-06 00:00:00 1:08 AM
+TECHNIQUE: Non-contrast head CT.
+
+FINDINGS: Again identified is a high attenuation extra-axial
+subdural hematoma layering over the right frontotemporal and
+parietal cerebral convexities. It is similar in size to the
+prior study and exerts mild mass effect exerted on the adjacent
+lateral ventricle. No new areas of hemorrhage are identified.
+The degree of subfalcine herniation has decreased over the
+interval. The bony structures are unchanged. Imaged paranasal
+sinuses and mastoid air cells are well aerated.
+
+IMPRESSION: Stable appearance of right cerebral convexity
+subdural hematoma with decreasing subfalcine herniation. No
+evidence of new hemorrhage.
+
+CT ABDOMEN W/CONTRAST  2014-02-06 00:00:00 1:28 PM
+INDICATION: 83-year-old female with recent small-bowel
+obstruction and new subdural hematoma. Please evaluate status of
+small-bowel obstruction.
+
+COMPARISON: 2014-02-06 00:00:00.
+
+TECHNIQUE: Continuous MDCT acquired axial images were obtained
+from the lung bases to the pubic symphysis after the
+administration of 110 cc Optiray intravenous contrast. Oral
+contrast was administered. Multiplanar reformatted images were
+obtained and reviewed.
+
+CT OF THE ABDOMEN WITH IV CONTRAST: Minor atelectatic changes
+are noted at the dependent portions of the lung bases. Coronary
+artery and mitral annular calcification is again noted. The
+liver enhances homogeneously. Again noted in segment IV of the
+liver is an irregular area of slightly lower attenuation than
+the surrounding parenchyma, adjacent to the falciform ligament.
+This likely represents an area of focal fatty infiltration. The
+gallbladder, spleen, pancreas, and right adrenal gland are
+within normal limits. Left adrenal myelolipoma is unchanged in
+size and appearance from the 123 Any St.us study. Multiple bilateral
+renal cysts are again noted, not significantly changed from
+123 Any St.us exam. The kidneys otherwise enhance and excrete
+contrast symmetrically. The ureters are normal in appearance,
+without evidence of hydronephrosis. The patient is status post
+Billroth II, and the gastrojejunostomy anastomosis again appears
+unremarkable. Nasogastric tube is seen located within the
+stomach. There has been interval resolution of small- bowel
+obstruction. No dilated loops of bowel are seen. There is no
+evidence of free air, free fluid, or pathologically enlarged
+mesenteric or retroperitoneal lymphadenopathy. Extensive
+vascular calcifications are again noted within the abdominal
+aorta and its branches.
+
+CT OF THE PELVIS WITH IV CONTRAST: The rectum is moderately
+distended. Sigmoid diverticulosis is again noted, without
+evidence of diverticulitis. Uterine fibroids are present, some
+of which have calcified. A Foley catheter is present within a
+partially decompressed bladder. No free fluid is seen within the
+pelvis, and there is no evidence of abnormal pelvic or inguinal
+lymphadenopathy.
+
+BONE WINDOWS: No suspicious lytic or sclerotic bony lesions are
+identified.
+
+IMPRESSION:
+
+1. Interval resolution of small-bowel obstruction.
+
+2. Unchanged appearance of left adrenal myelolipoma.
+
+3. Unchanged appearance of multiple left renal cysts.
+
+4. Unchanged appearance of fibroid uterus with calcification.
+
+5. Diverticulosis, without evidence of diverticulitis.
+
+6. Unchanged appearance of focal fatty infiltration of segment
+IV of the liver.
+
+
+Brief Hospital Course:
+Doser was evaluated in the emergency department at UPMCE on
+2014-02-06 00:00:00.  WBC count was elevated at 15.3. Abdominal/Pelvic CT
+scan showed a small bowel obstruction with a transition point
+involving the distal ileum.  Neurology exam noted not focal
+deficits.  Head CT showed no acute intracranial process.
+Baseline chest xray was negative. She was admitted to the
+hospital.  She was made NPO, IV fluids were started and an NG
+tube was inserted for decompression.
+
+At HD 1 she was found on the floor for unwitnessed fall. There
+was no change in mental status and no evidence of injury.
+Repeat head CT scan showed a right-sided acute subdural hematoma
+causing subfalcine herniation.  She was transferred to SICU for
+further monitoring. Dilantin was started.
+
+At HD 2 the patient was stable and doing well.  NGT output was
+low at 200ml over 24 hours. KUB showed no sign of obstruction.
+Repeat head CT showed stable appearance of right cerebral
+convexity subdural hematoma with decreasing subfalcine
+herniation, with no evidence of new hemorrhage. EEG showed no
+seizure activity.
+
+At HD 3 she was afebrile.  WBC count was 12.8.  She remained NPO
+with IV fluids while we awaited bowel function. Repeat
+abdominal/pelvic CT showed resolution of the bowel obstruction.
+
+At HD 4 she had return of bowel function.  Her diet was advanced
+to sips.  Dilantin was continued.  Neurology/Neurosurgery
+continued to follow.
+
+At HD 5 she was discharged to UPMCE Health Care in good
+condition.  At discharge her dilantin level was 11.6.  She was
+to continue Dilantin for 4 weeks until follow up in Neurosurgery
+clinic with Dr. Doser.  She was to restart her Plavix and ASA
+tomorrow. She has an appointment with Dr. Dorlisa Nollman on 2014-02-06 00:00:00.
+She has a repeat head CT scheduled on 2014-02-06 00:00:00 and an
+appointment with Dr. Doser after the scan.
+
+Medications on Admission:
+Lopressor 50 UPMCE
+Glucotrol XL 5 UPMCE
+Cozar 50 QD
+Vytorin 10/40 QD
+Plavix 75
+Nitro 0.3 PRN
+ASA 81
+Cosopt
+Xalatan
+
+Discharge Medications:
+1. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+2. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic UPMCE (2 times a day).
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours) for
+4 weeks.
+Disp:*28 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule
+PO TID (3 times a day) for 4 weeks.
+Disp:*84 Capsule(s)* Refills:*0*
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+6. Glipizide 5 mg Tab,Sust Rel Osmotic Push 24HR Sig: One (1)
+Tab,Sust Rel Osmotic Push 24HR PO BID (2 times a day).
+7. Losartan 25 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+8. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Rehab & Nursing Center - UPMCE
+
+Discharge Diagnosis:
+1) subdural hematoma
+2) abdominal pain
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+return to ER if
+- persistent temp > 101.4
+- severe abdominal pain or pelvic pain
+- persistent nausea, vomiting, or diarrhea
+
+
+
+Completed by:2014-02-06 00:00:00

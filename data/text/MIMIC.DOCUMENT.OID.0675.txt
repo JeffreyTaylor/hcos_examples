@@ -1,0 +1,248 @@
+Admission Date:  2009-09-02 00:00:00              Discharge Date:   2009-09-02 00:00:00
+
+Date of Birth: 1932-09-02 00:00:00 00:00:00             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:Darika Tolison
+Chief Complaint:
+none
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+The patient is a 50 year old right-handed man presenting
+with a few weeks of progressively worsening headache. He rarely
+has headaches (certainly no migraine or recurrent severe
+headaches), but he started having a headache after sustaining a
+head injury on 2009-09-02 00:00:00. He was driving his car and was
+broad-sided on the passenger side, causing him to hit the left
+side of his head on the side window. He did not lose
+consciousness and was not stunned, but actually was able to
+drive
+home (after the rather unpleasant other driver confronted him).
+He had no external evidence of head trauma. He started having a
+bitemporal, vertex, neck, and back achy that was predominantly
+pulsatile, sometimes with a stabbing "needle-like" paroxysmal
+pain in his eyes. The headache has been constant with no
+temporal
+relationship, but of concern it actually has awakened him from
+sleep in the early morning hours. Getting up and walking around
+has not helped; neither has the 2009-09-02 00:00:00 Ibuprofen tablets he takes,
+sometimes every day. The headache has been gradually worsening
+over time, and he finds that he is becoming quite lethargic with
+the headache, sleeping all day while he is usually a very active
+person. He has had nausea with the headache and has started to
+eat less, perhaps losing 5 lbs during this time due to the
+nausea. Otherwise he had no weight loss before this. He does
+think he has had some subjective (unmeasured) fevers. He denies
+drenching night sweats but has felt slightly sweaty at times. He
+thinks he may have had one of his usual "seizures" two days ago
+(described as feeling lightheaded, then hot and sweaty, then he
+lays down to prevent loss of consciousness, then has some Teitelbaum
+vu), but otherwise has had no apparent increased frequency above
+his usual.
+
+On neurologic review of systems, the patient endorses headache.
+Denies lightheadedness, or confusion.
+Denies difficulty with producing or comprehending speech.
+Denies loss of vision, blurred vision, diplopia, vertigo,
+tinnitus, hearing difficulty, dysarthria, or dysphagia.
+Denies muscle weakness.
+Denies loss of sensation.
+Denies bowel or bladder incontinence or retention.
+Denies difficulty with gait.
+
+On general review of systems, the patient endorses subjective
+fevers. Denies rigors, night sweats, or noticeable weight loss.
+Denies chest pain, palpitations, dyspnea, or cough.
+Denies nausea, vomiting, diarrhea, constipation, or abdominal
+pain.
+Denies dysuria or hematuria.
+Denies myalgias, arthralgias, or rash.
+
+
+Past Medical History:
+[] Neurologic - Possible/questionable seizures (lightheaded,
+fatigue, Teitelbaum vu, +/- LOC), Left hearing loss
+[] Psychiatric - Anxiety, depression
+[] Cardiovascular - Hyperlipidemia
+
+
+Social History:
+Works as a waiter. +Tobacco, 1ppd x 20 years. No
+ETOH. No illicit drug use.
+
+
+Family History:
+Heart valve issue (mother). No seizures. No
+malignancies.
+
+
+Physical Exam:
+VS T: 98.8 HR: 68 BP: 136/78 RR: 18 SaO2: 98% RA
+General: NAD, lying in bed comfortably, tired appearing
+middle-aged man. / Head: NC/AT, no conjunctival icterus, no
+oropharyngeal lesions / Neck: Supple, no nuchal rigidity, no
+meningismus, no bruits / Cardiovascular: RRR, no M/R/G /
+Pulmonary: Equal air entry bilaterally, no crackles or wheezes /
+Abdomen: Soft, NT, ND, +BS, no guarding / Extremities: Warm, no
+edema, palpable radial/dorsalis pedis pulses / Skin: No rashes
+or
+lesions / Psychiatric: Appropriate and friendly affect congruent
+with mood, pleasant, joking manner
+
+Neurologic Examination:
+
+- Mental Status - Awake, alert, oriented x 3. Attention to
+examiner easily attained and maintained. Concentration
+maintained
+when recalling months backwards. Recalls a coherent history.
+Structure of speech demonstrates fluency with full sentences,
+intact repetition, and intact verbal comprehension. Content of
+speech demonstrates intact naming (high and low frequency) and
+no
+paraphasias. Normal prosody. No dysarthria. Verbal registration
+and recall 2009-09-02 00:00:00. No apraxia. No evidence of hemineglect. No
+left-right agnosia.
+
+- Cranial Nerves - [II] PERRL 3->2 brisk. VF full to number
+counting. Funduscopy shows crisp disc margins, no papilledema.
+[III, IV, VI] EOMI, 3-4 beats extreme end gaze nystagmus
+bilaterally, fatigable. [V] V1-V3 without deficits to light
+touch
+bilaterally. [VII] Left lip downturned, but normal movement with
+volitional smile; driver's license photograph reveals asymmetric
+smile at baseline. [VIII] Hearing intact to finger rub
+bilaterally. [IX, X] Palate elevation symmetric. [Darika Tolison
+SCM/Trapezius strength 5/5 bilaterally. [XII] Tongue midline.
+
+- Motor - Normal bulk and tone. No pronation, no drift. No
+tremor
+or asterixis. No myoclonus.
+
+[ Direct Confrontational Strength Testing ]
+Arm
+Deltoids [C5] [R 5] [L 5]
+Biceps [C5] [R 5] [L 5]
+Triceps [C6/7] [R 5] [L 5]
+Extensor Carpi Radialis [C6] [R 5] [L 5]
+Extensor Digitorum [C7] [R 5] [L 5]
+Flexor Digitorum [C8] [R 5] [L 5]
+Interosseus [C8] [R 5] [L 5]
+Abductor Digiti Minimi [C8] [R 5] [L 5]
+
+Leg
+Iliopsoas [L1/2] [R 5] [L 5]
+Hip Adductors [L3] [R 5] [L 5]
+Hip Abductors [S1] [R 5] [L 5]
+Quadriceps [L3/4] [R 5] [L 5]
+Hamstrings [L5/S1] [R 5] [L 5]
+Tibialis Anterior [L4] [R 5] [L 5]
+Gastrocnemius [S1] [R 5] [L 5]
+Extensor Hallucis Longus [L5] [R 5] [L 5]
+Extensor Digitorum Brevis [L5] [R 5] [L 5]
+Flexor Digitorum Brevis [S1] [R 5] [L 5]
+
+- Sensory - No deficits to light touch, pinprick, or
+proprioception bilaterally.
+
+- Reflexes
+=[Bic] [Tri] [Teitelbaum] [Quad] [Gastroc]
+L 2      2      2      2        2
+R 2      2      2      2        2
+Plantar response flexor bilaterally.
+
+- Coordination - No dysmetria with finger to nose testing
+bilaterally. Good speed and intact cadence with rapid
+alternating
+movements.
+
+- Gait - Normal initiation. Narrow base. Normal stride length
+and
+arm swing. Stable without sway. No Romberg.
+
+
+Pertinent Results:
+Laboratory and Imaging Data:
+NC Head CT: large area of right temporal parietal enhaning mass
+with
+vasogenic edema, possibly underlying soft tissue abnormality,
+about 10mm midline shift to left, possible minor hemorrhage
+component
+
+MRI Head c/s contrast: (my impression) contrast-enhancing right
+frontal lesion with significant vasogenic edema and midline
+shift, also with necrotic core
+
+WBC 12.7, Hgb 16.8, Plt 346, MCV 92, Na 139, K 4.2, Cl 104, HCO3
+28, BUN 16, Cr 0.7, Glu 93
+
+
+Brief Hospital Course:
+Patient was admitted to Neurosurgery on 2009-09-02 00:00:00 for further
+evaluation.  He was started on dexamethasone 4mg Q6h for
+cerebral edema.  A CT Chest was obtained given his smoking
+history which showed no apparent lung mass.
+
+Surgical intervention was discussed.  Patient wished to be
+discharged and follow-up for surgery this week. Now DOD, patient
+is afebrile, VSS, and neurologically stable.
+
+Medications on Admission:
+keppra 1500bid, sertaline 50qd
+
+
+Discharge Medications:
+1. Acetaminophen-Caff-Butalbital 2009-09-02 00:00:00 TAB PO Q4H:PRN pain,
+headache
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg 1 tablet(s)
+by mouth every six (6) hours Disp #*40 Tablet Refills:*0
+2. Dexamethasone 4 mg PO Q6H
+RX *dexamethasone 4 mg 1 tablet(s) by mouth Q6 hours Disp #*60
+Tablet Refills:*0
+3. Famotidine 20 mg PO BID
+RX *famotidine 20 mg 1 tablet(s) by mouth twice a day Disp #*60
+Tablet Refills:*0
+4. LeVETiracetam 1500 mg PO BID
+5. Nicotine Patch 14 mg TD DAILY
+RX *nicotine 14 mg/24 hour 1 patch daily Disp #*30 Each
+Refills:*0
+6. Sertraline 50 mg PO DAILY
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+right brain mass
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You have been diagnosed with right temporal parietal brain mass.
+
+You were started on dexamethasone 4mg Q6hours.  You should
+continue on this to keep the swelling in your head down.
+You are on Keppra for seizures, you should continue on this.
+You were started on pepcid, please continue this while on
+dexamethasone
+
+Followup Instructions:
+Please call test@mail.com to schedulre your surgery with Dr.
+Teitelbaum for this week.
+
+
+                             Brendalee Teitelbaum Brendalee Teitelbaum MD 63660
+
+Completed by:2009-09-02 00:00:00

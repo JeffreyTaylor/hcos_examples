@@ -1,0 +1,49 @@
+Admission Date: 2009-02-23 00:00:00        Discharge Date: 2009-02-23 00:00:00
+
+Date of Birth: 1987-02-19 00:00:00 00:00:00        Sex:  F
+
+Service:  Horine
+
+
+ADMISSION DIAGNOSIS:  Colorectal metastases to the liver.
+
+PROCEDURES PERFORMED:
+1. She had a right hepatic lobectomy.
+2. CT angiography of the chest to rule out a PE.
+
+
+DETAILS OF HOSPITAL COURSE:  Ms. Horine is a 47 year old
+female who presented with synchronous colorectal metastases
+to the liver from a colonic primary. She underwent a colonic
+resection in the fall of 2009-02-23 00:00:00. Underwent chemotherapy which
+resulted in a substantial reduction in the tumor volume and
+the liver. After com123 Any St.g her chemotherapy course and
+preoperative work up including a chest CT and PET scan, she
+was believed resectable.
+
+She was taken to the operating room on 2009-02-23 00:00:00 where
+she underwent a right hepatic lobectomy. The procedure was
+uncomplicated. She spent 1 day in the intensive care unit and
+was transferred to the floor.
+
+On postoperative  day #4, she developed a marked hypoxia and
+tachycardia. Was transferred back to the surgical intensive
+care unit where she underwent work up for a pulmonary
+embolus. No embolus was identified. Chest x-ray was
+unremarkable. Over the next 24 hours her oxygen requirement
+decreased and she was transferred back to the floor. Hospital
+stay was unremarkable. The pathology report demonstrated no
+residual tumor within the liver specimen.
+
+She was discharged home on 2009-02-23 00:00:00. She will follow up
+with Dr. Afrika Moscardini in 1 week.
+
+
+
+                        Dereginald Horine, 12151
+
+Dictated By:Afrika Moscardini
+MEDQUIST36
+D:  2009-02-23 00:00:00 07:19:44
+T:  2009-02-23 00:00:00 07:42:15
+Job#:  12151

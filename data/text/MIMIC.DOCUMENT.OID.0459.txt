@@ -1,0 +1,351 @@
+Admission Date:  2014-03-25 00:00:00              Discharge Date:   2014-03-25 00:00:00
+
+Date of Birth: 1965-03-19 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Demerol
+
+Attending:Alveiro Kullas
+Chief Complaint:
+Exertional dyspnea
+
+Major Surgical or Invasive Procedure:
+2014-03-25 00:00:00
+1. Aortic valve replacement with a 27-mm UPMCE Ultra
+    Aortic Valve Bioprosthesis.
+2. Epiaortic duplex scanning.
+
+
+History of Present Illness:
+Mr. Hope is a 77yo male with known aortic stenosis and
+coronary artery disease. He has been followed with serial
+echocardiograms which have shown progression of his aortic valve
+disease. Over the last year to six months, he
+has developed slight exertional dyspnea most notable on his one
+mile walk, which he does routinely as well as taking out the
+trash barrels subtle but a change. Dr Hope was consulted for
+surgical evaluation
+
+Past Medical History:
+Past Medical History
+- Aortic Stenosis
+- Coronary Artery Disease
+- Dyslipidemia
+- Hypertension
+- Prior CVA, affecting left eye ( 10 yrs ago)
+- Carotid Disease, Right ICA
+- L subclavian steal
+- Left Renal Artery Stent
+- Chronic Renal Insufficiency, baseline Cr around 2.0
+- Rheumatoid Arthritis
+- Macular Degeneration ( legally blind)
+- Cognitive Impairment, progressive memory loss
+- History of Mesenteric artery insufficiency
+- Cataracts
+- Anemia
+Past Surgical History:
+-tonsillectomy
+-R cataract Alveiro Kullas
+
+
+Social History:
+-Tobacco history:  quit 45 yrs ago, used to smoke 1PPD x 25 yrs
+-ETOH:  drinks 4-6 beers on wknd
+-Illicit drugs:  denies
+
+
+
+Family History:
+Pt reports that his father had heart problems, but unsure what
+kind as died when pt was 9 at age 60.  Aiham Hope sister had a valve
+replaced at age 81, but died at age 82 from colon cancer.  Aiham Hope
+brother also had rhematic fever when he was a child, but died of
+alcoholism related causes.
+
+Physical Exam:
+Admission
+Pulse: 60 Resp:16  O2 sat:  98%
+B/P  Right:124/54    Left: 96/55
+Height: 67"    Weight:150#
+
+General: NAD, takes time to formulate his sentences
+Skin: Dry [x] intact [x]dry rash B hands and L forearm
+HEENT: PERRLA [x] EOMI [x]injected sclera B; OP unremarkable
+Neck:  Supple [x] Full ROM []no JVd ap123 Any St.ted
+Chest: Lungs clear bilaterally [x]
+Heart: RRR []  Irregular []  Murmur [x] grade 2014-03-25 00:00:00 harsh systolic
+that radiates to B carotids
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+no HSM; mild dry rash B groins
+Extremities: Warm [x] well-perfused [x]  Edema []none
+Varicosities: None [x]; mild rubor B hands with deformity of
+digits
+Neuro: Grossly intact , nonfocal exam, MAE 2014-03-25 00:00:00 strengths; mild
+memory loss
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 1+  Left:1+
+PT           Aiham Hope: 1+  Left:1+
+Radial       Right: 2+  Left:1+
+
+Carotid Bruit:      murmur radiates loudly to B carotids
+
+Discharge
+ 99.1  75SR  137/66  20  97%-RA
+Gen NAD
+CV RRR, no murmur. Sternum stable, incision CDI
+Pulm CTA-bilat
+Abdm soft, NT/ND/NABS
+Ext warm, well perfused, trace edema
+
+Pertinent Results:
+Admission labs
+2014-03-25 00:00:00 08:10AM   HGB-11.5* calcHCT-35
+2014-03-25 00:00:00 08:10AM   GLUCOSE-97 LACTATE-1.7 NA+-140 K+-4.1 CL--106
+2014-03-25 00:00:00 01:30PM   UREA N-28* CREAT-1.6* SODIUM-142
+POTASSIUM-4.6 CHLORIDE-113* TOTAL CO2-23 ANION GAP-11
+2014-03-25 00:00:00 01:30PM   WBC-13.7*# RBC-3.33* HGB-11.1* HCT-32.4*
+MCV-98 MCH-33.5* MCHC-34.3 RDW-15.3
+2014-03-25 00:00:00 01:30PM   PLT COUNT-101*
+2014-03-25 00:00:00 01:30PM   PT-11.9 PTT-29.7 INR(PT)-1.1
+Discharge labs
+2014-03-25 00:00:00 04:30AM BLOOD WBC-7.9 RBC-3.11* Hgb-10.1* Hct-31.1*
+MCV-100* MCH-32.4* MCHC-32.3 RDW-15.5 Plt Ct-176#
+2014-03-25 00:00:00 04:30AM BLOOD Plt Ct-176#
+2014-03-25 00:00:00 04:30AM BLOOD PT-28.5* INR(PT)-2.7*
+2014-03-25 00:00:00 05:40AM BLOOD PT-35.3* INR(PT)-3.4*
+2014-03-25 00:00:00 06:20AM BLOOD PT-16.8* INR(PT)-1.6*
+2014-03-25 00:00:00 04:30AM BLOOD UreaN-30* Creat-1.7* Na-137 K-4.1 Cl-96
+2014-03-25 00:00:00 04:30AM BLOOD Mg-2.0
+
+Radiology Report CHEST (PA & LAT) Study Date of 2014-03-25 00:00:00 5:34 PM
+
+123 Any St.inary Report Small bilateral pleural effusions are
+smaller. Lungs are clear. Heart size normal. Thoracic aorta
+generally large but not focally dilated. Slight misalignment of
+the lower four sternal wires with respect to the upper three has
+been a constant feature since surgery. The wires are intact and
+there has been no interval displacement. No pneumothorax.
+DR. Hope Aiham Hope
+DR. Alveiro Kullas Hope
+
+UPMCE ECHOCARDIOGRAPHY REPORT
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  4.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.0 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.8 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Ascending:  *3.7 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *3.9 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *59 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  35 mm Hg
+Aortic Valve - LVOT diam:  1.9 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+Findings
+LEFT ATRIUM: Normal LA size. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+regional/global systolic function (LVEF>55%).
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level. Simple
+atheroma in aortic root. Focal calcifications in aortic root.
+Normal ascending aorta diameter. Focal calcifications in
+ascending aorta. Normal aortic arch diameter.
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Critical AS (area <0.8cm2). Mild (1+) AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: Written informed consent was obtained from the
+patient. The patient was under general anesthesia throughout the
+procedure. No TEE related complications. The patient appears to
+be in sinus rhythm. Results were personally reviewed with the MD
+caring for the patient. See Conclusions for post-bypass data
+Conclusions
+PRE-BYPASS:
+The left atrium is normal in size. No spontaneous echo contrast
+or thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and regional/global systolic function (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There are simple atheroma in the aortic root.
+The aortic valve leaflets are severely thickened/deformed. There
+is critical aortic valve stenosis (valve area <0.8cm2). Mild
+(1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen.
+There is no pericardial effusion.
+Dr. Hope was notified in person of the results before
+surgical incision..
+POST-BYPASS:
+Preserved biventricular systolic function.
+LVEF 55%.
+Intact thoracic aorta.
+The aortic valve bioprosthesis is stable, functioning well with
+a residual mean gradient of 3 mm of Hg.
+Mild MR.
+Electronically signed by 123 Any St.g
+physician Hope 2014-03-25 00:00:00 12:35
+
+Brief Hospital Course:
+Mr Hope was a same day admission to the operating room for
+aortic valve replacement with Dr Hope. Please see the
+operative report for details, in summary he had:
+1. Aortic valve replacement with a 27-mm UPMCE Ultra Aortic
+Valve Bioprosthesis.
+2. Epiaortic duplex scanning.
+His CARDIOPULMONARY BYPASS TIME was 108 minutes, with a
+CROSS-CLAMP TIME of 90 minutes. He tolerated the operation well
+and was transferred post-operatively to the cardiac surgery ICU
+in stable condition.
+He remained hemodynamically stable in the immediate post-op
+period, woke neeurologically intact and was extubated. He
+remained hemodynamically stable throughout the operative day and
+on POD1 was transferred to the stepdown floor for continued
+post-operative care. He was noted to have several bursts of
+atrial fibrillation for which he was started on BBlockers,
+amiodarone and anticoagulation. All tubes lines and drains were
+removed per cardiac surgery protocol. Once on the floor he had
+an umeventful post-op course. He worked with nursin and physical
+therapy to increase his strength and endurance and by POD6 was
+ready for discharge home with a visiting nurse. He is to follow
+up with Dr Hope in 1 month . Dr Aiham will follow INR and dose
+Coumadin.
+
+
+Medications on Admission:
+ATENOLOL 25mg daily,
+CALCITRIOL 0.25 mwf,
+Hctz 25mg,
+MELOXICAM 7.5mg daily,
+METHOTREXATE 5mg WEEKLY,
+NIFEDIPINE 60mg daily,
+SIMVASTATIN 40mg daily,
+VALSARTAN 80mg daily,
+ASA 325mg daily
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever.
+3. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO once a day for 10 days.
+Disp:*20 Tablet Extended Release(s)* Refills:*0*
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*45 Tablet(s)* Refills:*0*
+6. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO twice
+a day.
+Disp:*60 Tablet(s)* Refills:*2*
+7. amiodarone 200 mg Tablet Sig: One (1) Tablet PO twice a day:
+200mg UPMCE x7days then 200mg QD.
+Disp:*40 Tablet(s)* Refills:*1*
+8. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 10 days.
+Disp:*10 Tablet(s)* Refills:*0*
+10. warfarin 2 mg Tablet Sig: as directed by Dr Aiham Tablet PO
+once a day: titrate to keep INR 2-2.5.
+Patient to take 1mg on 2014-03-25 00:00:00.
+Disp:*45 Tablet(s)* Refills:*1*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Health VNA
+
+Discharge Diagnosis:
+s/p AVR-tissue
+Past Medical History
+- Aortic Stenosis
+- Coronary Artery Disease
+- Dyslipidemia
+- Hypertension
+- Prior CVA, affecting left eye ( 10 yrs ago)
+- Carotid Disease, Right ICA
+- L subclavian steal
+- Left Renal Artery Stent
+- Chronic Renal Insufficiency, baseline Cr around 2.0
+- Rheumatoid Arthritis
+- Macular Degeneration ( legally blind)
+- Cognitive Impairment, progressive memory loss
+- History of Mesenteric artery insufficiency
+- Cataracts
+- Anemia
+Past Surgical History:
+-tonsillectomy
+-R cataract Alveiro Kullas
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with Percocet
+Incisions:
+Sternal - healing well, no erythema or drainage
+Edema: trace bilat LE
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for one month or while taking narcotics. Driving will
+be discussed at follow up appointment with surgeon.
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon:[**First Name8 (NamePattern2) 175**] Hope, MD Phone:test@mail.com :2014-03-25 00:00:00 @1:15PM
+Cardiologist:Aiham Hope, MD Phone:test@mail.com
+Date/Time:2014-03-25 00:00:00 11:40A
+
+Please call to schedule appointments with your
+Primary Care Dr.Aiham,Hope [**Doctor First Name 3839**] test@mail.com in 2014-03-25 00:00:00 weeks
+
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication Atrial Fibrillation
+Goal INR 2-2.5
+First draw 2014-03-25 00:00:00
+Results to phone [**Doctor Last Name **],Hope [**Doctor First Name 3839**] test@mail.com fax test@mail.com
+
+
+
+Completed by:2014-03-25 00:00:00

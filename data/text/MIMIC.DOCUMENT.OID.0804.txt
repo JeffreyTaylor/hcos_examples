@@ -1,0 +1,174 @@
+Admission Date:  2007-09-28 00:00:00              Discharge Date:   2007-09-28 00:00:00
+
+
+Service: UROLOGY
+
+Allergies:
+Penicillins
+
+Attending:Jakoria Fronzaglio
+Chief Complaint:
+Hematuria
+
+Major Surgical or Invasive Procedure:
+Cystoscopy, clot evacuation, prostatic urethra fulguration, Dr.
+Almanza, 2007-09-28 00:00:00.
+
+
+History of Present Illness:
+86 y/o male with hx of BPH and indwelling foley catheter
+presenting to the ED with 3 days of hematuria.  He came to the
+ED on 2007-09-28 00:00:00 with hematuria and was discharged to his nursing home
+with instructions to irrigate the catheter as needed and follow
+up with Dr. Almanza as an outpatient.  Last night, the nursing
+home was unable to irrigate his catheter.  They removed his
+catheter and were unable to replace the catheter.  He failed to
+void and had suprapubic discomfort.  He was taken to the ED and
+an 18F 3 way foley was placed with gross hematuria drainage.
+CBI was started but the catheter stopped draining.  He finished
+5 doses of levaquin on 2007-09-28 00:00:00. He was recently admitted to UPMCE
+s/p fall/failure to thrive.  Of note, he had a voiding trial on
+2007-09-28 00:00:00, which he failed.  History is obtained from the patient's
+wife and through Alexis Almanza translator/ ED resident.
+
+Past Medical History:
+PMH:
+BPH
+Indwelling foley catheter
+HTN
+CAD s/p MI 2007-09-28 00:00:00
+Hx orthostatic hypotension
+Hx of falls
+Vit D deficiency
+
+PSH:
+None
+
+
+Social History:
+Normally lives with his wife at home. Admitted to UPMCE
+on 2007-09-28 00:00:00 after discharge from UPMCE. No tobacco/EtOH.
+
+
+Physical Exam:
+VS: Afebrile HR 83 BP 146/81  RR 20  97%RA
+NAD, A&Ox3
+No respiratory distress
+Abd: Soft, nondistended, nontender
+GU: 18F 3 way foley in place (placed by ED), no CBI running with
+dark red drainage in bag, +clots.
+Ext:  No cyanosis/clubbing/edema.
+
+
+Pertinent Results:
+2007-09-28 00:00:00 12:40PM   WBC-7.2 RBC-3.61* HGB-11.5* HCT-34.3* MCV-95
+MCH-31.8 MCHC-33.5 RDW-14.6
+2007-09-28 00:00:00 07:45AM BLOOD WBC-5.5 RBC-3.26* Hgb-10.3* Hct-28.8*
+MCV-88 MCH-31.4 MCHC-35.6* RDW-15.9* Plt Ct-137*
+2007-09-28 00:00:00 07:45AM BLOOD PT-14.4* PTT-31.2 INR(PT)-1.2*
+2007-09-28 00:00:00 07:45AM BLOOD Glucose-99 UreaN-21* Creat-0.7 Na-141
+K-3.5 Cl-109* HCO3-25 AnGap-11
+
+Brief Hospital Course:
+The patient was admitted to Dr.Alexis Almanza Urology service on
+2007-09-28 00:00:00 from the ED with hematuria.  He was transferred to the
+floor in stable condition.  He received 1 unit pRBC's and
+vitamin K on HD 2, and his urine cleared with CBI on HD 2.  On
+HD 3, the patient's hematuria returned, and he received 2 units
+of pRBC's and vitamin K for Hct of 23.3/INR 1.3.  On the evening
+of HD 3, the patient was taken to the OR for cystoscopy, clot
+evacuation, prostatic urethra fulguration.  The patient received
+1 unit FFP and 2 units pRBC during the procedue.  Please see
+dictated operative note for details. He patient received
+peri-operative antibiotic prophylaxis with IV ciprofloxacin.
+The patient was taken to the ICU intubated from the OR in stable
+condition.  He was given 1 more unit of FFP and The patient
+remained intubated overnight, and was extubated the morning on
+POD 1 without difficulty.  On POD 1, the patient was transferred
+from the ICU to the floor in stable condition.  His urine was
+clear yellow without clots. He remained afebrile throughout his
+hospital stay. Patient's postoperative course was uncomplicated.
+ At discharge, patient's pain well controlled without pain
+medications, tolerating regular diet.  He is given oral pain
+medications on discharge, without antibiotics. He is given
+explicit instructions to call Dr. Almanza for follow-up/ to
+change foley catheter to a smaller catheter in 2 weeks.
+
+Medications on Admission:
+Finasteride 5mg
+Flomax 0.4mg qhs
+Remeron 15mg qhs
+Colace
+Senna
+Tylenol
+Vit D weekly
+MVI
+Lactulose
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for Pain/Fever.
+2. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+4. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+7. Bacitracin 500 unit/g Ointment Sig: One (1) 500unit/gm
+Topical three times a day: apply to tip of penis 3 x daily .
+Disp:*1 500unit/gm* Refills:*2*
+8. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+9. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day) as needed for constipation.
+10. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a
+week.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Hematuria status post cystoscopy, clot evacuation, prostatic
+urethra fulguration
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+- You have been discharged with a foley in place, apply
+bacitracin to tip of penis 3x daily to prevent foley irritation.
+ The nursing facility with assist you with care of the foley and
+leg bag.
+
+-If you note increased blood in your urine or the urine flow
+into the bag decreases or stops please return to the Emergency
+Department (ED).
+
+-If you develop fevers >101.7, abdominal pain, nausea or
+vomiting, return to the ED
+
+-Please contact Dr.Alexis Almanza office upon discharge to arrange
+a follow up appointment - test@mail.com
+
+Followup Instructions:
+Please contact Dr.Alexis Almanza office upon discharge to arrange a
+follow up appointment for foley catheter change to a smaller
+sized catheter in 2 weeks.  test@mail.com
+
+Please contact Dr.Alexis Almanza office to discuss future operative
+planning.  test@mail.com.
+
+
+                             Alexis Almanza MD 50524
+
+Completed by:2007-09-28 00:00:00

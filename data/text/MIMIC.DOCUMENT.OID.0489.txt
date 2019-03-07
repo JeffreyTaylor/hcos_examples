@@ -1,0 +1,499 @@
+Admission Date:  2014-12-03 00:00:00              Discharge Date:   2014-12-03 00:00:00
+
+Date of Birth: 1934-10-19 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Tetracycline Analogues / Niacin / Almond Oil / Tree Nut / Fruit
+Extracts / Nafcillin / cefazolin
+
+Attending:Jamaile Tirro
+Chief Complaint:
+fever, rigor, vomiting
+
+Major Surgical or Invasive Procedure:
+TEE 2014-12-03 00:00:00, no vegetations, EF 40-45%
+DCCV: 2014-12-03 00:00:00, converted to NSR
+PICC line placed R arm
+Temporary HD line placed R IJ 2014-12-03 00:00:00, removed 2014-12-03 00:00:00
+
+History of Present Illness:
+Mr. Inserra is a 76 yo M with h/o CAD, CHF, a-fib, AVR, DM, HTN,
+HLD, p/w one day of fever, rigor, nausea and vomiting. Pt felt
+sudden onset rigor one day ago, with fever to 100, and BP
+reportedly to 220/120 at home. He had some valium and was able
+to sleep. He  Of note, pt did not have recent sickness, no
+weight loss, night sweats. He did report some exercise
+intolerance recently in the gym, which he attributed to
+hypoglycemia. Of note, pt had a PCI with 2 drug eluting stents
+placed in LAD and R-PDA. Pt had no recent dental work and never
+had colonoscopy.
+
+Pt went to 123 Any St. today, where he had VS: 102.1 HR: 101 BP:
+123/49 Resp: 23 O(2)Sat: 100%. Lab showed WBC of 11.3 with 7%
+Bands, INR 3.2, Cr 2.4, CK 1400, CK-MB 6, Trop 0.035; and
+moderate hepatocellular transaminitis. Pt underwent noncontrast
+CT-head, which did not reveal acute intracranial bleed. Blood
+culture later grew GPC in pairs and clusters. Pt received 2L IVF
+and one dose ceftriaxone / zosyn, and transferred to 123 Any St..
+ In 123 Any St., patient was switched to nafcillin once cultures
+showed MSSA. After starting nafcillin, his urine output
+diminished significantly and his creatinine bumped. At this
+time, the patient presented to our service.
+
+Past Medical History:
+IDDM c/b neuropathy
+HTN
+HLD
+CAD s/p CABG in 2014-12-03 00:00:00 and 2014-12-03 00:00:00 and multiple stents
+s/p biologic AVR 2014-12-03 00:00:00 c/b transient heart block post op treated
+with
+pacer insertion (UPMCE Sensia dual-chamber pacemaker).
+Paroxysmal Atrial Fibrillation (last pacer interrogation
+demonstrated no episodes of AF)
+Chronic Systolic Heart Failure (EF 35% to 40% in 2014-12-03 00:00:00)
+BPH
+Hypothyroidism
+CKD
+
+Social History:
+Exercises at the gym 2-3 times per week.  Has a bachelor's
+degree, 123 Any St.usly worked as a pharmacist and a small business
+owner, and is currently retired. Married and lives with his
+wife. Eun Inserra smoked. Rarely drinks a single drink. No illicits
+
+Family History:
+Notable for a mother who died at 81 and had a brain tumor and a
+sibling with Alzheimer disease.  There is also thyroid, lung
+cancer in other family members.
+Brother: pancreatic and liver cancer in his brother.
+Eun Inserra family history of CAD or sudden cardiac death.
+
+
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION
+Vitals: 97.2, 78, 108/57, 19. 97% on RA
+General: Alert & oriented X3, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no r/rh/w
+CV: Regular rate and rhythm, soft S1, S2, no m/r/g
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses bl, no clubbing, cyanosis or
+edema, no splinter hemorrhage
+NEURO: MMS notable for poor memory and normal attention, CN2-12
+grossly intact, slight pronator drift on the right, otherwise no
+focal neurological findings, normal strength throughout.
+
+On Discharge:
+VS: 97.5, 142/73, 82, 18, 97RA
+BG 62, 95, 45
+Physical Exam:
+General: pleasant this morning, easy to arouse
+HEENT: PERRL, EOMI, sclerae anicteric, neck supple, moist mucous
+
+membranes, no ulcers / lesions / thrush
+CV: RRR, normal S1, S2,
+Pul: CTAB
+BACK: no focal tenderness, no costovertebral angle tenderness
+GI: normoactive bowel sounds, soft, non-tender, distended, no
+hepatosplenomegaly
+Extremities: warm and well perfused, 2+ DP pulses palpable
+bilaterally, bilateral nonpitting edema of hands and feet
+LYMPH: no cervical, axillary, or inguinal lymphadenopathy
+SKIN: the original skin reaction to the antibiotic is resolvign
+with some lingering drying ulcers. However, there is a new
+petechial rash on the back of his right leg . No excoriations.
+The same petechial rash is present on the back of his left
+elbow, but in a more limited area. I did not notice the rash
+there yesterday but I may have missed it.
+NEURO: resting tremor in arms bilaterally, awake, slightly
+sedated but oriented x3, CN 2-12 intact, 5/5 strength, sensation
+in /tact bilaterally, no asterixis
+PSYCH: non-anxious, normal affect, frustrated with length of
+stay
+
+Pertinent Results:
+On Admission:
+2014-12-03 00:00:00 04:15PM BLOOD WBC-9.2 RBC-3.42* Hgb-9.9* Hct-29.7*
+MCV-87 MCH-29.1 MCHC-33.5 RDW-13.3 Plt Ct-199
+2014-12-03 00:00:00 04:15PM BLOOD Neuts-42* Bands-40* Lymphs-2* Monos-2
+Eos-0 Baso-0 Atyps-1* Metas-11* Myelos-0 Promyel-2*
+2014-12-03 00:00:00 04:15PM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-1+
+Macrocy-1+ Microcy-1+ Polychr-OCCASIONAL Ovalocy-1+
+2014-12-03 00:00:00 04:15PM BLOOD PT-34.2* PTT-43.1* INR(PT)-3.4*
+2014-12-03 00:00:00 04:15PM BLOOD Glucose-388* UreaN-40* Creat-1.8* Na-136
+K-4.2 Cl-102 HCO3-19* AnGap-19
+2014-12-03 00:00:00 04:15PM BLOOD ALT-195* AST-185* CK(CPK)-1240*
+AlkPhos-103 TotBili-0.8
+2014-12-03 00:00:00 04:15PM BLOOD CK-MB-7 cTropnT-0.03*
+2014-12-03 00:00:00 04:15PM BLOOD Albumin-3.3* Calcium-8.0* Phos-2.3*
+Mg-1.8
+2014-12-03 00:00:00 04:12AM BLOOD Free T4-4.5*
+2014-12-03 00:00:00 04:12AM BLOOD TSH-0.042*
+
+Imaging:
+Portable TEE (Complete) Done 2014-12-03 00:00:00 Conclusions
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. A patent foramen ovale is
+present. Overall left ventricular systolic function is mildly
+depressed (LVEF= 40-45 %). Right ventricular chamber size and
+free wall motion are normal. There are simple atheroma in the
+aortic arch and complex atheroma n the descending thoracic
+aorta. A bioprosthetic aortic valve prosthesis is present. The
+aortic valve prosthesis appears well seated, with normal
+leaflet/disc motion. No masses or vegetations are seen on the
+aortic valve. The mitral valve leaflets are mildly thickened. No
+mass or vegetation is seen on the mitral valve. Mild (1+) mitral
+regurgitation is seen. No vegetation/mass is seen on the
+pulmonic valve. There is no pericardial effusion.
+
+IMPRESSION: No echocardiographic evidence of endocarditis or
+abscess seen. Normal functioning aortic valve bioprosthesis.
+Mildly depressed left ventricular function. Mild spontaneous
+echo contrast in the left atrium without evidence of thrombus in
+the left atrium or left atrial appendage.
+
+CT HEAD W/O CONTRAST Study Date of 2014-12-03 00:00:00 CONCLUSION:
+1. No finding to suggest acute vascular territorial infarct; in
+this setting, MRI with DWI (if feasible) would be more
+sensitive.
+2. Evidence of chronic small vessel ischemic disease.
+3. Chronic inflammatory disease involving the bilateral sphenoid
+air cells
+with superimposed acute inflammation involving the left sphenoid
+air cell;
+correlate clinically.
+
+CHEST (PA & LAT) Study Date of 2014-12-03 00:00:00  IMPRESSION:
+1. Left lower lobe opacity worrisome for pneumonia in the right
+clinical
+setting, less likely atelectasis.
+2. No pulmonary vascular congestion.
+
+RENAL U.S. Study Date of 2014-12-03 00:00:00  IMPRESSION: Normal renal
+ultrasound. 2.4 cm exophytic left lower pole renal cyst.
+
+CHEST (PA & LAT) Study Date of 2014-12-03 00:00:00 IMPRESSION:
+1. Interval development of mild interstitial pulmonary edema and
+enlargement of still small layering bilateral pleural effusions.
+
+2. Persistent retrocardiac opacification that could either
+represent
+atelectasis though pneumonia is also a possibility in the
+correct clinical
+setting.
+
+ABDOMEN (SUPINE ONLY) Study Date of 2014-12-03 00:00:00  IMPRESSION: No
+ileus or obstruction.
+
+Labs on Discharge:
+2014-12-03 00:00:00 04:24AM BLOOD WBC-13.0* RBC-2.91* Hgb-8.2* Hct-26.0*
+MCV-89 MCH-28.2 MCHC-31.5 RDW-17.1* Plt Ct-630*
+2014-12-03 00:00:00 06:00AM BLOOD Neuts-79* Bands-1 Lymphs-8* Monos-10
+Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-1*
+2014-12-03 00:00:00 06:00AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+
+Macrocy-1+ Microcy-OCCASIONAL Polychr-OCCASIONAL
+Ovalocy-OCCASIONAL Schisto-OCCASIONAL Burr-OCCASIONAL
+2014-12-03 00:00:00 04:44AM BLOOD PT-19.3* PTT-29.7 INR(PT)-1.8*
+2014-12-03 00:00:00 04:44AM BLOOD Glucose-42* UreaN-138* Creat-5.5* Na-141
+K-4.4 Cl-99 HCO3-27 AnGap-19
+2014-12-03 00:00:00 05:06AM BLOOD CK(CPK)-87
+2014-12-03 00:00:00 06:19AM BLOOD CK-MB-7 cTropnT-0.49*
+2014-12-03 00:00:00 04:44AM BLOOD Calcium-8.6 Phos-7.4* Mg-2.6
+2014-12-03 00:00:00 04:44AM BLOOD Vanco-22.8*
+
+Brief Hospital Course:
+76 y/o M with a history of CHF, afib, DM2, CAD with a history of
+CABG s/p recent PCI in early 2014-12-03 00:00:00 with DES to LAD and
+distal PDA presented to UPMCE with fever, malaise, R arm
+weakness and was found to have transaminitis, bandemia, and ARF.
+The patient was put on nafcillin for MSSA but developed anuria
+and increase in creatinine. The patient was stabilized and
+started on steroids, at which point the patient was presented to
+our service.
+
+##MSSA Bacteremia presenting as sepsis.  Likely source thought
+to be due to introduction of skin bacteria during recent
+coronary angiogram/PCI.  TEE on 2014-12-03 00:00:00 did not show vegetation.
+Pt was followed by ID with plan to treat with 4 week course of
+naficillin until 2014-12-03 00:00:00.The patient became anuric and his
+creatinine bumped on nafcillin, so he was switched to cefazolin,
+on which he developed a rash. It is unclear if the rash was from
+the nafcillin or the cefazolin. In any case, we switched him to
+vancomycin to be safe. He is to complete his course on 2014-12-03 00:00:00.
+Goal trough is 15-20. Given his poor kidney function, he will
+require daily trough with dosing daily to maintain that trough.
+The course will complete on 2014-12-03 00:00:00.
+.
+#Acute renal failure d/t AIN
+Pt developed progressive renal failure, which was concerning for
+probable AIN due to nafcillin.  Nafcillin was discontinued, and
+Nephrology was consulted.  Due to worsening renal function, pt
+became progressively fluid overloaded.  Diuresis was attepted
+with aggressive diuretics (Metolazone 5 mg followed by Lasix 120
+mg IV, BID), with minimal response. Pt became nearly anuric, and
+pt subsequently developed uremia with asterixis. Pt was also
+symptomatic from volume overload, with mild dyspnea at rest,
+cough, nausea, early satiety, and poor a123 Any St.e (likely d/t
+bowel edema).  Pt was started on empiric steroids on 2014-12-03 00:00:00 for
+presumed AIN after discussion with both Nephrology and ID.  He
+will continue on Prednisone, and will taper over the next 30
+days. His discharge dose is 50mg /day and it will be tapered by
+5mg every 3 days until the course is completed. Urgent HD access
+was obtained by Interventional Radiology, as pt is
+anticoagulated on Warfarin for atrial fibrillation, as well as
+aspirin and plavix.  Pt underwent his first round of HD on
+2014-12-03 00:00:00. The patient required dialysis until 2014-12-03 00:00:00 at which
+point his urine output increase significantly and we would
+evaluate him daily, both in terms of his I/Os, and in terms of
+his electrolytes and kidney function labs.  The patient did not
+require any further HD, and his catheter was pulled and the
+patient was discharged. The patient is to have CBC and Chem7
+drawn and faxed to the nephrologists on Monday 2014-12-03 00:00:00 for follow
+up.
+
+#NSTEMI: type 2 MI due to demand in setting of sepsis presenting
+with arm discomfort.  Troponin peak to 0.46 on 2014-12-03 00:00:00.
+Cardiology recommended continued medical management of known CAD
+with ASA/plavix (recent PCI in early 2014-12-03 00:00:00).  His dose of
+statin reduced in context of use of amiodarone.  On discharge,
+we decided to increase his statin dose to 80mg (home dose),
+given his history of recent MI in 2014-12-03 00:00:00.
+
+#Diabetes Type 2: uncontrolled with complications (MI): he is on
+aggressive insulin regmin including parandial humalog and basal
+lantus at home.  Inserra was consulted and helped up titrate his
+SS and basal insulin for better glucose control.  Inserra
+continued to follow and make recommendations. On 2 occasions,
+the patient was found to have a glucose aroudn 50-60. On one
+occasion, the patient was difficult to arouse, but was easily
+reversed with dextrose. On the second occasion, he was
+completely asymptomatic, though dextrose was given anyways. The
+patient's sliding scale and daily NPH dose has been adjusted
+based on UPMCE recs. The patient should have his glucose
+monitored and his insulin should be adjusted according to his
+glucose trends. It is likely that his insulin requirements will
+change as his prednisone is tapered.
+
+#Afib: paroxysmal afib known on history with afib and RVR during
+ICU stay requiring a combination of betablockers and CCB as well
+as initiation of amiodarone.  He underwent DCCV on 2014-12-03 00:00:00 with
+return of NSR.  Since then he has been on toprol XL and
+amiodarone 400mg TID.  As of 2014-12-03 00:00:00 he received 9300mg loading
+dose of amiodarone and was transitioned to 200mg amiodarone
+daily with f/u with cardiology to decide on any further need of
+admiodarone.  He was anticoagulated with coumadin.  His INR
+should be trended daily and his coumadin dose should be adjusted
+accordingly, as his coumadin requirements may be different now
+with his diminished kidney function.  He was discharged at a
+dose of 3mg per day and INR 1.8.
+
+#Question of stroke: presented to UPMCE at UPMCE with aphasia and
+R upper extremity weakness with old strokes on non-contrast head
+CT done at OSH.  Seen by neurology in ICU who felt that symptoms
+could be due to recrudescence of 123 Any St.us stroke or possibly a
+small new stroke in setting of sepsis.  An MRI was not possible
+because he has a pacemaker.  A repeat CT performed 72 h after CT
+done at 123 Any St. did not show evidence of stroke.  He reamined on
+anticoagulation given afib and high risk of stroke given
+CHADS2>=4.  His speech returned to baseline and he did not have
+further extremity weakness other than L shoulder due to
+suspected rotator cuff tear.
+
+#Rotator cuff tear: inability to comfortable move L shoulder
+with discomfort in upper arm.  Xray showed degenerative joint
+disease.  Ortho consult suspected partial rotator cuff tear on
+physical exam and recommended ROM as tolerated with outpatient
+f/u in the sports medicine clinic.  His shoulder improved during
+the course of the hospitalization.
+
+#Thyroid function abnormalities: PMH documents history of
+hypothyroidism and home med included levothyroxine, but dose of
+20mcg is very low for someone his size.  TSH low at 0.042, free
+T4 slightly high at 4.5.  Rather than repeat TFTs in acute
+setting which could be abnormal for sick euthyroid, his dose of
+levothyroxine was discontinued and recommend close outpatient
+monitoring of TSH, free T4 as he is now on amiodarone.
+
+#R cephalic vein clot noted on U/S of R upper arm, not a DVT
+
+#Transitional Issues:
+Please follow daily INR and vancomycin trough. His vancomycin
+and coumadin doses need to be adjusted accordingly. His goal INR
+is 2014-12-03 00:00:00. His goal trough is 15-20 until 2014-12-03 00:00:00. If the patient's
+trough is less than 16, he is to get a dose of 500mg of
+vancomycin. If the trough is greater than 16, the dose is to be
+held for that day. He should also have a full CBC/Chem7 done on
+Monday 2014-12-03 00:00:00 and the results should be faxed to [**Numeric Identifier 4028**].
+Thank you
+
+
+Medications on Admission:
+AMITRIPTYLINE 25MG - One every evening
+ASPIRIN 81MG - ONE EVERY DAY
+ATORVASTATIN 80 mg - once a day
+CLOPIDOGREL 75 mg - once a day
+DIAZEPAM 5 mg - at bedtime as needed for prn
+FUROSEMIDE 20 mg - once a day
+HYDROCODONE-ACETAMINOPHEN - 5 mg-500 mg - one by mouth qd prn
+INSULIN GLARGINE - 52 units every AM
+INSULIN LISPRO [HUMALOG] - sliding scale
+L-THYROXINE 25MCG - ONE EVERY DAY
+LISINOPRIL 30 mg - once a day
+METFORMIN 500 mg - twice a day
+METOPROLOL SUCCINATE 100 mg - twice a day
+NEURONTIN 300MG - EVERY EVENING
+NITROGLYCERIN 0.4 mg -sublingually qd prn chest pain
+TAMSULOSIN 0.4 mg Capsule - 2 Capsule(s) by mouth at bedtime
+WARFARIN - as directed by coumadin clinic
+CHOLECALCIFEROL 2,000 unit - once a day
+MULTIVIT-IRON-MIN-FOLIC ACID [CENTRUM] - 1 Tablet daily
+.
+
+
+Discharge Medications:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+4. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+5. gabapentin 300 mg Capsule Sig: One (1) Capsule PO every other
+day: give dose at night.
+6. metoprolol succinate 100 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO BID (2 times a
+day).
+7. amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+8. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+9. nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual ONCE MR2 (Once and may repeat 2 times).
+10. heparin, porcine (PF) 10 unit/mL Syringe Sig: One (1) ML
+Intravenous PRN (as needed) as needed for line flush.
+Disp:*100 ML(s)* Refills:*0*
+11. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+12. Sodium Chloride 0.9%  Flush 3 mL IV Q8H:PRN line flush
+Peripheral line: Flush with 3 mL Normal Saline every 8 hours and
+PRN.
+13. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+14. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for itching.
+16. hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal UPMCE (2
+times a day).
+17. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for wheezing.
+18. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day): discontinue once patient is
+mobile.
+19. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+20. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+21. calcium acetate 667 mg Capsule Sig: Three (3) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+22. vancomycin 500 mg Recon Soln Sig: 2014-12-03 00:00:00  Intravenous see
+details  for 5 days: Please follow vanco trough for goal 15-20
+daily. If patient is below 16 vanco trough, please administer
+500mg that day.
+23. prednisone 5 mg Tablet Sig: 1-10 Tablets PO once a day for
+30 days: please start with 10 pills (50mg) for 3 days, then
+decrease dose by 5mg (1 pill) every three days for a total of
+thirty days.
+24. insulin lispro 100 unit/mL Solution Sig: One (1) dose
+Subcutaneous as directed by sliding scale: 1 dose as directed by
+sliding scale.
+25. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+
+26. furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.
+27. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO once a
+day.
+28. Lab
+Please check CBC and Chem7 and fax results to test@mail.com
+(c/o Dr. Inserra
+29. warfarin 3 mg Tablet Sig: One (1) Tablet PO once a day:
+adjust per INR.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the 123 Any St.
+
+Discharge Diagnosis:
+MSSA bacteremia
+NSTEMI
+ARF/AIN requiring initiation of hemodialysis
+rotator cuff tear
+uncontrolled type 2 diabetes
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were hospitalized for a blood stream infection with staph
+aureus (MSSA).  You will need to complete a long course of
+antibiotics ending on 2014-12-03 00:00:00.  Please have your INR checked daily
+and have the coumadin dose adjusted accordingly.  Please also
+have your vancomycin trough checked daily and have the
+vancomycin dose adjusted daily until your course is complete on
+2014-12-03 00:00:00.  Please have full chem7 and CBC with INR checked on
+Monday 2014-12-03 00:00:00 to make sure that your electrolytes are fine.
+
+2014-12-03 00:00:00 changes
+start Vancomycin IV until 2014-12-03 00:00:00
+start Amiodoarone
+start calcium acetate
+start prednisone
+
+stop lisinopril
+stop metformin
+stop diazepam
+stop hydrocodone-acetaminophen
+.
+Dose changes
+coumadin
+Insulin regimen
+
+Followup Instructions:
+Department: INFECTIOUS DISEASE
+When: TUESDAY 2014-12-03 00:00:00 at 9:30 AM
+With: Eun Inserra, MD test@mail.com
+Building: LM UPMCE Bldg (Inserra) Basement
+Campus: WEST     Best Parking: UPMCE Garage
+
+Department: NEUROLOGY
+When: FRIDAY 2014-12-03 00:00:00 at 11:00 AM
+With: Eun Inserra, MD test@mail.com
+Building: Ks 123 Any St.
+Campus: EAST     Best Parking: Inserra Garage
+
+Name: Inserra,[**First Name7 (NamePattern1) 2899**] Jamaile Tirro
+Inserra: INTERNAL MEDICINE
+Location: UPMCE HEALTHCARE - 123 Any St.GROUP
+Address: 123 Any St.,[**Numeric Identifier 802**]
+Phone: test@mail.com
+**Please discuss with the staff at the facility a follow up
+appointment with your PCP when you are ready for discharge.**
+
+
+
+Completed by:2014-12-03 00:00:00

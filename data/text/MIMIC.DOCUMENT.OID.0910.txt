@@ -1,0 +1,301 @@
+Admission Date:  2005-10-11 00:00:00              Discharge Date:   2005-10-11 00:00:00
+
+Date of Birth: 1934-10-11 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Atenolol / Lisinopril
+
+Attending:Jaquaisha Mangos
+Chief Complaint:
+Endocarditis
+
+Major Surgical or Invasive Procedure:
+2005-10-11 00:00:00 - Redo sternotomy, Aortic valve replacement(21mm St.
+Delna Doble Regent Mechanical)/Closure of aortic abscess (Patch
+pericardium)/Ascending Aorta Replacement(28mm Gelweave graft).
+
+
+History of Present Illness:
+66M w h/o bicuspid aortic valve, s/p mechanical AVR (on
+Delna Doble)
+in 2005-10-11 00:00:00 at UPMCE.  The ascending aorta was noted to be 4.5cm at
+the time, and was not replaced.  He had an episode of
+enterococcal aortic valve endocarditis in 2005-10-11 00:00:00.
+Enterococcal endocarditis was again diagnosed in 2005-10-11 00:00:00
+with
+concern for aortic valve ring abscess on echo.  The patient
+was evaluated for the source of his enterococcal bacteremia and
+mild ischemic colitis and several polyps were found. A
+polypectomy was performed. An EGD found mild gastritis and he
+was
+started on Pantprazole. The patient was discharged on ampicillin
+and gentamicin on 2005-10-11 00:00:00.
+He was admitted on 2005-10-11 00:00:00 for preoperative workup and cardiac
+cath.  Cardiac cath did not reveal obstructive coronary lesiosn.
+
+On admission, the patient exhibited gait instability and
+neurology was consulted.  It was determined that the patient was
+experiencing vestibulopathy secondary to gentamycin.  MRI
+revealed very small microembolic infarcts which were attributed
+to his time off 2005-10-11 00:00:00 resulting in subtherapeutic INR, or,
+less likely, septic emboli.  Gentamicin was discontinued and the
+patient was discharged home on ampicillin, which will continue
+until surgery.  ID has continued to follow him as an outpatient
+with weekly blood cultures.  The patient returns for heparin
+bridge preoperatively.
+
+
+Past Medical History:
+-Mechanical AVR 2005-10-11 00:00:00
+-Enterococcal faecalis endocarditis diagnosed in 2005-10-11 00:00:00, AVR ring
+abscess diagnosed 2005-10-11 00:00:00
+-Hypertension
+-Hyperlipidemia
+-Ischemic colitis
+-Colonic polyps
+-GERD
+-Hiatal hernia
+-Gastritis
+-Diverticulosis
+
+Social History:
+Lives with wife in Delna Doble, MA. Former smoker. Rare ETOH.
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Pulse:80 Resp:16  O2 sat:99%
+B/P  Right:122/60    Left:122/64
+Height: 5'2005-10-11 00:00:00"    Weight: 88kg
+
+General:WDWN, NAD
+Skin: Dry [] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur n
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2  Left:2
+DP           Right:2   Left:2
+PT           Delna Doble:2   Left:2
+Radial       Right:2   Left:2
+
+Carotid Bruit        Right:n    Left:n
+
+Discharge Physical
+VS: T: 97.4  HR 76 SR  BP: 109/67  Sats: 97 RA
+General: 66 year-old male in no apparent distress
+HEENT: normocephalic, mucus membranes moist
+Neck: supple no lymphadenopathy
+Cardiac: RRR normal S1,S2 good click
+Resp: clear breath sounds throughout
+GI: benign
+Extr: warm 2005-10-11 00:00:00+ edema
+Incision: sternal clean, dry, intact, margins well approximated
+no erythema
+IV: Left PICC site no erythema
+Neuro: awake, alert oriented.
+
+
+Pertinent Results:
+2005-10-11 00:00:00 ECHO
+The left atrium is normal in size. Left ventricular wall
+thicknesses and cavity size are normal. with mild global free
+wall hypokinesis. A bileaflet aortic valve prosthesis is
+present. A paravalvular aortic valve leak is probably present.
+An aortic annular abscess is seen. Severe (4+) aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation.
+Post bypass
+S/P AVR with 21 Delna Delna Doble mechanical valve prosthesis and graft
+placement.
+The patient is now on an Epi drip @.04 mcg/kg/min,Nor
+epinephrine @.14 mcg/kg/min
+The mean gradient across the aortic valve is 16,with a cardiac
+index of 2.6
+The valve is well seated,with no paravalvular leak.
+The ejection fraction is estimated at 35%
+
+2005-10-11 00:00:00 WBC-6.5 RBC-3.70* Hgb-9.6* Hct-28.8* Plt Ct-121*
+2005-10-11 00:00:00 WBC-11.4* RBC-3.85* Hgb-9.9* Hct-30.0 Plt Ct-101*
+2005-10-11 00:00:00 WBC-9.7 RBC-3.78* Hgb-9.7* Hct-29.4* Plt Ct-70*
+2005-10-11 00:00:00 WBC-4.7 RBC-4.02* Hgb-9.7* Hct-30.7* Plt Ct-159
+
+2005-10-11 00:00:00 Glucose-92 UreaN-23* Creat-1.1 Na-138 K-3.7 Cl-100
+HCO3-29
+2005-10-11 00:00:00 Glucose-116* UreaN-23* Creat-1.2 Na-132* K-3.8 Cl-97
+HCO3-26
+2005-10-11 00:00:00 ALT-17 AST-25 LD(LDH)-216 AlkPhos-88 TotBili-0.3
+
+2005-10-11 00:00:00 PT-21.4* INR(PT)-2.0*
+2005-10-11 00:00:00 PT-19.7* PTT-29.1 INR(PT)-1.8*
+2005-10-11 00:00:00 PT-16.2* PTT-26.2 INR(PT)-1.4*
+2005-10-11 00:00:00 PT-15.7* PTT-25.3 INR(PT)-1.4*
+2005-10-11 00:00:00 PT-17.2* PTT-27.7 INR(PT)-1.5*
+2005-10-11 00:00:00 PT-15.5* PTT-20.9* INR(PT)-1.4*
+
+CXR:
+2005-10-11 00:00:00: Right apical pneumothorax is minimal, unchanged since
+the prior study. The replaced aortic valve and the entire
+appearance of the cardiomediastinal silhouette is stable. No
+interval development of pleural effusion has been demonstrated
+except for minimal amount of most likely presence left pleural
+effusion. No evidence of pulmonary edema is seen.
+
+PICC line: 2005-10-11 00:00:00  44 cm Picc placed in left berachial vein
+1. Left PICC tip projects over the expected region of the
+upper/mid SVC.
+2. Removal of ET tube and Swan-Ganz catheter in the interim.
+3. Improved retrocardiac opacification compared to 2005-10-11 00:00:00.
+4. Bilateral small basilar atelectases.
+
+
+Brief Hospital Course:
+Mr. Doble was admitted to the UPMCE on 2005-10-11 00:00:00 for surgical
+management of his aortic valve endocarditis. Heparin was started
+as a bridge to surgery as he had stopped his 2005-10-11 00:00:00 five days
+prior to admission. He was worked-up in the usual preoperative
+manner. On 2005-10-11 00:00:00, he was taken to the operating room where he
+underwent a redo sternotomy, a mechanical aortic valve
+replacement, an ascending aorta replacement and closure of an
+aortic abscess with patch pericardium. Please see operative note
+for details. Postoperatively he was taken to the intensive care
+unit for monitoring. Over the next 24 hours, he awoke
+neurologically intact and was extubated.
+
+He continued to make steady progress and was discharged to home
+on postoperative 2005-10-11 00:00:00 with [**Location (un) 6061**] Infusion for
+com123 Any St.n of his IV antibiotics. His 123 Any St. will managed by
+Dr. Jaquaisha Mangos as per preoperatively. He will follow-up with Dr.
+Jaquaisha Mangos, his cardiologist and his primary care physician and
+infectious disease as an outpatient.
+
+Medications on Admission:
+1. Ampicillin 2 g IV Q4H
+2. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for constipation.
+3. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Multivitamin  Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Doble 2.5 mg Tablet Sig: as directed for mechcanical AVR
+Tablet PO once a day: take 5mg on mon, wed, fri, sat, sun and
+2.5 mg on tuesday and thursday.
+LAST DOSE Doble 2005-10-11 00:00:00
+
+
+Discharge Medications:
+1. ampicillin sodium 2 gram Recon Soln Sig: Two (2) gm Recon
+Soln Injection Q4H (every 4 hours) for 2 weeks.
+Disp:*84 2 gm Recon Soln(s)* Refills:*0*
+2. heparin, porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML
+Intravenous PRN (as needed) as needed for line flush: flush w/10
+mL NS then 2 mL heparin.
+Disp:*QS ML(s)* Refills:*0*
+3. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+4. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day
+for 7 days.
+Disp:*14 Tablet(s)* Refills:*2*
+8. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+9. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+10. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+11. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed for pain/fever.
+12. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO as directed :
+INR Goal 2.0-3.0.
+13. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+14. senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Home
+
+Discharge Diagnosis:
+Enterococcal endocarditis (2005-10-11 00:00:00 and 2005-10-11 00:00:00)
+Lower GI bleed
+Hypertension
+Aortic insufficiency s/p AVR 2005-10-11 00:00:00
+Iron deficiency anemia
+Hypercolesterolemia
+Tachy/brady syndrome
+Gastroesophageal reflux/erosive gastropathy
+Colonic adenomas/ resolving ischemic colitis
+Hiatal hernia
+Diverticulosis
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage. Edema
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns test@mail.com
+**Please call cardiac surgery office with any questions or
+concerns test@mail.com. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following test@mail.com
+Surgeon: Dr. Doble
+Cardiologist: Dr. Doble Phone:test@mail.com Date/Time:2005-10-11 00:00:00
+8:00
+
+Infectious Disease: Dr. Doble Phone:test@mail.com
+Date/Time:2005-10-11 00:00:00 11:30 in the Doble Building Ground Floor,
+123 Any St.
+
+Please call to schedule 123 Any St. with your
+Primary Care physician Doble. Doble test@mail.com
+
+Labs: PT/INR for test@mail.com for Aortic Valve Replacement.
+Goal INR 2.0-3.0
+First draw Monday 2005-10-11 00:00:00.  INR 2005-10-11 00:00:00 2.0
+Please call Dr. Jaquaisha Mangos dosing
+
+
+
+Completed by:2005-10-11 00:00:00

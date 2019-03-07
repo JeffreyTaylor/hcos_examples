@@ -1,0 +1,260 @@
+Admission Date:  2006-09-30 00:00:00              Discharge Date:   2006-09-30 00:00:00
+
+Date of Birth: 1957-09-22 00:00:00 00:00:00             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Aubren Czerepak
+Chief Complaint:
+Left Occipital Epidural Hematoma
+
+Major Surgical or Invasive Procedure:
+Evacuation of left occipital epidural hematoma
+
+
+History of Present Illness:
+50yo WF with PMH significant for cervical disc herniation
+that presented to outside neurosurgeon 2-2.5 weeks ago for
+evaluation. Following that appointment for which no intervention
+
+was pursued, patient started to have episodes of falling to the
+ground with any attempt at standing up. Patient denied HA,
+seizure activity/symptoms, LOC, or lightheadedness with each
+episode, simply stating that "the world started to spin around"
+whenever she experienced one of these episodes; pt did c/o
+occasional nausea and retching with the episodes. Pt began to
+require balance assistance to stand each time, and still had
+multiple episodes of going to ground resulting numerous
+abrasions, and three broken ribs. On the evening of 2006-09-30 00:00:00,
+patient
+had another episode resulting in a backward fall onto a concrete
+
+slab that did not cause LOC but was worrisome enough for patient
+
+to contact her PCP who told her to have a low threshold for
+visiting an ER. On morning of 2006-09-30 00:00:00, with no resolution of sxs
+patient was seen at OSH where CTH showed large left occipital
+EDH.
+
+
+Past Medical History:
+Depression
+
+Social History:
+Lives alone, divorced, denies etoh/tobacco/ivda
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T 98.9 HR 113 BP 167/97 RR 23 Sat 99% RA
+
+PE: Well-appearing, well-nourished, with moderate level anxiety
+from hospitalization.
+HEENT: Occipital pain on palpation, L Hemotympanum
+CV: RRR s m/g/r
+
+Neuro
+MS: AA&Ox3, speech fluent, follows 3-point commands, easily
+comprehensible No neologisms or paraphrasic errors.
+CN: I--not tested; II-could read nametag,III-PERRLA 5-3mm,
+III,IV,VI-EOMI w/ left beat nystagmus, V--sensation intact to
+LT,
+and masseter strength; VII-no facial asymmetry, muscles of
+facial
+expression strong; VIII- intact to FR bilaterally; IX,X--voice
+normal, palate elevates symmetrically, uvula midline;
+XII--tongue
+protrudes midline, no atrophy or fasciculation.
+Motor: normal bulk and tone, no pronator drift. Strength:
+
+Delt UPMCE Tri Grip IO Psoas Quad Ham TA [**First Name9 (NamePattern2) 3519**] Antuna
+C5-6 C5-6 C6-8 C7-8 C7-8 L2-4 L2-4 L5-S2 L5-S1 S1-2 L4-5
+R 5 5 5 5 5 5 5 5 5 5 5
+L 5 5 5 5 5 5 5 5 5 5 5
+
+Coord: no dysmetria. FNF intact bilaterally, right better than
+left
+Refl:
+|UPMCE |tri |bra |pat |Aubren Czerepak |toe |
+L | 2 | 2 | 2 | 2 | 2 | dn |
+R | 2 | 2 | 2 | 2 | 2 | up |
+
+Antuna: LT intact to all four extremities/trunk
+
+
+Pertinent Results:
+2006-09-30 00:00:00 06:20PM   PT-12.4 PTT-20.5* INR(PT)-1.0
+2006-09-30 00:00:00 06:20PM   PLT COUNT-246
+2006-09-30 00:00:00 06:20PM   NEUTS-90.1* BANDS-0 LYMPHS-2.7* MONOS-3.5
+EOS-0.1 BASOS-0.1
+2006-09-30 00:00:00 06:20PM   WBC-7.9 RBC-3.12* HGB-11.4* HCT-30.7* MCV-99*
+MCH-36.6* MCHC-37.2* RDW-15.8*
+
+CTH 2006-09-30 00:00:00 Large left epidural hematoma with adjacent mass effect,
+cerebral
+edema, compression of the ventricle and concern for uncal
+herniation
+
+CTH 2006-09-30 00:00:00 Interval drainage of epidural hemorrhage. No evidence
+of new
+bleeding.
+
+CTH 2006-09-30 00:00:00 Unchanged pneumocephalus in the left supratentorial
+epidural
+space. Stable small epidural hematoma in left posterior fossa.
+No new
+hemorrhage or evidence of major vascular territorial infarction
+or
+hydrocephalus.
+
+CT C-Spine 2006-09-30 00:00:00 Abnormality at the left C1-C2 facet, of
+uncertain age. The lytic and sclerotic appearance could be
+consistent with a less acute process, although an acute injury
+cannot be excluded
+
+Plain Films Bilateral Knees 2006-09-30 00:00:00 Unremarkable radiographs of the
+bilateral knees
+
+Plain Films Bilateral Ankles 2006-09-30 00:00:00 Acute left lateral malleolar
+avulsion fracture. Left medial malleolar tiny avulsion fracture
+of uncertain chronicity (no soft tissue swelling). Clinical
+correlation needed.
+No right ankle fracture. Right calcaneal tuberosity is excluded
+from the
+image.
+
+MRI C-spine 2006-09-30 00:00:00 Small right-sided foraminal disc herniation at
+C6-C7 level possibly contacting the right exiting Dejahnae Antuna nerve root.
+Small left paracentral disc herniation at C5-C6 level. T2
+hyperintensity involving the right facet joint at C3-C4 and
+C4-C5 levels with slight hyperintensity within the right C3
+pedicle. This could be related to possible osseous contusion and
+neck injury. No definite fractures are identified; however,
+thin-section CT might be useful for further imaging to detect
+any suspected subtle fractures
+
+
+Brief Hospital Course:
+Patient taken directly from ER Trauma bay on 2006-09-30 00:00:00 to OR for
+emergent evacuation of large left occipital epidural hematoma.
+Pt tolerated the procedure well and was transferred after
+stabilization in the PACU to ICU.  Pt was maintained in ICU in
+stable condition until HD 3 (POD #1) at which time head drain
+was removed, patient was transfused two pRBC's for anemia, and
+transferred to step-down UPMCE 5.  Based on C1-C2 facet joint
+irregularity seen on CT c-spine, Spine Consult was obtained, and
+with f/u MRI of spine, it was determined that the patient needed
+to maintain hard c-spine collar on for 6 weeks, until follow up
+with ortho123 Any St. spine.  On HD4, ortho123 Any St.s was consulted for
+left ankle fx and their recommendations were to place patient
+leg in air splint, with weight bearing on foot as tolerated.  Pt
+was transferred to regular floor status on 2006-09-30 00:00:00 while awaiting
+PT and social work recommendations.
+
+Pt continued to have headaches a repeat head CT was done on
+2006-09-30 00:00:00
+
+Neurology saw patient for vertigo they felt shecharacteristics
+of this patient's dangerous and disabling vertigo do have a
+peripheral vestibular not central quality. The features are not
+lateralized enough to suggest vertebrobasilar vascular
+insufficiency, nor are there the assoc. features of this DX. The
+
+gradual escalation of symptoms is not compat. with stroke, but
+also not with most of the acute labyrinthitidies, and is also
+not typical of vertigo due to demyelinating disease. Rather I
+suspect an otovestibular condition such as Meniere's disease, or
+
+a more subacute process such SLE . Doubt mass lesion as the
+hearing loss (if indeed not directly due to resolving
+hemotympanium) is spontaneously remitting.
+
+Antuna.: In view of her severe multiple trauma, hemotympanium,
+neck
+Antuna, [**First Name3 (LF) **] not feel it useful, practicable or safe to begin a
+diagnostic evaluation of this patient's vertigo. Both hearing
+testing (site of lesion) and otovestibular testing must be
+delayed until cervical stability is established. Until then her
+vertigo must still be considered to place her at risk for
+further
+un123 Any St.table falls, and life-threatening injury. Until a
+definitive W/U can be realized, I would therefore recommend that
+
+she be placed in Rehab (123 Any St.-Healthcare South would be
+ideal because of the excellent otovestibular lab. there) or at
+the very least, a UPMCE facility until w/u can proceed.
+
+
+Medications on Admission:
+Per patient: zoloft, and "some other depression medication"
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Phenergan 12.5 mg Tablet Sig: One (1) Tablet PO every six (6)
+hours as needed for nausea.
+Disp:*30 Tablet(s)* Refills:*1*
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Sertraline 50 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+5. Diazepam 5 mg Tablet Sig: One (1) Tablet PO Q 8H (Every 8
+Hours).
+6. Bupropion 75 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+7. Lansoprazole 15 mg Capsule, Delayed Release(E.C.) Sig: One
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+8. Hydrochlorothiazide 25 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+9. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection UPMCE (2 times a day).
+10. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO DAILY
+(Daily).
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Aberjona Nursing Center - UPMCE
+
+Discharge Diagnosis:
+Left Occipital Epidural Hematoma
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please resume all home medications. Please return to hospital ER
+if you experience fever in excess of 101 degrees, begin to have
+worsening nausea/vomiting or headaches, or note increased
+redness or purulent drainage from head wound.
+
+Followup Instructions:
+Please follow up with Dr. Antuna in 6 weeks with a Head
+CT prior to visit. Please call test@mail.com to schedule an
+appointment
+
+Please follow up with ortho123 Any St. spine, Dr. Aubren Czerepak Antuna
+office, in six weeks. Please call test@mail.com to schedule an
+appointment
+If you continue to have foot pain you can follow up with Dr
+Antuna from Orthopedics otherwise just wear air cast for 2
+weeks
+
+Please follow up with your primary care provider Antuna 2 weeks
+regarding high blood pressure
+
+
+                             Dejahnae Antuna Dejahnae Antuna MD 10662
+
+Completed by:2006-09-30 00:00:00

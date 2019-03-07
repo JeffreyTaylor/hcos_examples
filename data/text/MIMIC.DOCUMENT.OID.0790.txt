@@ -1,0 +1,237 @@
+Admission Date:  2014-12-22 00:00:00              Discharge Date:   2014-12-22 00:00:00
+
+Date of Birth: 1963-12-22 00:00:00 00:00:00             Sex:   M
+
+Service: PLASTIC
+
+Allergies:
+Novocain
+
+Attending:Jordai Parnin
+Chief Complaint:
+left multidigit trauma, s/p table saw injury
+
+
+Major Surgical or Invasive Procedure:
+1. left index digital artery, digital nerve repair radial and
+ulnar nerve repair x2
+2. radial lateral collateral ligament repair
+3. left long finger radial digital artery repair
+4. left long finger digital artery, digital nerve radial and
+ulnar repair x2
+5. left long finger flexor digitorum profundus repair
+6. left ring finger radial digital artery repair with
+microvascular anastomosis
+7. left ring finger radial and ulnar digital nerve repair x2
+8. left ring finger flexor digitorum profundus repair
+9. A1 pulley release
+10. repair of lacerations, 20-cm
+11. dissection of dorsal vein for vein graft harvest
+
+
+History of Present Illness:
+56yo male right-hand dominant OSH transfer with traumatic injury
+to left hand with table saw at approximately 1230p today.
+Patient states hand slipped and was caught by table saw.
+Immediately after the incident, patient reports moderate pain
+and placed clenched injured hand in right hand and proceeded to
+emergency department.  Patient notes general numbness of digits
+2014-12-22 00:00:00 and inability to flex digit 4.  Patient received cefazolin
+and tetanus booster at outside hospital.
+
+Past Medical History:
+MI (2014-12-22 00:00:00), hyperlipidemia, GERD, nephrotic syndrome,
+pneumothorax
+
+
+Social History:
+works as commercial driver
+tob - 2pk/day, prev 4pk/day
+EtOH - social
+illicit - denies
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+upon admission:
+General - AOx3, NAD
+Chest - CTAB
+CV - RRR, S1/S2 ap123 Any St.ted
+Abd - soft, nontender, nondistended
+Extremity - left upper extremity: patient with significant
+multi123 Any St.juries of the hand as follows.
+1st digit: laceration of the volar aspect along the MCP, no
+exposed tendon; capillary refill < 1sec; sensation to light
+touch
+intact over entire digit
+2d digit: deep laceration along radial aspect of digit from MCP
+and extending along volar aspect exposing flexor tendons;
+capillary refill < 1sec, dopplerable signal over both radial and
+ulnar digital arteries; patient reports altered sensorium over
+the finger
+3d digit: deep laceration on volar aspect between the MCP and
+PIP
+joints with exposed flexor tendons; finger is cool to touch,
+capillary refill < 2sec, no dopplerable signal in digital
+arteries distal to injury; patient with no sensation over digit
+distal to injury
+4th digit: deep laceration on volar aspect at level of the PIP
+with visualization of volar aspect of PIP joint; finger is cool
+to touch, capillary refill < 2sec, no dopplerable signal in
+radial digital artery distal to injury site, weakly dopplerable
+signal in ulnar digital artery distal to injury site; patient
+with no sensation over digit distal to injury
+5th digit: laceration on volar aspect at level of DIP with no
+exposed flexor tendon; capillary refill < 1sec, dopplerable
+signal of both radial and ulnar digital arteries; sensorium to
+light touch intact
+
+Pertinent Results:
+2014-12-22 00:00:00 07:15PM   GLUCOSE-100 UREA N-12 CREAT-0.9 SODIUM-136
+POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-25 ANION GAP-11
+2014-12-22 00:00:00 07:15PM   estGFR-Using this
+2014-12-22 00:00:00 07:15PM   WBC-17.4*# RBC-4.48* HGB-14.7 HCT-42.1 MCV-94
+MCH-32.7* MCHC-34.9 RDW-12.9
+2014-12-22 00:00:00 07:15PM   NEUTS-82.0* LYMPHS-15.0* MONOS-2.5 EOS-0.1
+BASOS-0.3
+2014-12-22 00:00:00 07:15PM   PLT COUNT-280
+2014-12-22 00:00:00 07:15PM   PT-11.6 PTT-27.0 INR(PT)-1.0
+
+Brief Hospital Course:
+The patient was admitted to the plastic surgery service on
+2014-12-22 00:00:00 and had the following procedures:
+1. Left index digital artery, digital nerve repair radial and
+ulnar nerve repair x2
+2. Radial lateral collateral ligament repair
+3. Left long finger radial digital artery repair
+4. Left long finger digital artery, digital nerve radial and
+ulnar repair x2
+5. Left long finger flexor digitorum profundus repair
+6. Left ring finger radial digital artery repair with
+microvascular anastomosis
+7. Left ring finger radial and ulnar digital nerve repair x2
+8. Left ring finger flexor digitorum profundus repair
+9. A1 pulley release
+10. Repair of lacerations, 20-cm
+11. Dissection of dorsal vein for vein graft harvest
+The patient tolerated the procedures well
+
+Neuro: Post-operatively, the patient received Dilaudid IV/PCA
+with good effect and adequate pain control. When tolerating oral
+intake, the patient was transitioned to oral pain medications.
+
+CV: The patient was stable from a cardiovascular standpoint;
+vital signs were routinely monitored.
+
+Pulmonary: The patient was stable from a pulmonary standpoint;
+vital signs were routinely monitored.
+
+GI/GU: Post-operatively, the patient was given IV fluids until
+tolerating oral intake. His diet was advanced when appropriate,
+which was tolerated well. He was also started on a bowel regimen
+to encourage bowel movement. Foley was removed on POD#0. Intake
+and output were closely monitored.
+
+ID: Post-operatively, the patient was started on IV cefazolin,
+then switched to PO cefadroxil upon discharge. The patient's
+temperature was closely watched for signs of infection.
+
+Prophylaxis: The patient was initally started on a heparin drip
+post-operatively for 48 hours and subsequently received
+subcutaneous heparin after discontinuation of the drip. The
+patient was encouraged to get up and ambulate as early as
+possible.
+
+At the time of discharge on POD#4, the patient was doing well,
+afebrile with stable vital signs, tolerating a regular diet,
+ambulating, voiding without assistance, and pain was well
+controlled.
+
+
+Medications on Admission:
+nexium, lipitor, enalapril
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+2. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Acetaminophen 500 mg Capsule Sig: 2014-12-22 00:00:00 Capsules PO Q6H (every
+6 hours) as needed for pain, fever.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. Aspirin 81 mg Tablet, Chewable Sig: 1.5 Tablet, Chewables PO
+DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+Disp:*70 Tablet(s)* Refills:*0*
+8. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours).
+Disp:*50 Capsule(s)* Refills:*2*
+9. Cefadroxil 500 mg Capsule Sig: One (1) Capsule PO twice a day
+for 10 days.
+Disp:*20 Capsule(s)* Refills:*1*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St. VNA
+
+Discharge Diagnosis:
+left multi-digit trauma, status post table saw injury
+
+
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+
+Discharge Instructions:
+* keep your left hand in the doral blocking splint at all times
+except when showering
+* while showering, you may either take off the splint and let
+water indirectly run over the left hand (no soap) or place the
+splint and hand in a plastic bag to keep dry
+* a visiting nurse has been arranged for daily dressing changes
+* continue to refrain from caffeine or nicotine intake
+* continue aspirin and antibiotics until follow-up in Hand
+Clinic
+
+Return to the ER if:
+* If you develop worsening pain, loss of function, or futher
+loss/worsening of sensation in your left upper extremity
+* If you are vomiting and cannot keep in fluids or your
+medications.
+* If you have shaking chills, fever greater than 101.5 (F)
+degrees or 38 (C) degrees, increased redness, swelling or
+discharge from incision, chest pain, shortness of breath, or
+anything else that is troubling you.
+* Any serious change in your symptoms, or any new symptoms that
+concern you.
+* Please resume all regular home medications and take any new
+meds as ordered.
+* Do not drive or operate heavy machinery while taking any
+narcotic pain medication. You may have constipation when taking
+narcotic pain medications (oxycodone, percocet, vicodin,
+hydrocodone, dilaudid, etc.); you should continue drinking
+fluids, you may take stool softeners, and should eat foods that
+are high in fiber.
+
+Followup Instructions:
+Hand Clinic - please call test@mail.com to schedule an
+appointment for 2014-12-22 00:00:00
+
+
+
+Completed by:2014-12-22 00:00:00

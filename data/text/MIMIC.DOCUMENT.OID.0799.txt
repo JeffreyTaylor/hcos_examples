@@ -1,0 +1,183 @@
+Admission Date:  2011-09-04 00:00:00              Discharge Date:   2011-09-04 00:00:00
+
+Date of Birth: 1932-09-04 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Penicillins
+
+Attending:Jjames Cheesebrough
+Chief Complaint:
+abdominal pain
+
+Major Surgical or Invasive Procedure:
+s/p exploratory laparotomy, sigmoid colectomy, temporary
+abdominal closure 2011-09-04 00:00:00
+s/p exploratory lapartomy, small bowel resection, temporary
+abdominal closure 2011-09-04 00:00:00
+
+History of Present Illness:
+58yoF w/ DM+ESRD, s/p L knee meniscus repair c/o abdominal pain
+x 1 day. Diffuse, severe abdominal pain, not well characterized.
+Pt states that she had not had BM x 1 week
+
+Past Medical History:
+HTN
+DM type 2
+Anemia 2011-09-04 00:00:00 to ESRD
+CHF
+Depression
+Glaucoma
+ESRD on HD, TThSat, 2011-09-04 00:00:00 to diabetic nephropathy, h/o L AVF
+123 Any St.usly infiltrated
+OSA
+Congenital glaucoma with resulting blindness
+Gout
+OA
+Obesity
+Hyperlipidemia
+
+PSH: c-section, umbo hernia repair, orthopedic procedures
+
+Social History:
+Lives at home alone and walks with a cane.  The patient well
+connected with services-PCA 39 hours/week, PT1 for rides to and
+from all MD appointments (123 Any St. chair lift), has social worker
+from mass commission from blind, and has VNA who helps with
+medications.
+.
+Quit smoking 3 weeks ago. Smoked 2011-09-04 00:00:00 - 1 ppd since age 18 (39
+years of smoking-->about 40 pack years). No EtOH. No IVDU.
+
+
+Family History:
+Mother d. lung ca at 65yrs
+Father d. small cell lung ca at 63yrs
+Brother s/p renal transplant
+Oldest brother had MI at age 60
+
+Physical Exam:
+T 98.7, HR 70, BP 151/67, RR 16, O2sat 99% RA
+Gen- NAD, alert
+Head and neck- AT, NC, soft, supple, no masses
+Heart- RRR, no murmurs
+Lungs- CTAB, no rhonchi, no crackles
+Abd- distended, firm, diffusely tender, lower midline scar, +
+peritoneal signs
+Rectal- deferred
+Ext- warm, well-perfused, no edema
+
+
+Pertinent Results:
+2011-09-04 00:00:00 08:30PM   HGB-13.9 calcHCT-42
+2011-09-04 00:00:00 08:30PM   GLUCOSE-161* LACTATE-1.7 NA+-137 K+-4.4
+CL--88* TCO2-31*
+2011-09-04 00:00:00 11:45PM   GLUCOSE-216* UREA N-57* CREAT-7.8*#
+SODIUM-136 POTASSIUM-3.8 CHLORIDE-93* TOTAL CO2-22 ANION GAP-25*
+2011-09-04 00:00:00 11:45PM   ALT(SGPT)-19 AST(SGOT)-23 ALK PHOS-143* TOT
+BILI-0.5
+2011-09-04 00:00:00 11:45PM   LIPASE-25
+2011-09-04 00:00:00 10:35PM   PT-12.7 PTT-20.2* INR(PT)-1.1
+
+Brief Hospital Course:
+KUB was non-diagnostic, suboptimal study.
+CT abdomen showed free intraabdominal air with free fluid.
+
+Pt was resuscitated and taken to the OR emergently for
+perforated viscous.
+Prior to induction, arterial access was difficult to obtain. Pt
+was found profoundly hypotensive, requiring multiple pressor
+support. In the OR, pt was found to have a very redundant
+sigmoid colon with diverticuli. In particular, there was a long
+rent in the tenia of the sigmoid colon with significant fecal
+peritonitis. Affected sigmoid colon was resected with Draiden Paule
+stapler and the abdomen was copiously irrigated. The abdomen was
+temporarily closed with a 123 Any St. bag. Pt returned to the ICU in
+critical condition.
+
+Pt required multiple pressors for hemodynamic support. TEE
+showed mildly depressed EF 40% with no obvious wall motion
+abnormality. Pt was maintained on Vancomycin Ciprofloxacin
+Flagyl. Nephrology consult was obtained and CVVH was planned to
+initiate on POD#1.
+
+On the evening of POD#0, pt had acute desaturation episode w/
+apparent cyanosis, requiring FiO2 1.0. CXR was not consistent
+with CHF or acute pulmonary edema. TEE and EKG did not show
+evidence of RV strain. Desaturation improved. CVVH was initiated
+given K 6.7.
+
+Given acute worsening of patient's condition, bedside
+exploratory laparotomy was performed. Remaining colon was
+viable. Distal 45cm of terminal ileum was ischemic and
+non-viable, requiring resection. Abdomen was temporarily closed.
+
+Despite the second laparotomy, patient remained in critical
+condition with worsening acidosis. BCx from the prior day showed
+GNR bacteremia and fungemia. Given the morbid condition of the
+patient, family requested CMO. Shortly after becoming CMO,
+patient was in cardiopulmonary arrest.
+
+Patient was pronounced dead on 2011-09-04 00:00:00 14:10.
+PRIMARY CAUSE OF DEATH:      cardiopulmonary arrest in minutes
+SECONDARY CAUSES OF DEATH:   perforated sigmoid diverticulitis
+                             sepsis
+Pt did not meet criteria for ME. NEOB declined. Family declined
+post-mortem examination.
+
+Medications on Admission:
+1. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: One (1) Tablet
+
+PO Q4H (every 4 hours) as needed for pain.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+4. Enalapril Maleate 5 mg Tablet Sig: Eight (8) Tablet PO DAILY
+(Daily).
+5. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24 hr
+Sig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+
+as needed for sleep.
+8. Risperidone 1 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+9. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+11. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+
+PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+12. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Capsule(s)* Refills:*2*
+13. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day for
+4 weeks: To prevent blood clots (deep vein thrombosis).
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+death
+
+Discharge Condition:
+death
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:2011-09-04 00:00:00

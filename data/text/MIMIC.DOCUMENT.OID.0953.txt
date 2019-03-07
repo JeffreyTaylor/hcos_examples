@@ -1,0 +1,168 @@
+Admission Date:  2007-11-05 00:00:00              Discharge Date:   2007-11-05 00:00:00
+
+Date of Birth: 1942-11-05 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Codeine / Percocet
+
+Attending:Addalyne Denegre
+Chief Complaint:
+Rectal bleeding
+
+Major Surgical or Invasive Procedure:
+Sigmoidoscope with 4 cc.Epinephrine 1/[**Numeric Identifier 949**] injection was
+applied around the vessel for hemostasis with success. Two
+endoclips were successfully applied for the purpose of
+hemostasis.
+
+
+History of Present Illness:
+51 yo f with hx UC vs. Crohn's (she states she has both) s/p
+colectomy and ileostomy approx 20 years ago, ankylosing
+spondylitis, presents with acute onset rectal bleeding.  Pt
+reports surgery 2007-11-05 00:00:00 years ago for ? UC vs. Crohn's and has been
+disease free since and off all meds. Pt reports feeling at
+baseline yesterday when she noticed acute onset red blood
+"pouring" out of her rectum.  She presented to the ED, where
+vitals signs were stable and hct found to be 35.8 which has
+dropped to 27 overnight.  Pt has no hx of bleeding diathesis,
+she
+does take ibuprofen once or twice every few days.
+
+
+Past Medical History:
+Crohn's
+ankylosing spondylitis
+osteoporosis
+kidney stones
+
+
+Social History:
+Married with kids.  Denies tobacco, etoh, drugs
+
+
+Family History:
+breast cancer - mothter
+DM
+
+
+Physical Exam:
+T 97.6 HR 74 149/ 67 100 Ra
+A&O x 3 , NAD
+RRR no m
+CTAB no w/r/r/
+Abdomen s/ nt/ nd no hernias, pink stoma; well healed
+Anoscopy No hemmorhoids.  Fresh blood and clot inthe rectum.
+
+Pertinent Results:
+2007-11-05 00:00:00 10:40PM   HCT-33.6*
+2007-11-05 00:00:00 09:19AM BLOOD Hct-21.2*
+2007-11-05 00:00:00 03:42AM BLOOD WBC-7.8 RBC-3.86* Hgb-11.0* Hct-32.4*
+MCV-84 MCH-28.6 MCHC-34.0 RDW-13.3 Plt Ct-227
+
+Simgmoidoscope 11/ 16:  There was evidence of a blind pouch in
+the rectum from 123 Any St.us colectomy. There was a large visible
+vessel with stigmata of recent bleeding.  4 cc.Epinephrine
+1/[**Numeric Identifier 949**] injection was applied around the vessel for hemostasis
+with success. Two endoclips were successfully applied for the
+purpose of hemostasis.  Impression: There was evidence of a
+blind pouch in the rectum from 123 Any St.us colectomy.There was a
+large visible vessel with stigmata of recent bleeding.
+(injection, endoclip)
+Otherwise normal sigmoidoscopy to rectum Recommendations:
+Routine post-procedure orders.Serial hct; transfuse as needed.
+Monitor for signs of recurrent bleeding.
+
+
+Brief Hospital Course:
+2007-11-05 00:00:00: PT taken for Flexible sigmoidoscopy to assess.
+Epinephrine and two endoclips applied to small bleeding vessel.
+Serial HCTs performed every 6 hours and patient transfused as
+necessary. Over course of stay 6 units transfused. Aline Placed
+and ivf bolus for sbp-88mmHg .
+2007-11-05 00:00:00:Hematocrit stable despite small amt bright red
+blood(30cc).  Pt advanced to regular diet
+2007-11-05 00:00:00: PT tolerating a regular diet, without pain.  No further
+evidence of bleeding.  Hematocrit stable  on q 6 hourly check x
+24 hours.
+
+Medications on Admission:
+ALENDRONATE-VITAMIN D3 [FOSAMAX PLUS D] - 70 mg-5,600 unit
+Tablet
+- 1 Tablet(s) by mouth weekly - No Substitution
+NU-HOPE OSTOMY POUCH -   - as directed daily. Please provide new
+flex drainable pouch with barrier. Order # 40-7834 Diagniosis:
+s/p Ileostomy
+OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - one
+Capsule(s) by mouth twice a day
+
+
+Discharge Medications:
+1. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week: As
+prescribed by PCP.
+2. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Lower GI bleed
+Inflamatory bowel syndrome - Ulcerative colitis vs. crohns
+disease
+Acute anemia
+
+
+Discharge Condition:
+VSS, hematocrit stable , tolerating a regular diet, without
+pain.
+
+
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the
+following:
+* Further rectal bleeding.
+* You experience new chest pain, pressure, squeezing or
+tightness.
+* New or worsening cough or wheezing.
+* If you are vomiting and cannot keep in fluids or your
+medications.
+* You are getting dehydrated due to continued vomiting,
+diarrhea or other reasons.
+
+* Signs of dehydration include dry mouth, rapid heartbeat or
+feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a
+bowel movement.
+* Your pain is not improving within 8-12 hours or not gone
+within 24 hours. Call or return immediately if your pain is
+getting worse or is changing location or moving to your chest or
+
+back.
+
+*Avoid driving or operating heavy machinery while taking pain
+medications.
+* You have shaking chills, or a fever greater than 101.5 (F)
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that
+concern you.
+* Please resume all regular home medications and take any new
+meds
+as ordered.
+* Continue to ambulate several times per day.
+
+* Please avoid Ibuprofen, and aspirin due to gastritis.  Also
+avoid consumption of alcohol.  All of the above named items may
+exacerbate your gastritis.
+
+
+Followup Instructions:
+Please Call to schedule follow up with Dr Contessia in 1--2 weeks
+(test@mail.com
+
+
+
+Completed by:2007-11-05 00:00:00

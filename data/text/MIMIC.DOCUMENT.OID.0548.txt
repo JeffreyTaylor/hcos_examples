@@ -1,0 +1,460 @@
+Admission Date:  2009-06-09 00:00:00              Discharge Date:   2009-06-09 00:00:00
+
+Date of Birth: 1960-06-09 00:00:00 00:00:00             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Cortisone / Percocet / Prednisone / Advair Diskus
+
+Attending:Johnael Lakos
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+2009-06-09 00:00:00: Exploratory laparotomy with ileocolectomy
+
+History of Present Illness:
+78F s/p laparoscopic converted to open right hemicolectomy for
+Stage 1 (T1N0) right colon cancer on 2009-06-09 00:00:00, now being
+transferred from OSH with diffuse abdominal pain and guarding on
+exam. She started with diffuse abdominal pain at 9am yesterday
+and went to UPMCE at 9pm. She had some nausea and
+bilious emesis x5, but had been passing flatus and bowel
+movements. A non-contrast CT was performed and she was sent here
+as her abdominal exam was concerning. In ED with A.fib w/RVR,
+hypertension up to 200/100.
+
+Past Medical History:
+CAD s/p PCI (last '2009-06-09 00:00:00), pAFib, CHF, HTN,
+hyperchol, interstitial lung disease, GIB, GERD, CRI (baseline
+Cr
+1.3-1.8), NIDDM, hypothyroid, TIA, parkinson's, low back pain
+
+Past Surgical History:
+Diverting transverse loop colostomy after colonic perforation
+from colonoscopy,, colostomy reversal, ventral hernia repair
+with mesh, Laparoscopic converted to open right hemicolectomy
+2009-06-09 00:00:00.
+
+Social History:
+Patient is retired, lives at home with husband. Former Aleks Levesque.
+Denies alcohol or other drugs.
+
+
+Family History:
+NC
+
+Physical Exam:
+On admission:
+Vitals: T 101.1 HR 160 BP 120/90 RR 20 SO2 96%
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Firm, nondistended, severely tender diffusely, mild rebound
+tenderness and voluntary guarding.
+DRE: normal tone, no gross or occult blood
+Ext: 1+ LE edema b/l, LE warm and well perfused
+
+On Discharge:
+
+Pertinent Results:
+ADMISSION LABS
+--------------
+2009-06-09 00:00:00 12:30AM BLOOD WBC-29.3*# RBC-4.63# Hgb-13.3# Hct-42.3#
+MCV-91 MCH-28.8 MCHC-31.5 RDW-15.8* Plt Ct-263#
+2009-06-09 00:00:00 12:30AM BLOOD PT-30.3* PTT-23.7 INR(PT)-3.0*
+2009-06-09 00:00:00 12:30AM BLOOD Glucose-182* UreaN-40* Creat-1.6* Na-143
+K-6.0* Cl-107 HCO3-19* AnGap-23*
+
+2009-06-09 00:00:00: TEE
+No intracardiac thrombus. Mild mitral regurgitation.
+
+2009-06-09 00:00:00: CT abd/pelvis:
+- Diffuse bowel wall dilatation, with lack of mural enhancement
+in the
+distal ileum, concerning for bowel ischemia or necrosis. There
+is an
+occlusion of an ileal branch of the superior mesenteric artery
+suggesting an embolic cause for bowel ischemia upstream of
+affected areas.
+- Extensive atherosclerotic disease of the aorta and iliac
+arteries.
+
+2009-06-09 00:00:00: MRI Head
+- Acute infarction in the left middle cerebral artery
+distribution involving the left parietal lobe.
+- Small old infarct in the right cerebellum.
+- No evidence of susceptibility artifact to suggest intracranial
+hemorrhage.
+
+2009-06-09 00:00:00: KUB
+- ileus
+
+2009-06-09 00:00:00: KUB
+- There has been no significant change. There remains air and
+stool seen
+throughout the colon and some mildly prominent loops of small
+bowel. Left
+side down decubitus radiograph, shows no free intra-abdominal
+gas present.  Surgical skin staples are seen projecting over the
+midline.
+
+2009-06-09 00:00:00: CT HEAD:
+- Evolving left parietal infarct. No evidence of hemorrhagic
+transformation.
+- Global atrophy and chronic small vessel change.
+- Small old right cerebellar infarct.
+2009-06-09 00:00:00 05:10AM BLOOD WBC-7.8 RBC-3.43* Hgb-10.1* Hct-31.3*
+MCV-91 MCH-29.6 MCHC-32.4 RDW-15.6* Plt Ct-454*
+2009-06-09 00:00:00 05:22AM BLOOD WBC-7.6 RBC-3.28* Hgb-9.5* Hct-30.5*
+MCV-93 MCH-29.1 MCHC-31.3 RDW-15.8* Plt Ct-438
+2009-06-09 00:00:00 05:00AM BLOOD WBC-7.8 RBC-3.15* Hgb-9.3* Hct-29.0*
+MCV-92 MCH-29.4 MCHC-32.0 RDW-15.9* Plt Ct-361
+2009-06-09 00:00:00 05:37PM BLOOD WBC-8.8 RBC-3.24* Hgb-9.2* Hct-29.2*
+MCV-90 MCH-28.4 MCHC-31.5 RDW-16.3* Plt Ct-313
+2009-06-09 00:00:00 09:24AM BLOOD WBC-8.0 RBC-3.16* Hgb-9.3* Hct-28.5*
+MCV-90 MCH-29.3 MCHC-32.5 RDW-16.2* Plt Ct-310
+2009-06-09 00:00:00 01:42AM BLOOD WBC-7.3 RBC-3.02* Hgb-9.2* Hct-26.5*
+MCV-88 MCH-30.6 MCHC-34.9 RDW-15.9* Plt Ct-268
+2009-06-09 00:00:00 12:11AM BLOOD WBC-7.1 RBC-3.61* Hgb-10.6* Hct-32.7*
+MCV-91 MCH-29.5 MCHC-32.5 RDW-16.3* Plt Ct-307
+2009-06-09 00:00:00 05:12AM BLOOD WBC-5.3 RBC-3.42* Hgb-10.0* Hct-31.5*
+MCV-92 MCH-29.3 MCHC-31.8 RDW-15.9* Plt Ct-245
+2009-06-09 00:00:00 05:25AM BLOOD WBC-4.1 RBC-3.44* Hgb-10.1* Hct-31.5*
+MCV-92 MCH-29.4 MCHC-32.1 RDW-15.8* Plt Ct-200
+2009-06-09 00:00:00 05:20AM BLOOD WBC-3.0* RBC-3.64* Hgb-10.9* Hct-32.8*
+MCV-90 MCH-29.8 MCHC-33.1 RDW-15.8* Plt Ct-157
+2009-06-09 00:00:00 05:10AM BLOOD WBC-4.0# RBC-3.83* Hgb-11.4* Hct-34.1*
+MCV-89 MCH-29.8 MCHC-33.5 RDW-15.9* Plt Ct-132*
+2009-06-09 00:00:00 12:30AM BLOOD Neuts-93* Bands-0 Lymphs-2* Monos-5 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+2009-06-09 00:00:00 12:30AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-1+
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ Tear
+DrLevesque Aleks Levesque
+2009-06-09 00:00:00 11:10AM BLOOD PT-24.3* PTT-26.1 INR(PT)-2.3*
+2009-06-09 00:00:00 05:10AM BLOOD Plt Ct-454*
+2009-06-09 00:00:00 05:10AM BLOOD PT-25.3* PTT-28.1 INR(PT)-2.4*
+2009-06-09 00:00:00 05:22AM BLOOD Plt Ct-438
+2009-06-09 00:00:00 05:22AM BLOOD PT-39.7* PTT-29.9 INR(PT)-4.1*
+2009-06-09 00:00:00 05:00AM BLOOD Plt Ct-361
+2009-06-09 00:00:00 05:00AM BLOOD PT-39.0* PTT-29.5 INR(PT)-4.0*
+2009-06-09 00:00:00 05:37PM BLOOD Plt Ct-313
+2009-06-09 00:00:00 09:24AM BLOOD Plt Ct-310
+2009-06-09 00:00:00 01:42AM BLOOD Plt Ct-268
+2009-06-09 00:00:00 01:42AM BLOOD PT-39.8* PTT-28.6 INR(PT)-4.1*
+2009-06-09 00:00:00 12:11AM BLOOD Plt Ct-307
+2009-06-09 00:00:00 12:11AM BLOOD PT-38.6* PTT-26.7 INR(PT)-3.9*
+2009-06-09 00:00:00 05:12AM BLOOD PT-38.4* PTT-27.4 INR(PT)-3.9*
+2009-06-09 00:00:00 11:20AM BLOOD PT-34.5* PTT-68.9* INR(PT)-3.5*
+2009-06-09 00:00:00 12:58PM BLOOD PT-17.7* PTT-45.5* INR(PT)-1.6*
+2009-06-09 00:00:00 05:20AM BLOOD Plt Ct-157
+2009-06-09 00:00:00 05:20AM BLOOD PT-16.7* PTT-44.1* INR(PT)-1.5*
+2009-06-09 00:00:00 05:10AM BLOOD PT-16.1* PTT-26.0 INR(PT)-1.4*
+2009-06-09 00:00:00 03:20PM BLOOD PT-17.6* PTT-25.5 INR(PT)-1.6*
+2009-06-09 00:00:00 03:10AM BLOOD PT-16.8* PTT-28.7 INR(PT)-1.5*
+2009-06-09 00:00:00 12:26PM BLOOD Plt Ct-120*
+2009-06-09 00:00:00 12:26PM BLOOD PT-23.0* PTT-32.7 INR(PT)-2.1*
+2009-06-09 00:00:00 03:29AM BLOOD PT-31.2* PTT-35.1* INR(PT)-3.1*
+2009-06-09 00:00:00 07:22AM BLOOD PT-19.8* PTT-29.8 INR(PT)-1.8*
+2009-06-09 00:00:00 12:30AM BLOOD PT-30.3* PTT-23.7 INR(PT)-3.0*
+2009-06-09 00:00:00 11:10AM BLOOD Glucose-90 UreaN-13 Creat-1.3* Na-146*
+K-3.6 Cl-111* HCO3-23 AnGap-16
+2009-06-09 00:00:00 05:10AM BLOOD Glucose-90 UreaN-13 Creat-1.2* Na-141
+K-3.1* Cl-112* HCO3-21* AnGap-11
+2009-06-09 00:00:00 05:22AM BLOOD Glucose-93 UreaN-16 Creat-1.3* Na-141
+K-3.8 Cl-108 HCO3-21* AnGap-16
+2009-06-09 00:00:00 05:00AM BLOOD Glucose-91 UreaN-15 Creat-1.3* Na-142
+K-4.1 Cl-111* HCO3-21* AnGap-14
+2009-06-09 00:00:00 05:37PM BLOOD Glucose-110* UreaN-15 Creat-1.3* Na-140
+K-4.2 Cl-111* HCO3-20* AnGap-13
+2009-06-09 00:00:00 07:23AM BLOOD Creat-1.3* Na-140 K-4.2 Cl-113*
+2009-06-09 00:00:00 01:42AM BLOOD Glucose-125* UreaN-17 Creat-1.4* Na-139
+K-4.0 Cl-110* HCO3-21* AnGap-12
+2009-06-09 00:00:00 12:11AM BLOOD Glucose-136* UreaN-16 Creat-1.1 Na-141
+K-3.4 Cl-110* HCO3-22 AnGap-12
+2009-06-09 00:00:00 05:12AM BLOOD Glucose-94 UreaN-17 Creat-1.2* Na-143
+K-3.4 Cl-111* HCO3-21* AnGap-14
+2009-06-09 00:00:00 05:25AM BLOOD Glucose-109* UreaN-23* Creat-1.3* Na-143
+K-3.3 Cl-111* HCO3-21* AnGap-14
+2009-06-09 00:00:00 12:44PM BLOOD Glucose-118* UreaN-29* Creat-1.4* Na-142
+K-3.4 Cl-108 HCO3-23 AnGap-14
+2009-06-09 00:00:00 05:20AM BLOOD Glucose-102* UreaN-30* Creat-1.4* Na-142
+K-3.3 Cl-107 HCO3-23 AnGap-15
+2009-06-09 00:00:00 05:10AM BLOOD Glucose-120* UreaN-36* Creat-1.4* Na-143
+K-3.6 Cl-107 HCO3-24 AnGap-16
+2009-06-09 00:00:00 07:55PM BLOOD Glucose-121* UreaN-36* Creat-1.4* Na-140
+K-3.5 Cl-105 HCO3-20* AnGap-19
+2009-06-09 00:00:00 01:35AM BLOOD Glucose-97 UreaN-39* Creat-1.8* Na-142
+K-3.8 Cl-110* HCO3-21* AnGap-15
+2009-06-09 00:00:00 03:10AM BLOOD Glucose-90 UreaN-36* Creat-1.7* Na-141
+K-4.6 Cl-108 HCO3-22 AnGap-16
+2009-06-09 00:00:00 05:00AM BLOOD ALT-9 AST-13 LD(LDH)-178 AlkPhos-40
+TotBili-0.3
+2009-06-09 00:00:00 12:30AM BLOOD ALT-14 AST-42* AlkPhos-41 TotBili-0.3
+2009-06-09 00:00:00 05:50PM BLOOD CK-MB-5 cTropnT-0.04*
+2009-06-09 00:00:00 01:35AM BLOOD CK-MB-2 cTropnT-0.05*
+2009-06-09 00:00:00 11:10AM BLOOD Calcium-8.4 Phos-3.9 Mg-1.8
+2009-06-09 00:00:00 05:10AM BLOOD Calcium-8.0* Phos-3.5 Mg-1.9
+2009-06-09 00:00:00 05:22AM BLOOD Calcium-8.0* Phos-4.0 Mg-1.9
+2009-06-09 00:00:00 05:00AM BLOOD Calcium-7.8* Phos-4.2 Mg-2.0
+2009-06-09 00:00:00 05:37PM BLOOD Calcium-7.9* Phos-3.7 Mg-2.0
+2009-06-09 00:00:00 12:11AM BLOOD Calcium-8.2* Phos-3.3 Mg-2.0
+2009-06-09 00:00:00 05:12AM BLOOD Calcium-7.8* Phos-2.9 Mg-2.3
+2009-06-09 00:00:00 05:25AM BLOOD Calcium-8.0* Phos-2.5* Mg-1.9
+2009-06-09 00:00:00 12:44PM BLOOD Calcium-8.1* Phos-3.1 Mg-2.0
+2009-06-09 00:00:00 05:10AM BLOOD Calcium-7.9* Phos-3.9 Mg-2.1 Cholest-97
+2009-06-09 00:00:00 05:35AM BLOOD Calcium-8.3* Phos-4.2 Mg-2.1
+2009-06-09 00:00:00 01:35AM BLOOD Calcium-8.2* Phos-3.7# Mg-2.3
+2009-06-09 00:00:00 03:10AM BLOOD Calcium-8.7 Phos-5.5* Mg-2.1
+2009-06-09 00:00:00 12:26PM BLOOD Calcium-7.9* Phos-4.5 Mg-2.0
+2009-06-09 00:00:00 05:25AM BLOOD Triglyc-193*
+2009-06-09 00:00:00 05:10AM BLOOD Triglyc-212* HDL-16 CHOL/HD-6.1
+LDLcalc-39
+2009-06-09 00:00:00 05:10AM BLOOD Vanco-19.5
+2009-06-09 00:00:00 06:00AM BLOOD Vanco-13.7
+2009-06-09 00:00:00 05:00AM BLOOD Digoxin-0.9
+2009-06-09 00:00:00 03:10AM BLOOD Digoxin-0.7*
+
+Brief Hospital Course:
+Ms. Levesque was taken emergently to the OR for exploratory
+laparatomy on 2009-06-09 00:00:00. She was transferred to the SICU in fair
+condition postoperatively, intubated and sedated. Her hospital
+course is discussed below by system:
+
+Neuro: Patient's pain was controlled with PCA and transitioned
+to IV and po pain medications when appropriate. During her ICU
+stay, she was noted to have word finding difficult and
+sundowning. Family felt that patient was confused but otherwise
+at baseline and her neurologic exam was nonfocal. As her overall
+condition improved and sundowning resolved, her word finding
+difficulty became more apparent and an MRI of her head was
+performed on 2009-06-09 00:00:00 with acute infarction in the left middle
+cerebral artery distribution involving the left parietal lobe
+noted. She was started on a heparin drip and her afib was
+controlled as below. Over the following 48 hours, her speech
+improved and a speech and swallow evaluation was performed prior
+to starting po intake. Patient improved daily until 2009-06-09 00:00:00 when
+she developed hypertension into the 200s with associated
+worsening speech. A CT head was performed which showed no
+hemorrhagic conversion and evolving stroke. She was continued on
+coumadin once therapeutic on heparin, and her dose of this was
+titrated to an appropriate level. She had been initially
+supratherapeutic with a maximum INR during her admission of 4.1,
+following which her coumadin was held. This was restarted on
+0.5mg of Warfarin at discharge with a plan to follow her INR at
+rehab.
+
+CV: Patient was in Afib RVR upon admission. IV metoprolol was
+used for rate control. TEE showed no evidence of intracardiac
+thrombus to explain her synchronous embolization to her small
+bowel and brain. Patient required multi123 Any St. antihypertensives
+(metop, labetalol, hydralazine) for BP control. On 2009-06-09 00:00:00,
+patient's hypertensive episode prompted a transfer to ICU where
+she was controlled with a labetalol drip to maintain systolic
+blood pressure <140.  Patient was eventually transitioned to PO
+metoprolol and IV metoprolol PRN and transferred back to the
+general surgery service. Following transfer she was started on
+lisinopril and her blood pressure remained stable and
+appropriate and continued on an increased dose of Lopressor. Her
+blood pressure was improved and appropriate.
+
+Resp: Patient showed evidence of moderate pulmonary edema and
+was diuresed with IV lasix. She was given nebulizer treatments
+and encourage to use her IS. Her O2 was weaned.
+
+Abd: Patient's abdomen was distended with a prolonged ileus
+postoperatively. Initial attempts at diet advanced with speech
+and swallow recommendations were met with abdominal distension
+and pain. On 2009-06-09 00:00:00, patient complained of severe abdominal pain
+with nausea. KUB showed an ileus. NG tube was placed with 500 cc
+of bile drained and improvement in pain. NG tube was removed
+while patient in ICU and abominal distension was improved. Her
+diet was advanced to a regular diet and calorie counts were
+followed. She was given supplementation with ensure and was
+instructed to continue this on discharge.
+
+Wound: The midline surgical incision was closed with staples
+post-operatively. The inicsion line was intact without signs of
+infection. These staples were removed on discharge and replaced
+with steri-strips. The patient was to wear an abdominal binder
+when out of bed.
+
+Renal: Patient's mild renal insufficiency was unchanged
+throughout admission.
+
+Heme: Patient received one unit of FFP prior to ex lap on 2009-06-09 00:00:00,
+one unit of PRBC on 2009-06-09 00:00:00 and one unit of PRBC on 2009-06-09 00:00:00 for
+low Hct. Her INR rose from 1.4 to 3.5 with one dose of coumadin
+once therapeutic on heparin. Her INR peaked at 4.1 and then
+trended down. She was kept therapeutic on her coumadin
+thereafter with a low dose. Patient was also kept on Heparin SC
+with venodynes for DVT prophylaxis.
+
+ID: The patient was ruled out for C. Diff suring this admission.
+
+
+Consulting teams: During this admission the patient was followed
+closely by neurology, geriatric medicine, speech and swallow,
+phyiscal therapy, and social work.
+
+Medications on Admission:
+Coumadin 2', ASA 81', toprol XL 75', digoxin
+0.125qod, lipitor 40', omeprazole 20', glipizide 2.5', fentanyl
+patch 50, topamax 25', sinemet 25/100''', seroquel
+25'am-50'pm-100'hs, remeron 30'hs, divalproex 250am/500pm,
+ativan
+0.5'''prn, ambien 10'prn, MVI, colace 100", CaCarb 1000''', Fe
+65', fish oil, ?lasix 20', toprol 75', mirtazapine 30',
+Omeprazole 20',
+
+
+Discharge Medications:
+1. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+2. furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+4. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+(Every Other Day).
+6. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. glipizide 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+8. topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. carbidopa-levodopa 25-100 mg Tablet Sig: One (1) Tablet PO
+TID (3 times a day).
+10. quetiapine 25 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)).
+11. quetiapine 50 mg Tablet Sig: One (1) Tablet PO QPM (once a
+day (in the evening)).
+12. quetiapine 100 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+13. mirtazapine 30 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+14. divalproex 250 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO QAM (once a day (in the
+morning)).
+15. divalproex 500 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO QPM (once a day (in the
+evening)).
+16. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for anxiety.
+17. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+18. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+19. metoprolol tartrate 25 mg Tablet Sig: 2.5 Tablets PO BID (2
+times a day).
+Disp:*150 Tablet(s)* Refills:*2*
+20. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+21. warfarin 1 mg Tablet Sig: 2009-06-09 00:00:00 Tablet PO QHS (once a day (at
+bedtime)) for 1 doses: Please give at 1600 on 2009-06-09 00:00:00 and
+recheck INR on 2009-06-09 00:00:00. Goal INR 2.0-3.0, pt have been difficult
+to manage, very sensitive to warfarin.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Mesenteric Ischemia
+Ileal Resection
+CVA
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted to the hospital after a an open colectomy for
+surgical management of your mesenteric ischemia. It is thought
+that this mesenteric ischemia was caused by a blood clot in the
+membranes attatched to your intestine caused by your heart
+condition atrial fibrillation. During this time, it is thought
+that you also suffered from a stroke related to a blood clot
+which traveled to your brain. It is very important that you
+continue your coumadin therapy which ahs been difficult to
+manage, however, will be managed by the UPMCE hospital
+providers. You have recovered from this surgery well and you are
+now ready to be discharged to rehabilitation. From the stoke,
+you have difficulty saying words and it is our hope as well as
+the hope of the neurology team that this will improve over time
+with the help of occpational therapy and speech therapy. Please
+continue to hope and work for improvement in your symptoms.
+Please participate in physical therapy to regain your strength.
+You have tolerated a regular diet, passing gas and your pain is
+controlled with pain medications by mouth.
+
+Please monitor your bowel function closely. You have had a bowel
+movement. After anesthesia it is not uncommon for patient??????s to
+have some decrease in bowel function but your should not have
+prolonged constipation. Some loose stool and passing of small
+amounts of dark, old appearing blood are explected however, if
+you notice that you are passing bright red blood with bowel
+movments or having loose stool without improvement please call
+the office or go to the emergency room if the symptoms are
+severe. If you are taking narcotic pain medications there is a
+risk that you will have some constipation. Please take an over
+the counter stool softener such as Colace, and if the symptoms
+does not improve call the office. If you have any of the
+following symptoms please call the office for advice or go to
+the emergency room if severe: increasing abdominal distension,
+increasing abdominal pain, nausea, vomiting, inability to
+tolerate food or liquids, prolonges loose stool, or
+constipation.
+
+You have a long vertical incision on your abdomen the staples
+have been removed prior to your discharged and steri-strips have
+been applied. This incision can be left open to air or covered
+with a dry sterile gauze dressing if the incision becomes
+irritated from clothing. Please monitor the incision for signs
+and symptoms of infection including: increasing redness at the
+incision, opening of the incision, increased pain at the
+incision line, draining of white/green/yellow/foul smelling
+drainage, or if you develop a fever. Please call the office if
+you develop these symptoms or go to the emergency room if the
+symptoms are severe.  You may shower, let the warm water run
+over the incision line and pat the area dry with a towel, do not
+rub. Please wear an abdominal binder provided to you at all
+times while out of bed.
+
+No heavy lifting for at least 6 weeks after surgery unless
+instructed otherwise by Dr. Johnael Lakos. You may
+gradually increase your activity as tolerated but clear heavy
+excersise after follow up.
+You may take Tylenol as recommended for pain. Please do not take
+more than 4000mg of Tylenol daily. Do not drink alcohol while
+taking narcotic pain medication or Tylenol.
+
+You will take 0.5mg coumadin today 2009-06-09 00:00:00. Your INR today
+2009-06-09 00:00:00 is 2.3. The rehab facility will need to check daily INRs
+until your INR is stable and therapeutic, with a goal INR of
+2.0-3.0.
+
+Thank you for allowing us to participate in your care! Our hope
+is that you will have a quick return to your life and usual
+activities. Good luck!
+
+
+Followup Instructions:
+Please plan to follow up in Dr. Levesque clinic in approximately 2
+weeks. Call  (test@mail.com to make an appointment.
+
+
+
+Completed by:2009-06-09 00:00:00

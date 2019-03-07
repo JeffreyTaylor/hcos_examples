@@ -1,0 +1,154 @@
+Admission Date:  2006-07-24 00:00:00     Discharge Date:  2006-07-24 00:00:00
+
+Date of Birth: 1985-07-23 00:00:00 00:00:00     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 51 year old
+male with no significant past medical history other than
+hypertriglyceridemia, low HDL and tobacco abuse, who presents
+with ST elevation myocardial infarction.
+
+The morning of admission he woke up at 6:15 a.m. and felt
+unwell with mild upper chest discomfort at rest.  He had no
+dyspnea on exertion, nor shortness of breath.  He went to
+work, had continued discomfort, and at noon developed frank
+upper chest pain with radiation to both arms, mild dyspnea,
+though no nausea, vomiting or diaphoresis.
+
+He was brought to the UPMCE
+where electrocardiogram showed inferior ST segment elevation
+and he was transferred emergently to cardiac catheterization.
+He was enrolled in the Cool Myocardial infarction Study and
+randomized to the cooling arm.
+
+Left heart catheterization showed discrete 100% lesion at the
+right coronary artery with timi one flow.  Percutaneous
+transluminal coronary angioplasty was performed and 3.5 by 13
+millimeter stent was employed following which repeat
+percutaneous transluminal coronary angioplasty was performed.
+Repeat angiography showed residual stenosis proximal to the
+stent.  Therefore, repeat percutaneous transluminal coronary
+angioplasty was done and repeat angiography done showed
+complete resolution of the lesion.  He also had a 70% lesion
+at the second obtuse marginal that was not treated.  Left
+ventriculogram showed inferior hypokinesis and ejection
+fraction of 42%, normal aortic and mitral valves.  The right
+heart catheterization showed mean right atrial pressure of
+16, pulmonary artery pressure of 49/25 and a mean pulmonary
+capillary wedge pressure of 15.  The patient was transiently
+bradycardic and Atropine was given with good results.  He was
+admitted to the CCU in order to continue the cool myocardial
+infarction protocol.
+
+PAST MEDICAL HISTORY:
+1.  Hypercholesterolemia.  In 2006-07-24 00:00:00, total cholesterol
+was 238, triglycerides 728, LDL 118 and HDL 29.
+2.  Primary care physician is Creelman. [**First Name8 (NamePattern2) 2763**] Creelman, test@mail.com.
+
+MEDICATIONS ON ADMISSION:  None.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient is a former EMT.  He smokes one
+half pack per day, approximately thirty pack year history.
+No alcohol.
+
+FAMILY HISTORY:  The patient's father and many in his
+father's family have coronary artery disease but no report of
+early death.
+
+PHYSICAL EXAMINATION:  On admission, temperature is 34.6
+(cooling was in place), heart rate 87, blood pressure 106/56,
+respiratory rate 15, oxygen saturation 97%.  In general, he
+was alert in no acute distress.  Head, eyes, ears, nose and
+throat - The pupils are equal, round, and reactive to light
+and accommodation.  Extraocular movements are intact.
+Sclerae anicteric.  The neck is supple with no
+lymphadenopathy.  Jugular venous pressure is not visible.
+Chest is clear to auscultation anteriorly.  Cardiovascular is
+regular rate and rhythm, no murmurs, rubs or gallops.  Normal
+S1 and S2, no S3, no S4.  The abdomen is soft, nontender,
+nondistended, positive bowel sounds.  Groin sheaths in place,
+no hematoma noted, no bruit.  Extremities no cyanosis,
+clubbing or edema, 2+ dorsalis pedis pulses.  Skin no rashes.
+
+LABORATORY DATA:  Electrocardiogram showed normal sinus
+rhythm, 2.0 to 3.123 Any St. elevation in leads II, III
+and aVF, ST depression in leads V1 and V2, and T wave
+inversion in leads V1, V2 and aVL.  This was prior to cardiac
+catheterization.
+
+White blood cell count was 9.5, hematocrit 39.4, platelet
+count 256,000, differential of white count 69% neutrophils,
+27% lymphocytes, 3% monocytes.  Chem7 revealed sodium 147,
+potassium 3.9, chloride 109, bicarbonate 19, blood urea
+nitrogen 9, creatinine 0.8 and glucose 85.  ALT was 2, AST
+17, CK 176, alkaline phosphatase 43, amylase 39, calcium 8.8.
+
+IMPRESSION:  This is a 51 year old male status post inferior
+ST elevation myocardial infarction this morning who was
+brought immediately to cardiac catheterization where he
+received a stent to the right coronary artery.  He also had a
+70% stenosis at the OM2 that was intervened upon.  He was
+enrolled in the Cool Myocardial Infarction Study and
+randomized to the cooling arm so was transferred to the CCU
+for the study protocol. Otherwise, he was stable after
+catheterization.
+
+HOSPITAL COURSE:
+1.  Cardiac - The patient was continued on Aspirin and
+Plavix.  Beta blocker therapy was initiated as was ace
+inhibitor therapy.  Integrilin was continued for eighteen
+hours after cardiac catheterization.  CKs peaked at 648 with
+a MB of 54.  Electrocardiographic changes resolved.
+Hypercholesterolemia was treated with Lopid.  He will need a
+stress test in the future to address clinical significance of
+the lesion at the OM2.
+
+With respect to the Cool Myocardial Infarction Protocol, the
+patient did well and received Demerol while cooling in order
+to treat rigors.
+
+The patient had an echocardiogram on 2006-07-24 00:00:00, that showed an
+ejection fraction of 50 to 55%, basal inferior and
+midinferior hypokinesis of the left ventricular wall and
+normal free wall motion of the right ventricular wall.
+
+2.  Pulmonary - There were no signs or symptoms of congestive
+heart failure.
+
+3.  Renal - The patient's blood urea nitrogen and creatinine
+were normal throughout the admission.
+
+MEDICATIONS ON DISCHARGE:
+1.  Plavix 75 mg p.o. once daily for thirty days.
+2.  Aspirin 325 mg p.o. once daily.
+3.  Atenolol 25 mg p.o. once daily.
+4.  Lopid 600 mg p.o. twice a day.
+5.  Lisinopril 2.5 mg p.o. once daily.
+
+FOLLOW-UP:   Follow-up should be with Dr. Khiree Bovio in three
+to four weeks, telephone test@mail.com, and with his primary
+care physician, Creelman. [**First Name8 (NamePattern2) 2763**] Creelman, telephone number above.
+
+DISCHARGE STATUS:  To home.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSES:
+1.  Myocardial infarction.
+2.  Status post stent to the right coronary artery.
+3.  Hyperlipidemia.
+
+
+
+                          Khiree Bovio, M.D.  2730
+
+Dictated By:Khiree Bovio
+
+MEDQUIST36
+
+D:  2006-07-24 00:00:00  18:30
+T:  2006-07-24 00:00:00  12:21
+JOB#:  2730

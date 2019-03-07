@@ -1,0 +1,467 @@
+Admission Date:  2013-02-28 00:00:00              Discharge Date:   2013-02-28 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Xanax / Vicodin / darvocet
+
+Attending:Birda Orna
+Chief Complaint:
+Respiratory failure
+
+Major Surgical or Invasive Procedure:
+Mechanical intubation and ventilation.
+
+
+History of Present Illness:
+87 yof with history of atrial fibrillation on coumadin with
+recent total shoulder arthroplasty secondary to OA, who presents
+in respiratory failure. History is obtained from the son who
+reports that he was with her until 8pm tonight at which point
+she felt well without complaint. Around 11pm, he received a call
+from her complaining of SOB. He notes that she has had a
+non-productive cough for the past few days but no shortness of
+breath until tonight. She was not complaining of chest pain or
+any other symptoms. He arrived at her house and reports hearing
+a gugurling sound while she breathed. EMS was called, and pt's
+respiratory distress progressed requiring intubation in the
+field.
+.
+Upon arrival to the ED, CXR was obtained consistent with
+pulmonary edema. EKG was vpaced and unable to be interpreted for
+ischemia. She was sedated with fent/versed/propofol and vent
+setting on transfer to the MICU were AC TV: 450 P: 18 peep 13
+100% fiO2. Her tox screen positive for benzos and tylenol. INR
+was elevated at 5.2. Hct was 33.6 down from 36.8 on 2013-02-28 00:00:00. Pt
+triggered for hypotension and propfol drip was held and she
+received 2L of NS. This was followed by a dose of 40mg IV lasix
+
+.
+On arrival to the MICU, VS were: T 97.8 BP 175/75 HR 65 O2 100%
+on the above settings.
+.
+Review of systems: Unable to obtain as she is intubated.
+
+
+Past Medical History:
+Atypical chest pain
+paroxysmal Supraventricular Tachycardia (SVT):
+- per review of OMR, there was concern that she may have AVNRT,
+
+although brief episodes of AFib noted on interrogation of PPM
+Mobitz Type 2 2nd Degree AV block 2013-02-28 00:00:00 s/p PPM
+dCHF, mild MR
+Hypertension
+Chronic back pain
+Peptic ulcer disease
+Anemia with baseline Hct 31-34
+Glaucoma
+Osteoporosis
+Osteoarthritis
+Rotator cuff tears; chronic shoulder pain
+Dyslipidemia: 2013-02-28 00:00:00: HDL 67, LDL 135
+S/P appendectomy and cholecystectomy
+
+
+Social History:
+The patient is Sicilian; imigrated in 2013-02-28 00:00:00. She is widowed and
+lives alone. She is a retired seamstress. She has no VNA
+assistance. Tobacco: Denies any history of tobacco use. EtOH:
+Rare glass of wine. Drugs: No drug use
+
+
+Family History:
+Her brother has coronary artery disease, s/p angioplasty.
+
+Physical Exam:
+Admission to General medicine
+Vitals: Weight 64.7kg, T 98.1kg, BP 102/49, HR 63 V paced, RR 15
+92% ra.
+Gen: Tired appearing woman, who is hard of hearing, NAD, AAOx2.
+Heart: RRR, nl s1, s2. 2/6 systolic murmor heard best at apex,
+diastolic murmur 2013-02-28 00:00:00 LUSB. PMI palp in 6 ICS MCl
+Lungs: Breath sounds bilaterally, Poor respiratory excursion,
+faint bibasilar crackles. No rhonchi or wheezes.
+Back: Lower lumbar scar from spinal fusion surgery
+Ext: trace lower extremity edema. Right arm scar from recent
+surgery. 2+ pulses.
+Mental status: Slight tired, AAOx2. Mood and speech appropriate.
+
+
+Discharge:
+Vitals: 98.1, BP 139/70, HR 71, RR 20, RA 100%
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, cyanosis or edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred, finger-to-nose intact
+
+
+Pertinent Results:
+I) ADMISSION LABS:
+
+CBC:
+2013-02-28 00:00:00 06:22AM BLOOD WBC-4.0 RBC-2.85* Hgb-8.2* Hct-27.2*
+MCV-96 MCH-28.8 MCHC-30.1* RDW-15.1 Plt Ct-178
+2013-02-28 00:00:00 01:02AM BLOOD WBC-6.3 RBC-3.50* Hgb-10.3* Hct-33.6*
+MCV-96 MCH-29.3 MCHC-30.6* RDW-15.3 Plt Ct-233
+
+Coags:
+2013-02-28 00:00:00 06:22AM BLOOD PT-61.3* PTT-42.4* INR(PT)-6.1*
+2013-02-28 00:00:00 01:02AM BLOOD PT-52.2* PTT-44.3* INR(PT)-5.2*
+
+CHEM:
+2013-02-28 00:00:00 06:22AM BLOOD Glucose-116* UreaN-11 Creat-0.7 Na-143
+K-3.5 Cl-115* HCO3-21* AnGap-11. 2013-02-28 00:00:00 06:22AM BLOOD
+Calcium-6.9* Phos-2.9 Mg-1.7
+
+LFTS:
+2013-02-28 00:00:00 06:22AM BLOOD ALT-11 AST-19 LD(LDH)-223 AlkPhos-69
+TotBili-0.3
+
+Enzymes
+2013-02-28 00:00:00 02:46PM BLOOD CK-MB-2 cTropnT-<0.01
+2013-02-28 00:00:00 01:02AM BLOOD CK-MB-2 cTropnT-<0.01
+
+Urine:
+
+2013-02-28 00:00:00 01:30AM URINE Color-Yellow Appear-Clear Sp Poulin-1.021
+2013-02-28 00:00:00 01:30AM URINE Blood-NEG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+2013-02-28 00:00:00 01:30AM URINE RBC-2 WBC-2 Bacteri-MOD Yeast-NONE Epi-<1
+TransE-<1
+
+II) Microbiology:
+2013-02-28 00:00:00 3:45 am MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT 2013-02-28 00:00:00**
+
+   MRSA SCREEN (Final 2013-02-28 00:00:00):    No MRSA isolated.
+
+III) Imaging:
+
+STUDY: PA and lateral chest, 2013-02-28 00:00:00.
+
+CLINICAL HISTORY: 87-year-old woman recently admitted for CHF
+exacerbation,
+now with cough.
+
+FINDINGS: The pacemaker is unchanged. There is again seen a
+hardware within
+the upper lumbar spine as well as a right reverse total shoulder
+arthroplasty.
+There has been removal of the feeding tube and the endotracheal
+tube. The
+heart size is upper limits of normal. There is some mild
+tortuosity and
+calcifications of the thoracic aorta. There is no pulmonary
+edema, pleural
+effusions, or focal consolidation.
+
+Chest xray 2013-02-28 00:00:00
+FINDINGS: A single portable supine chest radiograph was
+obtained.
+Interstitial and alveolar opacities, and hilar indistinctness
+are new since
+2013-02-28 00:00:00. Pacemaker leads project over the expected location of
+the right
+atrium and right ventricle. Endotracheal tube ends in the mid
+trachea. The
+aortic arch is calcified. Lower lumbar pedicle screws are
+intact. Right
+humeral hardware is partially visualized.
+
+IMPRESSION: Moderate pulmonary edema is new since 2013-02-28 00:00:00.
+
+The study and the report were reviewed by the staff radiologist.
+
+IV) Studies:
+
+TTE
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The ascending
+aorta is mildly dilated. The aortic valve leaflets (3) are
+mildly thickened. There is no valvular aortic stenosis. The
+increased transaortic velocity is likely related to high cardiac
+output. Mild to moderate (2013-02-28 00:00:00+) aortic regurgitation is seen.
+[Due to acoustic shadowing, the severity of aortic regurgitation
+may be significantly UNDERestimated.] The mitral valve leaflets
+are mildly thickened. Mild to moderate (2013-02-28 00:00:00+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mild-moderate aortic regurgitation. Mild-moderate
+mitral regurgitation. Mild symmetric left ventricular
+hypertrophy with preserved global and regional biventricular
+systolic function.
+
+Compared with the prior study (images reviewed) of 2013-02-28 00:00:00,
+the estimated pulmonary artery pressure is elevated. The other
+findings are similar.
+
+V) Discharge/ Notable Labs:
+CBC:
+2013-02-28 00:00:00 06:38AM BLOOD WBC-3.9* RBC-3.40* Hgb-10.2* Hct-30.8*
+MCV-91 MCH-29.9 MCHC-33.0 RDW-14.9 Plt Ct-233
+
+Coags:
+2013-02-28 00:00:00 06:38AM BLOOD PT-18.1* PTT-30.4 INR(PT)-1.7*
+2013-02-28 00:00:00 06:18AM BLOOD PT-24.5* PTT-36.7* INR(PT)-2.3*
+
+Chem:
+2013-02-28 00:00:00 06:38AM BLOOD Glucose-95 UreaN-16 Creat-1.1 Na-140
+K-4.0 Cl-99 HCO3-29 AnGap-16
+2013-02-28 00:00:00 06:38AM BLOOD Calcium-8.8 Phos-4.6* Mg-1.9
+
+Thyroid:
+2013-02-28 00:00:00 06:18AM BLOOD TSH-0.084*
+2013-02-28 00:00:00 06:38AM BLOOD T4-11.6 T3-100
+
+VI) Studies pending at discharge: None
+
+Brief Hospital Course:
+87 year old female with a history of atrial fibrillation on
+coumadin, mobitz type 2 heart block s/p pacemaker (DDD), and
+chronic diastolic heart failure admitted with acute respiratory
+failure due to acute on chronic diastolic heart failure
+
+Active Issues:
+#Respiratory failure secondary to decompensated dialstolic
+congestive heart failure.
+#Atrial fibrillation with supratherputic INR
+
+#Acute Respiratory failure/Acute on chronic diastolic heart
+failure:
+Patient was initially admitted to the ICU after being intubated
+in the field. The patient was diuresed with improvement in
+oxygenation and was able to be extubated in ~24 hours. TTE in
+the ICU was notable for preserved EF with slight increase in
+MR/AI, but was otherwise stable from prior without new wall
+motion abnormalities. Cardiac biomarkers were negative and CXR
+did not show any focal opacities suggestive of
+pneumonia/pneumonitis. Patient was seen by EP for pacer
+interrogation and no arrythmias including no recent atrial
+fibrillation in the preceeding week was found. Supratherapeutic
+INR made PE unlikely as well. The patient and her family members
+also mentioned that the patient had been in strict compliance
+with her outpatient medications. Patient did complain of URI
+type symptoms however. Therefore, it was felt that the patient's
+acute CHF decompensation was likely related to increased demand
+from her infection in the setting of baseline diastolic
+dysfunction, although the exact cause is not completely clear.
+She was felt to be euvolemic on transfer from the ICU to the
+medical floor and did well for >24 hours on her home medication
+regimen prior to discharge. She was evaluated by physical
+therapy who felt the patient was safe to go home with a walker
+and home PT. Upon discharge, the patient's lungs were clear
+(both by auscultation and radiographically) and  she was able to
+maintain oxygen saturation of 100% RA while working with PT.
+
+# Atrial fibrillation with supratheraputic INR:
+Patient has paroxysmal atrial fibrillation with type II AV block
+s/p PPM. Her heart rate and rythym are well controlled on
+amiodarone, atenolol, and verapmil.  Upon admission her INR was
+5.2. Her coumadin was held until 2013-02-28 00:00:00. On 2013-02-28 00:00:00, she
+received one mg of coumadin. The following day she was restarted
+on her home dose of coumadin (3.5mg). She has home VNA for a
+scheduled blood draw on monday 2013-02-28 00:00:00 which will be
+reported into her PCP.
+.
+
+Chronic issue:
+# Anemia: In the setting of her supratherputic INR, there was a
+concern that her hematocrit drop might be secondary to an occult
+GI bleed. The patient remained guaic negative and her hematocrit
+remained stable. LIkely represented an anemia of chronic disease
+rather than acute bleed.
+
+# Mobitz Type 2 AV block: Her pacemaker was interrogated by EP.
+The pacemaker was and has been functioning properly with
+scattered episodes of atrial tachycardia/atrial fibrillation not
+temporally coinciding with the patients acute decompensation.
+
+.
+Medication Changes: None.
+
+# Transitional Issues:
+1. The patient was maintained on her normal home dose of 40mg PO
+qd lasix for 24 hours prior to discharge. Upon follow up, one
+might consider adjusting the patient's outpatient regimen of
+lasix as warranted by her voume status.
+2. The patient has home tele-monitoring CHF service as well as
+home VNA and PT.
+3. The patient's TSH was checked. Her T4/T3 were within normal
+limits which is consistent with her thyroid function according
+to past medical records.
+
+Medications on Admission:
+ALENDRONATE [FOSAMAX] - 70 mg Tablet - 1 Tablet(s) by mouth 1 po
+q wk
+AMIODARONE - 200 mg Tablet - 0.5 (One half) Tablet(s) by mouth
+once a day
+ATENOLOL - 50 mg Tablet - 1 and 2013-02-28 00:00:00 Tablet(s) by mouth once a
+day
+FLUOXETINE - 10 mg Tablet - 1 Tablet(s) by mouth daily
+FUROSEMIDE - 40 mg Tablet - 1 Tablet(s) by mouth once a day
+NITROGLYCERIN - 0.3 mg Tablet, Sublingual - 1 Tablet(s)
+sublingually PRN as needed for chest pain 2013-02-28 00:00:00 repeat every 5
+minutes up to 3 tablets. If chest pain persists call 911.
+OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s)
+by mouth once a day
+OXYCODONE - 5 mg Tablet - 2013-02-28 00:00:00 Tablet(s) by mouth every four (4)
+hours as needed for pain Do not drive, operate machinery or
+drink
+alcohol while taking this medication.  Take a stool softener to
+prevent cons
+TIMOLOL MALEATE -  (Prescribed by Other Provider) - 0.5 % Drops
+-
+1 gtt(s) OD twice a day
+TRAVOPROST [TRAVATAN Z] -  (Prescribed by Other Provider) -
+0.004
+% Drops - 1 drop OD once a day
+VERAPAMIL - 240 mg Tablet Extended Release - 1 Tablet(s) by
+mouth
+once a day
+WARFARIN -  (Prescribed by Other Provider: Amoi Poulin rehab) - 2.5 mg
+Tablet - 1 Tablet(s) by mouth daily in the evening or as
+directed
+WARFARIN -  (Prescribed by Other Provider: Amoi Poulin rehab) - 1 mg
+Tablet - 1 Tablet(s) by mouth daily or as directed
+
+Medications - OTC
+CALCIUM CARBONATE-VITAMIN D3 -  (Prescribed by Other Provider) -
+600 mg-400 unit Tablet - 2 Tablet(s) by mouth daily
+FERROUS SULFATE -  (Prescribed by Other Provider) - 325 mg (65
+mg
+Iron) Tablet - 1 Tablet(s) by mouth daily
+GLUCOSAMINE-CHONDROITIN -  (OTC) - Dosage uncertain
+MULTIVITAMIN-MINERALS-LUTEIN [CENTRUM SILVER] -  (Prescribed by
+Other Provider) -   Tablet - 1 Tablet(s) by mouth once daily
+
+
+Discharge Medications:
+1. alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.
+
+2. amiodarone 200 mg Tablet Sig: 0.5 Tablet PO once a day.
+3. atenolol 50 mg Tablet Sig: 1.5 Tablets PO once a day.
+4. fluoxetine 10 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+5. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+6. nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) tab
+Sublingual as needed as needed for chest pain: may repeat every
+5 minutes. if pain persists call 911.
+7. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every four (4)
+hours as needed for pain: do not drive while taking. please take
+stool softener with this medication.
+8. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic UPMCE
+(2 times a day): Right Eye .
+9. travoprost 0.004 % Drops Sig: One (1) drop Ophthalmic once a
+day: Right Eye .
+10. verapamil 240 mg Tablet Extended Release Sig: One (1) Tablet
+Extended Release PO once a day.
+11. Calcium 600 with Vitamin D3 600 mg(1,500mg) -400 unit
+Capsule Sig: Two (2) Capsule PO once a day.
+12. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+13. Centrum Silver     Tablet Sig: One (1) Tablet PO once a day.
+
+14. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+15. warfarin 1 mg Tablet Sig: 3.5 Tablets PO Once Daily at 4 PM.
+
+16. Outpatient Lab Work
+Please check INR on 2013-02-28 00:00:00 (Diagnosis= atrial fibrillation)
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Homecare
+
+Discharge Diagnosis:
+1. Respiratory failure
+2. Acute on chronic heart failure with preserved ejection
+fraction (LVEF 55%)
+3. Atrial fibrillation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+Discharge Instructions:
+Dear Ms. Poulin,
+
+You were admitted for respiratory failure in the setting of
+acute congestive heart failure. We have removed the extra fluid
+from your lungs and your breathing has signficantly improved.
+The other good news is that you did not have a heart attack. We
+know this because your cardiac enzymes which are a very
+sensitive marker for heart attack were negative.
+
+In terms of preventing future episodes of heart failure, it is
+very important that you stay strictly compliant with your
+medications. In addition, you should be eating a diet which is
+low in sodium. Please limit your sodium intake to less than
+2grams per day.
+
+You need to be weighed every day. If your weight has increased
+by more than 3 pounds you should call your primary care doctor
+for further advice (PCP: Amoi Poulin,Amoi Poulin Amoi Poulin. test@mail.com.)
+
+Your TSH levels, (thyroid stimulating hormone) levels are low.
+In the past you have also had low levels of TSH. We suggest that
+talk to your PCP Poulin 2013-02-28 00:00:00 about your thyroid levels.
+
+Please resume all of your normal home medications at the doses
+prescribed prior to admission.
+
+You will need to have your INR checked on Monday and the results
+sent to your PCP. Amoi Poulin will help you arrange this.
+
+If you experience any of the danger signs listed below please
+call your primary care physician or go to the nearest emergency
+department.
+
+Followup Instructions:
+Department: 123 Any St. - ADULT MED
+When: TUESDAY 2013-02-28 00:00:00 at 11:15 AM
+With: Amoi Poulin, MD test@mail.com
+Building: 123 Any St. (123 Any St., MA) 123 Any St.
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+Department: 123 Any St. - ADULT MED
+When: TUESDAY 2013-02-28 00:00:00 at 11:15 AM
+With: Amoi Poulin, MD test@mail.com
+Building: 123 Any St. (123 Any St., MA) 123 Any St.
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+Department: CARDIAC SERVICES
+When: MONDAY 2013-02-28 00:00:00 at 3:30 PM
+With:  DEVICE CLINIC test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: CARDIAC SERVICES
+When: MONDAY 2013-02-28 00:00:00 at 4:00 PM
+With: Amoi Poulin, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+

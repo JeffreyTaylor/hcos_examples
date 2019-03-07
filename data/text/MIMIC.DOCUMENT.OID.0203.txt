@@ -1,0 +1,441 @@
+Admission Date:  2012-11-07 00:00:00              Discharge Date:   2012-11-07 00:00:00
+
+Date of Birth: 1980-11-07 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Iodides
+
+Attending:Jacquis Newsone
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+pericardiocentesis
+
+
+History of Present Illness:
+52 year old woman with a PMH significant for metastatic breast
+cancer with lung and brain mets admitted to the UPMCE for
+management of respiratory distress.  The patient reports that
+she has had progressively worsening dyspnea on exertion and a
+cough productive of whitish sputum over the past several months,
+and that these symptoms prompted her CT chest in 2012-11-07 00:00:00 that
+demonstrated her pulmonary metastasis.  She states that over the
+past 2 days, she has had worsening shortness of breath such that
+she is now unable to climb 2012-11-07 00:00:00 flight of stairs. She also
+endorses some right sided chest pain that is not pleuritic,
+which she states has been intermitent for several months. She
+denies any f/c/s, palpitaitons, n/v/d, sore throat, LBP, or
+myalgias.
+.
+In the UPMCE ED, initial VS 97.5 130 143/82 28 94% RA.  She
+developed a worsening O2 requirement to 5L nc, and received
+vanco, levofloxacin, and ceftriaxone. She was then admitted to
+the UPMCE for further management.
+.
+Currently, the patient continues to complain of dyspnea and
+cough. Denies any CP, palpitations, or assymetric lower
+extremity edema.
+
+
+Past Medical History:
+BREAST CANCER:
+- 2012-11-07 00:00:00 - diagnosed with 4 cm right breast infiltrating ductal
+carcinoma, grade 3, LVI, ER/PR/Her-2/neu +, 2012-11-07 00:00:00 positive
+axillary nodes. Underwent 4 cycles of Adriamycin and Cytoxan and
+four cycles of Taxol, followed by right total mastectomy, which
+revealed no residual carcinoma.
+- Treated at UPMCE by Dr. Shelly of Rad-Onc, chest wall,
+supraclavicular, and axillary nodes (50 Gy).
+- On tamoxifen, switched to letrozole in 11/2012-11-07 00:00:00.
+- 2012-11-07 00:00:00, found to have 1 cm left breast mass. Partial
+mastectomy demonstrated 1.1 cm infiltrating ductal carcinoma,
+grade 2, LVI positive, 3 mm posterior Shelly and DCIS 2 mm from
+inferior margin. ER/PR +, Her-2/neu -. 2012-11-07 00:00:00 positive sentinel
+lymph nodes.
+- Treated with Taxol and Cytoxan for four cycles. Genetic
+testing revealed her to be BRCA2 heterozygosity, so she
+underwent left mastectomy, which revealed no residual carcinoma.
+Dr. Shelly performed a laparoscopic TAH-BSO.
+- Dr. Jacquis Newsone treated her to the chest wall (50.4 Gy) and the
+supraclavicular and axillary nodes (45 Gy), completed on
+2012-11-07 00:00:00. She had no evidence of recurrence at the
+time
+of her last visit with Dr. Jacquis Newsone on 2012-11-07 00:00:00.
+- 2012-11-07 00:00:00, developed dry cough and frontal headaches. CTA chest on
+2012-11-07 00:00:00 demonstrated LLL pulmonary mass (17 x 16 mm with
+possible lymphangitic spread), enlarged cervical nodes, and a
+2.2-cm paratracheal node.
+- EBUS by IP on 2012-11-07 00:00:00, 4R/7 path. Path poorly differentiated
+carcinoma that was TTF-1 negative, mammoglobin positive, ER
+negative, and HER-2/neu equivocal.
+- CA27.29 was elevated at 431 on 2012-11-07 00:00:00, up from 270
+on 2012-11-07 00:00:00, 45 on 2012-11-07 00:00:00, and 25 on 2012-11-07 00:00:00.
+- 2012-11-07 00:00:00 - Brain MRI revealed a 4.3 x 4.2 mm left cerebellar
+lesion and two small foci in the right occipital lobe. There was
+no edema or mass effect around these lesions.
+- 2012-11-07 00:00:00 - started xeloda
+CROHN'S DISEASE
+- dx 2012-11-07 00:00:00. Mild flare in early 2012-11-07 00:00:00 not requiring medication
+changes.
+L RADIAL FRACTURE:
+- s/p requiring surgical repair on 2012-11-07 00:00:00, and hardware
+removal on 2012-11-07 00:00:00.
+HISTORY OF RUE CELLULITIS
+- s/p AxLND bilaterally, but only has had complications on the R
+
+
+Social History:
+Lives with her dog 123 Any St.. Works at [**First Name5 (NamePattern1) 2004**] Shelly
+Jacquis Newsone as financial advisor. EtOH - social. Tobacco -
+Denies. Denies IV, illicit, or herbal drug use.
+
+
+Family History:
+Her father died of leukemia at age 53 and her aunt had leukemia
+at age 19. Sister: died of leukemia, Brother: died from HIV/AIDS
+
+Physical Exam:
+Admission Exam:
+.
+VS: 97.2 112 139/74 30 93%4L nc
+Gen: Age appropriate female in mild respiratory distress
+HEENT: MMM, OP clear
+CV: Tachy S1+S2
+Pulm: Scattered mild expiratory wheezes. Decreased breath sounds
+at left base. Increased dullness to percussion.
+Abd: S/NT/ND +bs
+Ext: No c/c/e. LE symmetric in circumference.
+Neuro: AOx3, CN II-XII intact.
+
+Pertinent Results:
+Admission Results:
+2012-11-07 00:00:00 06:30PM BLOOD WBC-8.9 RBC-3.94* Hgb-12.4 Hct-35.7*
+MCV-91 MCH-31.5 MCHC-34.8 RDW-15.1 Plt Ct-467*
+2012-11-07 00:00:00 06:30PM BLOOD Neuts-84.7* Lymphs-8.6* Monos-5.1 Eos-1.4
+Baso-0.3
+2012-11-07 00:00:00 06:30PM BLOOD PT-13.3 PTT-22.5 INR(PT)-1.1
+2012-11-07 00:00:00 06:30PM BLOOD Glucose-120* UreaN-16 Creat-0.6 Na-140
+K-3.5 Cl-105 HCO3-20* AnGap-19
+2012-11-07 00:00:00 06:30PM BLOOD ALT-22 AST-26 LD(LDH)-969* AlkPhos-85
+TotBili-0.4
+2012-11-07 00:00:00 06:27PM BLOOD Lactate-1.6
+Serum LDH (2012-11-07 00:00:00): 1068
+2012-11-07 00:00:00 03:09AM BLOOD Glucose-113* UreaN-12 Creat-0.6 Na-139
+K-4.6 Cl-109* HCO3-15* AnGap-20
+.
+Pericardial Fluid 2012-11-07 00:00:00
+WBC: 2920/uL
+RBC: [**Numeric Identifier 2007**]/uL
+Polys 36%
+ATYPICAL AGGREGATES OF EPITHELIAL CELLS WITH OVERLAPPING NUCLEAR
+BOUNDARIES PLEASE REFER TO CYTOLOLGY
+Lymphocytes 42%
+Monos 10%
+Macrophage 12%
+Total Protein, 4.2   g/dL
+Glucose 64   mg/dL
+LD 1036 IU/L
+Amylase 29   IU/L
+Albumin 2.8   g/dL
+.
+CYTOLOGY:
+DIAGNOSIS: Pericardial Fluid:
+  POSITIVE FOR MALIGNANT CELLS,
+  consistent with metastatic breast carcinoma.
+.
+dicharge labs:
+ COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+2012-11-07 00:00:00 07:45    17.2* 3.71* 11.5* 33.5* 90 31.0 34.4 14.5
+305
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+2012-11-07 00:00:00 07:45    118*1 14 0.5 134 3.2* 96 30 11
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+2012-11-07 00:00:00 07:45    91* 47*     76   0.7
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+2012-11-07 00:00:00 07:45          8.2* 2.4* 2.1
+.
+IMMUNOLOGY          CA27.29
+2012-11-07 00:00:00 12:58    561*1
+2012-11-07 00:00:00 11:15    786*3
+2012-11-07 00:00:00 12:46    552*4
+2012-11-07 00:00:00 09:22    431*1
+2012-11-07 00:00:00 12:32    270*5
+2012-11-07 00:00:00 09:45    45*4
+.
+CXR (2012-11-07 00:00:00):
+Ill-defined hazy opacities in both lungs, worse within the left
+perihilar
+region, with increased size of the cardiac silhouette and small
+left pleural effusion. Findings most likely relate to pulmonary
+edema. Underlying infection or neoplasm, as noted on the prior
+CT within the left lung cannot be discerned on this exam.
+.
+TTE (2012-11-07 00:00:00):
+Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF>55%). There is no aortic
+valve stenosis. There is a moderate sized pericardial effusion.
+The effusion appears circumferential. There is brief right
+atrial diastolic collapse. There is brief right ventricular
+diastolic compression/collapse, consistent with impaired
+fillling/tamponade physiology. Moderate pericardial effusion
+with echo evidence of tamponade.
+.
+CT Chest With Contrast (2012-11-07 00:00:00):
+No evidence of pulmonary embolism. Massive progression of
+disease with substantial generalized severe mediastinal and
+hilar lymphadenopathy, newly appeared bilateral pleural
+effusions, newly appeared pericardial effusion, newly appeared
+multifocal pneumonia, and evidence of lymphangitis
+carcinomatosa.
+.
+TTE (2012-11-07 00:00:00):
+Overall left ventricular systolic function is normal (LVEF>55%).
+There is a very small pericardial effusion which is partially
+echodense. The pericardium may be thickened but is not well
+visualized. Compared with the prior study (images reviewed) of
+2012-11-07 00:00:00, the pericardial effusion is now much smaller.
+.
+CXR 2012-11-07 00:00:00:
+IMPRESSION: Further progression of metastatic breast cancer
+disease with
+pericardial effusion, extensive infiltrates in left lower lobe,
+and additional
+probably metastatic spread in other lung regions. It cannot be
+decided
+whether the described findings have any relevance to
+therapeutically-induced
+fluid overload.
+.
+ECHO 2012-11-07 00:00:00: Conclusions
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There is a small pericardial effusion. The effusion appears
+circumferential. The effusion is echo dense, consistent with
+blood, inflammation or other cellular elements.
+IMPRESSION: Small circumferential pericardial effusion.
+Bilateral pleural effusions.
+
+
+Brief Hospital Course:
+52 year old woman with a PMH significant for metastatic breast
+cancer with lung and brain metastases admitted originally to the
+UPMCE for management of respiratory distress, then transferred to
+CCU after pericardiocentesis for cardiac tampoande, then
+transferred to UPMCE after pt's respiratory status stabilized.
+.
+#. Hypoxic Respiratory Distress: On presentation to the ICU, the
+patient denied any fevers but reported a productive cough of
+several months duration. CXR on arrival demonstrated left
+peri-hilar and basilar infiltrates with concern for infectious
+consolidation/pneumonia, pleural effusion or progression of
+metastatic disease as her cancer was known to be located in the
+left lower lobe. A CT with contrast was performed to further
+evaluate the intrapulmonary process and demonstrated a
+multifocal pneumonia, progression of the pulmonary metastases,
+pleural effusions as well as a moderate-to-large pericardial
+effusion (see below for management of pericardial effusion) but
+was negative for a pulmonary embolism. Given productive cough
+and radiographic evidence the patient was started on Levaquin
+and Vancomycin for robust CAP treatment. On review of her
+medical chart, HCAP was considered more likely and she was
+started on Levoquin and Cefipime. Blood and urine cultures were
+performed and showed no growth as well as an Influenza DFA,
+which was negative. The patient was maintained on oxygen by
+nasal canula to maintain an oxygen saturation greater than 90%.
+Urine culture showed no growth though UA was positive for
+leukocytes, as she was already on broad spectrim antibiotics, no
+additional coverage was added. Antibiotics were changed to
+Levaquin and flagyl to cover postobstructive pneumonia, she will
+finish a course of 8 days on 2012-11-07 00:00:00. On 2012-11-07 00:00:00, patient spiked
+fever to 100.9 and cefipime was restarted. After arrival to
+Anisley Shelly, pt remained afebrile and cultures were negative, so
+Ce123 Any St.e was dc'd again.  Pulmonary was consulted and per their
+recs, Vanc was restarted and Flagyl was dc'd after 5 days.  Pt
+ultimately completed 8d of Levoquin and at time of discharge,
+Vanc was changed to Linezolid to complete the course at home.
+Cough was treated symptomatically.  Pt was discharged with O2
+suppl.
+.
+#. Pericardial Effusion: Patient was tachycardic on
+presentation. There was concern that it may be related to the
+patient's hypoxia or another underlying process such as a PE or
+possibly hypovolemia. Antibiotics for her pneumonia as above.
+Intravenous fluids were given for hypovolemia with little change
+in heart rate. A CT was ordered as above to evaluate further,
+which was negative for a pulmonary embolism but did reveal a
+moderate-to-large pericardial effusion. A TTE was ordered to
+evaluate further and revealed evidence of tamponade physiology.
+Moreover, the patient had a pulsus paradoxus of 16-18 mm Hg on
+exam. The interventional cardiology service was contactAnisley Shelly who
+performed pericardiocentesis which produced 470mL serosanguanous
+fluid which was consistent with exudate by lites criteria. Over
+the next day, the drain put out another 500cc of fluid. The
+fluid was sent for cultures which were all negative.  Cytology
+on pericarial fluid was positive for malignant cells. After one
+day, the pericardial drain was pulled, and the tip sent for
+culture which was also negative, and the patient was transfered
+out of the CCU. After arrival to Anisley Shelly, pt remained stable on NC,
+however clinically appeared still distressed.  On 2012-11-07 00:00:00, a
+repeat ECHO was performed and it showed small pericardical
+effusion, reassuring us that the fluid had not reaccumulated.
+Per Cardiology recs, pt was instrusted to get another repeat
+ECHO on 2012-11-07 00:00:00 when she return for her outpt appt with
+oncologist, Dr. Shelly. Dr. Shelly will follow-up on the ECHO
+results.
+.
+# Anion Gap Metabolic Acidosis: Patient presented with a mild
+metabolic acidosis and an anion gap of 15. The most immediate
+concern was for a lactic acidosis from her respiratory distress
+and impaired tissue oxygenation or a possible starvation
+ketosis. Repeat labs the morning after admission revealed a
+worsening of her acidosis with a HCO3 of 15 (down from 20 on
+admission). An ABG revealed an appropriate respiratory
+compensation with a pCO2 of 31. The metabolic acidosis soon
+resolved and pt remained stable.
+.
+# Breast cancer: CT on admission showed dramatic progression of
+metastatic disease involving the lungs bilaterally. She was
+continued on capecitabine 1000 mg UPMCE, and transfered to the
+oncology service. Once on UPMCE, given pt's breast cancer was
+progressing on current therapy (CA27-29 rising) and pt's
+clinical status was deteriorating, inpt attending and outpt
+oncologist Dr. Shelly discussed started a new chemotherapy
+regimen.  Thus, pt's capecitabine was stopped and on 2012-11-07 00:00:00 pt
+was given Herceptin, Docetaxel and Carboplatin.  20 minutes into
+the infusion, Herceptin was stopped bc pt developed SOB and
+hypoxia to mid 80s.  Pt's symptoms resolved with time, Ativan
+and Lasix.  Herceptin was attempted again on 2012-11-07 00:00:00.  This
+time the infusion was stopped 60 min into the infusion bc pt
+developed tachycardia. Pt's symptoms resolved with time.  Pt was
+started on Neupogen 24 hours after chemotherapy administration
+to prevent neutropenia.  The Neupogen was discontinued on day of
+discharge as pt's WBC was still >15.
+.
+# Elevated LFTs: Pt had midly elevated LFTs after chemo
+administration, which were trending down with time.
+.
+# Diarrhea:  Pt developed diarrhea during the hospitalization.
+C diff was negative.  Likely 2012-11-07 00:00:00 chemo.  Diarrhea improved with
+Imodium.
+.
+# Anemia: Hematocrit on admission was approximately 39, at the
+patient's known baseline. The patient subsequently received
+several liters of intravenous fluids for her tachycardia and her
+hematocrit came down to 35. Pt's Hct remained stable in the
+31-35 range.  Pt did not require any transfusions.
+.
+# Crohn's: Patient was continued on her Mesalamine without
+event.
+.
+# Pt was on regular diet.  Pt was full code.  Pt was on SC
+Heparin for DVT ppx.
+
+
+Medications on Admission:
+- Percocet 5/325 mg p.o. q.4h. p.r.n.
+- Mesalamine 1 g p.o. daily
+- Multivitamin one tablet p.o. daily
+- Advil p.r.n.
+- Tylenol p.r.n.
+- Capecetabine 1000 mg PO BID C3D4
+
+Discharge Medications:
+1. Oxygen
+2-4 Liters continuous pulse dose for portability, metastatic
+breast cancer to lung
+2. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*15 Tablet(s)* Refills:*2*
+3. mesalamine 250 mg Capsule, Sustained Release Sig: Four (4)
+Capsule, Sustained Release PO QDAY ().
+4. benzonatate 100 mg Capsule Sig: One (1) Capsule PO Q4H (every
+4 hours) as needed for Cough: Do not take more than 6 capsules
+per day.
+Disp:*180 Capsule(s)* Refills:*0*
+5. guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed for cough.
+Disp:*600 ML(s)* Refills:*0*
+6. loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times
+a day) as needed for diarrhea.
+Disp:*30 Capsule(s)* Refills:*0*
+7. codeine sulfate 30 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6
+hours) as needed for cough.
+Disp:*30 Tablet(s)* Refills:*0*
+8. linezolid 600 mg Tablet Sig: One (1) Tablet PO twice a day
+for 3 days.
+9. Percocet 5-325 mg Tablet Sig: One (1) Tablet PO every four
+(4) hours as needed for pain.
+10. multivitamin     Capsule Sig: One (1) Capsule PO once a day.
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Foothills Visiting Nurse & Home Care, Inc
+
+Discharge Diagnosis:
+Metastatic breast cancer, pericardial effusion
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure to participate in your care Ms. Shelly.
+You were admitted to the hospital with shortness of breath.  We
+found that you had extra fluid around your heart and you had a
+drain placed to remove the fluid.  We also found that you had
+worsened metastatic breast cancer that has spread to your lungs.
+ This made it difficult for you to breathe.  We started new
+chemotherapy, which helped to improve your symptoms.  We also
+treated you for pneumonia during your hospitalization.  You will
+go home with supplemental oxygen.
+
+Please make the following changes to your medications:
+1. Stop xeloda
+2. Please start linazolid 600 mg twice a day for three days (you
+will finish course on 2012-11-07 00:00:00
+3. Start metoprolol 12.5 mg twice a day - this medication helps
+to slow your heart rate
+4. Start benzonatate 100 mg Capsule every 4 hours as needed for
+cough (Do not take more than 6 capsules per day.)
+5. Start Guaifenesin 100 mg/5mL syrup - take 5 - 10 mL every 6
+hours as needed for cough
+6. Start loperamide 2 mg up to 4 times a day as needed for
+diarrhea.
+7. Start codeine sulfate 15 mg (0.5 Tablet)every 6 hours as
+needed for cough
+8. Start supplemental oxygen 2-4 L via nasal cannula
+
+You will need to have a repeat ECHO to evaluate for a
+pericardial effusion.  Dr. Shelly will follow-up the results of
+the ECHO.  Please call (test@mail.com to make an appointment.
+
+Followup Instructions:
+Repeat ECHO 2012-11-07 00:00:00 - please call (test@mail.com to make an
+appointment.
+
+Department: HEMATOLOGY/ONCOLOGY
+When: WEDNESDAY 2012-11-07 00:00:00 at 10:00 AM
+With: Anisley Shelly, MD test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+Department: BREAST CARE CENTER
+When: THURSDAY 2012-11-07 00:00:00 at 9:00 AM
+With: Anisley Shelly, NP test@mail.com
+Building: SC 123 Any St.
+Campus: EAST     Best Parking: UPMCE Garage
+
+
+
+Completed by:2012-11-07 00:00:00

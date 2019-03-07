@@ -1,0 +1,310 @@
+Admission Date:  2008-09-21 00:00:00              Discharge Date:   2008-09-21 00:00:00
+
+Date of Birth: 1972-06-20 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Giovann Parciak
+Chief Complaint:
+Hypothermia, hypotension, lactic acidosis
+
+Major Surgical or Invasive Procedure:
+Intubation, femoral CVL, femoral arterial line
+
+History of Present Illness:
+Patient is a 70 year old female with past medical history of
+coronary artery disease, hypertension, CVA, and breast cancer
+who was recently discharged from UPMCE on 2008-09-21 00:00:00. Per report from
+the emergency room physicians, her daughter went to visit the
+patient today and noted the patient was cold, breathing fast,
+and felt unwell. EMS was called, and upon arrival the patient
+was noted to be tachypneic with a respiratory rate to the 40's,
+cold, sweaty, and hypotensive with a blood pressure of 70/palp.
+EMS was unable to obtain a temperature or start an IV in the
+field.
+.
+Upon arrival to UPMCE ED, patient was noted to be tachypneic,
+and was placed on a non-rebreather. The ED staff had a difficult
+time obtaining a blood pressure (erratic and felt to be
+erroneous readings of 190's obtained), and ultimately a mannual
+cuff provided Giovann Parciak Taplin of systolic of 85. Again it was
+difficult to place a peripheral IV, so a left EJ was placed.
+Ultimately a femoral central line was placed, as with her
+persistent tachypnea a neck line was felt unsafe. Her breathing
+improved to a rate in the 20's, and she was placed on nasal
+cannula oxygen with a saturation in the 90's. She received three
+liters of intravenous fluid. A chest x-ray was felt to possibly
+be consistent with pneumonia, so she was given levofloxacin,
+zosyn, and vancomycin to cover for possible aspiration and
+hospital-acquired pathogens given her recent stay. Of note, she
+remained hypothermic and a rectal probe was unable to read a
+temperature. With warm blankets, her temperature improved to 92
+rectally at time of transfer. Her labs were notable for a
+lactate of 9.5, troponin at her baseline (0.06), and a bump in
+her creatinine to 2.3 (123 Any St.usly 1.4).
+.
+Upon arrival to the floor, patient denies any discomfort or
+pain, but states she feels cold. She cannot provide any details
+regarding the events leading to hospitalization.
+
+Past Medical History:
+Dyslipidemia
+Hypertension
+Recent Inferior STEMI (2008-09-21 00:00:00)
+Left breast cancer s/p modified radical mastectomy 2008-09-21 00:00:00; also
+received Taxol and Herceptin.
+h/o subacute infarct L temporal lobe found in 2008-09-21 00:00:00
+s/p excision of ganglion cyst in hand
+s/p right deep inferior epigastric perforator (Taplin) flap breast
+
+reconstruction to fix breast asymmetry
+
+Social History:
+The pt is divorced and has been living with daughter following
+discharge from hospitalization in 8/2008-09-21 00:00:00. Homemaker. Emigrated
+from 123 Any St..
+-Tobacco history: none
+-ETOH: none
+-Illicit drugs: none
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+General: Sleeping, arousable, answers some questions, but
+difficult to understand. In NAD
+HEENT: NC/AT. Dry mucous membranes. No scleral icterus or
+conjunctival pallor. PERRL. EOMI.
+Neck: Supple, flat JVP.
+Lungs: Occasional rales at bases, good air movement, no wheezes.
+Cardiac: Regular, soft diastolic murmur at apex, no rubs or
+gallops ap123 Any St.ted.
+Abdomen: Soft, NT, ND, +BS
+Extr: Cool, no cyanosis, no clubbing or edema. Radial, PT/DP 2+.
+Neuro: Awake, oriented to self only. CNs appear symmetric, but
+patient unable to cooperate with fomral testing. Moves all
+extremities when requested.
+
+
+Pertinent Results:
+2008-09-21 00:00:00 11:34AM BLOOD WBC-12.4* RBC-2.52* Hgb-7.5* Hct-25.5*
+MCV-101* MCH-29.8 MCHC-29.5* RDW-15.0 Plt Ct-151
+2008-09-21 00:00:00 10:20PM BLOOD WBC-11.2*# RBC-3.39* Hgb-10.1* Hct-32.3*
+MCV-96 MCH-29.9 MCHC-31.3 RDW-15.5 Plt Ct-237
+2008-09-21 00:00:00 10:20PM BLOOD Neuts-80.4* Lymphs-17.1* Monos-2.1
+Eos-0.2 Baso-0.1
+2008-09-21 00:00:00 11:34AM BLOOD Glucose-91 UreaN-31* Creat-2.2* Na-146*
+K-4.3 Cl-118* HCO3-10* AnGap-22*
+2008-09-21 00:00:00 10:20PM BLOOD Glucose-115* UreaN-30* Creat-2.3* Na-141
+K-4.6 Cl-102 HCO3-14* AnGap-30*
+2008-09-21 00:00:00 10:43AM BLOOD CK(CPK)-81
+2008-09-21 00:00:00 10:20PM BLOOD CK(CPK)-73
+2008-09-21 00:00:00 10:43AM BLOOD CK-MB-NotDone cTropnT-0.07*
+2008-09-21 00:00:00 04:31AM BLOOD CK-MB-NotDone cTropnT-0.06*
+2008-09-21 00:00:00 11:34AM BLOOD Calcium-6.3* Phos-5.7* Mg-1.7
+2008-09-21 00:00:00 04:31AM BLOOD Albumin-3.4 Calcium-8.7 Phos-6.7*# Mg-2.1
+2008-09-21 00:00:00 04:31AM BLOOD TSH-6.4*
+2008-09-21 00:00:00 04:31AM BLOOD Cortsol-110.8*
+2008-09-21 00:00:00 11:47AM   TYPE-ART TEMP-35 PO2-23* PCO2-38 PH-6.99*
+TOTAL CO2-10* BASE XS--24
+2008-09-21 00:00:00 11:47AM   LACTATE-8.5*
+2008-09-21 00:00:00 11:47AM   freeCa-0.88*
+2008-09-21 00:00:00 11:34AM   GLUCOSE-91 UREA N-31* CREAT-2.2* SODIUM-146*
+POTASSIUM-4.3 CHLORIDE-118* TOTAL CO2-10* ANION GAP-22*
+2008-09-21 00:00:00 11:34AM   CALCIUM-6.3* PHOSPHATE-5.7* MAGNESIUM-1.7
+2008-09-21 00:00:00 11:34AM   WBC-12.4* RBC-2.52* HGB-7.5* HCT-25.5*
+MCV-101* MCH-29.8 MCHC-29.5* RDW-15.0
+2008-09-21 00:00:00 11:34AM   PLT COUNT-151
+2008-09-21 00:00:00 11:09AM   TYPE-ART PO2-196* PCO2-15* PH-7.34* TOTAL
+CO2-8* BASE XS--14
+2008-09-21 00:00:00 11:09AM   LACTATE-8.8*
+2008-09-21 00:00:00 10:43AM   CK(CPK)-81
+2008-09-21 00:00:00 10:43AM   CK-MB-NotDone cTropnT-0.07*
+2008-09-21 00:00:00 05:14AM   TYPE-ART PO2-109* PCO2-19* PH-7.29* TOTAL
+CO2-10* BASE XS--14
+2008-09-21 00:00:00 05:14AM   LACTATE-8.2*
+2008-09-21 00:00:00 04:31AM   GLUCOSE-132* UREA N-31* CREAT-2.3* SODIUM-140
+POTASSIUM-4.5 CHLORIDE-107 TOTAL CO2-11* ANION GAP-27*
+2008-09-21 00:00:00 04:31AM   ALT(SGPT)-350* AST(SGOT)-518* LD(LDH)-824*
+CK(CPK)-75 ALK PHOS-114 AMYLASE-76 TOT BILI-1.0
+2008-09-21 00:00:00 04:31AM   LIPASE-52
+2008-09-21 00:00:00 04:31AM   CK-MB-NotDone cTropnT-0.06*
+2008-09-21 00:00:00 04:31AM   ALBUMIN-3.4 CALCIUM-8.7 PHOSPHATE-6.7*#
+MAGNESIUM-2.1
+2008-09-21 00:00:00 04:31AM   TSH-6.4*
+2008-09-21 00:00:00 04:31AM   CORTISOL-110.8*
+2008-09-21 00:00:00 04:31AM   WBC-12.9* RBC-3.05* HGB-9.0* HCT-29.8* MCV-98
+MCH-29.4 MCHC-30.1* RDW-15.5
+2008-09-21 00:00:00 04:31AM   PLT COUNT-191
+2008-09-21 00:00:00 03:02AM   TYPE-ART PO2-96 PCO2-22* PH-7.21* TOTAL
+CO2-9* BASE XS--17
+2008-09-21 00:00:00 03:02AM   GLUCOSE-128* LACTATE-9.8* NA+-140 K+-3.9
+CL--112
+2008-09-21 00:00:00 03:02AM   freeCa-1.07*
+2008-09-21 00:00:00 11:05PM URINE  COLOR-Yellow APPEAR-Hazy SP Taplin-1.018
+2008-09-21 00:00:00 11:05PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-100
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-1 PH-5.0 LEUK-NEG
+2008-09-21 00:00:00 11:05PM URINE  RBC-0 WBC-0-2 BACTERIA-MOD YEAST-NONE
+EPI-2008-09-21 00:00:00
+2008-09-21 00:00:00 11:05PM URINE  HYALINE-0-2
+2008-09-21 00:00:00 10:50PM   GLUCOSE-110* LACTATE-9.5* K+-4.4
+2008-09-21 00:00:00 10:20PM   GLUCOSE-115* UREA N-30* CREAT-2.3* SODIUM-141
+POTASSIUM-4.6 CHLORIDE-102 TOTAL CO2-14* ANION GAP-30*
+2008-09-21 00:00:00 10:20PM   CK(CPK)-73
+2008-09-21 00:00:00 10:20PM   CK-MB-NotDone cTropnT-0.06*
+2008-09-21 00:00:00 10:20PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+2008-09-21 00:00:00 10:20PM   WBC-11.2*# RBC-3.39* HGB-10.1* HCT-32.3*
+MCV-96 MCH-29.9 MCHC-31.3 RDW-15.5
+2008-09-21 00:00:00 10:20PM   NEUTS-80.4* LYMPHS-17.1* MONOS-2.1 EOS-0.2
+BASOS-0.1
+2008-09-21 00:00:00 10:20PM   PLT COUNT-237
+2008-09-21 00:00:00 10:20PM   PT-14.1* PTT-29.4 INR(PT)-1.2*
+
+Brief Hospital Course:
+Patient is a 70 year old female with past medical history of
+breast cancer, coronary artery disease, stroke, and hypertension
+who presents with hypothermia, hypotension, and elevated lactic
+acid. Pt was admitted to the MICU for continued resuscitation.
+.
+#) Hypothermia: Unclear etiology. Differential includes sepsis,
+environmental, adrenal insufficiency, hypothyroidism, secondary
+to toxic/metabolic etiology (leading to inability to seek
+warmth) among other possibilities. Likely contributing to lactic
+acidosis. Most likely is volume de123 Any St.n +/- sepsis.
+- Bair-hugger to raise core temperature
+- Infectious work-up as discussed below including blood, urine,
+sputum cultures.
+- AM cortisol and TSH, if cortisol abnormal will consider
+cortisone stress
+.
+#) Hypotension: Patient noted to be hypotensive with systolic to
+80's, suspect pre-renal state, possibly inconjunction with
+taking usual home medications such as lasix, with possible poor
+PO intake since discharge. As noted above, sepsis is strong
+possibily. Given recent STEMI, cardiogenic shock also
+consideration.
+- Hold all BP medications.
+- Patient is status-post 3 liters of IVFs, will continue
+bolusing as needed to maintain MAP >60 and urine output
+>30cc/hr.
+- Cycle cardiac enzymes
+- Infectious work-up as noted.
+- Checking AM cortisol.
+- Pressors if needed if fluids cannot bring up pressure.
+.
+#) Hypoxia: Patient required non-rebreather in ED initially, as
+team was unable to obtain oxygen saturation. Suspect that at
+least some degree of the hypoxia may have been related to
+inability to obtain good pleth in setting of marked hypothermia.
+She may also have a developing pneuomia that is contributing.
+Less likely to be PE in setting of hypothermia and other
+findings that have improved with hydration.
+- Repeat PA/lateral chest x-ray after hydration completed if
+stable.
+- Oxygen probe to forehead or other central part of body.
+- Sputum culture to work up possible pneumonia.
+- ABG to assess oxygenation.
+- Continuing levofloxacin, vancomycin, zosyn for broad coverage
+of atypical, MRSA (given recent hospital stay), and aspiration
+(given prior CVA).
+- Consider CT to r/o PE if hypoxic once warmed, but ABG
+demonstrated adequate pO2.
+.
+#) Acute renal failure: Baseline for last month was 1.4, prior
+to 2008-09-21 00:00:00 baseline appears to be 0.9-1.0. She is currently
+making small amount of urine. This may be due to intravascularly
+depleted state with continued administration of lasix and poor
+PO intake.
+- Holding lasix.
+- Sending off urine lytes
+- Bolusing fluids to help urine output pick-up for goal >30cc
+.
+#) Metabolic acidosis:
+Patient's bicarbonate noted to be low at time of admission.
+Suspect this is multifactorial, secondary to elevated lactate
+and ARF.
+- Toxin screen
+- CK was checked, not elevated (patient possibily was down for
+some time, also was on statin)
+- Will trend lactate, continue to hydrate
+- Renal electrolytes to evaluate for RTA
+.
+#) Coronary artery disease: Continue ASA, holding BB given
+hypotension, continue statin once LFTs come back.
+- Will continue to be mindful of possible cardiogenic shock.
+.
+#) Mitral regurgitation: Noted on prior echo from last week. No
+evidence of volume overload at present.
+.
+#) History of CVA: Neurologic examination difficult to assess
+given patient appears to have somewhat altered mental status
+(per neurology notes from a few days ago, she was A&Ox3 and
+although slow to respond, appropriate in conversation). CT head
+negative.
+- Continue to monitor neurologic exam as patient is warmed and
+resuscitated (reversible factors that are likely contributing).
+.
+Pt was resuscitated in the MICU overnight with improvement in
+mentation, achievement of normothermia, with warm extremities
+and good peripheral pulses; however, lactate still remained
+elevated. Pt denied any complaints, stated she felt much
+improved from the evening prior. Pt continued to be tachypneic.
+Approximately an hour later, patient became acutely diaphoretic
+and agitated, and was intubated emergently. The blood pressure,
+which had been in the low 100s systolic, then dropped to 80s,
+with bradycardia. EKG demonstrated no ST elevations but
+non-specific changes and TWI and ST depressions. Pressors were
+initiated. The patient lost a pulse, found to be in PEA, CPR was
+initiated, a femoral a-line was placed. Pt received epinephrine,
+atropine, with return of pulse, followed by subsequent loss of
+pulse approximately 10 minutes later. CPR was continued, ACLS
+meds given. A bedside ultrasound of the heart revealed no
+significant pericardial effusion. The cardiology fellow arrived
+and reviewed the EKGs, no evidence of STEMI, bedside ultarsound
+without cardiac activity. Empiric tPA given in case of massive
+PE, CPR continued, no return of pulses, no cardiac acivity on
+ultrasound.  Pt pronounced dead. Daughter Cameika Taplin. ME declined
+case; family has consented to autopsy.
+
+Medications on Admission:
+(per discharge summary from 2008-09-21 00:00:00)
+1. Pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO at bedtime.
+5. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO three
+times a day as needed for pain.
+7. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO twice
+
+a day.
+
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiac arrest
+Hypothermia
+Sepsis
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+

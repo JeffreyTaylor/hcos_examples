@@ -1,0 +1,588 @@
+Admission Date:  2012-10-12 00:00:00              Discharge Date:   2012-10-12 00:00:00
+
+Date of Birth: 1961-10-12 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Antria Consoer
+Chief Complaint:
+ETOH and medication overdose
+
+Major Surgical or Invasive Procedure:
+Respiratory Intubation
+
+
+History of Present Illness:
+The patient is a 55-year-old male with PMH of alcoholism who
+presents after a dangerous combination of alcohol intoxication
+and accidental medication overdose. Per report, patient's
+partner says he "fell off the wagon" 2-3 days ago after being
+sober for years. He drank large quantities of port wine and took
+extra medications reportedly "by mistake." The partner is pretty
+sure that the patient was intoxicated when he multiple tablets
+of wellbutrin, seroquel, propranolol and klonipin but he is
+uncertain of specific amount. He later stated that he was not
+absolutely certain whether the patient actually ingested any
+wellbutrin and propanolol. Ultimately, the amount and
+combination of pills taken was unclear. The patient's longtime
+partner of nearly thirty years came home and found him
+semi-alert and called EMS immediately.
+.
+According to his partner, Mr. Shaulis had been
+coughing/wheezing for several months now but had no complaints
+of fevers or chills.  He had been complaining about pain in his
+neck since a fall down a few stairs a few days prior to this
+current incident.
+.
+In our ED, initial vital signs were T97.3 BP 90/54 HR 68 RR 12
+oxygen saturation of 95% via NRB. He was placed on NRB for low
+oxygen saturations <90. He was somnolent on arrival to hospital
+but still responsive to tactile stimuli.  Fingerstick glucose
+was 140 on arrival. He quickly became hypotensive to SBP 73/47.
+He was given IVF x3L total. EKG was normal, without any alarming
+ST changes. Peripheral dopamine was started for rapid BP
+correction and he was intubated for hypoxia and airway
+protection. Toxicology consult was called and they recommended
+that the pressor choice be switched to Levofed. He was also
+given narcan x2 with no effect. Once the medication history was
+flushed out, he was given calcium which did increase his rate
+from 58 to 88 and his SBP increased by 10. He was given glucagon
+1mg with no further effect. Toxicology consult recommended
+trying high dose glucagon 5mg and if that works, starting a
+glucagon gtt at 1-5mg/hr. They also recommend serial EKGs for
+monitoring.  He was also given Vancomycin and Ceftriaxone due to
+initial concern for possible sepsis.
+.
+He had chest xray which showed question widened mediastinum and
+patient reported some chest discomfort on arrival. CTA was done
+which showed normal aorta. FAST scan was done which showed no
+pericardial effusion, and no intra-abdominal bleeds.  CXR/CT did
+show bilateral infiltrates consistent with an aspiration.
+Hemodynamic instability was worrisome and he was transferred to
+the intensive care unit for close monitoring.
+.
+On arrival to the ICU he was hypoxic with O2 saturation of 85%
+on FIO2 of 50%, HR in 50's.  He was suctioned, ET tube pulled
+back 2cm and PEEP increased to 14, FIO2 to 100% with slow
+recovery of O2 saturation. He was continued on Levophed and an
+arterial line was placed for better hemodynamic monitoring.
+.
+
+
+Past Medical History:
+Alcoholism
+Hypertension
+Depression
+
+Social History:
+The patient lives in 123 Any St. with his partner of over 30 years.
+He has local family but has limited contact with them.  He
+reports that he and his partner do not work because they have
+enough money to allow them not to need to work.
+Mr. Shaulis reports drinking only one glass of wine a day,
+yet also endorses drinking enough prior to admission that he got
+confused when taking his medications. Thus, history somewhat
+questionable. Denies illicit drug use. He reports having been
+sober for a stretch of 14-15 years in the past (w/ help of
+rehab, AA), but started drinking again about 13 years ago in the
+context of a few deaths in the family.  Per his partner, his
+drinking has been much more heavy in recent months.
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+INITIAL ADMISSION EXAM:
+vitals: BP 110/48, HR 58 regular w/occasional PVC's, RR 15 100%
+FIO2 100%
+VC 100%/500/16/14 , weight of 97kg, 70"
+.
+General: sedated, intubated, not responding to verbal commands
+HEENT: NC/AT, pupils pinpoint but equal and reactive bilaterally
+CV: Bradycardic, regular, no ap123 Any St.ble murmur
+Lungs: decreased breath sounds at right base, otherwise good air
+movement bilaterally
+Abdomen: slightly distended, BS+, no HSM, no apparent tenderness
+Ext:  DP's palpable bilaterally, trace edema bilaterally
+Neuro: unable to assess 2012-10-12 00:00:00 sedation
+
+
+Pertinent Results:
+INITIAL ADMISSION LABS 2012-10-12 00:00:00 :
+.
+PT: 12.2 PTT: 28.5 INR: 1.0
+.
+Na 136, Cl 102, BUN 30, Cr 2.2, Glucose 129, K 4.3,  HCO3 22
+AGap=16
+.
+CK: 304 MB: 4 Trop-T: <0.1
+.
+ALT: 38 AP: 86 Tbili: 0.2 Alb: 3.9
+AST: 47 LDH: 217
+Antria Consoer: 51 Lip: 143
+.
+Serum EtOH 339*
+Serum ASA, Acetmnphn, Shaulis, [**First Name3 (LF) **], Tricyc Negative
+.
+Urine Benzos Pos *
+Urine Barbs, Opiates, Cocaine, Amphet, Mthdne Negative
+.
+WBC 6.4 Hgb 11.3 HCT 34.6* Plt 329 MCV 97
+N:38.9 L:54.5 M:2.6 E:3.6 Bas:0.4
+.
+ABG:
+1) 7.14/59/64/21 lactate 2.2
+2) 7.22/50/123/22 lactate 1 (rate increased from 16->20)
+.
+.
+2012-10-12 00:00:00 GLUCOSE-69* UREA N-30* CREAT-1.5* SODIUM-137
+POTASSIUM-5.2* CHLORIDE-111* TOTAL CO2-18* ANION GAP-13,
+CALCIUM-7.3* PHOSPHATE-3.6 MG-2.0
+2012-10-12 00:00:00 WBC-6.7 RBC-3.31* HGB-11.0* HCT-32.7* MCV-99* MCH-33.2*
+MCHC-33.5 RDW-13.9, PLT COUNT-234
+2012-10-12 00:00:00 02:58PM   LACTATE-0.9
+2012-10-12 00:00:00 12:38PM OTHER BODY FLUID  WBC-0 RBC-0 POLYS-40*
+LYMPHS-11* MONOS-12* EOS-5* OTHER-32*
+2012-10-12 00:00:00 ABG on Assist-Control Vent: PEEP-5 O2-100 PO2-123*
+PCO2-50* PH-7.22* TOTAL CO2-22 BASE XS--7 AADO2-561 REQ
+O2-90-INTUBATED
+2012-10-12 00:00:00 10:22AM   LACTATE-1.0
+2012-10-12 00:00:00 08:55AM   LACTATE-2.2*
+2012-10-12 00:00:00 08:55AM   O2 SAT-86
+2012-10-12 00:00:00 03:50AM   ALT(SGPT)-38 AST(SGOT)-47* LD(LDH)-217
+CK(CPK)-304* ALK PHOS-86 AMYLASE-51 TOT BILI-0.2
+2012-10-12 00:00:00 03:50AM   LIPASE-143*
+2012-10-12 00:00:00 03:50AM   CK-MB-4 cTropnT-<0.01
+2012-10-12 00:00:00 03:50AM   ALBUMIN-3.9
+2012-10-12 00:00:00 03:50AM   TSH-3.1
+.
+URINE STUDIES:
+.
+2012-10-12 00:00:00 03:50AM URINE  Benzos-POS, Barbits-NEG, opiates-NEG,
+cocaine-NEG amphetmines-NEG, methadone-NEG.
+2012-10-12 00:00:00 03:50AM URINE  COLOR-Straw APPEAR-Clear SP Shaulis-1.009
+2012-10-12 00:00:00 03:50AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+.
+
+MICROBIOLOGY STUDIES:
+
+URINE CULTURE (Final 2012-10-12 00:00:00):   NO GROWTH.
+.
+RAPID PLASMA REAGIN TEST (Final 2012-10-12 00:00:00): NONREACTIVE.
+.
+Blood Culture, Routine (Final 2012-10-12 00:00:00):    NO GROWTH
+Blood Culture, Routine (Final 2012-10-12 00:00:00):    NO GROWTH.
+Blood Culture, Routine (Final 2012-10-12 00:00:00):    NO GROWTH.
+Blood Culture, Routine (Final 2012-10-12 00:00:00):    NO GROWTH.
+.
+BAL LEGIONELLA CULTURE (Final 2012-10-12 00:00:00):   NO LEGIONELLA
+ISOLATED.
+.
+Rapid Respiratory Viral Antigen Test (Final 2012-10-12 00:00:00):
+Respiratory viral antigens not detected. SPECIMEN SCREENED FOR:
+ADENO,PARAINFLUENZA 1,2,3 INFLUENZA A,B AND RSV.
+.
+Legionella Urinary Antigen  (Final 2012-10-12 00:00:00):
+NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+.
+2012-10-12 00:00:00 BRONCHOALVEOLAR LAVAGE RESULTS
+(FINAL REPORT 2012-10-12 00:00:00) GRAM STAIN
+     1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+
+     2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                  IN PAIRS, CHAINS, AND
+CLUSTERS.
+     2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+     2+   (1-5 per 1000X FIELD):   BUDDING YEAST.
+
+  RESPIRATORY CULTURE (Final 2012-10-12 00:00:00):
+  10,000-100,000 ORGANISMS/ML. OROPHARYNGEAL FLORA.
+  STAPH AUREUS COAG +.    10,000-100,000 ORGANISMS/ML..
+  Staphylococcus species may develop resistance during prolonged
+  therapy with quinolones. Therefore, isolates that are
+initially
+  susceptible may become resistant within three to four days
+after
+  initiation of therapy.  Testing of repeat isolates may be
+  warranted.  PENICILLIN SENSITIVITY AVAILABLE ON REQUEST.
+  SENSITIVITIES: MIC expressed in MCG/ML
+ _________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------<=0.25 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+.
+.
+ADDITIONAL STUDIES AND IMAGING:
+
+2012-10-12 00:00:00 EKG: rate 60, sinus rhythm, nml axis, no ischemic ST
+changes, no 123 Any St.us tracing for comparison
+.
+2012-10-12 00:00:00 PORTABLE CXR: The heart size is within normal limits.
+There is mild prominence to the superior mediastinum. There are
+low lung volumes. No effusion or pneumothorax is detected. Mild
+prominence to the superior mediastinum. Low lung volumes without
+radiographic evidence of pneumonia.
+.
+2012-10-12 00:00:00 CT CHEST WITHOUT CONTRAST: Endotracheal tube tip
+terminates 2 cm from the carina. NG tube courses through the
+mediastinum with tip and side port within the stomach. No
+mediastinal hematoma is present. Aortic contour follows a normal
+course throughout the chest without irregularity or evidence to
+suggest rupture. Moderate to large bibasilar consolidations are
+noted bilaterally. No suspicious lytic or sclerotic lesions are
+identified. IMPRESSION: 1. Moderate to large posterior
+consolidations bilaterally. Given history findings are strongly
+suggestive of aspiration.
+2. Normal aortic contour without evidence of aortic injury on
+this non-
+contrast enhanced CT.
+.
+2012-10-12 00:00:00 HEAD CT W/O CONTRAST: There is no evidence of
+hemorrhage, edema, masses, mass effect, or infarction. The
+ventricles and sulci are normal in caliber and configuration. No
+fractures are identified. The patient is status post
+endotracheal tube intubation. There are associated
+nasopharyngeal secretions.IMPRESSION:1. No evidence of edema or
+hemorrhage.
+.
+2012-10-12 00:00:00 EKG: Rate 86, normal sinus rhythm, modest inferior ST-T
+wave changes are non-specific and may be WNL. Since the 123 Any St.us
+tracing of 2012-10-12 00:00:00 sinus tachycardia is now absent.
+.
+2012-10-12 00:00:00 CXR: Diffuse bilateral pulmonary edema has decreased.
+The persistent bilateral airspace opacities may represent
+multifocal pneumonia. The aortic arch is mildly tortuous but
+unchanged. The left lower chest is excluded from the field of
+view; other pleural surfaces are normal. No pneumothorax is
+present. IMPRESSION: Interval improvement in pulmonary edema.
+Possible persisent multifocal pneumonia.
+.
+2012-10-12 00:00:00 TTE ECHO: The left atrium is mildly dilated. (LVEF
+>55%) The estimated cardiac index is normal
+(>=2.5L/min/m2).Normal biventricular cavity sizes with preserved
+global and regional biventricular systolic function.Mild
+pulmonary artery systolic hypertension. Mild tricuspid
+regurgitation with normal valve morphology.
+.
+PRE-DISCHARGE LABS:
+2012-10-12 00:00:00 07:15AM BLOOD WBC-10.0 RBC-3.15* Hgb-10.2* Hct-30.7*
+MCV-98 MCH-32.4* MCHC-33.2 RDW-14.3 Plt Ct-637*
+2012-10-12 00:00:00 07:25AM BLOOD Plt Ct-464*
+2012-10-12 00:00:00 07:15AM BLOOD Glucose-97 UreaN-17 Creat-1.1 Na-143
+K-4.4 Cl-105 HCO3-29 AnGap-13
+2012-10-12 00:00:00 02:36AM BLOOD Lipase-91*
+2012-10-12 00:00:00 07:15AM BLOOD Calcium-9.4 Phos-3.9
+2012-10-12 00:00:00 07:20AM BLOOD VitB12-1034* Folate-16.3
+2012-10-12 00:00:00 07:15AM BLOOD ALT-26 AST-25 LD(LDH)-272* CK(CPK)-136
+AlkPhos-69 TotBili-0.3
+
+
+Brief Hospital Course:
+In summary, Mr. Shaulis is a 55-year old male with PMH of
+alcoholism and depression who presented with somnolence,
+bradycardia and hypotension after ETOH intoxication and
+"accidental" ingestion of multiple medications.
+He endured some initial hypoxia secondary to severe sedation and
+in the setting of an aspiration event as noted via imaging
+studies. Additional issues outlined in detail below.
+.
+#Hypoxia/SOB: - The patient presented to the ED emergently on
+2012-10-12 00:00:00 with oversedation, hypoxia and systolic blood pressures
+that dropped to the 70s requiring emergency pressor therapy. He
+was placed on a high flow non-rebreather mask initially and then
+needed to be intubated with immediate admit to MICU for his
+hemodynamic instability and hypoxia. Bilateral pulmonary
+infiltrates were noted on CXR/CT which were felt to be secondary
+to aspiration pneumonitis vs aspiration PNA. Mucous plug was
+also in the possible differential but there were very minimal
+secretions on suctioning attempts. He was given Levofloxacin
+initially and cultures were sent off. ABG just prior to MICU
+admission was pH 7.14, PO2 64, pCO2 59, Bicarb 21. Upon transfer
+to the regular medical floor the patient was doing well with
+oxygen saturations 94-95% on 2L NC and RR ranging in the low
+20s. Blood cultures were negative to date but broncheoalveolar
+lavage showed coagulase positive staphylococcus/MSSA. Ammonia
+level was within normal limits , LFTs were improving and there
+was no real concern for hepatic encephalopathy anymore. On the
+medical floor he was initially continued on IV Unasyn and then
+gradually switched over to PO Augmentin as discharge approached.
+He was continued on 2L NC with oxygen saturation goal >95% which
+he achieved without difficulty and he was gradually weaned to
+room air. His initial dry cough on transfer improved as well.
+Repeat CXRs showed improvement in pulmonary edema but very
+persisent multifocal pneumonia was questioned so he was
+continued on antibiotics. An ECHO showed no evidence of any
+serious valve abnormalities or vegetations and overall EF was
+55%. By time of discharge he was breathing 97% room air and his
+cough had nearly abated.
+.
+
+# Hypertension/Tachycardia/Agitation: After a few days in the
+MICU the patient had bouts of hypertension with SBPs >170s,
+sweats, fevers, and tachycardia to 120-130s range. These changes
+were likely due to ETOH withdrawal in conjunction with
+benzodiazepine withdrawal and possibly related to other toxic
+ingestions. These dynamic changes made weaning the patient from
+the vent especially challenging in the MICU. He became extremely
+agitated when sedating medications were tapered and was unable
+to be extubated successfully for several days. Moreover, he
+appeared to have delirium from multiple medications which were
+still wearing off. He received a very large amount of
+benzodiazepines during the first three days of admission and
+these were ultimately discontinued for concern of toxicity.
+Psychiatry and the toxicology staff were consulted and he was
+switched to standing and PRN Haldol which had a very good
+outcome and helped to ease his agitation and stabilize his
+tachycardia.
+The possibility of Neuroleptic Malignant Syndrome was considered
+as well. Of note, the patient got some Zyprexa for agitation and
+he had already ingested a large amount of Seroquel during his
+overdose; both of these medications can cause NMS. Ck levels
+returned elevated but not quite in the usual range seen in NMS
+so this diagnosis was unlikely. It was felt that Mr. Shaulis'
+delirium was  multifactorial in the setting of recent hypoxia,
+ongoing sedation and polysubstance withdrawal from his
+ETOH/Benzodiazepines. A few doses of morphine worked well for
+his agitation as well. Psychiatry continued to follow the
+patient with the medical service once he transferred to the
+medical floor from the MICU. Ammonia panel and  RPR were
+unremarkable and soon after transfer the to medical floor he was
+managed on lower and lower doses of Ativan and Haldol and he
+gradually improved with HRs returning to 60-80 range and blood
+pressure normalized. LFTs and CK levels also trended downwards.
+
+.
+#Fevers: The patient had high persistent fevers in the 101-102
+range in the MICU after admission. He also had hypotension in
+the ED but this felt to be directly related to his overdose and
+ETOH intoxication versus a sepsis picture. As noted, scattered
+bilateral pulmonary infiltrates were noted on CXR/CT and were
+felt to be the source of his fevers. IV Unasyn was given. Urine
+and Blood cultures all returned negative. Urine legionella was
+negative. BAL showed coagulase positive staphylococcus on
+cultures so antibiotics were continued. Neuroleptic maliganant
+syndrome was suspected as well but CK levels trended downward
+making this unlikely. There was some moderate hematuria on UA
+repeat but this was attributed to witnessed foley manipulation
+during his multiple episodes of agitation as opposed to
+infection. An LP was considered upon transfer to the medical
+floor but fortunately his fevers began to lessen and after 2012-10-12 00:00:00
+days he stopped having high spikes. Ultimately, the fevers may
+have been a combination of his polysubstance withdrawal in
+combination with fevers secondary to aspiration related
+pneumonia. He was afebrile and had no left shifts or
+leukocytosis at time of discharge.
+
+.
+#Altered Mental Status: As aforementioned the patient presented
+with hypotension and bradycardia which was attributed to the
+combination of propranolol, seroquel and possibly
+Prozac/Wellbutrin per the patient's partner. On repeated
+questioning the patient admitted that the overdose was an
+accident and an unintentional act that occured in the setting of
+extreme ETOH intoxication. The patient still appeared very
+agitated, diaphoretic and confused on transfer out of MICU.
+Initial confusion likely secondary to receiving 500mg Diazepam
+over 30hrs for presumed ETOH withdrawal while in MICU. He had
+some intermittent autonomic hyperactivity and HTN with SBPs to
+160-170s and serious inattention on exam. He also had a slight
+tremor in his hands bilaterally which is likely from his
+sedative withdrawal. The patient's partner noted that he
+sometimes noticed he had a mild tremor at his baseline too.
+Psychiatry continued to follow the patient and advised the team
+to continue Haldol and Ativan for his agitation. He was started
+on Haldol 5mg IV PRN dosing every few hours and  Haldol standing
+2.5mg IV q6hrs which was slowly tapered down and he was
+gradually weaned down from Ativan 1mg qid to 1mg t.i.d, b.i.d.,
+and then qdaily dosing.
+He became very belligerent and tried to pull out his IV lines
+initially so soft restraints were needed along with a 1:1 sitter
+on his first night out of the MICU which was only a day after
+being extubated. He recovered quickly and became less confused
+and more attentive over the subsequent hospital stay and by the
+time of his discharge he was still plagued by some mild
+irritability and some amnesia surrounding his overdose and MICU
+stay but he was alert and oriented to person, place and time at
+time of his discharge. Social work and psychiatry services
+offered additional counseling and despite offers to set him up
+with specific resources he reported he was planning to make a
+conscious effort to try to stop drinking after discharge with
+support of AA and professional supports as needed.
+.
+
+#Acute Renal Failure -Per records, the patient's baseline
+creatinine 1-1.3 and he presented in the ED with an initial Cr
+level of 2.2 which was likely in the setting of direct
+nephrotoxic influence of the multiple medications he ingested as
+well as the renal hypoperfusion that occurred in the setting of
+his SBPs dropping to the 70s prompting the need for pressor
+support. He also had a pre-renal component which cna be
+explained by recent ETOH abuse and tendency for dehydration. Mr.
+Shaulis was given IVF resuscitation and throughout his
+hospital stay his renal function recovered. By the time of
+discharge creatinine was down to 1.1 range and BUN 17.
+.
+#Hypertension: As outlined above, the patient's blood pressure
+was poorly controlled in the MICU with intermittent autonomic
+surges of tachycardia and SBP increases to  the 160s-170s. He
+was restarted on his daily Propranolol and his blood pressures
+returned to 130-140s prior to discharge.
+.
+#Pancreatitis: While in the MICU, the patient had an acute rise
+in his Lipase levels which eventually peaked at  and then
+continued to trend downward. The increase was possibly due to
+ETOH or Propofol with increased triglycerides. Abdomen somewhat
+firm but not tense.  He tolerating tube feeds very well and then
+continued on a regular diet on the regular medical floor once he
+transferred out of the MICU. On exam he denied any abdominal
+pain, no guarding and no rebound noted.
+.
+
+#ETOH Abuse ?????? The patient's partner endorses that patient has
+been sober for years, and only recently ??????fell off the wagon??????
+over the last few months.  The extent of his withdrawal,
+however, suggests that his use of alcohol is potentially much
+more extensive.  He was continued on daily Thiamine, Folate and
+he was seen by psychiatry as well as the addictions consult
+social worker. Darthie Shaulis teams counseled him on ETOH's harmful
+effects and several means of support were explored with the
+patient
+Ranitidine was continued for GI protection.
+.
+#Loose stools -These loose bowel movements were initially noted
+on 2012-10-12 00:00:00. Follow-up stool and C.difficile labs were all
+unremarkable. By time of discharge his diarrhea had stopped and
+he denied any abdominal pain, cramps, or changes in the color of
+his stool. No bloody stools.
+.
+#Anemia - The patient's baseline HCT is ~40 according to recent
+records, and he was also noted to be borderline macrocytic
+therefore anemia likely secondary to  nutritional deficiency in
+the setting of ETOH abuse. No evidence of any GI bleeding.
+An order to gaiac stools was placed and daily Hcts were trended.
+B12 and folate levels were normal. The patient will plan to
+follow up with his primary care physician Antria Consoer ~ 1 week
+timeframe to address his anemia in more detail.
+.
+#Fluids, electrolytes and nutrition: Tolerating PO medications
+well, re123 Any St.g electrolytes as needed, thiamine given daily.
+.
+# Access ??????The patient had a right PICC that was placed 2012-10-12 00:00:00
+for access for TPN and multiple medications as well. This was
+eventually pulled and a regular IV was placed.
+.
+#Prophylaxis: The patient was placed on a bowel regimen,
+subcutaneous heparin shots were given daily for DVT prophylaxis
+and Ranitidine was continued for GI protection.
+
+The patient was treated as a full code for the entirety of his
+hospital course and communication occurred with the patient
+daily and with his mother and partner of nearly 30 years. The
+psychiatry service felt that Mr. Shaulis was safe to leave
+the hospital but he was advised to follow-up with his primary
+care physician, 123 Any St.us counselor upon
+leaving the hospital.
+.
+
+
+Medications on Admission:
+Wellbutrin 150mg daily (decreased from twice daily)
+Seroquel 150mg daily
+klonopin 1mg UPMCE (recently decreased)
+propranolol 40mg UPMCE  55/60 (started 2012-10-12 00:00:00)
+Prozac 20mg QID (recent increase in dose from TID -QID over last
+week)
+Lotral 5/20mg one daily
+Diclofenac sodium 100mg daily
+fenofibrate 134mg daily
+allopurinol 300mg daily
+tramadol 50mg UPMCE
+neurontin 300mg 1-2 tabs prn
+melatonin 5mg qhs
+advil prn for migraine
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Alcoholism
+Overdose
+Depression
+.
+Secondary:
+Hypertension
+
+
+Discharge Condition:
+At time of discharge the patient had more stable vital signs and
+he appeared less anxious and confused.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you here at UPMCE during your hospitalization.
+
+You were admitted to the hospital after consuming a large amount
+of alcohol mixed with multiple medications. This impaired your
+breathing and your mental status. You had to stay in the medical
+intensive care unit for a week and then you were transferred to
+the general medical floor. During your hospital stay you became
+very confused and needed additional medications and a breathing
+machine called a ventilator to help you breath for about a week.
+
+.
+You were also treated with antibiotics for a suspected lung
+infection.
+.
+While you were in the hospital you were seen by a psychiatrist
+and a social worker in order to help with the management of your
+depression and your additional alcohol consumption.
+.
+The psychiatry service felt that you were safe to leave the
+hospital but you are advised to please follow-up with your
+primary care physician, 123 Any St.us
+counselor upon leaving the hospital.
+.
+If you have any thoughts of wanting to harm yourself or others
+please go to the emergency room, call 911 immediately, or
+contact your primary care physician. Darthie Shaulis return to the
+emergency room if you have worsening fevers, chills, cough,
+productive sputum, bloody vomit, shortness of breath, chest
+pains or any other concerns.
+
+Please avoid using a class of medications called benzodiazepines
+and please avoid alcohol consumption as it may be dangerous to
+your health. As discussed, please consider helpful groups such
+as Alcoholics Anonymous which can be a very supportive social
+network as you try to avoid alcohol use.
+
+
+Followup Instructions:
+Please follow-up with your primary care physician, Shaulis. Shaulis
+on Friday, 2012-10-12 00:00:00 at 8:50am at UPMCE at
+
+phone # test@mail.com, and location: 123 Any St., 123 Any St.,
+[**Numeric Identifier 6343**]
+.
+Please call to make an appointment as soon as possible with your
+psychiatrist, Dr. Darthie, at UPMCE .
+(phone # test@mail.com). Shaulis, [**Location (un) 86**], [**Numeric Identifier 6346**]
+.
+you also have an appointment with Rheumatology:
+Provider: Darthie Antria Consoer Shaulis , MD Phone:test@mail.com
+Date/Time:2012-10-12 00:00:00 4:00
+
+
+
+Completed by:2012-10-12 00:00:00

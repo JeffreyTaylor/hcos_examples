@@ -1,0 +1,409 @@
+Admission Date:  2008-08-10 00:00:00              Discharge Date:   2008-08-10 00:00:00
+
+Date of Birth: 1946-08-10 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Aisia Colatruglio
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+2008-08-10 00:00:00: Cardiac catheterization, no intervention
+
+History of Present Illness:
+72 yo F with PMHx of 2vessel CAD s/p RCA atherectomy in '2008-08-10 00:00:00,
+HTN, morbid obesity, Hyperlipidemia who presents with dyspnea x
+3days , worse past day with a dry cough. Symptoms started
+abruptly on Sunday night with SOB while walking to bathroom. SOB
+remaind persistent over the following days, with worsening DOE.
+She initially presented to Daleshia Aly hospital and was found to
+be hypotensive and was transferred to UPMCE ED with suggested
+diagnosis of PNA, incidentally found to have elevated troponin
+of 1.73.  She was started on heparain at OSH. Received azithro
+and Ceftriaxone at OSH. Was on neo at 100 mcg. Got RIJ in our
+ED. Crackles at bases, Febrile to 100.1. Gave levofloxacin. Put
+on levophed in ED. O2 sat high 90's on 4L. CXR here appears to
+have bilateral infiltrates. ECG here afib rate 123 Any St.
+elevations V4-V6. Patient denies chest pain.
+.
+On review of systems (limited as pt poor insight), she denies
+any prior history of stroke, TIA, deep venous thrombosis,
+pulmonary embolism, bleeding at the time of surgery, myalgias,
+joint pains, cough, hemoptysis, black stools or red stools. She
+denies recent fevers, chills or rigors.
+.
+Cardiac review of systems is notable for absence of chest pain,
+but worsening dyspnea on exertion, she endorses unchanged
+paroxysmal nocturnal dyspnea and nocturia, orthopnea which is
+unchanged, no ankle edema, no palpitations, no syncope or
+presyncope.
+.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS:  Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+-PERCUTANEOUS CORONARY INTERVENTIONS:  93, RCA atherectomy
+3. OTHER PAST MEDICAL HISTORY:
+Hypertension
+Obesity
+Paroxismal Afib
+Asthma
+
+Social History:
+Pt lives alone in an atp in 123 Any St.. She is very sedentary and
+is able to function on a routine. She has 2 daughters who live
+nearby and help her extensively. Will likely need placement at
+UPMCE or other facility after discharge.
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+PE on Admission:
+VS: T= 99.0 BP= 111/90 HR= 85 RR= 25 O2 sat=97% 6L
+GENERAL: in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple , obese
+CARDIAC: limited due to obesity, RR, normal S1, S2. No m/r/g.]
+LUNGS: Resp were mildly labored, some accessory muscle use.
+CTAB, no crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+.
+PE on Discharge:
+O: VS - T 97.9 P 91(91-104) BP 126/66(93-142/58-66) RR 24 O2 97%
+on 1.5L
+I/O - 1204/1250 (-46) over 24 hrs, test@mail.com since midnight
+General - NAD, AAOx3
+HEENT - MMM, JVD present
+CVS - nl S1, S2. RRR. distant heart sounds.
+Pulm - CTA-B
+Abdomen - soft, NT, ND, obese. nl BS
+Extremities - 4+ non-pitting edema
+
+
+Pertinent Results:
+Labs on admission:
+2008-08-10 00:00:00 02:43AM   LACTATE-1.6
+2008-08-10 00:00:00 04:00AM   WBC-17.0* RBC-3.97* HGB-11.8* HCT-37.3 MCV-94
+MCH-29.9 MCHC-31.8 RDW-13.5 PLT COUNT-264
+2008-08-10 00:00:00 04:00AM   CK-MB-7
+2008-08-10 00:00:00 04:00AM   cTropnT-1.73*
+2008-08-10 00:00:00 04:00AM   CK(CPK)-113
+2008-08-10 00:00:00 04:00AM   GLUCOSE-150* UREA N-26* CREAT-0.8 SODIUM-145
+POTASSIUM-3.5 CHLORIDE-107 TOTAL CO2-30 ANION GAP-12
+2008-08-10 00:00:00 11:31AM   PTT-32.6
+2008-08-10 00:00:00 11:36AM   CK-MB-11* MB INDX-3.1 cTropnT-1.67*
+2008-08-10 00:00:00 11:36AM   CK(CPK)-356*
+2008-08-10 00:00:00 04:50PM   TSH-2.9
+2008-08-10 00:00:00 04:50PM   CK-MB-9 cTropnT-1.73*
+2008-08-10 00:00:00 04:50PM   CK(CPK)-312*
+2008-08-10 00:00:00 10:09PM   CK-MB-7 cTropnT-1.75*
+2008-08-10 00:00:00 10:09PM   CK(CPK)-240*
+.
+Labs on Discharge:
+INR 1.9,               WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+2008-08-10 00:00:00 08:40AM    9.3 3.83* 11.4* 36.4 95 29.7 31.2 13.9
+273
+
+                  Glucose UreaN Creat Na K Cl HCO3 AnGap
+2008-08-10 00:00:00 08:40AM    175* 14 0.7 141 3.3 100 34* 10
+.
+BCx and UCx 2008-08-10 00:00:00 NGTD
+U/A 2008-08-10 00:00:00:
+Type Color Appear Sp Aly
+Yellow Clear 1.016
+Blood Nitrite Protein Glucose Ketone Bilirub Urobiln pH Leuks
+LG    NEG      30     NEG     NEG    NEG     1       7.0 MOD
+RBC  WBC   Bacteri Yeast Epi TransE RenalEp
+2008-08-10 00:00:00* 2008-08-10 00:00:00* OCC    NONE  0-2
+.
+2D ECHO 2008-08-10 00:00:00
+The left atrium is mildly dilated. The estimated right atrial
+pressure is 0-10mmHg. There is mild symmetric left ventricular
+hypertrophy with normal cavity size. There is severe regional
+left ventricular systolic dysfunction with near akinesis of the
+distal 2/3rds of the ventricle. The remaining basal segments
+contract normally (LVEF = 20-25 %). No masses or thrombi are
+seen in the left ventricle. Right ventricular chamber size is
+normal with focal hypokinesis of the apical free wall. The
+aortic root and ascending aorta are mildly dilated. The aortic
+valve leaflets (?#) appear structurally normal with good leaflet
+excursion.There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. Mild to moderate (2008-08-10 00:00:00+) mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+The estimated pulmonary artery systolic pressure is normal.
+There is an anterior space which most likely represents a fat
+pad.
+IMPRESSION: Symmetric left ventricular hypertrophy with normal
+biventricular cavity size and extensive systolic dysfunction c/w
+diffuse process (multivessel CAD, toxin, metabolic, etc.) At
+least mild moderate mitral regurgitation. Dilated ascending
+aorta.
+.
+CHEST XRAY 2008-08-10 00:00:00
+IMPRESSION:
+1. Satisfactory right IJ line position.
+2. Edeme-like pattern suggestive of volume overload/heart
+failure. Repeat
+radiography after diuresis recommended to assess for underlying
+infection.
+3. If necessary repeat PA/lateral could help better evaluate the
+right lung base given the concern for pneumonia.
+.
+CARDIAC CATH 2008-08-10 00:00:00
+COMMENTS:
+1. Coronary angiography in this right dominant system revealed
+diffuse calcific coronary artery disease. The LMCA was not
+well-visualized.
+The LAD was highly calcified, and had a 90% ostial lesion with
+diffuse
+disease throughout the mid-portion of 90%. The LCX was tortuous
+and was
+without any angiographically apparent disease. The RCA was
+calcified
+and had a 60% stenosis in the mid-portion.
+2. Resting hemodynamics revealed elevated left and right sided
+filling
+pressures with mean RA pressure of 21 mmHg and mean PCW pressure
+of 33
+mmHg.  The patient also had elevated pulmonary artery pressures
+with
+mean PA pressure of 42 mmHg and peak PA pressure of 71 mmHg.
+Both mean
+and peak PA pressures decreased during the case following
+administration
+of IV furosemide. The cardiac output, calculated from the Fick
+equation,
+was normal at 5.5 L/min.
+FINAL DIAGNOSIS:
+1. Single vessel severe coronary artery disease not well suited
+for PCI.
+2. Elevated left and right sided filling pressures.
+
+
+Brief Hospital Course:
+72 yo F hx CAD s/p atherectomy in '2008-08-10 00:00:00, HTN, HLD, paroxysmal
+atrial fibrilliation (not anticoagulated), and morbid obesity
+who presented subacutely with anterior STEMI and systolic
+congestive heart failure.
+.
+# CORONARIES: Coronary cath on 2008-08-10 00:00:00 showed 90% mid-LAD disease
+and 60% stenosis of mid-RCA but tortuous, calcific vessels that
+were not amenable to intervention. Patient's anterior STEMI was
+medically managed with aspirin 81 mg, Plavix 75 mg, Atorvastatin
+80 mg, and metoprolol. She was started on 81 mg dose of aspirin
+to minimize risk of hemorrhage secondary to triple anticoagulant
+therapy. The patient's beta blocker was slowly titrated due to
+episodes of hypotension, and she was discharged on metoprolol
+succinate XL 50mg once daily with good blood pressure control.
+TIMI risk score for STEMI was calculated to be 10, 123 Any St.ting
+36% mortality at 30 days. The patient was discharged with
+cardiology follow up as an outpatient for further management and
+evaluation for an ICD.
+.
+# SYSTOLIC HEART FAILURE: Initial presentation of patient was
+concerning for cardiogenic shock, and the patient was briefly
+treated with pressors to achieve a mean MAP of > 60%. A TEE on
+2008-08-10 00:00:00 showed systolic heart failure w/ LVEF of 20-25%, dilated LA,
+mild LVH, severe LV systolic dysfunction with near akinesis of
+distal 2008-08-10 00:00:00 ventricle, no masses or thrombi, RV with focal
+hypokinesis of apical free wall, and 2008-08-10 00:00:00+ MR. Clinically,
+patient appeared to be volume overloaded with pulmonary edema
+causing dyspnea and hypoxia. Diuresis was achieved with Lasix
+20mg IV prn; total of >6L net fluid was removed throughout
+hospital stay. Patient was discharged on lasix 20mg PO daily for
+symptomatic relief of CHF. In addition, she was started on an
+ACE inhibitor, and titrated up as blood pressure would allow; at
+discharge, she was able to tolerate lisinopril 5 mg daily.
+Spironolactone was not initiated due to low BP. Given the degree
+of myocardial hypokinesis seen on echo, the patient was
+anticoagulated to minimize risk of thrombus formation.  She was
+initially started on Heparin ggt with bridge to coumadin.  On
+the day of discharge, she was switched from heparin to
+Fondaparinox, with a plan for daily Fondaparinox until INR > 2.
+.
+# ID: In the ED, the patient had a leukocytosis and low grade
+fever and initially treated with levofloxacin for questionable
+infiltrate versus pulmonary edema on CXR. However, given
+evidence of STEMI and CHF with TTE showing severely decreased
+EF, the patient's hypotension was felt to be more consistent
+with cardiogenic shock rather than sepsis. The patient was
+afebrile for remainder of hospitalization and white count
+normalized. Blood cultures x2 were obtained which did not show
+any growth at time of discharge. Urine culture was positive for
+mixed flora, c/w contaminated specimen, and patient was treated
+for UTI with a 2-day course of ciprofloxacin (completed 2008-08-10 00:00:00).
+.
+# HYPOXIA: Hypoxia was likely secondary to volume overload from
+systolic heart failure. The patient required noninvasive oxygen
+supplementation, and was gently weaned off O2 was she was
+diuesed; O2 saturation was 94% on RA prior to discharge. She was
+able to ambulate without becoming hypoxic or significantly
+dyspneic, although she was noted to desat to the 80s while
+sleeping at night. Due to nocturnal hypoxia and morbid obesity,
+patient is strongly recommended to obtain a sleep study as
+outpatient to evaluate for obstructive sleep apnea.
+.
+# RHYTHM: Patient was in atrial fibrillation on initial
+presentation put converted to and maintained in sinus rhythm.
+Patient was kept on telemetry. Rate control was achieved with
+metoprolol which was titrated up as discussed above. As
+discussed above, the patient was anticoagulated primarily for
+prevention of apical thrombus and was bridged to coumadin
+therapy with heparin ggt followed by Fondoparinox. At discharge,
+she had INR of 1.9 and planned to continue daily Fondaparinox
+until INR therapeutic at > 2.  She should have frequent INR
+checks for Coumadin dosing monitoring.
+.
+# Hyperglycemia: The patient experienced mild hyperglycemia
+while admitted, thought to be secondary to the stress of STEMI
+and acute CHF, with a likely component of insulin-resistance.
+Her glucose was well-controlled on an insulin sliding scale.
+Hemoglobin A1C was 6.3.  Glucose control should be reassessed on
+an outpatient basis.
+.
+# ASTHMA: Patient initially had wheezing secondary to CHF as
+well as asthma that was improved significantly with ipratropium
+nebulizaer q6h and PRN albuterol nebs.
+.
+# S/p recent cataract surgery: Home prescriptions of
+prednisolone and Acular eye drops were continued.
+.
+# FEN: Patient was kept on cardiac diet.
+
+# PROPHYLAXIS: DVT ppx with heparin gtt. Bowel regimen with
+senna, colace, miralax.
+.
+ACCESS: PIV's x 2
+.
+CODE: Full Code
+
+
+Medications on Admission:
+Pravastatin 80
+Atenolol 25
+Diltiazem 360 ER
+Plavix 75 mg daily
+Claritin 10
+ASA 325
+Zymar eye drops 0.3%
+Acular 0.5%
+Pred Forte 1%
+Aricept 10 mg daily
+
+Discharge Medications:
+1. Aricept 10 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop
+Ophthalmic QID (4 times a day).
+5. Ketorolac 0.5 % Drops Sig: One (1) gtt OD Ophthalmic QID (4
+times a day).
+6. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) vial Inhalation Q6H (every 6 hours) as
+needed for wheezing, shortness of breath.
+7. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)
+packet PO DAILY (Daily).
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for constipation.
+10. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+11. Ipratropium Bromide 0.02 % Solution Sig: One (1) vial
+Inhalation Q6H (every 6 hours).
+12. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+14. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily):
+Hold SBP < 80, HR < 60.
+15. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+16. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Hold SBP < 80.
+17. Outpatient Lab Work
+Please check INR on 2008-08-10 00:00:00. D/c fondaparinox if INR is >=2.0.
+
+18. Fondaparinux 10 mg/0.8 mL Syringe Sig: One (1) syringe
+Subcutaneous DAILY (Daily): D/C when INR >=2.0.
+19. Insulin Lispro 100 unit/mL Solution Sig: per sliding scale
+units Subcutaneous ASDIR (AS DIRECTED).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE Rehab
+
+Discharge Diagnosis:
+Acute Myocardial Infarction
+Acute Systolic congestive Heart Failure
+Hypertension
+Hyperlipidemia
+
+
+Discharge Condition:
+Stable. Vital signs stable.
+
+
+Discharge Instructions:
+You had a heart attack and your heart is weaker than it was. You
+were treated for acute congestive heart failure and will need to
+take new medicines to help your heart pump better. We believe
+that your heart function will improve as it recovers from the
+heart attack. WE were unable to open the blockage in your artery
+that led to the heart attack. You also had atrial fibrillation,
+a common irregular heart rhythm. This rhythm increases your risk
+of stroke so you were started on Warfarin (coumadin) to prevent
+blood clots and stroke. You will need to be aware of medicines
+that interact with Warfarin and that it might cause your to have
+minor or more serious bleeding. Please refer to the information
+packet we gave you regarding warfarin use. You will take
+fondaparinox until your INR is >=2.0.
+Weigh yourself every morning, Daleshia Aly MD if weight increases by > 3
+lbs in 1 day or 6 pounds in 3 days.
+Adhere to 2 gm sodium diet
+Fluid Restriction:1500cc
+.
+Medication changes:
+1. Pravastatin was changed to Atorvastatin, a stonger
+cholesterol medicine
+2. Your Atenolol was changed to Metoprolol XL
+3. Your Cartia XT and HCTZ was discontinued
+4. START Lisinopril: a medicine to help your heart pump better
+5. START colace, Senna and Miralax to prevent constipation
+6. START Warfarin to prevent blood clots and stroke.
+7. START Furosemide to prevent swelling and fluid in your lungs.
+8. START Ipatroprium and Albuterol nebs for wheezing
+9. START Insulin sliding scale to treat high blood sugars.
+10. START Fondaparinox unitl INR >=2.0
+
+
+Followup Instructions:
+Primary Care:
+Dr. Aly,[**First Name3 (LF) 5609**] P Phone: test@mail.com Date/Time:Please make an
+appt to see after you get out or rehabilitation.
+.
+Cardiology:
+Aisia Colatruglio, M.D.Phone: (test@mail.com Address: 123 Any St., [**Location (un) 1450**], [**Numeric Identifier 5614**]
+Date/time: 2008-08-10 00:00:00 at 11:15am.
+
+
+

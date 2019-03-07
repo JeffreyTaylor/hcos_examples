@@ -1,0 +1,242 @@
+Admission Date:  2006-11-27 00:00:00              Discharge Date:   2006-11-27 00:00:00
+
+Date of Birth: 1963-11-23 00:00:00 00:00:00             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:Kosisochukwu Kalogeropoulos
+Chief Complaint:
+Syncope
+
+Major Surgical or Invasive Procedure:
+2006-11-27 00:00:00 Aortic Valve Replacement utilizing a 27mm CE Perimount
+Pericardial Tissue Valve
+
+
+History of Present Illness:
+This is a 48 year old male who was admitted to outside hospital
+after syncopal episode. Noted to be in rapid atrial fibrillation
+at that time and converted back to a normal sinus rhythm with
+Lopressor and intravenous Cardizem. Echocardiogram revealed
+bicuspid aortic valve with severe critical aortic stenosis. The
+aortic valve area was estimated at 0.6cm2. His left ventricular
+ejection fraction was 55-60%. Cardiac catheterization on 2006-11-27 00:00:00 confirmed severe aortic stenosis. Coronary angiography
+revealed clean coronary arteries. Based on the above results, he
+was transferred to the UPMCE for cardiac surgical intervention.
+
+Past Medical History:
+Aortic Stenosis, Childhood Heart Murmur, History of Atrial
+Fibrillation, History of Migraine Headaches, Horseshoe Kidney
+
+Social History:
+Denies tobacco and excessive ETOH. Married with children. Works
+in construction. Currently lives with his wife.
+
+Family History:
+Uncle died suddenly at young age(before 55).
+
+Physical Exam:
+Vitals: BP 110/84, HR 71, RR 16, SAT  96% on room air
+General: well developed male in no acute distress
+HEENT: oropharynx benign, left temporal ecchymosis, stitches
+noted below lower lip
+Neck: supple, no JVD,
+Heart: regular rate, normal s1s2, 4/6 systolic ejectiom murmur
+which radiated to carotid region
+Lungs: clear bilaterally
+Abdomen: soft, nontender, normoactive bowel sounds
+Ext: warm, no edema, varicosities noted on left leg
+Pulses: 2+ distally
+Neuro: alert and oriented, nonfocal
+
+
+Pertinent Results:
+2006-11-27 00:00:00 04:40PM   GLUCOSE-94 UREA N-15 CREAT-1.0 SODIUM-142
+POTASSIUM-4.3 CHLORIDE-105 TOTAL CO2-26 ANION GAP-15
+2006-11-27 00:00:00 04:40PM   ALT(SGPT)-57* AST(SGOT)-28 ALK PHOS-64
+AMYLASE-51 TOT BILI-0.6
+2006-11-27 00:00:00 04:40PM   LIPASE-23
+2006-11-27 00:00:00 04:40PM   ALBUMIN-4.8
+2006-11-27 00:00:00 04:40PM   %HbA1c-5.4 [Hgb]-DONE [A1c]-DONE
+2006-11-27 00:00:00 04:40PM   WBC-7.0 RBC-5.02 HGB-14.8 HCT-43.5 MCV-87
+MCH-29.5 MCHC-34.0 RDW-13.1
+2006-11-27 00:00:00 04:40PM   PLT COUNT-224
+2006-11-27 00:00:00 04:40PM   PT-12.4 PTT-22.3 INR(PT)-1.1
+2006-11-27 00:00:00 02:31PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0
+LEUK-NEG
+2006-11-27 00:00:00 02:31PM URINE  COLOR-Yellow APPEAR-Clear SP Roane-1.011
+2006-11-27 00:00:00 06:00AM BLOOD WBC-5.1 RBC-3.14* Hgb-9.5* Hct-26.6*
+MCV-85 MCH-30.2 MCHC-35.6* RDW-13.2 Plt Ct-181
+2006-11-27 00:00:00 06:00AM BLOOD Plt Ct-181
+2006-11-27 00:00:00 06:00AM BLOOD Glucose-112* UreaN-13 Creat-0.8 Na-142
+K-4.0 Cl-104 HCO3-31 AnGap-11
+
+CHEST (PA & LAT)  2006-11-27 00:00:00 11:07 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate pneumothorax and atx
+
+UNDERLYING MEDICAL CONDITION:
+48 year old man s/p AVR
+REASON FOR THIS EXAMINATION:
+evaluate pneumothorax and atx
+INDICATION: 48-year-old man status post aortic valve
+replacement.
+
+PA and lateral chest x-ray dated 2006-11-27 00:00:00 is compared to the
+prior from yesterday. The patient is status post median
+sternotomy. The aortic valve has been replaced. There is stable
+elevation of the left hemidiaphragm with left lower lobe
+atelectasis and pleural effusion. There is no evidence for
+congestive heart failure or pneumothorax.
+
+IMPRESSION: Stable elevation of left hemidiaphragm with a small
+left pleural effusion. No pneumothorax.
+
+The study and the report were reviewed by the staff radiologist.
+DR. Kosisochukwu Kalogeropoulos. Roane
+DR. [**First Name8 (NamePattern2) 4015**] Roane
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify
+I was present in compliance with HCFA regulations. No TEE
+related
+complications. The patient was under general anesthesia
+throughout the
+procedure. The patient appears to be in sinus rhythm. Results
+were personally
+post-bypass
+data
+
+Conclusions:
+PRE-BYPASS:
+1. Overall left ventricular systolic function is normal
+(LVEF>55%). Regional
+left ventricular wall motion is normal. There is mild symmetric
+left
+ventricular hypertrophy. The left ventricular cavity size is
+normal.
+2. There is moderate aortic valve stenosis. The aortic valve is
+bicuspid. The
+aortic valve leaflets are severely thickened/deformed. No aortic
+regurgitation
+is seen.
+3. The left atrium is moderately dilated. No atrial septal
+defect is seen by
+2D or color Doppler.
+4. Right ventricular chamber size and free wall motion are
+normal.
+5. The mitral valve leaflets are structurally normal. Trivial
+mitral
+regurgitation is seen.
+6. There is a trivial/physiologic pericardial effusion.
+
+POST-BYPASS:
+1. A well-seated bioprosthetic valve is seen in the aorticl
+position with
+normal leaflet motion and gradients (mean gradient = 13 mmHg).
+No perivalvular
+leak is seen. Trace aortic regurgitation is seen.
+2. Regional and global biventricular systolic function are
+normal.
+3. No aortic dissection is seen post decannulation.
+4. Rest of study is unchanged from pre-bypass study.
+123 Any St. PHYSICIAN:
+
+
+Brief Hospital Course:
+Mr. Roane was admitted and underwent routine preoperative
+evaluation. An echocardiogram confirmed a bicuspid aortic valve
+with severe aortic stenosis. A carotid ultrasound showed normal
+internal carotid arteries. He was cleared by the dental service
+after bedside and radiographic examinations. He otherwise
+remained stable on medical therapy and was cleared for surgery.
+No further episodes of atrial fibrillation were noted on
+telemetry after cardioversion. On 2006-11-27 00:00:00, Dr. Roane
+performed an aortic valve replacement. Surgery was uncomplicated
+and he was brought to the CSRU for invasive monitoring. For
+further surgical details, please see seperate dictated operative
+note. Within 24 hours, he awoke neurologically intact and was
+extubated without incident. Low dose beta blockade was resumed
+and Amiodarone was initiated for ventricular ectopy. He
+otherwise maintained stable hemodynamics and transferred to the
+SDU on postoperative day one. He was gently diuresed and
+physical therapy initiated.  He continued to progress without
+complications and was discharged home on post operative day 5 in
+good condition with VNA services.
+
+Medications on Admission:
+Aspirin 325 qd, Protonix 40 qd, Zocor 20 qd, Toprol XL 50 qd,
+Ativan prn
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+6. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+8. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO once
+a day.
+Disp:*30 Packet(s)* Refills:*2*
+9. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 1 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+UPMCE Hospice and VNA
+
+Discharge Diagnosis:
+Aortic Stenosis - s/p AVR, History of Atrial Fibrillation,
+History of Migraine Headaches, Horseshoe Kidney
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Patient may shower, no baths. No creams, lotions or ointments to
+incisions. No driving for at least one month. No lifting more
+than 10 lbs for at least 10 weeks from the date of surgery.
+Monitor wounds for signs of infection. Please call with any
+concerns or questions.
+
+Followup Instructions:
+Dr. Roane in 2006-11-27 00:00:00 weeks - call for appt
+Dr. Roane in 2006-11-27 00:00:00 weeks - call for appt
+Dr. Baelin in 2006-11-27 00:00:00 weeks - call for appt
+
+
+
+Completed by:2006-11-27 00:00:00

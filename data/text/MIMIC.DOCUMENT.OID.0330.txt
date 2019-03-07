@@ -1,0 +1,586 @@
+Admission Date:  2010-07-28 00:00:00              Discharge Date:   2010-07-28 00:00:00
+
+Date of Birth: 1962-07-28 00:00:00 00:00:00             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Latex / Zanaflex
+
+Attending:Debb Palodichuk
+Chief Complaint:
+AMS
+
+Major Surgical or Invasive Procedure:
+1. Intubation 2010-07-28 00:00:00 by ICU team
+2. LP 2010-07-28 00:00:00 by ICU team
+3. Tracheostomy 2010-07-28 00:00:00 by Interventional Pulmonology (Dr. Debb Palodichuk
+Mcclaren)
+4. PEG placement 2010-07-28 00:00:00 by Gastroenterolgy (Dr. Debb Palodichuk)
+
+History of Present Illness:
+This is a 53 yo WF with a PMHx of advanced 2010-07-28 00:00:00 progressive MS,
+chronic indwelling foley, h/o pe on coumadin who p/f personal
+care home with AMS
+.
+The patient's last admission was 2010-07-28 00:00:00 who was admitted for
+AMS and acute on chronic lethargy.  They dx her with toxic
+metabolic encephalopathy 2010-07-28 00:00:00 to UTI and mrsa follicullitis (she
+had a dermatomal rash).  She was treated with vancomycin, she
+improved was transitioned to orals bactrim and doxycycline and
+was d/c.
+.
+The following history was obtained from an LPN named Donne Mcclaren
+Donne Mcclaren at test@mail.com.  She states that since the patient
+prior admission she never returned to her baseline.  The patient
+seems to have a waxing and wanning mental status.  She denies
+seeing the patient have twitching movements or signs of
+infection such as recent diarrhea, fever or cough.  Temps at UPMCE
+ranged from 99.2-99.4.  The patient recently history is notable
+for non-compliance both when she is oriented and when she is
+not.  She refuses UA evalaution and also refuses suprapubic
+care.  It is not clear when the last time her supr-pubic cath
+was changed.  Starting the day of admission, the patient was
+incoherent, was unable to swallow her pills and was salivating.
+she was deemed usafe to be at her home and was sent to the ED
+and UPMCE.
+.
+The patient arrived to the ED and was intially minimally
+responsive.  Per the ED reports she improved while there from a
+MS perspective.  They did an I and D of the area around her SP
+cath and it was sent for culture which showed GPC in  pairs and
+GPR.  BC and Urine cultures were sent.  The patient HCT showed
+nothing acute and her CXR was wnl.  The patient was given
+levofloxacin and sent to the floor.
+
+Past Medical History:
+1) Multiple sclerosis (advanced secondary progressive)
+  -followed by Dr. Debb Palodichuk in neurology clinic
+  -diagnosed at age 23
+  -largely wheelchair bound, needs assistance with transfer
+  -chronic suprapubic catheter changed once monthly
+2) History of pulmonary embolism, on coumadin
+3) depression
+4) hyponatremia
+5) h/o mrsa
+6) h/o c. diff colitis
+7) h/o intermitent UTI's in the past
+
+
+Social History:
+Non-smoker, non-drinker. Lives at [**First Name8 (NamePattern2) 3027**] Donne Mcclaren for
+Living in 123 Any St..  Divorced.
+
+
+Family History:
+NC
+
+Physical Exam:
+Admission Physical Exam:
+VS BP 140/94 P-64 R-18 SaO2-97 RA
+General: Patient is able to answer yes and no questions but in
+mostly non verbal except 2010-07-28 00:00:00 word statements
+HEENT: CN 2-12 grossly intact, mmm, pupils equal and minimally
+responsive to light
+Endo: no obvious thyroid nodules
+CV: RRR no rmg
+Lungs: CTAB no WRR
+Abdomen: non TTP, active BS, SP cath in place with minimal
+erythema and milkly residue on inside of tube
+Extremities/Neuro:
+UE
+-some rigidity in bue, 1+ reflexes, 4/5 strength, sensation
+difficult to access due to limited patient response, Mcclaren
+negative, pulses 2+ and equal
+LE:
+-4/5 strength in ble, sensation again difficult to access,
+babinski down going, no clonus and some rigidity
+-pulses 2+ and equal
+Psyc: patient to to have a depressed mood and has a flat affect
+.
+Dicharge Physical Exam:
+Vitals T 99.9 BP 154/79 HR 124 O2 92% on trach mask
+General: Lying in bed in no acute distress
+HEENT: Trach collar/mask in place.
+CV: RRR. No M/R/G
+LUNGS: Coarse breath sounds bilaterally anteriorly.
+ABD: PEG  in place, with overlying bandage +min sanguious
+drainage (decreased  from yesterday). BS+. Soft. NT/ND
+EXT: 1+ pitting edema of LE bilaterally, 2+ pitting edema of UE
+b/l
+SKIN: Improved macular rash over the LE
+NEURO: Opens and blinks eyes, sporadically
+
+
+Pertinent Results:
+Admission labs:
+2010-07-28 00:00:00 01:30PM URINE  COLOR-Yellow APPEAR-Hazy SP Mcclaren-1.012
+2010-07-28 00:00:00 01:30PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-30
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 LEUK-LG
+2010-07-28 00:00:00 01:30PM URINE  RBC-9* WBC-130* BACTERIA-MANY YEAST-NONE
+EPI-0 TRANS EPI-1
+2010-07-28 00:00:00 01:30PM URINE  MUCOUS-OCC
+2010-07-28 00:00:00 12:16PM   COMMENTS-GREEN TOP
+2010-07-28 00:00:00 12:16PM   LACTATE-0.9
+2010-07-28 00:00:00 12:08PM   GLUCOSE-137* UREA N-12 CREAT-0.4 SODIUM-122*
+POTASSIUM-4.4 CHLORIDE-88* TOTAL CO2-27 ANION GAP-11
+2010-07-28 00:00:00 12:08PM   estGFR-Using this
+2010-07-28 00:00:00 12:08PM   WBC-3.3*# RBC-3.07* HGB-9.6* HCT-27.8* MCV-91
+MCH-31.2 MCHC-34.4 RDW-18.3*
+2010-07-28 00:00:00 12:08PM   NEUTS-74.0* LYMPHS-21.5 MONOS-3.6 EOS-0.5
+BASOS-0.3
+2010-07-28 00:00:00 12:08PM   PLT COUNT-126*
+2010-07-28 00:00:00 12:08PM   PT-24.4* PTT-34.0 INR(PT)-2.3*
+
+Relevant labs:
+2010-07-28 00:00:00 Skin biopsy:
+Focal spongiosis, focal follicular neutrophilic parakeratosis,
+sparse superficial perivascular dermatitis with rare
+eosinophils, and mild papillary dermal edema.  The changes are
+mild and non-specific.  The finding of neutrophilic
+parakeratosis at a follicular ostium (slide L1-2) is suggestive
+of seborrheic dermatitis.  While the anatomic site is somewhat
+unusual, a seborrheic dermatitis-like drug eruption is possible.
+ Seborrheic dermatitis may occur more frequently with some
+medical disorders including epilepsy.  PAS stain is negative for
+fungi.  Clinical-pathologic correlation is recommended.
+
+Microbiology:
+
+2010-07-28 00:00:00 1:30 pm URINE   FROM CATHETER
+   URINE CULTURE (Final 2010-07-28 00:00:00):
+      SERRATIA MARCESCENS.    >100,000 ORGANISMS/ML..
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+      PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML..
+         Piperacillin/Tazobactam sensitivity testing confirmed
+by [**First Name8 (NamePattern2) 3029**]
+         Mcclaren.
+
+2010-07-28 00:00:00 1:00 pm SWAB      INCISION OF ABDOMINAL SURFACE.
+   GRAM STAIN (Final 2010-07-28 00:00:00):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI IN
+PAIRS.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+
+   WOUND CULTURE (Final 2010-07-28 00:00:00):
+      Due to mixed bacterial types (>=3) an abbreviated workup
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are
+reported if
+      present. Susceptibility will be performed on P.aeruginosa
+and
+      S.aureus if sparse growth or greater..
+      PSEUDOMONAS AERUGINOSA.    RARE GROWTH.
+
+2010-07-28 00:00:00: Blood cultures x2 negative
+2010-07-28 00:00:00: Legionella urinary antigen negative
+2010-07-28 00:00:00: CSF Crypotcoccal antigen negative, fluid culture negative;
+fungal and viral cultures pending
+
+2010-07-28 00:00:00 7:24 pm SPUTUM      Source: Endotracheal.
+   GRAM STAIN (Final 2010-07-28 00:00:00):
+      >25 PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+   RESPIRATORY CULTURE (Final 2010-07-28 00:00:00):
+      MODERATE GROWTH Commensal Respiratory Flora.
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      2010-07-28 00:00:00):
+      SPECIMEN NOT PROCESSED DUE TO: IMPROPER SPECIMEN
+COLLECTION.
+      Induced sputum required.
+      PLEASE SUBMIT ANOTHER SPECIMEN.
+      TEST CANCELLED, PATIENT CREDITED.
+      Reported to and read back by DR Donne ([**Numeric Identifier 3031**]) 2010-07-28 00:00:00 AT
+7:11AM.
+   FUNGAL CULTURE (123 Any St.inary):
+      YEAST.
+
+2010-07-28 00:00:00: C. diff toxin negative
+2010-07-28 00:00:00: Skin scrapings KOH negative, fungal culture 123 Any St.
+negative
+2010-07-28 00:00:00: Catheter tip culture negative
+
+Imaging:
+CXR 2010-07-28 00:00:00: A single portable chest radiograph is obtained. There
+has been no significant interval change in comparison to prior
+study from 2010-07-28 00:00:00.  No focal consolidation, effusion, or
+pneumothorax is seen. The heart and mediastinal contours are
+unremarkable. No soft tissue or bony abnormalities noted.
+Biapical pleural thickening is stable.
+
+Non-contrast Head CT 2010-07-28 00:00:00: There is no acute intracranial
+hemorrhage, edema, mass effect or major vascular territorial
+infarct. Hypoattenuation in the subcortical and periventricular
+white matter is mild and unchanged, likely sequelae of chronic
+microvascular ischemic disease. The ventricles and sulci are
+normal in size and symmetric in configuration. There is no shift
+from normally midline structures. The visualized paranasal
+sinuses and mastoid air cells are clear with interval resolution
+of the right sphenoid sinus air-fluid level. No osseous
+abnormality is identified.
+
+MRI Head w/&w/o contrast 2010-07-28 00:00:00:
+1. No evidence of acute findings.
+2. Stable white matter lesions consistent with patient history
+of Multiple
+Sclerosis.
+3. Incompletely visualized atrophy of the spinal cord.
+4. Opacification of the mastoid air cells.
+.
+EEG 2010-07-28 00:00:00: This is an abnormal continuous ICU monitoring study
+because
+of initially continuous generalized electrographic seizures
+consistent
+with non-convulsive status epilepticus. Over the course of the
+recording, these frequent seizures subsided with antiseizure
+medication
+administration. There was a transition from frequent
+electrographic
+seizures to infrequent bifrontal epileptiform discharges at
+around 22:00
+hours. There was no recurrence of electrographic seizures for
+the
+remainder of the study duration. Background activity remained
+slowing,
+indicative of moderate diffuse cerebral dysfunction, which is
+etiologically non-specific.
+
+EEG 2010-07-28 00:00:00: This is an abnormal continuous ICU monitoring study
+because
+of frequent rhythmic bifrontal epileptiform discharges occurring
+
+intermittently throughout the recording. The background rhythm
+was
+diffusely slow indicative of mild to moderate diffuse cerebral
+dysfunction. Compared to the prior days recording there were
+periodic
+epileptiform discharges which did not evolve into electrographic
+
+seizures.
+
+EEG 2010-07-28 00:00:00: This is an abnormal continuous ICU EEG monitoring study
+due
+to several electrographic seizures in the frontal central region
+more
+predominant on the right associated with clinical jerking of the
+
+shoulders and occasionally gagging. Also, the background showed
+a
+generalized delta slowing consistent with a diffuse
+encephalopathic
+process with a non-specific etiology.
+.
+Labs on Discharge:
+
+2010-07-28 00:00:00 04:36AM BLOOD WBC-9.5 RBC-2.99* Hgb-9.4* Hct-26.5*
+MCV-89 MCH-31.5 MCHC-35.5* RDW-16.9* Plt Ct-407
+2010-07-28 00:00:00 04:36AM BLOOD PT-12.8 PTT-27.2 INR(PT)-1.1
+2010-07-28 00:00:00 05:41PM BLOOD Ret Aut-3.6*
+2010-07-28 00:00:00 04:36AM BLOOD Glucose-104* UreaN-16 Creat-0.3* Na-144
+K-4.1 Cl-102 HCO3-36* AnGap-10
+2010-07-28 00:00:00 03:11AM BLOOD ALT-24 AST-20 LD(LDH)-184 AlkPhos-377*
+TotBili-0.1
+2010-07-28 00:00:00 04:36AM BLOOD Calcium-8.5 Phos-2.7 Mg-1.7
+2010-07-28 00:00:00 03:11AM BLOOD Albumin-2.8* Calcium-8.0* Phos-1.9*
+Mg-1.5*
+2010-07-28 00:00:00 05:41PM BLOOD Hapto-298*
+2010-07-28 00:00:00 04:36AM BLOOD Phenyto-6.8* Valproa-47*
+
+Brief Hospital Course:
+This 53 yo WF with a PMHx of severe MS, MRSA folliculitis, c.
+diff who p/f UPMCE with AMS c/w delerium picture who is also found
+to be hyponatremic (Na-122) with a dirty UA from a PB catheder
+with labs significant for leukopenia and hypothermia.
+.
+In the ED the patient received a dose of levofloxacin, had a
+negative HCT, got a 123 Any St.inary laboratory w/u and was sent to
+the floor.
+.
+Upon arrival the patient was able to follow simple commands and
+would participate in strength testing.  She was mostly non
+verbal only speaking 2010-07-28 00:00:00 word phrases that were mostly non
+sensical.  She was unable to relate any history.  As a result
+the patient UPMCE and medical power of attorney were called.  The
+patient has a fairly highly functioning individual who was
+verbal and able to ambulate with assistance several monthly ago,
+according to the medical power of attorney, Mrs. Donne Mcclaren.
+The patient was then admitted for a similar episode of AMS which
+was attributed to toxic metabolic encephalopathy at that time.
+She was then discharged and since that time has never been back
+to her baseline.  According to the nursing home she would have
+waxing and Debb Palodichuk MS and was non compliant with care.
+.
+The patient was free water restricted as it was reported that
+the patient consumed up to 3L of free water a day.  She was
+started on vanco/levoquin for her SIRS.  The patient sodiums
+were monitored overnight and fluids were restarted on her to
+help correct her hyponatremia.  Neurology was consulted and they
+did not have any additional recomendations at that time.
+.
+The second day of admission it was reported that the patient was
+uncooperative with care and unable to swallow pills.  The
+urology service did come by and changed the patients SPC without
+significant difficulty.  During evalaution she was witnessed
+having horizontal nystagmus and jaw twitching.  A BG was
+obtained which was wnl and a stat EEG was ordered.  The patients
+repeat Na was 118 and hypotonic infusions that were able to be
+discontinued were.  The patients EEG showed characteristics of
+status epilepticus and her seizures broke with ativan 1 mg.  She
+was also loaded with 1 g of dilantin.  Neurology consults were
+made aware of the situation and they aggreed with the above
+management.  Their additional recomendations were to conduct an
+LP, cover empirically with vanco/ceftriaxone and acyclovir and
+to do a brain MRI when the patient is clinically stable.  It was
+decided that a transfer to the UPMCE was most appropriate at this
+time.
+UPMCE Course
+53 yo female with advanced secondary progressive MS, admitted in
+status epilepticus, which was likely secondary to a urinary
+tract infection, c/b hyponatremia and septic shock, who
+continued to have seizures, with waxing and Debb Palodichuk mental status
+and was, consequently, trach'd and PEG'd at the bedside.  Her
+anti-epileptic treatment was also complicated by a drug rash.
+
+# Seizures: Upon presentation to the ICU, the patient was in
+status epilepticus, which was thought to be secondary to Debb Palodichuk
+and hyponatremia.  LP was performed and returned negative for
+infectious processes in the CSF.  She was intubated for airway
+protection while in status.  She was placed on continuous EEG
+monitoring, which showed bifrontal epileptiform seizures.  Her
+seizures were treated with levetiracetam, phenytoin, valproic
+acid and lacosamide, and therapeutic levels of these medications
+were monitored.  Additionally, her Debb Palodichuk and hyponatremia were
+treated.  She was evaluated for cerebral structural lesions with
+a brain MRI, which showed stable periventricular plaques,
+consistent with MS. Donne Mcclaren and hyponatremia resolved
+with treatment and patient was on 4 epileptics, patient
+continued to have intermittent seizures.  She also had GPEDs on
+her EEG which is c/w high mortality and very poor prognosis from
+mental status standpoint.
+
+# Urinary tract infection: Urine culture on presentation grew
+Pseudomonas and Serratia, with an I&D of an abscess at the
+patient's indwelling suprapubic catheter growing Pseudomonas.
+It is likely that the infection lowered the patient's seizure
+threshold.  Her UTI was treated with a 14-day course of
+cefepime, to which both her Pseudomonas and Serratia were
+sensitive.
+
+# Septic shock: Upon arrival to the ICU, the patient was in
+septic shock, with hypotension, hypothermia, altered mental
+status, WBC 14 and left-shift, as well as evidence of end-organ
+dysfunction in a transient transaminitis.  Likely source of
+infection was the urinary tract, as discussed above.  However,
+there was also evidence of possible aspiration on CXR, in the
+context of ongoing seizures.  The patient was empirically
+treated for HCAP, initially with cefepime, vancomycin and
+levofloxacin, which was then tailored to cefepime/vanc as levo
+lowers the seizure threshold, for a total of 8 days.  Her
+initial hypotension and transaminitis resolved with IV fluids.
+Initial thrombocytopenia, which subsequently resolved, was
+likely attributable to systemic inflammation as well.  The
+patient's vital signs were and WBC were carefully monitored.
+
+# Hyponatremia: On arrival to the ICU, the patient was
+hyponatremic.  This was likely due to SIADH, possibly cerebral
+salt wasting, and effective intravascular volume de123 Any St.n due
+to third-spacing, which were exacerbated by her acute infection.
+ She was treated with free water restriction, normal saline and
+diuresis for third-spacing and volume overload.  Her diuresis
+was complicated by a metabolic alkalosis, which was corrected
+with acetozolamide, potassium supplementation and prudent use of
+furosemide.  Acetozolamide was discontnued and patient did not
+have re-surfacing of hyponatremia.
+
+# Mechanical ventilation: Upon arrival to the ICU, the patient
+was intubated for airway protection, while actively seizing.
+After a few days, she began to breathe spotaneously on pressure
+support ventilation; however, due to continued seizures, copious
+secretions, and waxing and Debb Palodichuk mental status, it was
+123 Any St.ted that she would require prolonged airway protection.
+For this reason, Interventional Pulmonology performed a bedside
+tracheostomy under sedation at the bedside on 2010-07-28 00:00:00 and
+Gastroenterology performed a bedside PEG placement on 2010-07-28 00:00:00.  The
+patient's tracheostomy was complicated by bleeding, as she was
+anticoagulated on enoxaparin.  She eventually transitioned to
+trach mask, with good oxygen saturation.
+
+#Rash: The patient developed a macular rash on her both of her
+lower extremities, which was initially suspected to be due to a
+fungal infection; however, KOH stain and fungal cultures
+returned negative, and the rash was unresponsive to topical
+antifungal medications.  Medication reaction was suspected,
+since the rash appeared several days after beginning new
+antiepileptic medications.  Biopsy of the rash showed
+non-specific signs of inflammation.  The rash responded well to
+steroid (fluocinonide 0.01%) ointment.  Her LFTs and CBC were
+trended out of concern for DRESS.
+
+# History of PE: The patient was anticoagulated with enoxaparin,
+which was held as needed for procedures.  She developed no signs
+or symptoms of new thrombosis.
+
+# Normocytic Anemia: The patient has a baseline anemia, likely
+anemia of chronic disease vs. iron deficiency.  Her anemia was
+exacerbated by bleeding after tracheostomy on 2010-07-28 00:00:00, but remained
+stable thereafter. She had several more episodes of oozing from
+the tracheostomy site as well as from the PEG site.
+.
+#Goals of care: Patient had [** Location **]usly made her goal of care
+wishes very clear to her healthcare proxy and her family and
+also had it in writing.  Her wish was that if she were not
+functional and alert, she did not want extraordinary measures
+taken to prolong her life. Primary ICU team and neurology team
+had involved family meeting with HCP and 2 daughters.  It was
+explained to the family that in the setting of continous
+seizures and no improvement in mental status despite resolution
+of what was thought to be instigating them (infection,
+hyponatremia), long term prognosis for mental status recovery
+was very poor.  Family felt that Ms.Mcclaren would not want to be
+kept alive like this and decision was to make her CMO and
+transfer to Mcclaren.
+.
+
+***Per neurology recommendations immediately prior to discharge,
+Dilantin can be discontinued and other anti-epileptic
+medications can be given orally.****
+HCP Donne Mcclaren Donne Mcclaren, cell test@mail.com, home test@mail.com
+
+Medications on Admission:
+1. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+
+6 hours) as needed for fever or pain.
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day) as needed for constipation.
+3. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+5. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+6. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+7. econazole 1 % Cream Sig: One (1) application Topical UPMCE ():
+apply underneath breasts after drying fully.
+8. white petrolatum-mineral oil     Cream Sig: One (1) Appl
+Topical DAILY (Daily): to chest and neck.
+9. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+10. mupirocin calcium 2 % Cream Sig: One (1) Appl Topical UPMCE (2
+
+times a day): Please apply to open erosions on right arm and
+cover with gauze to protect.
+Disp:*1 1* Refills:*2*
+11. Coumadin 1 mg Tablet Sig: 0.5 Tablet PO once a day: please
+resume when INR < 3, goal INR 2010-07-28 00:00:00.
+12. hydrocortisone 2.5 % Cream Sig: One (1) application Topical
+twice a day as needed for groin rash.
+13. methenamine hippurate 1 gram Tablet Sig: One (1) Tablet PO
+at bedtime.
+14. tolterodine 4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO once a day.
+15. Enulose 10 gram/15 mL Solution Sig: Fifteen (15) mL PO twice
+
+a day as needed for constipation.
+16. doxycycline hyclate 100 mg Capsule Sig: One (1) Capsule PO
+Q12H (every 12 hours) for 10 days.
+Disp:*20 Capsule(s)* Refills:*0*
+17. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1)
+
+Tablet PO BID (2 times a day) for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+18. gabapentin 100 mg Capsule Sig: 2010-07-28 00:00:00 Capsules PO three times a
+
+day: 1 tablet qAM, 1 tablet in afternoon, 2 tablets qPM.
+
+Discharge Medications:
+1. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+3. chlorhexidine gluconate 0.12 % Mouthwash Sig: One (1) ML
+Mucous membrane UPMCE (2 times a day).
+4. fluocinonide 0.05 % Ointment Sig: One (1) Appl Topical UPMCE (2
+times a day): Apply to affected areas.
+5. acetaminophen 650 mg/20.3 mL Solution Sig: Six 56y
+(650) mg PO Q6H (every 6 hours) as needed for fever or pain.
+6. morphine 10 mg/5 mL Solution Sig: 5-10 mg PO Q4H (every 4
+hours) as needed for pain.
+7. valproic acid (as sodium salt) 250 mg/5 mL Syrup Sig: 1000
+(1000) mg PO Q8H (every 8 hours).
+8. ibuprofen 100 mg/5 mL Suspension Sig: Six Hundred (600) mg PO
+Q6H (every 6 hours) as needed for fever or pain.
+9. levetiracetam 500 mg/5 mL Solution Sig: 2010-07-28 00:00:00 (2010-07-28 00:00:00) mg
+Intravenous UPMCE (2 times a day).
+10. lacosamide 200 mg/20 mL Solution Sig: Three Hundred (300) mg
+Intravenous UPMCE (2 times a day).
+11. Heparin Flush (10 units/ml) 2 mL IV DAILY AND PRN PER LUMEN
+per lumen
+2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+12. fosphenytoin 50 mg PE/mL Solution Sig: One 56y
+Five (125) mg Injection Q8H (every 8 hours).
+13. morphine 5 mg/mL Solution Sig: 2-4 mg Injection Q4H (every 4
+hours) as needed for pain or respiratory distress.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+UPMCE House
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Advanced Secondary Progressive Multiple Sclerosis
+Multifactorial Encephalopathy
+Septic Shock
+Hyponatremia
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic and not arousable.
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+You were admitted to the hospital for confusion and lethargy,
+and were sent to the ICU for septic shock most likely due to a
+severe urinary tract infection.  During your stay, you required
+intubation due to respiratory distress and eventually had a
+tracheostomy tube and a PEG tube placed.  You continued to have
+frequent seizures despite multiple antiepileptic medications,
+and your confusion did not improve significantly.  After
+discussion with your health care proxy and family, it was
+determined that your wishes would be to transition to comfort
+care, and transfer to a UPMCE facility was arranged.  Your
+medications were adjusted with the goal of maximizing comfort
+and minimizing pain or anxiety.
+
+
+Followup Instructions:
+You are being discharged to inpatient UPMCE.  Doctors at the
+Donne Mcclaren facility will manage your ongoing medical care.
+
+
+                             Debb Palodichuk Mcclaren Donne Mcclaren MD 69583
+
+Completed by:2010-07-28 00:00:00

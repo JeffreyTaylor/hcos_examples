@@ -1,0 +1,136 @@
+Admission Date:  2010-04-29 00:00:00     Discharge Date:  2010-04-29 00:00:00
+
+Date of Birth: 1976-04-29 00:00:00 00:00:00     Sex:  M
+
+Service:  CARDIOTHOR
+
+CHIEF COMPLAINT:  Aortic regurgitation.
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 46-year-old male
+with a history of coronary artery disease, status post stent
+to left anterior descending.  Subsequent to this procedure,
+patient developed aortic regurgitation.  He was evaluated by
+Cardiology and he underwent a catheterization on 2010-04-29 00:00:00, which showed aortic regurgitation 4+, normal coronary
+arteries with the stent being open, and a normal ejection
+fraction of 45%.  The patient was then referred to Dr. Hytham Kelmer
+for aortic valve replacement.
+
+Patient denies any chest pain, nausea, vomiting, shortness of
+breath or dyspnea on exertion.
+
+PAST MEDICAL HISTORY:  Significant for coronary artery
+disease, IJ nephropathy, stent to left anterior descending,
+hypertension.
+
+PAST SURGICAL HISTORY:  Significant for a left calf
+reconstruction.
+
+MEDICATIONS ON ADMISSION:  Zestril 10 mg po q.d., Atenolol 25
+mg po q.d., aspirin 325 mg po q.d.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Patient has rare ETOH use and no tobacco
+use.
+
+PHYSICAL EXAMINATION:  Patient's in no acute distress.
+Temperature 98.6.  Pulse 65.  Blood pressure 160/73.  O2
+saturation 98% on room air.  Patient has no carotid bruits,
+no lymphadenopathy.  Chest is clear bilaterally.  Patient is
+regular rate and rhythm with a 2/6 systolic ejection murmur.
+Abdomen soft, nontender with normal abdominal bowel sounds.
+Patient has no extremity edema.
+
+LABORATORY ON ADMISSION:  White blood cell count 6.8,
+hematocrit of 43.7, platelets 186,000.  Sodium of 137,
+potassium 4.3, chloride of 99, bicarbonate of 27, BUN 19,
+creatinine 1.0, INR of 1.1.
+
+Stress test done on 2010-04-29 00:00:00 was significant for 8.5
+minute Hytham Kelmer protocol, stopped secondary to 20 mmHg drop in
+systolic blood pressure.  Asymptomatic with a ejection
+fraction of 30-35%.
+
+Cardiac catheterization significant for an ejection fraction
+of 45%, hypokinetic wall motion, aortic regurgitation, which
+is rated at 4+ with normal coronaries.
+
+Electrocardiogram was significant for sinus rhythm with a
+rate of 71 with left anterior fascicular block.  No ischemic
+changes.
+
+HOSPITAL COURSE:  The patient on the day of admission went to
+the Operating Room where he underwent an aortic valve
+replacement with a #27 [**First Name8 (NamePattern2) 1477**] Jaylianna Boshell mechanical valve.  Patient
+tolerated this procedure well and was transferred to  the
+Cardiothoracic Intensive Care Unit in stable condition.
+Patient was extubated without incident.  Patient remained
+hemodynamically stable and was weaned off all drips.
+Patient's hematocrit remained stable at 29.
+
+On postoperative day number one, patient continued to remain
+hemodynamically stable.  Patient continued to be weaned off
+all drips.  Chest tubes were discontinued without incident.
+The patient was started on his Coumadin for anticoagulation
+for his mechanical valve.  Patient on postoperative day
+number two was transferred to the floor.  Patient has
+remained hemodynamically stable.  Patient's INR has risen
+appropriately to latest INR being 1.9.  Patient has remained
+afebrile.
+
+On postoperative day number six, patient developed
+tachycardia on the monitor.  Upon further evaluation, it was
+found that patient has tachycardia with frequent atrial
+premature contractions, but not to be in atrial fibrillation.
+Patient's blood pressure remained stable.  Patient's
+electrocardiogram demonstrated an elevated PR interval of 300
+milliseconds.  Patient was continued on his beta-blockade and
+was restarted on his ACE inhibitor. Patient will follow-up
+with his primary care physician for electrocardiogram in one
+week and to evaluate the PR interval at that time.  There
+will be no further intervention done by the
+Electrophysiologic Service at this time.
+
+Patient has now been tolerating a regular diet and has been
+ambulating at an activity level of 5 with Physical Therapy.
+Patient is stable and ready for discharge to home.
+
+DISCHARGE DIAGNOSES:
+1.  Aortic insufficiency, status post aortic valve
+replacement #27 [**First Name8 (NamePattern2) 1477**] Jaylianna Boshell valve.
+2.  Hypertension.
+3.  Hypercholesterolemia.
+4.  IJ nephropathy.
+
+MEDICATIONS ON DISCHARGE:
+1.  Atenolol 25 mg po q.d.
+2.  Lasix 20 mg po b.i.d. times seven days.
+3.  KCL 20 mEq po b.i.d. times seven days.
+4.  Colace 100 mg po b.i.d.
+5.  Enteric coated aspirin 81 mg po q.d.
+6.  Coumadin 10 mg po q.d.  Does Jaylianna Boshell M.D.
+7.  Percocet 5/325 2010-04-29 00:00:00 po q. 4 hours prn.
+8.  Zestril 10 mg po q.d.
+
+FOLLOW-UP:  Patient will follow-up with coagulation draws at
+UPMCE to be called into his primary care
+physician, Boshell. Hytham Kelmer.  Patient to follow-up with Dr.
+Boshell in four weeks.
+
+CONDITION AT DISCHARGE:  Stable.
+
+
+
+
+
+
+
+                          Hytham Kelmer, M.D.  17074
+
+Dictated By:Hytham Kelmer
+
+MEDQUIST36
+
+D:  2010-04-29 00:00:00  14:01
+T:  2010-04-29 00:00:00  14:01
+JOB#:  17074

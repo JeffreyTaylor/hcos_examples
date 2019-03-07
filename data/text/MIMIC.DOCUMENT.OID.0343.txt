@@ -1,0 +1,675 @@
+Admission Date:  2010-02-19 00:00:00              Discharge Date:   2010-02-19 00:00:00
+
+
+Service: MEDICINE
+
+Allergies:
+Ultram
+
+Attending:Lashond Jimeson
+Chief Complaint:
+Hematuria, cough, abdominal pain
+
+Major Surgical or Invasive Procedure:
+IVC filter placement
+
+
+History of Present Illness:
+85 F h/o stage 0 CLL, not requring tx 123 Any St.usly, presents to ED
+for persistent cough/abdominal pain, and hematuria.
+.
+Pt notes about 2 months of increasing fatigue, nightsweats,
+decreased a123 Any St.e, and increasing left side abdominal pain
+(intermittent, no relation to food, BM, sharp, no diarrhea,
+constipation, melena). She was seen by PCP 2010-02-19 00:00:00, felt to have
+viral URI, symptoms persisted, and seen again 2010-02-19 00:00:00 with
+persistent cough (intermittently productive, yellow-white),
+single episode of hematuria (clear red, not clot), and LLQ
+abdominal pain, treated with azithromycin, and abdominal US
+obtained which revealed new splenomegaly with new 1.5-cm
+echogenic area.
+
+On 2010-02-19 00:00:00, pt noted recurrent episode of "strong blood in urine."
+Describes clear red +clots, +feeling incomplete voiding, no
+suprapubic pain, no CVA tenderness. Also notes transient R LE
+shooting pain last night which has resolved.
+
+Pt presented to the ED with VS: 98.1 79 113/69 16 100%RA. In the
+ED, CXR with LUL collapse, CT ABD/PELVIS with multiple new
+metastasis, and new mass in bladder. Also RLL PE. UA +hematuria,
++ UTI. pt given levo, flagyl, morphine 2mg x3 for pain. BP then
+noted to drop to 70/37, pt received total 2L IVF, although
+timing unclear, with BP improved to 102/55s (?dehyration vs
+sepsis vs morphine). No central line placed. CT head obtained in
+anticipation of possible anticoagulation.
+
+
+Past Medical History:
+- CLL - referred to heme/onc (Dr Fierra Kielty), for anemia,
+leukocytosis, found on 2010-02-19 00:00:00 flow cytometry confirmed B-cell
+chronic lymphocytic leukemia, stage 0, asymptomatic (no LAD,
+thrombocytopenia, splenomegaly), so no plan for treatment as of
+2010-02-19 00:00:00.
+- htn
+- asthma
+- hyperlipidemia
+- OA - left hip, knee, 123 Any St.usly on vioxx.
+- tah/bso 2010-02-19 00:00:00 fibroids.
+- glucose intolerance (not on meds, a1c 6.1->5.5)
+- glaucoma
+- cancer screening: colonoscopy on 2010-02-19 00:00:00 showed 2 adenomatous
+
+polyps, one in the transverse colon and the other in the
+descending colon. Annual mammographies have been negative.
+
+
+Social History:
+- deniess tobacco, denies alcohol, IVDU.
+- she lives with her husband. They have 2 children, 1 son and 1
+daughter, in their 50s and 60s, respectively.
+- Worked as a pharmacist in 123 Any St., 123 Any St.. She was 80 miles from
+the Chernobyl accident in 2010-02-19 00:00:00, leaving on the 3rd day of the
+radiation exposure, although she's not certain if she was in
+fact exposed to radiation. 3 months later, she returned to her
+residence. Some of her co-workers had thyroid concerns after the
+Chernobyl accident. She moved to the U.S. in 2010-02-19 00:00:00.
+
+Family History:
+No family history of hematologic or oncologic dyscrasias. Both
+parents died of strokes. A sister, her only sibling, had
+"pancreatic" obstruction, not cancer related, and died at age
+64. The patient's daughter had breast cancer at age
+54.
+
+
+Physical Exam:
+VS: 97.3 97 116/56 26 96%2L
+GEN: NAD
+HEENT: PERRLA, sclera anicteric, OP clear, MMM, no carotid
+bruits. 8-10 cm JVD. left cervical 1cm LN, right axillary 1-2cm
+LN against chest wall.
+CV: regular, nl s1, s2, no r/g. 3/6 SEM.
+PULM: decreased BS L base, otherwise good air movement through.
+
+ABD: soft, NT, + BS, +splenomegaly, ~5inches from CV angle.
+EXT: warm, 2+ dp/radial pulses BL. trace B LE edema.
+NEURO: alert & oriented x 3, CN II-XII grossly intact.
+
+
+Pertinent Results:
+
+
+SPECIMEN SUBMITTED: urine for immunophenotyping
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+2010-02-19 00:00:00 2010-02-19 00:00:00 2010-02-19 00:00:00 DR. Lashond Jimeson Kielty/cma??????
+123 Any St.us biopsies:    08-08768K  CYTOSPIN
+  08-08021K  Cell blocks from catheterized urine; three cell
+blocks
+  [**-7/3351**]K  CATARACT RT. EYE.
+  2010-02-19 00:00:003K  Peripheral blood for immunophenotyping.
+(and more)
+
+DIAGNOSIS
+
+FLOW CYTOMETRY REPORT
+
+
+
+FLOW CYTOMETRY IMMUNOPHENOTYPING
+
+The following tests (antibodies) were performed:  HLA-DR, FMC-7,
+Kappa, Lambda, and CD antigens: 3, 5, 10, 19, 20, 23, 38, 45.
+
+
+
+RESULTS:
+
+Three-color gating is performed (light scatter vs. CD45) to
+optimize lymphocyte yield. Lymphocytes comprise <1% of total
+analyzed events.
+
+B-cells are scant in number precluding evaluation of clonality.
+Approximately 77% of total analyzed events show dim CD45 and
+high side scatter, representing neutrophils.
+
+
+
+INTERPRETATION
+
+Non-diagnostic study.  Clonality could not be assessed in this
+case due to insufficient numbers of B-cells. Cell marker
+analysis was attempted, but was non-diagnostic in this case due
+to insufficient numbers of cells. If clinically indicated, we
+recommend a repeat specimen (fresh) be submitted directly to the
+flow cytometry laboratory.
+
+ AP AND LATERAL CHEST 2010-02-19 00:00:00:
+
+COMPARISON: 2010-02-19 00:00:00.
+
+INDICATION: Metastatic cancer.
+
+Bilateral small to moderate pleural effusions are present, with
+slight improvement on the left. Cardiomediastinal contours are
+unchanged. Bibasilar areas of atelectasis adjacent to the
+effusions are also without change.
+
+IMPRESSION: Bilateral small to moderate pleural effusions with
+slight improvement on the left.
+
+   Cytology Report URINE/INSTRUMENTATION Procedure Date of
+2010-02-19 00:00:00
+
+
+REPORT APPROVED DATE: 2010-02-19 00:00:00
+SPECIMEN RECEIVED: 2010-02-19 00:00:00    08-[**Numeric Identifier 3111**]    URINE/INSTRUMENTATION
+
+
+SPECIMEN DESCRIPTION: Received 60 ml brown fluid
+  Prepared 1 ThinPrep slide. Catheter urine.
+
+CLINICAL DATA: Bladder tumor and CLL.
+123 Any St.US BIOPSIES:
+ 2010-02-19 00:00:00   08-[**Numeric Identifier 3112**]   URINE/INSTRUMENTATION
+2010-02-19 00:00:00   08-[**Numeric Identifier 3113**]   URINE/VOIDED
+2010-02-19 00:00:00   08-[**Numeric Identifier 3114**]   URINE/VOIDED
+2010-02-19 00:00:00   08-[**Numeric Identifier 3115**]   URINE/INSTRUMENTATION
+2010-02-19 00:00:00   08-[**Numeric Identifier 3116**]   URINE/INSTRUMENTATION
+2010-02-19 00:00:00   00-[**Numeric Identifier 3117**]   PAP
+2010-02-19 00:00:00   98-[**Numeric Identifier 3118**]   PAP
+    96-[**Numeric Identifier 3119**]   PAP
+    93-[**Numeric Identifier 3120**]   URINE
+    93-[**Numeric Identifier 3121**]   URINE
+    93-[**Numeric Identifier 3122**]   URINE
+
+
+REPORT TO: DR. Lashond Jimeson
+
+DIAGNOSIS: Urine:
+
+  ATYPICAL.
+
+  Atypical but very degenerated urothelial cells, cannot
+  exclude urothelial dysplasia/neoplasia.
+  A few squamous cells, histiocytes, scattered lymphocytes,
+  and many red blood cells.
+
+Urine cytology:
+DIAGNOSIS:
+
+
+
+A.  Cell block, "2010-02-19 00:00:00":
+
+Blood and  rare atypical but markedly degenerated urothelial
+cells and a few lymphoid cells, see note.
+
+
+
+B. Cell block, "2010-02-19 00:00:00":
+
+Blood and  rare atypical but markedly degenerated urothelial
+cells and a few possible lymphoid cells, see note.
+
+
+
+C.  Cell block, "2010-02-19 00:00:00":
+
+Insufficient material for diagnosis.
+
+
+
+Portable AP chest dated 2010-02-19 00:00:00 is compared to the chest CT from
+2010-02-19 00:00:00 and chest radiograph of 2010-02-19 00:00:00. Patient respiratory
+motion degrades the image. The heart is normal in size; however,
+there is marked opacification of the left heart border and
+retrocardiac region which may represent
+atelectasis/consolidation and pleural effusion. The right lung
+is grossly clear, but there is probably a small right pleural
+effusion. There is no pneumothorax.
+
+IMPRESSION:
+1. Patient respiratory motion degrades the quality of the image.
+2. Left lower lobe opacification likely represents
+atelectasis/consolidation plus effusion.
+
+Cytology Report URINE/VOIDED Procedure Date of 2010-02-19 00:00:00
+
+
+REPORT APPROVED DATE: 2010-02-19 00:00:00
+SPECIMEN RECEIVED: 2010-02-19 00:00:00    08-[**Numeric Identifier 3113**]    URINE/VOIDED
+
+SPECIMEN DESCRIPTION: Received 200 ml. brown fluid.
+  Prepared one ThinPrep slide.
+  6 specimens collected on 2010-02-19 00:00:00.
+
+CLINICAL DATA: 85 year old female with known CLL and new
+  large bladder mass with peritoneal mets,
+  diff between CLL and TCC.
+123 Any St.US BIOPSIES:
+ 2010-02-19 00:00:00   08-[**Numeric Identifier 3114**]   URINE/VOIDED
+2010-02-19 00:00:00   08-[**Numeric Identifier 3115**]   URINE/INSTRUMENTATION
+2010-02-19 00:00:00   08-[**Numeric Identifier 3116**]   URINE/INSTRUMENTATION
+2010-02-19 00:00:00   00-[**Numeric Identifier 3117**]   PAP
+2010-02-19 00:00:00   98-[**Numeric Identifier 3118**]   PAP
+    96-[**Numeric Identifier 3119**]   PAP
+    93-[**Numeric Identifier 3120**]   URINE
+    93-[**Numeric Identifier 3121**]   URINE
+    93-[**Numeric Identifier 3122**]   URINE
+
+
+REPORT TO: DR. Lashond Jimeson Kielty
+
+DIAGNOSIS: SUSPICIOUS.
+
+  Atypical but markedly degenerated urothelial cells and
+  scattered atypical lymphoid cells present.
+
+  Squamous cells, anucleate squames, red blood cells,
+  crystals.
+
+ECHO: Conclusions
+The left atrium is elongated. Left ventricular wall thicknesses
+and cavity size are normal. Left ventricular systolic function
+is hyperdynamic (EF>75%). There is a mild resting left
+ventricular outflow tract obstruction. The gradient increased
+with the Valsalva manuever. Right ventricular chamber size and
+free wall motion are normal. The ascending aorta is mildly
+dilated. The aortic valve leaflets are mildly thickened. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Trivial mitral regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+IMPRESSION: Hyperdynamic left ventricular function with mild
+left ventricular outflow tract obstruction. No significant
+valvular disease.
+
+NONCONTRAST CT, (has had recent dye load), please evaluate l
+
+UNDERLYING MEDICAL CONDITION:
+85 year old woman with CLL admitted with multiple abdominal
+mets, and LLL obstruction 2010-02-19 00:00:00 hilar LAD on CT abdomen.
+REASON FOR THIS EXAMINATION:
+NONCONTRAST CT, (has had recent dye load), please evaluate
+lymphadenopathy, LLL collapse, infiltrate.
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATIONS: 85-year-old woman with chronic lymphocytic
+leukemia, admitted with abdominal metastases and left lower lobe
+obstruction secondary to hilar lymphadenopathy on the abdomen
+CT.
+
+Question lymphadenopathy, left lower lobe collapse and
+infiltrate.
+
+At the request of the referring physician, Fierra Kielty contrast
+was not administered because of a recent dye load.
+
+COMPARISONS: Limited comparison to a recent CT of the abdomen
+from 2010-02-19 00:00:00 which depicted the lung bases.
+
+TECHNIQUE: Axial CT images of the chest were obtained without
+[**Year (4 digits) 3124**] contrast, and coronal and limited sagittal
+reformatted images, including the spine, were also performed.
+
+CT OF THE CHEST WITHOUT IV CONTRAST: The patient was
+inadvertently imaged during submaximal inspiration/partial
+expiration; there is apparently slightly greater than 50%
+narrowing of the anteroposterior dimension of the mid trachea,
+an appearance suggestive of tracheomalacia.
+
+A coarse calcification is noted the right lobe of the thyroid.
+There are calcifications along the right, the left anterior
+descending, and the left circumflex coronary arteries. The
+pulmonary arteries cannot be assessed for filling defects. There
+is only trace pericardial fluid but a small-to- moderate left-
+sided pleural effusion of low density is somewhat larger.
+
+Although the left anteromedial basal segment appears spared, all
+other portions of the left lower lobe are collapsed, likely due
+to post-obstructive atelectasis. The overall degree of
+atelectasis has progressed since the prior day.
+
+A large subcarinal mass of 51 x 26 mm in axial dimensions
+(2a:27) is now fully visualized, although not as well depicted
+without [**Year (4 digits) 3124**] contrast. It can be seen to extend to the
+carina and also abuts the posteromedial aspects of each mainstem
+bronchus. A large mass along the right infrahilar region and
+adjacent portion of the lower left mediastinum measures 61 x 37
+mm (2c:74), but was better depicted with contrast. The mass
+likely obstructs one or more descending basal segmental airways,
+but its 123 Any St.e origin is not fully clear.
+
+There are multiple enlarged mediastinal lymph nodes. The largest
+is a paraaortic node measuring 12 mm in shortest axis dimension.
+There is marked lymphadenopathy in the left axilla. The largest
+node (2A:97) measures 30 x 23 mm in axial dimensions. There are
+also several slightly prominent right hilar lymph nodes, but
+these are not over 8 mm in diameter.
+
+A small right-sided pleural effusion with associated atelectasis
+appears unchanged. Two calcified granulomas are noted in the
+right lung.
+
+Limited views of the upper abdomen again depict multiple masses,
+marked lymphadenopathy, a right adrenal mass, and marked
+splenomegaly. There are also gallstones and a new small amount
+of ascites. This appearance was better depicted on the prior CT
+of the abdomen.
+
+BONE WINDOWS: There are no suspicious lytic or blastic lesions.
+
+IMPRESSION:
+1. Subcarinal nodal mass.
+
+2. Mass in the left infrahilar region with post- obstructive
+atelectasis, which has progressed to near left lower lobe
+collapse.
+
+3. Marked left axillary lymphadenopathy, amenable to biopsy.
+
+4. Somewhat larger bilateral pleural effusions.
+
+5. Collapsibility of the trachea suggesting tracheomalacia.
+
+6. Coronary artery calcifications.
+
+7. Multiple abnormal masses in the upper abdomen, better
+depicted on the recent abdominal CT. The only new finding is
+trace ascites.
+
+8. Known pulmonary embolism not visualized given the lack of
+contrast administration. The extent of pulmonary emboli,
+accordingly, cannot be assessed.
+
+CT PELVIS W/CONTRAST  2010-02-19 00:00:00 4:14 AM
+
+CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+
+Reason: eval for diverticulitis, signs of C-diff
+Field of view: 45 Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+85 yo F w/ CLL and climbing WBC, fatigue, cough, T 99, LLQ pain,
+recent Azithro
+REASON FOR THIS EXAMINATION:
+eval for diverticulitis, signs of C-diff
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: History of CLL with leukocytosis, left upper
+quadrant pain, and cough. Additional history from the online
+medical record indicates that there is hematuria.
+
+TECHNIQUE: Contrast-enhanced MDCT of the abdomen and pelvis
+displayed in multiplanar collimation.
+
+COMPARISON: 2010-02-19 00:00:00.
+
+CT ABDOMEN WITH CONTRAST: There is a large 5.6 x 3.2 cm mass in
+the inferior mediastinum at the G-E junction. There is a large
+4.2 x 1.9 cm subcarinal mass that compressess the esophagus. The
+most superior slice also suggests an additional visualization of
+a left hilar node, which is compressing the superior segment
+bronchus of the left lower lobe resulting in postobstructive
+collapse. There is additional atelectasis at the left base with
+a moderate left-sided pleural effusion. There is a trace
+pericardial fluid. A nonocclusive pulmonary embolism is present
+in the visualized portions the right lower lobe pulmonary
+artery, partially visualized on this study.
+
+Widespread metastatic disease is identified, with a large, 5.9 x
+3.7 cm heterogenous mass in the left upper quadrant, overlying
+the spleen, with a small amount of associated ascites.
+Innumerable additional omental, peritoneal, mesenteric, and
+retroperitoneal soft tissue nodules/masses consistent with
+metastases are also noted. There is an enlarged 2.7 cm mass/node
+in the gastrohepatic space. Multiple metastatic deposits are
+noted about and within the right adrenal gland. The spleen is
+markedly enlarged measuring 19 cm in long axis and contains
+multiple sub- centimeter hypoattenuating, indeterminate lesions.
+There is no free air or free fluid. The small bowel loops appear
+normal. Multiple hypodense lesions are present in the kidneys,
+all probably simple or dense cysts. No lesions are identified in
+the liver. There is no intrahepatic biliary ductal dilation. The
+gallbladder and pancreas appear normal.
+
+CT PELVIS WITH CONTRAST: There is a large lobulated mass within
+the right superior lateral wall of the bladder measuring 6.0 x
+2.9 cm. There are multiple markedly enlarged lymph nodes along
+the right external iliac, right common iliac, and left
+paraaortic lymph node distributions. The rectum, colon and
+uterus appear normal. The ovaries are not identified without
+definite adenexal mass.
+
+BONE WINDOWS: No suspicious lesions are identified. Sclerosis is
+noted at the pubic symphysis.
+
+IMPRESSION:
+1. Widely metastatic disease with innumerable peritoneal
+implants, including a large left upper quadrant mass, and bulky
+iliac and retroperitoneal lymph nodes. Lobulated mass within the
+bladder wall. While a primary bladder malignancy remains a
+consideration, other primary neoplasms (such as lung or ovarian)
+with implants on the bladder should also be considered.
+2. Mediastinal adenopathy with likely left hilar adenopathy
+(partially visualized) causing post- obstructive collapse of the
+superior segment of the left upper lobe.
+3. Nonocclusive pulmonary embolism of the right lower lobe
+pulmonary artery.
+4. Massive splenomegaly with multi123 Any St.determinate 1-cm
+lesions, either metastases or small foci of infarction secondary
+to splenomegaly.
+
+[**Numeric Identifier 3125**] INTERUP IVC  2010-02-19 00:00:00 4:14 PM
+
+Reason: please place IVC filter.
+Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+85 year old woman with CLL, multiple new abdominal masses, new
+bladder mass, with RLL PE, with concern for anticoagulation
+given hematuria.
+REASON FOR THIS EXAMINATION:
+please place IVC filter.
+PROCEDURE: IVC filter placement.
+
+INDICATION: 85-year-old woman with CLL, multiple new abdominal
+masses, and with new bladder mass. Patient has now presented
+with right lower lobe pulmonary embolism and with concern for
+anticoagulation given hematuria. IVC filter placement was
+requested.
+
+RADIOLOGISTS: This procedure was performed by Dr. Fierra and Dr.
+Fierra, the attending radiologist, who was present and
+supervising throughout the entire procedure.
+
+PROCEDURE AND FINDINGS: After explaining the risks and benefits
+of the procedure, an informed consent was obtained from the
+patient. The patient was placed supine on the angiographic table
+and the right groin was prepped and draped in standard sterile
+fashion. A preprocedure timeout was performed.
+
+After injection of local anesthesia with 1% lidocaine and using
+ultrasound guidance, access was gained into right femoral vein
+with a 19-gauge needle. A 0.035 Bentson guidewire was advanced
+into the IVC under fluoroscopic guidance and the needle was
+exchanged for a 5 French Omniflush catheter. Using Omniflush
+catheter and guidewire, access was gained into left common iliac
+vein and IVC venogram was obtained. IVC venogram demonstrated no
+thrombosis in left iliac, IVC, and both renal veins were noted
+at L2 level. Based on these venographic findings, it was decided
+to place IVC filter at L3 level.
+
+A 5 French catheter was removed and guidewire advanced into the
+upper IVC under fluoroscopic guidance. A 7 French delivery
+catheter was advanced over the wire into the IVC. A G2 IVC
+filter was advanced through the catheter, and it was deployed in
+the immediate infrarenal IVC at L3 level. Final abdominal x- ray
+demonstrated proper location and position of IVC filter in
+infrarenal IVC.
+
+Vascular catheter was removed and manual compression was held
+until hemostasis was achieved. The patient tolerated the
+procedure well and there were no immediate complications.
+
+IMPRESSION: Patent IVC and single renal veins at L2 level.
+Successful G2 IVC filter deployment in immediate infrarenal IVC.
+
+
+Brief Hospital Course:
+85 y/o russian woman with history of Stage 0 CLL presented with
+cough, abd pain, and hematuria, found to have LUL collapse
+secondary to LAD, multiple abd mets, and new bladder mass.
+
+Metastatic cancer of unknown primary
+Presented with hematuria, found to have new bladder mass on CT
+scan, in addition to peritoneal and lung mass. Urology consult
+service followed, recommended urine cytology for diagnosis.
+3-way foley placed and clots ultimately cleared and urine
+returned to regular color.  Per urology, biopsy of mass not
+advisable given risk of procedure (bleeding, poor functional
+status). Instead, urine cytology collected (multiple samples),
+which were not diagnostic by pathology.  ASA was held.  Patient
+was transfused with 1U PRBCs.
+
+Given inability to obtain a diagnosis, and extent of metastatic
+cancer (as well as unliklihood it is progressive CLL or
+transformation), comfort/palliative care was recommended. Her
+oncologist Dr. Lashond Jimeson were
+instrumental in decision-making and recommendations for goals of
+care and prognosis. Mrs. Kielty was very clear in her desire
+to pursue comfort measures only. The main symptoms were pain and
+dyspnea both were treated with oxycontin and oxycodone. On day
+of discharge, oxycontin was increased to 20 mg UPMCE. She did not
+want to take morphine secondary to 123 Any St.us side effects.
+Palliative care team was involved as well and they recommended
+starting ritalin, dexamethasone as well.
+
+Constipation - on senna, colace and lactulose. Please give a
+dose of lactulose when patient arrives at rehab today(2010-02-19 00:00:00)
+as pt had not had a bowel movement in 2 days.
+
+LLL collapse/possible post-obstructive pneumonia: was treated
+for pneumonia with antibiotics that were stopped when patient
+requested they be discontinued. O2 continued for comfort.
+
+Pulmonary embolism: IVC filter placed 2010-02-19 00:00:00.  Systemic
+anticoagulation deferred in setting of hematuria.
+
+Leg edema is likely from IVC filter and abdominal metastases
+compressing on the venous return. Leg elevation recommended.
+
+CLL/hemolytic anemia: The patient's labs showed evidence of a
+hemolytic anemia.  Prednisone was not administered given stable
+hematocrit and risk of steroids with unknown malignancy, on
+recommendations of Dr. Lashond Jimeson. (However, eventually dexamethasone
+was started per palliative care recommendations.)
+
+Celexa, klonapin continued at home doses.
+
+Son, Fierra Kielty (Fierra Kielty Kopelev h-test@mail.com, cell test@mail.com.)
+is the proxy and aware of all issues. constant communication was
+maintained with him during the hospital stay.
+
+Patient will be discharged to rehab with hospice support.
+
+
+Medications on Admission:
+ALBUTEROL 17 GM--Take 2 puff twice a day as needed
+AMBIEN 10MG--One by mouth at bedtime as needed
+ASPIRIN 81 MG--One by mouth every day
+ATENOLOL 25 mg--1. tablet(s) by mouth once a day
+Atorvastatin 10 mg--0.5 tablet(s) by mouth once a day
+CLONAZEPAM 0.5 mg--one tablet(s) by mouth every evening as
+needed
+COSOPT 0.5 %-2 %--1 gtt os twice a day
+COZAAR 50 mg--1 tablet(s) by mouth once a day
+Citalopram 20 mg--0.5 tablet(s) by mouth at bedtime
+Flovent HFA 110 mcg/Actuation--take 2 puffs twice a day
+HYDROCHLOROTHIAZIDE 12.5MG--Take one by mouth daily
+LORATADINE 10 mg--1 tablet(s) by mouth once a day as needed for
+congestion, ear discomfort
+NITROGLYCERIN 0.3 mg--11 tablet(s) sublingually for chest pain;
+repeat x 1 after 5 minutes
+PHYSICAL THERAPY FOR LEFT KNEE OSTEOARTHRITIS--Evaluation and
+treatment; injection therapy
+RANITIDINE HCL 150 mg--1 tablet(s) by mouth daily
+
+Discharge Medications:
+1. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation UPMCE (2 times a day).
+2. Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+3. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+
+4. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day
+(at bedtime)): hold if somnolent.
+5. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig:
+One (1)  Inhalation every 4-6 hours as needed for wheezing.
+6. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic UPMCE (2 times a day).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical UPMCE
+(2 times a day).
+9. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+UPMCE (2 times a day) as needed.
+10. Hydrocortisone Acetate 1 % Ointment Sig: One (1) Appl Rectal
+QDAY ().
+11. OxyContin 20 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO every twelve (12) hours.
+12. Lactulose 10 gram/15 mL Solution Sig: Fifteen (15) ml PO
+once a day as needed for constipation: Give if no stool for 2
+days. .
+13. Methyl123 Any St.ate 5 mg Tablet Sig: 0.5 Tablet PO 2 PM ().
+14. Methyl123 Any St.ate 5 mg Tablet Sig: One (1) Tablet PO QAM (once
+a day (in the morning)).
+15. Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+16. Metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO QID (4 times
+a day) as needed for nausea.
+17. Oxycodone 5 mg/5 mL Solution Sig: 5-10 mg PO Q2H (every 2
+hours) as needed for dyspnea or pain.
+18. Oxycodone 5 mg/5 mL Solution Sig: Five (5)
+mg PO Q3H (every 3 hours): patient may refuse if she is not in
+discomfort from pain or dyspnea. Do not wake patient up if
+sleeping to give medication. .
+19. Senna 8.6 mg Capsule Sig: Two (2) Tablet PO BID (2 times a
+day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+123 Any St.
+
+Discharge Diagnosis:
+Metastases from unknown primary malignancy
+Symptoms of pain, dyspnea, leg edema - possibly related to
+wodespread cancer
+History of CLL, autoimmune hemolytic anemia
+Pulmonary embolism
+
+
+Discharge Condition:
+fair, going for ongoing hospice care
+
+
+Discharge Instructions:
+You are being discharged to extended care facility for further
+care. Hospice care will be provided at the facility. They can be
+in touch with your primary care physician, Fierra Kielty Kielty and/or
+the palliative care team here at UPMCE for further
+recommendations for your care.
+
+Followup Instructions:
+The facility - 123 Any St. will care for your further
+hospice needs. They can be in touch with your primary care
+physician, Fierra Kielty Kielty and/or the palliative care team here at
+UPMCE for further recommendations for your care.
+
+
+

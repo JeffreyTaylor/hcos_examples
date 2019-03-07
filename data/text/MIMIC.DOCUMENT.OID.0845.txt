@@ -1,0 +1,362 @@
+Admission Date:  2011-02-19 00:00:00              Discharge Date:   2011-02-19 00:00:00
+
+Date of Birth: 1929-02-19 00:00:00 00:00:00             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Tetracycline / Codeine
+
+Attending:Jaisley Merlina
+Chief Complaint:
+gastro-intestinal bleed
+
+Major Surgical or Invasive Procedure:
+esophagogastroduodenoscopy x3
+capsule endoscopy x2
+PICC line placement
+
+
+History of Present Illness:
+The patient is a 64 M with CAD s/p 4V-CABG 2011-02-19 00:00:00, AVR 2011-02-19 00:00:00 Abshir Mcintyre mechanical valve, HTN, AFIB, DM2, transferred from
+UPMCE Hospital to UPMCE ICU for workup of acute GIB. Admitted
+to 123 Any St. on 2011-02-19 00:00:00 considering replacing his mechanical with
+porcine valve, but there he had CP and dizziness per GI consult
+note there, but was found to have INR 5 and Hct 18. Over 2
+weeks, he received 14 U RBC, Hct up to 30s but then drifted
+down. Did capsule limited by food but possibly melena, EGD
+negative, bleeding scan negative, found blood trickling down
+from terminal ileum. Patient did not notice any blood, but blind
+in R eye and mostly blind in L eye. Patient was transferred to
+UPMCE for further evaluation and potential replacement of
+metallic aortic valves with porcine valve that would not require
+anti-coagulation.
+
+Past Medical History:
+Coronary artery disease
+s/p CABGx4 2011-02-19 00:00:00, last cath 2011-02-19 00:00:00:  Three vessel coronary artery
+disease.  Successful stenting of the SVG-OM with drug-eluting
+stent.
+CRI with acute creatinine rise post cardiac catheterization
+MI 2011-02-19 00:00:00
+PVD
+AF
+DVT
+Diabetes
+HTN
+Neuropathy/Retinopathy
+Iron deficiency anemia
+Depression/Anxiety
+s/p Subdural hematoma with evacuation
+Multiple PCI's
+Atrial Flutter ablation 2011-02-19 00:00:00
+Multiple toe amputations
+Green Field Filter placement
+s/p Right lower extremity bypass
+Left saphenous vein harvest
+Aortic stenosis
+
+Social History:
+Lives with wife in Abshir Mcintyre, MA. Prior alcohol and drug abuse
+(pills/cocaine). He is disabled. Smoked 2011-02-19 00:00:00 ppd stopping in
+2011-02-19 00:00:00. Does not drink or use drugs at this time.
+
+
+Family History:
+2 uncles died of Abshir Mcintyre at age 57 and 60.
+
+Physical Exam:
+VS: 97.0 / 100/60 / 81 / 20 / 97% RA
+Gen: sleeping but arousable, NAD, w/o complaint
+HEENT: R eye completely blind, L eye partially blind. L PERRL, L
+EOMI, oropharynx clear w/o erythema, mouth with poor dentition
+Neck: supple, no LAD, JVD 6
+Chest: CTA B, well-healed sternotomy scar
+CV: Irregularly irregular, S1, S2 with with mechanical click. No
+murmurs
+Abd: Soft, obese, ND, NT, +BS, no organomegaly
+Extremities: WWP, left foot partial amputation at mid-tarsal
+level, right foot with several digits amputated. 1+ non-pitting
+edema in both LE, R>L. Numerous ecchymoses over both forearms.
+Picc line in place on left arm.
+Neuro: Alert and oriented x3. CN III-XII grossly intact.
+Sensation to light touch intact in all extremities. Muscle
+strength 5/5 throughout all extremities
+
+
+Pertinent Results:
+2011-02-19 00:00:00 08:08PM   WBC-5.5 RBC-3.21*# HGB-9.7* HCT-28.7* MCV-89
+MCH-30.0 MCHC-33.7 RDW-16.5* PLT COUNT-260
+2011-02-19 00:00:00 08:08PM   PT-17.5* PTT-102.7* INR(PT)-1.6*
+2011-02-19 00:00:00 08:08PM   GLUCOSE-230* UREA N-27* CREAT-2.0* SODIUM-133
+POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-24 ANION GAP-9
+.
+Imaging:
+2011-02-19 00:00:00: Chest xray: The patient has had median sternotomy. Mild
+cardiomegaly has been present without change since 2011-02-19 00:00:00. Also
+unchanged is a prominent left upper lobe pulmonary artery which
+should not be mistaken for juxtahilar nodule. Lungs are
+essentially clear. Left posterior healed rib fractures are
+longstanding. No pleural abnormality or evidence of central
+adenopathy.
+.
+
+.
+Endoscopy:
+2011-02-19 00:00:00: EGD/Enteroscopy: Normal mucosa in the stomach
+Normal mucosa in the upto mid jejunum
+Normal mucosa in the duodenum
+Otherwise normal EGD to mid jejunum
+.
+2011-02-19 00:00:00: EGD: Normal mucosa in the esophagus
+Normal mucosa in the duodenum
+Mild gastritis in the stomach
+Gastric nodule.
+2011-02-19 00:00:00: Capsule Endoscopy: 1. Angioectasia (nonbleeding) in the
+distal duodenum or proximal jejunum 2. Angioectasias in the
+jejunum that are not bleeding 3. Phlebectasia 4. nonbleeding
+Angioectasias in the distal jejunum
+5. diminutive nonbleeding polyp in the ileum 6. Lymphoid
+hyperplasia in the terminal ileum.
+.
+2011-02-19 00:00:00: EGD/enteroscopy: Food in the stomach body
+Food in jejunum. No angiodysplasia seen.
+Erosion in the antrum compatible with erosive gastritis
+Otherwise normal EGD to mid jejunum
+
+
+Brief Hospital Course:
+In brief, the patient is a 64 M with CAD s/p 4V-CABG 2011-02-19 00:00:00 and
+drug-eluting stent to SVG in 2011-02-19 00:00:00, AVR 2011-02-19 00:00:00 Abshir Mcintyre
+mechanical valve, HTN, AFIB, DM2, transferred from UPMCE
+Hospital to UPMCE ICU for workup of acute GIB.
+.
+1. Acute Blood Loss anemia from GI bleed: The patient initially
+presented to UPMCE Hospital with shortness of breath and chest
+pain; he was found to have a marked anemia, bloody stools, and a
+supratherapeutic INR.  He was transfused with pRBCs and
+stabilized. Evaluation there pointed to a GI source but could
+not localize a lesion. During his stay there his home regimen of
+aspirin, Plavix, and coumadin was discontinued due to the risk
+of exacerbating the GI bleed.  He arrived at UPMCE on a heparin
+drip.  He was transferred to UPMCE for further evaluation. He
+was first admitted to the Cardio-Thoracic surgery service for
+consideration for replacing the metallic aortic valve with a
+porcine valve that would not require anti-coagulation.  However,
+given that he had already undergone a re-do sternotomy; it was
+not felt safe to open the chest again. After several attempts at
+localizing a lesion, small angioectasias were found in multiple
+sections of the small bowel.  Also, mild gastritis was found.
+However, no active bleeding was indentified.  Given the
+dispersed location of the angioectasias included some very
+distal lesions, an endoscopic therapeutic option was not
+feasible.  His hematocrit was stabilized by the time of
+discharge for ~2 weeks as the evaluation continued.  He will be
+discharged on a PPI at twice daily dosing to complete 1 month
+afterwhich he will decrease the dose to daily.  He will be
+anti-coagulated with coumadin with INR target of 2.5-3.5.  His
+INR and hematocrit should be closely monitored weekly for 1
+month.  Strict attention should be made to maintain his INR in a
+therapeutic range to decrease the likelihood of re-bleeding. His
+anti-platelet agents were not restarted during this hospital
+stay due to the risk of re-bleeding would likely outweigh the
+risk of in-stent thombosis now 13 months since the placement of
+the most recent stent. These medications could be re-considered
+as an outpatient. His hematocrit at discharge was 28.9 and his
+INR was 2.7.
+.
+2. AV replacement: The patient continued on anti-coagulation
+with heparin drip monotherapy while the GI bleed evaluation
+continued.  He was discharged with coumadin as above.
+.
+3. CAD, CHF - The patient has an extensive history of coronary
+disease including a CABG in 2011-02-19 00:00:00 and subsequent
+re-vascularizations.  Given his risk of life-threatening GI
+bleeding his anti-platelet agents were discontinued.  He
+remained chest pain free during his hospital stay.  He was
+well-compensated from his CHF.  He remained on carvedilol with
+adequate heart rate and blood pressure control. He remained on a
+statin.  Aspirin and plavix were held as above. If his blood
+pressure would tolerate it, he would be a good candidate for
+adding Jaisley Merlina Mcintyre to his heart failure regimen.
+.
+4. Itch: The patient complained of intense itchiness of his
+lateral forearms. In talking with the patient's wife this has
+been a chronic problem for him and gets adequate control of the
+symptoms with over-the-counter remedies.  The area of concern
+was without ap123 Any St.ble skin changes or rash.  He was discharged
+with anti-histamines and topical therapies for symptomatic
+relief.  An evaluation by an allergist may be of benefit as an
+outpatient.
+.
+5. Diabetes Mellitus type 2: The patient had variable blood
+sugar control as his diet would vary with regard to procedures
+done to evaluate the GI bleeding.  He was followed closely by
+the Mcintyre Diabetes consult service to titrate his insulin
+dosing.  He will be discharged with glargine insulin and humalog
+sliding scale.
+.
+6. Chronic kidney disease - The patient has a baseline chronic
+kidney disease likely related to diabetes, hypertension and
+residual damage from IV contrast administration.  He remained
+close to his baseline Cr throughout his hospital stay except for
+a mild rise which was thought secondary to pre-renal azotemia
+from inadequate oral intake.  His creatinine recovered to his
+baseline with oral hydration.
+.
+7. Hypertension: The patient had stable blood pressure on home
+blood pressure regimen.
+.
+8. AFIB: There were no acute issues. He remained well rate
+controlled with his carvedilol. He was anti-coagulated as above.
+
+.
+9. Depression: There were no acute issues, and he remained on
+his home regimen.
+.
+10. FEN: diabetic, cardiac diet
+11. PPX: No bowel regimen needed, PPI, heparin gtt
+12. CODE: Full
+13. DISPO: The patient was discharged in good condition to
+follow-up with his PCP and have his blood drawn periodically to
+monitor his INR and hematocrit.
+
+Medications on Admission:
+Home Medications:
+Protonix 40 mg daily
+Crestor 40 mg daily
+Coreg 25 mg twice daily
+Plavix 75 mg daily
+Tricor 145 mg daily
+Avandia 4 mg daily
+Coumadin 6mg daily (M-W-F), 7mg daily (T-Th-Sat-Sun)
+Fluoxetine 40 mg daily
+Lasix 20 mg daily
+Niaspan 1000 mg twice daily
+Vicodin prn
+Aspirin 81 mg daily
+Colace 100 mg twice daily
+Vitamin D
+Lantus 15 units daily
+Regular insulin Sliding Scale
+.
+Medications on Transfer:
+heparin drip
+Colace
+ASA 81
+Niaspan
+Nexium 40 UPMCE
+Coreg
+Lantus / humalog
+Timoptic
+Fluoxetine
+Lipitor
+ambien PRN
+calcium
+lasix
+
+
+Discharge Medications:
+1. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: 2011-02-19 00:00:00
+Drops Ophthalmic TID (3 times a day).
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours) for
+3 weeks: after 3 weeks decrease to once daily dose.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*3*
+3. Fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+4. Niacin 500 mg Capsule, Sustained Release Sig: Two (2)
+Capsule, Sustained Release PO twice a day.
+5. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO
+once a day.
+6. Outpatient Lab Work
+Please have the following labs drawn on 2011-02-19 00:00:00 and forward
+result to Dr.Abshir Mcintyre office (telephone: test@mail.com)
+Hematocrit, PT/INR
+7. Timolol Maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic UPMCE
+(2 times a day).
+8. Crestor 40 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+10. Warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime).
+Disp:*90 Tablet(s)* Refills:*2*
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+12. Lantus 100 unit/mL Solution Sig: Thirteen (13) units
+Subcutaneous at bedtime.
+Disp:*10 mL* Refills:*2*
+13. Humalog 100 unit/mL Solution Sig: 0-18 units Subcutaneous
+four times a day: dose according to enclosed sliding scale.
+Disp:*10 mL* Refills:*2*
+14. Benadryl 25 mg Capsule Sig: 2011-02-19 00:00:00 Capsules PO every eight (8)
+hours as needed for itching.
+15. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+TID (3 times a day) as needed.
+Disp:*1 bottle* Refills:*0*
+16. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Acute Blood Loss anemia from gastro-intestinal bleed
+Aortic stenosis s/p aortic valve replacement
+Diabetes mellitus type 2 controlled with complication of
+retinopathy
+CHF - systolic
+Coronary Artery Disease s/p CABG
+Renal Failure acute and chronic
+.
+Secondary:
+Depression
+Atrial fibrillation
+Pruritis
+
+
+Discharge Condition:
+good. ambulating without assist. hematocrit stable. tolerating
+oral medication and nutrition.
+
+
+Discharge Instructions:
+You have been evaluated for a gastro-intestinal bleed.  The
+likely source(s) of the bleeding was (were) small abnormal blood
+vessels in your small bowel. Several attempts were made to treat
+the lesions directly, but these were beyond the reach of the
+enteroscopes.  As the bleeding stopped, you were restarted on
+your coumadin and discharged to home with close follow-up with
+your primary doctor.
+.
+You should have your blood counts checked regularly as described
+in the discharge medication section.  Also now that you are back
+on the coumadin, you will need regular monitoring of the dose to
+limit the risk of re-bleeding.
+.
+Please attend the recommended follow-up appointments as
+described below.
+.
+Please take the medications as prescribed. Your medications have
+changed since you originally entered the hospital.  Please take
+only those medications listed in the discharge paperwork.
+.
+If you develop any new or concerning symptoms particularly any
+signs of re-bleeding (bloody stools, dizziness, shortness of
+breath, or chest pain); seek medical attention immediately by
+calling 911. For at least a month, you should have your family
+members look at your  stools to make sure there is no blood.
+
+Followup Instructions:
+1: Primary Care Physician: Mcintyre. [**First Name8 (NamePattern2) 5802**] Mcintyre on Thursday, 2011-02-19 00:00:00 at 11am.  Please call test@mail.com with questions.
+.
+2: Cardiology: Dr. Abshir Mcintyre on Mcintyre, 2011-02-19 00:00:00 at
+11:45am.  Please call test@mail.com with questions.
+.
+3. Blood Test: Please go to UPMCE Hospital on Saturday, 2011-02-19 00:00:00 in the morning to get your blood drawn.
+
+
+

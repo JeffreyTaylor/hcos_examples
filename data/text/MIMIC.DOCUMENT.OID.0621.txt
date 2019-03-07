@@ -1,0 +1,123 @@
+Admission Date: 2010-05-30 00:00:00        Discharge Date: 2010-05-30 00:00:00
+
+Date of Birth: 1999-05-30 00:00:00 00:00:00        Sex:  M
+
+Service:  CSU
+
+
+ADMISSION ILLNESS:  The patient was admitted with mitral
+valve regurgitation and atrial fibrillation.  He is a 62-year-
+old patient of Dr. 123 Any St.es) **] with mitral valve disease referred for outpatient
+cardiac catheterization prior to valve surgery.
+
+HISTORY OF PRESENT ILLNESS:  This 62-year-old man has a
+history of mitral valve disease and paroxysmal atrial
+fibrillation.  His most recent echocardiogram is from
+2010-05-30 00:00:00 where the EF was noted at greater than 60 percent
+with mild LVH and a mildly dilated left ventricular cavity.
+There was moderate dilation of the left atrium.  The mitral
+valve leaflets were myxomatous and mildly thickened with
+moderate-to-severe mitral valve prolapse and 2 plus mitral
+regurgitation.  His most recent stress test was in 2010-05-30 00:00:00 and
+did not reveal any objective evidence of ischemia.
+
+He denies chest discomfort, shortness of breath, fatigue, or
+dizziness.  In terms of his atrial fibrillation, he reports
+that he has not had any episodes in several months.  He is
+referred not to be anticoagulated with Coumadin and is on
+daily aspirin therapy along with propafenone.
+
+Denies claudication, edema, orthopnea, PND, or
+lightheadedness.
+
+PAST MEDICAL HISTORY:  Mitral valve disease, PAF, history of
+remote prior DCCP, and also BPH; also decreased bone density,
+currently enrolled in a research trial at UPMCE; and mild arthritis.  His history is
+negative for TIA and negative for CVA, negative for melena or
+GI bleed.
+
+PAST SURGICAL HISTORY:  Tonsillectomy.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:  On admission,
+1. Aspirin 325 mg p.o. q.d.
+2. Moexipril 5 mg p.o. q.d.
+3. Proscar 15 mg p.o. q.d.
+4. Propafenone 150 mg p.o. t.i.d.
+5. Parathyroid hormone injection daily (UPMCE study).
+6. Tums.
+7. Vitamins.
+8. Glucosamine.
+
+
+PHYSICAL EXAMINATION:  On exam, he is a 62-year-old man, in
+no acute distress.  HEENT:  Pupils equal, round, and reactive
+to light; EOMI.  Neck and throat, benign.  Pulmonary:  Lungs
+are clear to auscultation bilaterally.  Cardiovascular:
+Regular rate and rhythm.  Abdomen:  Benign.  Extremities:
+Slight peripheral edema bilaterally.  Neurological: Alert and
+oriented x3.
+
+LABORATORY DATA:  His labs as of 2010-05-30 00:00:00, a CBC and a Chem-7
+within normal limits and INR of 1.1.
+
+HOSPITAL COURSE:  The patient was admitted on 2010-05-30 00:00:00 and
+went to the Operating Room on that day for a minimally
+invasive mitral valve replacement/maze/repair of the right
+femoral artery and placement of a 33 mm Mosaic Porcine mitral
+valve.  He underwent general anesthetic with endotracheal
+tube and did well on the surgery with minimal blood loss.  He
+also had pacer wires placed at this time.  The following day,
+he was weaned off Levophed in the evening.  He was alert and
+oriented.  His lungs were clear and his physical exam was
+benign.  He was transferred from the CSRU to the floor on
+2010-05-30 00:00:00.  While on the floor, he experienced atrial
+fibrillation and was started on heparin.  He was converted
+with the assistance of his pacer wires, but remained on the
+heparin and began Coumadin on 2010-05-30 00:00:00.  Pacer wires were
+removed on that day and he was discharged home with
+instructions for 2 days of Coumadin and an INR check on
+Monday.
+
+DISCHARGE CONDITION:  Good.
+
+DISCHARGE DIAGNOSES:
+1. Status post mitral valve replacement, maze, femoral artery
+   repair on 2010-05-30 00:00:00.
+2. Benign prostatic hypertrophy.
+3. Arthritis.
+4. Osteopenia.
+
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 mg tablet p.o. q.d.
+2. Pantoprazole sodium 40 mg tablet p.o. q.d.
+3. Finasteride 5 mg tablet 3 tablets p.o. q.d.
+4. Propafenone HCl 150 mg tablet p.o. t.i.d.
+5. Acetaminophen 325 mg tablet 2 tablets p.o. q.4 h. p.r.n.
+   pain.
+6. Oxycodone/acetaminophen 5/325 mg tablet 1 to 2 tablets
+   p.o. q.4 h. p.r.n. pain.
+7. Warfarin sodium 5 mg tablet p.o. q.d. for 2 doses.  Note,
+   blood test for INR Monday, 2010-05-30 00:00:00.
+8. Metoprolol tartrate 50 mg tablet p.o. b.i.d.
+9. Furosemide 40 mg tablet p.o. b.i.d. for 1 week.
+10.      Potassium chloride 20 mEq packet p.o. b.i.d. for 1
+   week.  Note, hold for potassium greater than 4.5.
+
+
+RECOMMENDED FOLLOWUP:  The patient is to follow up with Dr.
+Johnice Jenith Harajli Koy on 2010-05-30 00:00:00 at 04:15 p.m.; also to follow
+up with Dr. 123 Any St.es) **], and that appointment should be
+made in 1 month.
+
+
+
+                        123 Any St.es) **], M.D. 15481
+
+Dictated By:Jenith Harajli
+MEDQUIST36
+D:  2010-05-30 00:00:00 05:56:54
+T:  2010-05-30 00:00:00 06:50:14
+Job#:  15481
