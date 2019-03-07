@@ -65,7 +65,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "cwd": "${workspaceFolder}/python"
+            "cwd": "${workspaceFolder}/python/getting_started"
         },
     ]
 }
