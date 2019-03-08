@@ -2,7 +2,7 @@
 
 hcOS (“Healthcare Operating System”) is a web-based software platform under development at UPMC. Its purpose is to make it easy for app developers to build software solutions that access clinical data and clinical systems. Using hcOS, you can build a healthcare application, for clinicians or consumers or administrators, that reads and processes clinical data.  
 
-## hcOS Examnples
+## hcOS Examples
 
 hcOS Examples is a collection of code examples and documentation to help you get started using the APIs quickly. The examples are owned and maintained by the hcOS Developer Experience (DX) team.
 
