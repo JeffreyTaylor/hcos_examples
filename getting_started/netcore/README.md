@@ -1,6 +1,6 @@
 # hcOS Getting Started project C# .Net Core examples
 
-This collection of demos are written using .Net Core 2.2.104 and Visual Studio Code Editor.
+This collection of demos are written using .Net Core 2.2.104 and Visual Studio Code Editor. If you're new to Visual Studio Code you might want to look [here](VSCodeSetup.md).
 
 ## Required
 
