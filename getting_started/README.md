@@ -5,13 +5,13 @@
 
 In this Getting Started guide you will learn how to:
 
-* [Load hcOS API configurations](#LoadhcOSAPIconfigurations) for:
-  * [hcOS Search API Configuration](#hcOSSearchAPIConfiguration)
-  * [hcOS Document API Configuration](#hcOSDocumentAPIConfiguration)
-* [Create hcOS API requests](#CreatehcOSAPIrequests) to:
-  * [Create, Sign and Issue hcOS API Requests](#CreateSignhandIssuehOSAPIRequests):
-  * [Process hcOS Search Results](#ProcesshcOSSearchResults)
-  * [Retrieve hcOS Documents](#RetrievehcOSDocuments)
+* [Load hcOS API configurations](#load-hcos-api-configurations) for:
+  * [hcOS Search API Configuration](#hcos-search-api-configuration)
+  * [hcOS Document API Configuration](#hcos-document-api-configuration)
+* [Create hcOS API requests](#create-hcos-api-requests) to:
+  * [Create, Sign and Issue hcOS API Requests](#create-sign-and-issue-hcos-api-requests):
+  * [Process hcOS Search Results](#process-hcos-search-results)
+  * [Retrieve hcOS Documents](#retrieve-hcos-documents)
 
 The hcOS Search APIs are extremely powerful and support a wide variety [search use cases](../data/Searches.json). You can view the completed [GettingStarted.py](./python/GettingStarted.py) if you'd like to skip ahead to the end.
 
@@ -26,7 +26,7 @@ In order to access hcOS APIs your application needs 2 critical pieces of informa
 
 **Application Credentials** identify your application uniquely across all members of an hcOS tenant. Whereas **Tenant Credentials** limit the scope of your application access to a specific dataset within hcOS. The hcOS platform is a [multitenant cloud](https://searchcloudcomputing.techtarget.com/definition/multi-tenant-cloud) platform. Tenancy is usually determined by a business associates agreement between the data owner (e.g. provider or payor organization) and the data consumer (e.g. the applications running on the tenant).
 
-The way in which you sign hcOS API requests between the hcOS Search and hcOS Document APIs is slightly different with the main difference being the hcOS Document API uses an additional ```tenantSecret``` parameter. Both configurations and signing methods will be explained and fully functional sample code for signing API requests exist in this repository. The configuration files for [hcOS Search API](#hcOSSearchAPIConfiguration) and the [hcOS Document API](#hcOSDocumentAPIConfiguration) are shown next.
+The way in which you sign hcOS API requests between the hcOS Search and hcOS Document APIs is slightly different with the main difference being the hcOS Document API uses an additional ```tenantSecret``` parameter. Both configurations and signing methods will be explained and fully functional sample code for signing API requests exist in this repository. The configuration files for [hcOS Search API](#hcOSSearchAPIConfiguration) and the [hcOS Document API](#hcos-document-api-configuration) are shown next.
 
 ### hcOS Search API Configuration
 
