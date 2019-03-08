@@ -17,7 +17,7 @@ Member | Role
 [Nathan Lauffer](https://www.linkedin.com/in/nathanlauffer/) | Developer Advocate
 [Dan Gupton](https://www.linkedin.com/in/dan-gupton-3615b08a/) | Product Management
 
-## Samples
+## Sample Apps
 
 ### [Getting Started](./getting_started)
 
@@ -27,7 +27,7 @@ The [Getting Started](./getting_started) guide is the quickest and easiest way t
 
 The Patient Viewer (Coming soon...) guide will show you how to retieve and display all hcOS data elements for a single patient. This guide will be useful for building patient centric applications. 
 
-## Data
+## Sample Data
 
 [PatientDocument.bulk.json](./data/PatientDocument.bulk.json) containing 1000 Mimic PatientDocuments has been provided.
 
