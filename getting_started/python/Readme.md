@@ -12,4 +12,4 @@ $ pip install -r requirements.txt
 
 ## Getting Started Example
 
-The [Getting Started](../GettingStarted.md) demo demonstrates how to issue queries to hcOS's search engine and retrieve clinical documents with associated Natural Language Processed (NLP) annotations.
+The [Getting Started](../README.md) demo demonstrates how to issue queries to hcOS's search engine and retrieve clinical documents with associated Natural Language Processed (NLP) annotations.
