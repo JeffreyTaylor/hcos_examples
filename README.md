@@ -42,10 +42,10 @@ Tools                             | Notes
 
 ## Data
 
-A file (./data/PatientDocument.bulk.json) containint 1000 Mimic PatientDocuments has been provided.
+[PatientDocument.bulk.json](./data/PatientDocument.bulk.json) containing 1000 Mimic PatientDocuments has been provided.
 
-A data folder (./data/text) been provided with extracted MIMIC text reports.  This should help you create search queries of your own to test hcOS search capabilities against our MIMIC tenant.
+A [folder](./data/text) been provided with extracted MIMIC text reports.  This should help you create search queries of your own to test hcOS search capabilities against our MIMIC tenant.
 
-## Samples by language
+## Samples
 
-### [C# NetCore examples](./netcore)
+### [Getting Started](./getting_started)

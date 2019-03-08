@@ -8,10 +8,10 @@
             "name": ".NET Core Launch (Getting Started)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build hcos.getting_started",
-            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "preLaunchTask": "build netcore",
+            "program": "${workspaceFolder}/getting_started/netcore/bin/Debug/netcoreapp2.2/netcore.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "cwd": "${workspaceFolder}/getting_started/netcore",
             "stopAtEntry": false,
             "console": "internalConsole"
         },
@@ -19,10 +19,10 @@
             "name": ".NET Core Launch (Documents)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build hcos.getting_started",
-            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "preLaunchTask": "build netcore",
+            "program": "${workspaceFolder}/getting_started/netcore/bin/Debug/netcoreapp2.2/netcore.dll",
             "args": ["documents_demo"],
-            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "cwd": "${workspaceFolder}/getting_started/netcore",
             "stopAtEntry": false,
             "console": "internalConsole"
         },
@@ -30,10 +30,10 @@
             "name": ".NET Core Launch (Documents+Ingestion)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build hcos.getting_started",
-            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "preLaunchTask": "build netcore",
+            "program": "${workspaceFolder}/getting_started/netcore/bin/Debug/netcoreapp2.2/netcore.dll",
             "args": ["documents_ingestion_demo"],
-            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "cwd": "${workspaceFolder}/getting_started/netcore",
             "stopAtEntry": false,
             "console": "internalConsole"
         },
@@ -41,10 +41,10 @@
             "name": ".NET Core Launch (Searching)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build hcos.getting_started",
-            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "preLaunchTask": "build netcore",
+            "program": "${workspaceFolder}/getting_started/netcore/bin/Debug/netcoreapp2.2/netcore.dll",
             "args": ["searching_demo"],
-            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "cwd": "${workspaceFolder}/getting_started/netcore",
             "stopAtEntry": false,
             "console": "internalConsole"
         },
@@ -52,10 +52,10 @@
             "name": ".NET Core Launch (Searching+Documents)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build hcos.getting_started",
-            "program": "${workspaceFolder}/netcore/hcos.getting_started/bin/Debug/netcoreapp2.2/hcos.getting_started.dll",
+            "preLaunchTask": "build netcore",
+            "program": "${workspaceFolder}/getting_started/netcore/bin/Debug/netcoreapp2.2/netcore.dll",
             "args": ["searching_documents_demo"],
-            "cwd": "${workspaceFolder}/netcore/hcos.getting_started",
+            "cwd": "${workspaceFolder}/getting_started/netcore",
             "stopAtEntry": false,
             "console": "internalConsole"
         },
@@ -65,7 +65,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "cwd": "${workspaceFolder}/python/getting_started"
+            "cwd": "${workspaceFolder}/getting_started/python"
         },
     ]
 }
