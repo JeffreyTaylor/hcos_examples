@@ -135,7 +135,7 @@ search_headers = {
 }
 ```
 
-The hcOS Search API supports a wide range of free text and structured query parameters. Some examples can be found [here](../../data/Searches.json). Here, we'll take a single query from the collection to use as an example. This query searches over 200 million clinical documents for the literal text 'ulcerative colitis'.
+The hcOS Search API supports a wide range of free text and structured query parameters. Some examples can be found [here](../../data/Searches.json). Here, we'll take a single query from the collection to use as an example. This query searches over all clinical documents within your hcOS tenant for the literal text 'ulcerative colitis'.
 
 ```python
 query = { "criterion": "literal='ulcerative colitis'" }
