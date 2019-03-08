@@ -26,7 +26,7 @@ In order to access hcOS APIs your application needs 2 critical pieces of informa
 
 **Application Credentials** identify your application uniquely across all members of an hcOS tenant. Whereas **Tenant Credentials** limit the scope of your application access to a specific dataset within hcOS. The hcOS platform is a [multitenant cloud](https://searchcloudcomputing.techtarget.com/definition/multi-tenant-cloud) platform. Tenancy is usually determined by a business associates agreement between the data owner (e.g. provider or payor organization) and the data consumer (e.g. the applications running on the tenant).
 
-The way in which you sign hcOS API requests between the hcOS Search and hcOS Document APIs is slightly different with the main difference being the hcOS Document API uses an additional ```tenantSecret``` parameter. Both configurations and signing methods will be explained and fully functional sample code for signing API requests exist in this repository. The configuration files for [hcOS Search API](#hcOSSearchAPIConfiguration) and the [hcOS Document API](#hcos-document-api-configuration) are shown next.
+The way in which you sign hcOS API requests between the hcOS Search and hcOS Document APIs is slightly different with the main difference being the hcOS Document API uses an additional ```tenantSecret``` parameter. Both configurations and signing methods will be explained and fully functional sample code for signing API requests exist in this repository. The configuration files for [hcOS Search API](#hcos-search-api-configuration) and the [hcOS Document API](#hcos-document-api-configuration) are shown next.
 
 ### hcOS Search API Configuration
 
